@@ -12,7 +12,7 @@ Les repas sont à ta charge. Heureusement, à Ségur, siège de l'incubateur, le
 
 #### Transport
 
-La DINSIC prend en charge la moitié du tarif de ton abonnement transport, Navigo ou Vélib par exemple. Veille à conserver un justificatif de paiement.
+La DINUM prend en charge la moitié du tarif de ton abonnement transport, Navigo ou Vélib par exemple. Veille à conserver un justificatif de paiement.
 
 #### Congés
 
@@ -20,7 +20,7 @@ Tu as droit à 2,5 jours de congés par mois, que tu poses sur l'interface e.Tem
 
 #### Mission
 
-Si tu dois partir en mission avec l'incubateur, sache que la DINSIC ne te remboursera pas les frais engagés. A ta charge donc, billets de train, repas et déplacements sur place.
+Si tu dois partir en mission avec l'incubateur, sache que la DINUM ne te remboursera pas les frais engagés. A ta charge donc, billets de train, repas et déplacements sur place.
 
 #### Inspiring
 

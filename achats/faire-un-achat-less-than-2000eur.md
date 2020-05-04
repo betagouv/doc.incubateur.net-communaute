@@ -58,7 +58,7 @@ Envoyer les éléments suivants au secrétariat :
 
 #### Montants supérieurs à 100 K€
 
-Pour les montants supérieurs à 100 K€ \(achats de prestation en général\), présenter une fiche d'engagement au comité d'engagement de la DINSIC, préalablement au début des travaux.
+Pour les montants supérieurs à 100 K€ \(achats de prestation en général\), présenter une fiche d'engagement au comité d'engagement de la DINUM, préalablement au début des travaux.
 
 **Achat de prestations**
 
@@ -66,22 +66,22 @@ De façon générale, mettre l'adresse `compta` en copie de tous les mails conte
 
 * Passer commande au prestataire en demandant un devis
 * A réception du devis, vérifier sa cohérence avec la demande et le support d'achat \(marché\)
-* Soumettre le devis validé au circuit de signature DINSIC \(en principe, le prestataire reçoit un bon de commande sous 15 jours après dernière étape\)
+* Soumettre le devis validé au circuit de signature DINUM \(en principe, le prestataire reçoit un bon de commande sous 15 jours après dernière étape\)
 * Enregistrer le devis dans le tableau de suivi
 * Ajouter le devis au format PDF au dossier partagé
 * Noter la prochaine date de facturation \(effectuer un suivi régulier\)
-* A la date de fin du bon de commande, demander au prestataire un service fait \(reprenant ses principales réalisations\)
+* A la date de fin du bon de commande, demander au prestataire un service fait \(reprenant ses principales réalisations\)DINSIC
 * Enregistrer le service fait et le PV de livraison au tableau de suivi et ajouter au dossier partagé
-* Envoyer le service fait et le PV de livraison au circuit de signature DINSIC pour activer le processus de paiement
-* Signaler au prestataire le service fait, il pourra ainsi émettre la facture \(le PV de service fait est pendant ce temps transmis au prestataire par la DINSIC\)
+* Envoyer le service fait et le PV de livraison au circuit de signature DINUM pour activer le processus de paiement
+* Signaler au prestataire le service fait, il pourra ainsi émettre la facture \(le PV de service fait est pendant ce temps transmis au prestataire par la DINUM\)
 
 ### Lorsque c'est trop compliqué : la carte bleue
 
-La carte bleu permet d'acheté des services innovants pour un montant maximum de 2000 TTC par transaction et 25 000 € HT. Vous ne pouvez pas acheter d'abonnement, vous devez sélectionner les offres pré-payé. Vous devez justifier que le service acheté n'est pas en concurrence avec un marché publique de la DINSIC.
+La carte bleu permet d'acheté des services innovants pour un montant maximum de 2000 TTC par transaction et 25 000 € HT. Vous ne pouvez pas acheter d'abonnement, vous devez sélectionner les offres pré-payé. Vous devez justifier que le service acheté n'est pas en concurrence avec un marché publique de la DINUM.
 
 Pour plus de détails, contactez : [:speech\_balloon:`#incubateur-compta`](https://startups-detat.slack.com/messages/incubateur-compta/)
 
 ### Livraison de colis
 
-Si vous voulez faire livrer à Ségur: DINSIC - Beta.gouv.fr - Bureau 5.515 / 5 avenue de saxe / 75007 - Paris \(vous pouvez adapter le numéro du bureau\). Sinon il suffit de passer au service Colis \(au RDC, au lieu de prendre l'ascenseur A: continuer dans le couloir jusqu'au niveau de la porte extérieur, il y a des petits escaliers juste avant, c'est le dernier bureau sur la droite\)
+Si vous voulez faire livrer à Ségur: DINUM - Beta.gouv.fr - Bureau 5.515 / 5 avenue de saxe / 75007 - Paris \(vous pouvez adapter le numéro du bureau\). Sinon il suffit de passer au service Colis \(au RDC, au lieu de prendre l'ascenseur A: continuer dans le couloir jusqu'au niveau de la porte extérieur, il y a des petits escaliers juste avant, c'est le dernier bureau sur la droite\)
 

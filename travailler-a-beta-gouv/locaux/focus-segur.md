@@ -4,7 +4,7 @@ L'appartenance à la communauté `beta.gouv.fr` t'ouvre l'accès à [deux locaux
 
 ### Ségur
 
-Environ 36 places dans le QG de la DINSIC, [20 avenue de Ségur, Paris 7e](http://www.openstreetmap.org/search?query=20%20avenue%20de%20s%C3%A9gur#map=19/48.85050/2.30844).
+Environ 36 places dans le QG de la DINUM, [20 avenue de Ségur, Paris 7e](http://www.openstreetmap.org/search?query=20%20avenue%20de%20s%C3%A9gur#map=19/48.85050/2.30844).
 
 Ouvert du lundi au vendredi au moins de 7 h à 22 h.
 
@@ -20,7 +20,7 @@ Le local de l'incubateur est au 5e étage, salles 5.511 et 5.515, accessible par
 
 1. Munissez-vous d'une pièce d'identité.
 2. Rendez-vous au 20 avenue de Ségur, Paris 7 \(métro Ségur, Cambronne, Ecole Militaire ou St-François-Xavier\)
-3. À l'accueil, indiquez que vous avez rendez-vous avec l'Incubateur de services numériques de la DINSIC, en indiquant bien le nom de la personne que vous venez voir.
+3. À l'accueil, indiquez que vous avez rendez-vous avec l'Incubateur de services numériques de la DINUM, en indiquant bien le nom de la personne que vous venez voir.
 4. L'accueil va nous appeler et vous délivrer un badge pendant que votre contact vient vous accueillir.
 
 Il est préférable que vous ayez le numéro de téléphone de votre contact pour le ou la joindre directement en cas de difficulté.
@@ -43,7 +43,7 @@ Il convient de fournir à l’opérateur du CAS les indications suivantes :
 * Nom et n° de téléphone de l’interlocuteur
 * Besoin logistique, \(micro, projection...\)
 
-S'il y a des besoins en termes de restauration, toutes les demandes doivent être centralisées et obligatoirement validées par le pôle des affaires générales de la DINSIC : affairesgenerales.dinsic@modernisation.gouv.fr - interlocutrice Jany COSTA cheffe de pôle.
+S'il y a des besoins en termes de restauration, toutes les demandes doivent être centralisées et obligatoirement validées par le pôle des affaires générales de la DINUM : affairesgenerales.dinum@modernisation.gouv.fr - interlocutrice Jany COSTA cheffe de pôle.
 
 Voici un [tableur](https://docs.google.com/spreadsheets/d/1clhuKFQULwY20SAdFeduRGPlqWtfvpR4mROdnkgIfHc/edit?usp=sharing) reprenant les principaux éléments qu'il est possible de demander ainsi qu'une estimation des coûts.
 
