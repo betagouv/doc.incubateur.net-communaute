@@ -1,4 +1,4 @@
-# Lettres d'information 💌
+# 💌 Lettres d'information
 
 Tous les quinze jours, on envoie la newsletter "Actualités des Startups d’État", généralement le vendredi matin qui suit le standup. Jusqu'à présent, ça s'est passé les semaines **où il n'y a pas** séminaire.
 

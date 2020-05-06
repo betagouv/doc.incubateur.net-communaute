@@ -1,2 +1,2 @@
-# Midi 🍴 et soir ☕
+# 🍴 Midi et ☕soir
 

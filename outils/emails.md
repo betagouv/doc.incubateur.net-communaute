@@ -1,4 +1,4 @@
-# Emails 📧
+# 📧 Emails
 
 Avant de commencer les procédure ci-dessous, assurez vous d'avoir :
 

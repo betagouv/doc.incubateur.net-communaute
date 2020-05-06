@@ -1,4 +1,4 @@
-# Slack 🗣
+# 🗣 Slack
 
 L'incubateur utilise [Slack](http://startups-detat.slack.com/) comme service de messagerie instantanée.
 

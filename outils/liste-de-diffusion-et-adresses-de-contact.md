@@ -1,4 +1,4 @@
-# Liste de diffusion 📰
+# 📰 Liste de diffusion
 
 Les mailing-lists suivantes sont disponibles. Toutes les adresses sont à postfixer de `@beta.gouv.fr`.
 

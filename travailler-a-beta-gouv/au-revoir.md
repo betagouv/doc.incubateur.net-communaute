@@ -2,7 +2,7 @@
 description: "Tu nous quittes ? On espère que tu as passé un moment positif avec nous ! \U0001F63A"
 ---
 
-# Au revoir 🙋
+# 🙋 Au revoir
 
 ### Checklist de départ
 

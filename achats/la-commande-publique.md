@@ -1,4 +1,4 @@
-# La commande publique 📜
+# 📜 La commande publique
 
 ### Gestion publique 101 : Engager et dépenser :
 
