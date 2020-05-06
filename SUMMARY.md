@@ -7,7 +7,6 @@
 * [Bienvenue 👋](travailler-a-beta-gouv/bienvenue/README.md)
   * [Présenter beta.gouv.fr](travailler-a-beta-gouv/bienvenue/presenter-de-beta.gouv.fr.md)
   * [Notre charte](travailler-a-beta-gouv/bienvenue/charte.md)
-  * [Pour aller plus loin](travailler-a-beta-gouv/bienvenue/pour-aller-plus-loin.md)
 * [Embarquement 🛫](travailler-a-beta-gouv/embarquement/README.md)
   * [To do d'arrivée](travailler-a-beta-gouv/embarquement/to-do-darrivee.md)
   * [Marainnage](travailler-a-beta-gouv/embarquement/marainnage.md)
@@ -38,7 +37,6 @@
   * [Revue d’avancement du mercredi \(Stand-up\)](animation/nos-rituels/revue-davancement-du-mercredi-stand-up.md)
   * [Séminaire](animation/nos-rituels/seminaire.md)
   * [Grand séminaire](animation/nos-rituels/grand-seminaire-1.md)
-  * [Rencontres thématiques \(Meetup\)](animation/nos-rituels/rencontres-thematiques-meetup.md)
   * [Mardi démo](animation/nos-rituels/mardi-demo.md)
   * [L'assemblée générale](animation/nos-rituels/grand-seminaire.md)
 * [Retours d’expérience 👌](animation/retours-dexperience.md)
@@ -48,8 +46,6 @@
 
 ## 💶 Finances
 
-* [Budget de l’incubateur 💰](finances/budget-de-lincubateur.md)
-* [Indicateurs de performance 📈](finances/indicateurs-fixes-par-le-parlement.md)
 * [Le Fond d’accélération des Start-ups 💸](finances/le-fond-dacceleration-des-start-ups-fast.md)
 
 ## 🛒 Achats
@@ -58,7 +54,6 @@
 * [Les marchés publics 📑](achats/les-marches-publics-de-beta.gouv.fr/README.md)
   * [Tourniquet développement](achats/les-marches-publics-de-beta.gouv.fr/tourniquet-developpement/README.md)
     * [Codeurs en liberté](achats/les-marches-publics-de-beta.gouv.fr/tourniquet-developpement/codeurs-en-liberte.md)
-  * [Tourniquet coaching](achats/les-marches-publics-de-beta.gouv.fr/tourniquet-coaching.md)
 * [Faire un achat &lt; 2000€ 💳](achats/faire-un-achat-less-than-2000eur.md)
 
 ## 🔧 Outils

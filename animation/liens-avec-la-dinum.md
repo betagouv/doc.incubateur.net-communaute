@@ -1,6 +1,8 @@
 # Liens avec la Dinum 🔗
 
-## CODIR
+## A l'incubateur des services numériques
+
+### CODIR
 
 _Comité de direction_
 
@@ -29,7 +31,7 @@ Attention, la réunion est très politique. Quelques conseils :
 * Ne pas s'engager au nom de l'Incubateur sans avoir préalablement discuté le sujet en interne.
 * S'assurer d'avoir de la batterie et un accès internet mobile, pour rester connecté par messagerie.
 
-## CSIC T
+### CSIC T
 
 Réunion des DSI de tous les ministères. Opportunité de faire passer des messages qui peuvent diffuser dans plusieurs administrations par le côté technique.
 
