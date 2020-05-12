@@ -29,6 +29,8 @@
 * [🍴 Midi et ☕soir](travailler-a-beta-gouv/midi-et-soir/README.md)
   * [Où manger près de Ségur ?](travailler-a-beta-gouv/midi-et-soir/ou-manger-pres-de-segur.md)
   * [Où aller boire un verre près de Segur ?](travailler-a-beta-gouv/midi-et-soir/ou-aller-boire-un-verre-pres-de-segur.md)
+* [🎓 Se former](travailler-a-beta-gouv/se-former/README.md)
+  * [Certification des intrapreneurs](travailler-a-beta-gouv/se-former/certification-des-intrapreneurs.md)
 * [🙋 Au revoir](travailler-a-beta-gouv/au-revoir.md)
 
 ## 🙌 Animation
