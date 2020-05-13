@@ -2,7 +2,8 @@
 
 ## Pourquoi contribuer ?
 
-Vous souhaitez créer une nouvelle page ? Vous souhaitez mettre à jour ou corriger du contenu sur ce guide ?
+* Vous souhaitez créer une nouvelle page ? 
+* Vous souhaitez mettre à jour ou corriger du contenu sur ce guide ?
 
 ## Comment devenir contributeur ? 
 
