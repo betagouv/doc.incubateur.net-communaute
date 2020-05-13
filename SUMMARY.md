@@ -2,6 +2,11 @@
 
 * [Guide pour la communauté](README.md)
 
+## ✍ Contribuer
+
+* [Comment faire ?](contribuer/comment-contribuer-a-cette-documentation.md)
+* [Recommandations](contribuer/recommandations.md)
+
 ## 👷 Travailler à Beta Gouv
 
 * [👋 Bienvenue](travailler-a-beta-gouv/bienvenue/README.md)
@@ -70,9 +75,4 @@
 * [📰 Liste de diffusion](outils/liste-de-diffusion-et-adresses-de-contact.md)
 * [™ Logo](outils/logo.md)
 * [✅ Trello](outils/trello.md)
-
-## ✍ Contribuer
-
-* [Comment faire ?](contribuer/comment-contribuer-a-cette-documentation.md)
-* [Recommandations](contribuer/recommandations.md)
 
