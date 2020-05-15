@@ -1,6 +1,6 @@
 # Guide pour la communauté
 
-## Bienvenue sur la documentation Beta Gouv !
+## Bienvenue sur la documentation de l'incubateur de la DINUM !
 
 Elle documente ce que les membres des Startups d'État ont appris.
 
