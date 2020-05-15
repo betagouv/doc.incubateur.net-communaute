@@ -10,7 +10,7 @@ Nous avons réunis des éléments de charte graphique communs, particulièrement
 
 [Code source](https://github.com/etalab/template.data.gouv.fr) - [Exemple](https://etalab.github.io/template.data.gouv.fr/)
 
-#### Logo « éprouvette » de l'Incubateur
+#### Logo « éprouvette » de la communauté beta.gouv.fr
 
 Version A3 du nouveau logo
 

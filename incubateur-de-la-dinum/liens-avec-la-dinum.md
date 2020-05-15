@@ -1,4 +1,4 @@
-# 🔗 Liens avec la Dinum
+# 🔗 Liens avec la DINUM
 
 ## A l'incubateur des services numériques
 
