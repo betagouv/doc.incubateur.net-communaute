@@ -76,3 +76,8 @@
 * [™ Logo](outils/logo.md)
 * [✅ Trello](outils/trello.md)
 
+## AIDE TRANSVERSE
+
+* [Contexte](contexte.md)
+* [Accompagnement Produit \(PO\)](methodologie-produit.md)
+

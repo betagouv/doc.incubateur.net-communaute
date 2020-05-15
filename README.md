@@ -4,7 +4,7 @@
 
 Elle documente ce que les membres des Startups d'État ont appris.
 
-Il s'agit d'un recueil de consensus, en perpétuelle évolution au gré des apprentissages et des mouvements de personnes au sein de l'Incubateur.
+Il s'agit d'un recueil de consensus, en perpétuelle évolution au gré des apprentissages et des mouvements de personnes au sein de la communauté.
 
 ## Tu viens de nous rejoindre ?
 
