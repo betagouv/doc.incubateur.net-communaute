@@ -83,4 +83,6 @@
 
 * [Contexte](contexte.md)
 * [Accompagnement Produit \(PO\)](methodologie-produit.md)
+* [Growth Hacking / Acquisition](growth-hacking-acquisition.md)
+* [Mise en conformité RGPD et Conseil juridique](mise-en-conformite-rgpd-et-conseil-juridique.md)
 
