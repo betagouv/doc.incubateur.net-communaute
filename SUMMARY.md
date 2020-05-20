@@ -21,6 +21,9 @@
   * [Entretiens de recrutement](travailler-a-beta-gouv/recrutement/entretiens-de-recrutement.md)
   * [Stages](travailler-a-beta-gouv/recrutement/stages.md)
   * [Rémunération](travailler-a-beta-gouv/recrutement/remuneration.md)
+* [🎓 Se former](travailler-a-beta-gouv/se-former/README.md)
+  * [Certification des intrapreneurs](travailler-a-beta-gouv/se-former/certification-des-intrapreneurs.md)
+  * [Groupe de co-développement professionnel](travailler-a-beta-gouv/se-former/groupe-de-co-developpement-professionnel.md)
 * [🙋 Au revoir](travailler-a-beta-gouv/au-revoir.md)
 
 ## 🙌 Animation
@@ -74,9 +77,6 @@
 * [🍴 Midi et ☕soir](incubateur-de-la-dinum/midi-et-soir/README.md)
   * [Où manger près de Ségur ?](incubateur-de-la-dinum/midi-et-soir/ou-manger-pres-de-segur.md)
   * [Où aller boire un verre près de Segur ?](incubateur-de-la-dinum/midi-et-soir/ou-aller-boire-un-verre-pres-de-segur.md)
-* [🎓 Se former](incubateur-de-la-dinum/se-former/README.md)
-  * [Certification des intrapreneurs](incubateur-de-la-dinum/se-former/certification-des-intrapreneurs.md)
-  * [Groupe de co-développement professionnel](incubateur-de-la-dinum/se-former/groupe-de-co-developpement-professionnel.md)
 * [🔗 Liens avec la DINUM](incubateur-de-la-dinum/liens-avec-la-dinum.md)
 
 ## AIDE TRANSVERSE
