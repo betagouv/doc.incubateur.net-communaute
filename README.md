@@ -1,3 +1,7 @@
+---
+description: "\U0001F9ED Toutes les ressources pour aider les membres de la communauté à s'y retrouver dans l'organisation beta.gouv.fr."
+---
+
 # Guide pour la communauté
 
 ## Bienvenue sur la documentation Beta Gouv !
