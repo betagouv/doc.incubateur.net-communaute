@@ -77,6 +77,7 @@
 * [🍴 Midi et ☕soir](incubateur-de-la-dinum/midi-et-soir/README.md)
   * [Où manger près de Ségur ?](incubateur-de-la-dinum/midi-et-soir/ou-manger-pres-de-segur.md)
   * [Où aller boire un verre près de Segur ?](incubateur-de-la-dinum/midi-et-soir/ou-aller-boire-un-verre-pres-de-segur.md)
+* [👨🏽 Contractuels DINUM](incubateur-de-la-dinum/contractuels-dinum.md)
 * [🔗 Liens avec la DINUM](incubateur-de-la-dinum/liens-avec-la-dinum.md)
 
 ## AIDE TRANSVERSE
