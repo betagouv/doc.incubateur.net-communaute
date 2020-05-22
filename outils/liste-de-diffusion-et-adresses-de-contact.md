@@ -4,11 +4,11 @@ Les mailing-lists suivantes sont disponibles. Toutes les adresses sont à postfi
 
 | Adresse | Objet | Destinataires | Expéditeurs attendus |
 | :--- | :--- | :--- | :--- |
-| `contact` | Toutes demandes entrantes. Stratégie. | Membres volontaires. | Prospects. Membres. Hiérarchie DINSIC. |
-| `compta` | Achats, facturation, refacturation… | Membres volontaires. | Prestataires. Interlocuteurs DINSIC. Administrations partenaires. |
+| `contact` | Toutes demandes entrantes. Stratégie. | Membres volontaires. | Prospects. Membres. Hiérarchie DINUM. |
+| `compta` | Achats, facturation, refacturation… | Membres volontaires. | Prestataires. Interlocuteurs DINUM. Administrations partenaires. |
 | `incubateur` |  | Tous les [membres actifs](https://beta.gouv.fr/communaute). | Membres. Secrétariat. |
 | `recrutement` | Candidatures. | Membres volontaires. | Candidats. Secrétariat. |
-| `dinum` | Rares éléments administratifs nécessitant un lien contractuel \(fiches de paie, gestion des ordres de mission…\). | Membres agents de la DINUM. | Secrétariat. Hiérarchie DINUM. |
+| `dinsic` | Rares éléments administratifs nécessitant un lien contractuel \(fiches de paie, gestion des ordres de mission…\). | Membres agents de la DINUM. | Secrétariat. Hiérarchie DINUM. |
 | `alumni` | Nouvelles de l'incubateur, possibilités de retrouvailles. | Ancien·ne·s membres n'ayant plus de relation contractuelle. | Membres. |
 | `coachs` | Discussions, tips, infos sur le coaching de Startups d'Etat | Membres volontaires. | Les membres de la NL. |
 | `onboarding` | Embarquement des nouvelles et des nouveaux | Membres volontaires. | Marrains. Parraines. |

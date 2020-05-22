@@ -57,11 +57,11 @@
 * [™ Logo](outils/logo.md)
 * [✅ Trello](outils/trello.md)
 
-## Nos services à destinations...
+## Nos services à destination...
 
-* [des opérateurs de l’État](nos-services-a-destinations.../des-operateurs-de-letat.md)
-* [des administrations territoriales](nos-services-a-destinations.../des-administrations-territoriales.md)
-* [des entreprises](nos-services-a-destinations.../des-entreprises.md)
+* [des opérateurs de l’État](nos-services-a-destination.../des-operateurs-de-letat.md)
+* [des administrations territoriales](nos-services-a-destination.../des-administrations-territoriales.md)
+* [des entreprises](nos-services-a-destination.../des-entreprises.md)
 
 ## 🥇 Incubateur de la DINUM
 
