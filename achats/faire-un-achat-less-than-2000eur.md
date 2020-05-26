@@ -9,7 +9,7 @@ Vous souhaitez effectuer une demande d'achat ? Voici quelques points clefs.
 Pour le savoir, il faut :
 
 * D'abord définir le service attendu en quelques phrases.  
-* Demander ensuite s'il existe un marché public pour ce service sur le channel [:speech\_balloon:`#incubateur-compta`](https://startups-detat.slack.com/messages/incubateur-compta/).  
+* Demander ensuite s'il existe un marché public pour ce service sur le channel [`#incubateur-compta`](https://startups-detat.slack.com/messages/incubateur-compta/).  
 
 Si c'est le cas, seules les sociétés attributaires du marché pourront réaliser la prestation et cela quelqu'en soit le montant.
 
@@ -81,7 +81,7 @@ De façon générale, mettre l'adresse `compta` en copie de tous les mails conte
 
 La carte bleu permet d'acheté des services innovants pour un montant maximum de 2000 TTC par transaction et 25 000 € HT. Vous ne pouvez pas acheter d'abonnement, vous devez sélectionner les offres pré-payé. Vous devez justifier que le service acheté n'est pas en concurrence avec un marché publique de la DINUM.
 
-Pour plus de détails, contactez : [:speech\_balloon:`#incubateur-compta`](https://startups-detat.slack.com/messages/incubateur-compta/)
+Pour plus de détails, contactez : [`#incubateur-compta`](https://startups-detat.slack.com/messages/incubateur-compta/)
 
 ### Livraison de colis
 

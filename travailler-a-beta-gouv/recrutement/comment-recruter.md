@@ -6,7 +6,7 @@
 * **Les attributaires des marchés publics** peuvent répondre à vos besoins de recrutement. Contacter OCTO Technology, Arolla et La Zone pour vos besoins de recrutement.
 * **Twitter** est un excellent relais pour diffuser l'annonce, n'hésitez pas à tweeter avec le compte de la startup ou le compte BetaGouv; dans le premier cas le RT avec le compte BetaGouv est recommandé, ainsi bien sûr qu'avec le compte personnel
 
-En cas de réponse favorable, voir ensuite **\[Entretien d'embauche\]\(**[https://github.com/sgmap/beta.gouv.fr/wiki/Entretien-d'embauche](https://github.com/sgmap/beta.gouv.fr/wiki/Entretien-d'embauche)**\)**
+En cas de réponse favorable, voir ensuite **\[**[**Entretien d'embauche**](entretiens-de-recrutement.md)**\].**
 
 **Attention**, pour le recrutement sous le statut de salarié DINSIC \(contractuel, vacataire, stagiaire\), des procédures administratives sont à prévoir et encadrent notamment les démarches d'entretien: grille d'évaluation, compte-rendu d'entretien, dossier de recrutement…
 

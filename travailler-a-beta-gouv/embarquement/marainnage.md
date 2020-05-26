@@ -26,11 +26,11 @@ En tant que marrain, tu t'engages à :
 ## Checklist du Marrain :
 
 * [ ] Tu as envoyé un mail de bienvenue et reservé une demi journée pour onboarder la nouvelle recrue
-* [ ] Tu as demandé à ton·ta filleul·e de lire le [Wiki](https://github.com/betagouv/beta.gouv.fr/wiki/)
+* [ ] Tu as demandé à ton·ta filleul·e de lire le [Wiki](../bienvenue/)
 * [ ] _\(Optionnel\) Ton·ta filleul·e a un compte Github sur lequelle il·elle a activé l'_[_authentification double facteur_](https://github.com/settings/security)
 * [ ] _\(Optionnel\) Tu as ajouté ton·ta filleul·e à l'organisation_ [_betagouv_](https://github.com/orgs/betagouv/teams) _et à la team_ [_beta.gouv.fr_](https://github.com/orgs/betagouv/teams/beta-gouv-fr)
 * [ ] Ton·ta filleul·e a une fiche sur [https://beta.gouv.fr/communaute/](https://beta.gouv.fr/communaute/). \([Instructions pour créer une fiche sur beta.gouv.fr/communaute](https://github.com/betagouv/beta.gouv.fr/blob/master/CONTRIBUTING.md#ajouter-ou-modifier-un-membre-%C3%A0-la-communaut%C3%A9-betagouv)\)
-* [ ] Tu as créé une adresse email pour ton·ta filleul·e [Créer un compte email](https://github.com/betagouv/beta.gouv.fr/wiki/Bienvenue#compte-email)
+* [ ] Tu as créé une adresse email pour ton·ta filleul·e \([Créer un compte email](../../outils/emails.md)\)
 * [ ] Ton·ta filleul·e est sur le [Slack avec son adresse @beta.gouv.fr](https://startups-detat.slack.com/signup) et s'est présenté·e sur \#general
 * [ ] Tu as invité ton·ta filleul·e à un standup
 * [ ] Si besoin tu as fait une demande de badge pour accéder à nos locaux \(La procédure pour Ségur est disponible sur le channel \#bureau-segur dans les fichiers partagés\)

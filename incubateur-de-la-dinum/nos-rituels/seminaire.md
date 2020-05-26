@@ -4,7 +4,7 @@ L’incubateur, en tant qu’organisation, est un produit vivant construit par s
 
 > _Je suis très fier de l’Incubateur_ ~ _Rousseau_
 
-\[\[illustrations/seminaire.jpg\]\]
+![](../../.gitbook/assets/image%20%281%29.png)
 
 ### Horaire et lieu
 

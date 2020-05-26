@@ -4,7 +4,7 @@ L’incubateur, en tant qu’organisation, est un produit vivant construit par s
 
 Les personnes extérieures qui souhaitent nous découvrir sont les bienvenues, à l'invitation d'une équipe ou du collectif.
 
-\[\[illustrations/standup.jpg\]\]
+![](../../.gitbook/assets/image.png)
 
 ### Horaire et lieu
 

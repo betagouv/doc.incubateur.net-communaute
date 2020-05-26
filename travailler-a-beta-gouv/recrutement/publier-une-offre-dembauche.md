@@ -6,5 +6,5 @@ Une fois que tu auras préparé le texte de ton offre, mis en forme au format ma
 
 Une fois que l'offre aura été pourvue, penses à fermer l'offre.
 
-Tu peux également consulter le guide au recrutement beta.gouv.fr ici: [https://github.com/betagouv/beta.gouv.fr/wiki/Recrutement](https://github.com/betagouv/beta.gouv.fr/wiki/Recrutement)
+Tu peux également consulter le [guide au recrutement ](comment-recruter.md)beta.gouv.fr.
 

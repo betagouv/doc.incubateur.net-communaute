@@ -1,7 +1,5 @@
 # Entretiens de recrutement
 
-
-
 L'objectif est qu'on se rencontre, pas de stress ! 
 
 Tutoiement bienvenu, dress code : comme tu viendrais si tu étais déjà pris·e. En fait, dans l'idéal, ce qu'on aimerait c'est voir en deux heures ce que ça donnerait de bosser ensemble depuis deux mois :\)

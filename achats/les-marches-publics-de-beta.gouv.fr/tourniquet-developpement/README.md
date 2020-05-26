@@ -14,12 +14,12 @@ Les attributaires du marché sont, dans l'ordre :
 
 Quand un nouveau bon de commande doit être émis, la décision de déclencher ou non un tourniquet est soumise au processus suivant : \[\[images/uml/pre-tourniquet.svg\]\]
 
-Pour répondre aux questions "la startup a-t-elle déjà émis une EB dans le cadre du nouveau marché ?", consulter l'onglet "Tourniquet Dev" de la feuille [Tourniquet marchés DINSIC](https://docs.google.com/spreadsheets/d/1SpJ1GOV1wWHd5MgJnpvVZV3NhP2ipSnbHSz0Ddox6Ro/edit?usp=sharing).
+Pour répondre aux questions "la startup a-t-elle déjà émis une EB dans le cadre du nouveau marché ?", consulter l'onglet "Tourniquet Dev" de la feuille Tourniquet marchés DINSIC.
 
 ### Déclencher un nouveau tourniquet
 
 1. Rappel : Vérifier qu'il est nécessaire de déclencher un nouveau tourniquet \(cf chapitre précédent\), c'est à dire que la startup ne tombe pas dans une zone d'attribution existante.
-2. Dans l'onglet "tourniquet dev" de [la feuille citée plus haut](https://docs.google.com/spreadsheets/d/1SpJ1GOV1wWHd5MgJnpvVZV3NhP2ipSnbHSz0Ddox6Ro/edit?usp=sharing), ajouter une ligne en bas de la liste des domaines ministériels, et émettre une EB à l'attributaire correspondant a la case en vert sur cette même ligne.
+2. Dans l'onglet "tourniquet dev" de la feuille citée plus haut, ajouter une ligne en bas de la liste des domaines ministériels, et émettre une EB à l'attributaire correspondant a la case en vert sur cette même ligne.
 3. Si l'attributaire répond négativement, envoyer l'EB à l'attributaire suivant dans l'ordre Octo &lt; Arolla &lt; la zone &lt; Octo.
 4. Si l'attributaire répond positivement \(avec un devis\), lui envoyer un bon de commande.
 5. Renseigner la date démissions d'EB, et une couleur pour la nature des réponses \(positives ou négatives\) des attributaires sur la ligne de votre domaine ministériel.

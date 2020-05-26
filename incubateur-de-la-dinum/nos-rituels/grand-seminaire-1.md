@@ -14,7 +14,7 @@ Il a pour objectif de :
 
 Pendant les deux jours, les participants qui le souhaitent définissent l’ordre du jour dans le format du [Forum Ouvert](https://fr.wikipedia.org/wiki/M%C3%A9thodologie_Forum_Ouvert) pour proposer des ateliers en groupes.
 
-À titre d’exemple, lors de précédents séminaires, nous avons discuté du rôle des coachs, de l’avenir des Startups d’Etat une fois la première période de construction passée, des problématiques CNIL/RGPD, du rapport annuel, etc… \(restitution complète des ateliers ici : [https://docs.google.com/document/d/1c5LiYzwc9IvOBq7p2nTeechYCioEky0JNOprltx4VSc/edit?usp=sharing](https://docs.google.com/document/d/1c5LiYzwc9IvOBq7p2nTeechYCioEky0JNOprltx4VSc/edit?usp=sharing)\)
+À titre d’exemple, lors de précédents séminaires, nous avons discuté du rôle des coachs, de l’avenir des Startups d’Etat une fois la première période de construction passée, des problématiques CNIL/RGPD, du rapport annuel, etc… \(restitution complète des ateliers[ ici](https://docs.google.com/document/d/1c5LiYzwc9IvOBq7p2nTeechYCioEky0JNOprltx4VSc/edit?usp=sharing)\)
 
 Pour le grand séminaire, on a le droit :
 

@@ -10,7 +10,7 @@ Si tu as du mal à trouver du calme pour passer des appels ou te concentrer, tu 
 
 Attention, seules les salles de l'incubateur sont équipés avec la wifi beta.gouv.fr. Lorsque nous travaillons depuis les salles 5.700+ il est souvent nécéssaire que l'on créé un partage de connexion depuis nos téléphones portables pour travailler.
 
-Plus d'infos : [https://github.com/betagouv/beta.gouv.fr/wiki/Locaux](https://github.com/betagouv/beta.gouv.fr/wiki/Locaux)
+[Plus d'infos](focus-segur.md)
 
 **Le Ground Control**
 

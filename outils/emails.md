@@ -5,7 +5,7 @@ Avant de commencer les procédure ci-dessous, assurez vous d'avoir :
 * une adresse `prenom.nom@beta.gouv.fr`
 * un mot de passe
 
-Vous n'avez pas encore d'adresse email `@beta.gouv.fr` ? Voir [Bienvenue\#compte-email](https://github.com/betagouv/beta.gouv.fr/wiki/Bienvenue#compte-email)
+Vous n'avez pas encore d'adresse email `@beta.gouv.fr` ? Voir [Compte-email](emails.md)
 
 ### Comment fonctionnent les adresses mail @beta.gouv.fr ?
 

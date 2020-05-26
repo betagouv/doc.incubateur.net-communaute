@@ -26,7 +26,7 @@ Concrètement, vous commencez à travailler le 1er janvier, vous déposez votre 
 
 #### Demander de l’aide
 
-* Sur [:speech\_balloon:`#incubateur-indep-zone`](https://startups-detat.slack.com/messages/incubateur-indép-zone) par défaut. Vos questions risquent d’intéresser d’autres personnes !
+* Sur [`#incubateur-indep-zone`](https://startups-detat.slack.com/messages/incubateur-indép-zone) par défaut. Vos questions risquent d’intéresser d’autres personnes !
 * bonjour@codeursenliberte.fr pour des questions plus directe \(ou une personne membre de Codeurs en Liberté, par mail ou par slack\) si vous souhaitez plus de confidentialité
 * Votre coach en cas d’incompréhension ou les liens avec les autres membres de la StartUp
 * L’équipe de médiation de beta.gouv.fr en cas de tension

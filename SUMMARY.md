@@ -81,6 +81,7 @@
 * [🌍 Locaux](incubateur-de-la-dinum/locaux/README.md)
   * [Où travailler ?](incubateur-de-la-dinum/locaux/ou-travailler.md)
   * [Focus Segur](incubateur-de-la-dinum/locaux/focus-segur.md)
+  * [Badge pour travailler à Ségur](incubateur-de-la-dinum/locaux/badge-pour-travailler-a-segur.md)
   * [Envoyer un colis à Segur](incubateur-de-la-dinum/locaux/envoyer-un-colis-a-segur.md)
 * [🍴 Midi et ☕soir](incubateur-de-la-dinum/midi-et-soir/README.md)
   * [Où manger près de Ségur ?](incubateur-de-la-dinum/midi-et-soir/ou-manger-pres-de-segur.md)

@@ -29,5 +29,5 @@ Les newsletters successives sont baptisées d'après le \[calendrier révolution
 
 Si tu as besoin de plus d'information, demande à @Morendil sur [🔒`#incubateur-site`](https://startups-detat.slack.com/messages/incubateur-site/).
 
-\[calendrier révolutionnaire\]: [https://fr.wikipedia.org/wiki/Calendrier\_r%C3%A9publicain](https://fr.wikipedia.org/wiki/Calendrier_r%C3%A9publicain)
+[Calendrier révolutionnaire](https://fr.wikipedia.org/wiki/Calendrier_r%C3%A9publicain) 
 
