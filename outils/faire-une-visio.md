@@ -13,11 +13,11 @@ Les autres solutions existantes que certains utilisent au sein de la communauté
 * **Zoom**  : Permet d'enregistrer l'échange. Pas open source. [https://zoom.us/](https://zoom.us/)
 * **Meet** : L'outil de visio de google. [https://meet.google.com/](https://meet.google.com/)
 
-### **Si vous êtes connectés aux réseaux de votre administration** 
+### **Si vous êtes connectés au réseauWeb conférence de l’État :  de votre administration** 
 
 Cet outil est utile lorsque vos interlocuteurs ont un réseau internet restreint. C'est notamment le cas de beaucoup d'administration bloquant l'accès aux outils de visio grand public.
 
-* **Web conférence de l'Etat :** [**https://webconference.numerique.gouv.fr/**](https://webconference.numerique.gouv.fr/)\*\*\*\*
+* \*\*\*\*[**https://webconference.numerique.gouv.fr/**](https://webconference.numerique.gouv.fr/)\*\*\*\*
 
 ### **Organiser une visioconférence à Ségur**
 
