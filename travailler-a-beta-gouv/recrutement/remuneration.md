@@ -35,12 +35,14 @@ _Taux journalier, HT, hors marge_
 | Chargé.e de déploiement junior | **250** | 200 | 300 |
 | Chargé.e de déploiement expérimenté | **450** | 300 | 600 |
 |  |  |  |  |
-| Développeur.e junior | **500** | 450 | 550 |
+| Développeur.e junior | **500** | 350 | 550 |
 | Développeur.e expérimenté.e | **600** | 550 | 700 |
 | Lead développeur.e \(/CTO\) | **750** | 650 | 850 |
 |  |  |  |  |
 | Coach junior | **450** | 350 | 550 |
-| Coach expérimenté.e | **800** | 600 | 950 |
+| Coach \(&gt; 3 ans d'expé\) | **600** | 550 | 650 |
+| Coach expérimenté.e \(&gt; 5 ans\) | **800** | 650 | 900 |
+| Mentor \(&gt; 10 ans\) | **1100** | 900 | 1100 |
 |  |  |  |  |
 | Product owner junior | **400** | 350 | 450 |
 | Product owner expérimenté.e | **550** | 500 | 600 |

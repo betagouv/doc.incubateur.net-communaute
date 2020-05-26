@@ -8,7 +8,7 @@
 
 En cas de réponse favorable, voir ensuite **\[**[**Entretien d'embauche**](entretiens-de-recrutement.md)**\].**
 
-**Attention**, pour le recrutement sous le statut de salarié DINSIC \(contractuel, vacataire, stagiaire\), des procédures administratives sont à prévoir et encadrent notamment les démarches d'entretien: grille d'évaluation, compte-rendu d'entretien, dossier de recrutement…
+**Attention**, pour le recrutement sous le statut de salarié DINUM \(contractuel, vacataire, stagiaire\), des procédures administratives sont à prévoir et encadrent notamment les démarches d'entretien: grille d'évaluation, compte-rendu d'entretien, dossier de recrutement…
 
 ## Une fois le recrutement effectué
 

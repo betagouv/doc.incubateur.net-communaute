@@ -73,5 +73,5 @@ Apparition des jours de récupération sur eTemptation dans les 7 jours suivant 
 
 En tant qu'agent contractuels de la fonction publiques, plusieurs rituels régissent notre relation RH à l'administration \(évaluations annuelles, formation continue, renouvellement…\).
 
-* La revue des cadres : Exercice annuel visant à prévoir d'éventuelles évolutions RH \(renouvellement, promotion, CDIsation, départ anticipé…\). Format = réunion avec la direction et la cellule Soutien de la DINSIC + tableau des perspectives RH de chaque membre de l'équipe.
+* La revue des cadres : Exercice annuel visant à prévoir d'éventuelles évolutions RH \(renouvellement, promotion, CDIsation, départ anticipé…\). Format = réunion avec la direction et la cellule Soutien de la DINUM + tableau des perspectives RH de chaque membre de l'équipe.
 

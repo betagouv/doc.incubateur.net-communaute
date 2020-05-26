@@ -10,7 +10,7 @@ Bien que nous cherchions systématiquement à minimiser le temps passé à des a
 
 Notre participation au comité de direction fait partie de ces compromis.
 
-Il s'agit d'une réunion d'une heure et demie qui a lieu une fois par semaine, le mercredi, de 9 h 30 à 11 h. Elle réunit un représentant pour chaque composante de la DINSIC.
+Il s'agit d'une réunion d'une heure et demie qui a lieu une fois par semaine, le mercredi, de 9 h 30 à 11 h. Elle réunit un représentant pour chaque composante de la DINUM.
 
 Nous maximisons l'efficacité de notre participation, et limitons notre propre bureaucratisation, par les manières suivantes :
 

@@ -1,6 +1,6 @@
 # 📚 Références bibliographiques
 
-Vous avez un article scientifique à écrire sur les Startups d'État, l'Incubateur de la DINSIC, la modernisation de l'administration par le numérique ? Ces références peuvent vous être utiles.
+Vous avez un article scientifique à écrire sur les Startups d'État, l'Incubateur de la DINUM, la modernisation de l'administration par le numérique ? Ces références peuvent vous être utiles.
 
 ###  Startups d'État
 
