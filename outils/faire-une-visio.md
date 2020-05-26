@@ -5,8 +5,8 @@
 Pour organiser une visioconférence, voici quelques outils que nous pouvons suggérer:
 
 *  **Big Blue Buton** : l'outil de visioconférence Big Blue Button hébergé sur un serveur de beta plus puissant sur [https://visio.incubateur.net](https://slack-redir.net/link?url=https%3A%2F%2Fvisio.incubateur.net&v=3) .
-* **Jitsi** : Un outil opensource et gratuit pour organiser des visio conférence. Au-delà de 4-5 participants, la qualité de la vidéo peut varier. Tout utilisateur peut créer une "salle de conférence", ou rejoindre une salle de conférence déjà créé à partir d'un lien URL. Voici un exemple de salle de conférence: [https://meet.jit.si/transportdatagouv](https://meet.jit.si/transportdatagouv)
-* **Appear.in :**  Similaire à Jitsi. [https://appear.in/](https://appear.in/)
+* **Jitsi** : Un outil opensource et gratuit pour organiser des visio conférence. Au-delà de 4-5 participants, la qualité de la vidéo peut varier. Tout utilisateur peut créer une "salle de conférence", ou rejoindre une salle de conférence déjà créé à partir d'un lien URL. Voici un exemple de salle de conférence: [https://meet.jit.si/exemple](https://meet.jit.si/exemple)
+* **Whereby \(anciennement Appear.in\) :**  Comparable à Jitsi. [https://whereby.com](https://whereby.com) Nous avons un compte payant pour disposer de salles de 12 et 50 personnes. La liste est accessible [sur ce pad](https://pad.incubateur.net/BEG9CK3XRqWwf9WAtDb60g?view) aux membres de la communauté.
 
 Les autres solutions existantes que certains utilisent au sein de la communauté :
 
