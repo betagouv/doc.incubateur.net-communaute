@@ -8,7 +8,7 @@ Les personnes extérieures qui souhaitent nous découvrir sont les bienvenues, �
 
 ### Horaire et lieu
 
-Tous les mercredis à 12h dans l’\[\[open space\]\] à \[\[Ségur \| Locaux\#segur\]\], pour une durée variable selon le nombre de produits et de sujets transverses.
+Tous les mercredis à 12h dans l’open space à Ségur, pour une durée variable selon le nombre de produits et de sujets transverses.
 
 > À titre indicatif, la durée est généralement comprise entre 25 et 40 minutes.
 

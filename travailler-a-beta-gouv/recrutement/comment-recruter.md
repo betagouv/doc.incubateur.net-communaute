@@ -2,7 +2,7 @@
 
 
 
-* **La page** [**`/recrutement`**](https://beta.gouv.fr/recrutement/) vous permet de détailler les caractéristiques du poste, et facilite la clôture des postes une fois pourvus
+* **La page** [**`recrutement`**](https://beta.gouv.fr/recrutement/) vous permet de détailler les caractéristiques du poste, et facilite la clôture des postes une fois pourvus
 * **Les attributaires des marchés publics** peuvent répondre à vos besoins de recrutement. Contacter OCTO Technology, Arolla et La Zone pour vos besoins de recrutement.
 * **Twitter** est un excellent relais pour diffuser l'annonce, n'hésitez pas à tweeter avec le compte de la startup ou le compte BetaGouv; dans le premier cas le RT avec le compte BetaGouv est recommandé, ainsi bien sûr qu'avec le compte personnel
 
@@ -50,13 +50,13 @@ Nous pouvons aider des ministères, des collectivités locales et des administra
 
 C'est en fonction de notre niveau d'engagement que nous allons décider comment épauler leurs efforts de recrutement :
 
-1. Des produits qui s'inspirent de la méthode « [Startup d'État]([https://beta.gouv.fr/apropos/]) » :
+1. Des produits qui s'inspirent de la méthode « [Startup d'État](https://beta.gouv.fr/apropos) » :
 2. Retweeter une offre ; et
 3. Mettre l’offre dans la newsletter \(catégorie « Nos ami·e·s »\).
 4. Si nous sommes directement impliqués \(coachs ou produits en passation\) :
 5. Utiliser les canaux de recrutement ci-dessus.
 
-La page [`/recrutement`](https://beta.gouv.fr/recrutement/) est réservée aux profils qui vont intégrer une startup d'État interministérielle.
+La page [`recrutement`](https://beta.gouv.fr/recrutement/) est réservée aux profils qui vont intégrer une startup d'État interministérielle.
 
 ## Modèles de réponses
 

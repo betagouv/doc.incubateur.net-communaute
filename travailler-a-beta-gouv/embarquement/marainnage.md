@@ -26,7 +26,7 @@ En tant que marrain, tu t'engages à :
 ## Checklist du Marrain :
 
 * [ ] Tu as envoyé un mail de bienvenue et reservé une demi journée pour onboarder la nouvelle recrue
-* [ ] Tu as demandé à ton·ta filleul·e de lire le [Wiki](../bienvenue/)
+* [ ] Tu as demandé à ton·ta filleul·e de lire la [page de bienvenue](../bienvenue/)
 * [ ] _\(Optionnel\) Ton·ta filleul·e a un compte Github sur lequelle il·elle a activé l'_[_authentification double facteur_](https://github.com/settings/security)
 * [ ] _\(Optionnel\) Tu as ajouté ton·ta filleul·e à l'organisation_ [_betagouv_](https://github.com/orgs/betagouv/teams) _et à la team_ [_beta.gouv.fr_](https://github.com/orgs/betagouv/teams/beta-gouv-fr)
 * [ ] Ton·ta filleul·e a une fiche sur [https://beta.gouv.fr/communaute/](https://beta.gouv.fr/communaute/). \([Instructions pour créer une fiche sur beta.gouv.fr/communaute](https://github.com/betagouv/beta.gouv.fr/blob/master/CONTRIBUTING.md#ajouter-ou-modifier-un-membre-%C3%A0-la-communaut%C3%A9-betagouv)\)

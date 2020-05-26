@@ -35,7 +35,7 @@ Pour comprendre Beta.gouv, rien d'obligé bien sûr !
 
 ###  Au cours des 6 premiers mois
 
-* [ ]   S'abonner à la mailinglist `contact@beta.gouv.fr` [Listes de diffusion](https://github.com/betagouv/beta.gouv.fr/wiki/Listes-de-diffusion)
+* [ ]   S'abonner à la mailinglist `contact@beta.gouv.fr` [Listes de diffusion](../../outils/liste-de-diffusion-et-adresses-de-contact.md)
 * [ ]   Animer le [Stand-up](../../incubateur-de-la-dinum/nos-rituels/revue-davancement-du-mercredi-stand-up.md) \(seul prérequis : avoir déjà vu au moins 1 standup\)
 * [ ]   Participer au prochain [Grand Séminaire](../../incubateur-de-la-dinum/nos-rituels/grand-seminaire-1.md) \(tous les 6 mois, 2 jours à la campagne\)
 * [ ]   Animer le [Séminaire ](../../incubateur-de-la-dinum/nos-rituels/seminaire.md)\(seul prérequis : avoir déjà vu au moins 1 petit séminaire\)
