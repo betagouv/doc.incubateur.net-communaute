@@ -1,5 +1,8 @@
 ---
-description: L'aide transverse =
+description: >-
+  L'aide transverse, ce sont des expert.e.s mobilisé.e.s pour former, prodiguer
+  des conseils, et accompagner ponctuellement les startups et les aider à
+  réussir.
 ---
 
 # Contexte
