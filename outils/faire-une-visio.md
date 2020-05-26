@@ -1,6 +1,6 @@
 # 📹 Visioconférence
 
-**Les outils** 
+## **Les outils** 
 
 Pour organiser une visioconférence, voici quelques outils que nous pouvons suggérer:
 
@@ -11,13 +11,13 @@ Pour organiser une visioconférence, voici quelques outils que nous pouvons sugg
 
 \*\*\*\*
 
-**Si vous êtes connectés aux réseaux de votre administration** 
+### **Si vous êtes connectés aux réseaux de votre administration** 
 
 Cet outil est utile lorsque vos interlocuteurs ont un réseau internet restreint. C'est notamment le cas de beaucoup d'administration bloquant l'accès aux outils de visio grand public.
 
-* [**https://webconference.numerique.gouv.fr/**](https://webconference.numerique.gouv.fr/)\*\*\*\*
+* **Web conférence de l'Etat :** [**https://webconference.numerique.gouv.fr/**](https://webconference.numerique.gouv.fr/)\*\*\*\*
 
-**Organiser une visioconférence à Ségur**
+### **Organiser une visioconférence à Ségur**
 
 Certaines salles sont équipées de matériel de visioconférence \(écran et caméra\), ce qui serait idéal pour permettre à des personnes de participer à distance à une réunion ou un groupe de travail. Pour plus d'infos, contacter [dsaf.resa@pm.gouv.fr](mailto:dsaf.resa@pm.gouv.fr)
 
