@@ -1,4 +1,4 @@
-# Growth Hacking / Acquisition
+# 🚀 Growth Hacking 
 
 ## Le `Growth Hacking`, qu'est-ce que c'est ?
 
