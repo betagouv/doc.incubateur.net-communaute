@@ -10,11 +10,11 @@ Le FAST est le Fonds d’accélération des Startups d’État et de Territoire.
 
 Toutes les infos sont disponibles ici : [https://beta.gouv.fr/fast/](https://beta.gouv.fr/fast/)
 
-## Comment est financé le FAST ?
+### Comment est financé le FAST ?
 
 Le FAST est financé par le programme budgétaire 352 - Fonds pour l'accélération du financement des start-up d'État. 
 
-## C'est quoi le programme 352 ?
+### C'est quoi le programme 352 ?
 
 Pour l'exercice budgétaire 2020, voici les informations officielles sur ce programme 352 - Fonds pour l'accélération du financement des start-up d'État \(2020\).
 
