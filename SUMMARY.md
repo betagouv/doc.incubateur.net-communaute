@@ -91,8 +91,8 @@
 
 ## AIDE TRANSVERSE
 
-* [Contexte](contexte.md)
-* [Accompagnement Produit \(PO\)](methodologie-produit.md)
-* [Growth Hacking / Acquisition](growth-hacking-acquisition.md)
-* [Mise en conformité RGPD et Conseil juridique](mise-en-conformite-rgpd-et-conseil-juridique.md)
+* [Contexte](aide-transverse/contexte.md)
+* [Accompagnement Produit \(PO\)](aide-transverse/methodologie-produit.md)
+* [Growth Hacking / Acquisition](aide-transverse/growth-hacking-acquisition.md)
+* [Mise en conformité RGPD et Conseil juridique](aide-transverse/mise-en-conformite-rgpd-et-conseil-juridique.md)
 
