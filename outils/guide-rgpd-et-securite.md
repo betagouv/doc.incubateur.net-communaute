@@ -6,6 +6,10 @@ description: >-
 
 # Guide RGPD et Sécurité
 
+{% hint style="info" %}
+Ce document est une proposition, en cours d’élaboration, il est susceptible d’être amendé ou de faire l’objet de contre-propositions.
+{% endhint %}
+
 ## 👨⚕ Hygiène : grands principes valables par tous les temps
 
 * Accepter que ces sujets coûtent du **temps** et des **ressources** et qu'ils ne soient pas \(très\) visibles des utilisateurs ;
