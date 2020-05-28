@@ -46,6 +46,7 @@
 
 ## 🔧 Outils
 
+* [Guide RGPD et Sécurité](outils/guide-rgpd-et-securite.md)
 * [📹 Visioconférence](outils/faire-une-visio.md)
 * [📘 Gitbook](outils/gitbook.md)
 * [💼 Administration](outils/outils.md)
@@ -94,5 +95,6 @@
 * [Contexte](aide-transverse/contexte.md)
 * [Accompagnement Produit \(PO\)](aide-transverse/methodologie-produit.md)
 * [Growth Hacking / Acquisition](aide-transverse/growth-hacking-acquisition.md)
-* [Mise en conformité RGPD et Conseil juridique](aide-transverse/mise-en-conformite-rgpd-et-conseil-juridique.md)
+* [Design, UX](design-ux/README.md)
+  * [Mise en conformité RGPD et Conseil juridique](design-ux/mise-en-conformite-rgpd-et-conseil-juridique.md)
 
