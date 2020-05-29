@@ -28,6 +28,7 @@
 
 ## 🙌 Animation
 
+* [ℹ️ Équipe d'animation](animation/equipe-danimation.md)
 * [👌 Retours d’expérience](animation/retours-dexperience.md)
 * [💌 Lettres d'information](animation/lettres-dinformation.md)
 * [🤷 Demander de l’aide](animation/demander-de-laide.md)
