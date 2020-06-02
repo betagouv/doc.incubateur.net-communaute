@@ -1,4 +1,4 @@
-# Growth Hacking / Acquisition
+# 🚀 Growth Hacking
 
 ## Le `Growth Hacking`, qu'est-ce que c'est ?
 
@@ -18,8 +18,10 @@ Le growth hacking recouvre toutes les tactiques d'acquisition d'utilisateurs qui
 ## Le format
 
 * Interventions ponctuelles auprès de startups ;
-* Ateliers collectifs en visio tous les mois : [lien](https://github.com/betagouv/beta.gouv.fr/wiki/%F0%9F%9A%80-Growth-Hacking) ; 
-* Aide au recrutement d'un.e bizdev.  
+* Ateliers collectifs en visio tous les mois :[ lien](https://doc.incubateur.net/startups/marketing/growth-hacking) ; 
+* Aide au recrutement d'un.e Growth Hacker ou d'un Bizdev.  
+
+
 
 ## Comment demander de l'aide sur la méthodologie produit ?
 
