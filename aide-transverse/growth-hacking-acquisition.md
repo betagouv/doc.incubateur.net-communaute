@@ -23,7 +23,7 @@ Le growth hacking recouvre toutes les tactiques d'acquisition d'utilisateurs qui
 
 
 
-## Comment demander de l'aide sur la méthodologie produit ?
+## Comment demander de l'aide sur la croissance de votre produit ?
 
 Sur Slack, ou par mail : **chaib.martinez@beta.gouv.fr**
 
