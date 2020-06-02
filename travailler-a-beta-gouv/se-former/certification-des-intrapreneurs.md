@@ -8,16 +8,18 @@ description: >-
 
 ## Qu'est-ce qu'une certification de compétences ?
 
-Une certification de compétence n'est pas : 
+### Une certification de compétence n'est pas...
 
 * une formation
 * un master
 * un diplôme universitaire
 * une valorisation des acquis de l'expérience
 
+### ... mais un dispositif ciblé sur les compétences professionnelles.
+
 C'est un dispositif qui permet aux individus de se voir certifier des compétences mises en œuvre dans un cadre professionnel. Elle peut être sollicitée à titre personnelle ou par son organisation. 
 
-L'attribution d'une certification n'est jamais automatique. Elle ne peut être délivrée que par un petit nombre d'organismes ayant été reconnus par une organisme d'Etat. La certification des intrapreneurs ait réalisé par NUMA.
+L'attribution d'une certification n'est jamais automatique. Elle ne peut être délivrée que par un petit nombre d'organismes ayant été reconnus par une organisme d'Etat. La certification des intrapreneurs est réalisée par NUMA.
 
 ## Pourquoi une certification des compétences des intra ?
 
@@ -72,6 +74,8 @@ L'intrapreneur pourra compléter ce [questionnaire](https://slack-redir.net/link
 ### ![:deux:](https://a.slack-edge.com/production-standard-emoji-assets/10.2/google-medium/0032-fe0f-20e3.png) **Deuxième étape** : 
 
 Une fois le questionnaire complété, l'intrapreneur recevra un mail pour prendre rendez-vous pour l’entretien d’évaluation avec l’un de nos coachs \([@clement.r](https://startups-detat.slack.com/team/U011ELKUX4M) et [@Adrien](https://startups-detat.slack.com/team/UF6LGV4MB) de NUMA qui sont également coachs de startups d’Etat et vous connaissez peut-être déjà\). Cet entretien durera environ 45min et se fera par téléphone ou en visio.
+
+L'intrapreneur aura également accès à 12 vidéos de formations \(Mooc\) de NUMA reprenant les éléments standards attendus. Ces vidéos en anglais \(sous-titrées en français\) restent généralistes mais peuvent permettre à certains candidats de redécouvrir quelques fondamentaux.
 
 ### ![:trois:](https://a.slack-edge.com/production-standard-emoji-assets/10.2/google-medium/0033-fe0f-20e3.png) **Troisième étape** : 
 
