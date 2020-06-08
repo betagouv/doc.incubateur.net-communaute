@@ -22,11 +22,11 @@ Parce que ce genre de comportement arrive souvent de manière non intentionnell
 
 **Lutte contre les comportements abusifs et contre le harcèlement moral et sexuel**
 
-Les comportements abusifs ne sont pas tolérés. Est notamment estimée abusive la manifestation, dans le cadre des relations de travail, de comportements ou de propos sexistes, homophobes, racistes, antisémites, discriminants, transphobes, sérophobes, grossophobes, etc. Par exemple, prononcer des paroles négatives ou offensantes sur l'apparence physique, la corpulence, les vêtements, le statut social, l'expression de genre, est intolérable, de même que toucher des personnes sans leur accord tacite
+Les comportements abusifs ne sont pas tolérés. Est notamment estimée abusive la manifestation, dans le cadre des relations de travail, de comportements ou de propos sexistes, homophobes, racistes, antisémites, discriminants, transphobes, sérophobes, grossophobes, etc ; par exemple, prononcer des paroles négatives ou offensantes sur l'apparence physique, la corpulence, les vêtements, le statut social, l'expression de genre, est intolérable, de même que toucher des personnes sans leur accord tacite.
 
 Le harcèlement moral ou sexuel est interdit et constitue un délit pénal. A titre de référence, nous renvo~~y~~ons à la politique anti-harcèlement formulée dans le [Geek Feminism wiki](https://geekfeminism.wikia.org/wiki/Conference_anti-harassment/Policy).
 
 #### En cas de problème
 
-Si vous êtes victime d'un comportement inapproprié ou d'une situation de harcèlement, ou si vous vous rendez compte que quelqu'un est dans dans cette situation, ou si vous avez des doutes, vous pouvez contacter immédiatement un membre de l'équipe d'animation beta.gouv.fr. Nous nous efforcerons de vous accompagner pour garantir un retour rapide dans un environnement où vous pourrez vous sentir en sécurité.
+Si vous êtes victime d'un comportement inapproprié ou d'une situation de harcèlement, ou si vous vous rendez compte que quelqu'un est dans dans cette situation, ou si vous avez des doutes, vous pouvez contacter immédiatement un membre de l'[équipe d'animation beta.gouv.fr](../../animation/equipe-danimation.md). Nous nous efforcerons de vous accompagner pour garantir un retour rapide dans un environnement où vous pourrez vous sentir en sécurité.
 
