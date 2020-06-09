@@ -2,7 +2,13 @@
 
 ## Le `Growth Hacking`, qu'est-ce que c'est ?
 
-Le growth hacking recouvre toutes les tactiques d'acquisition d'utilisateurs qui participent à augmenter l'impact d'un produit \(avec plein de mots anglais...\). Parmi ces tactiques :
+Le growth hacking recouvre toutes les tactiques d'acquisition, de conversion \(activation\), de rétention \(fidélisation\) d'utilisateurs d'une startup. Ils participent à augmenter l'impact d'un produit. 
+
+C'est un mélange de marketing \(souvent digital\), d'ingénierie informatique, et d'analyse de données 
+
+![](../.gitbook/assets/growth-hacker.png)
+
+ Parmi ces tactiques :
 
 * Framework AARRI™ \(Acquisition, Activation, Rétention, Referral, Impact\)
 * Découvrir et supprimer les freins à la croissance au niveau Marketing, Bizdev, Produit et Tech, 
