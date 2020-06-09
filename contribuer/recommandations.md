@@ -24,7 +24,7 @@ N'utilisez pas le classique « né\(e\) en » ou le [point médian](https://fr.w
 
 Pour simplifier la lecture, plutôt que des parenthèses ou le point médian :
 
-* indiquer les deux genre pour les noms \( par exemple: "les salariées et les salariés"\) 
+* indiquer les deux genres pour les noms \( par exemple: "les salariées et les salariés"\) 
 * utiliser des formulations verbales à genre neutre \(Par exemple :  `« leur rôle : responsable de produit, informaticien·ne, coach, designer, chargé·e de développement,… »` devient `« leur rôle : porter un produit, développer, coacher, designer, déployer,… »` \).
 
 En dernier recours \(espace très limité comme twitter\), vous pouvez utilisez le [point médian](https://fr.wikipedia.org/wiki/Point_médian#Utilisation_dans_le_langage_non_sexiste) : « né·e ».
