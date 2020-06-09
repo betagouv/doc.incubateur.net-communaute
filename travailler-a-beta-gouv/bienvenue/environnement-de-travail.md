@@ -13,7 +13,7 @@ Nous encourageons vivement la communauté :
 
 * à adopter une posture d'écoute attentive et active, à poser des questions pour comprendre le contexte de ses collaborateurs et collaboratrices ;
 * à traiter les identités et cultures des autres avec respect, à faire des efforts pour prononcer les noms des personnes correctement et à se référer à elles avec le pronom qu'elles préfèrent ; 
-* à éviter le vocabulaire d’érotisation ou de sexualisation dans le contexte professionnel en général ;
+* à éviter les commentaires sur l'apparence physique et le vocabulaire d’érotisation ou de sexualisation dans le contexte professionnel en général ;
 * à ne pas interrompre de manière répétée des personnes en réunion ou dans des discussions, par exemple en parlant plus fort qu'elles.
 
 {% hint style="info" %}
