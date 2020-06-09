@@ -9,6 +9,7 @@ L'incubateur utilise [Slack](http://startups-detat.slack.com/) comme service de 
 > Avec une adresse `@beta.gouv.fr`, ça devrait rouler tout seul. Sinon, demande à t·on.a marrain·e, par exemple.
 
 * Prendre connaissance des [conventions de nommage](https://github.com/betagouv/beta.gouv.fr/wiki/Slack#conventions-de-nommage-des-canaux) des canaux de discussion.
+* Sur ton profil slack, renseigne ton poste et le nom de ta startup dans le champ "Poste actuel" 
 * Pour tout problème ou toute question concernant une des étapes de ton intégration, tu es invité à envoyer un message sur [🔒`#incubateur-secretaria`](https://startups-detat.slack.com/messages/incubateur-secretaria/)
 * Découvrir et s'inscrire aux [listes de diffusion](https://github.com/betagouv/beta.gouv.fr/wiki/listes-de-diffusion) qui t'intéressent.
 
