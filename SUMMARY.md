@@ -70,6 +70,7 @@
 ## 🥇 Incubateur de la DINUM
 
 * [📆 Nos rituels](incubateur-de-la-dinum/nos-rituels/README.md)
+  * [Annoncer un évènement](incubateur-de-la-dinum/nos-rituels/annoncer-un-evenement.md)
   * [Revue d’avancement du mercredi \(Stand-up\)](incubateur-de-la-dinum/nos-rituels/revue-davancement-du-mercredi-stand-up.md)
   * [Séminaire](incubateur-de-la-dinum/nos-rituels/seminaire.md)
   * [Grand séminaire](incubateur-de-la-dinum/nos-rituels/grand-seminaire-1.md)
