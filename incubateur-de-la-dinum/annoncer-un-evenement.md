@@ -2,7 +2,7 @@
 description: Comment annoncer un évènement pour la communauté bêta ?
 ---
 
-# Annoncer un évènement
+# 📢 Annoncer un évènement
 
 _**\[En cours de documentation\]**_
 

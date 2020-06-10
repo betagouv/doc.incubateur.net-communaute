@@ -69,15 +69,15 @@
 
 ## 🥇 Incubateur de la DINUM
 
+* [📢 Annoncer un évènement](incubateur-de-la-dinum/annoncer-un-evenement.md)
 * [📆 Nos rituels](incubateur-de-la-dinum/nos-rituels/README.md)
-  * [Annoncer un évènement](incubateur-de-la-dinum/nos-rituels/annoncer-un-evenement.md)
   * [Revue d’avancement du mercredi \(Stand-up\)](incubateur-de-la-dinum/nos-rituels/revue-davancement-du-mercredi-stand-up.md)
   * [Séminaire](incubateur-de-la-dinum/nos-rituels/seminaire.md)
   * [Grand séminaire](incubateur-de-la-dinum/nos-rituels/grand-seminaire-1.md)
   * [Mardi démo](incubateur-de-la-dinum/nos-rituels/mardi-demo.md)
   * [L'assemblée générale](incubateur-de-la-dinum/nos-rituels/grand-seminaire.md)
-  * [Organiser une rencontre](incubateur-de-la-dinum/nos-rituels/organiser-une-rencontre.md)
 * [🤰 Congé maternité](incubateur-de-la-dinum/conge-maternite/README.md)
+  * [Organiser une rencontre](incubateur-de-la-dinum/conge-maternite/organiser-une-rencontre.md)
   * [Avant d'être enceinte](incubateur-de-la-dinum/conge-maternite/avant-detre-enceinte.md)
   * [Avant le congé maternité](incubateur-de-la-dinum/conge-maternite/avant-le-conge-maternite.md)
   * [Pendant le congé maternité](incubateur-de-la-dinum/conge-maternite/pendant-le-conge-maternite.md)
