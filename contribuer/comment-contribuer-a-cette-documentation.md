@@ -16,7 +16,7 @@ Vous ne prenez aucun risque de "casser" quoi que ce soit.
 
 Si besoin d'aide, tu peux solliciter les membres du salon [\#incubateur-documentation \(sur Slack\)](https://app.slack.com/client/T04C2PSNY/C011EK4NQH3/thread/C011EK4NQH3-1589360618.012400).
 
-## Quelle différence entre les différents guide ? <a id="quelle-difference-entre-les-differents-guide"></a>
+## Quelle différence entre les guides ? <a id="quelle-difference-entre-les-differents-guide"></a>
 
 Vous êtes légitimes pour contribuer sur tous les guides.
 
