@@ -1,5 +1,15 @@
 # 🎯 Recrutement
 
+{% page-ref page="comment-recruter.md" %}
+
+{% page-ref page="publier-une-offre-dembauche.md" %}
+
+{% page-ref page="entretiens-de-recrutement.md" %}
+
+{% page-ref page="stages.md" %}
+
+{% page-ref page="remuneration.md" %}
+
 
 
 

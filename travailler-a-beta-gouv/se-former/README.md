@@ -16,5 +16,9 @@ Nous ne disposons pas d'une "stratégie" de formation. Néanmoins nous avons ini
 
 Au sein de chaque incubateur ou fabrique numérique membre du réseau beta.gouv, il existe également des actions de formation.
 
+{% page-ref page="certification-des-intrapreneurs.md" %}
+
+{% page-ref page="groupe-de-co-developpement-professionnel.md" %}
+
 
 
