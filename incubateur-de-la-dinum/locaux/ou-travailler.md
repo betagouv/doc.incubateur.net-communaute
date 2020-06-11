@@ -14,7 +14,7 @@ Attention, seules les salles de l'incubateur sont équipés avec la wifi beta.go
 
 **Le Ground Control**
 
-Il s'agit d'anciens locaux de la SNCF qui ont été réhabilités, et aujourd'hui abritent plusieurs stands de restauration dans une ambience d'aire de restauration.
+Il s'agit d'anciens locaux de la SNCF qui ont été réhabilités, et aujourd'hui abritent plusieurs stands de restauration dans une ambiance d'aire de restauration.
 
 Le Ground Control n'ouvre qu'à partir de midi, est fermé le lundi, et offre une connexion wifi de qualité discutable \(donc il vaut mieux travailler en créant une partage de connexion depuis son portable\) 81 Rue du Charolais, 75012 Paris.
 
@@ -24,5 +24,5 @@ A Lyon, la start-up Registre de Preuve de Covoiturage paie un abonnement mensuel
 
 **Trouver un nouveau lieu pour la communauté beta.gouv.fr ?**
 
-Dû à la rapide croissance de la communauté beta.gouv.fr, on se retrouve souvent à l'étroit dans les locaux du 20, avenue de Ségur. Certaines personnes disent qu'il leur est désormais impossible de travailler sereinement depuis les locaux à Ségur et qu'elles se trouvent contrainte de faire plus de télé-travail qu'elles ne souhaiteraient. Il paraît évidemment important que les personnes qui le souhaitent puissent venir travailler dans un même lieu, cela étant plus propice à la rencontre d'autres membres de beta.gouv.fr, à l'échange d'information et de savoirs. Un sujet de discussion qui revient souvent serait de _créer une association_ qui permettent aux volonatires de mettre en commun de l'argent pour financer un nouveau lieu de travail, ouvert à tous les membres de la communauté beta.gouv.fr.
+Dû à la rapide croissance de la communauté beta.gouv.fr, on se retrouve souvent à l'étroit dans les locaux du 20, avenue de Ségur. Certaines personnes disent qu'il leur est désormais impossible de travailler sereinement depuis les locaux à Ségur et qu'elles se trouvent contrainte de faire plus de télé-travail qu'elles ne souhaiteraient. Il paraît évidemment important que les personnes qui le souhaitent puissent venir travailler dans un même lieu, cela étant plus propice à la rencontre d'autres membres de beta.gouv.fr, à l'échange d'information et de savoirs. Un sujet de discussion qui revient souvent serait de _créer une association_ qui permettent aux volontaires de mettre en commun de l'argent pour financer un nouveau lieu de travail, ouvert à tous les membres de la communauté beta.gouv.fr.
 
