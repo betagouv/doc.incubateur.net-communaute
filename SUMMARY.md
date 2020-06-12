@@ -34,6 +34,7 @@
 * [👌 Retours d’expérience](animation/retours-dexperience.md)
 * [💌 Lettres d'information](animation/lettres-dinformation.md)
 * [🤷 Demander de l’aide](animation/demander-de-laide.md)
+* [🤸 Le club des intrapreneurs](animation/le-club-des-intrapreneurs.md)
 
 ## 💶 Finances
 
