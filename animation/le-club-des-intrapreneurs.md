@@ -13,7 +13,7 @@ description: >-
 
 ###  Fonctionnement du club des intrapreneurs
 
-* Un **mercredi par mois de 10h30 à midi à l'incubateur**
+* Il n'y a pas de rituels fixes. Chaque intrapreneur peut proposer une date.
 * pour connaître la prochaine date, il suffit de consulter l'[agenda de l'incubateur](https://calendar.google.com/calendar/embed?src=0ieonqap1r5jeal5ugeuhoovlg%40group.calendar.google.com&ctz=Europe/Paris)
 
 ### Comment organiser le prochain club des intrapreneurs?
