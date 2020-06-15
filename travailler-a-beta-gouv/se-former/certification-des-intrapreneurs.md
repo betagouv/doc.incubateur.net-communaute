@@ -79,7 +79,7 @@ L'intrapreneur aura également accès à 12 vidéos de formations \(Mooc\) de NU
 
 ### ![:trois:](https://a.slack-edge.com/production-standard-emoji-assets/10.2/google-medium/0033-fe0f-20e3.png) **Troisième étape** : 
 
-Le coach certificateur et l'intrapreneur réalise l’entretien d’évaluation, à l’issue duquel le coahc informera l'intrapreneur s'il a réussi la certification. Dans ce cas, il recevra sous quelques jours le certificat ainsi qu’une attestation de réussite qu'il pourra transmettre à son service RH. 
+Le coach certificateur et l'intrapreneur réalise l’entretien d’évaluation, à l’issue duquel le coach informera l'intrapreneur s'il a réussi la certification. Dans ce cas, il recevra sous quelques jours le certificat ainsi qu’une attestation de réussite qu'il pourra transmettre à son service RH. 
 
 Vous pouvez poser toutes vos question sur [le salon Slack dédié](https://app.slack.com/client/T04C2PSNY/C0135ELJ6TV/thread/C011EK4NQH3-1590481204.000800).
 
