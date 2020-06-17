@@ -5,6 +5,7 @@
 ## ✍ Contribuer
 
 * [Comment faire ?](contribuer/comment-contribuer-a-cette-documentation.md)
+* [Documentation provisoire à stabilisée](contribuer/documentation-provisoire-a-stabilisee.md)
 * [Recommandations](contribuer/recommandations.md)
 
 ## 👷 Travailler à Beta Gouv
