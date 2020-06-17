@@ -14,18 +14,19 @@ Nous allons essayer de répondre à ces questions :
 
 Il s'agit d'un recueil de consensus, en perpétuelle évolution au gré des apprentissages et des mouvements de personnes au sein de la communauté.
 
-Ces informations peuvent dont évoluer. Elles peuvent également être mentionnées comme "en cours de documentation" ou tout autre mention explicite sur le statut du contenu;
-
-
+Ces informations peuvent dont évoluer. Elles peuvent également être mentionnées comme "en cours de documentation" ou tout autre mention explicite sur le statut du contenu.
 
 ## Est-ce qu'il existe déjà à ce jour un énoncé partagé et satisfaisant du workflow d'édition des guides de la communauté ?
 
 Vous avez deux manières de démarrer une documentation non définitive destinée à ce guide :
 
-1. Ouvrir un [pad](https://pad.incubateur.net/) ou un doc partagé \(exemple : frama ou google doc\) sur lequel vous pourrez réaliser toutes les modification que vous souhaitez. Vous pourrez inviter des personnes à y contribuer. Ce document "brouillon" ne sera pas accessible à toute la communauté.
+1. Ouvrir un [pad](https://pad.incubateur.net/) ou un doc partagé \(exemple : frama ou google doc\) sur lequel vous pourrez réaliser toutes les modification que vous souhaitez. Vous pourrez inviter des personnes à y contribuer. Ce document "brouillon" ne sera pas accessible à toute la communauté. Une fois "stabilisée", vous pourrez la transférer dans ce guide.
 2. [Commencer votre document](comment-contribuer-a-cette-documentation.md#comment-devenir-contributeur) dans ce guide en indiquant au sommet de la page "rédaction en cours". Chacun pourra y contribuer. Ce document "brouillon" sera accessible à toute la communauté.
 
+Nous vous recommandons :
 
+* Pour une documentation dense et longue \(plusieurs pages d'un doc\) et nécessitant des contributions de plusieurs personnes, vous pouvez débuter par un pad ou un doc partagé. Une fois la documentation terminée, vous pourrez la transférer dans ce guide.
+* Pour une courte documentation descriptive et ne nécessitant pas l'avis d'un grand nombre de personne, vous pouvez directement démarrer dans ce guide.
 
 ## Y-a-t-il des informations qui me permettraient de faire la différence entre un brouillon de documentation, et une documentation stabilisée ?
 
