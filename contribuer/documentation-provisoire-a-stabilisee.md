@@ -42,6 +42,6 @@ Nous faisons confiance aux membres de la communauté. Il n'y a pas de comité de
 Si vous suivez ces quelques principes, tout devrait bien se passer :
 
 * demander un feedback à au moins 3 personnes de la communauté ;
-* demander à une autre personne de "merger" votre proposition si vous n'êtes pas sure de vous \([\#incubateur-documentation](https://app.slack.com/client/T04C2PSNY/C011EK4NQH3/thread/C011EK4NQH3-1591796101.010600)\)
+* demander à une autre personne de "merger" votre proposition si vous n'êtes pas sur de vous \([\#incubateur-documentation](https://app.slack.com/client/T04C2PSNY/C011EK4NQH3/thread/C011EK4NQH3-1591796101.010600)\)
 * considérer que rien n'est définitif dans ces guides. Ils peuvent s'améliorer au fil de l'eau.
 
