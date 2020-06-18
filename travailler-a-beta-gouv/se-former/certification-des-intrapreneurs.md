@@ -19,7 +19,7 @@ description: >-
 
 C'est un dispositif qui permet aux individus de se voir certifier des compétences mises en œuvre dans un cadre professionnel. Elle peut être sollicitée à titre personnelle ou par son organisation. 
 
-L'attribution d'une certification n'est jamais automatique. Elle ne peut être délivrée que par un petit nombre d'organismes ayant été reconnus par une organisme d'Etat. La certification des intrapreneurs est réalisée par NUMA.
+L'attribution d'une certification n'est jamais automatique. Elle ne peut être délivrée que par un petit nombre d'organismes ayant été reconnus par un organisme d'Etat. La certification des intrapreneurs est réalisée par NUMA.
 
 ## Pourquoi une certification des compétences des intra ?
 
