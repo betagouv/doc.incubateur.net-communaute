@@ -109,6 +109,7 @@ Tu peux :
 * [x] publier ton évènement dans l'agenda public de beta.
 * [x] annoncer l'évènement sur SLACK \(\#Général \#Annonce ou tout autre salon en lien avec le sujet de ton évènement\)
 * [x] annoncer l'évènement sur les autres outils collaboratifs des autres incubateurs.
+* [x] contacter [@Claire Lalanne](https://startups-detat.slack.com/team/U010VSL93E3) sur Slack pour partager l'information en interne à la DINUM. Une lettre interne est diffusée chaque vendredi après-midi.
 
 ## Quel est le meilleur moment pour proposer un évènement ?
 
