@@ -12,6 +12,7 @@ Les mailing-lists suivantes sont disponibles. Toutes les adresses sont à postfi
 | `alumni` | Nouvelles de l'incubateur, possibilités de retrouvailles. | Ancien·ne·s membres n'ayant plus de relation contractuelle. | Membres. |
 | `coachs` | Discussions, tips, infos sur le coaching de Startups d'Etat | Membres volontaires. | Les membres de la NL. |
 | `onboarding` | Embarquement des nouvelles et des nouveaux | Membres volontaires. | Marrains. Parraines. |
+| `investigations` | Contacts entrants appel à investigations | Membres volontaires. | Prospects. |
 
 ### La commande Slack `/emails`
 
