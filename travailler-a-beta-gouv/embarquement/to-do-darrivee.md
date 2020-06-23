@@ -7,7 +7,7 @@ Pour comprendre Beta.gouv, rien d'obligé bien sûr !
 ###  La première semaine
 
 * [ ]   Découvrir la page [Bienvenue](../bienvenue/) \(tu es déjà dessus ^^\) sur le wiki qui m'explique tout un tas de choses indispensables comme :
-  *  ✉️ Créer mes comptes[ Github](../../outils/github.md), [email](../../outils/emails.md) et [Slack](../../outils/slack.md)
+  *  ✉️ Créer mes comptes[ Github](../../outils/github.md), puis  [email](../../outils/emails.md) et [Slack](../../outils/slack.md)
   *   Demander mon [badge d'accès à Ségur](../../incubateur-de-la-dinum/locaux/badge-pour-travailler-a-segur.md) 
   *   Avoir un [marrain ou une parraine](marainnage.md)
 * [ ]   M'inscrire à [l'agenda public de l'incubateur](https://calendar.google.com/calendar/embed?src=0ieonqap1r5jeal5ugeuhoovlg%40group.calendar.google.com&ctz=Europe/Paris) : fais ta demande sur [🔒`#incubateur-secretaria`](https://startups-detat.slack.com/messages/secretaria).
