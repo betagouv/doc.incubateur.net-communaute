@@ -4,7 +4,7 @@
 
 _Avez-vous bien suivi les étapes pour créé la fiche sur beta.gouv.fr en passant par Github ? Si ce n'est pas le cas, vous ne pourrez pas créer l'adresse email._
 
-Ton·ta marrain·e pourra te créer une adresse email `@beta.gouv.fr` grâce au [secrétariat automatisé](https://secretariat.beta.gouv.fr).
+Ton·ta marrain·e pourra te créer une adresse email `@beta.gouv.fr` grâce au [secrétariat automatisé](https://secretariat.beta.gouv.fr). Attention, il faut déjà avoir une fiche [github](github.md#se-creer-un-compte-github-ou-demander-a-ton-ta-marrain-e-de-faire-ta-fiche-pour-toi) 
 
 Puis, tu pourras [configurer ta boite mail](https://github.com/betagouv/beta.gouv.fr/wiki/Email).
 
