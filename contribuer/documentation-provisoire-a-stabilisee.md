@@ -2,7 +2,7 @@
 description: Rédaction en cours
 ---
 
-# Documentation provisoire à stabilisée
+# Comment valider mes ajouts ?
 
 Nous allons essayer de répondre à ces questions :
 
