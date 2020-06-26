@@ -35,20 +35,20 @@ Elle pourra être utile auprès de sa hiérarchie pour :
 * objectiver l'entretien d'évaluation professionnel;
 * alimenter un dossier pour la réussite d'un concours ou d'un examen professionnel.
 
-Elle pourra également être utile pour le CV de l'intrapreneur dans le cadre :
+Elle pourra également être utile pour le CV de l'intrapreneuse.eur dans le cadre :
 
 * d'une mobilité interne, mutation, détachement ou mise à disposition;
 * d'une disponibilité dans le secteur privé.
 
 ## Quels sont les prérequis ?
 
-Pour postuler à cette certification, l'intrapreneur devra : 
+Pour postuler à cette certification, l'intrapreneuse.eur devra : 
 
 * avoir été sur ces fonctions à temps plein pendant 6 mois ou à temps partiel pendant 12 mois;
 * réaliser les phases d'investigation et de construction.
 * être encore intrapreneur ou l'avoir été il y a moins d'un an.
 
-Pour postuler à la prochaine promotion d'intrapreneur, il suffit juste de vous manifester sur [Slack](https://app.slack.com/client/T04C2PSNY/C0135ELJ6TV/thread/C011EK4NQH3-1590481204.000800) ou par email à dinum@beta.gouv.fr .
+Pour postuler à la prochaine promotion d'intrapreneurs, il suffit juste de vous manifester sur [Slack](https://app.slack.com/client/T04C2PSNY/C0135ELJ6TV/thread/C011EK4NQH3-1590481204.000800) ou par email à dinum@beta.gouv.fr .
 
 Enfin, cette certification est entièrement prise en charge par beta.gouv.fr pour tous les intrapreneurs membres du réseau des incubateurs de Startup d'Etat et de Territoires.
 
@@ -62,7 +62,7 @@ Ne prêtez toutefois pas à attention aux modalités d’évaluation spécifiée
 
 ### \*\*\*\*![:un:](https://a.slack-edge.com/production-standard-emoji-assets/10.2/google-medium/0031-fe0f-20e3.png) **Première étape :** 
 
-L'intrapreneur pourra compléter ce [questionnaire](https://slack-redir.net/link?url=https%3A%2F%2Fnuma-paris.typeform.com%2Fto%2FdndjC5&v=3) préparatoire à l’évaluation.  Il devra s'assurer d’avoir à disposition les différents documents ci-dessous qui lui seront demandés:
+L'intrapreneuse.eur pourra compléter ce [questionnaire](https://slack-redir.net/link?url=https%3A%2F%2Fnuma-paris.typeform.com%2Fto%2FdndjC5&v=3) préparatoire à l’évaluation.  Il devra s'assurer d’avoir à disposition les différents documents ci-dessous qui lui seront demandés:
 
 > - Lien du **site de votre Startup** d’État  
 > - Lien vers sa **fiche produit**  
@@ -73,13 +73,13 @@ L'intrapreneur pourra compléter ce [questionnaire](https://slack-redir.net/link
 
 ### ![:deux:](https://a.slack-edge.com/production-standard-emoji-assets/10.2/google-medium/0032-fe0f-20e3.png) **Deuxième étape** : 
 
-Une fois le questionnaire complété, l'intrapreneur recevra un mail pour prendre rendez-vous pour l’entretien d’évaluation avec l’un de nos coachs \([@clement.r](https://startups-detat.slack.com/team/U011ELKUX4M) et [@Adrien](https://startups-detat.slack.com/team/UF6LGV4MB) de NUMA qui sont également coachs de startups d’Etat et vous connaissez peut-être déjà\). Cet entretien durera environ 45min et se fera par téléphone ou en visio.
+Une fois le questionnaire complété, l'intrapreneuse.eur recevra un mail pour prendre rendez-vous pour l’entretien d’évaluation avec l’un de nos coachs \([@clement.r](https://startups-detat.slack.com/team/U011ELKUX4M) et [@Adrien](https://startups-detat.slack.com/team/UF6LGV4MB) de NUMA qui sont également coachs de startups d’Etat et vous connaissez peut-être déjà\). Cet entretien durera environ 45min et se fera par téléphone ou en visio.
 
-L'intrapreneur aura également accès à 12 vidéos de formations \(Mooc\) de NUMA reprenant les éléments standards attendus. Ces vidéos en anglais \(sous-titrées en français\) restent généralistes mais peuvent permettre à certains candidats de redécouvrir quelques fondamentaux.
+L'intrapreneuse.eur aura également accès à 12 vidéos de formations \(Mooc\) de NUMA reprenant les éléments standards attendus. Ces vidéos en anglais \(sous-titrées en français\) restent généralistes mais peuvent permettre à certains candidats de redécouvrir quelques fondamentaux.
 
 ### ![:trois:](https://a.slack-edge.com/production-standard-emoji-assets/10.2/google-medium/0033-fe0f-20e3.png) **Troisième étape** : 
 
-Le coach certificateur et l'intrapreneur réalise l’entretien d’évaluation, à l’issue duquel le coach informera l'intrapreneur s'il a réussi la certification. Dans ce cas, il recevra sous quelques jours le certificat ainsi qu’une attestation de réussite qu'il pourra transmettre à son service RH. 
+Le coach certificateur et l'intrapreneuse.eur réalisent l’entretien d’évaluation, à l’issue duquel le coach informera l'intrapreneuse.eur s'il a réussi la certification. Dans ce cas, il recevra sous quelques jours le certificat ainsi qu’une attestation de réussite qu'il pourra transmettre à son service RH. 
 
 Vous pouvez poser toutes vos question sur [le salon Slack dédié](https://app.slack.com/client/T04C2PSNY/C0135ELJ6TV/thread/C011EK4NQH3-1590481204.000800) ou à dinum@beta.gouv.fr .
 
