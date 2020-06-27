@@ -47,7 +47,7 @@
 * [📑 Les marchés publics](achats/les-marches-publics-de-beta.gouv.fr/README.md)
   * [Tourniquet développement](achats/les-marches-publics-de-beta.gouv.fr/tourniquet-developpement/README.md)
     * [Codeurs en liberté](achats/les-marches-publics-de-beta.gouv.fr/tourniquet-developpement/codeurs-en-liberte.md)
-* [💳 Faire un achat &lt; 2000€](achats/faire-un-achat-less-than-2000eur.md)
+* [💳 Faire un achat](achats/faire-un-achat-less-than-2000eur.md)
 
 ## 🔧 Outils
 

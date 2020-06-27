@@ -1,4 +1,4 @@
-# 💳 Faire un achat &lt; 2000€
+# 💳 Faire un achat
 
 ## A l'incubateur des services numériques
 
