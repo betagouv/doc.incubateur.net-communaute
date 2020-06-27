@@ -60,7 +60,7 @@ La configuration fonctionne à peu près de la même manière pour tous les clie
 >
 > Port: 993 
 >
-> Méthode de chiffrement: SSL/TLS 
+> Méthode de chiffrement: SSL \(\*pas\* TLS°\) 
 >
 > Nom d'utilisateur:  &lt;adresse beta.gouv.fr&gt;
 >
@@ -72,7 +72,7 @@ La configuration fonctionne à peu près de la même manière pour tous les clie
 >
 > Port: 587 
 >
-> Méthode de chiffrement: SSL/TLS 
+> Méthode de chiffrement: TLS 
 >
 > Nom d'utilisateur:  &lt;adresse beta.gouv.fr&gt;
 >
