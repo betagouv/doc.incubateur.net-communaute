@@ -90,11 +90,14 @@ Tous les dossiers mails \(brouillons, envoyés, reçu, archivés, etc.\) sont ma
 
 Comme ci-dessous ! \(Suggestion de présentation; photo non contractuelle.\)
 
-> Jean LOUIS Chargé de Développement Équipe Lambda - beta.gouv.fr jean.louis@beta.gouv.fr – +33.\(0\)6.XX.XX.XX.XX
+> Jean LOUIS   
+> Chargé de Développement   
+> Équipe Lambda - beta.gouv.fr   
+> jean.louis@beta.gouv.fr – +33.\(0\)6.XX.XX.XX.XX
 
 Nous distribuons des adresses à tout membre de la communauté, il ne faut toutefois pas faire figurer dans ta signature un rattachement professionnel à la DINUM pouvant porter à confusion. Pour cela, il ​te suffit de ne pas mentionner "Incubateur de Services Numériques – DINUM​ ​20, Avenue de Ségur, 75007 Paris"​ mais uniquement ton appartenance à une équipe de beta.gouv.fr​
 
 ### Que faire si t'as perdu ton mot de passe ?
 
-Il faut passer par OVH. Demandes à quelqu'un qui y a accès de t'aider.
+Il faut passer par OVH. Demandes à quelqu'un qui y a accès de t'aider sur \#incubateur-secretariat sur Slack
 
