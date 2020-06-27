@@ -45,5 +45,3 @@ Pour comprendre Beta.gouv, rien d'obligé bien sûr !
 
 Si tu as la moindre question, utilise [🔒`#incubateur-help`](https://startups-detat.slack.com/messages/incubateur-help), demande à ton marrain ou ta parraine, envoie un mail à `contact@beta.gouv.fr` ou sur la mailing-liste [onboarding](mailto:onboarding@beta.gouv.fr).
 
-![](../../.gitbook/assets/betagouv_interieur.jpg)
-
