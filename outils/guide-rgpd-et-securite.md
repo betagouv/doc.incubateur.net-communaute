@@ -4,7 +4,7 @@ description: >-
   poser, quelles actions entreprendre, et quelles ressources mobiliser.
 ---
 
-# Guide RGPD et Sécurité
+# :closed_book: Guide RGPD et Sécurité
 
 {% hint style="info" %}
 Ce document est une proposition en cours d’élaboration. Il est susceptible d’être amendé ou de faire l’objet de contre-propositions.
