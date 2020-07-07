@@ -96,6 +96,10 @@
 * [👨🏽 Contractuels DINUM](incubateur-de-la-dinum/contractuels-dinum.md)
 * [🔗 Liens avec la DINUM](incubateur-de-la-dinum/liens-avec-la-dinum.md)
 
+---
+
+* [Fabrique numérique des Ministères sociaux](fabrique-numerique-des-ministeres-sociaux.md)
+
 ## AIDE TRANSVERSE
 
 * [Contexte](aide-transverse/contexte.md)
