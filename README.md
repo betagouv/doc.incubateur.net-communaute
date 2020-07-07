@@ -19,6 +19,11 @@ Pour vous aider à orienter votre choix :
 * **Le guide pour la communauté** \(vous y êtes\) s'adresse aux membres 💃 🕺🏾 en tant que personne/professionnel. Ce sont surtout des contenus qui servent de boussole pour s'y retrouver au sein de la communauté.
 * \*\*\*\*[**Le guide pour les Startups d’État**](https://doc.incubateur.net/startups/) \(et de territoires\) s'adresse aux équipes ‍👩🏽‍💻 👨🏼‍💻 👩🏼‍💼 👨🏻‍💼 des Startups d’État et de territoire. Il s'agit surtout de contenu cherchant à aider les équipes à chaque étape de la vie d'une SE.
 
+Il existe également des guides thématiques :
+
+* \*\*\*\*[**Le guide Design**](https://doc.incubateur.net/design/) ****pour la communauté. Vous trouverez toutes les ressources UX et UI utiles pour vos Startups d’État.
+* \*\*\*\*[**Le guide Consolidation/Transfert**](https://doc.incubateur.net/consolidation/) pour les Startups d’État qui arrivent à cette étape.
+
 ## Tu viens de nous rejoindre ?
 
 #### Rends toi sur la page 🐣 [`Bienvenue`](travailler-a-beta-gouv/bienvenue/)🐣 pour créer tes accès à nos services !
