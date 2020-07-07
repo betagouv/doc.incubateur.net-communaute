@@ -1,4 +1,4 @@
-# Fabrique numérique des Ministères sociaux
+# 🏥 Fabrique numérique des Ministères sociaux
 
-Le wiki de la Fabrique numérique des Ministères sociaux est disponible [ici](https://github.com/SocialGouv/www/wiki).
+### **Le wiki de la Fabrique numérique des Ministères sociaux est disponible** [**ici**](https://github.com/SocialGouv/www/wiki)**.**
 

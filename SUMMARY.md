@@ -98,7 +98,7 @@
 
 ---
 
-* [Fabrique numérique des Ministères sociaux](fabrique-numerique-des-ministeres-sociaux.md)
+* [🏥 Fabrique numérique des Ministères sociaux](fabrique-numerique-des-ministeres-sociaux.md)
 
 ## AIDE TRANSVERSE
 
