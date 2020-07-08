@@ -43,9 +43,7 @@ Enfin, il s'agit d'un guide en amélioration continue. Il peut comporter des que
 
 ### Ressources utiles :
 
-* Pour un agent de la DINUM : 
-  * [https://www.fonction-publique.gouv.fr/conge-de-maternite](https://www.fonction-publique.gouv.fr/conge-de-maternite)
-  * [Dispositif d'entretiens liés aux congés de maternité et d'adoption](https://drive.google.com/drive/folders/1cBmVhifDsJSRVDNfpx4VIfbiUbTKrYte?usp=sharing)
+* Pour un agent de la DINUM : [https://www.fonction-publique.gouv.fr/conge-de-maternite](https://www.fonction-publique.gouv.fr/conge-de-maternite)
 * Pour un indépendant : [https://www.portail-autoentrepreneur.fr/academie/statut-auto-entrepreneur/conge-maternite](https://www.portail-autoentrepreneur.fr/academie/statut-auto-entrepreneur/conge-maternite)
 * Pour un salarié : [https://www.service-public.fr/particuliers/vosdroits/F2265](https://www.service-public.fr/particuliers/vosdroits/F2265)
 * Convention Syntec : [https://www.syntec.fr/convention-collective/](https://www.syntec.fr/convention-collective/)

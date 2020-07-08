@@ -4,13 +4,13 @@ description: >-
   poser, quelles actions entreprendre, et quelles ressources mobiliser.
 ---
 
-# :closed_book: Guide RGPD et Sécurité
+# Guide RGPD et Sécurité
 
 {% hint style="info" %}
-Ce document est une proposition en cours d’élaboration. Il est susceptible d’être amendé ou de faire l’objet de contre-propositions.
+Ce document est une proposition, en cours d’élaboration, il est susceptible d’être amendé ou de faire l’objet de contre-propositions.
 {% endhint %}
 
-## ⚕ Hygiène : grands principes valables par tous les temps
+## 👨⚕ Hygiène : grands principes valables par tous les temps
 
 * Accepter que ces sujets coûtent du **temps** et des **ressources** et qu'ils ne soient pas \(très\) visibles des utilisateurs ;
 * **Plus tôt** on se pose les questions, plus il est facile et rapide d'y répondre et de traiter le sujet des données et de la sécurité ;

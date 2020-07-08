@@ -36,6 +36,7 @@
 * [💌 Lettres d'information](animation/lettres-dinformation.md)
 * [🤷 Demander de l’aide](animation/demander-de-laide.md)
 * [🤸 Le club des intrapreneurs](animation/le-club-des-intrapreneurs.md)
+* [🗣 Ateliers/présentations](animation/ateliers-presentations.md)
 
 ## 💶 Finances
 
