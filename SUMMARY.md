@@ -77,6 +77,7 @@
 * [📆 Nos rituels](incubateur-de-la-dinum/nos-rituels/README.md)
   * [Organiser une rencontre](incubateur-de-la-dinum/nos-rituels/organiser-une-rencontre.md)
   * [Revue d’avancement du mercredi \(Stand-up\)](incubateur-de-la-dinum/nos-rituels/revue-davancement-du-mercredi-stand-up.md)
+  * [Invité à la revue d'avancement du mercredi \(Stand-up\)](incubateur-de-la-dinum/nos-rituels/standup-invites.md)
   * [Séminaire](incubateur-de-la-dinum/nos-rituels/seminaire.md)
   * [Grand séminaire](incubateur-de-la-dinum/nos-rituels/grand-seminaire-1.md)
   * [Mardi démo](incubateur-de-la-dinum/nos-rituels/mardi-demo.md)
