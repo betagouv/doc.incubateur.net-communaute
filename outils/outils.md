@@ -34,17 +34,6 @@ Sur AlwaysData, il existe une fonctionnalité de création de mailing list et de
 
 Pour plus d'information sur la gestion des mailing list, voir \[\[Listes de diffusion et adresses de contact\]\]
 
-### Tableau de bord
-
-Nous utilisons un [tableau de bord partagé](https://trello.com/b/LQONIILQ/infra) pour garder un trace de toute modification sur les outils que nous utilisons \(Slack, OVH, etc…\).
-
-Pense à y ajouter une brève description si tu:
-
-* crée un nouveau compte email
-* ajoute un nouveau domaine beta.gouv.fr
-* fait quelque chose de non standard pour régler un problème de production en urgence
-* etc…
-
 ### Mots de passe
 
 L'accès aux services partagés \(OVH, Mailjet, Twitter…\) doit être fait par le biais de comptes individuels auxquels la gestion est déléguée, afin de faciliter la révocation des accès lors des départs de membres de l'Incubateur.
