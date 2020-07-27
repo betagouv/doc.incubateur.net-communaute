@@ -1,3 +1,9 @@
+---
+description: >-
+  Tous les outils pour réaliser des visioconférences ou des conférences
+  téléphoniques.
+---
+
 # 📹 Visioconférence et conférence tel
 
 ## **Les outils** de visio
@@ -29,7 +35,7 @@ Certaines salles sont équipées de matériel de visioconférence \(écran et ca
 
 Certains opérateurs téléphoniques permettent de fusionner des appels afin d'échanger à trois ou quatre.
 
-Renseignez-vous auprès de votre opérateur
+Renseignez-vous auprès de votre opérateur.
 
 ### **La conférence téléphonique d'OVH \(50 personnes max\)**
 
