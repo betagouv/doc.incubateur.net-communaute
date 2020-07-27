@@ -1,6 +1,6 @@
-# 📹 Visioconférence
+# 📹 Visioconférence et conférence tel
 
-## **Les outils** 
+## **Les outils** de visio
 
 Pour organiser une visioconférence, voici quelques outils que nous pouvons suggérer:
 
@@ -22,4 +22,21 @@ Cet outil est utile lorsque vos interlocuteurs ont un réseau internet restreint
 ### **Organiser une visioconférence à Ségur**
 
 Certaines salles sont équipées de matériel de visioconférence \(écran et caméra\), ce qui serait idéal pour permettre à des personnes de participer à distance à une réunion ou un groupe de travail. Pour plus d'infos, contacter [dsaf.resa@pm.gouv.fr](mailto:dsaf.resa@pm.gouv.fr)
+
+## Les outils de conférences téléphoniques
+
+### Fusion d'appel pour des échanges à trois ou quatre
+
+Certains opérateurs téléphoniques permettent de fusionner des appels afin d'échanger à trois ou quatre.
+
+Renseignez-vous auprès de votre opérateur
+
+### **La conférence téléphonique d'OVH \(50 personnes max\)**
+
+Votre conférence, valable 24 heures jusqu'à 50 personnes
+
+Avec ce service simple d'utilisation, vous pouvez planifier vos conférences téléphoniques et prévenir les intervenants par email.  
+ Grâce à un simple appel au numéro indiqué lors de la réservation, chacun des interlocuteurs sera connecté en direct et pourra écouter et intervenir en simultané.
+
+Essayez ici : [https://www.ovh.com/conferences/](https://www.ovh.com/conferences/)
 
