@@ -10,7 +10,7 @@ _⚠️ Pour créer une adresse email, vous avez besoin d'avoir_ [_une fiche sur
 
 Ton·ta marrain·e pourra te créer une adresse email `@beta.gouv.fr` grâce au [secrétariat automatisé](https://secretariat.beta.gouv.fr). 
 
-### Je suis marrain.e et je veux crééer une adresse email à un nouveau membre :
+### Je suis marrain.e et je veux créer une adresse email à un nouveau membre :
 
 1. Je m'assure que ce nouveau membre a bien une fiche beta.
 2. Je clique ici : [secrétariat automatisé](https://secretariat.beta.gouv.fr)
