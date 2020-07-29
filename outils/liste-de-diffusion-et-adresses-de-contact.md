@@ -38,6 +38,7 @@ _Commande implémentée par_ [_`slack-ovh`_](https://github.com/sgmap/slack-ovh)
 
 **Fonctionnements contre-intuitif** :
 
+* La commande `/emails` échoue souvent la première fois qu'elle est lancée : il faut le temps que la dyno Heroku se réveille.
 * La commande `/emails leave` affiche un message d'erreur même quand la désinscription a bien eu lieu. Ce problème vient du retour que fait ovh.
 
 ### Comment créer une nouvelle liste de diffusion pour sa startup

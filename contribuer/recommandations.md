@@ -10,6 +10,35 @@ On parle de personne « en situation de [handicap](http://www.legifrance.gouv.fr
 
 [Source](http://tanguyreve.unblog.fr/2012/05/03/personne-handicapee-ou-personne-en-situation-de-handicap/).
 
+### Éviter le jargon
+
+beta.gouv.fr est un réseau au carrefour du monde du numérique \(startups, communauté du libre, etc\) et de celui de l'administration bureaucratique, deux univers culturels portant en eux une série de valeurs, de principes et surtout, d'expressions linguistiques jargonneuses, souvent difficilement compréhensibles par celles et ceux qui n'en font pas partie. 
+
+Afin de faciliter l'intégration des nouvelles recrues et de fluidifier la communication avec des personnes qui ne baignent pas dans l'univers numérique ou administratif, nous recommandons de faire l'effort d'éviter ces habitudes de langage. 
+
+{% tabs %}
+{% tab title="Conseils pour éviter le jargon administratif" %}
+* Expliciter au maximum tous les acronymes administratifs : DINUM = Direction interministérielle du numérique
+{% endtab %}
+
+{% tab title="Conseils pour éviter le jargon startup" %}
+* "Hackathon", "openlab", "datathon"  =&gt; "rencontre publique", "rencontre ouverte", "atelier de co-construction"
+* "Méthodologies agiles", "lean" =&gt; "développement au plus près des besoins des usagers"
+* "Pivoter" =&gt; "apprendre de ses erreurs"
+* "Pitcher" =&gt; "présenter brièvement"
+* "Produit", "produit numérique" =&gt; "service numérique", "outil numérique"
+* KPI =&gt; "indicateurs de performance", "mesure d'impact", ou tout simplement "résultats"
+* MVP ou "Produit minimum viable", "Preuve de concept", POC =&gt; "première version imparfaite du service"
+* "Mettre en production" =&gt; "mettre en ligne"
+* "innovation", "disruption" =&gt; éviter ce genre d'expression souvent incantatoire, notre objectif est tout simplement de "résoudre des problèmes"
+* "Early stage" : "service en construction", "en expérimentation"
+* "Itératif", "incrémental" =&gt; "progressif"
+* "Board" =&gt; "comité d'investissement"
+* "Digital" =&gt; "numérique" \("digital" est un anglicisme\)
+* "Bizdev" = "chargé de déploiement" \(un service conçu selon l'approche Startup d'État ne propose pas seulement un produit, elle s’assure qu’il soit utilisé. Une directive/circulaire/décret/loi ne suffit pas à ce que le public connaisse et utilise un service public. Les chargés de déploiement ont ainsi pour rôle de faire en sorte que les usagers utilisent le service construit car ils y trouvent un intérêt.\)
+{% endtab %}
+{% endtabs %}
+
 ## Syntaxe
 
 ### Écriture épicène
@@ -31,8 +60,6 @@ En dernier recours \(espace très limité comme twitter\), vous pouvez utilisez 
 
 > Pour en savoir plus, le [Haut Conseil à l’Égalité entre les femmes et les hommes](http://www.haut-conseil-egalite.gouv.fr/) a élaboré un [Guide pratique pour une communication publique sans stéréotype de sexe](http://www.haut-conseil-egalite.gouv.fr/IMG/pdf/hcefh__guide_pratique_com_sans_stereo-_vf-_2015_11_05.pdf).
 
-## Typographie
-
 ### Guillemets
 
 Les guillemets français sont [`«`](http://unicode-table.com/fr/00AB/) et [`»`](http://unicode-table.com/fr/00BB/), avec des espaces insécables [ \`\`](http://unicode-table.com/fr/00A0/) \(raccourci sous macOS : `⎇⇧`\). respectivement après et avant le guillemet.
@@ -42,4 +69,6 @@ Les guillemets français sont [`«`](http://unicode-table.com/fr/00AB/) et [`»`
 ### Points de suspension
 
 Les points de suspension sont [`…`](http://unicode-table.com/fr/2026/) et non `...` \(trois points\). Cette distinction est importante pour les sauts de ligne, les lecteurs d'écran et le copier-coller.
+
+### 
 

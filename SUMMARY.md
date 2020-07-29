@@ -14,7 +14,6 @@
   * [Notre charte](travailler-a-beta-gouv/bienvenue/charte.md)
   * [Normes de conduite](travailler-a-beta-gouv/bienvenue/normes-de-conduite.md)
   * [Environnement de travail](travailler-a-beta-gouv/bienvenue/environnement-de-travail.md)
-  * [Présenter beta.gouv.fr](travailler-a-beta-gouv/bienvenue/presenter-de-beta.gouv.fr.md)
 * [🛫 Embarquement](travailler-a-beta-gouv/embarquement/README.md)
   * [To do d'arrivée](travailler-a-beta-gouv/embarquement/to-do-darrivee.md)
   * [Marainnage](travailler-a-beta-gouv/embarquement/marainnage.md)
@@ -37,6 +36,7 @@
 * [🤷 Demander de l’aide](animation/demander-de-laide.md)
 * [🤸 Le club des intrapreneurs](animation/le-club-des-intrapreneurs.md)
 * [🗣 Ateliers/présentations](animation/ateliers-presentations.md)
+* [🎤 Comment parler de beta.gouv.fr](animation/presenter-de-beta.gouv.fr.md)
 
 ## 💶 Finances
 

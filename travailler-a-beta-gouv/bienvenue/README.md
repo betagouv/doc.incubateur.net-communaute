@@ -10,7 +10,5 @@ C'est l'heure de découvrir beta.gouv.fr de l'intérieur !
 
 {% page-ref page="environnement-de-travail.md" %}
 
-{% page-ref page="presenter-de-beta.gouv.fr.md" %}
-
 
 

@@ -1,6 +1,6 @@
 # To do d'arrivée
 
-Pour comprendre Beta.gouv, rien d'obligé bien sûr !
+Pour comprendre beta.gouv.fr, rien d'obligé bien sûr !
 
 > L'ordre des éléments n'est pas anodin dans certains cas. Par exemple, il te faut une fiche sur beta.gouv.fr qui est créé sur Github pour ensuite autoriser la création de ton adresse email. Ton adresse email te permet de rejoindre Slack
 
@@ -8,21 +8,23 @@ Pour comprendre Beta.gouv, rien d'obligé bien sûr !
 
 * [ ]   Découvrir la page [Bienvenue](../bienvenue/) \(tu es déjà dessus ^^\) sur le wiki qui m'explique tout un tas de choses indispensables comme :
   *  ✉️ Créer mes comptes[ Github](../../outils/github.md), puis  [email](../../outils/emails.md) et [Slack](../../outils/slack.md)
-  *   Demander mon [badge d'accès à Ségur](../../incubateur-de-la-dinum/locaux/badge-pour-travailler-a-segur.md) 
+  *   Si tu comptes venir régulièrement dans les bureaux du 20 Avenue de Ségur, demander un [badge d'accès à Ségur](../../incubateur-de-la-dinum/locaux/badge-pour-travailler-a-segur.md) 
   *   Avoir un [marrain ou une parraine](marainnage.md)
 * [ ]   M'inscrire à [l'agenda public de l'incubateur](https://calendar.google.com/calendar/embed?src=0ieonqap1r5jeal5ugeuhoovlg%40group.calendar.google.com&ctz=Europe/Paris) : fais ta demande sur [🔒`#incubateur-secretaria`](https://startups-detat.slack.com/messages/secretaria).
 * [ ]   Te présenter sur Slack dans [🔒`#general`](https://startups-detat.slack.com/messages/general) ! 👋
 * [ ]   Propose une date pour un pot d'arrivée dans [🔒`#general`](https://startups-detat.slack.com/messages/general) ou à `incubateur@beta.gouv.fr` ! 🍺 On se retrouve déjà le mercredi soir, tu peux proposer ton pot à ce moment-là.
 * [ ]   Te présenter à ta voisine ou ton voisin dans l'openspace
-* [ ]   Lire la [charte](../bienvenue/charte.md) de l'Incubateur.
+* [ ]   Lire la [charte](../bienvenue/charte.md) et les [normes de conduite](../bienvenue/normes-de-conduite.md) de beta.gouv.fr.
 * [ ]   Participer au Standup de l'incubateur le mercredi à 12h dans les bureaux de Ségur
-* [ ]   Lire l'article [Comment présenter beta.gouv.fr](../bienvenue/presenter-de-beta.gouv.fr.md)
 * [ ]   Si tu intègres une nouvelle Startup, [écrire la fiche produit](https://github.com/betagouv/beta.gouv.fr/blob/master/CONTRIBUTING.md#ajouter-une-startup) sur `beta.gouv.fr` ou si tu rejoins une équipe existante, s'imprégner de la description faite sur [`beta.gouv.fr`](https://beta.gouv.fr/startups)
 * [ ]   Créer un canal dans le Slack beta.gouv pour la Startup, sur le format `startup-<nom de ta startup>` ou rejoindre le ou les canaux de ta Startup, identifiables par leur format : `startup-<nom de ta startup>[-<suffixe-optionnel>]`.
 
 ### Le premier mois
 
-* [ ]   Participer à un événement d'onboarding en septembre \(plus de détails à venir\)
+* [ ]   Participer à un 🛫 **atelier d'embarquement beta.gouv.fr** \(ils sont régulièrement organisés et référencés sur [l'agenda public de l'incubateur](https://calendar.google.com/calendar/embed?src=0ieonqap1r5jeal5ugeuhoovlg%40group.calendar.google.com&ctz=Europe/Paris)\)
+
+> Tu trouveras ici la [présentation déroulée lors de cet atelier](https://docs.google.com/presentation/d/18_kmamrWVEedzn4kfJQHXqmBov5daSM913yBzCDXNhg/edit?usp=sharing) \(dernière màj : juin 2020\)
+
 * [ ]   Participer à un petit [Séminaire ](../../incubateur-de-la-dinum/nos-rituels/seminaire.md)- 1 mercredi sur 2 à 15h
 * [ ]   Proposer de l'aide à quelqu'un en galère dans l'openspace
 * [ ]   Venir à un point de rencontre régulier :

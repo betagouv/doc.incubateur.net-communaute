@@ -7,8 +7,8 @@ description: Rédaction en cours
 Nous allons essayer de répondre à ces questions :
 
 * quel est le statut des informations publiées dans ce guide ?
-*  Est-ce qu'il existe déjà à ce jour un énoncé partagé et satisfaisant du workflow d'édition des guides de la communauté ?
-* Où des informations qui me permettraient de faire la différence entre un brouillon de documentation, et une documentation stabilisée ?
+* est-ce qu'il existe déjà à ce jour un énoncé partagé et satisfaisant du protocole d'édition des guides de la communauté ?
+* y'a-t-il des informations qui me permettraient de faire la différence entre un brouillon de documentation, et une documentation stabilisée ?
 * qui valide la documentation avant publication ?
 
 ## Quel est le statut des informations publiées dans ce guide ?
@@ -17,7 +17,7 @@ Il s'agit d'un recueil de consensus, en perpétuelle évolution au gré des appr
 
 Ces informations peuvent dont évoluer. Elles peuvent également être mentionnées comme "en cours de documentation" ou tout autre mention explicite sur le statut du contenu.
 
-## Est-ce qu'il existe déjà à ce jour un énoncé partagé et satisfaisant du workflow d'édition des guides de la communauté ?
+## Est-ce qu'il existe déjà à ce jour un énoncé partagé et satisfaisant du protocole d'édition des guides de la communauté ?
 
 Vous avez deux manières de démarrer une documentation non définitive destinée à ce guide :
 
