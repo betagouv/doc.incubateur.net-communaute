@@ -1,6 +1,11 @@
-# 📚 Références bibliographiques
+---
+description: >-
+  Vous avez un article scientifique à écrire sur les Startups d'État,
+  l'Incubateur de la DINUM, la modernisation de l'administration par le
+  numérique ? Ces références peuvent vous être utiles.
+---
 
-Vous avez un article scientifique à écrire sur les Startups d'État, l'Incubateur de la DINUM, la modernisation de l'administration par le numérique ? Ces références peuvent vous être utiles.
+# 📚 Références bibliographiques
 
 ###  Startups d'État
 
@@ -58,4 +63,8 @@ Quelques éléments de compréhension, ainsi que des références éparpillées 
 * Cockburn, Alistair. 2004. Crystal Clear: a human-powered methodology for small teams. Pearson Education.
 * Jørgensen, Magne. 2016. [A Survey on the Characteristics of Projects with Success in Delivering Client Benefits](https://www.simula.no/publications/survey-characteristics-projects-success-delivering-client-benefits). Information and Software Technology, vol. 78, pp. 83-94.
 * Schneider, Matti. 2012. [Partage de représentations et ritualisation au sein d’une équipe de développement logiciel agile](https://mattischneider.fr/anthropologie/agile/thesis/). Master 2 d’Anthropologie Cognitive et Sociale, mention Nature et Forme de la Coopération.
+
+### Références étrangères
+
+🇨🇦 [Guide de la conception de services numériques de l'Ontario](https://www.ontario.ca/fr/page/guide-de-la-conception-de-service)
 
