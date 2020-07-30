@@ -10,13 +10,12 @@
 
 ## 👷 Travailler à Beta Gouv
 
-* [👋 Bienvenue](travailler-a-beta-gouv/bienvenue/README.md)
+* [👋 Bienvenue / On embarque 🛫 !](travailler-a-beta-gouv/bienvenue/README.md)
   * [Notre charte](travailler-a-beta-gouv/bienvenue/charte.md)
   * [Normes de conduite](travailler-a-beta-gouv/bienvenue/normes-de-conduite.md)
   * [Environnement de travail](travailler-a-beta-gouv/bienvenue/environnement-de-travail.md)
-* [🛫 Embarquement](travailler-a-beta-gouv/embarquement/README.md)
-  * [To do d'arrivée](travailler-a-beta-gouv/embarquement/to-do-darrivee.md)
-  * [Marainnage](travailler-a-beta-gouv/embarquement/marainnage.md)
+  * [To do: que faire pendant les premiers mois à beta.gouv.fr ?](travailler-a-beta-gouv/bienvenue/to-do-darrivee.md)
+  * [Marrainage](travailler-a-beta-gouv/bienvenue/marrainage.md)
 * [🎯 Recrutement](travailler-a-beta-gouv/recrutement/README.md)
   * [Comment recruter ?](travailler-a-beta-gouv/recrutement/comment-recruter.md)
   * [Publier une offre d'embauche](travailler-a-beta-gouv/recrutement/publier-une-offre-dembauche.md)
