@@ -60,6 +60,7 @@ Dans tous les cas vous pouvez demander de l'aide sur Slack `#incubateur-help` ou
   * startups : tu peux mettre le nom de code de ta startup à la place de "super\_startup" sinon supprime la ligne qui contient "super\_startup"
   * A la place de "Écrit des autobiographies percutantes en moins de 200 caractères depuis 1972." tu peux écrire un petit mot cours sur toi en ~ 200 caractère
   * Tu peux supprimer les `#` avec le texte à la suite de la ligne
+  * Si tu as pu compléter une bonne partie mais tu as encore des doutes, passe quand même au étape suivante et marque tes doutes dans la description de l'étape "Pull Request"
 * Une fois les modifications faite, en bas de la page la page, tu peux metter un titre à ta modification à la place de `Create prenom.nom.md` et faire **Propose new file**
 
 ![](../../.gitbook/assets/image%20%289%29.png)
