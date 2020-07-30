@@ -15,7 +15,7 @@ Tu peux utiliser : [🔒`#incubateur-help`](https://startups-detat.slack.com/mes
 > L'ordre des éléments n'est pas anodin dans certains cas. Par exemple, il te faut une fiche sur beta.gouv.fr qui est créé sur Github pour ensuite autoriser la création de ton adresse email. Ton adresse email te permet de rejoindre Slack
 
 * [ ]   Découvrir la page [Bienvenue](./) \(tu es déjà dessus ^^\) sur la documentation qui m'explique tout un tas de choses indispensables comme :
-  *  ✉️ Créer mes comptes[ Github](../../outils/github.md), puis  [email](../../outils/emails.md) et [Slack](../../outils/slack.md)
+  *  ✉️ Créer mes comptes[ Github](../../outils/github/), puis  [email](../../outils/emails.md) et [Slack](../../outils/slack.md)
   *   Demander mon [badge d'accès à Ségur](../../incubateur-de-la-dinum/locaux/badge-pour-travailler-a-segur.md) 
   *   Avoir un [marrain ou une parraine](marrainage.md)
 * [ ]   Te présenter sur Slack dans [🔒`#general`](https://startups-detat.slack.com/messages/general) ! 👋

@@ -1,21 +1,4 @@
-# 📝 Github
-
-## Se créer un compte Github ou demander à ton·ta marrain·e de faire ta fiche pour toi
-
-Si tu créé ton compte Github \(tu seras plus autonome\)
-
-*  [Activer l'authentification double facteur](https://github.com/settings/security) sur GitHub.
-
-> Notre organisation gagne en visibilité, plusieurs de nos dépôts sont déployés automatiquement… Bref, notre aspect DevOps combiné au fait de travailler au sein de l'État nécessite un durcissement des accès pour éviter une publication malicieuse sur un service en production.
-
-* Met ta photo \(ou une image personnalisé si tu ne veux pas diffuser ta photo\) sur Github : [Settings](https://github.com/settings/profile) \(Elle servira pour la page communauté de beta.gouv.fr\).
-* Ajoute-toi sur la page Communauté ![:camera:](https://camo.githubusercontent.com/7fa2053e303b83675dbaf13562064520c4cf7dda/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f69636f6e732f656d6f6a692f756e69636f64652f31663466372e706e67) : [plus d'infos ici pour contribuer au site](https://github.com/betagouv/beta.gouv.fr/blob/master/CONTRIBUTING.md#ajouter-ou-modifier-un-membre-%C3%A0-la-communaut%C3%A9-betagouv) \(Si tu n'as jamais ou très peu utilisé Github, tu peux t'aider du [tutoriel Github](https://github.com/betagouv/beta.gouv.fr/wiki/Tutoriel-Github)\).
-
-> Tu seras automatiquement inscrit sur la mailing list `incubateur@beta.gouv.fr` dans les 24h \(\*\). Tu pourras aussi recevoir des rappels pour certains événements importants \(renouvellement de ta participation\), et autres prestations de notre [secrétariat automatisé](https://github.com/betagouv/betaGouvBot).
-
-> Tu seras automatiquement ajouté à l'organisation Github dans les 24h \(\*\). Si ce n'est pas le cas, demande à ton·ta marrain·e une invitation pour rejoindre l'organisation [betagouv](https://github.com/orgs/betagouv/teams) et sur la team [beta.gouv.fr](https://github.com/orgs/betagouv/teams/beta-gouv-fr).
-
-\(\*\) Notre secrétariat robotisé tourne tous les jours à 13h. Si tu as publié ta fiche dans la matinée, tu recevras ton invitation pour l'après-midi. Sinon, il faudra patienter jusqu'au lendemain!
+# Plus de pas sur Github
 
 ## Comment contribuer à notre site avec l'interface web de Github ?
 
