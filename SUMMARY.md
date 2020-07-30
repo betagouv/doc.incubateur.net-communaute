@@ -25,7 +25,7 @@
 * [🎓 Se former](travailler-a-beta-gouv/se-former/README.md)
   * [Certification des intrapreneurs](travailler-a-beta-gouv/se-former/certification-des-intrapreneurs.md)
   * [Groupe de co-développement professionnel](travailler-a-beta-gouv/se-former/groupe-de-co-developpement-professionnel.md)
-* [🙌 Actions transverses](travailler-a-beta-gouv/actions-transverses.md)
+* [🖖 Actions transverses](travailler-a-beta-gouv/actions-transverses.md)
 * [🙋 Au revoir](travailler-a-beta-gouv/au-revoir.md)
 
 ## 🙌 Animation

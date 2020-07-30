@@ -2,7 +2,7 @@
 description: '[Documentation en cours de rédaction - non validée]'
 ---
 
-# 🙌 Actions transverses
+# 🖖 Actions transverses
 
 ### En tant que membre de bêta, je souhaite savoir comment fonctionne les actions transverses au sein de la communauté <a id="En-tant-que-membre-de-b&#xEA;ta-souhaitant-savoir-comment-fonctionne-les-actions-transverses"></a>
 
