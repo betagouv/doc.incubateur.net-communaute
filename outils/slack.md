@@ -115,3 +115,19 @@ Voir le paragraphe sur [la commande `/emails`](https://github.com/betagouv/beta.
   * Si vous faites une install pip en local, le binaire peut se trouver à `./.local/bin/slack-cleaner` \(à remplacer dans la commande\)
 * Lancer la commande `slack-cleaner --token {TOKEN} --file --before 20170101 --confirm` maintenant \(changer la date\)
 
+### Lutter contre la Slacknésie
+
+Astuce partagée sur Slack par un membre de la communauté : 
+
+_Certains ont des secrets minceurs, moi j'ai un secret Slacknésie \(= disparition automatique d'anciens messages de Slack après quelques jours\)...J'ai constaté qu'entre 1 à 5 % des messages de Slack pourraient m'être utiles à l'avenir. Sauf qu'avec notre licence "gratuite" Slack ces messages disparaissent trop vites. Je suis donc frustré.  
+J'ai découvert qu'en taguant "Enregistrer" certains messages \(le logo ressemble à un marque-page_ ![:marque-page:](https://a.slack-edge.com/production-standard-emoji-assets/10.2/google-medium/1f516@2x.png) _quand vous passez la souris sur un message\) , ma frustration s'apaisait.  
+Par exemple :  
+les messages où je pose une question et dont je souhaite avoir la réponse même dans 30 jours,_
+
+* _les réponses qui me sont apportées mais que je ne traiterais que dans 20 jours,_
+* _les messages d'autres collègues dont je sais qu'ils me seront probablement utiles dans 35 jours,_
+* _..._
+
+_J'ai observé qu'une fois taguée, ces messages sont disponibles dans la rubrique "éléments enregistrés" sans date de péremption. C'est pratique.  
+Je ne dois pas être le seul à le savoir mais hier une collègue a semblé le découvrir. Donc peut-être que d'autres vont le découvrir et seront un peu moins frustrés._
+
