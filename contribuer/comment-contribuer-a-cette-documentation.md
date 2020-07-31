@@ -9,13 +9,10 @@
 
 Chaque membre de la communauté peut devenir éditeur et proposer des modifications et améliorations à ce guide en ligne.
 
-* Pour contribuer à ce guide \(gitbook\), il suffit de suivre ces 3 étapes : 
-  * rejoindre le lien sur le salon [\#incubateur-documentation \(sur Slack\)](https://app.slack.com/client/T04C2PSNY/C011EK4NQH3/thread/C011EK4NQH3-1589360618.012400) 
-  * Cliquer sur le lien situé dans le chapeau du nom du salon. Ce lien n'est pas public pour des raisons de sécurité.
+Pour contribuer à ce guide \(gitbook\), tu as deux choix :
 
-![Capture d&apos;&#xE9;cran du lien o&#xF9; cliquer](../.gitbook/assets/image%20%282%29.png)
-
-Si tu es doué avec github, tu peux aussi modifier ce guide directement [ici](https://github.com/betagouv/doc.incubateur.net-communaute).
+* simplement poster ce message sur Slack : "Bonjour, j'aimerai savoir comment **modifier la documentation?"** . Le lien de connexion te sera envoyé automatiquement.
+* Si tu es doué avec github, tu peux aussi modifier ce guide directement [ici](https://github.com/betagouv/doc.incubateur.net-communaute).
 
 Tu ne prends aucun risque à "casser" quoi que ce soit.
 
