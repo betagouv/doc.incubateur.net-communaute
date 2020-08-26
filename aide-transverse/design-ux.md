@@ -51,8 +51,13 @@ Dès qu’on reçoit votre demande, on s’organise dans la semaine pour faire u
 
 Nous adorons écouter vos utilisateurs et réfléchir ensemble à des pistes pour améliorer vos produits et vos processus.   
 Design = beau ? Perdu ! design = conception = cadrage ;\)  
-Nous sommes six : Amandine Audras, Jérémie Cook, Anne-Sophie Tranchet, Marina Wiesel, Raphaël Yharrassarry et Aurélie Jallut.  
+Nous sommes six : Amandine Audras, Jérémie Cook, Anne-Sophie Tranchet, Marina Wiesel, Raphaël Yharrassarry et Aurélie Jallut.
 
+_Les 3 objectifs des designers transverses_
+
+* **Accompagner les SE \(intervention\)** indicateur : nb SE accompagnées
+* **Rendre les SE autonomes \(mentorat\)** indicateur : nb de participants
+* **Mutualiser \(accompagner à l’échelle\)** indicateur : nb d’initiatives réalisées pour Beta 
 
 ## Budget prévu
 
