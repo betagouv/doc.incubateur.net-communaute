@@ -29,7 +29,7 @@ Tu veux travailler dans les bureaux de Ségur ? Demande ton badge !
     * Gestion du temps : Agent ne bénéficiant pas du badgeage horaire
   * Ne pas compléter le reste de la deuxième page \(sauf la date\)
 
-1. Envoyer simultanément le formulaire et une photo carré couleur de face à l'email à [affairesgenerales.dinsic@modernisation.gouv.fr](mailto:affairesgenerales.dinsic@modernisation.gouv.fr) en:
+1. Envoyer simultanément le formulaire et une photo carré couleur de face à l'email à [logistique-dinum@pm.gouv.fr](mailto:logistique-dinum@pm.gouv.fr) en:
 
 * mettant Florian en cc avec son email en @beta.gouv.fr
 * et en indiquant la fréquence de tes visites à Ségur \(1x par semaine / 3x par semaine\)
