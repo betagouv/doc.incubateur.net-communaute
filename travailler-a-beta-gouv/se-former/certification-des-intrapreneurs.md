@@ -58,6 +58,16 @@ La certification visée, de son nom complet “[Méthodologies d’entrepreneuri
 Vous y trouverez le détail des compétences attestées et le niveau d’autonomie attendu.  
 Ne prêtez toutefois pas à attention aux modalités d’évaluation spécifiées car nous les avons adaptées dans notre cas.
 
+En résumé, voici **les 7 compétences évaluées** :
+
+* **Recherche Utilisateur**
+* **Idéation/Conception**
+* **Prototypage**
+*  **Test**
+* **Création d’un modèle d’affaires adapté au contexte du secteur public**
+* **Stratégie d’acquisition clients/usagers/administrés**
+*  **Pitch**
+
 ## ![:fus&#xE9;e:](https://a.slack-edge.com/production-standard-emoji-assets/10.2/google-medium/1f680.png) **Comment ça va se passer ?**
 
 ### \*\*\*\*![:un:](https://a.slack-edge.com/production-standard-emoji-assets/10.2/google-medium/0031-fe0f-20e3.png) **Première étape :** 
