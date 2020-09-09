@@ -10,7 +10,7 @@ description: '[Documentation en cours de rédaction - non validée]'
 
 Tous les membres d’une Startup d’État ou de territoire, ou d’un incubateur/fabrique du réseau sont légitimes pour proposer ou participer.  
 Votre participation est explicitement souhaitée quelque soit votre rôle, ancienneté ou expertise.  
-Participer à des actions transverses pour la communauté, c’est également participer indirectement à aider sa Startup d’Etat ou de Territoires :
+Participer à des actions transverses pour la communauté, c’est également participer indirectement à aider sa Startup d’État ou de Territoires :
 
 * ça vous permet de bénéficier de l’expertise d’autres membres en réalisant des actions avec eux. C’est une sorte d’acquis de compétences/connaissances par l’apprentissage que vous pourrez réutiliser dans votre équipe;
 * ça permet de faire progresser la communauté sur ses irritants et donc potentiellement d'aider votre équipe si elle est concernée;
