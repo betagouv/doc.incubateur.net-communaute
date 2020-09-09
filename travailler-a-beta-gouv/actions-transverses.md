@@ -4,7 +4,7 @@ description: '[Documentation en cours de rédaction - non validée]'
 
 # 🖖 Actions transverses
 
-### En tant que membre de bêta, je souhaite savoir comment fonctionne les actions transverses au sein de la communauté <a id="En-tant-que-membre-de-b&#xEA;ta-souhaitant-savoir-comment-fonctionne-les-actions-transverses"></a>
+### En tant que membre de bêta, je souhaite savoir comment fonctionnent les actions transverses \(taskforces\) au sein de la communauté <a id="En-tant-que-membre-de-b&#xEA;ta-souhaitant-savoir-comment-fonctionne-les-actions-transverses"></a>
 
 #### 1. Est-ce que j’ai le droit de proposer ou de participer aux actions transverses de beta.gouv ? <a id="1-Est-ce-que-j&#x2019;ai-le-droit-de-proposer-ou-de-participer-aux-actions-transverses-de-betagouv-"></a>
 
