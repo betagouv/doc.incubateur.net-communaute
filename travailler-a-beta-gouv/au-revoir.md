@@ -10,11 +10,11 @@ description: "Tu nous quittes ? On espère que tu as passé un moment positif av
 
 > C'est important, c'est là que se fait le suivi RH !
 
-* [ ] Rediriger ton adresse `@beta.gouv.fr` vers `departs@beta.gouv.fr` pour que les personnes écrivant à cette adresse reçoivent un répondeur les informant de ton départ.
+* [ ] Demande à un administrateur OVH sur [\#incubateur-secretaria](https://startups-detat.slack.com/archives/C0KUBLJG4) de rediriger ton adresse `@beta.gouv.fr` vers `departs@beta.gouv.fr` pour que les personnes écrivant à cette adresse reçoivent un répondeur les informant de ton départ. 
 
-> Tu peux aussi créer un répondeur personnalisé.
+> Il est possible de personnaliser le répondeur personnalisé mais c'est une étape qui prends du temps pour l'administrateur \(à utiliser avec parcimonie\).
 
-* [ ] Rejoindre la team `alumni` sur l'[organisation BetaGouv](https://github.com/orgs/betagouv/teams) de GitHub et quitter toutes les autres.
+* [ ] Si tu utilises Github : Rejoindre la team `alumni` sur l'[organisation BetaGouv](https://github.com/orgs/betagouv/teams) de GitHub et quitter toutes les autres.
 * [ ] Te retirer les droits d'écriture de [l'agenda public de l'incubateur](https://calendar.google.com/calendar/embed?src=0ieonqap1r5jeal5ugeuhoovlg%40group.calendar.google.com&ctz=Europe/Paris).
 * [ ] Faire un debrief d'une demi-heure de ton passage à l'Incubateur avec un·e permanent·e, pour qu'on puisse s'améliorer.
 * [ ] Annoncer la date de ton pot de départ à incubateur@beta.gouv.fr ! 🍻
