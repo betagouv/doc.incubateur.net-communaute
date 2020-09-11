@@ -4,8 +4,6 @@ description: Comment annoncer un évènement pour la communauté bêta ?
 
 # 📢 Annoncer un évènement
 
-_**\[En cours de documentation\]**_
-
 Nous sommes plusieurs  à  organiser et proposer des évènements pour la communauté.
 
 Nous partageons nos recommandations pour bien l'organiser.
@@ -113,9 +111,9 @@ Tu peux :
 
 ## Quel est le meilleur moment pour proposer un évènement ?
 
-Le mercredi est la journée de la semaine avec le plus d'évènements : stand-up, séminaires, divers points réguliers.
+Le **mardi** et le **jeudi** sont les deux jours les plus favorables.
 
-Nous vous recommandons donc de choisir un autre jour de la semaine.
+En outre, le mercredi est la journée de la semaine avec le plus d'évènements : stand-up, séminaires, divers points réguliers.
 
 
 
