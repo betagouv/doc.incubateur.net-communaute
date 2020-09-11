@@ -10,9 +10,21 @@ description: "Tu nous quittes ? On espère que tu as passé un moment positif av
 
 > C'est important, c'est là que se fait le suivi RH !
 
-* [ ] Demande à un administrateur OVH sur [\#incubateur-secretaria](https://startups-detat.slack.com/archives/C0KUBLJG4) de rediriger ton adresse `@beta.gouv.fr` vers `departs@beta.gouv.fr` pour que les personnes écrivant à cette adresse reçoivent un répondeur les informant de ton départ. 
+* [ ] Demande à un administrateur sur [\#incubateur-secretaria](https://startups-detat.slack.com/archives/C0KUBLJG4) de rediriger ton adresse `@beta.gouv.fr` vers `departs@beta.gouv.fr` pour que les personnes écrivant à cette adresse reçoivent un répondeur les informant de ton départ :
 
-> Il est possible de personnaliser le répondeur personnalisé mais c'est une étape qui prends du temps pour l'administrateur \(à utiliser avec parcimonie\).
+> Bonjour !
+>
+> Vous avez cherché à joindre un membre de l'incubateur de services numériques beta.gouv.fr qui n'est plus en poste.
+>
+> Pour trouver un nouvel interlocuteur, cherchez la Startup d'État que vous souhaitiez joindre sur https://beta.gouv.fr/startups et utilisez le lien « Contacter l'équipe » sur la page correspondante.
+>
+> À défaut, utilisez l'adresse contact@beta.gouv.fr.
+>
+> Bonne journée,
+>
+> L'équipe beta.gouv.fr
+
+> Il est possible de personnaliser le répondeur personnalisé mais c'est une étape qui prends un peu plus de temps pour l'administrateur \(à utiliser avec parcimonie ou à automatiser ^\).
 
 * [ ] Si tu utilises Github : Rejoindre la team `alumni` sur l'[organisation BetaGouv](https://github.com/orgs/betagouv/teams) de GitHub et quitter toutes les autres.
 * [ ] Te retirer les droits d'écriture de [l'agenda public de l'incubateur](https://calendar.google.com/calendar/embed?src=0ieonqap1r5jeal5ugeuhoovlg%40group.calendar.google.com&ctz=Europe/Paris).
