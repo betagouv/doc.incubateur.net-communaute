@@ -10,7 +10,7 @@ description: "Tu nous quittes ? On espère que tu as passé un moment positif av
 
 > C'est important, c'est là que se fait le suivi RH !
 
-* [ ] Rejoins la team `alumni` sur l'[organisation BetaGouv](https://github.com/orgs/betagouv/teams) de GitHub et quitter toutes les autres.
+* [ ] Rejoins la team `alumni` sur l'[organisation BetaGouv](https://github.com/orgs/betagouv/teams) de GitHub et quitte toutes les autres.
 * [ ] Retire-toi les droits d'écriture de [l'agenda public de l'incubateur](https://calendar.google.com/calendar/embed?src=0ieonqap1r5jeal5ugeuhoovlg%40group.calendar.google.com&ctz=Europe/Paris).
 * [ ] Prévois un debrief d'une demi-heure de ton passage à l'Incubateur avec un·e permanent·e, pour qu'on puisse s'améliorer.
 * [ ] Annonce la date de ton pot de départ à incubateur@beta.gouv.fr ! 🍻
