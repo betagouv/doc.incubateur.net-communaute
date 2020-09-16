@@ -4,7 +4,7 @@
 
 Tu veux travailler dans les bureaux de Ségur ? Demande ton badge !
 
-1. Demande le badge sur [\#bureaux-segur](https://startups-detat.slack.com/archives/C74HCKV8A). Ce document est jugé comme confidentiel par l'administration, nous ne pouvons pas le rendre public malheureusement.
+1. Demande le badge sur [\#bureaux-segur](https://startups-detat.slack.com/archives/C74HCKV8A) en indiquant la formule "badge segur". Ce document est jugé comme confidentiel par l'administration, nous ne pouvons pas le rendre public malheureusement.
 
 * Le remplir \(possible directement depuis son PC avec un logiciel compatible, sinon en papier\) avec :
   * Demandeur
