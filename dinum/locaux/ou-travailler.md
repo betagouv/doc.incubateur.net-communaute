@@ -20,9 +20,9 @@ Le Ground Control n'ouvre qu'à partir de midi, est fermé le lundi, et offre un
 
 **Beta.gouv.fr en dehors de Paris ?**
 
-Des membres de la communauté Beta.gouv.fr travaillent un peu partout en France. Il existe une carte qui les recence. Tous les membres qui le souhaitent peuvent la [consulter ou la mettre à jour](http://umap.openstreetmap.fr/fr/map/anonymous-edit/498937:rNZ9vgD45VPxZlCh2TPIJoO6K0A) .
+Des membres de la communauté Beta.gouv.fr travaillent un peu partout en France. Il existe une carte qui les recence. Tous les membres qui le souhaitent peuvent la [consulter ou la mettre à jour](http://umap.openstreetmap.fr/fr/map/anonymous-edit/498937:rNZ9vgD45VPxZlCh2TPIJoO6K0A) \(pour ajouter une position, cliquez en haut à droite sur le stylo puis sur Ajouter un marqueur. Dans le marqueur, saisissez votre nom-prénom, pour pouvoir être contacté sur Slack.\). Vous pourrez ainsi peut-être trouver un membre près de chez vous pour télétravailler ensemble, partager un coworking ou tout simplement un ☕️
 
-[![Carte de la communaut&#xE9;](../../.gitbook/assets/image%20%2815%29.png)](http://umap.openstreetmap.fr/fr/map/anonymous-edit/498937:rNZ9vgD45VPxZlCh2TPIJoO6K0A)
+![Carte de la communaut&#xE9;](../../.gitbook/assets/image%20%2815%29.png)
 
 À Lyon, la start-up Registre de Preuve de Covoiturage paie un abonnement mensuel pour réserver 2 postes de travail dans l'espace de co-working Le Tuba. Ces postes sont mis à disposition de tous les membres de la communauté beta.gouv.fr qui en ferait la demande. Si cela t'intéresse, tu peux contacter Margot Sanchez \(margot.sanchez@beta.gouv.fr\) pour discuter avec elle de la possibilité de venir travailler au Tuba. 145 Cours Lafayette, 69006 Lyon
 
