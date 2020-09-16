@@ -1,4 +1,4 @@
-# 👋 Bienvenue (🛫 On embarque !)
+# 👋 Bienvenue / On embarque 🛫 !
 
 Tu nous rejoins ? Bienvenue à bord ! 
 
@@ -16,7 +16,7 @@ Tu peux utiliser : [🔒`#incubateur-help`](https://startups-detat.slack.com/mes
 
 * [ ]   Découvrir la page [Bienvenue](./) \(tu es déjà dessus ^^\) sur la documentation qui m'explique tout un tas de choses indispensables comme :
   *  ✉️ Créer mes comptes[ Github](../../outils/github/), puis  [email](../../outils/emails.md) et [Slack](../../outils/slack.md)
-  *   Demander mon [badge d'accès à Ségur](../../incubateur-de-la-dinum/locaux/badge-pour-travailler-a-segur.md) 
+  *   Demander mon [badge d'accès à Ségur](../../dinum/locaux/badge-pour-travailler-a-segur.md) 
   *   Avoir un [marrain ou une parraine](marrainage.md)
 * [ ]   Te présenter sur Slack dans [🔒`#general`](https://startups-detat.slack.com/messages/general) ! 👋
 * [ ]   Propose une date pour un pot d'arrivée dans [🔒`#general`](https://startups-detat.slack.com/messages/general) ou à `incubateur@beta.gouv.fr` ! 🍺 On se retrouve déjà le mercredi soir, tu peux proposer ton pot à ce moment-là.

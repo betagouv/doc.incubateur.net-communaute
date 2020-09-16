@@ -10,7 +10,7 @@ Pour comprendre beta.gouv.fr, rien d'obligé bien sûr !
 
 > Tu trouveras ici la [présentation déroulée lors de cet atelier](https://docs.google.com/presentation/d/18_kmamrWVEedzn4kfJQHXqmBov5daSM913yBzCDXNhg/edit?usp=sharing) \(dernière màj : juin 2020\)
 
-* [ ]   Participer à un petit [Séminaire ](../../incubateur-de-la-dinum/nos-rituels/seminaire.md)- 1 mercredi sur 2 à 15h
+* [ ]   Participer à un petit [Séminaire ](../../dinum/rituels/seminaire.md)- 1 mercredi sur 2 à 15h
 * [ ]   Proposer de l'aide à quelqu'un en galère dans l'openspace
 * [ ]   Venir à un point de rencontre régulier :
   *   Rencontre dev : partage sur les pratiques de développement informatiques [🔒`#domaine-dev`](https://startups-detat.slack.com/messages/domaine-dev) - 2ème mercredi du mois de 10h30 à 12h
@@ -23,9 +23,9 @@ Pour comprendre beta.gouv.fr, rien d'obligé bien sûr !
 ###  Au cours des 6 premiers mois
 
 * [ ]   S'abonner à la mailinglist `contact@beta.gouv.fr` [Listes de diffusion](../../outils/liste-de-diffusion-et-adresses-de-contact.md)
-* [ ]   Animer le [Stand-up](../../incubateur-de-la-dinum/nos-rituels/revue-davancement-du-mercredi-stand-up.md) \(seul prérequis : avoir déjà vu au moins 1 standup\)
-* [ ]   Participer au prochain [Grand Séminaire](../../incubateur-de-la-dinum/nos-rituels/grand-seminaire-1.md) \(tous les 6 mois, 2 jours à la campagne\)
-* [ ]   Animer le [Séminaire ](../../incubateur-de-la-dinum/nos-rituels/seminaire.md)\(seul prérequis : avoir déjà vu au moins 1 petit séminaire\)
+* [ ]   Animer le [Stand-up](../../dinum/rituels/standup.md) \(seul prérequis : avoir déjà vu au moins 1 standup\)
+* [ ]   Participer au prochain [Grand Séminaire](../../dinum/rituels/grand-seminaire-1.md) \(tous les 6 mois, 2 jours à la campagne\)
+* [ ]   Animer le [Séminaire ](../../dinum/rituels/seminaire.md)\(seul prérequis : avoir déjà vu au moins 1 petit séminaire\)
 * [ ]   Commenter et valider une pull request sur github : [https://github.com/betagouv/beta.gouv.fr/pulls](https://github.com/betagouv/beta.gouv.fr/pulls)
 
 > Attention à ne pas tout faire en simultanée, il y a risque d'overdose 😄

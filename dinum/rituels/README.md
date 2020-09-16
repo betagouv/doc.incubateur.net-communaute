@@ -1,6 +1,6 @@
 # 📆 Nos rituels
 
-{% page-ref page="revue-davancement-du-mercredi-stand-up.md" %}
+{% page-ref page="standup.md" %}
 
 {% page-ref page="seminaire.md" %}
 
