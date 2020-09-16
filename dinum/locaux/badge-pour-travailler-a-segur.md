@@ -4,7 +4,7 @@
 
 Tu veux travailler dans les bureaux de Ségur ? Demande ton badge !
 
-1. Télécharger le [formulaire de demande de badge modifiable sur slack](https://startups-detat.slack.com/files/U2XLYDU2Y/FPAU2464A/formulaire-arrivee-aout2019.pdf) ou [sur le wiki DINSIC \(en accès limité\)](https://dinsic.xwiki.com/xwiki/bin/login/XWiki/XWikiLogin;jsessionid=57DD606561AB79E7FDB6310EC18AC324?srid=VdLCm0oG&xredirect=%2Fxwiki%2Fbin%2Fview%2FDINSIC%2FFonctions_transverses%2FPole_des_affaires_generales%2FBadges%2F%3Fsrid%3DVdLCm0oG#Attachments)
+1. Demande le badge sur [\#bureaux-segur](https://startups-detat.slack.com/archives/C74HCKV8A). Ce document est jugé comme confidentiel par l'administration, nous ne pouvons pas le rendre public malheureusement.
 
 * Le remplir \(possible directement depuis son PC avec un logiciel compatible, sinon en papier\) avec :
   * Demandeur
