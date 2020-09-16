@@ -10,7 +10,7 @@
 
 ## 👷 Travailler à Beta Gouv
 
-* [👋 Bienvenue / On embarque 🛫 !](travailler-a-beta-gouv/bienvenue/README.md)
+* [👋 Bienvenue \(🛫 On embarque !\)](travailler-a-beta-gouv/bienvenue/README.md)
   * [Notre charte](travailler-a-beta-gouv/bienvenue/charte.md)
   * [Normes de conduite](travailler-a-beta-gouv/bienvenue/normes-de-conduite.md)
   * [Environnement de travail](travailler-a-beta-gouv/bienvenue/environnement-de-travail.md)
@@ -25,7 +25,6 @@
 * [🎓 Se former](travailler-a-beta-gouv/se-former/README.md)
   * [Certification des intrapreneurs](travailler-a-beta-gouv/se-former/certification-des-intrapreneurs.md)
   * [Groupe de co-développement professionnel](travailler-a-beta-gouv/se-former/groupe-de-co-developpement-professionnel.md)
-* [🛬 Stop ou encore ?](travailler-a-beta-gouv/stop-ou-encore.md)
 * [🖖 Actions transverses](travailler-a-beta-gouv/actions-transverses.md)
 * [🙋 Au revoir](travailler-a-beta-gouv/au-revoir.md)
 

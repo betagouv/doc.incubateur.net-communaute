@@ -1,4 +1,4 @@
-# 👋 Bienvenue / On embarque 🛫 !
+# 👋 Bienvenue \(🛫 On embarque !\)
 
 Tu nous rejoins ? Bienvenue à bord ! 
 
