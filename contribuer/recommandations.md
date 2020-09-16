@@ -43,7 +43,7 @@ Afin de faciliter l'intégration des nouvelles recrues et de fluidifier la commu
 
 ### Écriture épicène
 
-Nos produits s'adressent à toutes et à tous, mais la langue française nous confronte souvent à des choix de genre \(féminin ou masculin\). Notamment, le genre "par défaut" est le masculin lorsqu'on évoque un groupe de personnes ("les usagers") ou une personne hypothétique ("le visiteur"), or des études empiriques montrent qu'indépendamment des descriptions théoriques de la grammaire de la langue, ces choix ont [un effet sur les représentations mentales](https://www.persee.fr/doc/psy_0003-5033_2008_num_108_2_30971) et donc sur la conception des produits.
+Nos produits s'adressent à toutes et à tous, mais la langue française nous confronte souvent à des choix de genre \(féminin ou masculin\). Notamment, le genre "par défaut" est le masculin lorsqu'on évoque un groupe de personnes \("les usagers"\) ou une personne hypothétique \("le visiteur"\), or des études empiriques montrent qu'indépendamment des descriptions théoriques de la grammaire de la langue, ces choix ont [un effet sur les représentations mentales](https://www.persee.fr/doc/psy_0003-5033_2008_num_108_2_30971) et donc sur la conception des produits.
 
 Pour éviter d'introduire des suppositions genrées et rendre ainsi plus inclusifs nos produits, construisez des phrases **neutres en genre**.
 
