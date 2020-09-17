@@ -2,7 +2,16 @@
 
 ## Le `Growth Hacking`, qu'est-ce que c'est ?
 
-Le growth hacking recouvre toutes les tactiques d'acquisition, de conversion \(activation\), de rétention \(fidélisation\) d'utilisateurs d'une startup. Ils participent à augmenter l'impact d'un produit. 
+Le growth hacking \(GH\) recouvre toutes les tactiques d'acquisition, de conversion \(activation\), de rétention \(fidélisation\) d'utilisateurs d'une startup. Ils participent à augmenter l'impact d'un produit. 
+
+Le GH permet donc de s'attaquer aux freins qui bloquent la  croissance organique de la SE, et donc l'augmentation de son impact:
+
+* trop peu de personnes connaissent le service proposé 
+* trop peu personnes s'inscrive puis utilise  le service
+* trop peu de personnes utilise régulièrement le service
+* trop peu de personnes deviennent ambassadrices du service. 
+
+Au final, l'impact est faible. 
 
 C'est un mélange de marketing \(souvent digital\), d'ingénierie informatique, et d'analyse de données 
 
