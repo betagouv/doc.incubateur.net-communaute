@@ -68,6 +68,7 @@
 
 ## Nos services à destination...
 
+* [des structures partenaires \(incubateurs, fabriques, etc\)](nos-services-a-destination.../des-structures-partenaires-incubateurs-fabriques-etc.md)
 * [des opérateurs de l’État](nos-services-a-destination.../des-operateurs-de-letat.md)
 * [des administrations territoriales](nos-services-a-destination.../des-administrations-territoriales.md)
 * [des entreprises](nos-services-a-destination.../des-entreprises.md)
