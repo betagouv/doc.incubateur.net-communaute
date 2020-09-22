@@ -4,7 +4,7 @@ description: "\U0001F9ED Toutes les ressources pour aider les membres de la comm
 
 # Guide pour la communauté
 
-## Bienvenue sur la documentation Beta Gouv !
+## Bienvenue sur la documentation beta.gouv.fr !
 
 Elle documente ce que les membres des Startups d'État ont appris.
 
