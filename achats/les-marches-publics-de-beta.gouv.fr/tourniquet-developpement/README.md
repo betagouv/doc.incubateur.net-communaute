@@ -12,7 +12,9 @@ Les attributaires du marché sont, dans l'ordre :
 
 ### Avant de déclencher tourniquet
 
-Quand un nouveau bon de commande doit être émis, la décision de déclencher ou non un tourniquet est soumise au processus suivant : \[\[images/uml/pre-tourniquet.svg\]\]
+Quand un nouveau bon de commande doit être émis, la décision de déclencher ou non un tourniquet est soumise au processus suivant : 
+
+![](../../../.gitbook/assets/image%20%2817%29.png)
 
 Pour répondre aux questions "la startup a-t-elle déjà émis une EB dans le cadre du nouveau marché ?", consulter l'onglet "Tourniquet Dev" de la feuille Tourniquet marchés DINUM.
 
@@ -30,7 +32,7 @@ Le tourniquet est un processus qui permet d'associer chaque Startup d’État à
 
 Les principes du tourniquet :
 
-\[\[images/uml/tourniquet.svg\]\]
+![](../../../.gitbook/assets/image%20%2816%29.png)
 
 ### Lexique
 

@@ -21,7 +21,7 @@ Pour vous aider à orienter votre choix :
 
 ### Les autres guides thématiques :
 
-* \*\*\*\*[**Le guide Design**](https://doc.incubateur.net/design/) ****pour la communauté. Vous trouverez toutes les ressources UX et UI utiles pour vos Startups d’État.
+* \*\*\*\*[**Le guide Design**](https://doc.incubateur.net/design/) _\*\*_pour la communauté. Vous trouverez toutes les ressources UX et UI utiles pour vos Startups d’État.
 * \*\*\*\*[**Le guide Consolidation/Transfert**](https://doc.incubateur.net/consolidation/) pour les Startups d’État qui arrivent à cette étape.
 
 ## Tu viens de nous rejoindre ?
@@ -32,6 +32,4 @@ Pour vous aider à orienter votre choix :
 * tu peux aussi demander à ton marrain
 * si tu as déjà tes accès Slack, tu peux demander de l'aide sur 💬 [`#incubateur-help`](https://startups-detat.slack.com/messages/incubateur-help/)
 * et par mail à `contact@beta.gouv.fr`
-
-
 
