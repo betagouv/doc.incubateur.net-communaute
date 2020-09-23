@@ -2,7 +2,7 @@
 
 ### Boîtes mail
 
-Les membres des Startups peuvent obtenir une boîte mail de type `prenom.nom@beta.gouv.fr`. Pour l'obtenir, demande à un marrain·e de faire la procédure avec l'app secrétariat \(l'url est dans le sujet du canal [🔒`#incubateur-secretaria`](https://startups-detat.slack.com/messages/incubateur-secretaria/)\)
+Les membres des Startups peuvent obtenir une boîte mail de type `prenom.nom@beta.gouv.fr`. Pour l'obtenir, demande à un quelqu'un de la communauté de faire la procédure avec l'app secrétariat b\([https://secretariat.beta.gouv.fr/](https://secretariat.beta.gouv.fr/)\)
 
 Une fois que tu as ton identifiant et ton mot de passe, configure ta boite mail sur la page [Email](emails.md).
 

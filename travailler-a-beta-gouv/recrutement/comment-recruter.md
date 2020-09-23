@@ -14,9 +14,7 @@ En cas de réponse favorable, voir ensuite **\[**[**Entretien d'embauche**](entr
 
 ### Marrainage
 
-Si tu recrutes quelqu'un, tu dois lui trouver un marrain. Pour en trouver un, demande sur [🔒`#incubateur-nouveaux`](https://startups-detat.slack.com/messages/incubateur-nouveaux/).
-
-Il doit s'agir d'une personne qui a plus de 3 mois d'ancienneté, qui a de la bande passante pour répondre aux questions du nouvel arrivant, qui n'est pas dans la même équipe. Si plusieurs personnes sont dispo, privilégie celle qui marraine le moins.
+Si tu recrutes quelqu'un, tu dois lui trouver un marrain. Pour en trouver un, vas sur le secretariat \( [https://secretariat.beta.gouv.fr](https://secretariat.beta.gouv.fr) \), recherche la fiche de la personne et clique sur "Cherche un·e marrain·e".
 
 ### 48h avant l'arrivée du nouveau, envoie lui un mail de bienvenu. Par exemple :
 
@@ -30,9 +28,8 @@ Je te propose de se retrouver à 10h30, dans la tenue qui te convient,
 au 20 avenue de Ségur. Envoie moi un texto quand tu
 es à l'accueil : 06 xx xx xx xx. Je descendrai te chercher. 
 
-En attendant, tu peux jeter un œil à notre wiki, notamment
-https://github.com/betagouv/beta.gouv.fr/wiki/charte
-https://github.com/betagouv/beta.gouv.fr/wiki/Bienvenue
+En attendant, tu peux jeter un œil à notre documentation, notamment
+https://doc.incubateur.net/communaute/travailler-a-beta-gouv/bienvenue
 
 Si quelque chose n'est pas clair, c'est que je l'ai mal expliqué.
 N'hésite pas à reposer la même question autant de fois que nécessaire.

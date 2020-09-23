@@ -16,6 +16,7 @@
   * [Environnement de travail](travailler-a-beta-gouv/bienvenue/environnement-de-travail.md)
   * [To do: que faire pendant les premiers mois à beta.gouv.fr ?](travailler-a-beta-gouv/bienvenue/to-do-darrivee.md)
   * [Marrainage](travailler-a-beta-gouv/bienvenue/marrainage.md)
+  * [Embarquement par le recruteur](travailler-a-beta-gouv/bienvenue/embarquement-par-le-recruteur.md)
 * [🎯 Recrutement](travailler-a-beta-gouv/recrutement/README.md)
   * [Comment recruter ?](travailler-a-beta-gouv/recrutement/comment-recruter.md)
   * [Publier une offre d'embauche](travailler-a-beta-gouv/recrutement/publier-une-offre-dembauche.md)
