@@ -12,8 +12,7 @@ En travaillant pour une Startup d’Etat et de Territoire, vous devenez membre d
 * proposer/mettre en place des nouveaux processus ou outils 
 * participer à un groupe de travail sur le fonctionnement de la communauté \(égalité homme/femme, intégration des nouveaux membres, relation entre les incubateurs etc…\)
 
-En tant que membre, vous pouvez et êtes invités à vous engager dans la communauté. Si vous avez des questions, n’hésitez pas à demander aux autres membres de votre Startup d’Etat ou de Territoires ou sur le canal slack “general”.  
-
+En tant que membre, vous pouvez et êtes invités à vous engager dans la communauté. Si vous avez des questions, n’hésitez pas à demander aux autres membres de votre Startup d’Etat ou de Territoires ou sur le canal slack [**\#incubateur-engagement.**](https://startups-detat.slack.com/archives/CUDHRRC1Z)
 
 **Pourquoi l’engagement est important ?**  
 
