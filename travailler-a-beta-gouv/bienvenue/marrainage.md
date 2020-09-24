@@ -22,3 +22,9 @@ En tant que marrain, tu t'engages à :
 * Rester dispo pour répondre à toutes les questions du jeune Padawan.
 * Faire un follow-up un mois après son arrivée.
 
+**Si ce n'est pas déjà fait, tu peux gérer l'embarquement de ton·ta filleul·e en suivant ce lien :**
+
+{% page-ref page="embarquement-par-le-recruteur.md" %}
+
+
+

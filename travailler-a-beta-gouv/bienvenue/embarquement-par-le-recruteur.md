@@ -1,12 +1,12 @@
-# Embarquement par le recruteur
+# Comment embarquer quelqu'un ?
 
-## Checklist du recruteur \(ou membre de l'équipe\)
+## Checklist pour embarquer quelqu'un
 
 * [ ] Tu as envoyé un mail de bienvenue à la nouvelle recrue
 * [ ] Tu lui as demandé de lire la [page de bienvenue](./)
 * [ ] _\(Optionnel\) La nouvelle recrue a un compte Github sur lequelle il·elle a activé l'_[_authentification double facteur_](https://github.com/settings/security)
 * [ ] _\(Optionnel\) Tu as ajouté la nouvelle recrue à l'organisation_ [_betagouv_](https://github.com/orgs/betagouv/teams) _et à la team_ [_beta.gouv.fr_](https://github.com/orgs/betagouv/teams/beta-gouv-fr)
-* [ ] Ton·ta filleul·e a une fiche sur [https://beta.gouv.fr/communaute/](https://beta.gouv.fr/communaute/). \([Instructions pour créer une fiche sur beta.gouv.fr/communaute](https://github.com/betagouv/beta.gouv.fr/blob/master/CONTRIBUTING.md#ajouter-ou-modifier-un-membre-%C3%A0-la-communaut%C3%A9-betagouv)\)
+* [ ] Pour la nouvelle recrue une fiche sur [https://beta.gouv.fr/communaute/](https://beta.gouv.fr/communaute/). \([Instructions pour créer une fiche sur beta.gouv.fr/communaute](https://github.com/betagouv/beta.gouv.fr/blob/master/CONTRIBUTING.md#ajouter-ou-modifier-un-membre-%C3%A0-la-communaut%C3%A9-betagouv)\)
 * [ ] Tu as créé une adresse email pour la nouvelle recrue \([Créer un compte email](../../outils/emails.md)\)
 * [ ] La nouvelle recrue est sur le [Slack avec son adresse @beta.gouv.fr](https://startups-detat.slack.com/signup) et s'est présenté·e sur \#general
 * [ ] Tu as invité la nouvelle recrue à un standup
