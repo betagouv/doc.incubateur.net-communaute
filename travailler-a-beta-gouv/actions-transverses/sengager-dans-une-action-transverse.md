@@ -16,15 +16,15 @@ Aujourd’hui, le process n’est pas très clair bien qu’il en existe un qui 
 Ce n’est donc pas évident de s’y retrouver. On en est désolé.  
 C’est pourquoi un processus claire et lisible est en cours d’élaboration par une équipe transverse.  
 Il faudra être un peu patient… il sera bientôt proposé à la communauté.  
-Pour en savoir plus, le salon de discussion de cette équipe transverse est \#tmp-explorer-engagement .
+Pour en savoir plus, le salon de discussion de cette équipe transverse est [\#incubateur-engagement](https://startups-detat.slack.com/archives/CUDHRRC1Z).
 
 #### 3. Comment faire pour s’informer sur les actions transverses existantes ? <a id="3-Comment-faire-pour-s&#x2019;informer-sur-les-actions-transverses-existantes-"></a>
 
 Voici quelques conseils pour t’aider à trouver l’information :
 
-* Tu peux consulter le [trello “communauté”](https://trello.com/b/VfWw2XPM/betagouvfr-communaut%C3%A9) qui recense la majorité des actions transverses \(en sommeil, en cours ou terminé\). Tu peux demander l’accès à ce Trello sur \#general ou à [dinum@beta.gouv.fr](mailto:dinum@beta.gouv.fr).
-* Tu peux consulter la lettre d’information hebdomadaire. Pour ça, il faut impérativement avoir un email @beta.gouv.fr. Si tu n’en as pas encore, tu peux demander sur \#incubateur-embarquement \(Slack\) ou envoyer un email à [dinum@beta.gouv.fr](mailto:dinum@beta.gouv.fr).
-* Tu peux t’abonner aux salons publics sur Slack qui t’intéressent et demander quelles sont les actions transverses en cours. Par exemple, dans le salon \#domaine-intrapreneur, on te répondrait qu’il y a une action transverse “Meilleure reconnaissance des compétences des intra au sein de l’administration”.
+* Tu peux consulter le [trello “communauté”](https://trello.com/b/VfWw2XPM/betagouvfr-communaut%C3%A9) qui recense la majorité des actions transverses \(en sommeil, en cours ou terminé\). Tu peux demander l’accès à ce Trello sur [\#incubateur-engagement](https://startups-detat.slack.com/archives/CUDHRRC1Z) ou à [dinum@beta.gouv.fr](mailto:dinum@beta.gouv.fr).
+* Tu peux consulter la lettre d’information hebdomadaire. Pour ça, il faut impérativement avoir un email @beta.gouv.fr. Si tu n’en as pas encore, tu peux demander à ton co-animateur, sur [\#incubateur-engagement](https://startups-detat.slack.com/archives/CUDHRRC1Z) \(Slack\) ou envoyer un email à [dinum@beta.gouv.fr](mailto:dinum@beta.gouv.fr).
+* Tu peux t’abonner aux salons publics sur Slack qui t’intéressent et demander quelles sont les actions transverses en cours. Par exemple, dans le salon \#domaine-intrapreneur, on te répondrait qu’il y a une action transverse “Meilleure reconnaissance des compétences des intra au sein de l’administration” ou dans le salon \#domaine-dev, on te proposerait l'organisation d'un atelier retour d'expérience sur les "bots".
 
 #### 4. Une fois que j’ai trouvé une action transverse qui m’intéresse, comment je peux y participer ? <a id="4-Une-fois-que-j&#x2019;ai-trouv&#xE9;-une-action-transverse-qui-m&#x2019;int&#xE9;resse-comment-je-peux-y-participer-"></a>
 
