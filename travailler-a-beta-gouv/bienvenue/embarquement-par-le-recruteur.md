@@ -3,7 +3,7 @@
 ## Checklist pour embarquer quelqu'un
 
 * [ ] Tu as envoyé un mail de bienvenue à la nouvelle recrue
-* [ ] Tu lui as demandé de lire la [page de bienvenue](./)
+* [ ] Tu lui as demandé de lire la [page de bienvenue](travailler-a-beta-gouv/bienvenue/README.md)
 * [ ] _\(Optionnel\) La nouvelle recrue a un compte Github sur lequelle il·elle a activé l'_[_authentification double facteur_](https://github.com/settings/security)
 * [ ] Créer pour la nouvelle recrue une fiche sur [https://beta.gouv.fr/communaute/](https://beta.gouv.fr/communaute/). \([Instructions pour créer une fiche sur beta.gouv.fr/communaute](https://github.com/betagouv/beta.gouv.fr/blob/master/CONTRIBUTING.md#ajouter-ou-modifier-un-membre-%C3%A0-la-communaut%C3%A9-betagouv)\)
 * [ ] Tu as créé une adresse email pour la nouvelle recrue \([Créer un compte email](../../outils/emails.md)\)
