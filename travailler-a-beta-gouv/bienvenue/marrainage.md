@@ -26,4 +26,3 @@ En tant que marrain, tu t'engages à :
 
 {% page-ref page="embarquement-par-le-recruteur.md" %}
 
-
