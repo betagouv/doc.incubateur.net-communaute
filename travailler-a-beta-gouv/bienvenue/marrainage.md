@@ -4,15 +4,15 @@ Toute personne membre de l'Incubateur depuis plus de six mois peut marrainer un 
 
 ### Je suis recruteur
 
-Si tu recrutes quelqu'un, tu dois lui trouver un marrain. Pour en trouver un, vas sur le secretariat \( [https://secretariat.beta.gouv.fr](https://secretariat.beta.gouv.fr) \), recherche la fiche de la personne et clique sur "Cherche un·e marrain·e".
+Si tu recrutes quelqu'un, tu dois lui trouver un marrain. Pour en trouver un, vs sur le site du secretariat \( [https://secretariat.beta.gouv.fr](https://secretariat.beta.gouv.fr) \), recherche la fiche de la personne et clique sur "Cherche un·e marrain·e".
 
 ### Je suis marrain·e
 
 En tant que marrain, tu t'engages à :
 
-* Présenter au nouvel arrivant d'autres équipes et produits.
+* Présenter à la nouvelle recrue d'autres équipes et produits.
 
-> N'hésite pas à faire le tour des équipes sur place pour mettre un visage sur les équipes. Vous pouvez faire le tour de slack
+> N'hésite pas à faire le tour des équipes sur place pour faire connaissance en chair et en os. Vous pouvez faire le tour de Slack
 
 * Présenter l'Incubateur, son histoire et son mode de fonctionnement.
 
@@ -25,6 +25,5 @@ En tant que marrain, tu t'engages à :
 **Si ce n'est pas déjà fait, tu peux gérer l'embarquement de ton·ta filleul·e en suivant ce lien :**
 
 {% page-ref page="embarquement-par-le-recruteur.md" %}
-
 
 
