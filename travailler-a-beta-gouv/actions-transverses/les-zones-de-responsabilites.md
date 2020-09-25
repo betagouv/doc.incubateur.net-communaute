@@ -1,5 +1,5 @@
 ---
-description: En cours de rédaction - Hello Rose
+description: En cours de rédaction
 ---
 
 # Les zones de responsabilités
