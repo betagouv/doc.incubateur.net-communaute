@@ -47,3 +47,4 @@ Je ne maitrise pas GitHub, comment faire pour crééer la fiche de mon·ma fille
 Mon·Ma filleul·e ne se servira jamais de GitHub, est-ce essentiel de créer un compte ?
 
 * Si tu est certain·e qu'il·elle n'en aura jamais besoin, tu peux créer sa fiche pour il·elle et passer à l'étape suivante.
+
