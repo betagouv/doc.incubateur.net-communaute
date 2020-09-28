@@ -18,6 +18,8 @@ _Plus d'informations sur \[\[notre usage de Slack\|Slack\]\]._
 
 Les évènements communs à tout l'incubateur sont référencés sur un [agenda public](https://calendar.google.com/calendar/embed?src=0ieonqap1r5jeal5ugeuhoovlg%40group.calendar.google.com&ctz=Europe/Paris). Il est visible par tous - y compris hors de l'incubateur -, et peut être ajouté à un gestionnaire d'agenda via son adresse [iCal](https://calendar.google.com/calendar/ical/0ieonqap1r5jeal5ugeuhoovlg%40group.calendar.google.com/public/basic.ics) ou [email](mailto:0ieonqap1r5jeal5ugeuhoovlg@group.calendar.google.com).
 
+![Image d&apos;illustration](../.gitbook/assets/image%20%2818%29.png)
+
 ### Listes de diffusion
 
 voir aussi [Listes de diffusion et adresses de contact](liste-de-diffusion-et-adresses-de-contact.md).
