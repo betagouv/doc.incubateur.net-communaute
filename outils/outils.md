@@ -2,7 +2,7 @@
 
 ### Boîtes mail
 
-Les membres des Startups peuvent obtenir une boîte mail de type `prenom.nom@beta.gouv.fr`. Pour l'obtenir, demande à un quelqu'un de la communauté de faire la procédure avec l'app secrétariat b\([https://secretariat.beta.gouv.fr/](https://secretariat.beta.gouv.fr/)\)
+Les membres des Startups peuvent obtenir une boîte mail de type `prenom.nom@beta.gouv.fr`. Pour l'obtenir, demande à un quelqu'un de la communauté de faire la procédure avec l'app secrétariat [https://secretariat.beta.gouv.fr/](https://secretariat.beta.gouv.fr/).
 
 Une fois que tu as ton identifiant et ton mot de passe, configure ta boite mail sur la page [Email](emails.md).
 
@@ -12,7 +12,7 @@ Le Slack de l'incubateur est accessible via [https://startups-detat.slack.com](h
 
 Le bot glossaire de Slack \(`/trad`\) est une instance de [`glossary-bot`](https://github.com/codeforamerica/glossary-bot) hébergée sur Heroku \(id : glossaire-betagouvfr\) sur le compte de @MattiSG.
 
-_Plus d'informations sur \[\[notre usage de Slack\|Slack\]\]._
+_Plus d'informations sur_ [_notre usage de Slack_](slack.md)_._
 
 ### Agenda
 
@@ -28,13 +28,13 @@ voir aussi [Listes de diffusion et adresses de contact](liste-de-diffusion-et-ad
 
 Nous disposons d'un MX plan chez OVH pour le domaine `beta.gouv.fr`. Pour les modifier, il faut donc passer par l'[interface web d'OVH](https://www.ovh.com/fr/g1596.mail_mutualise_guide_dutilisation_mailing-list). Si vous n'avez pas les droits d'accès, demandez-les sur Slack, dans [🔒`#incubateur-secretaria`](https://startups-detat.slack.com/messages/incubateur-secretaria/).
 
-Plusieurs \[\[listes de diffusion\]\] sont disponibles, dont certaines, optionnelles, modifient votre niveau d'implication dans l'incubateur. Si vous souhaitez participer \(ou simplement être au courant\) des aspects stratégiques de la structure, par exemple, inscrivez-vous à `contact@beta.gouv.fr`.
+Plusieurs [listes de diffusion](liste-de-diffusion-et-adresses-de-contact.md) sont disponibles, dont certaines, optionnelles, modifient votre niveau d'implication dans l'incubateur. Si vous souhaitez participer \(ou simplement être au courant\) des aspects stratégiques de la structure, par exemple, inscrivez-vous à `contact@beta.gouv.fr`.
 
 #### Gestion des DNS via AlwaysData
 
 Sur AlwaysData, il existe une fonctionnalité de création de mailing list et de gestion des modérateurs et admin de ces listes. L'ajout de récipiendaires et la modération se font sur mailman.alwaysdata.com
 
-Pour plus d'information sur la gestion des mailing list, voir \[\[Listes de diffusion et adresses de contact\]\]
+Pour plus d'information sur la gestion des mailing list, voir [Listes de diffusion et adresses de contact](liste-de-diffusion-et-adresses-de-contact.md).
 
 ### Mots de passe
 
@@ -54,8 +54,8 @@ Il est bien évidemment hors de question de transmettre la clé et le mot de pas
 
 ### Prolonger la durée d'activation d'un membre pour éviter les bugs \(problèmes de badges, désabonnement des mailings list, accès au repot…\)
 
-1. Connectez-vous sur la [page Gith référençant tous les membres de bêta](https://github.com/betagouv/beta.gouv.fr/tree/master/content/_authors)
-2. Recherchez votre nom ou celui de la personne dont la date d'activation a expiré ou va expirer
+1. Connectez-vous sur la [page Github référençant tous les membres de beta.gouv](https://github.com/betagouv/beta.gouv.fr/tree/master/content/_authors).
+2. Recherchez votre nom ou celui de la personne dont la date d'activation a expiré ou va expirer.
 3. Après avoir ouvert cette fiche du type "prénom.nom.md", modifiez la date "end" par celle nécessaire.
 4. Enfin, choisissez : "créer une nouvelle branche" puis proposer cette branche en Pull Request.
 
