@@ -31,3 +31,7 @@ description: >-
 * possibilité d’accueillir ponctuellement l’équipe dans les locaux de l’incubateur de la DINUM \(échanges, revues de portefeuille, ateliers\) ;
 * accès aux formations organisées par la communauté
 
+{% hint style="info" %}
+[Le catalogue de ressources](https://docs.google.com/presentation/d/1JfhbG15lsqXScHEFaWhmaypASZvWcZiPrdkRxSvX6Y4/edit?usp=sharing)
+{% endhint %}
+
