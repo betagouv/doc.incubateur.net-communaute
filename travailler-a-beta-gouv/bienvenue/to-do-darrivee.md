@@ -8,7 +8,7 @@ Pour comprendre beta.gouv.fr, rien d'obligé bien sûr !
 
 * [ ]   Participer à un 🛫 **atelier d'embarquement beta.gouv.fr** \(ils sont régulièrement organisés et référencés sur [l'agenda public de l'incubateur](https://calendar.google.com/calendar/embed?src=0ieonqap1r5jeal5ugeuhoovlg%40group.calendar.google.com&ctz=Europe/Paris)\)
 
-> Tu trouveras ici la [présentation déroulée lors de cet atelier](https://docs.google.com/presentation/d/18_kmamrWVEedzn4kfJQHXqmBov5daSM913yBzCDXNhg/edit?usp=sharing) \(dernière màj : juin 2020\)
+> Tu trouveras ici la [présentation déroulée lors de cet atelier](https://docs.google.com/presentation/d/1ded7iFFFaPuw9tKcj6g-xLBggAox-QNDjsMamECPqHU/edit) \(dernière màj : septembre 2020\)
 
 * [ ]   Participer à un petit [Séminaire ](../../dinum/rituels/seminaire.md)- 1 mercredi sur 2 à 15h
 * [ ]   Proposer de l'aide à quelqu'un en galère dans l'openspace
