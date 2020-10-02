@@ -39,7 +39,7 @@ Nous avons tous des biais lorsque nous lisons un CV ou faisons passer un entreti
 
 ### Marrainage
 
-Si tu recrutes quelqu'un, tu dois lui trouver un marrain. Pour en trouver un, vas sur le secretariat \( [https://secretariat.beta.gouv.fr](https://secretariat.beta.gouv.fr) \), recherche la fiche de la personne et clique sur "Cherche un·e marrain·e".
+Si tu recrutes quelqu'un, tu dois lui trouver un marrain. Pour en trouver un, vas sur le secretariat \( [https://secretariat.incubateur.net](https://secretariat.incubateur.net) \), recherche la fiche de la personne et clique sur "Cherche un·e marrain·e".
 
 ### 48h avant l'arrivée du nouveau, envoie lui un mail de bienvenu. Par exemple :
 
