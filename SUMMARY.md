@@ -109,6 +109,12 @@
   * [Déposer ses congés](dinum/contractuels-dinum/deposer-ses-conges.md)
 * [🔗 Liens avec la DINUM](dinum/liens-avec-la-dinum.md)
 
+## 🏭 Fabrique numérique
+
+* [🎯 Vision, mission et valeurs](fabrique-numerique/vision-mission-valeurs.md)
+* [🏹 OKR](fabrique-numerique/okr/README.md)
+  * [🐙 OKR Fred](fabrique-numerique/okr/okr-fred.md)
+
 ---
 
 * [🏥 Fabrique numérique des Ministères sociaux](fabrique-numerique-des-ministeres-sociaux.md)
