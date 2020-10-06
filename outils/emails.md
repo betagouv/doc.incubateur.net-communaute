@@ -8,7 +8,7 @@ description: Comment ça marche les emails à beta.gouv ?
 
 _⚠️ Pour créer une adresse email, vous avez besoin d'avoir_ [_une fiche sur beta.gouv.fr_ ](github/#se-creer-un-compte-github-ou-demander-a-ton-ta-marrain-e-de-faire-ta-fiche-pour-toi)_. Si ce n'est pas le cas, vous ne pourrez pas créer l'adresse email._
 
-Un membre de la communauté pourra te créer une adresse email `@beta.gouv.fr` grâce au [secrétariat automatisé](https://secretariat.incubateur.net). 
+Un membre de la communauté pourra te créer une adresse email `@beta.gouv.fr` grâce au [secrétariat automatisé](https://secretariat.incubateur.net).
 
 ### Je veux créer une adresse email à un nouveau membre :
 
@@ -65,33 +65,32 @@ Page d'explication dédiée :
 * [Thunderbird](https://docs.ovh.com/fr/emails/configuration-email-configuration-pour-thunderbird/)
 * [Courier](https://docs.ovh.com/fr/emails/configuration-courrier-sur-windows-10/)
 
-La configuration fonctionne à peu près de la même manière pour tous les clients mails. 1. Il faut d'abord **Ajouter un nouveau compte** 
+La configuration fonctionne à peu près de la même manière pour tous les clients mails. 1. Il faut d'abord **Ajouter un nouveau compte**
 
-2. Puis sélectionner l'option **IMAP / SMTP** 
+1. Puis sélectionner l'option **IMAP / SMTP**
+2. Paramétrer le compte **IMAP** \(courrier entrant\) avec les informations suivantes :
 
-3. Paramétrer le compte **IMAP** \(courrier entrant\) avec les informations suivantes :
+> Serveur: ssl0.ovh.net
+>
+> Port: 993
+>
+> Méthode de chiffrement: SSL \(\*pas\* TLS°\)
+>
+> Nom d'utilisateur: &lt;adresse beta.gouv.fr&gt;
+>
+> Mot de passe: &lt;mot de passe beta.gouv.fr&gt;
 
-> Serveur: ssl0.ovh.net 
->
-> Port: 993 
->
-> Méthode de chiffrement: SSL \(\*pas\* TLS°\) 
->
-> Nom d'utilisateur:  &lt;adresse beta.gouv.fr&gt;
->
-> Mot de passe:  &lt;mot de passe beta.gouv.fr&gt;
+1. Paramétrer le compte **IMAP** \(courrier sortant\) avec les informations suivantes : 
 
-4. Paramétrer le compte **IMAP** \(courrier sortant\) avec les informations suivantes : 
-
-> Serveur: ssl0.ovh.net 
+> Serveur: ssl0.ovh.net
 >
-> Port: 587 
+> Port: 587
 >
-> Méthode de chiffrement: TLS 
+> Méthode de chiffrement: TLS
 >
-> Nom d'utilisateur:  &lt;adresse beta.gouv.fr&gt;
+> Nom d'utilisateur: &lt;adresse beta.gouv.fr&gt;
 >
-> Mot de passe:  &lt;mot de passe beta.gouv.fr&gt;
+> Mot de passe: &lt;mot de passe beta.gouv.fr&gt;
 
 **3. Consulter ses mails**
 
@@ -105,9 +104,9 @@ Tous les dossiers mails \(brouillons, envoyés, reçu, archivés, etc.\) sont ma
 
 Comme ci-dessous ! \(Suggestion de présentation; photo non contractuelle.\)
 
-> Jean LOUIS   
-> Chargé de Développement   
-> Équipe Lambda - beta.gouv.fr   
+> Jean LOUIS  
+> Chargé de Développement  
+> Équipe Lambda - beta.gouv.fr  
 > jean.louis@beta.gouv.fr – +33.\(0\)6.XX.XX.XX.XX
 
 Nous distribuons des adresses à tout membre de la communauté, il ne faut toutefois pas faire figurer dans ta signature un rattachement professionnel à la DINUM pouvant porter à confusion. Pour cela, il ​te suffit de ne pas mentionner "Incubateur de Services Numériques – DINUM​ ​20, Avenue de Ségur, 75007 Paris"​ mais uniquement ton appartenance à une équipe de beta.gouv.fr​
