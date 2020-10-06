@@ -20,7 +20,7 @@ Tu peux utiliser : [🔒`#incubateur-help`](https://startups-detat.slack.com/mes
   *   Avoir un [marrain ou une parraine](marrainage.md)
 * [ ]   Te présenter sur Slack dans [🔒`#general`](https://startups-detat.slack.com/messages/general) ! 👋
 * [ ]   Propose une date pour un pot d'arrivée dans [🔒`#general`](https://startups-detat.slack.com/messages/general) ou à `incubateur@beta.gouv.fr` ! 🍺 On se retrouve déjà le mercredi soir, tu peux proposer ton pot à ce moment-là.
-* [ ]   Te présenter à ta voisine ou ton voisin dans l'openspace 
+* [ ]   Te présenter à ta voisine ou ton voisin dans l'openspace . Tu es en télétravail? Il y a peut-être un membre de la communauté dans ta ville, ton département ou ta région. [Carte](https://doc.incubateur.net/communaute/dinum/locaux/ou-travailler#beta-gouv-fr-en-dehors-de-paris) 
 * [ ]   Participer au Standup de l'incubateur le mercredi à 12h en visio [http://invites.standup.incubateur.net/](http://invites.standup.incubateur.net/)
 * [ ]   Si tu intègres une nouvelle Startup :
   * [ ]  [écrire la fiche produit](https://github.com/betagouv/beta.gouv.fr/blob/master/CONTRIBUTING.md#ajouter-une-startup) sur `beta.gouv.fr` 
