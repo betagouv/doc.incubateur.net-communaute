@@ -27,7 +27,7 @@ Tu peux utiliser : [🔒`#incubateur-help`](https://startups-detat.slack.com/mes
   * [ ]  ou si tu rejoins une équipe existante, s'imprégner de la description faite sur [`beta.gouv.fr`](https://beta.gouv.fr/startups)
 * [ ]   Créer un canal dans le Slack beta.gouv pour la Startup, sur le format `startup-<nom de ta startup>` ou rejoindre le ou les canaux de ta Startup, identifiables par leur format : `startup-<nom de ta startup>[-<suffixe-optionnel>]`
 * [ ]   M'inscrire à [l'agenda public de l'incubateur](https://calendar.google.com/calendar/embed?src=0ieonqap1r5jeal5ugeuhoovlg%40group.calendar.google.com&ctz=Europe/Paris) : fais ta demande sur [🔒`#incubateur-secretaria`](https://startups-detat.slack.com/messages/secretaria).
-* [ ] Si tu es sur LinkedIn : ajouter Beta.gouv comme  expérience en cours 
+* [ ] Si tu es sur LinkedIn : [ajouter](https://www.dropbox.com/s/p6r3qlu5kt5mypg/%20LinkedIn_beta.gif?dl=0) Beta.gouv comme  expérience en cours 
 
 Sur les pages suivantes tu découvriras de la lecture sur l'esprit beta.gouv.fr et sur comment la communauté fonctionne.
 
