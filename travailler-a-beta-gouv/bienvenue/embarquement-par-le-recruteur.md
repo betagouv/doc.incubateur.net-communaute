@@ -3,15 +3,17 @@
 ## Checklist pour embarquer quelqu'un
 
 * [ ] Tu as envoyé un mail de bienvenue à la nouvelle recrue
-* [ ] Tu lui as demandé de lire la [page de bienvenue](../bienvenue)
+* [ ] Tu lui as demandé de lire la [page de bienvenue](https://github.com/betagouv/doc.incubateur.net-communaute/tree/9cbcea39c9a66c22aa6d15193c560499171d7810/travailler-a-beta-gouv/bienvenue/travailler-a-beta-gouv/bienvenue/README.md)
 * [ ] _\(Optionnel\) La nouvelle recrue a un compte Github sur lequelle il·elle a activé l'_[_authentification double facteur_](https://github.com/settings/security)
-* [ ] Créer pour la nouvelle recrue une fiche sur [https://beta.gouv.fr/communaute/](https://beta.gouv.fr/communaute/). \([Instructions pour créer une fiche sur beta.gouv.fr/communaute](https://github.com/betagouv/beta.gouv.fr/blob/master/CONTRIBUTING.md#ajouter-ou-modifier-un-membre-%C3%A0-la-communaut%C3%A9-betagouv)\)
-* [ ] Tu as créé une adresse email pour la nouvelle recrue \([Créer un compte email](../../outils/emails.md)\)
-* [ ] La nouvelle recrue est sur le [Slack avec son adresse @beta.gouv.fr](https://startups-detat.slack.com/signup) et s'est présenté·e sur \#general
-* [ ] Tu as invité la nouvelle recrue à un standup
-* [ ] Si besoin tu as fait une demande de badge pour accéder à nos locaux \(La procédure pour Ségur est disponible sur le channel \#bureau-segur dans les fichiers partagés\)
+* [ ] Demander à la nouvelle recrue de créer une fiche sur [https://secretariat.incubateur.net/onboarding](https://secretariat.incubateur.net/onboarding).
+* [ ] Valider sur Github la création de la fiche [https://github.com/betagouv/beta.gouv.fr/pulls](https://github.com/betagouv/beta.gouv.fr/pulls)
+* [ ] Créer une adresse email pour la nouvelle recrue : [https://secretariat.incubateur.net/login](https://secretariat.incubateur.net/login)
+* [ ] Inviter la nouvelle recrue sur le [Slack avec son adresse @beta.gouv.fr](https://startups-detat.slack.com/signup) et s'est présenté·e sur \#general
+* [ ] Tu as invité la nouvelle recrue à un [standup](../../dinum/rituels/standup-invites.md)  
+* [ ] Si besoin tu as fait une demande de badge pour accéder à nos locaux \(La procédure pour Ségur est disponible [ici](../../dinum/locaux/badge-pour-travailler-a-segur.md)\)
 * [ ] Si il·elle est indépendant·e, elle sait à qui adresser sa facture et comment
 * [ ] Si il·elle est contractuel·le DINUM, il·elle s'est présenté·e au secrétariat de la DINUM
+* [ ] Tu as envoyé un mail de bienvenue à la nouvelle recrue
 
 ## FAQ
 
