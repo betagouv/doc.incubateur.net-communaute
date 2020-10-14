@@ -8,7 +8,7 @@ On t'a fait une To Do pour embarquer dans beta.gouv.fr , rien d'obligé bien sû
 
 ### Avant de voir la To Do, si tu as besoins d'aide, à tout moment :
 
-Tu peux utiliser : [🔒`#incubateur-help`](https://startups-detat.slack.com/messages/incubateur-help)sur Slack, demander à quelqu'un d'autre de la communauté ou envoyer un mail à [`contact@beta.gouv.fr`](mailto:contact@beta.gouv.Fr) 
+Tu peux utiliser : [🔒`#incubateur-help`](https://startups-detat.slack.com/messages/incubateur-help)sur Slack, demander à quelqu'un de la communauté ou envoyer un mail à [`contact@beta.gouv.fr`](mailto:contact@beta.gouv.Fr) 
 
 ### La To Do
 
