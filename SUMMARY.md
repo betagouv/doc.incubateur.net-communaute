@@ -59,7 +59,7 @@
 
 ## 🔧 Outils
 
-* [Guide RGPD et Sécurité](outils/guide-rgpd-et-securite.md)
+* [📓 Guide RGPD et Sécurité](outils/guide-rgpd-et-securite.md)
 * [🗒 Pad](outils/pad.md)
 * [📹 Visioconférence et conférence tel](outils/faire-une-visio.md)
 * [📘 Gitbook](outils/gitbook.md)
