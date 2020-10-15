@@ -68,6 +68,7 @@
 * [📝 Premier pas sur Github](outils/github/README.md)
   * [Plus de pas sur Github](outils/github/plus-de-pas-sur-github.md)
 * [📧 Emails](outils/emails.md)
+* [🗒 Modèle de note](outils/modele-de-note.md)
 * [📰 Liste de diffusion](outils/liste-de-diffusion-et-adresses-de-contact.md)
 * [📚 Références bibliographiques](outils/references-bibliographiques.md)
 * [™ Logo](outils/logo.md)
