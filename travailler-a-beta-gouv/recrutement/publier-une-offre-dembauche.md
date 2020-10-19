@@ -10,3 +10,32 @@ Une fois que l'offre aura été pourvue, penses à fermer l'offre.
 
 Tu peux également consulter le [guide au recrutement ](comment-recruter.md)beta.gouv.fr.
 
+## Publier sur Linkedin
+
+Nous pouvons également publier ton offre d'emploi directement depuis le compte Linkedin de BetaGouv .
+
+Il y a deux possibilités :
+
+* soit publier un post Linkedin qui informe de ce recrutement et qui pointe vers la fiche recrutement sur beta.gouv.fr.
+
+  * Avantage : très rapide à mettre en place
+  * Inconvénient : les candidats ne peuvent pas postuler directement depuis leur compte Linkedin
+
+* soit publier "une offre d'emploi" Linkedin sur le compte de beta
+  * Avantage : Ca augmente drastiquement le nombre de candidats car ils ont juste à postuler avec leur compte Linkedin
+  * Inconvénient : Nous ne pouvons publier qu'une seule offre d'emploi à la fois pour l'instant.
+
+### Comment faire ?
+
+#### Publier un post
+
+1. Vérifie que ton offre de recrutement est bien référencé sur le site de beta.gouv.fr
+2. Proposer un texte pour le post Linkedin sur \#incubateur-com
+3. Un membre de beta administrateur du compe Linkedin te répondra, proposera éventuellement des modifications puis publiera le post.
+
+#### Publier une offre d'emploi Linkedin
+
+1. Vérifie que ton offre de recrutement est bien référencé sur le site de beta.gouv.fr
+2. Proposer sur \#incubateur-com que ton offre soit également créé sur le compte Linkedin de BetaGouv
+3. Un membre de beta administrateur du compe Linkedin te répondra, proposera éventuellement des modifications puis publiera l'offre d'emploi
+
