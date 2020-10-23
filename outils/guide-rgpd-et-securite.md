@@ -70,7 +70,7 @@ _3 mois pour développer une première solution numérique et trouver des utilis
 
 {% tab title="A faire " %}
 1. Je rédige les Conditions Générales d'Utilisation \(CGU\) et Mentions Légales et les soumet à l'équipe juridique :
-   * 💡 Modèle à adapter : [Mes-aides](https://mes-aides.gouv.fr/cgu)
+   * 💡 Modèle à adapter : [inclusion.beta.gouv.fr](https://doc.inclusion.beta.gouv.fr/mentions/)
 2. Je choisis les bons outils :
    * 💡 Info et recommandation pour la gestion des cookies : [lien](https://beta.gouv.fr/suivi/)
 3. Je recense toutes les données traitées et les finalités qui leur sont associées \[1 à 2h\] :
