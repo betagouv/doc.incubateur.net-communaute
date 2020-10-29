@@ -113,7 +113,5 @@ Tu peux :
 
 Le **mardi** et le **jeudi** sont les deux jours les plus favorables.
 
-En outre, le mercredi est la journée de la semaine avec le plus d'évènements : stand-up, séminaires, divers points réguliers.
-
 
 
