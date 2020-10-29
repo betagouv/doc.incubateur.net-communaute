@@ -1,4 +1,4 @@
-# Revue d’avancement du mercredi \(Stand-up\)
+# Revue d’avancement du jeudi \(Stand-up\)
 
 L’incubateur, en tant qu’organisation, est un produit vivant construit par ses membres. La revue de portefeuille, dit « le stand-up », est le rassemblement hebdomadaire de la communauté pour partager avec ses pairs sur les avancées de chaque équipe, leur impact, aussi bien que sur les aspects transverses et stratégiques du collectif.
 
