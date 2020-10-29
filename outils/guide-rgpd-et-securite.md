@@ -69,16 +69,17 @@ _3 mois pour développer une première solution numérique et trouver des utilis
 {% endtab %}
 
 {% tab title="A faire " %}
-1. Je rédige les Conditions Générales d'Utilisation \(CGU\) et Mentions Légales et les soumet à l'équipe juridique :
+1. J'informe l'équipe juridique \(DINUM si startup en délégation de gestion\) du lancement des travaux de construction via un e-mail à `perica.sucevic@modernisation.gouv.fr` et `cindy.kus@modernisation.gouv.fr`
+2. Je rédige les Conditions Générales d'Utilisation \(CGU\) et Mentions Légales et les soumet à l'équipe juridique :
    * 💡 Modèle à adapter : [inclusion.beta.gouv.fr](https://doc.inclusion.beta.gouv.fr/mentions/)
-2. Je choisis les bons outils :
+3. Je choisis les bons outils :
    * 💡 Info et recommandation pour la gestion des cookies : [lien](https://beta.gouv.fr/suivi/)
-3. Je recense toutes les données traitées et les finalités qui leur sont associées \[1 à 2h\] :
+4. Je recense toutes les données traitées et les finalités qui leur sont associées \[1 à 2h\] :
    * 💡 [Tableau données-finalités](https://docs.google.com/document/d/1PQniGdnvLdjyEBbk1lFGzmG6rwnwD5bPCbvP_XBOe4I/edit?usp=sharing) écrit par la startup Itou. Le vôtre sera plus simple !
-4. Si mon produit rentre dans l'un des [critères de la CNIL](https://www.cnil.fr/sites/default/files/atoms/files/liste-traitements-aipd-non-requise.pdf) : rédiger une analyse d'impact relative à la protection des donnée \(AIPD, aussi appelée EIVP\) :
+5. Si mon produit rentre dans l'un des [critères de la CNIL](https://www.cnil.fr/sites/default/files/atoms/files/liste-traitements-aipd-non-requise.pdf) : rédiger une analyse d'impact relative à la protection des donnée \(AIPD, aussi appelée EIVP\) :
    * 💡 [Une AIPD, c'est quoi ?](https://www.cnil.fr/sites/default/files/atoms/files/infographie_aipd.pdf)
    * 💡 [Exemple d'AIPD](https://docs.google.com/document/d/1j_1EESLdOHIa6bsYo3VSp-AJhPNPbQJKNRJnpJpRhKU/edit) pour la startup Itou
-5. Organiser un atelier d'analyse de risque en suivant le guide Agile de l'ANSSI \[1 demi-journée en équipe complète\] :
+6. Organiser un atelier d'analyse de risque en suivant le guide Agile de l'ANSSI \[1 demi-journée en équipe complète\] :
    * 💡 Exemple de [résultat d'un atelier](https://github.com/openmaraude/le.taxi/wiki/Analyse-des-risques) pour Le.taxi
    * 💡 [Guide de sécurité Agile le l'ANSSI](https://www.ssi.gouv.fr/uploads/2018/11/guide-securite-numerique-agile-anssi-pa-v1.pdf)
 
