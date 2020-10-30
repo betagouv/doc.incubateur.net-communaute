@@ -6,8 +6,6 @@ description: Comment se former chez beta.gouv ?
 
 Au sein de la communauté, nous essayons de permettre à tous de se former et/ou de former ses collègues.
 
-Hello
-
 Nous ne disposons pas d'une "stratégie" de formation. Néanmoins nous avons initié certaines actions : 
 
 * des sessions d'embarquement d'une demi-journée pour les nouveaux arrivants
