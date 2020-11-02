@@ -7,7 +7,7 @@
 
 ## Deux choix :
 
-* Je m'occupe de créer de manière autonome ma fiche personnelle, modifier mon statut, mes dates de contrats, fiare les modifications pour la page de ma startup, publier d'offre d'emploi
+* Je m'occupe de créer de manière autonome ma fiche personnelle, modifier mon statut, mes dates de contrats, faire les modifications pour la page de ma startup, publier d'offre d'emploi
 * Je demande à quelqu'un d'autre de faire ces opérations à ma place
 
 Dans tous les cas vous pouvez demander de l'aide sur Slack `#incubateur-help` ou par email sur `contact@beta.gouv.fr`
