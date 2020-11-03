@@ -20,6 +20,10 @@ Les évènements communs à tout l'incubateur sont référencés sur un [agenda 
 
 ![Image d&apos;illustration](../.gitbook/assets/image%20%2818%29.png)
 
+{% hint style="info" %}
+[Ajouter un évènement à l'agenda de beta](https://airtable.com/shrWvcUAOJqllVqtj)
+{% endhint %}
+
 ## Listes de diffusion
 
 voir aussi [Listes de diffusion et adresses de contact](liste-de-diffusion-et-adresses-de-contact.md).
