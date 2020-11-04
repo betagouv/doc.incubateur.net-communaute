@@ -8,6 +8,10 @@
 * [Comment valider mes ajouts ?](contribuer/documentation-provisoire-a-stabilisee.md)
 * [Recommandations](contribuer/recommandations.md)
 
+---
+
+* [Statistiques 📊](statistiques.md)
+
 ## 👷 Travailler à Beta Gouv
 
 * [👋 Bienvenue \(🛫 On embarque !\)](travailler-a-beta-gouv/bienvenue/README.md)
