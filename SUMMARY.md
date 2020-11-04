@@ -8,10 +8,6 @@
 * [Comment valider mes ajouts ?](contribuer/documentation-provisoire-a-stabilisee.md)
 * [Recommandations](contribuer/recommandations.md)
 
----
-
-* [Statistiques 📊](statistiques.md)
-
 ## 👷 Travailler à Beta Gouv
 
 * [👋 Bienvenue \(🛫 On embarque !\)](travailler-a-beta-gouv/bienvenue/README.md)
@@ -133,4 +129,8 @@
 * [🚀 Growth Hacking](aide-transverse/growth-hacking-acquisition.md)
 * [Mise en conformité RGPD et Conseil juridique](aide-transverse/mise-en-conformite-rgpd-et-conseil-juridique.md)
 * [Design, UX](aide-transverse/design-ux.md)
+
+---
+
+* [Statistiques 📊](statistiques.md)
 
