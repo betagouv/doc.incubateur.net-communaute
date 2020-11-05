@@ -46,7 +46,7 @@ Tu peux consulter tes mails directement sur [RoundCube](https://mail.ovh.net/rou
 
 La solution la plus adaptée reste de configurer un client mail sur ta machine personnelle. C'est très rapide, et très simple d'utilisation. Voici comment procéder :
 
-**1. Choisir un client mail**
+**1. Choisir un client mail \(messagerie\)**
 
 * [Mail](https://support.apple.com/fr-fr/mail) \(OS X / iOS\) : Le client mail par défaut d'Apple
 * [Thunderbird](https://www.thunderbird.net/fr/) \(OS X / Windows / Linux\) : Le client libre de Mozilla qu'on ne présente plus
@@ -56,19 +56,20 @@ La solution la plus adaptée reste de configurer un client mail sur ta machine p
 * [AquaMail](https://www.aqua-mail.com/) \(Android\) : Une application mail fluide qui respecte la vie privée
 * [Beaucoup d'autres](https://duckduckgo.com/?q=meilleurs+clients+mails)
 
-**2. Configurer le client**
+**2. Configurer la redirection et l'envoi automatique des e-mails beta via sa messagerie préférée**
 
 Page d'explication dédiée :
 
 * Apple Mail \([OSX](https://docs.ovh.com/fr/emails/guide-configuration-mail-de-mac-el-capitan/) / [iOS](https://docs.ovh.com/fr/emails/mail-mutualise-guide-configuration-iphone-ios-91/)\)
-* [GMail](https://docs.ovh.com/fr/emails/configuration-android-6/)
+* [Gmail](https://docs.ovh.com/fr/emails/mail-mutualise-guide-configuration-dun-e-mail-mutualise-ovh-sur-linterface-de-gmail/)
 * [Thunderbird](https://docs.ovh.com/fr/emails/configuration-email-configuration-pour-thunderbird/)
 * [Courier](https://docs.ovh.com/fr/emails/configuration-courrier-sur-windows-10/)
 
-La configuration fonctionne à peu près de la même manière pour tous les clients mails. 1. Il faut d'abord **Ajouter un nouveau compte**
+La configuration fonctionne à peu près de la même manière pour tous les clients mails \(sauf Gmail pour lequel il faut suivre plutôt les instructions sur OVH \([lien](https://docs.ovh.com/fr/emails/mail-mutualise-guide-configuration-dun-e-mail-mutualise-ovh-sur-linterface-de-gmail/)\). 
 
-1. Puis sélectionner l'option **IMAP / SMTP**
-2. Paramétrer le compte **IMAP** \(courrier entrant\) avec les informations suivantes :
+1. Il faut d'abord **Ajouter un nouveau compte**
+2. Sélectionner l'option IMAP / SMTP
+3. Paramétrer le compte **IMAP** \(courrier entrant\) avec les informations suivantes :
 
 > Serveur: ssl0.ovh.net
 >
@@ -80,7 +81,7 @@ La configuration fonctionne à peu près de la même manière pour tous les clie
 >
 > Mot de passe: &lt;mot de passe beta.gouv.fr&gt;
 
-1. Paramétrer le compte **IMAP** \(courrier sortant\) avec les informations suivantes : 
+   4. Paramétrer le compte **IMAP** \(courrier sortant\) avec les informations suivantes : 
 
 > Serveur: ssl0.ovh.net
 >
@@ -94,7 +95,7 @@ La configuration fonctionne à peu près de la même manière pour tous les clie
 
 **3. Consulter ses mails**
 
-Tous les dossiers mails \(brouillons, envoyés, reçu, archivés, etc.\) sont maintenant automatiquement synchronisés entre les différents client.
+Tous les dossiers mails \(brouillons, envoyés, reçu, archivés, etc.\) sont maintenant automatiquement synchronisés entre les différents clients.
 
 ### Comment envoyer des mails en masse ?
 
