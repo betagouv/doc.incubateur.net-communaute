@@ -81,7 +81,7 @@ La configuration fonctionne à peu près de la même manière pour tous les clie
 >
 > Mot de passe: &lt;mot de passe beta.gouv.fr&gt;
 
-   4. Paramétrer le compte **IMAP** \(courrier sortant\) avec les informations suivantes : 
+   4. Paramétrer le compte **SMTP** \(courrier sortant\) avec les informations suivantes : 
 
 > Serveur: ssl0.ovh.net
 >
