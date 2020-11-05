@@ -52,7 +52,7 @@ La solution la plus adaptée reste de configurer un client mail sur ta machine p
 * [Thunderbird](https://www.thunderbird.net/fr/) \(OS X / Windows / Linux\) : Le client libre de Mozilla qu'on ne présente plus
 * [Mailspring](https://getmailspring.com/) \(OS X / Windows / Linux\) : Un client gratuit et open-source, avec une interface moderne
 * [Microsoft Courier](https://www.microsoft.com/fr-fr/p/courrier-et-calendrier/9wzdncrfhvqm?activetab=pivot:overviewtab) : Le client mail par défaut de Windows
-* [GMail](https://play.google.com/store/apps/details?id=com.google.android.gm&hl=fr) : L'application mail par défaut sur Android
+* [Gmail](https://play.google.com/store/apps/details?id=com.google.android.gm&hl=fr) : L'application mail par défaut sur Android
 * [AquaMail](https://www.aqua-mail.com/) \(Android\) : Une application mail fluide qui respecte la vie privée
 * [Beaucoup d'autres](https://duckduckgo.com/?q=meilleurs+clients+mails)
 
