@@ -23,7 +23,7 @@ Un membre de la communauté pourra te créer une adresse email `@beta.gouv.fr` g
 
 ## J'ai un email beta. Comment me connecter ?
 
-### Pré-requis
+### Prérequis
 
 Avant de commencer les procédure ci-dessous, assurez vous d'avoir :
 
