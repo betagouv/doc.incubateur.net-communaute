@@ -26,8 +26,8 @@ Dans tous les cas vous pouvez demander de l'aide sur Slack `#incubateur-help` ou
 
 ![](../../.gitbook/assets/image%20%283%29.png)
 
-* Si vous êtes familier avec les applications mobile de type "Google Authenticator" faite : "**Set up using an app**." et suiver les étapes indiqués par Github.
-* Si vous ne comprennez pas le point si dessus ^ faite "**Set up using SMS"** et entrer votre numéro de mobile
+* Si vous êtes familier avec les applications mobile de type "Google Authenticator" faite : "**Set up using an app**." et suivre les étapes indiqués par Github.
+* Si vous ne comprenez pas le point si dessus ^ faite "**Set up using SMS"** et entrer votre numéro de mobile
 * Github vas vous afficher des "Recovery codes"
   * Imprimer ces codes et garder les dans un coin, à défaut sauvegarder les de manière sécurisé
 
@@ -39,7 +39,7 @@ Dans tous les cas vous pouvez demander de l'aide sur Slack `#incubateur-help` ou
 
 ## Créé sa fiche personnel sur le site beta.gouv.fr
 
-* Vérifi que tu es connecté à Github
+* Vérifie que tu es connecté à Github
 * [Clique ici pour lancer la création de la fiche](https://beta.gouv.fr/trampoline.html?what=authors&where=content/_authors/prenom.nom.md)
 
 ![](../../.gitbook/assets/image%20%285%29.png)
