@@ -35,9 +35,7 @@ Certaines salles sont équipées de matériel de visioconférence \(écran et ca
 
 ### AudioConf
 
-Ce service géré par la Dinum est accessbible à tous les membres de beta ayant un email @beta.gouv.fr ou un email pro d'une administration publique.
-
-Accessible partout / Par téléphone / Sans internet
+Ce service géré par la Dinum est accessible à tous les membres de beta ayant un email @beta.gouv.fr ou un email pro d'une administration publique.
 
 Jusqu'à 50 personnes.
 
