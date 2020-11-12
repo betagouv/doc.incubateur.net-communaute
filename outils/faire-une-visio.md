@@ -33,6 +33,16 @@ Certaines salles sont équipées de matériel de visioconférence \(écran et ca
 
 ## Les outils de conférences téléphoniques
 
+### AudioConf
+
+Ce service géré par la Dinum est accessbible à tous les membres de beta ayant un email @beta.gouv.fr ou un email pro d'une administration publique.
+
+Accessible partout / Par téléphone / Sans internet
+
+Jusqu'à 50 personnes.
+
+[https://audioconf.numerique.gouv.fr/](https://audioconf.numerique.gouv.fr/)
+
 ### Fusion d'appel pour des échanges à trois ou quatre
 
 Certains opérateurs téléphoniques permettent de fusionner des appels afin d'échanger à trois ou quatre.
