@@ -25,7 +25,7 @@ Cet outil est utile lorsque vos interlocuteurs ont un réseau internet restreint
 
 Avec une adresse email @beta.gouv.fr, ce service fonctionnera très bien.
 
-* \*\*\*\*[**https://webconference.numerique.gouv.fr/**](https://webconference.numerique.gouv.fr/)\*\*\*\*
+* \*\*\*\*[**https://webconf.numerique.gouv.fr//**](https://webconf.numerique.gouv.fr/)\*\*\*\*
 
 ### **Organiser une visioconférence à Ségur**
 
