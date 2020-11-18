@@ -21,6 +21,14 @@ C'est un dispositif qui permet aux individus de se voir certifier des compétenc
 
 L'attribution d'une certification n'est jamais automatique. Elle ne peut être délivrée que par un petit nombre d'organismes ayant été reconnus par un organisme d'Etat. La certification des intrapreneurs est réalisée par NUMA.
 
+{% hint style="info" %}
+[Définition officiel d'un certification professionnelle](https://www.francecompetences.fr/certification-professionnelle/)
+{% endhint %}
+
+{% hint style="info" %}
+[Contenu de la certification reconnue par l'Etat proposée par Numa](https://www.francecompetences.fr/recherche/rs/3536/)
+{% endhint %}
+
 ## Pourquoi une certification des compétences des intra ?
 
 Les intrapreneurs, membres des Startups d’État ou de Territoires, s’engagent dans une aventure professionnelle inédite. Hors des sentiers battus des carrières classiques des agents publics, ils montent et animent des équipes pluridisciplinaires pour résoudre les problèmes des politiques publiques que portent leur organisation.
