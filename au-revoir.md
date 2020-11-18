@@ -6,7 +6,7 @@ description: "Tu nous quittes ? On espère que tu as passé un moment positif av
 
 ### Checklist de départ
 
-* [ ] T'assurer que ta date de départ a bien été renseignée dans [ta fiche sur beta.gouv.fr](https://github.com/betagouv/beta.gouv.fr/tree/master/_authors).
+* [ ] T'assurer que ta date de départ a bien été renseignée dans [ta fiche sur beta.gouv.fr](https://github.com/betagouv/beta.gouv.fr/tree/master/content/_authors).
 
 > C'est important, c'est là que se fait le suivi RH !
 
