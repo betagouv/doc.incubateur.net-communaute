@@ -31,11 +31,7 @@ Tu peux utiliser : [🔒`#incubateur-help`](https://startups-detat.slack.com/mes
 
 Sur les pages suivantes tu découvriras de la lecture sur l'esprit beta.gouv.fr et sur comment la communauté fonctionne.
 
-{% page-ref page="charte.md" %}
-
-{% page-ref page="normes-de-conduite.md" %}
-
-{% page-ref page="environnement-de-travail.md" %}
+{% page-ref page="../culture/README.md" %}
 
 {% page-ref page="to-do-darrivee.md" %}
 
