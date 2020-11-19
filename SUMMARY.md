@@ -26,6 +26,8 @@
 * [🎓 Se former](travailler-a-beta-gouv/se-former/README.md)
   * [Certification des intrapreneurs](travailler-a-beta-gouv/se-former/certification-des-intrapreneurs.md)
   * [Groupe de co-développement professionnel](travailler-a-beta-gouv/se-former/groupe-de-co-developpement-professionnel.md)
+  * [Les formations passées](travailler-a-beta-gouv/se-former/les-formations-passees/README.md)
+    * [Les formations NUMA](travailler-a-beta-gouv/se-former/les-formations-passees/les-formations-numa.md)
 * [🖖 S'engager dans la vie de la communauté](travailler-a-beta-gouv/actions-transverses/README.md)
   * [S'engager dans une action transverse](travailler-a-beta-gouv/actions-transverses/sengager-dans-une-action-transverse.md)
   * [Les zones de responsabilités](travailler-a-beta-gouv/actions-transverses/les-zones-de-responsabilites.md)
