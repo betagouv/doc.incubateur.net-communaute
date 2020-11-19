@@ -12,7 +12,7 @@ description: >-
 
 #### 📗NUMA \#2 Conversations difficiles : être à l'aise même dans les situations les plus inconfortables \(17.11.2020\)
 
-fiche à venir
+{% file src="../../../.gitbook/assets/numa-conversations-difficiles-fiche-recapitulative-.pdf" caption="Gérer les conversations difficiles" %}
 
 #### 📘NUMA\#3 **Plan d'action, comment allier roadmap globale et résultats mesurables avec la méthode OKRs \(15.12.2020\)**
 
