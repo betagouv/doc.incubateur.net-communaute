@@ -8,5 +8,5 @@ Tu trouveras l'ensemble de ces formations ici 👉 [Les formations UX](https://d
 
 Ressources supplémentaires : 
 
-* Vous trouverez ci-après un REX de Raphaël, qui comporte une partie formation : [https://blocnotes.iergo.fr/articles/6-mois-a-beta-gouv-fr/](https://blocnotes.iergo.fr/articles/6-mois-a-beta-gouv-fr/)
+* Tu trouveras ci-après un REX de Raphaël, qui comporte une partie formation : [https://blocnotes.iergo.fr/articles/6-mois-a-beta-gouv-fr/](https://blocnotes.iergo.fr/articles/6-mois-a-beta-gouv-fr/)
 
