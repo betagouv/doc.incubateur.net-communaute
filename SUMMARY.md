@@ -33,6 +33,7 @@
     * [Accessibilité numérique](travailler-a-beta-gouv/se-former/les-formations-passees/accessibilite-numerique.md)
     * [Les formations NUMA](travailler-a-beta-gouv/se-former/les-formations-passees/les-formations-numa.md)
   * [Les besoins en formation](travailler-a-beta-gouv/se-former/les-besoins-en-formation.md)
+  * [Partage de ressources](travailler-a-beta-gouv/se-former/partage-de-ressources.md)
   * [Certification des intrapreneurs](travailler-a-beta-gouv/se-former/certification-des-intrapreneurs.md)
   * [Groupe de co-développement professionnel](travailler-a-beta-gouv/se-former/groupe-de-co-developpement-professionnel.md)
 * [🖖 S'engager dans la vie de la communauté](travailler-a-beta-gouv/actions-transverses/README.md)
