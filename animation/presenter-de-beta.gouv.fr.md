@@ -10,7 +10,8 @@ La présentation la plus à jour de beta.gouv.fr est lisible sur la [page Approc
 
 ### Présentations beta.gouv.fr
 
-[**Lien vers la présentation publique beta.gouv.fr**](https://docs.google.com/presentation/d/1u6YdQphMdfFcA2sHIm3Pr7EcCb_n6IrSCDJJs6O7ynE/edit?usp=sharing) ****\(mise à jour : juin 2020\)
+* [**Lien vers la présentation publique beta.gouv.fr**](https://docs.google.com/presentation/d/1u6YdQphMdfFcA2sHIm3Pr7EcCb_n6IrSCDJJs6O7ynE/edit?usp=sharing) ****\(mise à jour : juin 2020\)
+* \*\*\*\*[**Lien vers la présentation lorsqu'une administration veut travailler avec nous**](https://docs.google.com/presentation/d/1ltHiKpjmKkvrXUT4R0CTIt6C0pb-HNpANStKBzHVjFs/edit?usp=sharing)
 
 **Historique**
 
