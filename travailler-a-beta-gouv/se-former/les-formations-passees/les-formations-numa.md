@@ -18,5 +18,8 @@ description: >-
 
 fiche à venir
 
+  
+📙**NUMA Feedbacks, partager des feedbacks opportuns et actionnables** 
 
+{% file src="../../../.gitbook/assets/numa-feedbacks-fiche-recapitulative \(1\).pdf" caption="Partager des feedbacks opportuns et actionnables" %}
 
