@@ -101,7 +101,6 @@
   * [Avant le congé maternité](dinum/conge-maternite/avant-le-conge-maternite.md)
   * [Pendant le congé maternité](dinum/conge-maternite/pendant-le-conge-maternite.md)
   * [Après le congé maternité](dinum/conge-maternite/apres-le-conge-maternite.md)
-  * [A plus long terme](dinum/conge-maternite/a-plus-long-terme.md)
 * [🌍 Locaux](dinum/locaux/README.md)
   * [Où travailler ?](dinum/locaux/ou-travailler.md)
   * [Focus Segur](dinum/locaux/focus-segur.md)
