@@ -113,7 +113,6 @@
 * [👨🏽 Agents de la DINUM](dinum/contractuels-dinum/README.md)
   * [Email @modernisation.gouv.fr](dinum/contractuels-dinum/email-modernisation.gouv.fr.md)
   * [Déposer ses congés](dinum/contractuels-dinum/deposer-ses-conges.md)
-* [🔗 Liens avec la DINUM](dinum/liens-avec-la-dinum.md)
 
 ## 🏭 Fabrique numérique
 
