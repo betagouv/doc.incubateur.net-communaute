@@ -8,7 +8,5 @@
 
 {% page-ref page="mardi-demo.md" %}
 
-{% page-ref page="grand-seminaire.md" %}
-
 
 

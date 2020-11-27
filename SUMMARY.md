@@ -95,7 +95,6 @@
   * [Séminaire](dinum/rituels/seminaire.md)
   * [Grand séminaire](dinum/rituels/grand-seminaire-1.md)
   * [Mardi démo](dinum/rituels/mardi-demo.md)
-  * [L'assemblée générale](dinum/rituels/grand-seminaire.md)
 * [🤰 Congé maternité](dinum/conge-maternite/README.md)
   * [Avant d'être enceinte](dinum/conge-maternite/avant-detre-enceinte.md)
   * [Avant le congé maternité](dinum/conge-maternite/avant-le-conge-maternite.md)
