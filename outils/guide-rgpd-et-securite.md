@@ -105,7 +105,7 @@ _Mon produit a rencontré ses utilisateurs et démontré sa valeur ; je concentr
 2. A partir du livrable de l'atelier risques, je constitue un dossier d'homologation de sécurité :
    * 💡 Exemples de dossier d'homologation de sécurité : [Le.taxi](https://github.com/betagouv/beta.ssi/blob/master/homologations/le_taxi.md) et [Aidants connect](https://trello.com/c/NOap62w5)
 3. Je partage le dossier avec le RSSI de mon administration, prends en compte ses retours et me renseigne sur l'autorité d'homologation :
-   * 💡 Le RSSI de la DINUM est `laurent.voillot@modernisation.gouv.fr`
+   * 💡 Pour connaître le RSSI de la DINUM contacté l'équipe d'animation de beta.gouv.fr
 4. \[Optionnel\] A ce stade, je peux solliciter un prestataire pour réaliser un test d'intrusion. Je contacte la DINUM si besoin pour en discuter.
 {% endtab %}
 
