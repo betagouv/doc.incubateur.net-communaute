@@ -100,9 +100,9 @@ _Léry_
 
 _De l'écoute et des questions à l'intervenante._
 
-## Ajouter son évènement à l'agenda de beta :
+## Ajouter son évènement à l'agenda de beta 📅 :
 
-[Formulaire en ligne](https://airtable.com/shrWvcUAOJqllVqtj)
+📅 [Formulaire en ligne](https://airtable.com/shrWvcUAOJqllVqtj)
 
 ## Où annoncer son évènement ? 
 
