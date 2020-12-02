@@ -6,7 +6,9 @@ L'incubateur utilise [Slack](http://startups-detat.slack.com/) comme service de 
 ### Premiers pas
 
 * Se [créer un compte](https://startups-detat.slack.com/signup) sur notre Slack.
+
  `* Avec une adresse email en `@beta.gouv.fr`: aller sur [https://startups-detat.slack.com/](https://startups-detat.slack.com/) et se créer un compte, ça devrait rouler tout seul. Sinon, demande à t·on.a marrain·e, par exemple.`
+ 
  `* Avec n'importe quel autre email : n'importe qui peut faire une demande d'invitation à l'espace de travail Slack de beta.gouv.fr \("Invite People"\) ; la demande sera transmise à un administrateur qui pourra l'approuver ou non.`
 
 * Compléter ton profil Slack, avec ton mail et ton rôle dans la communauté beta.gouv.fr et chez Etalab, afin que celles et ceux qui ne te connaissent pas puissent facilement t'identifier. Sans que cela soit obligatoire, nous t'encourageons également à rajouter une photo où tu es reconnaissable et renseigner ton numéro de téléphone pro.
