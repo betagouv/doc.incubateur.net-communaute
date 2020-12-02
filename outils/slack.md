@@ -2,25 +2,20 @@
 
 L'incubateur utilise [Slack](http://startups-detat.slack.com/) comme service de messagerie instantanée.
 
-### Créer un compte
+### Premiers pas
 
 * Se [créer un compte](https://startups-detat.slack.com/signup) sur notre Slack.
+ `* Avec une adresse email en `@beta.gouv.fr`: aller sur [https://startups-detat.slack.com/](https://startups-detat.slack.com/) et se créer un compte, ça devrait rouler tout seul. Sinon, demande à t·on.a marrain·e, par exemple.`
+ `* Avec n'importe quel autre email : n'importe qui peut faire une demande d'invitation à l'espace de travail Slack de beta.gouv.fr \("Invite People"\) ; la demande sera transmise à un administrateur qui pourra l'approuver ou non.`
 
-> Avec une adresse `@beta.gouv.fr`, ça devrait rouler tout seul. Sinon, demande à t·on.a marrain·e, par exemple.
+* Compléter ton profil Slack, avec ton mail et ton rôle dans la communauté beta.gouv.fr et chez Etalab, afin que celles et ceux qui ne te connaissent pas puissent facilement t'identifier. Sans que cela soit obligatoire, nous t'encourageons également à rajouter une photo où tu es reconnaissable et renseigner ton numéro de téléphone pro.
+* Prendre connaissance de la liste des canaux publics pour choisir ceux qui t'intéressent. 
+* Prendre connaissance des conventions de nommage des canaux de discussion si tu souhaitent en créer de nouveaux(ici plus bas).
 
-* Prendre connaissance des [conventions de nommage](https://github.com/betagouv/beta.gouv.fr/wiki/Slack#conventions-de-nommage-des-canaux) des canaux de discussion.
-* Sur ton profil slack, renseigne ton poste et le nom de ta startup dans le champ "Poste actuel" 
-* Pour tout problème ou toute question concernant une des étapes de ton intégration, tu es invité à envoyer un message sur [🔒`#incubateur-secretaria`](https://startups-detat.slack.com/messages/incubateur-secretaria/)
+* Pour tout problème ou toute question concernant une des étapes de ton intégration, tu es invité à envoyer un message sur [🔒`#incubateur-secretaria`](https://startups-detat.slack.com/messages/incubateur-secretaria/) ou [#incubateur-help](https://startups-detat.slack.com/messages/incubateur-help/).
 * Découvrir et s'inscrire aux [listes de diffusion](https://github.com/betagouv/beta.gouv.fr/wiki/listes-de-diffusion) qui t'intéressent.
 
 > Il existe une commande [/email](https://github.com/betagouv/beta.gouv.fr/wiki/Slack#emails) qui te permet de lister et de t'inscrire toi-même aux listes qui t'intéressent. N'hésite pas !
-
-### S'inscrire
-
-* **Avec une adresse email en `@beta.gouv.fr` :** aller sur [https://startups-detat.slack.com/](https://startups-detat.slack.com/) et se créer un compte.
-* **Avec n'importe quel autre email :** n'importe qui peut faire une demande d'invitation à l'espace de travail Slack de beta.gouv.fr \("Invite People"\) ; la demande sera transmise à un administrateur qui pourra l'approuver ou non.
-
-Nous t'incitons fortement à compléter ton profil Slack, avec ton mail, ton numéro de téléphone et ton rôle dans la communauté beta.gouv.fr et chez Etalab, afin que celles et ceux qui ne te connaissent pas puissent facilement t'identifier. Sans que cela soit obligatoire, nous t'encourageons également à rajouter une photo où tu es reconnaissable.
 
 ### Inviter d'autres personnes
 
@@ -32,13 +27,18 @@ Si c'est pour créer un espace de discussion restreint, par exemple une équipe 
 
 #### Contenu des messages
 
-TL;DR : les canaux publics de Slack ne sont pas la machine à café. Moins de :hankey: et plus de :heart:
+Les canaux publics de Slack ne sont pas la machine à café, soyons respectueux.
 
 > Il faut à mon avis être très précis sur ce que l’on considère comme « déplacé ». Soyons iconoclastes, et n’ayons pas peur de parler de quoi que se soit s’il le faut ; mais restons respectueux des personnes avec qui nous pouvons être amenés à interagir, quoi que l’on pense d’elles, surtout en évitant les invectives, attaques et autres trolls. La censure étant un mécanisme de contrôle social et de la pensée, on risque de perdre notre quintessence rénovatrice et disruptive si l’on n’arrive pas à maîtriser cet enjeu.
 
 #### Threads
 
-Nous encourageons l'utilisation des threads pour les discussions afin de fluidifier les discussions \(pas d'enchevêtrement des messages\) et que certains sujets ne se retrouvent pas "cachés" par un flux de messages trop important.
+Nous encourageons l'utilisation des threads pour les discussions afin de les fluidifier \(pas d'enchevêtrement des messages\) et que certains sujets ne se retrouvent pas "cachés" par un flux de messages trop important.
+
+#### Mentions @
+
+Nous recommandons de limiter l'usage de mentions comme @here qui notifie l'ensemble des membre du canal afin de réduire le "bruit ambiant".
+Nous encourageons à utiliser la mention @lapersonne lorsque que tu cites quelqu'un dans un canal public. 
 
 ### Conventions de nommage des canaux
 
@@ -99,10 +99,6 @@ Par exemple :
 >
 > → le serveur de l'API de la DRFTAPS est encore en rade, ÇA ME SAOULE _\(edited\)_
 
-#### `/emails`
-
-Voir le paragraphe sur [la commande `/emails`](https://github.com/betagouv/beta.gouv.fr/wiki/Listes-de-diffusion#la-commande-slack-email)
-
 ### Paramétrage
 
 * Si vous voulez désactiver les previews des liens qui s'affichent automatiquement : `Preferences > Messages > Display preview links > Off`
@@ -115,19 +111,11 @@ Voir le paragraphe sur [la commande `/emails`](https://github.com/betagouv/beta.
   * Si vous faites une install pip en local, le binaire peut se trouver à `./.local/bin/slack-cleaner` \(à remplacer dans la commande\)
 * Lancer la commande `slack-cleaner --token {TOKEN} --file --before 20170101 --confirm` maintenant \(changer la date\)
 
-### Lutter contre la Slacknésie
+### Fonctionnalités
 
-Astuce partagée sur Slack par un membre de la communauté : 
+#### Enregistrer des messages
 
-_Certains ont des secrets minceurs, moi j'ai un secret Slacknésie \(= disparition automatique d'anciens messages de Slack après quelques jours\)...J'ai constaté qu'entre 1 à 5 % des messages de Slack pourraient m'être utiles à l'avenir. Sauf qu'avec notre licence "gratuite" Slack ces messages disparaissent trop vites. Je suis donc frustré.  
-J'ai découvert qu'en taguant "Enregistrer" certains messages \(le logo ressemble à un marque-page_ ![:marque-page:](https://a.slack-edge.com/production-standard-emoji-assets/10.2/google-medium/1f516@2x.png) _quand vous passez la souris sur un message\) , ma frustration s'apaisait.  
-Par exemple :  
-les messages où je pose une question et dont je souhaite avoir la réponse même dans 30 jours,_
-
-* _les réponses qui me sont apportées mais que je ne traiterais que dans 20 jours,_
-* _les messages d'autres collègues dont je sais qu'ils me seront probablement utiles dans 35 jours,_
-* _..._
-
-_J'ai observé qu'une fois taguée, ces messages sont disponibles dans la rubrique "éléments enregistrés" sans date de péremption. C'est pratique.  
-Je ne dois pas être le seul à le savoir mais hier une collègue a semblé le découvrir. Donc peut-être que d'autres vont le découvrir et seront un peu moins frustrés._
+Vous avez la possibilité de en taguer "Enregistrer" certains messages \(le logo ressemble à un marque-page_ ![:marque-page:](https://a.slack-edge.com/production-standard-emoji-assets/10.2/google-medium/1f516@2x.png) _quand vous passez la souris sur un message\)
+Une fois tagués ces messages sont disponibles dans la rubrique "éléments enregistrés" sans date de péremption.
+Cette fonctionnalité était particulièrement pertinente lorsque nous disposions d'une licence "gratuite" qui supprimait les messages au fur et à mesure. 
 
