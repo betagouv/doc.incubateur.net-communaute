@@ -7,15 +7,15 @@ L'incubateur utilise [Slack](http://startups-detat.slack.com/) comme service de 
 
 * Se [créer un compte](https://startups-detat.slack.com/signup) sur notre Slack.
 
- `* Avec une adresse email en `@beta.gouv.fr`: aller sur [https://startups-detat.slack.com/](https://startups-detat.slack.com/) et se créer un compte, ça devrait rouler tout seul. Sinon, demande à t·on.a marrain·e, par exemple.`
+   * Avec une adresse email en `@beta.gouv.fr`: aller sur [https://startups-detat.slack.com/](https://startups-detat.slack.com/) et se créer un compte, ça devrait rouler tout seul. Sinon, demande à t·on.a marrain·e, par exemple.
  
- `* Avec n'importe quel autre email : n'importe qui peut faire une demande d'invitation à l'espace de travail Slack de beta.gouv.fr \("Invite People"\) ; la demande sera transmise à un administrateur qui pourra l'approuver ou non.`
+   * Avec n'importe quel autre email : n'importe qui peut faire une demande d'invitation à l'espace de travail Slack de beta.gouv.fr \("Invite People"\) ; la demande sera transmise à un administrateur qui pourra l'approuver ou non.
 
 * Compléter ton profil Slack, avec ton mail et ton rôle dans la communauté beta.gouv.fr et chez Etalab, afin que celles et ceux qui ne te connaissent pas puissent facilement t'identifier. Sans que cela soit obligatoire, nous t'encourageons également à rajouter une photo où tu es reconnaissable et renseigner ton numéro de téléphone pro.
 * Prendre connaissance de la liste des canaux publics pour choisir ceux qui t'intéressent. 
 * Prendre connaissance des conventions de nommage des canaux de discussion si tu souhaitent en créer de nouveaux(ici plus bas).
 
-* Pour tout problème ou toute question concernant une des étapes de ton intégration, tu es invité à envoyer un message sur [🔒`#incubateur-secretaria`](https://startups-detat.slack.com/messages/incubateur-secretaria/) ou [#incubateur-help](https://startups-detat.slack.com/messages/incubateur-help/).
+* Pour tout problème ou toute question concernant une des étapes de ton intégration, tu es invité à envoyer un message sur [🔒`#incubateur-secretaria`](https://startups-detat.slack.com/messages/incubateur-secretaria/) ou [🔒`#incubateur-help`](https://startups-detat.slack.com/messages/incubateur-help/).
 * Découvrir et s'inscrire aux [listes de diffusion](https://github.com/betagouv/beta.gouv.fr/wiki/listes-de-diffusion) qui t'intéressent.
 
 > Il existe une commande [/email](https://github.com/betagouv/beta.gouv.fr/wiki/Slack#emails) qui te permet de lister et de t'inscrire toi-même aux listes qui t'intéressent. N'hésite pas !
@@ -25,6 +25,47 @@ L'incubateur utilise [Slack](http://startups-detat.slack.com/) comme service de 
 Tu peux inviter des personnes avec qui ça a du sens de discuter sur notre Slack. Pour éviter de créer le sentiment qu'on se parle dans un lieu rempli d'étrangers, tu as la responsabilité de veiller à ce que ces personnes se présentent \(sur [🔒`#incubateur-nouveaux`](https://startups-detat.slack.com/messages/incubateur-nouveaux/)\) au reste de la communauté.
 
 Si c'est pour créer un espace de discussion restreint, par exemple une équipe au sein d'une administration partenaire qui aime bien l'idée d'avoir une messagerie instantanée, mais avec qui on sera peu amené à échanger, il vaut mieux leur créer un Slack à part entière.
+
+### Top 30 des canaux les plus fréquentés
+
+#### La vie de l'incubateur 
+[🔒`#incubateur-annonces`](https://startups-detat.slack.com/messages/incubateur-annonces/)
+[🔒`#incubateur-veille`](https://startups-detat.slack.com/messages/incubateur-veille/)
+[🔒`#incubateur-strategie`](https://startups-detat.slack.com/messages/incubateur-strategie/)
+[🔒`#incubateur-live`](https://startups-detat.slack.com/messages/incubateur-live/)
+[🔒`#incubateur-animation`](https://startups-detat.slack.com/messages/incubateur-animation/)
+[🔒`#incubateur-formations`](https://startups-detat.slack.com/messages/incubateur-formations/)
+[🔒`#incubateur-help`](https://startups-detat.slack.com/messages/incubateur-help/)
+[🔒`#bureaux-segur`](https://startups-detat.slack.com/messages/bureaux-segur/)
+[🔒`#incubateur-twitter`](https://startups-detat.slack.com/messages/incubateur-twitter/)
+[🔒`#incubateur-com`](https://startups-detat.slack.com/messages/incubateur-com/)
+[🔒`#incubateur-investigation`](https://startups-detat.slack.com/messages/incubateur-investigation/)
+[🔒`#etalab-general`](https://startups-detat.slack.com/messages/etalab-general/)
+
+#### La vie administrative
+[🔒`#incubateur-compta`](https://startups-detat.slack.com/messages/incubateur-compta/)
+[🔒`#incubateur-indép-octo`](https://startups-detat.slack.com/messages/incubateur-indép-octo/)
+[🔒`#incubateur-secretaria`](https://startups-detat.slack.com/messages/incubateur-secretaria/)
+
+
+#### La vie, la vraie
+[🔒`#incubateur-kifs`](https://startups-detat.slack.com/messages/incubateur-kifs/)
+[🔒`#incubateur-random`](https://startups-detat.slack.com/messages/incubateur-random/)
+[🔒`#incubateur-bistrot`](https://startups-detat.slack.com/messages/incubateur-bistrot/)
+
+#### La vie des experts
+[🔒`#domaine-intrapreneurs`](https://startups-detat.slack.com/messages/domaine-intrapreneurs/)
+[🔒`#incubateur-designers-transverses`](https://startups-detat.slack.com/messages/incubateur-designers-transverses/)
+[🔒`#incubateur-bizdev`](https://startups-detat.slack.com/messages/incubateur-bizdev/)
+[🔒`#domaine-dev`](https://startups-detat.slack.com/messages/domaine-dev/)
+[🔒`#incubateur-coaching`](https://startups-detat.slack.com/messages/incubateur-coaching/)
+[🔒`#domaine-juridique`](https://startups-detat.slack.com/messages/domaine-juridique/)
+[🔒`#domaine-growth`](https://startups-detat.slack.com/messages/domaine-growth/)
+[🔒`#domaine-opendata`](https://startups-detat.slack.com/messages/domaine-opendata/)
+[🔒`#domaine-produit`](https://startups-detat.slack.com/messages/domaine-produit/)
+[🔒`#domaine-ux`](https://startups-detat.slack.com/messages/domaine-ux/)
+[🔒`#incubateur-ops`](https://startups-detat.slack.com/messages/incubateur-ops/)
+
 
 ### Ligne de conduite sur Slack
 
