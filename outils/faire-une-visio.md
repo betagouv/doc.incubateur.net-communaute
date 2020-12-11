@@ -58,6 +58,8 @@ Essayez ici : [https://www.ovh.com/conferences/](https://www.ovh.com/conferences
 
 ### **Conseils et bonnes pratiques pour Livestorm**
 
+{% embed url="https://www.youtube.com/watch?v=SUDu3BHAfpc&list=PLlCxkt1J864bo3kODkJbpc6mPjQCFmZlh&index=2" %}
+
 * Les membres de l’équipe d'animation beta.gouv ont le statut de `membres` et peuvent à ce titre modérer et intervenir dans les webinaires.
 * Le jour du webinaire, 1 seule personne doit se connecter en qualité d’`administrateur` \(c'est-à-dire avec le login dinum@\) pour pouvoir lancer et terminer la retransmission.
 * Tous les autres doivent se connecter en qualité de `membres`et non d’`administrateur`s’ils participent également au webinaire
