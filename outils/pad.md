@@ -32,7 +32,7 @@ Une différence importante dans la maîtrise des données: celles des pads "appa
 
 Cela ne veut pas dire que l'un est "mieux" que l'autre, c'est seulement un critère de choix. Au moment de créer un document, tu peux te demander "est-ce que c'est potentiellement utile à beta ?", si la réponse est oui, un pad est indiqué. Pour des documents uniquement à l'usage de l'équipe produit, un Google Doc dans un drive partagé qui appartient à l'équipe peut être la bonne solution (en restant attentifs à la [vie privée des personnes](/communaute/outils/guide-rgpd-et-securite)).
 
-Comme l'accès à Slack garantit l'accès aux pads, on se sert aussi beaucoup des pads comme solution de contournement à la Slacknésie: si c'est sur Slack, et que c'est important, le bon réflexe c'est de le mettre dans un pad. Sinon, dans une semaine ça aura disparu.
+Comme l'accès à Slack garantit l'accès aux pads, on se sert aussi beaucoup des pads comme solution de contournement à des phénomènes de type Slacknésie: si c'est sur Slack, et que c'est important, le bon réflexe c'est de le mettre dans un pad. Sinon, c'est beaucoup plus dur à retrouver plus tard. (La Slacknésie est un mal qui nous frappait quand on utilisait l'offre "gratuite" de Slack, qui avait pour effet d'effacer les messages anciens de plus d'une semaine. Même en étant passés sur l'offre "premium" payante de Slack, le volume de messages garantit presque à coup sûr l'oubli d'informations importantes.)
 
 ## Quelques conseils pour l'utiliser ?
 
