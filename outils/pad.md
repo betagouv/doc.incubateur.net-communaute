@@ -26,9 +26,15 @@ Tu peux **rendre un pad consultable publiquement** en cliquant sur le bouton qui
 
 Une [analyse de risques](https://pad.incubateur.net/fiqTt1NDSi2YSEQQexFsbg) est disponible.
 
-## Quelques conseils pour l'utiliser ?
+## Mais pourquoi pas utiliser Google Docs ? Quelle différence ?
 
-C'est assez simple.
+Une différence importante dans la maîtrise des données: celles des pads "appartiennent" à beta dans un sens plus fort (on a toute la base sous la main, on peut la backuper, éventuellement l'explorer), ce qui est chez Google "appartient", au mieux aux personnes à titre individuel qui créent des GDocs, au pire à Google. On a aucun moyen par exemple de chercher "tous les GDocs créés par des membres de beta".
+
+Cela ne veut pas dire que l'un est "mieux" que l'autre, c'est seulement un critère de choix. Au moment de créer un document, tu peux te demander "est-ce que c'est potentiellement utile à beta ?", si la réponse est oui, un pad est indiqué. Pour des documents uniquement à l'usage de l'équipe produit, un Google Doc dans un drive partagé qui appartient à l'équipe peut être la bonne solution (en restant attentifs à la [vie privée des personnes](/communaute/outils/guide-rgpd-et-securite)).
+
+Comme l'accès à Slack garantit l'accès aux pads, on se sert aussi beaucoup des pads comme solution de contournement à des phénomènes de type Slacknésie: si c'est sur Slack, et que c'est important, le bon réflexe c'est de le mettre dans un pad. Sinon, c'est beaucoup plus dur à retrouver plus tard. (La Slacknésie est un mal qui nous frappait quand on utilisait l'offre "gratuite" de Slack, qui avait pour effet d'effacer les messages anciens de plus d'une semaine. Même en étant passés sur l'offre "premium" payante de Slack, le volume de messages garantit presque à coup sûr l'oubli d'informations importantes.)
+
+## Quelques conseils pour l'utiliser ?
 
 Voici un [exemple](https://pad.incubateur.net/09z0KJSBTTm0_d19cU1vpA?view#Comment-cr%C3%A9er-un-pad-) qui est également un tuto pour vous expliquer comment ça fonctionne.
 
