@@ -15,6 +15,7 @@
   * [Marrainage](travailler-a-beta-gouv/bienvenue/marrainage.md)
   * [Comment embarquer quelqu'un ?](travailler-a-beta-gouv/bienvenue/embarquement-par-le-recruteur.md)
 * [💖 Culture et environnement de travail](travailler-a-beta-gouv/culture/README.md)
+  * [Conseils à la communauté](travailler-a-beta-gouv/culture/conseils.md)
   * [Notre charte](travailler-a-beta-gouv/culture/charte.md)
   * [Normes de conduite](travailler-a-beta-gouv/culture/normes-de-conduite.md)
 * [🎯 Recrutement](travailler-a-beta-gouv/recrutement/README.md)
