@@ -78,6 +78,7 @@
 * [📚 Références bibliographiques](outils/references-bibliographiques.md)
 * [™ Logo](outils/logo.md)
 * [✅ Trello](outils/trello.md)
+* [📆 Agenda public](outils/outils.md#agenda)
 
 ## Nos services à destination...
 
