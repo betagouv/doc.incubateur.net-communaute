@@ -1,4 +1,4 @@
-#### Conseils à la communauté
+# Conseils à la communauté
 
 Nous encourageons vivement la communauté :
 
@@ -17,4 +17,5 @@ Les comportements abusifs ne sont pas tolérés au sein de beta. Est notamment e
 
 Le harcèlement moral ou sexuel est interdit et constitue un délit pénal.
 
-Si vous vous en estimez victimes, référez-vous à la [section précédente](README.md). Si vous en êtes témoin, vous êtes légitime à intervenir.
+Si vous vous en estimez victimes, référez-vous à la [section précédente](./). Si vous en êtes témoin, vous êtes légitime à intervenir.
+

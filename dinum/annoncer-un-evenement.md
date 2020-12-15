@@ -12,7 +12,7 @@ Nous partageons nos recommandations pour bien l'organiser.
 
 Il est utile de correctement annoncer un évènement pour :
 
-*  permettre aux membres de bien comprendre l'utilité d'y participer;
+* permettre aux membres de bien comprendre l'utilité d'y participer;
 * augmenter le nombre de participations à ces évènements.
 
 ## Comment annoncer son évènement ?
@@ -104,9 +104,9 @@ _De l'écoute et des questions à l'intervenante._
 
 📅 [Formulaire en ligne](https://airtable.com/shrWvcUAOJqllVqtj)
 
-## Où annoncer son évènement ? 
+## Où annoncer son évènement ?
 
-Tu peux : 
+Tu peux :
 
 * [x] publier ton évènement dans [l'agenda public de beta](https://calendar.google.com/calendar/u/0/embed?src=0ieonqap1r5jeal5ugeuhoovlg@group.calendar.google.com&ctz=Europe/Paris).
 * [x] annoncer l'évènement sur SLACK \(\#Général \#Annonce ou tout autre salon en lien avec le sujet de ton évènement\)
@@ -116,6 +116,4 @@ Tu peux :
 ## Quel est le meilleur moment pour proposer un évènement ?
 
 Le **mardi** et le **jeudi** sont les deux jours les plus favorables.
-
-
 
