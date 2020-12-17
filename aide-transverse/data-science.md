@@ -8,9 +8,7 @@ La _data science_, ou science des données, est un domaine interdisciplinaire qu
 
 ## Deux approches complémentaires en Data Science
 
-### Exploration / Description
-
-### Prédiction
+![Deux approches Data Science](../.gitbook/assets/data-science-approaches.png)
 
 ## Offre de service
 
@@ -20,11 +18,9 @@ L’offre de data science pour une SE peut se résumer à l’accompagner pour d
 
 Toute SE génère nécessairement des données diverses et variées : données d'usage de l'outil, d'utilisateurs, issues d'autres administrations ou bien de partenaires externes, données ouvertes collectées sur le web...
 
-En général, il est préférable d'avoir des questions précises auxquelles on souhaite répondre ou, à défaut, une problématique claire à laquelle on souhaite apporter une solution via l'utilisation de données.
+En général, il est préférable d'avoir des questions précises auxquelles on souhaite répondre ou, à défaut, des données précises que l'on souhaite valoriser.
 
-Pour une SE en investigation/croissance, l’impact le plus fort sera sur la partie définition et implémentation de la stratégie de collecte de données ainsi que l'exploration et l'expérimentation rapide de cas d'usages data.
-
-Une SE en accélération se copncentrera plutôt sur la mise en production et l'amélioration continue de ses cas d'usage data science, par exemple via le [MLOps](https://ml-ops.org/).
+Une SE plus mature sur les questions de data science se concentrera plutôt sur la mise en production et l'amélioration continue de ses cas d'usage, par exemple via le [MLOps](https://ml-ops.org/).
 
 
 ## Qui propose de l'aide ?
