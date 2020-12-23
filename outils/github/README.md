@@ -5,14 +5,11 @@
 * C'est service en ligne qui contient le code source du site internet de beta.gouv.fr
 * La modification du site beta.gouv.fr a été simplifié pour être accessible à un maximun de personne
 
-## Deux choix :
 
-* Je m'occupe de créer de manière autonome ma fiche personnelle, modifier mon statut, mes dates de contrats, faire les modifications pour la page de ma startup, publier d'offre d'emploi
-* Je demande à quelqu'un d'autre de faire ces opérations à ma place
 
 Dans tous les cas vous pouvez demander de l'aide sur Slack `#incubateur-help` ou par email sur `contact@beta.gouv.fr`
 
-## Je souhaite être autonome : je créé un compte Github
+## Je créé un compte Github
 
 * Inscrivez-vous sur le site de Github : [https://github.com/join](https://github.com/join)
 
@@ -37,23 +34,24 @@ Dans tous les cas vous pouvez demander de l'aide sur Slack `#incubateur-help` ou
 * Met ta photo \(ou une image personnalisé si tu ne veux pas diffuser ta photo\) sur Github, dans "Settings", "Profile" ou par le lien  [https://github.com/settings/profile](https://github.com/settings/profile)
   * \(Elle servira pour la page communauté de beta.gouv.fr\).
 
-## Créé sa fiche personnel sur le site beta.gouv.fr
+## Faire une modification sur le site beta.gouv.fr
 
 * Vérifie que tu es connecté à Github
-* [Clique ici pour lancer la création de la fiche](https://beta.gouv.fr/trampoline.html?what=authors&where=content/_authors/prenom.nom.md)
+* Recherche ta fiche sur le repo github [https://github.com/betagouv/beta.gouv.fr/tree/master/content/\_authors](https://github.com/betagouv/beta.gouv.fr/tree/master/content/_authors)
+* Ouvre la fiche et clique sur le crayon 
+
+![](../../.gitbook/assets/image%20%284%29.png)
+
+* Le site peut te demande de faire un fork \(cela créé une version pour toi du site beta.gouv.fr\)
 
 ![](../../.gitbook/assets/image%20%285%29.png)
 
-* Clique sur "Fork this repository" \(cela créé une version pour toi du site beta.gouv.fr\)
-* Change le nom du fichier par "prenom.nom.md", garde bien le ".md" à la fin
-
-![Attention l](../../.gitbook/assets/image%20%2812%29.png)
-
-* Voici les informations à compléter :
+* Clique sur "Fork this repository" dans ce cas
+* Voici le détail des informations de ta fiche, tu peux la mettre à jour avec de nouveaux éléments
   * fullname : ton prénom et nom
   * role : ton rôle, tu as le droit d'être créatif ou pas
   * github : le pseudo de ton compte github \(tu peux le savoir en cliquant sur ton avatar en haut à droite de Github "Signed in as **Nom du compte github**"\)
-  * avatar  : tu peux laisser vide
+  * avatar  : tu peux laisser vide et utiliser l'image de ton compte Github
   * link : si tu veux mettre un lien vers ton site web, ta page linkedin, twitter ou laisser vide
   * missions : ajoute la date de debut et de fin de ton contrat \(si tu ne sais pas met une date de fin dans 6 mois
     * status : tu mets "admin" si tu es agents publiques, "independent" si tu es travailleur indépendant et "service" sinon
@@ -61,9 +59,9 @@ Dans tous les cas vous pouvez demander de l'aide sur Slack `#incubateur-help` ou
   * A la place de "Écrit des autobiographies percutantes en moins de 200 caractères depuis 1972." tu peux écrire un petit mot cours sur toi en ~ 200 caractère
   * Tu peux supprimer les `#` avec le texte à la suite de la ligne
   * Si tu as pu compléter une bonne partie mais tu as encore des doutes, passe quand même au étape suivante et marque tes doutes dans la description de l'étape "Pull Request"
-* Une fois les modifications faite, en bas de la page la page, tu peux metter un titre à ta modification à la place de `Create prenom.nom.md` et faire **Propose new file**
+* Une fois les modifications faite, en bas de la page la page, tu peux metter un titre à ta modification à la place de `Update prenom.nom.md` et faire **Commit changes**
 
-![](../../.gitbook/assets/image%20%289%29.png)
+![](../../.gitbook/assets/image%20%283%29.png)
 
 * Sur la page suivant il faut faire **"Create pull request"**
 
@@ -73,15 +71,13 @@ Dans tous les cas vous pouvez demander de l'aide sur Slack `#incubateur-help` ou
 
 ![](../../.gitbook/assets/image%20%2813%29.png)
 
-* Voila maintenant, un autre membre de beta.gouv.fr va pouvoir accepter ta modification. Tu recevras par email l'état de ta modification. Tu peux aussi poser des questions à ta marraine/ton marrain , sur slack sur `#incubateur-site` ou par email sur `contact@beta.gouv.fr`
+* Voila maintenant, un autre membre de beta.gouv.fr va pouvoir accepter ta modification
 
-> Tu seras automatiquement inscrit sur la mailing list `incubateur@beta.gouv.fr` dans les 24h \(\*\). Tu pourras aussi recevoir des rappels pour certains événements importants \(renouvellement de ta participation\).
-
-> Tu seras automatiquement ajouté à l'organisation Github dans les 24h. Si ce n'est pas le cas, demande à ton·ta marrain·e une invitation pour rejoindre l'organisation [betagouv](https://github.com/orgs/betagouv/teams) et sur la team [beta.gouv.fr](https://github.com/orgs/betagouv/teams/beta-gouv-fr).
+> Si tu as ajouté ton compte Github, tu seras automatiquement ajouté à l'organisation Github dans les 24h. Si ce n'est pas le cas, demande à ton·ta marrain·e une invitation pour rejoindre l'organisation [betagouv](https://github.com/orgs/betagouv/teams) et sur la team [beta.gouv.fr](https://github.com/orgs/betagouv/teams/beta-gouv-fr).
 
 ## Rentrer dans l'organisation Github betagouv
 
-* Notre secrétariat robotisé tourne tous les jours à 13h. Si tu as publié ta fiche dans la matinée \(l'étape "Créé sa fiche personnel"\), tu recevras ton invitation pour l'après-midi. Sinon, il faudra patienter jusqu'au lendemain!
+* Notre secrétariat robotisé tourne tous les jours à 13h une fois un compte github ajouté sur une fiche. Si tu as publié la modification dans la matinée, tu recevras ton invitation pour l'après-midi. Sinon, il faudra patienter jusqu'au lendemain!
 * Pour accepter l'invitation :
   * Soit tu cliques sur l'email reçu par email
   * Soit aller sur la page [https://github.com/betagouv](https://github.com/betagouv) et accepter l'invitation visile en haut
