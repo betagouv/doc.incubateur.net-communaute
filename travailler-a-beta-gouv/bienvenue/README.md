@@ -18,7 +18,7 @@ Tu peux utiliser : [🔒`#incubateur-help`](https://startups-detat.slack.com/mes
   * Créé ton compte en passant par ce formulaire : [https://secretariat.incubateur.net/onboarding](https://secretariat.incubateur.net/onboarding)
   * Demander à ton référent de valider ton compte sur Github \(il recoit aussi automatiquement un email\)
   * ✉️ Créer mes comptes[ Github](../../outils/github/), puis  [email](../../outils/emails.md) et [Slack](../../outils/slack.md)
-  * Demander mon [badge d'accès à Ségur](../../dinum/locaux/badge-pour-travailler-a-segur.md) 
+  * Demander mon [badge d'accès à Ségur](../../dinum/locaux/badge-pour-travailler-a-segur.md) \(Paris\)
   * Avoir un [marrain ou une parraine](marrainage.md)
 * [ ] Te présenter sur Slack dans [🔒`#general`](https://startups-detat.slack.com/messages/general) ! 👋
 * [ ] Propose une date pour un pot d'arrivée dans [🔒`#general`](https://startups-detat.slack.com/messages/general) ou à `incubateur@beta.gouv.fr` ! 🍺 On se retrouve déjà le mercredi soir, tu peux proposer ton pot à ce moment-là.
