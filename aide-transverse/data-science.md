@@ -1,4 +1,4 @@
-# Data Science :computer: :chart_with_upwards_trend: :robot:
+# Data Science
 
 ## Quésaco ?
 
@@ -12,7 +12,7 @@ La _data science_, ou science des données, est un domaine interdisciplinaire qu
 
 ## Offre de service
 
-L’offre de data science pour une SE peut se résumer à l’accompagner pour définir, implémenter , mesurer et améliorer/corriger des cas d'usage data (modèles prédictifs, machine learning, segmentation de la donnée, exploration de nouvelles données, tableaux de bords, etc.)  
+L’offre de data science pour une SE peut se résumer à l’accompagner pour définir, implémenter , mesurer et améliorer/corriger des cas d'usage data \(modèles prédictifs, machine learning, segmentation de la donnée, exploration de nouvelles données, tableaux de bords, etc.\)
 
 ## Quelle est type de SE est concerné par la Data Science ?
 
@@ -22,18 +22,17 @@ En général, il est préférable d'avoir des questions précises auxquelles on 
 
 Une SE plus mature sur les questions de data science se concentrera plutôt sur la mise en production et l'amélioration continue de ses cas d'usage, par exemple via le [MLOps](https://ml-ops.org/).
 
-
 ## Qui propose de l'aide ?
 
 * [**Vincent Viers**](https://www.linkedin.com/in/vincent-viers/), Data Scientist transverse @beta.gouv
 
 ## Le format
 
-* Interventions ponctuelles auprès de startups (jusqu'à 1 ou 2 jours par semaine sur quelques mois).
-* Ateliers collectifs, animation de la communauté data -> :construction-worker:
-* Aide au recrutement d'un profil data (data scientist, data engineer, data analyst).
-
+* Interventions ponctuelles auprès de startups \(jusqu'à 1 ou 2 jours par semaine sur quelques mois\).
+* Ateliers collectifs, animation de la communauté data -&gt; :construction-worker:
+* Aide au recrutement d'un profil data \(data scientist, data engineer, data analyst\).
 
 ## Comment demander de l'aide en data science ?
 
 Sur Slack, ou par mail : **vincent.viers@beta.gouv.fr**
+

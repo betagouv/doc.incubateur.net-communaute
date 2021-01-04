@@ -67,19 +67,19 @@ Ressources supplémentaires :
 
 Tous les mois, une formation est organisée et animée à distance par NUMA. Vous trouverez ici les fiches récapitulatives de chacune d'elles.
 
-#### 📕NUMA \#1 Workshop Exécution : Gagner 1/2 journée par semaine en gérant sont temps et son focus comme un pro \(27.10.2020\)
+#### 📕NUMA - Workshop Exécution : Gagner 1/2 journée par semaine en gérant sont temps et son focus comme un pro \(27.10.2020\)
 
 {% file src="../../.gitbook/assets/numa-workshop-execution-fiche-recapitulative \(4\).pdf" caption="Exécution : gagner 1/2 journée par semaine" %}
 
-#### 📗NUMA \#2 Conversations difficiles : être à l'aise même dans les situations les plus inconfortables \(17.11.2020\)
+#### 📗NUMA - Conversations difficiles : être à l'aise même dans les situations les plus inconfortables \(17.11.2020\)
 
 {% file src="../../.gitbook/assets/numa-conversations-difficiles-fiche-recapitulative- \(1\).pdf" caption="Conversations difficiles" %}
 
-#### 📘NUMA\#3 **Plan d'action, comment allier roadmap globale et résultats mesurables avec la méthode OKRs \(15.12.2020\)**
+#### 📘NUMA - **Plan d'action, comment allier roadmap globale et résultats mesurables avec la méthode OKRs \(15.12.2020\)**
 
-_fiche à venir_
+{% file src="../../.gitbook/assets/numa-okrs-fiche-recapitulative.pdf" caption="Les OKRs" %}
 
-📙**NUMA Feedbacks, partager des feedbacks opportuns et actionnables** 
+📙**NUMA - Feedbacks, partager des feedbacks opportuns et actionnables** 
 
 {% file src="../../.gitbook/assets/numa-feedbacks-fiche-recapitulative \(1\).pdf" caption="Partager des feedbacks opportuns et actionnables" %}
 
