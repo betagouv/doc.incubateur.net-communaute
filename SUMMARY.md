@@ -132,6 +132,7 @@
 * [🚀 Growth Hacking](aide-transverse/growth-hacking-acquisition.md)
 * [Mise en conformité RGPD et Conseil juridique](aide-transverse/mise-en-conformite-rgpd-et-conseil-juridique.md)
 * [Design, UX](aide-transverse/design-ux.md)
+* [Data Science](aide-transverse/data-science.md)
 
 ---
 
