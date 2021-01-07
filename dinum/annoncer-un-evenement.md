@@ -4,7 +4,7 @@ description: Comment annoncer un évènement pour la communauté bêta ?
 
 # 📢 Annoncer un évènement
 
-Nous sommes plusieurs  à  organiser et proposer des évènements pour la communauté.
+Nous sommes plusieurs à organiser et proposer des évènements pour la communauté.
 
 Nous partageons nos recommandations pour bien l'organiser.
 
@@ -12,7 +12,7 @@ Nous partageons nos recommandations pour bien l'organiser.
 
 Il est utile de correctement annoncer un évènement pour :
 
-*  permettre aux membres de bien comprendre l'utilité d'y participer;
+* permettre aux membres de bien comprendre l'utilité d'y participer;
 * augmenter le nombre de participations à ces évènements.
 
 ## Comment annoncer son évènement ?
@@ -100,11 +100,15 @@ _Léry_
 
 _De l'écoute et des questions à l'intervenante._
 
-## Où annoncer son évènement ? 
+## Ajouter son évènement à l'agenda de beta 📅 :
 
-Tu peux : 
+📅 [Formulaire en ligne](https://airtable.com/shrWvcUAOJqllVqtj)
 
-* [x] publier ton évènement dans l'agenda public de beta.
+## Où annoncer son évènement ?
+
+Tu peux :
+
+* [x] publier ton évènement dans [l'agenda public de beta](https://calendar.google.com/calendar/u/0/embed?src=0ieonqap1r5jeal5ugeuhoovlg@group.calendar.google.com&ctz=Europe/Paris).
 * [x] annoncer l'évènement sur SLACK \(\#Général \#Annonce ou tout autre salon en lien avec le sujet de ton évènement\)
 * [x] annoncer l'évènement sur les autres outils collaboratifs des autres incubateurs.
 * [x] contacter [@Claire Lalanne](https://startups-detat.slack.com/team/U010VSL93E3) sur Slack pour partager l'information en interne à la DINUM. Une lettre interne est diffusée chaque vendredi après-midi.
@@ -112,6 +116,4 @@ Tu peux :
 ## Quel est le meilleur moment pour proposer un évènement ?
 
 Le **mardi** et le **jeudi** sont les deux jours les plus favorables.
-
-
 

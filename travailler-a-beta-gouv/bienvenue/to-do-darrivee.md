@@ -10,7 +10,7 @@ Pour comprendre beta.gouv.fr, rien d'obligé bien sûr !
 
 > Tu trouveras ici la [présentation déroulée lors de cet atelier](https://docs.google.com/presentation/d/1ded7iFFFaPuw9tKcj6g-xLBggAox-QNDjsMamECPqHU/edit) \(dernière màj : septembre 2020\)
 
-* [ ]   Participer à un petit [Séminaire ](../../dinum/rituels/seminaire.md)- 1 mercredi sur 2 à 15h
+* [ ]   Participer à un petit [Séminaire ](../../dinum/rituels/seminaire.md)- 1 jeudi sur 2 à 15h
 * [ ]   Proposer de l'aide à quelqu'un en galère dans l'openspace
 * [ ]   Venir à un point de rencontre régulier :
   *   Rencontre dev : partage sur les pratiques de développement informatiques [🔒`#domaine-dev`](https://startups-detat.slack.com/messages/domaine-dev) - 2ème mercredi du mois de 10h30 à 12h

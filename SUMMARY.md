@@ -11,12 +11,13 @@
 ## 👷 Travailler à Beta Gouv
 
 * [👋 Bienvenue \(🛫 On embarque !\)](travailler-a-beta-gouv/bienvenue/README.md)
-  * [Notre charte](travailler-a-beta-gouv/bienvenue/charte.md)
-  * [Normes de conduite](travailler-a-beta-gouv/bienvenue/normes-de-conduite.md)
-  * [Environnement de travail](travailler-a-beta-gouv/bienvenue/environnement-de-travail.md)
   * [To do: que faire pendant les premiers mois à beta.gouv.fr ?](travailler-a-beta-gouv/bienvenue/to-do-darrivee.md)
   * [Marrainage](travailler-a-beta-gouv/bienvenue/marrainage.md)
   * [Comment embarquer quelqu'un ?](travailler-a-beta-gouv/bienvenue/embarquement-par-le-recruteur.md)
+* [💖 Culture et environnement de travail](travailler-a-beta-gouv/culture/README.md)
+  * [Conseils à la communauté](travailler-a-beta-gouv/culture/conseils.md)
+  * [Notre charte](travailler-a-beta-gouv/culture/charte.md)
+  * [Normes de conduite](travailler-a-beta-gouv/culture/normes-de-conduite.md)
 * [🎯 Recrutement](travailler-a-beta-gouv/recrutement/README.md)
   * [Comment recruter ?](travailler-a-beta-gouv/recrutement/comment-recruter.md)
   * [Publier une offre d'embauche](travailler-a-beta-gouv/recrutement/publier-une-offre-dembauche.md)
@@ -24,6 +25,10 @@
   * [Stages](travailler-a-beta-gouv/recrutement/stages.md)
   * [Rémunération](travailler-a-beta-gouv/recrutement/remuneration.md)
 * [🎓 Se former](travailler-a-beta-gouv/se-former/README.md)
+  * [Les formations à venir](travailler-a-beta-gouv/se-former/les-formations-a-venir.md)
+  * [Les formations passées](travailler-a-beta-gouv/se-former/les-formations-passees.md)
+  * [Les besoins en formation](travailler-a-beta-gouv/se-former/les-besoins-en-formation.md)
+  * [Partage de ressources](travailler-a-beta-gouv/se-former/partage-de-ressources.md)
   * [Certification des intrapreneurs](travailler-a-beta-gouv/se-former/certification-des-intrapreneurs.md)
   * [Groupe de co-développement professionnel](travailler-a-beta-gouv/se-former/groupe-de-co-developpement-professionnel.md)
 * [🖖 S'engager dans la vie de la communauté](travailler-a-beta-gouv/actions-transverses/README.md)
@@ -61,7 +66,7 @@
 
 * [📓 Guide RGPD et Sécurité](outils/guide-rgpd-et-securite.md)
 * [🗒 Pad](outils/pad.md)
-* [📹/📞 Conférences \(visio et téléphoniques\)](outils/faire-une-visio.md)
+* [📹/📞 Conférences & Webinaire](outils/faire-une-visio.md)
 * [📘 Gitbook](outils/gitbook.md)
 * [💼 Administration](outils/outils.md)
 * [🗣 Slack](outils/slack.md)
@@ -73,6 +78,7 @@
 * [📚 Références bibliographiques](outils/references-bibliographiques.md)
 * [™ Logo](outils/logo.md)
 * [✅ Trello](outils/trello.md)
+* [📆 Agenda public](outils/agenda-public.md)
 
 ## Nos services à destination...
 
@@ -91,13 +97,11 @@
   * [Séminaire](dinum/rituels/seminaire.md)
   * [Grand séminaire](dinum/rituels/grand-seminaire-1.md)
   * [Mardi démo](dinum/rituels/mardi-demo.md)
-  * [L'assemblée générale](dinum/rituels/grand-seminaire.md)
 * [🤰 Congé maternité](dinum/conge-maternite/README.md)
   * [Avant d'être enceinte](dinum/conge-maternite/avant-detre-enceinte.md)
   * [Avant le congé maternité](dinum/conge-maternite/avant-le-conge-maternite.md)
   * [Pendant le congé maternité](dinum/conge-maternite/pendant-le-conge-maternite.md)
   * [Après le congé maternité](dinum/conge-maternite/apres-le-conge-maternite.md)
-  * [A plus long terme](dinum/conge-maternite/a-plus-long-terme.md)
 * [🌍 Locaux](dinum/locaux/README.md)
   * [Où travailler ?](dinum/locaux/ou-travailler.md)
   * [Focus Segur](dinum/locaux/focus-segur.md)
@@ -109,7 +113,6 @@
 * [👨🏽 Agents de la DINUM](dinum/contractuels-dinum/README.md)
   * [Email @modernisation.gouv.fr](dinum/contractuels-dinum/email-modernisation.gouv.fr.md)
   * [Déposer ses congés](dinum/contractuels-dinum/deposer-ses-conges.md)
-* [🔗 Liens avec la DINUM](dinum/liens-avec-la-dinum.md)
 
 ## 🏭 Fabrique numérique
 
@@ -129,6 +132,7 @@
 * [🚀 Growth Hacking](aide-transverse/growth-hacking-acquisition.md)
 * [Mise en conformité RGPD et Conseil juridique](aide-transverse/mise-en-conformite-rgpd-et-conseil-juridique.md)
 * [Design, UX](aide-transverse/design-ux.md)
+* [Data Science](aide-transverse/data-science.md)
 
 ---
 

@@ -21,6 +21,14 @@ C'est un dispositif qui permet aux individus de se voir certifier des compétenc
 
 L'attribution d'une certification n'est jamais automatique. Elle ne peut être délivrée que par un petit nombre d'organismes ayant été reconnus par un organisme d'Etat. La certification des intrapreneurs est réalisée par NUMA.
 
+{% hint style="info" %}
+[Définition officielle d'un certification professionnelle](https://www.francecompetences.fr/certification-professionnelle/)
+{% endhint %}
+
+{% hint style="info" %}
+[Contenu de la certification reconnue par l'Etat et proposée par Numa](https://www.francecompetences.fr/recherche/rs/3536/)
+{% endhint %}
+
 ## Pourquoi une certification des compétences des intra ?
 
 Les intrapreneurs, membres des Startups d’État ou de Territoires, s’engagent dans une aventure professionnelle inédite. Hors des sentiers battus des carrières classiques des agents publics, ils montent et animent des équipes pluridisciplinaires pour résoudre les problèmes des politiques publiques que portent leur organisation.
@@ -54,7 +62,7 @@ Enfin, cette certification est entièrement prise en charge par beta.gouv.fr pou
 
 ## ![:loupe\_gauche:](https://a.slack-edge.com/production-standard-emoji-assets/10.2/google-medium/1f50d.png) **De quoi il retourne ?**
 
-La certification visée, de son nom complet “[Méthodologies d’entrepreneuriat appliquées aux projets d’innovation](https://slack-redir.net/link?url=https%3A%2F%2Fcertificationprofessionnelle.fr%2Frecherche%2Frs%2F3536&v=3)”, servira de base pour la certification des intrapeneurs.  
+La certification visée, de son nom complet “[Méthodologies d’entrepreneuriat appliquées aux projets d’innovation](https://slack-redir.net/link?url=https%3A%2F%2Fcertificationprofessionnelle.fr%2Frecherche%2Frs%2F3536&v=3)”, servira de base pour la certification des intrapreneurs.  
 Vous y trouverez le détail des compétences attestées et le niveau d’autonomie attendu.  
 Ne prêtez toutefois pas à attention aux modalités d’évaluation spécifiées car nous les avons adaptées dans notre cas.
 

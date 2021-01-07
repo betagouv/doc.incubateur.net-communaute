@@ -10,51 +10,43 @@ Nous avons réunis des éléments de charte graphique communs, particulièrement
 
 [Code source](https://github.com/etalab/template.data.gouv.fr) - [Exemple](https://etalab.github.io/template.data.gouv.fr/)
 
-#### Logo « éprouvette » de la communauté beta.gouv.fr
+### Logo « éprouvette » de la communauté beta.gouv.fr
 
-Version A3 du nouveau logo
+#### Version A3 du nouveau logo
 
 ![logo betagouv A3](https://user-images.githubusercontent.com/1177762/60520093-4d932700-9cd4-11e9-96b4-99009ffb902b.png)
 
 Ces images ne sont pas soumises à la licence CC0 appliquée à ce texte.
 
-Sans titre :
+#### Version disque sans titre :
 
-\[\[images/logo-incubateur.png\]\] [SVG compressé](images/logo-incubateur.svg) — [SVG éditable](images/logo-incubateur-source.svg)
+![Version rond sans titre](../.gitbook/assets/logo-generique-startup-carre-2019.jpg)
 
-Avec titre :
+[SVG éditable](https://github.com/betagouv/beta.gouv.fr/blob/master/img/betagouva.svg)
 
-\[\[images/logo-incubateur-avec-titre.png\]\]
+#### Version disque avec titre  :
 
-Version carrée :
+![](../.gitbook/assets/betagouv-disque.png)
 
-\[\[images/logo-incubateur-carre.png\]\]
+#### Version disque sans titre deuil :
 
-#### `beta.gouv.fr`
+![logo beta sans titre deuil](../.gitbook/assets/betagouv-disque-sans-texte-deuil.png)
 
-Pour fond blanc :
+### Marianne
 
-\[\[images/logo-beta.gouv.fr.png\]\] [SVG](https://github.com/betagouv/beta.gouv.fr/blob/master/img/logo-betagouv.svg)
+{% hint style="info" %}
+[Charte graphique du gouvernement](https://www.gouvernement.fr/charte/charte-graphique-les-fondamentaux/les-symboles-de-la-republique-francaise)
+{% endhint %}
 
-Pour fond noir :
-
-\[\[images/logo-beta.gouv.fr-white.png\]\]
-
-#### `api.gouv.fr`
-
-Pour fond blanc :
-
-\[\[images/logo-api.gouv.fr.png\]\]
-
-Pour fond noir :
-
-\[\[images/logo-api.gouv.fr-white.png\]\]
-
-#### Marianne
-
-\[\[images/marianne.png\]\]
-
-[SVG compressé](images/marianne.svg)
+![Marianne](../.gitbook/assets/1200px-republique-francaise-logo.svg.png)
 
 Attention, la Marianne appartient au [SIG](http://www.gouvernement.fr/service-d-information-du-gouvernement-sig). Ne pas l'utiliser sans discussion interne.
+
+#### Pour nos archives : 
+
+Version prototype
+
+![Logo prototype](../.gitbook/assets/logo-generique-startup-carre.jpg)
+
+![Logo prototype](../.gitbook/assets/logo-generique-startup-rectangle.jpg)
 

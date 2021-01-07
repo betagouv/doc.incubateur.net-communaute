@@ -42,6 +42,8 @@ Pour plus d'information sur la gestion des mailing list, voir [Listes de diffusi
 
 ## Mots de passe
 
+#### \[Section non à jour\]
+
 L'accès aux services partagés \(OVH, Mailjet, Twitter…\) doit être fait par le biais de comptes individuels auxquels la gestion est déléguée, afin de faciliter la révocation des accès lors des départs de membres de l'Incubateur.
 
 Néanmoins, certains systèmes ne supportent pas la délégation, ou il peut parfois s'avérer utile d'obtenir l'accès administrateur sur les comptes maîtres.

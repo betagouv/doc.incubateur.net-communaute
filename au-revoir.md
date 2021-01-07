@@ -6,11 +6,11 @@ description: "Tu nous quittes ? On espère que tu as passé un moment positif av
 
 ### Checklist de départ
 
-* [ ] T'assurer que ta date de départ a bien été renseignée dans [ta fiche sur beta.gouv.fr](https://github.com/betagouv/beta.gouv.fr/tree/master/_authors).
+* [ ] T'assurer que ta date de départ a bien été renseignée dans [ta fiche sur beta.gouv.fr](https://github.com/betagouv/beta.gouv.fr/tree/master/content/_authors).
 
 > C'est important, c'est là que se fait le suivi RH !
 
-* [ ] Demande à un administrateur sur [\#incubateur-secretaria](https://startups-detat.slack.com/archives/C0KUBLJG4) de rediriger ton adresse `@beta.gouv.fr` vers `departs@beta.gouv.fr` pour que les personnes écrivant à cette adresse reçoivent un répondeur les informant de ton départ :
+* [ ] Demander sur [\#incubateur-secretaria](https://startups-detat.slack.com/archives/C0KUBLJG4) de rediriger ton adresse `@beta.gouv.fr` vers `departs@beta.gouv.fr` pour que les personnes écrivant à cette adresse reçoivent un répondeur les informant de ton départ :
 
 > Bonjour !
 >
