@@ -19,7 +19,7 @@ Les autres solutions existantes que certains utilisent au sein de la communauté
 * **Zoom**  : Permet d'enregistrer l'échange. Pas open source. [https://zoom.us/](https://zoom.us/)
 * **Meet** : L'outil de visio de google. [https://meet.google.com/](https://meet.google.com/)
 
-#### **Si vous disposez d'une adresse email @beta.gouv.fr ou si vous êtes connectés au réseau de votre administration :** [**https://webconference.numerique.gouv.fr/**](https://webconf.numerique.gouv.fr/)\*\*\*\*
+#### **Si vous disposez d'une adresse email @beta.gouv.fr ou si vous êtes connectés au réseau de votre administration :** [**https://webconf.numerique.gouv.fr/**](https://webconf.numerique.gouv.fr/)\*\*\*\*
 
 Cet outil est utile lorsque vos interlocuteurs ont un réseau internet restreint. C'est notamment le cas de beaucoup d'administration bloquant l'accès aux outils de visio grand public. Avec une adresse email @beta.gouv.fr, ce service fonctionnera très bien.
 
