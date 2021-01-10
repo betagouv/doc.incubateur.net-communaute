@@ -1,7 +1,3 @@
----
-description: (en cours de rédaction)
----
-
 # Partage de ressources
 
 Voici une liste de ressources proposées et recommandées par des membres de la communauté : 📚[Ressources partagées](https://airtable.com/shrqPrsJ9bcRjVPwM)

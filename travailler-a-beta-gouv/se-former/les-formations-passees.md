@@ -1,7 +1,3 @@
----
-description: (en cours de rédaction)
----
-
 # Les formations passées
 
 Tu trouveras ici une vue d'ensemble des formations passées. 👉[Les formations passées](https://airtable.com/shrB8JsKAN5Echna4)

@@ -6,45 +6,45 @@ Les personnes extérieures qui souhaitent nous découvrir sont les bienvenues, �
 
 ![](../../.gitbook/assets/image.png)
 
-### Horaire et lieu
+## Horaire et lieu
 
 Tous les jeudis à 12h dans l’open space à Ségur, pour une durée variable selon le nombre de produits et de sujets transverses.
 
 > À titre indicatif, la durée est généralement comprise entre 25 et 40 minutes.
 
-### Pourquoi
+## Pourquoi
 
 Partager les avancées hebdomadaires et les blocages de chaque service et de l'incubateur, de manière à éviter les silos et à rester focalisés sur l’usager.
 
 _Note : le stand-up n’est pas une instance de contrôle où vous faites du reporting à votre hiérarchie. Nous considérons en effet que les principaux pilotes des services développés dans le cadre du programme beta.gouv.fr sont les utilisateurs._
 
-### Stand-up « Comment »
+## Stand-up « Comment »
 
-#### Avant
+### Avant
 
 * Pensez à préparer votre présentation et vos sujets à l'avance, qu'y a-t-il d'intéressant pour les autres \(accomplissements\) ? pour vous \(blocages\) ? sur quoi avez vous besoin d'aide ?
 * Vous n’êtes pas là ? Faites passer votre message sur l'outil de messagerie instantanée Slack \(avant 11h50 !\) ;
 * Invitez les nouvelles et les nouveaux de votre équipe à se présenter.
 
-#### Pendant
+### Pendant
 
 * Lancer sur un écran visible le [logiciel de stand-up](http://stand-up.surge.sh/) \([code disponible sur GitHub](https://github.com/sgmap/standup/)\) ;
 * Nouvelles, nouveaux, visiteuses, visiteurs : **présentez-vous** :\)
 * Équipes : c’est au maximum **1min** par **service**, dont **5-10s** pour le _présenter brièvement_ : Évitez les **acronymes**. Si vous ne pouvez pas, traduisez-les. Si vous n’avez rien à dire, dites-le et passer votre tour. **Évitez le dialogue** pendant le stand-up ;
 * Annonces transverses : c’est au maximum **5min**, tout le monde compris.
 
-#### Après
+### Après
 
 * **Remerciez** les participants ;
 * **Dialoguez**, si vous voulez, avec qui vous voulez, comme vous voulez ;
 * Va-t-on **déjeuner** ?
 
-### Rôles nécessaires
+## Rôles nécessaires
 
 * **Facilitation** : animer le stand-up, en rappeler les règles et les faire respecter ;
 * **Gestion du temps** : gérer le chronomètre, s'assurer qu'il est visible par l'ensemble des participant·e·s.
 
-### Amélioration continue
+## Amélioration continue
 
 Tout ce qui est décrit ci-dessus peut être modifié en \[\[séminaire\]\].
 

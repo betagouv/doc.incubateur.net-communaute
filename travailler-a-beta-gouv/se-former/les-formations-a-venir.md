@@ -1,7 +1,3 @@
----
-description: (en cours de rédaction)
----
-
 # Les formations à venir
 
 ### Je souhaite animer une formation

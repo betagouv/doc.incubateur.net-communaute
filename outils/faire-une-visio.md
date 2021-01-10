@@ -10,7 +10,7 @@ description: >-
 
 Pour organiser une visioconférence, voici quelques outils que nous pouvons suggérer :
 
-*  **Big Blue Button** : l'outil de visioconférence Big Blue Button hébergé sur un serveur de beta plus puissant sur [https://visio.incubateur.net](https://slack-redir.net/link?url=https%3A%2F%2Fvisio.incubateur.net&v=3). Présente l'avantage d'être compatible avec les ordinateurs des agents publics. 
+* **Big Blue Button** : l'outil de visioconférence Big Blue Button hébergé sur un serveur de beta plus puissant sur [https://visio.incubateur.net](https://slack-redir.net/link?url=https%3A%2F%2Fvisio.incubateur.net&v=3). Présente l'avantage d'être compatible avec les ordinateurs des agents publics. 
 * **Jitsi** : Un outil open source et gratuit pour organiser des visioconférence. Au-delà de 4-5 participants, la qualité de la vidéo peut varier. Tout utilisateur peut créer une "salle de conférence", ou rejoindre une salle de conférence déjà créé à partir d'un lien URL. Voici un exemple de salle de conférence: [https://meet.jit.si/exemple](https://meet.jit.si/exemple)
 * **Whereby \(anciennement Appear.in\) :**  Comparable à Jitsi. [https://whereby.com](https://whereby.com) Nous avons un compte payant pour disposer de salles de 12 et 50 personnes. La liste est accessible [sur ce pad](https://pad.incubateur.net/BEG9CK3XRqWwf9WAtDb60g?view) aux membres de la communauté.
 
@@ -44,11 +44,11 @@ Certains opérateurs téléphoniques permettent de fusionner des appels afin d'�
 Votre conférence, valable 24 heures jusqu'à 50 personnes
 
 Avec ce service simple d'utilisation, vous pouvez planifier vos conférences téléphoniques et prévenir les intervenants par email.  
- Grâce à un simple appel au numéro indiqué lors de la réservation, chacun des interlocuteurs sera connecté en direct et pourra écouter et intervenir en simultané.
+Grâce à un simple appel au numéro indiqué lors de la réservation, chacun des interlocuteurs sera connecté en direct et pourra écouter et intervenir en simultané.
 
 Essayez ici : [https://www.ovh.com/conferences/](https://www.ovh.com/conferences/)
 
-## Organiser un webinaire pour une large audience avec Livestorm 
+## Organiser un webinaire pour une large audience avec Livestorm
 
 ### **Accès**
 
@@ -58,7 +58,7 @@ Essayez ici : [https://www.ovh.com/conferences/](https://www.ovh.com/conferences
 
 ### **Conseils et bonnes pratiques pour Livestorm**
 
-{% embed url="https://www.youtube.com/watch?v=SUDu3BHAfpc&list=PLlCxkt1J864bo3kODkJbpc6mPjQCFmZlh&index=2" %}
+{% embed url="https://www.youtube.com/watch?v=SUDu3BHAfpc&list=PLlCxkt1J864bo3kODkJbpc6mPjQCFmZlh&index=2" caption="" %}
 
 * Les membres de l’équipe d'animation beta.gouv ont le statut de `membres` et peuvent à ce titre modérer et intervenir dans les webinaires.
 * Le jour du webinaire, 1 seule personne doit se connecter en qualité d’`administrateur` \(c'est-à-dire avec le login dinum@\) pour pouvoir lancer et terminer la retransmission.

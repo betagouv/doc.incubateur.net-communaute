@@ -1,7 +1,3 @@
----
-description: (en cours de rédaction)
----
-
 # Les besoins en formation
 
 Pour rappel, tu trouveras en suivant ces deux liens une vue d'ensemble des formations à venir.   
