@@ -8,18 +8,7 @@ description: Comment ça marche les emails à beta.gouv ?
 
 _⚠️ Pour créer une adresse email, vous avez besoin d'avoir_ [_une fiche sur beta.gouv.fr_ ](github/#se-creer-un-compte-github-ou-demander-a-ton-ta-marrain-e-de-faire-ta-fiche-pour-toi)_. Si ce n'est pas le cas, vous ne pourrez pas créer l'adresse email._
 
-Un membre de la communauté pourra te créer une adresse email `@beta.gouv.fr` grâce au [secrétariat automatisé](https://secretariat.incubateur.net).
-
-### Je veux créer une adresse email à un nouveau membre :
-
-1. Je m'assure que ce nouveau membre a bien une fiche beta.
-2. Je clique ici : [secrétariat automatisé](https://secretariat.incubateur.net)
-3. Je renseigne mon email beta.gouv
-4. Je clique sur le lien reçu par email
-5. Je renseigne prenom.nom du nouveau membre
-6. J'indique l'email perso ou pro du nouveau membre afin qu'il puisse activer son email beta.gouv.
-7. Je lui demande de m'envoyer un email pour vérifier que ça fonctionne.
-8. Tu lui indiques comment configurer son adresse email en suivant les info plus bas.
+Le compte email sera automatiquement créé une fois que la fiche sera mergée.
 
 ## J'ai un email beta. Comment me connecter ?
 
