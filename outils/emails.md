@@ -54,7 +54,7 @@ Page d'explication dédiée :
 * [Thunderbird](https://docs.ovh.com/fr/emails/configuration-email-configuration-pour-thunderbird/)
 * [Courier](https://docs.ovh.com/fr/emails/configuration-courrier-sur-windows-10/)
 
-La configuration fonctionne à peu près de la même manière pour tous les clients mails \(sauf Gmail pour lequel il faut suivre plutôt les instructions sur OVH \([lien](https://docs.ovh.com/fr/emails/mail-mutualise-guide-configuration-dun-e-mail-mutualise-ovh-sur-linterface-de-gmail/)\). 
+La configuration fonctionne à peu près de la même manière pour tous les clients mails \(sauf Gmail pour lequel il faut suivre plutôt les instructions sur OVH \([lien](https://docs.ovh.com/fr/emails/mail-mutualise-guide-configuration-dun-e-mail-mutualise-ovh-sur-linterface-de-gmail/)\).
 
 1. Il faut d'abord **Ajouter un nouveau compte**
 2. Sélectionner l'option IMAP / SMTP
@@ -70,7 +70,7 @@ La configuration fonctionne à peu près de la même manière pour tous les clie
 >
 > Mot de passe: &lt;mot de passe beta.gouv.fr&gt;
 
-   4. Paramétrer le compte **SMTP** \(courrier sortant\) avec les informations suivantes : 
+1. Paramétrer le compte **SMTP** \(courrier sortant\) avec les informations suivantes : 
 
 > Serveur: ssl0.ovh.net
 >
