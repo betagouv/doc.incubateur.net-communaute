@@ -1,8 +1,37 @@
+---
+description: Proposition de guide d'entretiens pour recruter des membres dans son équipe.
+---
+
 # Entretiens de recrutement
 
-L'objectif est qu'on se rencontre, pas de stress ! 
+### **Mettre à l'aise les candidat·e·s**
 
-Tutoiement bienvenu, dress code : comme tu viendrais si tu étais déjà pris·e. En fait, dans l'idéal, ce qu'on aimerait c'est voir en deux heures ce que ça donnerait de bosser ensemble depuis deux mois :\)
+Tutoiement bienvenu, dress code : comme on viendrait si on était déjà pris. En fait, dans l'idéal, ce qu'on aimerait c'est voir en deux heures ce que ça donnerait de bosser ensemble depuis deux mois.
+
+### Coachs
+
+#### Critères de recrutement
+
+1. Connaissance de l'environnement beta.gouv.fr / Startups d'Etat
+2. Motivations à travailler dans le service public / sur le sujet de politique publique visé : anti-bureaucratie - volonté de faire bouger les lignes en sachant rester conciliant, goût de l'intérêt général, etc
+3. Fit culturel : culture startup orientée impact + open source + bureaucratie
+4. Fit avec responsable d'incubateur / de portefeuille
+5. Compétences en accompagnement d'équipe ou d'individus \(coaching\) : OKR, animations de formations, de rétros 
+6. Compétences tech : recrutement des développeurs, product management, no code, lean startup
+7. Compétences  : connaissance de démarches UX, maquettage rapide \(Sketch, Figma\)
+8. Compétences bizdev : acquisition/conversion/rétention, deal-making
+9. Track-Record : quels URL à succès dans le passé ?
+10. Soft skills \(travail en autonomie, en équipe, en horizontalité..., capacité à comprendre rapidement un contexte/jeu d'acteurs compliqué, esprit entrepreneurial, créativité, focus problème, focus usagers, sortir de situation complexe capacité à savoir quand laisser faire ou prendre la main pour tout faire pour la réussite du produit, acquérir confiance des sponsors, capacité à fédérer autour d'une approche usager\)
+
+#### Guide d'entretien 
+
+45 minutes, dont : 
+
+* 5 min de présentation
+* 5 min de présentation du contexte du recrutement
+* 10 min d'entretien culturel
+* 15 min d'entretien technique
+* 10 min de questions / réponses
 
 ### Dev
 
@@ -15,7 +44,7 @@ On prévoit environ 1h30, sur le canevas suivant :
 
 Pour le point 3, **prévois donc de venir avec ta machine** \(ou du code hébergé auquel on pourrait accéder\) et d’avoir un peu réfléchi à ce que tu as envie d’en dire : une histoire à raconter sur pourquoi ce morceau de code ou son architecture te rend particulièrement fier·e, ou pourquoi celui-ci est vraiment très mauvais, pourquoi tu as décidé d'en arriver là, et comment tu aurais fait si les contraintes avaient été différentes :wink:
 
-### Product Owner
+### Gestionnaire de produit / Product Manager
 
 #### Environnement courant
 
