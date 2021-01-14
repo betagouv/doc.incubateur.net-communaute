@@ -66,6 +66,6 @@ Essayez ici : [https://www.ovh.com/conferences/](https://www.ovh.com/conferences
 * Les invités ou intervenant “extérieurs” sont ajoutés au moment de la création du webinaire
 
 {% hint style="info" %}
-Ne pas oublier de boquer le créneau dans l'agenda beta.gouv avec Livestorm dans le titre, pour éviter les conflits de créneaux
+Ne pas oublier de bloquer le créneau dans l'agenda beta.gouv avec Livestorm dans le titre, pour éviter les conflits de créneaux. Il suffit de remplir [ce formulaire](https://airtable.com/shrWvcUAOJqllVqtj) pour créer l'événement.
 {% endhint %}
 
