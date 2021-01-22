@@ -79,6 +79,12 @@ Tous les mois, une formation est organisée et animée à distance par NUMA. Vou
 
 {% file src="../../.gitbook/assets/numa-feedbacks-fiche-recapitulative \(1\).pdf" caption="Partager des feedbacks opportuns et actionnables" %}
 
+#### 📕NUMA - **Coaching : comment coacher au bon moment et aider ses collègues à progresser \(19.01.2021\)**
+
+{% file src="../../.gitbook/assets/numa-coaching-fiche-recapitulative.pdf" caption="Coaching" %}
+
+
+
 \*\*\*\*
 
 
