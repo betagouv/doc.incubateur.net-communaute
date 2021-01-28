@@ -17,7 +17,7 @@ description: "\U0001F9ED Toutes les ressources pour aider les membres de la comm
 {% embed url="https://doc.incubateur.net/consolidation/" %}
 
 {% hint style="info" %}
-**Tu es légitime pour modifier cette documentation.**
+**Tu es légitime pour** [**modifier ces documentations**](contribuer/comment-contribuer-a-cette-documentation.md)**.**
 {% endhint %}
 
 ## Les pages les plus utiles de ce guide
