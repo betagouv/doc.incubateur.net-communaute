@@ -4,6 +4,8 @@ description: 'Tu viens d''arriver ? Bienvenue, et laissez toi guider.'
 
 # 🛫 J'embarque !
 
+
+
 {% hint style="info" %}
 Si tu as besoin d'aide, envoyer un mail à [`contact@beta.gouv.fr`](mailto:contact@beta.gouv.Fr)`ou demande` [`#incubateur-help`](https://startups-detat.slack.com/messages/incubateur-help)sur Slack.
 {% endhint %}
