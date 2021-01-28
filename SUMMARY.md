@@ -10,7 +10,7 @@
 
 ## 👷 Travailler à Beta Gouv
 
-* [👋 Bienvenue \(🛫 On embarque !\)](travailler-a-beta-gouv/bienvenue/README.md)
+* [🛫 J'embarque !](travailler-a-beta-gouv/bienvenue/README.md)
   * [To do: que faire pendant les premiers mois à beta.gouv.fr ?](travailler-a-beta-gouv/bienvenue/to-do-darrivee.md)
   * [Marrainage](travailler-a-beta-gouv/bienvenue/marrainage.md)
   * [Comment embarquer quelqu'un ?](travailler-a-beta-gouv/bienvenue/embarquement-par-le-recruteur.md)
