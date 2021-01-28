@@ -4,32 +4,39 @@ description: "\U0001F9ED Toutes les ressources pour aider les membres de la comm
 
 # Guide pour la communauté
 
-## Bienvenue sur la documentation beta.gouv.fr !
+{% hint style="success" %}
+**Tu es sur le guide pour la communauté.** Il s'adresse aux membres de la communauté beta.gouv.fr 💃 🕺🏾.
+{% endhint %}
 
-Elle documente ce que les membres des Startups d'État ont appris.
+## Découvrez les autres guides 
 
-Il s'agit d'un recueil de consensus, en perpétuelle évolution au gré des apprentissages et des mouvements de personnes au sein de la communauté.
+{% embed url="https://doc.incubateur.net/startups/" %}
 
-### Quelle différence entre le guide de la communauté et celui des Startups d’État ?
+{% embed url="https://doc.incubateur.net/design/" %}
 
-Vous êtes légitimes pour contribuer sur tous les guides.
+{% embed url="https://doc.incubateur.net/consolidation/" %}
 
-Pour vous aider à orienter votre choix :
+{% hint style="info" %}
+**Tu es légitime pour modifier cette documentation.**
+{% endhint %}
 
-* **Le guide pour la communauté** \(vous y êtes\) s'adresse aux membres 💃 🕺🏾 en tant que personne/professionnel. Ce sont surtout des contenus qui servent de boussole pour s'y retrouver au sein de la communauté.
-* [**Le guide pour les Startups d’État**](https://doc.incubateur.net/startups/) \(et de territoires\) s'adresse aux équipes ‍👩🏽‍💻 👨🏼‍💻 👩🏼‍💼 👨🏻‍💼 des Startups d’État et de territoire. Il s'agit surtout de contenu cherchant à aider les équipes à chaque étape de la vie d'une SE.
+## Les pages les plus utiles de ce guide
 
-### Les autres guides thématiques :
+{% page-ref page="travailler-a-beta-gouv/bienvenue/" %}
 
-* [**Le guide Design**](https://doc.incubateur.net/design/) pour la communauté. Vous trouverez toutes les ressources UX et UI utiles pour vos Startups d’État.
-* [**Le guide Consolidation/Transfert**](https://doc.incubateur.net/consolidation/) pour les Startups d’État qui arrivent à cette étape.
+{% page-ref page="travailler-a-beta-gouv/recrutement/remuneration.md" %}
 
-## Tu viens de nous rejoindre ?
+{% page-ref page="outils/emails.md" %}
 
-#### Rends toi sur la page 🐣 [`Bienvenue`](travailler-a-beta-gouv/bienvenue/)🐣 pour créer tes accès à nos services !
+{% page-ref page="travailler-a-beta-gouv/recrutement/" %}
 
-* Si tu as des questions, n'hésite pas à demander aux personnes qui sont avec toi dans le bureau ;
-* tu peux aussi demander à ton ou ta marrain·e
-* si tu as déjà tes accès Slack, tu peux demander de l'aide sur 💬 [`#incubateur-help`](https://startups-detat.slack.com/messages/incubateur-help/)
-* et par mail à `contact@beta.gouv.fr`
+{% page-ref page="travailler-a-beta-gouv/se-former/" %}
+
+{% page-ref page="travailler-a-beta-gouv/se-former/certification-des-intrapreneurs.md" %}
+
+{% page-ref page="travailler-a-beta-gouv/culture/charte.md" %}
+
+{% page-ref page="outils/faire-une-visio.md" %}
+
+
 
