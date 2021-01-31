@@ -52,7 +52,7 @@
 
 ## 💶 Finances
 
-* [💸 Le Fond d’accélération des Start-ups](finances/le-fond-dacceleration-des-start-ups-fast.md)
+* [💸 Le Fond d’accélération des Startups](finances/le-fond-dacceleration-des-start-ups-fast.md)
 
 ## 🛒 Achats
 
