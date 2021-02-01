@@ -50,6 +50,11 @@ Essayez ici : [https://www.ovh.com/conferences/](https://www.ovh.com/conferences
 
 ## Organiser un webinaire pour une large audience avec Livestorm
 
+### **Avant d'organiser un webinaire** 
+
+* [ ] Bien suivre le tutoriel et les conseils ci-dessous \(une erreur de personnalisation d'e-mail de suivi peut entrainer l'envoi d'une information hors sujet à des centaines de participants\)
+* [ ] Bloquer le créneau dans l'agenda beta.gouv en indiquant "Livestorm" dans le titre, pour éviter les conflits de créneaux. Il suffit de remplir [ce formulaire](https://airtable.com/shrWvcUAOJqllVqtj) pour créer un événement.
+
 ### **Accès**
 
 * [https://app.livestorm.co/](https://app.livestorm.co/)
@@ -60,12 +65,15 @@ Essayez ici : [https://www.ovh.com/conferences/](https://www.ovh.com/conferences
 
 {% embed url="https://www.youtube.com/watch?v=SUDu3BHAfpc&list=PLlCxkt1J864bo3kODkJbpc6mPjQCFmZlh&index=2" caption="" %}
 
-* Les membres de l’équipe d'animation beta.gouv ont le statut de `membres` et peuvent à ce titre modérer et intervenir dans les webinaires.
-* Le jour du webinaire, 1 seule personne doit se connecter en qualité d’`administrateur` \(c'est-à-dire avec le login dinum@\) pour pouvoir lancer et terminer la retransmission.
-* Tous les autres doivent se connecter en qualité de `membres`et non d’`administrateur`s’ils participent également au webinaire
-* Les invités ou intervenant “extérieurs” sont ajoutés au moment de la création du webinaire
+{% hint style="warning" %}
+Tous les **intervenant** doivent être ajoutés au moment de la création du webinaire, avant l'événement. Le jour J, **une seule personne doit se connecter en qualité d’administrateur** \(c'est-à-dire avec le login dinum@\) pour pouvoir lancer et terminer la retransmission. 
+{% endhint %}
 
-{% hint style="info" %}
-Ne pas oublier de bloquer le créneau dans l'agenda beta.gouv avec Livestorm dans le titre, pour éviter les conflits de créneaux. Il suffit de remplir [ce formulaire](https://airtable.com/shrWvcUAOJqllVqtj) pour créer l'événement.
+{% hint style="warning" %}
+Une personne avec le statut **membre** sur le compte Livestorm ne pourra jamais s'inscrire à un webinaire via la page d'inscription. Elle pourra en revanche rejoindre n'importe quel webinaire à partir de l'interface administrative
+{% endhint %}
+
+{% hint style="success" %}
+Un export analytics demandé après la fin d'un webinaire sera envoyé par défaut à l'adresse dinum@beta.gouv.fr. Contactez un membre de l'équipe pour récupérer le fichier. 
 {% endhint %}
 
