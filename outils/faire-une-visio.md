@@ -74,6 +74,6 @@ Une personne avec le statut **membre** sur le compte Livestorm ne pourra jamais 
 {% endhint %}
 
 {% hint style="success" %}
-Un export analytics demandé après la fin d'un webinaire sera envoyé par défaut à l'adresse dinum@beta.gouv.fr. Contactez un membre de l'équipe pour récupérer le fichier. 
+Un export _analytics_ demandé après la fin d'un webinaire sera envoyé par défaut à l'adresse dinum@beta.gouv.fr. Contactez un membre de l'équipe pour récupérer le fichier. 
 {% endhint %}
 
