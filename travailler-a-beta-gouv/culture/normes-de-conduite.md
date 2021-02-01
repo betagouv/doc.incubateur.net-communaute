@@ -161,5 +161,5 @@ Vous pouvez vous référer à la [méthode SSCCE](http://sscce.org/).
 
 ## En cas de problème
 
-Si vous êtes victime d'un comportement inapproprié ou d'une situation de harcèlement, ou si vous vous rendez compte que quelqu'un est dans dans cette situation, ou si vous avez des doutes, vous pouvez contacter immédiatement un membre de l'[équipe d'animation beta.gouv.fr](../../animation/equipe-danimation.md). Nous nous efforcerons de vous accompagner pour garantir un retour rapide dans un environnement où vous pourrez vous sentir en sécurité.
+Si vous êtes victime d'un comportement inapproprié ou d'une situation de harcèlement, ou si vous vous rendez compte que quelqu'un est dans dans cette situation, ou si vous avez des doutes, vous pouvez contacter immédiatement un membre de l'[équipe d'animation beta.gouv.fr](../../animation/equipe-danimation/). Nous nous efforcerons de vous accompagner pour garantir un retour rapide dans un environnement où vous pourrez vous sentir en sécurité.
 

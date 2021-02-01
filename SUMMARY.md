@@ -42,7 +42,8 @@
 
 ## 🙌 Animation
 
-* [ℹ️ Équipe d'animation](animation/equipe-danimation.md)
+* [ℹ️ Équipe d'animation](animation/equipe-danimation/README.md)
+  * [Le rôle de la co-animatrice vis-à-vis d'une équipe de Start-up d'Etat ou de Territoires](animation/equipe-danimation/le-role-de-la-co-animatrice-vis-a-vis-dune-equipe-de-start-up-detat-ou-de-territoires.md)
 * [👌 Retours d’expérience](animation/retours-dexperience.md)
 * [💌 Lettres d'information](animation/lettres-dinformation.md)
 * [🤷 Demander de l’aide](animation/demander-de-laide.md)
