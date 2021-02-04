@@ -67,7 +67,8 @@
 
 * [📓 Guide RGPD et Sécurité](outils/guide-rgpd-et-securite.md)
 * [🗒 Pad](outils/pad.md)
-* [📹/📞 Conférences & Webinaire](outils/faire-une-visio.md)
+* [📹/📞 Audio/Visio](outils/faire-une-visio.md)
+* [Organiser un webinaire](outils/visioconferences.md)
 * [📘 Gitbook](outils/gitbook.md)
 * [💼 Administration](outils/outils.md)
 * [🗣 Slack](outils/slack.md)
