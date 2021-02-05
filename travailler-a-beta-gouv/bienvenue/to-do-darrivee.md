@@ -18,7 +18,7 @@ Pour comprendre beta.gouv.fr, rien d'obligé bien sûr !
   *   Rencontre bizdev : comment déployer les startups [🔒`#incubateur-bizdev`](https://startups-detat.slack.com/messages/incubateur-bizdev)
   *   Rencontre intra : comment les agents publiques créent leurs startups [🔒`#domaine-intrapreneurs`](https://startups-detat.slack.com/messages/domaine-intrapreneurs)
   *   Organiser ta propre rencontre sur un sujet qui te botte !
-* [ ]   Si tu es dans une nouvelle Startup, communiquer les éléments de la fiche produit dans un article de blog, tweet, post LinkedIn…
+* [ ] \[Si tu rejoins une nouvelle startup\], créer avec ton équipe une fiche produit sur beta.gouv.fr, [directement sur Github](https://github.com/betagouv/beta.gouv.fr/tree/master/content/_startups), ou alors en passant par l'interface de gestion de contenu [Netlify](https://beta.gouv.fr/admin/#/collections/startups). Tu peux t'inspirer [des autres produits](https://beta.gouv.fr/startups/) pour le format et contenu.
 
 ###  Au cours des 6 premiers mois
 
