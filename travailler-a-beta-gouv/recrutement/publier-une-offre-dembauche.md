@@ -12,6 +12,10 @@ Tu peux également consulter le [guide au recrutement ](comment-recruter.md)beta
 
 ## Publier sur Linkedin
 
+{% hint style="info" %}
+[Demander la publication d'une offre de recrutement sur la page Linkedin de Beta.gouv.fr](https://airtable.com/shrm6k6J1woz5lzM5)
+{% endhint %}
+
 Nous pouvons également publier ton offre d'emploi directement depuis le compte Linkedin de BetaGouv .
 
 Il y a deux possibilités :
