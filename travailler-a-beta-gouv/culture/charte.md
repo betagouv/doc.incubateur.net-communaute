@@ -4,7 +4,9 @@ description: >-
   de beta.gouv.fr inspirée de celle de GOV.UK.
 ---
 
-# Notre charte
+# Notre charte 
+
+[Télecharger en version PDF](https://raw.githubusercontent.com/betagouv/doc.incubateur.net-communaute/000e7150af3435ac934c78a836197b28a27a96cf/travailler-a-beta-gouv/culture/charte_beta.pdf)
 
 Ici, on a le droit…
 
