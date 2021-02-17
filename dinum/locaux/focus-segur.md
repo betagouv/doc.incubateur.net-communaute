@@ -16,6 +16,12 @@ Le local de l'incubateur est au 5e étage, salles 5.511 et 5.515, accessible par
 * Un fallback 4G est également disponible, demander le mot de passe sur [🔒`#bureaux-segur`](https://startups-detat.slack.com/messages/bureaux-segur/) en cas de besoin.
 * Les câbles rouges sont connectés à internet.
 
+#### Comment inviter un visiteur à Ségur ?
+Envoie un email à l'accueil (accueil-segur@segur.gouv.fr), depuis ton adresse beta, en disant que tu travailles à l'incubateur de la DINUM et que tu attends [liste des noms des visiteurs], le [date] à [heure]. 
+
+Fais-le en avance par politesse. Si tu le fais à la dernière minute, un petit message d'excuse facilite les choses.
+
+
 #### Accès visiteur Ségur
 
 1. Munissez-vous d'une pièce d'identité.
