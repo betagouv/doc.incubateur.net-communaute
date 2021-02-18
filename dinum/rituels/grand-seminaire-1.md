@@ -1,20 +1,75 @@
 # Grand séminaire
 
-**Le prochain Grand Séminaire \(VI\) est en cours d'organisation** Afin que nous puissions nous organiser dans les semaines à venir, merci de bien vouloir vous inscrire si vous souhaitez participer et/ou contribuer !
+## Les principes 
 
-Tous les 6 mois, la communauté beta.gouv.fr propose à l’ensemble des personnes intervenants sur des Startups d’État ou dans des incubateurs de se réunir pendant 2 jours à l’air frais.
+#### Les objectifs 
+* Créer du capital social entre les membres de la communauté ;
+* Travailler à l'amélioration continue de nos pratiques ;
+* Réfléchir ensemble sur la vision et la stratégie de notre action.
 
-Il concerne tous les incubateurs et tout betagouv.
+#### Un forum ouvert
+C’est quoi un forum ouvert ? 
+Wikipedia dit : « Le Forum Ouvert crée un espace dans lequel beaucoup de personnes peuvent s'organiser elles-mêmes et résoudre leurs problèmes en groupe à leur propre responsabilité. Il n'y a pas de thèmes imposés. Ils ne vont être formulés qu'au début de la conférence. De même, des conflits peuvent être traités et c'est comme un marché de pensées sur lequel les participants peuvent se regrouper par thème. 
+Selon Harrison Owen, le succès d'un Forum Ouvert repose sur le respect d'une loi, étayée par cinq principes et illustrée par deux animaux.
 
-Il a pour objectif de :
+* Les 4 principes :
+ * les personnes qui se présentent sont les bonnes ;
+ * ce qui arrive, est la seule chose qui pouvait arriver ;
+ * ça commence quand ça commence ;
+ * quand c’est fini, c’est fini.
 
-* Créer du capital social entre les membres de la communauté
-* Travailler à l'amélioration continue de nos pratiques
-* réfléchir ensemble sur la vision et la stratégie de notre action.
+* La loi de la mobilité ou loi des deux pieds : si vous n’êtes ni en train d’apprendre, ni de contribuer, passez à autre chose !
+
+* Les animaux totems :
+ * Les papillons prennent une pause ou réfléchissent.
+ * Les abeilles font circuler les idées d'atelier en ateliers.
+
+#### Bien sûr, on a le droit :
+* de ne pas venir, et ce, sans aucun prétexte 
+* de participer en proposant des ateliers ou de participer sans en proposer
+* de facturer cette journée sur son budget habituel
+
+#### Qui peut venir ? 
+Il concerne les membres de tous les incubateurs et tout Betagouv.
+
+#### Ca se passe comment ? 
+Il existe deux formats de grand séminaire : en présentiel et à distance --> cf. la suite
+
+#### Des question ?
+Posez toutes vos questions sur Slack, sur [#incubateur-grandsemin] (https://startups-detat.slack.com/archives/C4R7DV77D) ou par mail à incubateur@beta.gouv.fr.
+
+## A distance 😷👩‍💻😄
+
+A défaut de pouvoir se retrouver tous ensemble au grand air deux fois par an nous nous retrouvons tous les 3 mois pour une journée sur un espace virtuel crée sur Gather.  
+ 
+Pendant cette journée, les participant·e·s qui le souhaitent définissent l’ordre du jour dans le format du Forum Ouvert pour proposer des ateliers.
+ 
+#### Exemple de programme du grand séminaire de décembre 2020 :
+ 
+* 8h00-9h30 : Venez prendre votre petit déjeuner dans le lounge pour retrouver vos collègues et faire connaissance avec de nouvelles personnes de la communauté
+* 9h30-10h : RDV dans la salle plénière où nous compléterons et présenterons ensemble le programme de la journée.
+* 10h - 16h30 : Le forum ouvert est ouvert !
+* 16h30 : RDV dans la salle plénière pour les mots de la fin
+
+#### Mode d'emploi Gather.town
+ 
+Les 7 choses à savoir pour passer une bonne journée sur Gather.town :
+ 
+1.	Si possible, utilisez un ordinateur et de préférence le navigateur Chrome, ça ne fonctionne pas sur téléphone portable (les fixes non plus :p) et sur Safari !
+2.	Coupez vos applis en cours, car Gathertown est un peu gourmand en bande passante…
+3.	Connectez-vous suffisamment en avance pour avoir le temps d’explorer l’espace : la plénière commence à 9h30, mais nous vous accueillerons dès lundi et à partir de 8h le jour J !
+4.	Pensez à couper votre micro lorsque vous êtes à un atelier et que vous ne prenez pas la parole.
+5.	Pour le confort audio de tous.tes, équipez-vous d'un micro-casque ou micro-écouteurs.
+6.	Partez à l’aventure ! Promenez-vous, explorez l’espace, allez à la rencontre de vos voisins virtuels.
+Vous êtes coincé·e·s ou vous n'entendez plus ? Ça arrive… Rechargez votre page !
+A distance 
+
+
+## En présentiel à la campagne 🌳🧑‍🤝‍🧑🎉
+
+Tous les 6 mois, quand c'est possible, la communauté beta.gouv.fr propose à l’ensemble des personnes intervenants sur des Startups d’État ou dans des incubateurs de se réunir pendant 2 jours à l’air frais.
 
 Pendant les deux jours, les participants qui le souhaitent définissent l’ordre du jour dans le format du [Forum Ouvert](https://fr.wikipedia.org/wiki/M%C3%A9thodologie_Forum_Ouvert) pour proposer des ateliers en groupes.
-
-À titre d’exemple, lors de précédents séminaires, nous avons discuté du rôle des coachs, de l’avenir des Startups d’Etat une fois la première période de construction passée, des problématiques CNIL/RGPD, du rapport annuel, etc… \(restitution complète des ateliers[ ici](https://docs.google.com/document/d/1c5LiYzwc9IvOBq7p2nTeechYCioEky0JNOprltx4VSc/edit?usp=sharing)\)
 
 Pour le grand séminaire, on a le droit :
 
@@ -23,9 +78,7 @@ Pour le grand séminaire, on a le droit :
 
 Tous les frais seront pris en charge, et les deux jours compteront comme travaillés.
 
-Vous hésitez encore ? Posez toutes vos questions sur Slack, sur \#tmp-grandseminaire ou par mail à incubateur@beta.gouv.fr.
-
-### Préparation du grand séminaire
+### Préparation du grand séminaire à la campagne
 
 * Etape 1 : Un membre de la communauté porte le sujet lors d'un petit séminaire, généralement courant février ou septembre
 * Etape 2 : Un doodle est partagé sur le slack et incubateur@beta.gouv.fr pour connaitre le nombre de participants pour plusieurs date. La date qui rassemble le plus de participants est choisie.
@@ -108,7 +161,7 @@ Les plats proposés jusqu'ici :
 * Oeufs brouillés / Oeufs à la coque
 * Salades composées en buffet
 
-### annexes
+#### annexes
 
 mails pour le doodle
 
@@ -156,7 +209,7 @@ https://doodle.com/poll/bprbisqzqfaere
 Merci à tous par avance,
 ```
 
-### Dates des précédents séminaires campagne
+#### Dates des précédents séminaires campagne
 
 * 28 et 29 mai 2019
 * 24 et 25 octobre 2018
