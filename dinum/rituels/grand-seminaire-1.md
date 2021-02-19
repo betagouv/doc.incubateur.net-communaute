@@ -8,21 +8,23 @@
 * Réfléchir ensemble sur la vision et la stratégie de notre action.
 
 #### Un forum ouvert
-C’est quoi un forum ouvert ? 
-Wikipedia dit : « Le Forum Ouvert crée un espace dans lequel beaucoup de personnes peuvent s'organiser elles-mêmes et résoudre leurs problèmes en groupe à leur propre responsabilité. Il n'y a pas de thèmes imposés. Ils ne vont être formulés qu'au début de la conférence. De même, des conflits peuvent être traités et c'est comme un marché de pensées sur lequel les participants peuvent se regrouper par thème. 
+En présentiel ou en ligne, tous les grands séminaires étaient des forums ouverts.
+
+Wikipedia dit : « Le Forum Ouvert crée un espace dans lequel beaucoup de personnes peuvent s'organiser elles-mêmes et résoudre leurs problèmes en groupe à leur propre responsabilité. Il n'y a pas de thèmes imposés. Ils ne vont être formulés qu'au début de la conférence. De même, des conflits peuvent être traités et c'est comme un marché de pensées sur lequel les participants peuvent se regrouper par thème. »
 Selon Harrison Owen, le succès d'un Forum Ouvert repose sur le respect d'une loi, étayée par cinq principes et illustrée par deux animaux.
 
-* Les 4 principes :
- * les personnes qui se présentent sont les bonnes ;
- * ce qui arrive, est la seule chose qui pouvait arriver ;
- * ça commence quand ça commence ;
- * quand c’est fini, c’est fini.
+* La loi des deux pieds : si vous n’êtes ni en train d’apprendre, ni de contribuer (ou si vous pensez que vous le feriez plus ailleurs), passez à autre chose !
 
-* La loi de la mobilité ou loi des deux pieds : si vous n’êtes ni en train d’apprendre, ni de contribuer, passez à autre chose !
+* Les 4 principes :
+  * les personnes qui se présentent sont les bonnes ;
+  * ce qui arrive, est la seule chose qui pouvait arriver ;
+  * ça commence quand ça commence ;
+  * quand c’est fini, c’est fini.
+
 
 * Les animaux totems :
- * Les papillons prennent une pause ou réfléchissent.
- * Les abeilles font circuler les idées d'atelier en ateliers.
+  * Les abeilles font circuler les idées d'atelier en ateliers.
+  * Les papillons font des bulles.
 
 #### Bien sûr, on a le droit :
 * de ne pas venir, et ce, sans aucun prétexte 
