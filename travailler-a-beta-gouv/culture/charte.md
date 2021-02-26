@@ -1,7 +1,7 @@
 ---
 description: >-
-  Nous accueillons joyeusement l'humanité des personnes et appliquons la charte
-  de beta.gouv.fr inspirée de celle de GOV.UK.
+  Nous accueillons joyeusement l'humanité des personnes et appliquons cette
+  charte.
 ---
 
 # Notre charte
@@ -9,7 +9,7 @@ description: >-
 ![](../../.gitbook/assets/charte_beta_page-0001.jpg)
 
 {% hint style="info" %}
-[Télecharger en version PDF](https://raw.githubusercontent.com/betagouv/doc.incubateur.net-communaute/000e7150af3435ac934c78a836197b28a27a96cf/travailler-a-beta-gouv/culture/charte_beta.pdf)
+[Télécharger en version PDF](https://raw.githubusercontent.com/betagouv/doc.incubateur.net-communaute/000e7150af3435ac934c78a836197b28a27a96cf/travailler-a-beta-gouv/culture/charte_beta.pdf)
 {% endhint %}
 
 ## Ici, on a le droit…
@@ -47,13 +47,10 @@ description: >-
 * de demander à la hiérarchie de résoudre un problème
 * d'avoir un jour sans
 * de prendre sa journée
-
-> D'après [Gov.UK](https://twitter.com/gilest/status/735131901900521472), traduction par [BetaGouv](https://twitter.com/hussardnum/status/735438348215541762).
-
-Après avoir adopté cette charte en bloc, on a aussi décidé :
-
-Ici, on a le droit…
-
 * de saluer et d'être salué·e comme on le souhaite: avec ou [sans contact](http://romy.tetue.net/mille-milliards-de-mille-bises)
-* de dire "ce que tu viens de dire est déplacé" quand on est témoin ou victime d'une remarque sexiste, raciste ou plus généralement déplacée \(il est conseillé de ne pas en ajouter et notamment de ne pas sermonner ; on parle aussi de "call-out" pour décrire ce protocole\)
+* de dire "ce que tu viens de dire est déplacé" quand on est témoin ou victime d'une remarque sexiste, raciste ou plus généralement déplacée. Il est conseillé de ne pas en ajouter et notamment de ne pas sermonner. On parle aussi de "call-out" pour décrire ce protocole.
+
+{% hint style="info" %}
+Cette charte est librement inspirée de celle de [Gov.UK](https://twitter.com/gilest/status/735131901900521472).
+{% endhint %}
 
