@@ -6,11 +6,13 @@ description: >-
 
 # Notre charte
 
-![](../../.gitbook/assets/0001.jpg)
+![](../../.gitbook/assets/charte_beta_page-0001.jpg)
 
+{% hint style="info" %}
 [Télecharger en version PDF](https://raw.githubusercontent.com/betagouv/doc.incubateur.net-communaute/000e7150af3435ac934c78a836197b28a27a96cf/travailler-a-beta-gouv/culture/charte_beta.pdf)
+{% endhint %}
 
-Ici, on a le droit…
+## Ici, on a le droit…
 
 * de dire « je ne sais pas »
 * de demander à ce que quelque chose soit clarifié
