@@ -6,6 +6,8 @@ description: >-
 
 # Notre charte
 
+![](../../.gitbook/assets/0001.jpg)
+
 [Télecharger en version PDF](https://raw.githubusercontent.com/betagouv/doc.incubateur.net-communaute/000e7150af3435ac934c78a836197b28a27a96cf/travailler-a-beta-gouv/culture/charte_beta.pdf)
 
 Ici, on a le droit…
