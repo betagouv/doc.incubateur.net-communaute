@@ -83,6 +83,7 @@
 * [™ Logo](outils/logo.md)
 * [✅ Trello](outils/trello.md)
 * [📆 Agenda public](outils/agenda-public.md)
+* [🇫🇷 FranceConnect](outils/franceconnect.md)
 
 ## Nos services à destination...
 
