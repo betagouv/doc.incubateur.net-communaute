@@ -1,71 +1,74 @@
 # Grand séminaire
 
-## Les principes 
+## Les principes
 
-#### Les objectifs 
+#### Les objectifs
+
 * Créer du capital social entre les membres de la communauté ;
 * Travailler à l'amélioration continue de nos pratiques ;
 * Réfléchir ensemble sur la vision et la stratégie de notre action.
 
 #### Un forum ouvert
+
 En présentiel ou en ligne, tous les grands séminaires étaient des forums ouverts.
 
-Wikipedia dit : « Le Forum Ouvert crée un espace dans lequel beaucoup de personnes peuvent s'organiser elles-mêmes et résoudre leurs problèmes en groupe à leur propre responsabilité. Il n'y a pas de thèmes imposés. Ils ne vont être formulés qu'au début de la conférence. De même, des conflits peuvent être traités et c'est comme un marché de pensées sur lequel les participants peuvent se regrouper par thème. »
-Selon Harrison Owen, le succès d'un Forum Ouvert repose sur le respect d'une loi, étayée par cinq principes et illustrée par deux animaux.
+Wikipedia dit : « Le Forum Ouvert crée un espace dans lequel beaucoup de personnes peuvent s'organiser elles-mêmes et résoudre leurs problèmes en groupe à leur propre responsabilité. Il n'y a pas de thèmes imposés. Ils ne vont être formulés qu'au début de la conférence. De même, des conflits peuvent être traités et c'est comme un marché de pensées sur lequel les participants peuvent se regrouper par thème. » Selon Harrison Owen, le succès d'un Forum Ouvert repose sur le respect d'une loi, étayée par cinq principes et illustrée par deux animaux.
 
-* La loi des deux pieds : si vous n’êtes ni en train d’apprendre, ni de contribuer (ou si vous pensez que vous le feriez plus ailleurs), passez à autre chose !
-
+* La loi des deux pieds : si vous n’êtes ni en train d’apprendre, ni de contribuer \(ou si vous pensez que vous le feriez plus ailleurs\), passez à autre chose !
 * Les 4 principes :
   * les personnes qui se présentent sont les bonnes ;
   * ce qui arrive, est la seule chose qui pouvait arriver ;
   * ça commence quand ça commence ;
   * quand c’est fini, c’est fini.
-
-
 * Les animaux totems :
   * Les abeilles font circuler les idées d'atelier en ateliers.
   * Les papillons font des bulles.
 
 #### Bien sûr, on a le droit :
+
 * de ne pas venir, et ce, sans aucun prétexte 
 * de participer en proposant des ateliers ou de participer sans en proposer
 * de facturer cette journée sur son budget habituel
 
-#### Qui peut venir ? 
+#### Qui peut venir ?
+
 Il concerne les membres de tous les incubateurs et tout Betagouv.
 
-#### Ca se passe comment ? 
-Il existe deux formats de grand séminaire : en présentiel et à distance --> cf. la suite
+#### Ca se passe comment ?
+
+Il existe deux formats de grand séminaire : en présentiel et à distance --&gt; cf. la suite
 
 #### Des question ?
-Posez toutes vos questions sur Slack, sur [#incubateur-grandsemin] (https://startups-detat.slack.com/archives/C4R7DV77D) ou par mail à incubateur@beta.gouv.fr.
+
+Posez toutes vos questions sur Slack, sur \[\#incubateur-grandsemin\] \([https://startups-detat.slack.com/archives/C4R7DV77D](https://startups-detat.slack.com/archives/C4R7DV77D)\) ou par mail à incubateur@beta.gouv.fr.
 
 ## A distance 😷👩‍💻😄
 
-A défaut de pouvoir se retrouver tous ensemble au grand air deux fois par an nous nous retrouvons tous les 3 mois pour une journée sur un espace virtuel crée sur Gather.  
- 
+A défaut de pouvoir se retrouver tous ensemble au grand air deux fois par an nous nous retrouvons tous les 3 mois pour une journée sur un espace virtuel crée sur Gather.
+
 Pendant cette journée, les participant·e·s qui le souhaitent définissent l’ordre du jour dans le format du Forum Ouvert pour proposer des ateliers.
- 
+
 #### Exemple de programme du grand séminaire de décembre 2020 :
- 
+
 * 8h00-9h30 : Venez prendre votre petit déjeuner dans le lounge pour retrouver vos collègues et faire connaissance avec de nouvelles personnes de la communauté
 * 9h30-10h : RDV dans la salle plénière où nous compléterons et présenterons ensemble le programme de la journée.
 * 10h - 16h30 : Le forum ouvert est ouvert !
 * 16h30 : RDV dans la salle plénière pour les mots de la fin
 
 #### Mode d'emploi Gather.town
- 
-Les 7 choses à savoir pour passer une bonne journée sur Gather.town :
- 
-1.	Si possible, utilisez un ordinateur et de préférence le navigateur Chrome, ça ne fonctionne pas sur téléphone portable (les fixes non plus :p) et sur Safari !
-2.	Coupez vos applis en cours, car Gathertown est un peu gourmand en bande passante…
-3.	Connectez-vous suffisamment en avance pour avoir le temps d’explorer l’espace : la plénière commence à 9h30, mais nous vous accueillerons dès lundi et à partir de 8h le jour J !
-4.	Pensez à couper votre micro lorsque vous êtes à un atelier et que vous ne prenez pas la parole.
-5.	Pour le confort audio de tous.tes, équipez-vous d'un micro-casque ou micro-écouteurs.
-6.	Partez à l’aventure ! Promenez-vous, explorez l’espace, allez à la rencontre de vos voisins virtuels.
-Vous êtes coincé·e·s ou vous n'entendez plus ? Ça arrive… Rechargez votre page !
-A distance 
 
+Les 7 choses à savoir pour passer une bonne journée sur Gather.town :
+
+1. Si possible, utilisez un ordinateur et de préférence le navigateur Chrome, ça ne fonctionne pas sur téléphone portable \(les fixes non plus :p\) et sur Safari !
+2. Coupez vos applis en cours, car Gathertown est un peu gourmand en bande passante…
+3. Connectez-vous suffisamment en avance pour avoir le temps d’explorer l’espace : la plénière commence à 9h30, mais nous vous accueillerons dès lundi et à partir de 8h le jour J !
+4. Pensez à couper votre micro lorsque vous êtes à un atelier et que vous ne prenez pas la parole.
+5. Pour le confort audio de tous.tes, équipez-vous d'un micro-casque ou micro-écouteurs.
+6. Partez à l’aventure ! Promenez-vous, explorez l’espace, allez à la rencontre de vos voisins virtuels.
+
+   Vous êtes coincé·e·s ou vous n'entendez plus ? Ça arrive… Rechargez votre page !
+
+   A distance 
 
 ## En présentiel à la campagne 🌳🧑‍🤝‍🧑🎉
 

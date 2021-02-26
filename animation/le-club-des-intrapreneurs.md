@@ -32,7 +32,7 @@ description: >-
 
 ### Certification des intrapreneurs :
 
-* Beta.gouv te propose de certifier tes nouvelles compétences d'intrapreneuse/eur. Les infos sont[ ici](../travailler-a-beta-gouv/se-former/certification-des-intrapreneurs.md).
+* Beta.gouv te propose de certifier tes nouvelles compétences d'intrapreneuse/eur. Les infos sont[ ici](../travailler-a-beta-gouv/se-former/certification-des-intrapreneurs/).
 
 ###  Articles sur l'intrapreunariat
 

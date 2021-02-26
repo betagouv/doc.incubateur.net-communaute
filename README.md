@@ -32,7 +32,7 @@ description: "\U0001F9ED Toutes les ressources pour aider les membres de la comm
 
 {% page-ref page="travailler-a-beta-gouv/se-former/" %}
 
-{% page-ref page="travailler-a-beta-gouv/se-former/certification-des-intrapreneurs.md" %}
+{% page-ref page="travailler-a-beta-gouv/se-former/certification-des-intrapreneurs/" %}
 
 {% page-ref page="travailler-a-beta-gouv/culture/charte.md" %}
 

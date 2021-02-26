@@ -22,7 +22,7 @@ Au sein de chaque incubateur ou fabrique numérique membre du réseau beta.gouv,
 
 {% page-ref page="les-besoins-en-formation.md" %}
 
-{% page-ref page="certification-des-intrapreneurs.md" %}
+{% page-ref page="certification-des-intrapreneurs/" %}
 
 {% page-ref page="groupe-de-co-developpement-professionnel.md" %}
 

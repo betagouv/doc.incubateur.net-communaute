@@ -2,7 +2,7 @@
 
 L'appartenance à la communauté `beta.gouv.fr` t'ouvre l'accès à [deux locaux](https://umap.openstreetmap.fr/fr/map/incubateur_70718) à Paris, en plus de tes espaces de travail habituels \(ton espace de coworking, ton administration, chez toi…\).
 
-### Ségur
+## Ségur
 
 Environ 36 places dans le QG de la DINUM, [20 avenue de Ségur, Paris 7e](http://www.openstreetmap.org/search?query=20%20avenue%20de%20s%C3%A9gur#map=19/48.85050/2.30844).
 
@@ -10,19 +10,19 @@ Ouvert du lundi au vendredi au moins de 7 h à 22 h.
 
 Le local de l'incubateur est au 5e étage, salles 5.511 et 5.515, accessible par l'ascenseur A.
 
-#### Internet
+### Internet
 
 * Un accès wifi est disponible, demander le mot de passe sur [🔒`#bureaux-segur`](https://startups-detat.slack.com/messages/bureaux-segur/).
 * Un fallback 4G est également disponible, demander le mot de passe sur [🔒`#bureaux-segur`](https://startups-detat.slack.com/messages/bureaux-segur/) en cas de besoin.
 * Les câbles rouges sont connectés à internet.
 
-#### Comment inviter un visiteur à Ségur ?
-Envoie un email à l'accueil (accueil-segur@segur.gouv.fr), depuis ton adresse beta, en disant que tu travailles à l'incubateur de la DINUM et que tu attends [liste des noms des visiteurs], le [date] à [heure]. 
+### Comment inviter un visiteur à Ségur ?
+
+Envoie un email à l'accueil \(accueil-segur@segur.gouv.fr\), depuis ton adresse beta, en disant que tu travailles à l'incubateur de la DINUM et que tu attends \[liste des noms des visiteurs\], le \[date\] à \[heure\].
 
 Fais-le en avance par politesse. Si tu le fais à la dernière minute, un petit message d'excuse facilite les choses.
 
-
-#### Accès visiteur Ségur
+### Accès visiteur Ségur
 
 1. Munissez-vous d'une pièce d'identité.
 2. Rendez-vous au 20 avenue de Ségur, Paris 7 \(métro Ségur, Cambronne, Ecole Militaire ou St-François-Xavier\)
@@ -33,7 +33,7 @@ Il est préférable que vous ayez le numéro de téléphone de votre contact pou
 
 > Votre visiteur peut acheter un ticket cantine pour 13€ à la cafétéria.
 
-#### Réserver une salle de réunion à Ségur
+### Réserver une salle de réunion à Ségur
 
 Faire la demande au CAS \(Centre d’Appel et de Suivi\) :
 
@@ -70,11 +70,11 @@ La veille il faut fournir à l'accueil \(accueil-segur@segur.gouv.fr\) :
 
 Remarque : il est impossible pour des raisons de sécurité d'obtenir le Wifi dans les salles de réunions. Remarque 2 : La Salle Jean Monnet n'a pas de fenêtres et pas de réseau téléphonique.
 
-#### Accès local velo avec son badge
+### Accès local velo avec son badge
 
 Aller voir M. Delplace au 1.507 pour qu'il active les accès pour votre badge \(il doit pouvoir faire ça au téléphone mais pas sûr\). L'accès se fait rue d'Estrées, il faut passer par la petite porte à droite du portail voiture. Il faut descendre et le local velo est en bas à gauche, la porte de l'accès est rouge. Il y a un petit ascenseur, en sortant au bout du local à velo puis sur la gauche. Cet ascenseur permet d'accès au niveau de l'accueil et au 1er étage.
 
-#### Imprimer
+### Imprimer
 
 Une imprimante est disponible physiquement au fond de la salle de droite, et sur le réseau imprimante.segur.beta.gouv.fr
 
