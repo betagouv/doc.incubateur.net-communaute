@@ -23,7 +23,9 @@ Tous les **intervenant** doivent être ajoutés au moment de la création du web
 {% endhint %}
 
 {% hint style="success" %}
-**Bloquer le créneau dans l'agenda beta.gouv** en indiquant "Livestorm" dans le titre, pour éviter les conflits de créneaux. Il suffit de remplir [ce formulaire](https://airtable.com/shrWvcUAOJqllVqtj) pour créer un événement.
+**\[Uniquement pour les évènements de la communauté Beta.gouv\]**
+
+**Bloquer le créneau dans l'agenda beta.gouv** en indiquant "Livestorm" dans le titre, pour éviter les conflits de créneaux. Il suffit de remplir [ce formulaire](https://airtable.com/shrWvcUAOJqllVqtj) pour créer un événement lorsqu'il s'adresse à la communauté beta.gouv.
 {% endhint %}
 
 {% hint style="info" %}
