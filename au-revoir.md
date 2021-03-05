@@ -29,7 +29,7 @@ description: "Tu nous quittes ? On espère que tu as passé un moment positif av
 * [ ] Si tu utilises Github : Rejoindre la team `alumni` sur l'[organisation BetaGouv](https://github.com/orgs/betagouv/teams) de GitHub et quitter toutes les autres.
 * [ ] Te retirer les droits d'écriture de [l'agenda public de l'incubateur](https://calendar.google.com/calendar/embed?src=0ieonqap1r5jeal5ugeuhoovlg%40group.calendar.google.com&ctz=Europe/Paris).
 * [ ] Faire un debrief d'une demi-heure de ton passage à l'Incubateur avec un·e permanent·e, pour qu'on puisse s'améliorer.
-* [ ] Annoncer la date de ton pot de départ à incubateur@beta.gouv.fr ! 🍻
+* [ ] Annoncer la date de ton pot de départ sur #general ! 🍻
 
 ### Slack
 
