@@ -2,7 +2,7 @@
 
 * [Guide de la communauté beta.gouv](README.md)
 
-## Travailler à Beta Gouv
+## Travailler chez Beta.Gouv <a id="travailler-a-beta-gouv"></a>
 
 * [🛫 Embarquer un nouveau membre](travailler-a-beta-gouv/bienvenue/README.md)
   * [To do: que faire pendant les premiers mois à beta.gouv.fr ?](travailler-a-beta-gouv/bienvenue/to-do-darrivee.md)
