@@ -140,7 +140,7 @@
 
 ## Découvrir les guides des autres incubateurs
 
-* [🌍 Fabrique numérique du MTE-MCT](https://github.com/MTES-MCT/numerique/wiki)
+* [🌍 Fabrique numérique du MTE-MCT](https://fabrique-numerique.gitbook.io/guide/)
 * [🏥 Fabrique numérique des Ministères sociaux](https://github.com/SocialGouv/www/wiki)
 * [🗻 Incubateur de la DINUM](decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/README.md)
   * [Agents de la DINUM](decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/contractuels-dinum/README.md)
