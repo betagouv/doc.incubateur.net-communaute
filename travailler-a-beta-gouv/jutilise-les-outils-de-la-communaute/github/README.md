@@ -21,7 +21,7 @@ Dans tous les cas vous pouvez demander de l'aide sur Slack `#incubateur-help` ou
   * Dans la section "Two-factor authentication"
   * Faite "Enable two-factor authentication"
 
-![](../../../.gitbook/assets/image%20%2814%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29.png)
+![](../../../.gitbook/assets/image%20%2814%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29.png)
 
 * Si vous êtes familier avec les applications mobile de type "Google Authenticator" faite : "**Set up using an app**." et suivre les étapes indiqués par Github.
 * Si vous ne comprenez pas le point si dessus ^ faite "**Set up using SMS"** et entrer votre numéro de mobile
