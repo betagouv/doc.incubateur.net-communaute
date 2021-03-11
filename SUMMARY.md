@@ -56,7 +56,7 @@
     * [Je souhaite valider ma proposition de modification](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/gitbook/documentation-provisoire-a-stabilisee.md)
     * [Je suis les recommandations d'écritre](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/gitbook/recommandations.md)
   * [Modèle de note](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/modele-de-note.md)
-* [📰 S'informe sur la vie de la communauté](travailler-a-beta-gouv/je-minforme-sur-la-vie-de-la-communaute/README.md)
+* [📰 S'informer sur la vie de la communauté](travailler-a-beta-gouv/je-minforme-sur-la-vie-de-la-communaute/README.md)
   * [Agenda public](travailler-a-beta-gouv/je-minforme-sur-la-vie-de-la-communaute/agenda-public.md)
   * [Lettres d'information](travailler-a-beta-gouv/je-minforme-sur-la-vie-de-la-communaute/lettres-dinformation.md)
   * [Liste de diffusion interne  à la communauté](travailler-a-beta-gouv/je-minforme-sur-la-vie-de-la-communaute/liste-de-diffusion-et-adresses-de-contact.md)

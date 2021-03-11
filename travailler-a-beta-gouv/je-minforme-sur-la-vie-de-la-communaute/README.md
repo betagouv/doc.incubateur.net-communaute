@@ -1,4 +1,4 @@
-# 📰 S'informe sur la vie de la communauté
+# 📰 S'informer sur la vie de la communauté
 
 {% page-ref page="agenda-public.md" %}
 
