@@ -5,7 +5,7 @@ description: "\U0001F9ED Toutes les ressources pour aider les membres de la comm
 # Guide de la communauté beta.gouv
 
 {% hint style="success" %}
-**Tu es sur le guide pour la communauté.** Il s'adresse aux membres de la communauté beta.gouv.fr 💃 🕺🏾.
+**Tu es sur le guide de la communauté.** Il s'adresse aux membres de la communauté beta.gouv.fr 💃 🕺🏾.
 {% endhint %}
 
 ## Découvrez les autres guides 
