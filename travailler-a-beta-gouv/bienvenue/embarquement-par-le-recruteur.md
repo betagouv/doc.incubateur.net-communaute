@@ -9,8 +9,8 @@
 * [ ] Valider sur Github la création de la fiche [https://github.com/betagouv/beta.gouv.fr/pulls](https://github.com/betagouv/beta.gouv.fr/pulls)
 * [ ] Créer une adresse email pour la nouvelle recrue : [https://secretariat.incubateur.net/login](https://secretariat.incubateur.net/login)
 * [ ] Inviter la nouvelle recrue sur le [Slack avec son adresse @beta.gouv.fr](https://startups-detat.slack.com/signup) et s'est présenté·e sur \#general
-* [ ] Tu as invité la nouvelle recrue à un [standup](../../dinum/rituels/standup-invites.md)  
-* [ ] Si besoin tu as fait une demande de badge pour accéder à nos locaux \(La procédure pour Ségur est disponible [ici](../../dinum/locaux/badge-pour-travailler-a-segur.md)\)
+* [ ] Tu as invité la nouvelle recrue à un [standup](../../decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/rituels/standup-invites.md)  
+* [ ] Si besoin tu as fait une demande de badge pour accéder à nos locaux \(La procédure pour Ségur est disponible [ici](../../decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/locaux/badge-pour-travailler-a-segur.md)\)
 * [ ] Si il·elle est indépendant·e, elle sait à qui adresser sa facture et comment
 * [ ] Si il·elle est contractuel·le DINUM, il·elle s'est présenté·e au secrétariat de la DINUM
 * [ ] Tu as envoyé un mail de bienvenue à la nouvelle recrue

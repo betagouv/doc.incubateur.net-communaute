@@ -10,7 +10,7 @@ Pour comprendre beta.gouv.fr, rien d'obligé bien sûr !
 
 > Tu trouveras ici la [présentation déroulée lors de cet atelier](https://docs.google.com/presentation/d/1ded7iFFFaPuw9tKcj6g-xLBggAox-QNDjsMamECPqHU/edit) \(dernière màj : septembre 2020\)
 
-* [ ]   Participer à un petit [Séminaire ](../../dinum/rituels/seminaire.md)- 1 jeudi sur 2 à 15h
+* [ ]   Participer à un petit [Séminaire ](../../decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/rituels/seminaire.md)- 1 jeudi sur 2 à 15h
 * [ ]   Proposer de l'aide à quelqu'un en galère dans l'openspace
 * [ ]   Venir à un point de rencontre régulier :
   *   Rencontre dev : partage sur les pratiques de développement informatiques [🔒`#domaine-dev`](https://startups-detat.slack.com/messages/domaine-dev) - 2ème mercredi du mois de 10h30 à 12h
@@ -22,10 +22,10 @@ Pour comprendre beta.gouv.fr, rien d'obligé bien sûr !
 
 ###  Au cours des 6 premiers mois
 
-* [ ]   S'abonner à la mailinglist `contact@beta.gouv.fr` [Listes de diffusion](../../outils/liste-de-diffusion-et-adresses-de-contact.md)
-* [ ]   Animer le [Stand-up](../../dinum/rituels/standup.md) \(seul prérequis : avoir déjà vu au moins 1 standup\)
-* [ ]   Participer au prochain [Grand Séminaire](../../dinum/rituels/grand-seminaire-1.md) \(tous les 6 mois, 2 jours à la campagne\)
-* [ ]   Animer le [Séminaire ](../../dinum/rituels/seminaire.md)\(seul prérequis : avoir déjà vu au moins 1 petit séminaire\)
+* [ ]   S'abonner à la mailinglist `contact@beta.gouv.fr` [Listes de diffusion](../je-minforme-sur-la-vie-de-la-communaute/liste-de-diffusion-et-adresses-de-contact.md)
+* [ ]   Animer le [Stand-up](../../decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/rituels/standup.md) \(seul prérequis : avoir déjà vu au moins 1 standup\)
+* [ ]   Participer au prochain [Grand Séminaire](../../decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/rituels/grand-seminaire-1.md) \(tous les 6 mois, 2 jours à la campagne\)
+* [ ]   Animer le [Séminaire ](../../decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/rituels/seminaire.md)\(seul prérequis : avoir déjà vu au moins 1 petit séminaire\)
 * [ ]   Commenter et valider une pull request sur github : [https://github.com/betagouv/beta.gouv.fr/pulls](https://github.com/betagouv/beta.gouv.fr/pulls)
 
 > Attention à ne pas tout faire en simultanée, il y a risque d'overdose 😄

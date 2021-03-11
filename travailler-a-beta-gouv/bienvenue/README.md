@@ -2,7 +2,7 @@
 description: 'Tu viens d''arriver ? Bienvenue, et laisse toi guider.'
 ---
 
-# 🛫 J'embarque !
+# 🛫 Embarquer un nouveau membre
 
 {% hint style="info" %}
 Si tu as besoin d'aide, envoyer un mail à [`contact@beta.gouv.fr`](mailto:contact@beta.gouv.Fr)ou demande sur[`#incubateur-help`](https://startups-detat.slack.com/messages/incubateur-help)sur Slack.
@@ -17,10 +17,10 @@ Créé ta fiche sur le secrétariat  pour obtenir ton email @beta.gouv.fr
 {% embed url="https://secretariat.incubateur.net/onboarding" %}
 
 {% hint style="success" %}
-Grâce à ton compte, tu pourras nous rejoindre sur [Slack](../../outils/slack.md).
+Grâce à ton compte, tu pourras nous rejoindre sur [Slack](../jutilise-les-outils-de-la-communaute/slack.md).
 {% endhint %}
 
-{% page-ref page="../../outils/slack.md" %}
+{% page-ref page="../jutilise-les-outils-de-la-communaute/slack.md" %}
 
 ## Découvre la communauté
 
@@ -29,7 +29,7 @@ Grâce à ton compte, tu pourras nous rejoindre sur [Slack](../../outils/slack.m
   * [ ] Rejoins ses canaux sur Slack ;
   * [ ] Imprègne-toi de la mission sur la fiche produit.
 * [ ] Découvre s'il y a d'autres membres de la communauté près de chez toi sur la [carte des membres](https://doc.incubateur.net/communaute/dinum/locaux/ou-travailler#beta-gouv-fr-en-dehors-de-paris) ;
-* [ ] Participe au [standup de l'incubateur](../../dinum/rituels/standup.md), tous les jeudi à midi en visio ;
+* [ ] Participe au [standup de l'incubateur](../../decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/rituels/standup.md), tous les jeudi à midi en visio ;
 * [ ] Ajoute ton expérience chez beta.gouv.fr sur ton profil Linkedin ;
 * [ ] Abonne toi à [l'agenda public de l'incubateur](https://calendar.google.com/calendar/embed?src=0ieonqap1r5jeal5ugeuhoovlg%40group.calendar.google.com&ctz=Europe/Paris) pour suivre les événements de la communauté ; 
 * [ ] Participe à un 🛫 atelier d'embarquement beta.gouv.fr :
@@ -42,5 +42,5 @@ Grâce à ton compte, tu pourras nous rejoindre sur [Slack](../../outils/slack.m
 
 {% page-ref page="to-do-darrivee.md" %}
 
-{% page-ref page="../../animation/presenter-de-beta.gouv.fr.md" %}
+{% page-ref page="../culture/presenter-de-beta.gouv.fr.md" %}
 

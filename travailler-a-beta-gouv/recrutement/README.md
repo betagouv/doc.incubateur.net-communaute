@@ -1,4 +1,4 @@
-# 🎯 Recrutement
+# 🎯 Recruter
 
 {% page-ref page="comment-recruter.md" %}
 

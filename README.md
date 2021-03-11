@@ -2,7 +2,7 @@
 description: "\U0001F9ED Toutes les ressources pour aider les membres de la communauté à s'y retrouver dans l'organisation beta.gouv.fr."
 ---
 
-# Guide pour la communauté
+# Guide de la communauté beta.gouv
 
 {% hint style="success" %}
 **Tu es sur le guide pour la communauté.** Il s'adresse aux membres de la communauté beta.gouv.fr 💃 🕺🏾.
@@ -10,14 +10,12 @@ description: "\U0001F9ED Toutes les ressources pour aider les membres de la comm
 
 ## Découvrez les autres guides 
 
-{% embed url="https://doc.incubateur.net/startups/" %}
-
 {% embed url="https://doc.incubateur.net/design/" %}
 
 {% embed url="https://doc.incubateur.net/consolidation/" %}
 
 {% hint style="info" %}
-**Tu es légitime pour** [**modifier ces documentations**](contribuer/comment-contribuer-a-cette-documentation.md)**.**
+**Tu es légitime pour** [**modifier ces documentations**](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/gitbook/comment-contribuer-a-cette-documentation.md)**.**
 {% endhint %}
 
 ## Les pages les plus utiles de ce guide
@@ -26,7 +24,7 @@ description: "\U0001F9ED Toutes les ressources pour aider les membres de la comm
 
 {% page-ref page="travailler-a-beta-gouv/recrutement/remuneration.md" %}
 
-{% page-ref page="outils/emails.md" %}
+{% page-ref page="travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/emails.md" %}
 
 {% page-ref page="travailler-a-beta-gouv/recrutement/" %}
 
@@ -36,7 +34,7 @@ description: "\U0001F9ED Toutes les ressources pour aider les membres de la comm
 
 {% page-ref page="travailler-a-beta-gouv/culture/charte.md" %}
 
-{% page-ref page="outils/faire-une-visio.md" %}
+{% page-ref page="travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/faire-une-visio.md" %}
 
 
 

@@ -5,7 +5,7 @@ description: >-
   garantir que ce soit bien le cas.
 ---
 
-# 💖 Culture et environnement de travail
+# 💖 Découvrir notre culture
 
 Sans prétendre à l'exhaustivité, voici ci-dessous un aperçu de différentes situations, normales et moins normales, qui peuvent être vécues à beta, et dans chaque cas ce que tu peux faire pour y réagir.
 
