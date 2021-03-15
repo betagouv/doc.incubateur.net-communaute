@@ -78,6 +78,7 @@
     * [Critères d'évaluation à la fin d'une investigation](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/investigation/criteres-devaluation-a-la-fin-dune-investigation.md)
     * [La méthode d’investigation n’est pas…](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/investigation/la-methode-dinvestigation-nest-pas....md)
     * [Conseils pour les coachs en investigation](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/investigation/conseils-pour-les-coachs-en-investigation.md)
+    * [Process d'embarquement d'un coach en investigation](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/investigation/process-dembarquement-dun-coach-en-investigation.md)
     * [Ressources utiles pour l'investigation](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/investigation/ressources-utiles-pour-linvestigation.md)
   * [2. Construction](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/construction/README.md)
     * [Kit de démarrage](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/construction/kit-de-demarrage.md)
