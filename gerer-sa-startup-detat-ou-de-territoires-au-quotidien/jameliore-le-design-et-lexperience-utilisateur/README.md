@@ -2,7 +2,7 @@
 
 {% page-ref page="comprendre-le-role-du-design.md" %}
 
-{% page-ref page="accessibilite-et-rgaa.md" %}
+{% page-ref page="accessibilite-et-rgaa/" %}
 
 {% page-ref page="la-marque-de-letat.md" %}
 

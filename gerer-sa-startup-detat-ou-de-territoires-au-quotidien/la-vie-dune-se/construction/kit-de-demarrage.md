@@ -60,7 +60,7 @@ Pour cela, nous mettons à la disposition des Startups d'État un "Kit de démar
 
 Dans le cadre du travail avec l'administration, il est important de connaitre les contraintes légales en terme de Sécurité, RGPD et Accessibilité.
 
-* Si vous souhaitez les consulter vous pourrez les trouver sur la page dédiée au [RGPD et sécurité](../../je-securise-mon-produit/guide-rgpd-et-securite.md) et à l'[accessibilité](../../jameliore-le-design-et-lexperience-utilisateur/accessibilite-et-rgaa.md)
+* Si vous souhaitez les consulter vous pourrez les trouver sur la page dédiée au [RGPD et sécurité](../../je-securise-mon-produit/guide-rgpd-et-securite.md) et à l'[accessibilité](../../jameliore-le-design-et-lexperience-utilisateur/accessibilite-et-rgaa/)
 * Nous proposons aussi une formation dédiée : contactez Anna-Livia pour plus d'informations.
 
 
