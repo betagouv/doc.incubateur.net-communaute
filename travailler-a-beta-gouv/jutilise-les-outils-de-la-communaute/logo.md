@@ -4,11 +4,11 @@
 
 > Conseil : Lorsque votre produit est en phase d'investigation ou en début de construction, ne vous préoccupez pas de son apparence.
 
-#### Pour démarrer son projet - template.data.gouv.fr
+#### Pour démarrer son projet - template.incubateur.net
 
-Nous avons réunis des éléments de charte graphique communs, particulièrement le header, entre beta.gouv.fr / api.gouv.fr et data.gouv.fr
+Un exemple de site utilisant le Design System de l'état ainsi que des ressources.
 
-[Code source](https://github.com/etalab/template.data.gouv.fr) - [Exemple](https://etalab.github.io/template.data.gouv.fr/)
+[Code source](https://github.com/betagouv/template-design-system-de-l-etat) - [Site](https://template.incubateur.net/)
 
 ### Logo « éprouvette » de la communauté beta.gouv.fr
 
