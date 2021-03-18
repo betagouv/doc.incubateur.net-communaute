@@ -42,7 +42,7 @@ Ces images ne sont pas soumises à la licence CC0 appliquée à ce texte.
 
 Attention, la Marianne appartient au [SIG](http://www.gouvernement.fr/service-d-information-du-gouvernement-sig). Ne pas l'utiliser sans discussion interne.
 
-#### Pour nos archives : 
+#### Pour nos archives :
 
 Version prototype
 
