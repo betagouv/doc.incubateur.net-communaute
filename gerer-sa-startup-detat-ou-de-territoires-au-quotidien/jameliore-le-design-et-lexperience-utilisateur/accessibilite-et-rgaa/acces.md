@@ -15,7 +15,7 @@ Le programme Access est destiné aux Startups d'États du réseau beta.gouv.fr. 
 
 C'est une première expérimentation.
 
-## Un programme qui répond à des enjeux légaux
+## Un programme qui répond aussi à des enjeux légaux
 
 En 2020, une étude menée par les Designers Transverses auprès de toutes les SE de l'incubateur a montré qu'**une seule Startup respectait ses obligations légales**. Au niveau national, c'est seulement un peu mieux : seulement [10 % des services publics sont accessibles](https://observatoire.numerique.gouv.fr/).
 
