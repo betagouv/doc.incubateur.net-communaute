@@ -102,11 +102,12 @@ _Mon produit a rencontré ses utilisateurs et démontré sa valeur en phase d'ex
 
 {% tab title="A faire " %}
 1. [ ] Je reviens sur les actions des phases précédentes, en répète certaines \(atelier risques\) et mets à jour les documents correspondants ;
-2. [ ] A partir du livrable de l'atelier risques, je constitue un dossier d'homologation de sécurité :
+2. [ ] \[Si AIPD\] Je finalise l'analyse et sa validation avec le responsable de traitement
+3. [ ] A partir du livrable de l'atelier risques, je constitue un dossier d'homologation de sécurité :
    * 💡 Exemples de dossier d'homologation de sécurité : [Le.taxi](https://github.com/betagouv/beta.ssi/blob/master/homologations/le_taxi.md) et [Aidants connect](https://trello.com/c/NOap62w5)
-3. [ ] Je partage le dossier avec le RSSI de mon administration, prends en compte ses retours et me renseigne sur l'autorité d'homologation :
+4. [ ] Je partage le dossier avec le RSSI de mon administration, prends en compte ses retours et me renseigne sur l'autorité d'homologation :
    * 💡 Pour connaître le RSSI de la DINUM, tu peux interroger l'équipe de coanimation de beta.gouv.fr
-4. [ ] \[Optionnel\] A ce stade, je peux solliciter un prestataire pour réaliser un test d'intrusion. Je contacte la DINUM si besoin pour en discuter.
+5. [ ] \[Optionnel\] A ce stade, je peux solliciter un prestataire pour réaliser un test d'intrusion. Je contacte la DINUM si besoin pour en discuter.
 {% endtab %}
 
 {% tab title="A ne pas faire" %}
