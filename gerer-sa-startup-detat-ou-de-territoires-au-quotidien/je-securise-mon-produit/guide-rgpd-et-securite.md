@@ -76,10 +76,10 @@ _3 à 6 mois pour développer une première solution numérique et l'expériment
    * 💡 Info et recommandation pour la gestion des cookies : [lien](https://beta.gouv.fr/suivi/)
 3. [ ] Je recense toutes les données traitées et les finalités qui leur sont associées \[1 à 2h\] :
    * 💡 [Tableau données-finalités](https://docs.google.com/document/d/1PQniGdnvLdjyEBbk1lFGzmG6rwnwD5bPCbvP_XBOe4I/edit?usp=sharing) écrit par la startup Itou. Le vôtre sera plus simple !
-4. [ ] Si mon produit rentre dans l'un des [critères de la CNIL](https://www.cnil.fr/sites/default/files/atoms/files/liste-traitements-aipd-non-requise.pdf) : commencer à réaliser une analyse d'impact relative à la protection des donnée \(AIPD, aussi appelée EIVP\) :
+4. [ ] Si mon produit rentre dans l'un des [critères de la CNIL](https://www.cnil.fr/sites/default/files/atoms/files/liste-traitements-aipd-non-requise.pdf) : j'initie une analyse d'impact relative à la protection des donnée \(AIPD, aussi appelée EIVP\) :
    * 💡 [Une AIPD, c'est quoi ?](https://www.cnil.fr/sites/default/files/atoms/files/infographie_aipd.pdf)
    * 💡 [Exemple d'AIPD](https://docs.google.com/document/d/1j_1EESLdOHIa6bsYo3VSp-AJhPNPbQJKNRJnpJpRhKU/edit) pour la startup Itou
-5. [ ] Organiser un atelier d'analyse de risques en suivant le guide Agile de l'ANSSI \[1 demi-journée en équipe complète\] :
+5. [ ] J'organise un atelier d'analyse de risques en suivant le guide agile de l'ANSSI \[1 demi-journée en équipe complète\] :
    * 💡 Exemple de [résultat d'un atelier](https://github.com/openmaraude/le.taxi/wiki/Analyse-des-risques) pour Le.taxi
    * 💡 [Guide de sécurité Agile le l'ANSSI](https://www.ssi.gouv.fr/uploads/2018/11/guide-securite-numerique-agile-anssi-pa-v1.pdf)
 
