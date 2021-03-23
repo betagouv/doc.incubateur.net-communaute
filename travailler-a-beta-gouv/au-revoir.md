@@ -7,6 +7,7 @@ description: "Tu nous quittes ? On espère que tu as passé un moment positif av
 ## Checklist de départ
 
 * [ ] T'assurer que ta date de départ a bien été renseignée dans [ta fiche sur beta.gouv.fr](https://github.com/betagouv/beta.gouv.fr/tree/master/content/_authors).
+* [ ] Clôturer ton adresse email sur [l'application secretariat](https://secretariat.incubateur.net/account) 
 
 > C'est important, c'est là que se fait le suivi RH !
 
@@ -31,7 +32,11 @@ description: "Tu nous quittes ? On espère que tu as passé un moment positif av
 * [ ] Faire un debrief d'une demi-heure de ton passage à l'Incubateur avec un·e permanent·e, pour qu'on puisse s'améliorer.
 * [ ] Annoncer la date de ton pot de départ sur \#general ! 🍻
 
+## Ton adresse email beta.gouv.fr
+
+Si tu n'as pas supprimé ton compte email, il y aura une suppression automatique de l'adresse email @beta.gouv.fr 6 mois après la date de fin de contrat.
+Tu auras un rappel tous les mois et tu pourras procéder toi même à la suppression du compte email. 
+
 ## Slack
 
 * Ton compte Slack sera désactivé s'il devient inactif \(14 jours d'inactivité\).
-
