@@ -173,4 +173,5 @@
   * [OKR](decouvrir-les-guides-des-autres-incubateurs/fabrique-numerique-ministeres-des-armees/okr/README.md)
     * [OKR Fred](decouvrir-les-guides-des-autres-incubateurs/fabrique-numerique-ministeres-des-armees/okr/okr-fred.md)
   * [Vision, mission et valeurs](decouvrir-les-guides-des-autres-incubateurs/fabrique-numerique-ministeres-des-armees/vision-mission-valeurs.md)
+* [🖌 L'Atelier Numérique \(Culture\)](https://atelier-numerique.gitbook.io/atelier-numerique-le-guide/)
 
