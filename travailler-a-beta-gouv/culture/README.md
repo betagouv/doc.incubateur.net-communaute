@@ -50,3 +50,7 @@ Coordonnées de la cellule:
 * numéro non surtaxé 0 800 200 286 - **pour une écoute par des psychologues**
 * site Web [https://allodiscrim.wethics.eu/](https://allodiscrim.wethics.eu/) - code 2018 - **pour un conseil juridique par des avocats**
 
+{% page-ref page="situation-dysfonctionnelle/independant-victime-de-harcelement-ou-discrimination.md" %}
+
+
+
