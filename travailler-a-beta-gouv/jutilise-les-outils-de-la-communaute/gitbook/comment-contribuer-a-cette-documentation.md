@@ -1,5 +1,9 @@
 # Je veux modifier ce guide
 
+{% hint style="info" %}
+Pour modifier ce guide, rendez-vous sur [\#incubateur-documentation](https://app.slack.com/client/T04C2PSNY/C011EK4NQH3/thread/C011EK4NQH3-1616763456.027800) et poste exactement message sur Slack : "**Bonjour, j'aimerai savoir comment modifier la documentation?"** . Le lien de connexion te sera envoyé automatiquement.
+{% endhint %}
+
 ## Pourquoi contribuer ? <a id="pourquoi-contribuer"></a>
 
 * Tu souhaite créer une nouvelle page ?
