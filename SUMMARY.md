@@ -13,7 +13,7 @@
   * [Notre charte](travailler-a-beta-gouv/culture/charte.md)
   * [Normes de conduite](travailler-a-beta-gouv/culture/normes-de-conduite.md)
   * [Situation dysfonctionnelle](travailler-a-beta-gouv/culture/situation-dysfonctionnelle/README.md)
-    * [Indépendant victime de harcèlement ou discrimination](travailler-a-beta-gouv/culture/situation-dysfonctionnelle/independant-victime-de-harcelement-ou-discrimination.md)
+    * [Indépendant victime de harcèlement ou de discrimination](travailler-a-beta-gouv/culture/situation-dysfonctionnelle/independant-victime-de-harcelement-ou-discrimination.md)
   * [Conseils à la communauté](travailler-a-beta-gouv/culture/conseils.md)
   * [Nos services à destination](travailler-a-beta-gouv/culture/nos-services-a-destination/README.md)
     * [des entreprises](travailler-a-beta-gouv/culture/nos-services-a-destination/des-entreprises.md)

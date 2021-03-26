@@ -5,7 +5,7 @@ description: >-
   agent public dans le cadre de ma mission.
 ---
 
-# Indépendant victime de harcèlement ou discrimination
+# Indépendant victime de harcèlement ou de discrimination
 
 ## Je peux :
 
