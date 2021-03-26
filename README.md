@@ -29,7 +29,7 @@ description: "\U0001F9ED Toutes les ressources pour aider les membres de la comm
 {% embed url="https://doc.incubateur.net/consolidation/" %}
 
 {% hint style="info" %}
-**Tu es légitime pour** [**modifier ces documentations**](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/gitbook/comment-contribuer-a-cette-documentation.md)**.**
+**Tu es légitime pour** [**modifier ces documentations**](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/gitbook/comment-contribuer-a-cette-documentation.md)**.** [**Découvre comment faire.**](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/gitbook/comment-contribuer-a-cette-documentation.md)\*\*\*\*
 {% endhint %}
 
 \*\*\*\*
