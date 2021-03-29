@@ -37,7 +37,7 @@ Découvrir le[ Kit d'accessibilité](https://doc.incubateur.net/design/ressource
 
 | Étapes | Délais | Durées |
 | :--- | :--- | :--- |
-|  1. Inscription | Jour 1 |  |
+| [ 1. Inscription](https://airtable.com/shrcbylpZ2GCOsK8q) | Jour 1 |  |
 | 2. Complétion du dossier |  | ~10 minutes |
 | 3. Prise de rendez-vous | Jour 7 | ~60 minutes |
 | 4. Audit Flash | Jour 15 |  |
@@ -55,6 +55,10 @@ Ce programme peut être entièrement financé par beta.gouv.fr pour les Startups
 ### 1- Inscription
 
 Tous les 2 ou 3 mois, nous lançons une nouvelle promotion Access. Le lien d'inscription est renseigné sur le Slack de Beta ou dans l'infolettre interne de beta.
+
+{% embed url="https://airtable.com/shrcbylpZ2GCOsK8q" %}
+
+
 
 ### 2- Complétion du dossier
 
