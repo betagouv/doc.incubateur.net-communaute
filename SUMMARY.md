@@ -94,6 +94,7 @@
     * [😱 Cauchemar à bêta : la mesure d'impact !](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-gere-mon-produit-et-son-impact/definir-et-mesurer-limpact/cauchemar-a-beta-la-mesure-dimpact.md)
     * [Le coach, la Startup d'État et la mesure d’impact](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-gere-mon-produit-et-son-impact/definir-et-mesurer-limpact/le-coach-la-startup-detat-et-la-mesure-dimpact.md)
   * [Comment répondre à un sponsor qui demande une roadmap produit ?](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-gere-mon-produit-et-son-impact/comment-repondre-a-un-sponsor-qui-demande-une-roadmap-produit.md)
+  * [Gérer sa fiche produit](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-gere-mon-produit-et-son-impact/gerer-sa-fiche-produit.md)
 * [💶 S'occuper de la gestion administrative et financière](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/README.md)
   * [Établir une convention/avenant](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/etablir-une-convention-avenant/README.md)
     * [Foire aux questions juridiques sur les conventions](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/etablir-une-convention-avenant/foire-aux-questions-juridiques-sur-les-conventions.md)
