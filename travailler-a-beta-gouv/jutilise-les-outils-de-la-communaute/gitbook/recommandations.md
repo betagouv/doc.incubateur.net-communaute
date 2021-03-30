@@ -1,4 +1,4 @@
-# Je suis les recommandations d'écritre
+# Je suis les recommandations d'écriture
 
 ## Vocabulaire
 
