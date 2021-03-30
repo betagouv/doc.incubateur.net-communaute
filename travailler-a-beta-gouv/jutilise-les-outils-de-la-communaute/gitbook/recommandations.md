@@ -56,7 +56,7 @@ Pour simplifier la lecture, plutôt que des parenthèses ou le point médian :
 * indiquer les deux genres pour les noms \( par exemple: "les salariées et les salariés"\) 
 * utiliser des formulations verbales à genre neutre \(Par exemple :  `« leur rôle : responsable de produit, informaticien·ne, coach, designer, chargé·e de développement,… »` devient `« leur rôle : porter un produit, développer, coacher, designer, déployer,… »` \).
 
-En dernier recours \(espace très limité comme twitter\), vous pouvez utilisez le [point médian](https://fr.wikipedia.org/wiki/Point_médian#Utilisation_dans_le_langage_non_sexiste) : « né·e ».
+En dernier recours \(espace très limité comme twitter\), vous pouvez utiliser le [point médian](https://fr.wikipedia.org/wiki/Point_médian#Utilisation_dans_le_langage_non_sexiste) : « né·e ».
 
 > Pour en savoir plus, le [Haut Conseil à l’Égalité entre les femmes et les hommes](http://www.haut-conseil-egalite.gouv.fr/) a élaboré un [Guide pratique pour une communication publique sans stéréotype de sexe](http://www.haut-conseil-egalite.gouv.fr/IMG/pdf/hcefh__guide_pratique_com_sans_stereo-_vf-_2015_11_05.pdf).
 
