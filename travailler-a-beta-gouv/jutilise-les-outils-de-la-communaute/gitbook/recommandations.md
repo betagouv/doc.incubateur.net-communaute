@@ -1,4 +1,4 @@
-# Je suis les recommandations d'écriture
+# Je suis les recommandations d'écritre
 
 ## Vocabulaire
 
@@ -12,9 +12,9 @@ On parle de personne « en situation de [handicap](http://www.legifrance.gouv.fr
 
 ### Éviter le jargon
 
-beta.gouv.fr est un réseau au carrefour du monde du numérique \(startups, communauté du libre, etc\) et de celui de l'administration bureaucratique, deux univers culturels portant en eux une série de valeurs, de principes et surtout, d'expressions linguistiques jargonneuses, souvent difficilement compréhensibles par celles et ceux qui n'en font pas partie. 
+beta.gouv.fr est un réseau au carrefour du monde du numérique \(startups, communauté du libre, etc\) et de celui de l'administration bureaucratique, deux univers culturels portant en eux une série de valeurs, de principes et surtout, d'expressions linguistiques jargonneuses, souvent difficilement compréhensibles par celles et ceux qui n'en font pas partie.
 
-Afin de faciliter l'intégration des nouvelles recrues et de fluidifier la communication avec des personnes qui ne baignent pas dans l'univers numérique ou administratif, nous recommandons de faire l'effort d'éviter ces habitudes de langage. 
+Afin de faciliter l'intégration des nouvelles recrues et de fluidifier la communication avec des personnes qui ne baignent pas dans l'univers numérique ou administratif, nous recommandons de faire l'effort d'éviter ces habitudes de langage.
 
 {% tabs %}
 {% tab title="Conseils pour éviter le jargon administratif" %}
@@ -69,6 +69,4 @@ Les guillemets français sont [`«`](http://unicode-table.com/fr/00AB/) et [`»`
 ### Points de suspension
 
 Les points de suspension sont [`…`](http://unicode-table.com/fr/2026/) et non `...` \(trois points\). Cette distinction est importante pour les sauts de ligne, les lecteurs d'écran et le copier-coller.
-
-### 
 
