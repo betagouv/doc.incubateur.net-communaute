@@ -73,3 +73,7 @@ Tu vois en bas à gauche qu'on est bien sur la bonne branche, et en haut à gauc
 
 Ensuite, un membre de l'équipe va de toute façon relire ce que tu as fait. Si tu as fait une erreur, ce n'est pas grave, tout est réparable. Si tout va bien, tes modifications seront vite publiées !
 
+{% page-ref page="../../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-gere-mon-produit-et-son-impact/gerer-sa-fiche-produit.md" %}
+
+
+

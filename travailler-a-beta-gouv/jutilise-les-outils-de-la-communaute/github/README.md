@@ -82,3 +82,7 @@ Dans tous les cas vous pouvez demander de l'aide sur Slack `#incubateur-help` ou
   * Soit tu cliques sur l'email reçu par email
   * Soit aller sur la page [https://github.com/betagouv](https://github.com/betagouv) et accepter l'invitation visile en haut
 
+{% page-ref page="../../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-gere-mon-produit-et-son-impact/gerer-sa-fiche-produit.md" %}
+
+
+
