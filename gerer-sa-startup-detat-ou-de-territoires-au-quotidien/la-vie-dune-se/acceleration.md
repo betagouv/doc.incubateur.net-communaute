@@ -42,8 +42,6 @@ Le Growth Hacking \(GH\) recouvre toutes les tactiques d'acquisition, de convers
 
 ### **Ressource utile : un modèle de grille d’évaluation utilisée en fin de phase de construction** <a id="ressource-utile-un-modele-de-grille-devaluation-utilisee-en-fin-de-phase-de-construction"></a>
 
-
-
 ## **Quel accompagnement possible ?** <a id="quel-accompagnement-possible"></a>
 
 L’accompagnement proposé par beta.gouv.fr vise à créer un environnement propre à la montée en compétence des équipes pour la réussite de la phase d’accélération.
@@ -67,3 +65,4 @@ Pour en savoir plus, vous pouvez vous référer à [la présentation générale 
 Dans une démarche de transparence, l'équipe Gamma partage [le récap de ses weekly](https://drive.google.com/drive/folders/1MK7Tt0fSe_Q10GwRxSb03C6XdwBmPwNV) à toute l'équipe beta. Vous pouvez également retrouver l'ensemble de l'actualité de Gamma en rejoignant le channel \#incubateur-accélération sur le slack beta.gouv.fr.
 
 Pour contacter l’équipe Gamma : gamma@beta.gouv.fr.
+
