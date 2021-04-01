@@ -1,6 +1,10 @@
 # Faire une demande de devis
 
-Ce service en ligne est en version bêta. Il a été proposé à l'usage depuis le lundi 26 octobre.
+Ce service en ligne est en version bêta. Il a été proposé à l'usage depuis le lundi 26 octobre 2020.
+
+{% embed url="https://airtable.com/shra8F0OUtXTC4t4Z" %}
+
+
 
 ### **Quels problèmes résoudre ?** <a id="quels-problemes-resoudre"></a>
 
