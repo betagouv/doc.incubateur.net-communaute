@@ -4,6 +4,8 @@
 [Accéder à l'outil de gestion des fiches produits](https://beta.gouv.fr/admin/#/)
 {% endhint %}
 
+![Capture d&apos;&#xE9;cran de la page d&apos;accueil](../../.gitbook/assets/capture.jpg)
+
 {% hint style="info" %}
 Besoin d'aide : [\#incubateur-help](https://startups-detat.slack.com/archives/C1W35DTBP)
 {% endhint %}
