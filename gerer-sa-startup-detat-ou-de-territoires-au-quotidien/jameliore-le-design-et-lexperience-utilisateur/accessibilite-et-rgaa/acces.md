@@ -13,7 +13,7 @@ Le programme Access est destiné aux Startups d'États du réseau beta.gouv.fr p
 * **passer un audit** d'accessibilité
 * **être en conformité** partielle ou totale.
 
-Ce programme est une expérimentation au sein de beta.gouv.fr.
+Ce programme est une expérimentation au sein de beta.gouv.fr depuis mars 2021.
 
 ## Un programme qui répond à des enjeux légaux
 
@@ -46,7 +46,7 @@ Découvrir le[ Kit d'accessibilité](https://doc.incubateur.net/design/ressource
 | 7. Évaluation du programme | ~Jour 60 | ~60 minutes |
 
 {% hint style="info" %}
-Ce programme peut être entièrement financé par beta.gouv.fr pour les Startups d'État en phase d'accélération ou en cours de transfert. Certains incubateurs souhaitent également le financer eux-mêmes.
+Ce programme peut être entièrement financé par beta.gouv.fr pour les Startups d'État en phase d'accélération ou en cours de transfert. L'étape 5 \(audit approfondi par un cabinet\) peut être financée par la DINUM si l'équipe ne dispose pas des ressources nécessaires \(5000€ en moyenne\). Certains incubateurs souhaitent également le financer eux-mêmes.
 {% endhint %}
 
 
