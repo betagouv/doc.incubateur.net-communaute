@@ -1,5 +1,9 @@
 # 2. Construction
 
+{% page-ref page="3-retours-dexperience-de-coachs.md" %}
+
+
+
 La **phase de construction** correspond aux 6 à 12 premiers mois de votre service. Votre premier objectif est d'avoir de l'impact le plus rapidement possible, en servant votre premier utilisateur ou en opérant votre première transaction. Vous allez également devoir lancer le plus rapidement possible votre solution numérique afin de la confronter à la réalité terrain dès que possible.
 
 Lire la description officielle de la phase de construction sur le site de beta.gouv.fr ️
@@ -33,8 +37,6 @@ Il est tentant de poursuivre les entretiens avec les utilisateurs et de prolonge
 {% endhint %}
 
 ​
-
-{% page-ref page="3-retours-dexperience-de-coachs.md" %}
 
 
 
