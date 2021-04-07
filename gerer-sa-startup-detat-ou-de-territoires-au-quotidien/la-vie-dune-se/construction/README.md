@@ -34,3 +34,7 @@ Il est tentant de poursuivre les entretiens avec les utilisateurs et de prolonge
 
 ​
 
+{% page-ref page="3-retours-dexperience-de-coachs.md" %}
+
+
+
