@@ -62,7 +62,9 @@ Ces deux comparaisons doivent-être effectuées successivement pour réconcilier
 1. identité du champ SUB
 2. identité des 6 champs de l'IP
 
-Contacté à ce sujet, le support de FranceConnect ne donne pas de bonnes pratiques sur la comparaison de l'IP avec les infos de votre système d'authentification. Vous pouvez donc décider librement de faire des comparaisons sensibles ou non à la casse, aux symboles de ponctuation, aux espaces etc... 
+Contacté à ce sujet, le support de FranceConnect ne donne pas de bonnes pratiques sur la comparaison de l'IP avec les infos de votre système d'authentification. Vous pouvez donc décider librement de faire des comparaisons sensibles ou non à la casse, aux symboles de ponctuation, aux espaces etc...
+
+On peut malgrés tout trouver un exemple d'algorithme de réconciliation en NodeJS sur un de leur dépôt de code sur github : https://github.com/france-connect/data-provider-example/blob/b767251ce458b6f01510cbc16ba17e205864422c/src/services.js#L133-L183
 
 {% hint style="warning" %}
 Il ne faut donc pas faire de réconciliation automatique sur base de l'email ou du numéro de téléphone, même si ce sont des identifiants uniques dans le système d'authentification pré-existant de votre système.  
