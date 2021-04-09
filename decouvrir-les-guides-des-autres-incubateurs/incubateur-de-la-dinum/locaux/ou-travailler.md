@@ -18,9 +18,9 @@ Des membres de la communauté Beta.gouv.fr travaillent un peu partout en France.
 
 [![Carte de la communaut&#xE9;](../../../.gitbook/assets/carte_communaute.png)](http://umap.openstreetmap.fr/fr/map/la-communaute-betagouv_498937)
 
-À Lyon, la start-up Registre de Preuve de Covoiturage paie un abonnement mensuel pour réserver 2 postes de travail dans l'espace de co-working Le Tuba. Ces postes sont mis à disposition de tous les membres de la communauté beta.gouv.fr qui en ferait la demande. Si cela t'intéresse, tu peux contacter Margot Sanchez \(margot.sanchez@beta.gouv.fr\) pour discuter avec elle de la possibilité de venir travailler au Tuba. 145 Cours Lafayette, 69006 Lyon
+À Lyon, la start-up Registre de Preuve de Covoiturage paie un abonnement mensuel pour réserver 2 postes de travail dans l'espace de co-working Le Tuba. Ces postes sont mis à disposition de tous les membres de la communauté beta.gouv.fr qui en ferait la demande. Si cela t'intéresse, tu peux contacter Margot Sanchez pour discuter avec elle de la possibilité de venir travailler au Tuba. 145 Cours Lafayette, 69006 Lyon
 
-À Bordeaux, Francis Chabouis \(francis.chabouis@beta.gouv.fr\) loue un bureau fermé et met à disposition des membres de la communauté 2 places de travail.
+À Bordeaux, Francis Chabouis loue un bureau fermé et met à disposition des membres de la communauté 2 places de travail.
 
 ## **Le Ground Control à Paris**
 
