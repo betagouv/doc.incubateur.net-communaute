@@ -6,9 +6,11 @@ description: >-
 
 # Certification des intrapreneurs
 
-{% page-ref page="cest-quoi-une-certification-de-competences.md" %}
+{% file src="../../../.gitbook/assets/methodologies-dentrepreneuriat-appliquees-aux-projets-dinnovation-competences-attestees-1-.pdf" caption="Fiche récapitulative de la certification" %}
 
 {% page-ref page="pourquoi-une-certification-des-competences-des-intras.md" %}
+
+{% page-ref page="cest-quoi-une-certification-de-competences.md" %}
 
 ## Préparer sa certification
 
@@ -25,12 +27,7 @@ Le déroulé de cette certification pour les intras vise à évaluer ces 7 comp�
 ## Prérequis d'une certification
 
 * Être ou avoir été agent public dans une Startup d'Etat ou de territoire
-* Avoir été sur ces fonctions à temps plein pendant 6 mois ou à temps partiel pendant 12 mois;
-* Avoir réalisé les phases d'investigation et de construction.
-
-{% hint style="info" %}
-Source officielle : “[Méthodologies d’entrepreneuriat appliquées aux projets d’innovation](https://slack-redir.net/link?url=https%3A%2F%2Fcertificationprofessionnelle.fr%2Frecherche%2Frs%2F3536&v=3)”.  Seules les modalités d’évaluation spécifiées sont adaptées à Bêta.
-{% endhint %}
+* Avoir été sur ces fonctio“[Méthodologies d’entrepreneuriat appliquées aux projets d’innovation](https://slack-redir.net/link?url=https%3A%2F%2Fcertificationprofessionnelle.fr%2Frecherche%2Frs%2F3536&v=3)”.  Seules les modalités d’évaluation spécifiées sont adaptées à Bêta.
 
 ## Déroulé d'une certification
 
