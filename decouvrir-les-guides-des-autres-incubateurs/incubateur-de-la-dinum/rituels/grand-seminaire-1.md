@@ -50,8 +50,8 @@ Pendant cette journée, les participant·e·s qui le souhaitent définissent l�
 
 #### Exemple de programme du grand séminaire de décembre 2020 :
 
-* 8h00-9h30 : Venez prendre votre petit déjeuner dans le lounge pour retrouver vos collègues et faire connaissance avec de nouvelles personnes de la communauté
-* 9h30-10h : RDV dans la salle plénière où nous compléterons et présenterons ensemble le programme de la journée.
+* 8h00-9h00 : Venez prendre votre petit déjeuner dans le lounge pour retrouver vos collègues et faire connaissance avec de nouvelles personnes de la communauté
+* 9h00-10h : RDV dans la salle plénière où nous compléterons et présenterons ensemble le programme de la journée.
 * 10h - 16h30 : Le forum ouvert est ouvert !
 * 16h30 : RDV dans la salle plénière pour les mots de la fin
 
@@ -69,6 +69,22 @@ Les 7 choses à savoir pour passer une bonne journée sur Gather.town :
    Vous êtes coincé·e·s ou vous n'entendez plus ? Ça arrive… Rechargez votre page !
 
    A distance 
+
+#### Organiser un grand séminaire à distance
+
+1. Rassembler une petite équipe de volontaire \(de 3 à 5 personnes, c'est suffisant\)
+2. Caler un date pour la prochaine séminaire
+3. Passer en revue les enseignements issus de débrief de l'événement précédent
+4. Se répartir le travail. Notamment :
+   1. la communication sur l'événement
+   2. la configuration de l'espace virtuel \(par exemple : gather.town et miro.com\)
+   3. la formation des participant·e·s à aux outils
+   4. l'animation de l'événement
+5. Faire le travail de préparation
+6. Vivre l'événement
+7. Faire un débrief.
+
+Les supports de travail \(et notamment les notes des débriefs précédents\) sont stockés [sur le drive de beta](https://drive.google.com/drive/folders/1c7HLdNmzB9vQNJ-xnWmMTtBkb0RWH_h6).
 
 ## En présentiel à la campagne 🌳🧑‍🤝‍🧑🎉
 
