@@ -34,7 +34,7 @@ description: "Tu nous quittes ? On espère que tu as passé un moment positif av
 
 ## Ton adresse email beta.gouv.fr
 
-Si tu n'as pas supprimé ton compte email, il y aura une suppression automatique de l'adresse email @beta.gouv.fr 6 mois après la date de fin de contrat. Tu auras un rappel tous les mois et tu pourras procéder toi même à la suppression du compte email.
+Si tu n'as pas supprimé ton compte email, il y aura une suppression automatique de l'adresse email @beta.gouv.fr après la date de fin de contrat. Tu devrais recevoir un rappel lorsque la date de fin de mission s'approche.
 
 ## Slack
 
