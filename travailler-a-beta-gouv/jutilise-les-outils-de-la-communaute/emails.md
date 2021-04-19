@@ -21,7 +21,7 @@ Muni-toi de :
 
 ### Choisir son client de messagerie
 
-Choisis sur quel logiciel de messagerie tu veux recevoir et envoyer tes emails. Par exemple : 
+Choisis sur quel logiciel de messagerie tu veux recevoir et envoyer tes emails. Par exemple :
 
 * [Mail](https://support.apple.com/fr-fr/mail) \(OS X / iOS\) : le client mail par défaut d'Apple
 * [Thunderbird](https://www.thunderbird.net/fr/) \(OS X / Windows / Linux\) : le client libre de Mozilla qu'on ne présente plus
@@ -33,7 +33,7 @@ Choisis sur quel logiciel de messagerie tu veux recevoir et envoyer tes emails. 
 
 ### **Configurer la réception et l'envoi d'emails**
 
-Il existe des tutoriels détaillés pour certains clients mails : 
+Il existe des tutoriels détaillés pour certains clients mails :
 
 * Apple Mail : [OSX](https://docs.ovh.com/fr/emails/guide-configuration-mail-de-mac-el-capitan/) et [iOS](https://docs.ovh.com/fr/emails/mail-mutualise-guide-configuration-iphone-ios-91/)
 * [Gmail](https://docs.ovh.com/fr/emails/mail-mutualise-guide-configuration-dun-e-mail-mutualise-ovh-sur-linterface-de-gmail/)
@@ -50,7 +50,7 @@ Pour les autres logiciels, la configuration se fait de manière suivante :
 | :--- | :--- |
 | Serveur | ssl0.ovh.net |
 | Port | 993 |
-| Méthode de chiffrement | SSL  |
+| Méthode de chiffrement | SSL |
 | Nom d'utilisateur | ton adresse beta.gouv.fr |
 | Mot de passe | le mot de passe de ton email |
 
@@ -73,18 +73,18 @@ Tu peux consulter tes mails directement sur [RoundCube](https://mail.ovh.net/rou
 ## Envoyer des mails en masse
 
 {% hint style="danger" %}
-N'envoie pas d'emails en masse depuis ta boîte mail beta.gouv. 
+N'envoie pas d'emails en masse depuis ta boîte mail beta.gouv.
 
 **Utilise un service dédié comme SendInBlue ou Mailjet.**
 {% endhint %}
 
-L'envoi en masse peut lever des alertes chez nos fournisseurs d'infrastructure : en gros si tu abuses, tu risques de bloquer l'envoi de mails pour tous les copains ! 
+L'envoi en masse peut lever des alertes chez nos fournisseurs d'infrastructure : en gros si tu abuses, tu risques de bloquer l'envoi de mails pour tous les copains !
 
 Il existe des services adaptés pour les envois en masse : SendInBlue, Mailjet, etc. Tu peux demander conseil sur \#incubateur-ops.
 
 ## Configurer sa signature de mail @beta.gouv.fr
 
-Voici un exemple de signature : 
+Voici un exemple de signature :
 
 > Jean LOUIS  
 > Chargé de Développement  
@@ -95,5 +95,5 @@ Ta signature ne doit pas mentionner la DINUM, pour éviter de porter à confusio
 
 ## Retrouver mon mot de passe
 
-Si tu as perdu ton mot de passe, il faut passer par OVH pour le récupérer. Tu peux demander de l'aide sur  \#incubateur-secretariat sur Slack.
+Si tu as perdu ton mot de passe, il faut passer par OVH pour le récupérer. Tu peux demander de l'aide sur \#incubateur-secretariat sur Slack.
 

@@ -41,6 +41,8 @@
   * [La prise de décision](travailler-a-beta-gouv/actions-transverses/la-prise-de-decision.md)
 * [🔧 Utiliser les outils de la communauté](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/README.md)
   * [Mise à jour de mes informations](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/mise-a-jour-de-mes-informations.md)
+  * [DashLord](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/dashlord/README.md)
+    * [Questions-réponses](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/dashlord/questions-reponses.md)
   * [Outils de secrétariat](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/outils.md)
   * [Emails](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/emails.md)
   * [Github](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/github/README.md)
