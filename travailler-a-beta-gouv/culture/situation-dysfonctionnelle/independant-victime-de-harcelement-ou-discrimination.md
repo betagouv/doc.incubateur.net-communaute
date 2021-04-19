@@ -11,9 +11,7 @@ description: >-
 
 1. documenter ces agissements : email, photos, captures d’écran…
 2. trouver des témoins de ces agissements : collègues, membres de bêta, utilisateurs…
-3. contacter, prendre rendez-vous et adresser ces documents à la direction des ressources humaines de l’administration de l’agent concerné :
-   * pour les agents travaillant à la DINUM : DRH de la DINUM \(rh-dinum\[ @ \]pm.gouv.fr\).
-   * Pour les autres administrations demander les coordonnées auprès de l'équipe de co-animation de mon incubateur.
+3. contacter, prendre rendez-vous et adresser ces documents à l'entreprise qui assure mon portage. Elle pourra alerter l'administration partenaire ;
 4. en parler à mes collègues, à mon coach,  à mon co-animateur ou co-animatrice :
    * Le harcèlement moral ou sexuel, quand il est constitué, est un délit. Ils auront une obligation légale de le dénoncer quand il est porté à leur connaissance.
    * Vous pourrez rechercher les meilleurs moyens pour te protéger le plus rapidement possible. Plusieurs mesures conservatoires pourront être étudiées : sortir l’agent de l’équipe, interdire les échanges directs \(physiques ou numériques\)…
@@ -21,7 +19,7 @@ description: >-
 
 ## Apprentissages :
 
-* Pour ne pas perdre de temps, il peut être utile de contacter l'équipe de co-animation et la DRH en même temps. Les délais de traitement pour ce type de procédure peuvent être long.
+* Pour ne pas perdre de temps, il peut être utile de contacter l'équipe de co-animation et l'entreprise de portage en même temps. Les délais de traitement pour ce type de procédure peuvent être long.
 * La DRH de l’agent concernée pourra enclencher les processus internes liés à ce type de comportement \(enquête interne, mesures préventives…\).
 * Nous ne savons pas encore précisément et formellement ce qu’on est censés dire et faire quand ces situations surviennent. Dans la mesure où on peut avoir des marges de manœuvre et d’autonomie pour mettre en place des dispositifs de prévention et d’aiguillage, on le fera et on se déclarera disposés à le faire, mais au-delà, il nous manque encore des informations claires.
 
