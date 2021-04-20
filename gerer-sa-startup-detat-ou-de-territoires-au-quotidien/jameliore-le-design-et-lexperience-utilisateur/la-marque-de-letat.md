@@ -74,9 +74,7 @@ Plusieurs SE sont en contact avec le SIG pour trouver un compromis permettant de
 
 ### La typographie <a id="la-typographie"></a>
 
-La typographie Marianne est uniquement dédiée au print et n'est pas destinée au web.
-
-La typographie pour le web est encore en cours de développement. Calendrier prévu pour septembre 2020.
+La typographie Marianne a été développée pour un usage par les acteurs de la sphère étatique. Les fichiers sont [téléchargeables sur ce lien](https://gouvfr.atlassian.net/wiki/spaces/DB/pages/222331452/Designers).
 
 ## Exemples d’applications <a id="Exemples-d&#x2019;applications"></a>
 
