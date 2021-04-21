@@ -69,6 +69,7 @@
   * [Équipe d'animation](travailler-a-beta-gouv/je-minforme-sur-la-vie-de-la-communaute/equipe-danimation/README.md)
     * [Le rôle de la co-animatrice vis-à-vis d'une équipe de Start-up d'Etat ou de Territoires](travailler-a-beta-gouv/je-minforme-sur-la-vie-de-la-communaute/equipe-danimation/le-role-de-la-co-animatrice-vis-a-vis-dune-equipe-de-start-up-detat-ou-de-territoires.md)
   * [Le club des intrapreneurs](travailler-a-beta-gouv/je-minforme-sur-la-vie-de-la-communaute/le-club-des-intrapreneurs.md)
+* [Coacher une startup d'état](travailler-a-beta-gouv/coacher-une-startup-detat.md)
 * [🙋 Quitter beta.gouv](travailler-a-beta-gouv/au-revoir.md)
 
 ## Gérer sa Startup d'Etat au quotidien <a id="gerer-sa-startup-detat-ou-de-territoires-au-quotidien"></a>
