@@ -4,13 +4,13 @@
 
 Pour rejoindre : 
 
-* Tu dois te rendre sur [https://visio.incubateur.net/b/adm-7nc-ean](https://visio.incubateur.net/b/adm-7nc-ean)
+* Tu dois te rendre sur [https://gather.town/app/jztgra1ioCseFdYL/beta.gouv](https://gather.town/app/jztgra1ioCseFdYL/beta.gouv)
 * Saisir ton prénom et cliquer sur "Rejoindre"
 * Rejoindre en "Microphone"
 * Autoriser l'audio 
 * Puis Accepter le test en cliquant "Oui
 
-### C'est bon c'est jeudi 12h ? on y va : https://visio.incubateur.net/b/adm-7nc-ean
+### C'est bon c'est jeudi 12h ? on y va : [https://gather.town/app/jztgra1ioCseFdYL/beta.gouv](https://gather.town/app/jztgra1ioCseFdYL/beta.gouv)
 
 
 
