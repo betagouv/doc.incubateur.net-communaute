@@ -27,7 +27,7 @@ Grâce à ton compte, tu pourras nous rejoindre sur [Slack](../jutilise-les-outi
 * [ ] Présente-toi sur Slack dans [`#general`](https://startups-detat.slack.com/messages/general) ! 👋
 * [ ] Découvre ton équipe :
   * [ ] Rejoins ses canaux sur Slack ;
-  * [ ] Imprègne-toi de la mission sur la fiche produit.
+  * [ ] Imprègne-toi de la mission sur la **fiche produit** disponible sur beta.gouv.fr/startups.
 * [ ] Découvre s'il y a d'autres membres de la communauté près de chez toi sur la [carte des membres](https://doc.incubateur.net/communaute/dinum/locaux/ou-travailler#beta-gouv-fr-en-dehors-de-paris) ;
 * [ ] Participe à [l'hebdo beta.gouv](../../decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/rituels/standup.md), rassemblement du réseau beta.gouv tous les jeudis à midi ;
 * [ ] Ajoute ton expérience chez beta.gouv.fr sur ton profil Linkedin ;
@@ -41,6 +41,4 @@ Grâce à ton compte, tu pourras nous rejoindre sur [Slack](../jutilise-les-outi
 {% page-ref page="../culture/" %}
 
 {% page-ref page="to-do-darrivee.md" %}
-
-{% page-ref page="../culture/presenter-de-beta.gouv.fr.md" %}
 
