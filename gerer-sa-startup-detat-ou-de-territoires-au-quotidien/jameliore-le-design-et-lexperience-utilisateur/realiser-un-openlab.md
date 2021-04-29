@@ -1,41 +1,54 @@
-# Réaliser un openlab
+---
+description: >-
+  Mettre en place un atelier collaboratif entre une équipe, des usagers et des
+  parties prenantes.
+---
 
-Cet article a été écrit suite à l’organisation du premier OpenLab de la startup d’état Signalement, le 6 septembre 2018. Il ne s’agit que d’une proposition.
+# Réaliser un OpenLab
 
-## En un mot <a id="en-un-mot"></a>
+{% hint style="info" %}
+Cette page fait suite  à l’organisation du premier OpenLab de la startup d’État Signalement en 2018. Il ne s’agit que d’une proposition.
+{% endhint %}
 
-Dans cette page, on considère qu'un OpenLab c’est un atelier de travail collaboratif rassemblant des utilisateurs.trices d’une Startup d'État et toutes ses parties prenantes pendant une journée.
+## Qu'est-ce qu'un OpenLab ? <a id="en-un-mot"></a>
 
-_Par exemple : A l’OpenLab Signalement, ii y avait 50 personnes d’horizons différents : Les associations de consommateurs, les professionnels, les agents publics de la DGCCRF..._
+{% hint style="success" %}
+Un OpenLab est un atelier qui rassemble usagers, équipe et parties prenantes pour effectuer un travail collaboratif.
+{% endhint %}
 
-## Pourquoi organiser un premier OpenLab ? <a id="pourquoi-organiser-un-premier-openlab"></a>
+_Par exemple : à l’OpenLab Signalement, il y avait 50 personnes d’horizons différents : associations de consommateurs, professionnels, agents publics de la DGCCRF..._
 
-Les objectifs d’un premier OpenLab sont :
+## Pourquoi organiser un OpenLab ? <a id="pourquoi-organiser-un-premier-openlab"></a>
 
-* Officialiser le lancement de la Startup d'État
-* Embarquer le maximum d’utilisateur ou de partie prenante dans la démarche
-* Repérer les acteurs les plus motivés, qui constitueront le premier cercle d’utilisateurs tests, ceux qui vont faire des retours utiles sur le produit
-* Crédibiliser la démarche / le projet auprès des parties prenantes
-* Faire comprendre aux parties prenantes que leurs besoins, craintes, etc sont pris en compte \(et accessoirement faire comprendre qu’il n’y a pas de cahier des charges et que le produit est là pour rendre un véritable service à ses usagers, faciliter leur vie, etc.\)
-* Commencer à avoir des retours sur la construction du produit
+Les objectifs d’un OpenLab sont :
+
+* Officialiser le lancement de la Startup d'État.
+* Embarquer le maximum d’utilisateur ou de partie prenante dans la démarche.
+* Repérer les acteurs les plus motivés. Ils pourront constituer le premier cercle d’utilisateurs tests, qui fera des retours utiles sur le produit.
+* Crédibiliser le projet auprès des parties prenantes.
+* Faire comprendre aux parties prenantes que leurs besoins et craintes sont pris en compte. 
+* Sensibiliser à la démarche beta.gouv.fr : le produit doit rendre un véritable service à ses usagers.
+* Obtenir des premiers retours sur le produit.
 
 ## Quand faire l’OpenLab ? <a id="quand-faire-lopenlab"></a>
 
 L’OpenLab doit être réalisé une fois que le problème de la Startup d'État a été clairement identifié et validé.
 
-_Par exemple : Pour l’OpenLab signalement, nous avions rencontrés beaucoup de parties prenantes avant : associations de consommateurs, inter-pro de la grande distribution, interpro de la restauration, directeur qualité d’une grande enseigne..._
+_Par exemple : Pour l’OpenLab Signalement, nous avions rencontrés beaucoup de parties prenantes avant : associations de consommateurs, inter-pro de la grande distribution, interpro de la restauration, directeur qualité d’une grande enseigne..._
 
-## Déroulé de l’OpenLab <a id="deroule-de-lopenlab"></a>
+## Déroulé d'un OpenLab <a id="deroule-de-lopenlab"></a>
 
-Le premier OpenLab Signalement c’est fait en une journée, mais une demie-journée est probablement suffisante.
+Le premier OpenLab Signalement s’est fait en une journée. Une demie-journée était probablement suffisante.
 
 ### Accueil / Introduction <a id="accueil-introduction"></a>
 
-Un sponsor \(le plus important possible\) lance la journée de l’openLab \(_pour l’openLab Signalement la Directrice Générale de la DGCCRF a fait une intervention_\). L’intraprenneur.euse présente le produit. Un faciltateur.trice explique le déroulé de la journée et le premier atelier.
+* Un sponsor \(le plus important possible\) lance la journée de l’openLab \(_pour l’openLab Signalement la Directrice Générale de la DGCCRF a fait une intervention_\). 
+* L’intraprenneur.euse présente le produit. 
+* Un faciltateur.trice explique le déroulé de la journée et le premier atelier.
 
 ### 1er atelier - Matin \(2h\) <a id="1er-atelier-matin-2-h"></a>
 
-Partager les participant.e.s par groupe de 7/8 pers \(max. 10\). par typologie d’utilisateur.trice plutôt que mélangé.
+Grouper les participant.e.s par typologie d’utilisateur.trice _\(par exemple  7/8 personnes\)._
 
 #### Travail par groupe <a id="travail-par-groupe"></a>
 
@@ -45,7 +58,7 @@ Demander de réfléchir aux questions suivantes :
 * A quoi le produit pourrait vous servir ?
 * Quelles sont vos craintes ?
 
-Fournir un espace avec Post-its et tableau. Si possible un facilitateur.trice par groupe \(ou pour deux groupes\) Rappeler que le groupe doit restituer et choisir un rapporteur.trice. Demander de noter un bénéfice par post-it. Si trop de bénéfices \(Plus 10\), demander au groupe d’en sélectionner.
+Fournir un espace avec Post-its et tableau. Si possible un facilitateur.trice par groupe \(ou pour deux groupes\) Rappeler que le groupe doit restituer et choisir un rapporteur.trice. Demander de noter un bénéfice par post-it. Si trop de bénéfices \(plus 10\), demander au groupe d’en sélectionner.
 
 #### Restitution devant tout le monde <a id="restitution-devant-tout-le-monde"></a>
 
@@ -80,6 +93,8 @@ Donner rendez vous aux participants pour un prochain OpenLab quelques semaines p
 * 2 et 4 les niveaux intermédiaire.
 
 Demander leur de voter avec la main tous en même temps…
+
+## Retour d'expérience
 
 Une grande partie du travail consiste à trouver le maximum de participant.e.s pour l’OpenLab. Avant l’OpenLab, lister les thèmes qui peuvent ressortir pour faciliter le travail au jour J.
 

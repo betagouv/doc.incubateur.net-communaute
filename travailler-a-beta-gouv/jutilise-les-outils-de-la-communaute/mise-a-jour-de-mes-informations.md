@@ -1,4 +1,4 @@
-# Mise à jour de mes informations
+# Mettre à jour mes informations
 
 ## Mettre à jour sa date de suivie sur [https://beta.gouv.fr/admin](https://beta.gouv.fr/admin)
 
