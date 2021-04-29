@@ -52,10 +52,10 @@ Les équipes et les individus ont le **droit à l'erreur**, et sont même invit�
 {% hint style="success" %}
 ### Protocole de gestion des actions transverses
 
-* Quand un sujet est partagé entre plusieurs personnes il y a un canal pour exprimer des demandes : ça peut être “faire la vaisselle”, “animer le standup”, “intervention DNS” ou “répondre à un contact entrant”. 
+* Quand un sujet est partagé entre plusieurs personnes il y a un canal pour exprimer des demandes : ça peut être “faire la vaisselle”, “animer l'hebdo beta.gouv”, “intervention DNS” ou “répondre à un contact entrant”. 
 * Toute personne qui se sent compétente sur le sujet peut dire “**je prends**” si c’est une action 1 personne, “volontaire” si N personnes. 
 * **Si personne ne prend explicitement ça ne se fera pas** \(c’est important de respecter ça aussi pour responsabiliser\). 
-* À moins que ça soit une action visible \(vaisselle, standup\) quand on a fini la tâche on l’annonce
+* À moins que ça soit une action visible \(vaisselle, hebdo beta.gouv\) quand on a fini la tâche on l’annonce
 {% endhint %}
 
 {% hint style="info" %}

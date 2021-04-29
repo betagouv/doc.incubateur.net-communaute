@@ -1,37 +1,45 @@
-# Revue d’avancement du jeudi \(Stand-up\)
+---
+description: 'Le rassemblement hebdomadaire du réseau beta.gouv, tous les jeudis à midi !'
+---
 
-L’incubateur, en tant qu’organisation, est un produit vivant construit par ses membres. La revue de portefeuille, dit « le stand-up », est le rassemblement hebdomadaire de la communauté pour partager avec ses pairs sur les avancées de chaque équipe, leur impact, aussi bien que sur les aspects transverses et stratégiques du collectif.
+# L'hebdo beta.gouv
 
-Les personnes extérieures qui souhaitent nous découvrir sont les bienvenues, à l'invitation d'une équipe ou du collectif.
+Tous les jeudis à midi, la communauté beta.gouv se donne rendez-vous pour une revue rapide des activités des membres du réseau. L'objectif : partager les avancées hebdomadaires et les blocages de chaque équipe et de chaque incubateur. 
 
-![](../../../.gitbook/assets/image.png)
+Ce moment n'est pas obligatoire, et l'ensemble des annonces qui y sont faites sont relayées dans l'info-lettre hebdomadaire beta.gouv. 
+
+_**Les personnes extérieures qui souhaitent nous découvrir sont les bienvenues, à l'invitation d'une équipe ou du collectif.**_
 
 ## Horaire et lieu
 
-Tous les jeudis à 12h dans l’open space à Ségur, pour une durée variable selon le nombre de produits et de sujets transverses.
+Tous les jeudis à 12h sur l'outil Gather.Town, pour une durée variable selon le nombre de personnes présentes et de sujets transverses. 
 
 > À titre indicatif, la durée est généralement comprise entre 25 et 40 minutes.
 
-## Pourquoi
+Pour rejoindre l'hebdo beta.gouv : 
 
-Partager les avancées hebdomadaires et les blocages de chaque service et de l'incubateur, de manière à éviter les silos et à rester focalisés sur l’usager.
+* Rends-toi sur [https://gather.town/app/jztgra1ioCseFdYL/beta.gouv](https://gather.town/app/jztgra1ioCseFdYL/beta.gouv)
+* Saisis ton prénom, choisis ton personnage
+* Configure ton microphone, ta caméra et ton audio 
+* Déplace toi avec les flèches de ton clavier en suivant les flèches pour rejoindre l'espace où se réunit l'hebdo beta.gouv
 
-_Note : le stand-up n’est pas une instance de contrôle où vous faites du reporting à votre hiérarchie. Nous considérons en effet que les principaux pilotes des services développés dans le cadre du programme beta.gouv.fr sont les utilisateurs._
+![L&apos;hebdo beta.gouv sur Gather.Town](../../../.gitbook/assets/image%20%2820%29.png)
 
-## Stand-up « Comment »
+## L'hebdo beta.gouv :  « Comment »
 
 ### Avant
 
-* Pensez à préparer votre présentation et vos sujets à l'avance, qu'y a-t-il d'intéressant pour les autres \(accomplissements\) ? pour vous \(blocages\) ? sur quoi avez vous besoin d'aide ?
-* Vous n’êtes pas là ? Faites passer votre message sur l'outil de messagerie instantanée Slack \(avant 11h50 !\) ;
+* Pensez à préparer votre présentation et vos sujets à l'avance, qu'y a-t-il d'intéressant pour les autres \(accomplissements\) ? pour vous \(blocages\) ? sur quoi avez vous besoin d'aide ? ;
+* Vous n’êtes pas là ? Faites passer votre message dans l'infolettre interne ;
 * Invitez les nouvelles et les nouveaux de votre équipe à se présenter.
 
 ### Pendant
 
-* Lancer sur un écran visible le [logiciel de stand-up](http://stand-up.surge.sh/) \([code disponible sur GitHub](https://github.com/sgmap/standup/)\) ;
-* Nouvelles, nouveaux, visiteuses, visiteurs : **présentez-vous** :\)
-* Équipes : c’est au maximum **1min** par **service**, dont **5-10s** pour le _présenter brièvement_ : Évitez les **acronymes**. Si vous ne pouvez pas, traduisez-les. Si vous n’avez rien à dire, dites-le et passer votre tour. **Évitez le dialogue** pendant le stand-up ;
-* Annonces transverses : c’est au maximum **5min**, tout le monde compris.
+* Désigner un·e volontaire pour : 
+  * La facilitation de l'hebdo :  animer l'hebdo, en rappeler les règles et les faire respecter ;
+  * La gestion du temps : gérer le chronomètre.
+* Nouvelles, nouveaux, visiteuses, visiteurs : **présentez-vous** :\).
+* C’est au maximum **1min** par **personne**, dont **5-10s** pour vous _présenter brièvement._ Evitez les **acronymes**. Si vous ne pouvez pas, traduisez-les. Si vous n’avez rien à dire, dites-le et passer votre tour. **Évitez le dialogue** pendant l'hebdo.
 
 ### Après
 
@@ -39,12 +47,7 @@ _Note : le stand-up n’est pas une instance de contrôle où vous faites du rep
 * **Dialoguez**, si vous voulez, avec qui vous voulez, comme vous voulez ;
 * Va-t-on **déjeuner** ?
 
-## Rôles nécessaires
 
-* **Facilitation** : animer le stand-up, en rappeler les règles et les faire respecter ;
-* **Gestion du temps** : gérer le chronomètre, s'assurer qu'il est visible par l'ensemble des participant·e·s.
 
-## Amélioration continue
-
-Tout ce qui est décrit ci-dessus peut être modifié en \[\[séminaire\]\].
+![Avant mars 2020, nous organisions chaque semaine un Stand-up dans nos locaux](../../../.gitbook/assets/image.png)
 

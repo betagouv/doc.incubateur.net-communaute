@@ -29,7 +29,7 @@ Grâce à ton compte, tu pourras nous rejoindre sur [Slack](../jutilise-les-outi
   * [ ] Rejoins ses canaux sur Slack ;
   * [ ] Imprègne-toi de la mission sur la fiche produit.
 * [ ] Découvre s'il y a d'autres membres de la communauté près de chez toi sur la [carte des membres](https://doc.incubateur.net/communaute/dinum/locaux/ou-travailler#beta-gouv-fr-en-dehors-de-paris) ;
-* [ ] Participe au [standup de l'incubateur](../../decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/rituels/standup.md), tous les jeudi à midi en visio ;
+* [ ] Participe à [l'hebdo beta.gouv](../../decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/rituels/standup.md), rassemblement du réseau beta.gouv tous les jeudis à midi ;
 * [ ] Ajoute ton expérience chez beta.gouv.fr sur ton profil Linkedin ;
 * [ ] Abonne toi à [l'agenda public de l'incubateur](https://calendar.google.com/calendar/embed?src=0ieonqap1r5jeal5ugeuhoovlg%40group.calendar.google.com&ctz=Europe/Paris) pour suivre les événements de la communauté ; 
 * [ ] Participe à un 🛫 atelier d'embarquement beta.gouv.fr :

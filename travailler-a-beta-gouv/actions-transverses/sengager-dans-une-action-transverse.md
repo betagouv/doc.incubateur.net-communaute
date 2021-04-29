@@ -1,6 +1,6 @@
 # S'engager dans une action transverse
 
-### En tant que membre de bêta, je souhaite savoir comment fonctionnent les actions transverses \(taskforces\) au sein de la communauté <a id="En-tant-que-membre-de-b&#xEA;ta-souhaitant-savoir-comment-fonctionne-les-actions-transverses"></a>
+### En tant que membre de beta.gouv, je souhaite savoir comment fonctionnent les actions transverses \(taskforces\) au sein de la communauté <a id="En-tant-que-membre-de-b&#xEA;ta-souhaitant-savoir-comment-fonctionne-les-actions-transverses"></a>
 
 #### 1.Pourquoi participer aux actions transverses de beta.gouv ? <a id="1-Est-ce-que-j&#x2019;ai-le-droit-de-proposer-ou-de-participer-aux-actions-transverses-de-betagouv-"></a>
 
@@ -32,7 +32,7 @@ Voici quelques conseils pour t’aider à participer à des actions transverses 
 
 * Chaque carte du [trello “communauté”](https://trello.com/b/VfWw2XPM/betagouvfr-communaut%C3%A9) correspond à une action transverse. Chacune de ces cartes référence les membres qui y participent. Tu peux donc les contacter directement pour proposer ton aide ou manifester ton intérêt.
 * Tu peux également proposer spontanément ton aide dans les salons que tu suis sur Slack. Par exemple, tu pourrais publier dans \#formation-no-code : “Bonjour, j’adore les outils no-code et notamment airtable. Comment est-ce que je peux aider?”
-* Il y a régulièrement des appels à participation lors des [Stand-ups de beta.gouv du jeudi midi](https://doc.incubateur.net/communaute/incubateur-de-la-dinum/nos-rituels/standup-invites), également relayé dans la lettre d’info hebdomadaire. Tu pourras te manifester auprès du ou de la collègue ayant demandé de l’aide.
+* Il y a régulièrement des appels à participation lors des [Hebdos beta.gouv du jeudi midi](../../decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/rituels/standup.md), également relayé dans la lettre d’info hebdomadaire. Tu pourras te manifester auprès du ou de la collègue ayant demandé de l’aide.
 
 #### 5. Mais si je veux proposer une action transverse qui ne semble pas encore exister? <a id="5-Mais-si-je-veux-proposer-une-action-transverse-qui-ne-semble-pas-encore-exister"></a>
 
@@ -54,5 +54,5 @@ Afin que toute la communauté puisse suivre l’avancée de ton action transvers
   Tu peux demander l’accès à ce Trello sur \#general ou à [dinum@beta.gouv.fr](mailto:dinum@beta.gouv.fr).
 
 * documenter ta carte trello “Communauté” au fil de l’eau ;
-* partager les galères, victoires et demandes d’aide lors des stand-ups et/ou sur la lettre d’information hebdo. Le lien vers la lettre d’info est disponible tous les mardi après-midi sur \#general.
+* partager les galères, victoires et demandes d’aide lors des hebdos beta.gouv et/ou sur la lettre d’information hebdo. Le lien vers la lettre d’info est disponible tous les mardi après-midi sur \#general.
 
