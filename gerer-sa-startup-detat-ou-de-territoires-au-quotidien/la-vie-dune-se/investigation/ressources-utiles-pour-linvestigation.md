@@ -16,6 +16,8 @@
 
 **Ressource pré-incub MTES** [https://docs.google.com/document/d/19Pj8nB\_FN4lBDqniJEMe1\_j8WLEu\_QCOIehal3r4WhM/edit\#](https://docs.google.com/document/d/19Pj8nB_FN4lBDqniJEMe1_j8WLEu_QCOIehal3r4WhM/edit#) modèle de présentation finale : [https://docs.google.com/presentation/d/1LHG2EQ\_xFRJMfVxOb4Dov3sI7KGffyyeh5swNpKg8WU/edit\#slide=id.p6](https://docs.google.com/presentation/d/1LHG2EQ_xFRJMfVxOb4Dov3sI7KGffyyeh5swNpKg8WU/edit#slide=id.p6)
 
+**Ressource pour accompagner les équipes, Atelier numérique du Ministère de la culture :**  [https://drive.google.com/file/d/1pc8DpQ0xTvdRD47uy6oDv6AE2Xa8NDj7/view?usp=sharing](https://drive.google.com/file/d/1pc8DpQ0xTvdRD47uy6oDv6AE2Xa8NDj7/view?usp=sharing)
+
 **Chaîne Slack**: \#incubateur-pré-incub
 
 ### Investigation - Commande ministérielle
