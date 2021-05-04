@@ -32,10 +32,10 @@ _Taux journalier, HT, hors marge_
 
 | Postes | Reco | Bas | Haut |
 | :--- | :--- | :--- | :--- |
-| Chargé.e de déploiement junior | **250** | 200 | 300 |
+| Chargé.e de déploiement junior | **300** | 250 | 300 |
 | Chargé.e de déploiement expérimenté | **450** | 300 | 600 |
 |  |  |  |  |
-| Développeur.e junior | **500** | 350 | 550 |
+| Développeur.e junior | **400** | 350 | 550 |
 | Développeur.e expérimenté.e | **600** | 550 | 700 |
 | Lead développeur.e \(/CTO\) | **750** | 650 | 850 |
 |  |  |  |  |
@@ -45,16 +45,14 @@ _Taux journalier, HT, hors marge_
 | Mentor \(&gt; 10 ans\) | **1100** | 900 | 1100 |
 |  |  |  |  |
 | Product owner junior | **400** | 350 | 450 |
-| Product owner expérimenté.e | **550** | 500 | 600 |
-|  |  |  |  |
-| Responsable de produit \(intrapreneur.e\) | **700** | 600 | 800 |
+| Product owner expérimenté.e | **550** | 500 | 700 |
 |  |  |  |  |
 | Illustrateur / graphiste \(web, print\) | **400** | 300 | 500 |
 | UI designer \(maquettes\) | **350** | 400 | 450 |
 |  |  |  |  |
 | UX designer junior \(- de 3 ans\) | **375** | 300 | 450 |
 | UX designer expérimenté.e \(3 à 5 ans\) | **525** | 450 | 600 |
-| UX designer expérimenté.e \(+ de 5 ans\) | **700** | 600 | 800 |
+| UX designer expérimenté.e \(+ de 5 ans\) | **650** | 600 | 800 |
 
 _Notes : Junior : &lt; 5 années d'expérience, expérimenté.e &gt; 5 ans_
 
