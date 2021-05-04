@@ -20,7 +20,7 @@ En tant que marrain, tu t'engages à :
 
 * Présenter le réseau beta.gouv, son histoire et son mode de fonctionnement.
 
-> En attendant la sortie d'un ouvrage collectif officiel 📖, raconte ton histoire et assure-toi que le nouvel arrivant participe au prochain séminaire !  
+> En attendant la sortie d'un ouvrage collectif officiel 📖, raconte ton histoire et invite le nouvel arrivant participe au prochain [forum beta.gouv.fr](../actions-transverses/rituels/seminaire.md) !  
 > Si tu ne connais pas l'histoire de beta.gouv, c'est le moment de l'apprendre avec ton ou ta filleul·e !
 
 * Rester dispo pour répondre à toutes les questions de la nouvelle recrue

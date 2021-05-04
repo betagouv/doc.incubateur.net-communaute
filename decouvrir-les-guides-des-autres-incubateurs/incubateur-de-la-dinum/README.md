@@ -8,7 +8,7 @@
 
 {% page-ref page="conge-maternite/" %}
 
-{% page-ref page="rituels/" %}
+{% page-ref page="../../travailler-a-beta-gouv/actions-transverses/rituels/" %}
 
 {% page-ref page="annoncer-un-evenement.md" %}
 

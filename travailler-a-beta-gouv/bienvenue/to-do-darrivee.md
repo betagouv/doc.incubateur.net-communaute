@@ -11,8 +11,8 @@ description: 'Pour comprendre beta.gouv.fr, rien d''obligatoire bien sûr !'
 
 > Tu trouveras ici la [présentation déroulée lors de cet atelier](https://docs.google.com/presentation/d/1ded7iFFFaPuw9tKcj6g-xLBggAox-QNDjsMamECPqHU/edit) \(dernière mise à jour : avril 2021\)
 
-* [ ] Participer à [l'hebdo beta.gouv](../../decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/rituels/standup.md),  le rassemblent hebdomadaire du réseau beta.gouv tous les jeudis à midi
-* [ ] Participer à un petit [Séminaire ](../../decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/rituels/seminaire.md)- 1 jeudi sur 2 à 15h
+* [ ] Participer à [l'hebdo beta.gouv](../actions-transverses/rituels/standup.md),  le rassemblent hebdomadaire du réseau beta.gouv tous les jeudis à midi
+* [ ] Participer au [forum beta.gouv.fr](../actions-transverses/rituels/seminaire.md) - 1 jeudi sur 2 à 15h
 * [ ]  Proposer de l'aide à quelqu'un en galère dans l'openspace
 * [ ]  Venir à un point de rencontre régulier :
   *   Rencontre dev : partage sur les pratiques de développement informatiques [🔒`#domaine-dev`](https://startups-detat.slack.com/messages/domaine-dev) - 2ème mercredi du mois de 10h30 à 12h
@@ -24,7 +24,7 @@ description: 'Pour comprendre beta.gouv.fr, rien d''obligatoire bien sûr !'
 
 ###  Au cours des 6 premiers mois
 
-* [ ]   Participer au prochain [Grand Séminaire](../../decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/rituels/grand-seminaire-1.md) \(tous les 6 mois, 2 jours à la campagne\)
+* [ ]   Participer au prochain [Grand Séminaire](../actions-transverses/rituels/grand-seminaire-1.md) \(tous les 6 mois, 2 jours à la campagne\)
 * [ ]   Commenter et valider une pull request sur github : [https://github.com/betagouv/beta.gouv.fr/pulls](https://github.com/betagouv/beta.gouv.fr/pulls)
 
 > Attention à ne pas tout faire en simultanée, il y a risque d'overdose 😄

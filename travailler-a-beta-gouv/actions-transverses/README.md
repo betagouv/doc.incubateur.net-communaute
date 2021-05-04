@@ -2,7 +2,7 @@
 description: '[Documentation en cours de rédaction - non validée]'
 ---
 
-# 🖖 S'engager dans la vie de la communauté
+# 🖖 Participer à la vie de la communauté
 
 En travaillant pour une Startup d’Etat et de Territoire, vous devenez membre de la communauté beta.gouv. Celle-ci se construit par l’investissement volontaire de ces membres ce qui veut dire que chaque membre peut proposer de nouvelles idées \(événements, processus, outils etc \), les mettre en oeuvre ou rejoindre un travail en cours. L’objectif est de faire de beta.gouv une communauté vivante, riche des expériences et de l’engagement de chacun, et qui apporte un cadre de travail stimulant pour ces membres. L’engagement dans la communauté peut prendre différentes formes, par exemple : 
 
@@ -14,8 +14,7 @@ En travaillant pour une Startup d’Etat et de Territoire, vous devenez membre d
 
 En tant que membre, vous pouvez et êtes invités à vous engager dans la communauté. Si vous avez des questions, n’hésitez pas à demander aux autres membres de votre Startup d’Etat ou de Territoires ou sur le canal slack [**\#incubateur-engagement.**](https://startups-detat.slack.com/archives/CUDHRRC1Z)
 
-**Pourquoi l’engagement est important ?**  
-
+**Pourquoi l’engagement est important ?**
 
 La communauté fonctionne grâce l’engagement, volontaire et non-obligatoire, de ses membres et c’est une valeur fondatrice de beta.gouv que de se construire à partir du collectif. 
 

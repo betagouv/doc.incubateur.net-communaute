@@ -32,7 +32,7 @@ Voici quelques conseils pour t’aider à participer à des actions transverses 
 
 * Chaque carte du [trello “communauté”](https://trello.com/b/VfWw2XPM/betagouvfr-communaut%C3%A9) correspond à une action transverse. Chacune de ces cartes référence les membres qui y participent. Tu peux donc les contacter directement pour proposer ton aide ou manifester ton intérêt.
 * Tu peux également proposer spontanément ton aide dans les salons que tu suis sur Slack. Par exemple, tu pourrais publier dans \#formation-no-code : “Bonjour, j’adore les outils no-code et notamment airtable. Comment est-ce que je peux aider?”
-* Il y a régulièrement des appels à participation lors des [Hebdos beta.gouv du jeudi midi](../../decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/rituels/standup.md), également relayé dans la lettre d’info hebdomadaire. Tu pourras te manifester auprès du ou de la collègue ayant demandé de l’aide.
+* Il y a régulièrement des appels à participation lors des [Hebdos beta.gouv du jeudi midi](rituels/standup.md), également relayé dans la lettre d’info hebdomadaire. Tu pourras te manifester auprès du ou de la collègue ayant demandé de l’aide.
 
 #### 5. Mais si je veux proposer une action transverse qui ne semble pas encore exister? <a id="5-Mais-si-je-veux-proposer-une-action-transverse-qui-ne-semble-pas-encore-exister"></a>
 
