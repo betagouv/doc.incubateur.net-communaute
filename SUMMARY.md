@@ -63,7 +63,7 @@
     * [Statistiques d'usage de ce guide](https://datastudio.google.com/u/0/reporting/1016657e-1ee3-4013-919d-0e0fb284e352/page/1M)
     * [Je veux modifier ce guide](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/gitbook/comment-contribuer-a-cette-documentation.md)
     * [Je souhaite valider ma proposition de modification](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/gitbook/documentation-provisoire-a-stabilisee.md)
-    * [Je suis les recommandations d'écritre](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/gitbook/recommandations.md)
+    * [Standards d'écriture](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/gitbook/recommandations.md)
   * [Modèle de note](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/modele-de-note.md)
 * [📰 S'informer sur la vie de la communauté](travailler-a-beta-gouv/je-minforme-sur-la-vie-de-la-communaute/README.md)
   * [Agenda public](travailler-a-beta-gouv/je-minforme-sur-la-vie-de-la-communaute/agenda-public.md)
