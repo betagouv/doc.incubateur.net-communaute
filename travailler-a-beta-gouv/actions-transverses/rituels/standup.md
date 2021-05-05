@@ -21,7 +21,7 @@ Pour rejoindre l'hebdo beta.gouv.fr :
 * Configure ton microphone, ta caméra et ton audio 
 * Déplace toi avec les flèches de ton clavier en suivant les flèches pour rejoindre l'espace où se réunit l'hebdo beta.gouv.fr
 
-![L&apos;hebdo beta.gouv sur Gather.Town](../../../.gitbook/assets/image%20%2814%29%20%281%29.png)
+![L&apos;hebdo beta.gouv sur Gather.Town](../../../.gitbook/assets/image%20%2814%29%20%281%29%20%281%29.png)
 
 ## L'hebdo beta.gouv.fr :  « Comment »
 

@@ -15,7 +15,7 @@ Un jeudi sur deux à 17h, pendant 1h.
 * Configure ton microphone, ta caméra et ton audio 
 * Déplace toi avec les flèches de ton clavier en suivant les flèches pour rejoindre l'espace où se réunit le forum beta.gouv.fr
 
-![Le forum beta.gouv.fr sur Gather.Town](../../../.gitbook/assets/image%20%2814%29%20%281%29.png)
+![Le forum beta.gouv.fr sur Gather.Town](../../../.gitbook/assets/image%20%2814%29%20%281%29%20%281%29.png)
 
 ### Présence
 

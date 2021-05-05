@@ -4,10 +4,8 @@ description: Tableau de bord technique des produits numériques.
 
 # DashLord
 
-
-
 {% hint style="info" %}
-**Un DashLord, c'est quoi ?** 
+**Un DashLord, c'est quoi ?**
 
 Un dashLord est un tableau de bord. Il permet de situer sa Startup d'État ou de Territoires par rapport aux standards du marché : accessibilité, sécurité et RGPD.
 {% endhint %}
@@ -37,7 +35,7 @@ Un dashLord est un tableau de bord. Il permet de situer sa Startup d'État ou de
 * **Pour identifier quelles équipes ont le plus de besoins** et où mettre son énergie.
 * **Pour avoir une vision technique d'ensemble** du pool de Startups d'État.
 
-### Les membres des équipes 
+### Les membres des équipes
 
 * Pour gagner du temps
 
@@ -51,7 +49,7 @@ Un dashLord est un tableau de bord. Il permet de situer sa Startup d'État ou de
 
 ### S'appuyer de travaux existants
 
-Julien, de la Fabrique du Mass, a engagé des travaux pour : 
+Julien, de la Fabrique du Mass, a engagé des travaux pour :
 
 * sécuriser les fonctionnalités déjà développées afin de fiabiliser les indicateurs disponibles ;
 * disposer d'un système pour connaître la stack technique des équipes afin de permettre de leur adresser les alertes de sécurité de l'ANSSI quand elles les concernent.
@@ -67,6 +65,4 @@ D'ici la fin de l'année 2021, nous souhaitons :
 ## En savoir plus
 
 {% page-ref page="questions-reponses.md" %}
-
-
 
