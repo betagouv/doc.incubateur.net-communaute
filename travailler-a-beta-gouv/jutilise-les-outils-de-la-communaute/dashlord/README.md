@@ -18,7 +18,7 @@ Un dashLord est un tableau de bord. Il permet de situer sa Startup d'État ou de
 
 | Incubateur | URL |
 | :--- | :--- |
-| DINUM | [https://holodeck.incubateur.net/](https://dashlord.incubateur.net/#/) |
+| DINUM | [https://dashlord.incubateur.net/](https://dashlord.incubateur.net/#/) |
 | Fabrique de ministères sociaux | [https://socialgouv.github.io/dnum-dashboard/\#/](https://socialgouv.github.io/dnum-dashboard/#/) |
 | Fabrique numérique du MTES | [https://mtes-mct.github.io/dashlord/\#/dashboard](https://mtes-mct.github.io/dashlord/#/dashboard) |
 
@@ -46,7 +46,7 @@ Un dashLord est un tableau de bord. Il permet de situer sa Startup d'État ou de
 ### Construire une communauté de membres
 
 {% hint style="info" %}
-**Rejoindre le canal de discussion :** [**\#incubateur-holodeck**](https://startups-detat.slack.com/archives/C01SDQX0DB5)\*\*\*\*
+**Rejoindre le canal de discussion :** [**\#incubateur-dashlord**](https://startups-detat.slack.com/archives/C01SDQX0DB5)\*\*\*\*
 {% endhint %}
 
 ### S'appuyer de travaux existants
