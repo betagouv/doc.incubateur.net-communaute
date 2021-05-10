@@ -36,6 +36,10 @@ Nous avons choisi Mattermost car il présente plusieurs avantages :
 
 1.     Cliquer sur le lien du Mattermost : ****[**https://mattermost.incubateur.net/**](https://mattermost.incubateur.net/)\*\*\*\*
 
+{% hint style="info" %}
+Comme sur Slack, pour optimiser l'expérience, c'est pas mal de télécharger l'application Mattermost sur ordinateur et mobile : [liens de téléchargement](https://mattermost.com/download/#).
+{% endhint %}
+
 2.     Votre compte a déjà été créé lors de l’import de l’historique des conversations. Ainsi il vous faut **récupérer votre mot de passe** : 
 
 * Cliquer sur “forgot my password”
