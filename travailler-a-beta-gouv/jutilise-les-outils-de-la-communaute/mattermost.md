@@ -18,7 +18,8 @@ Le grand jour arrive à pas de géant, le 20 mai toutes les communications passe
 
 ## **Pourquoi passer à Mattermost ?**
 
-Nous quittons Slack car pour le payer \(+ de 40 000€ au total\), il faut lancer un marché public. 
+Depuis déjà quelques années, la communauté envisage de migrer hors de Slack pour utiliser un outil aligné sur ses standards de conception.
+Nous n'étions pas collectivement arrivés à un consensus car la migration demande une organisation complexe en transverse. Nous quittons finalement Slack car pour le payer \(+ de 40 000€ au total\), il faudrait lancer un marché public et cette énergie peut être plus utilement employée à écrire ce document par exemple :) 
 
 Nous avons choisi Mattermost car il présente plusieurs avantages : 
 
