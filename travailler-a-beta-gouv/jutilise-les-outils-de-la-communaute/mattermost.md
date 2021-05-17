@@ -31,16 +31,17 @@ Nous avons choisi Mattermost car il présente plusieurs avantages :
 
 ## **Comment rejoindre l’espace Mattermost de Beta ?**
 
-1. Cliquer sur le lien du Mattermost : [https://mattermost.incubateur.net/](https://mattermost.incubateur.net/**]%28https://mattermost.incubateur.net/%29****)
+**Etape 1** : cliquez sur le lien du Mattermost : [https://mattermost.incubateur.net/](https://mattermost.incubateur.net/**]%28https://mattermost.incubateur.net/%29****) ou téléchargez l'app.
 
 {% hint style="info" %}
-Comme sur Slack, pour optimiser l'expérience, c'est pas mal de télécharger l'application Mattermost sur ordinateur et mobile : [liens de téléchargement](https://mattermost.com/download/#).
+Comme sur Slack, pour optimiser l'expérience, nous vous conseillons de télécharger l'application Mattermost sur ordinateur et mobile : [liens de téléchargement](https://mattermost.com/download/#).
 {% endhint %}
 
-1. Votre compte a déjà été créé lors de l’import de l’historique des conversations. Ainsi il vous faut **récupérer votre mot de passe** :
-2. Cliquer sur “forgot my password”
-3. Entrez votre adresse beta pour recevoir l’email de récupération de mot de passe. 
-4. Cliquez sur le lien contenu dans l’email et configurez votre  mot de passe avec les contraintes suivantes : 
+**Etape 2** : votre compte a déjà été créé lors de l’import de l’historique des conversations. Il vous faut simplement **récupérer votre mot de passe** \(qui est différent de celui du compte beta\) :
+
+1. Cliquez sur “forgot my password” ;
+2. Entrez votre adresse beta pour recevoir l’email de récupération de mot de passe ; 
+3. Cliquez sur le lien contenu dans l’email et configurez votre  mot de passe avec les contraintes suivantes : 
    * 12 - 64 caractères 
    * Au moins une minuscule
    * Au moins une majuscule
@@ -51,15 +52,15 @@ Comme sur Slack, pour optimiser l'expérience, c'est pas mal de télécharger l'
 
 ![](https://lh6.googleusercontent.com/dmzmqbVoDmbXpOsSfIVTXLirn__E01dYadqfTmXUQaXzXkpCLNsPM24xi_2dgEMDoaMoyMyI6Gbq-o-Cs0hx9nQo7RntZghW4aDH7bsuayaQX5uvq7Y8w72i9OyHIqJOW4AYRW9Y)
 
-### **Dans le cas où votre adresse Beta n’est pas reconnue merci de nous prévenir sur le canal Slack** [**\#aide-mattermost**](https://startups-detat.slack.com/archives/C021C1HDA1F) **ou par email contact@beta.gouv.fr  pour que nous débloquions la situation.**
+### **Dans le cas où votre adresse Beta n’est pas reconnue, merci de nous prévenir sur le canal Slack** [**\#aide-mattermost**](https://startups-detat.slack.com/archives/C021C1HDA1F) **ou par email contact@beta.gouv.fr  pour que nous débloquions la situation.**
 
-_\*\*_3. Pour faciliter la gestion de l’espace, vous pouvez changer votre “Nom d'utilisateur” par prenom.nom \(comme le début de votre email\). Il vous faut :
+**Etape 3** : pour faciliter la gestion de l’espace, vous pouvez changer votre “Nom d'utilisateur” par prenom.nom \(comme le début de votre email\). Il vous faut :
 
-* Cliquer sur l'icône ![](https://lh5.googleusercontent.com/De8PjC5doIaIMGFuuR95dlnmOZWxJuHqp3BAAyiIxJMuygtt_LWY6EUka0-mutJvKVOqTvnVL_fTD_lGJ8AmxzfrPXfnOoxL9eatGe1i6y8kKBPlgjvjQ_sg8zRTEJY8ok-TfUuD)
+* Cliquez sur l'icône ![](https://lh5.googleusercontent.com/De8PjC5doIaIMGFuuR95dlnmOZWxJuHqp3BAAyiIxJMuygtt_LWY6EUka0-mutJvKVOqTvnVL_fTD_lGJ8AmxzfrPXfnOoxL9eatGe1i6y8kKBPlgjvjQ_sg8zRTEJY8ok-TfUuD)
 
 ![](https://lh5.googleusercontent.com/uXTXzsqkLKQc2t74VchYcVPy10eg3CGCq2ZP6bbcjsdLvf9zhXRBb939TeK1dLkzFEt3gMDPXZKjVeigeliN_ZxFTDIp2xV8DYWLZWjlJ8tQRvggwUsiBGz_8yLA4aB0KH591DW7)
 
-* Aller dans “Paramètres du compte”
+* Allez dans “Paramètres du compte”
 * A côté de “Nom d’utilisateur” cliquez sur “modifier”
 * Mettez prenom.nom \(exactement comme le début de votre email @beta.gouv.fr \)
 * Puis cliquez sur “Enregistrer”
