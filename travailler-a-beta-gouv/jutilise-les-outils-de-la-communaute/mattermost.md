@@ -31,7 +31,7 @@ Nous avons choisi Mattermost car il présente plusieurs avantages :
 
 ## **Comment rejoindre l’espace Mattermost de Beta ?**
 
-1. Cliquer sur le lien du Mattermost : **\*\*\[**[https://mattermost.incubateur.net/\*\*\]\(https://mattermost.incubateur.net/\)\*\*\*\*](https://mattermost.incubateur.net/**]%28https://mattermost.incubateur.net/%29****)
+1. Cliquer sur le lien du Mattermost : [https://mattermost.incubateur.net/](https://mattermost.incubateur.net/**]%28https://mattermost.incubateur.net/%29****)
 
 {% hint style="info" %}
 Comme sur Slack, pour optimiser l'expérience, c'est pas mal de télécharger l'application Mattermost sur ordinateur et mobile : [liens de téléchargement](https://mattermost.com/download/#).
