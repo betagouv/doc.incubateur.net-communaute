@@ -27,7 +27,8 @@ Choisis sur quel logiciel de messagerie tu veux recevoir et envoyer tes emails. 
 * [Thunderbird](https://www.thunderbird.net/fr/) \(OS X / Windows / Linux\) : le client libre de Mozilla qu'on ne présente plus
 * [Mailspring](https://getmailspring.com/) \(OS X / Windows / Linux\) : un client gratuit et open-source, avec une interface moderne
 * [Microsoft Courier](https://www.microsoft.com/fr-fr/p/courrier-et-calendrier/9wzdncrfhvqm?activetab=pivot:overviewtab) : le client mail par défaut de Windows
-* [Gmail](https://play.google.com/store/apps/details?id=com.google.android.gm&hl=fr) : l'application mail par défaut sur Android
+* [Microsoft Outlook](https://www.microsoft.com/fr-fr/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook) : client mail souvent déjà installé sur les ordinateurs professionnels
+* [Gmail](https://play.google.com/store/apps/details?id=com.google.android.gm&hl=fr) : l'application mail par défaut sur Android (Attention vos données sont exporté aux états unis, vous ne pourrez pas faire de manipulation de données personnelles avec cette méthode)
 * [AquaMail](https://www.aqua-mail.com/) \(Android\) : une application mail fluide qui respecte la vie privée
 * [ou beaucoup d'autres](https://duckduckgo.com/?q=meilleurs+clients+mails)
 
@@ -39,6 +40,7 @@ Il existe des tutoriels détaillés pour certains clients mails :
 * [Gmail](https://docs.ovh.com/fr/emails/mail-mutualise-guide-configuration-dun-e-mail-mutualise-ovh-sur-linterface-de-gmail/)
 * [Thunderbird](https://docs.ovh.com/fr/emails/configuration-email-configuration-pour-thunderbird/)
 * [Courier](https://docs.ovh.com/fr/emails/configuration-courrier-sur-windows-10/)
+* [Outlook](https://docs.ovh.com/fr/emails/configuration-outlook-2016/)
 
 Pour les autres logiciels, la configuration se fait de manière suivante :
 
