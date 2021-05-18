@@ -24,6 +24,6 @@ Formats possibles :
 
 ## Comment solliciter l’équipe ?
 
-* Par Slack : @thomas ou \#domaine-juridique
+* Par Mattermost : @thomas ou \#domaine-juridique
 * Par mail : [thomas.menant@beta.gouv.fr](mailto:thomas.menant@beta.gouv.fr) ou [contact@numericite.eu](mailto:contact@numericite.eu)
 
