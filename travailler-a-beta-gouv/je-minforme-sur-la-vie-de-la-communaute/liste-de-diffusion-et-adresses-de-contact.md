@@ -14,7 +14,7 @@ Les mailing-lists suivantes sont disponibles. Toutes les adresses sont à postfi
 | `onboarding` | Embarquement des nouvelles et des nouveaux | Membres volontaires. | Marrains. Parraines. |
 | `partenaires` | Informations à destination des structures partenaires \(incubateurs, fabriques, etc\)  | Responsables d'incubateurs, membres volontaires | Membres |
 
-### La commande Slack `/emails`
+### La commande Mattermost `/emails`
 
 **Attention : commande à utiliser dans le channel** [**🔒`#incubateur-secretaria`**](https://startups-detat.slack.com/messages/incubateur-secretaria)
 

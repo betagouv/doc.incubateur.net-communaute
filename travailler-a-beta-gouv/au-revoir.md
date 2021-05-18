@@ -36,7 +36,7 @@ description: "Tu nous quittes ? On espère que tu as passé un moment positif av
 
 Si tu n'as pas supprimé ton compte email, il y aura une suppression automatique de l'adresse email @beta.gouv.fr après la date de fin de contrat. Tu devrais recevoir un rappel lorsque la date de fin de mission s'approche.
 
-## Slack
+## Mattermost
 
-* Ton compte Slack sera désactivé s'il devient inactif \(14 jours d'inactivité\).
+* Ton compte Mattermost sera désactivé s'il devient inactif \(14 jours d'inactivité\).
 

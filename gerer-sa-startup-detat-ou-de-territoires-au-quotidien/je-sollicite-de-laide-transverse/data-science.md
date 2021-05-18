@@ -34,5 +34,5 @@ Une SE plus mature sur les questions de data science se concentrera plutôt sur 
 
 ## Comment demander de l'aide en data science ?
 
-Sur Slack, ou par mail : **vincent.viers@beta.gouv.fr**
+Sur Mattermost, ou par mail : **vincent.viers@beta.gouv.fr**
 

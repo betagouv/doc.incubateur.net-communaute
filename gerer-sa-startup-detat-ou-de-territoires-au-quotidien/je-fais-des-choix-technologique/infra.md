@@ -9,11 +9,11 @@ Par exception à cette règle générale, sur un petit nombre de sujets nous gé
 * mails @beta.gouv.fr
 * les sous-domaines .beta.gouv.fr
 * certains hébergement PaaS
-* notre Slack
+* notre Mattermost
 
 ### Comment demander de l'aide ?
 
-Tu peux demander de l'aide sur ces sujets sur Slack dans [🔒`#incubateur-ops`](https://startups-detat.slack.com/messages/incubateur-ops/) et, s'il y a un délai important, ouvrir également un ticket dans [Trello](https://trello.com/invite/b/LQONIILQ/44ad5ab3073e83030067cc1b1c8ce968/infra) pour le suivi dans la durée.
+Tu peux demander de l'aide sur ces sujets sur Mattermost dans 🔒`#incubateur-ops` et, s'il y a un délai important, ouvrir également un ticket dans [Trello](https://trello.com/invite/b/LQONIILQ/44ad5ab3073e83030067cc1b1c8ce968/infra) pour le suivi dans la durée.
 
 Si tu n'as pas de réponse sous 24h, consulte ci-dessous la liste des gens qui ont accès et les droits suffisants, et fais une relance nominative.
 
@@ -21,7 +21,7 @@ Si tu n'as pas de réponse sous 24h, consulte ci-dessous la liste des gens qui o
 
 Inscris-toi d'abord ci-dessous pour signaler que tu as l'accès aux ressources en question.
 
-* Si tu es dispo quand une demande arrive, réponds en thread sur Slack en disant "Je prends"
+* Si tu es dispo quand une demande arrive, réponds en thread sur Mattermost en disant "Je prends"
 * _Seulement_ après, fais ce qu'il faut pour répondre à la demande
 * _Seulement_ après, tu peux mettre une réaction ✅ sur le message d'origine, et répondre "fait"
 * Si on te demande à toi directement et que tu ne souhaite pas prendre, réponds "Je passe"
@@ -43,7 +43,7 @@ Ont les accès:
 
 ### Matomo \(ex Piwik\)
 
-Une instance Matomo est disponible [ici](http://stats.data.gouv.fr/). Vous pouvez demander sur [🔒`#incubateur-ops`](https://startups-detat.slack.com/messages/incubateur-ops/) un compte pour votre Startup.
+Une instance Matomo est disponible [ici](http://stats.data.gouv.fr/). Vous pouvez demander sur 🔒`#incubateur-ops` un compte pour votre Startup.
 
 Ont les accès:
 
@@ -51,7 +51,7 @@ Ont les accès:
 * @Florian
 * @julien
 
-## Slack
+## Mattermost
 
 Ont les accès:
 
@@ -81,7 +81,7 @@ S'enregistrer avec une email @beta.gouv.fr, puis créer ou rejoindre les projets
 
 Support:
 
-* [🔒`#incubateur-ops`](https://startups-detat.slack.com/messages/incubateur-ops/)
+* 🔒`#incubateur-ops`
 
 ## Services pratiques pour lancer un site Web
 
