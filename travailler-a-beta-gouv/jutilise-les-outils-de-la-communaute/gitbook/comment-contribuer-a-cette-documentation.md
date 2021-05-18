@@ -1,7 +1,7 @@
 # Je veux modifier ce guide
 
 {% hint style="info" %}
-Pour modifier ce guide, rendez-vous sur [\#incubateur-documentation](https://app.slack.com/client/T04C2PSNY/C011EK4NQH3/thread/C011EK4NQH3-1616763456.027800) et poste exactement message sur Slack : "**Bonjour, j'aimerai savoir comment modifier la documentation?"** . Le lien de connexion te sera envoyé automatiquement.
+Pour modifier ce guide, rendez-vous sur \#incubateur-documentation et poste exactement message sur  : "**Bonjour, j'aimerai savoir comment modifier la documentation?"** . 
 {% endhint %}
 
 ## Pourquoi contribuer ? <a id="pourquoi-contribuer"></a>
@@ -20,7 +20,7 @@ Pour contribuer à ce guide \(gitbook\), tu as deux choix :
 
 Tu ne prends aucun risque à "casser" quoi que ce soit.
 
-Si besoin d'aide, tu peux solliciter les membres du salon [\#incubateur-documentation \(sur Slack\)](https://app.slack.com/client/T04C2PSNY/C011EK4NQH3/thread/C011EK4NQH3-1589360618.012400).
+Si besoin d'aide, tu peux solliciter les membres du salon \#incubateur-documentation \(sur Mattermost\).
 
 
 
