@@ -1,7 +1,5 @@
 # Infra
 
-
-
 Chaque équipe startup gère son infrastructure de façon souveraine. Elle peut s'appuyer sur une UO dédiée, comme on en trouve par exemple dans le marché Startups de la DINSIC, pour la prise en charge financière, ou passer par des mécanismes de type "caisse blanche".
 
 Par exception à cette règle générale, sur un petit nombre de sujets nous gérons des ressources partagées:
