@@ -24,5 +24,5 @@ Pour les Responsables Produit / PO / PM de Startups d'Etat plus matures \(accél
 
 ## Comment demander de l'aide sur la méthodologie produit ?
 
-Sur Slack, en nous contactant directement ou sur [\#domaine-produit](https://startups-detat.slack.com/archives/C226E9PNU)
+Sur Mattermost, en nous contactant directement ou sur \#domaine-produit
 

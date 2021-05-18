@@ -8,7 +8,7 @@
 * [ ] Demander à la nouvelle recrue de créer une fiche sur [https://secretariat.incubateur.net/onboarding](https://secretariat.incubateur.net/onboarding).
 * [ ] Valider sur Github la création de la fiche [https://github.com/betagouv/beta.gouv.fr/pulls](https://github.com/betagouv/beta.gouv.fr/pulls)
 * [ ] Créer une adresse email pour la nouvelle recrue : [https://secretariat.incubateur.net/login](https://secretariat.incubateur.net/login)
-* [ ] Inviter la nouvelle recrue sur le [Slack avec son adresse @beta.gouv.fr](https://startups-detat.slack.com/signup) et s'assurer qu'elle s'est présenté·e sur \#general
+* [ ] Inviter la nouvelle recrue sur le [Mattermost avec son adresse @beta.gouv.fr ](https://mattermost.incubateur.net/)et s'assurer qu'elle s'est présenté·e sur \#general
 * [ ] Tu as invité la nouvelle recrue à la réunion [hebdo beta.gouv ](../actions-transverses/rituels/standup.md)
 * [ ] Si besoin tu as fait une demande de badge pour accéder à nos locaux \(La procédure pour les locaux de Ségur est disponible [ici](../../decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/locaux/badge-pour-travailler-a-segur.md)\)
 * [ ] Si elle est au statut d'indépendant, elle sait à qui adresser sa facture et comment

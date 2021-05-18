@@ -66,5 +66,5 @@ Pour résumer, et même si cela semble trivial, le GH est le plus utile pour une
 
 ## Comment demander de l'aide sur la croissance de votre produit ?
 
-Sur Slack, ou par mail : **chaib.martinez@beta.gouv.fr**
+Sur Mattermost, ou par mail : **chaib.martinez@beta.gouv.fr**
 

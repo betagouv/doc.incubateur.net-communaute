@@ -41,7 +41,7 @@ Aux start-ups et aux rôles transverses.
 
 ## **👩‍💻 Racontez-nous ce que fait votre SE et vos problèmes**
 
-* sur slack : [\#incubateur-designers-transverses](https://startups-detat.slack.com/archives/C010EFL3EQ4)
+* sur Mattermost : \#incubateur-designers-transverses
 * par email : [design@beta.gouv.fr](mailto:design@beta.gouv.fr)
 
 Dès qu’on reçoit votre demande, on s’organise dans la semaine pour faire un brief téléphonique :-\)  
