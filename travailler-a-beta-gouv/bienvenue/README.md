@@ -26,7 +26,7 @@ Grâce à ton compte, tu pourras nous rejoindre sur Mattermost.
 
 ## Découvre la communauté
 
-* [ ] Présente-toi sur Slack dans `#general` ! 👋
+* [ ] Présente-toi sur Mattermost dans `#general` ! 👋
 * [ ] Découvre ton équipe :
   * [ ] Rejoins ses canaux sur Mattermost ;
   * [ ] Imprègne-toi de la mission sur la **fiche produit** disponible sur beta.gouv.fr/startups.
