@@ -28,7 +28,7 @@ Choisis sur quel logiciel de messagerie tu veux recevoir et envoyer tes emails. 
 * [Mailspring](https://getmailspring.com/) \(OS X / Windows / Linux\) : un client gratuit et open-source, avec une interface moderne
 * [Microsoft Courier](https://www.microsoft.com/fr-fr/p/courrier-et-calendrier/9wzdncrfhvqm?activetab=pivot:overviewtab) : le client mail par défaut de Windows
 * [Microsoft Outlook](https://www.microsoft.com/fr-fr/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook) : client mail souvent déjà installé sur les ordinateurs professionnels
-* [Gmail](https://play.google.com/store/apps/details?id=com.google.android.gm&hl=fr) : l'application mail par défaut sur Android (Attention vos données sont exporté aux états unis, vous ne pourrez pas faire de manipulation de données personnelles avec cette méthode)
+* [Gmail](https://play.google.com/store/apps/details?id=com.google.android.gm&hl=fr) : l'application mail par défaut sur Android \(Attention vos données sont exporté aux états unis, vous ne pourrez pas faire de manipulation de données personnelles avec cette méthode\)
 * [AquaMail](https://www.aqua-mail.com/) \(Android\) : une application mail fluide qui respecte la vie privée
 * [ou beaucoup d'autres](https://duckduckgo.com/?q=meilleurs+clients+mails)
 

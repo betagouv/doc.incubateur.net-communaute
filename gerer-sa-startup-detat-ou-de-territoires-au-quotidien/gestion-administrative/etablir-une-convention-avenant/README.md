@@ -1,5 +1,9 @@
 # Établir une convention/avenant
 
+{% hint style="success" %}
+\*\*\*\*[**Modèle de conventions de délégation de gestion ou de partenariat**](https://docs.google.com/document/d/1i-6oZUv4as_no8lJ_NeqvdcaQ5k-08oT2lE-7nzgTew/edit)\*\*\*\*
+{% endhint %}
+
 Bonne nouvelle : une administration partenaire souhaite lancer une nouvelle Startup d’Etat, ou refinancer une Startup d’Etat existante qui a eu un succès avéré. L’étape suivante consiste souvent à établir une convention avec cette administration pour matérialiser le partenariat public-public et mettre en place très rapidement des équipes autonomes et dédiées focalisées sur les problèmes identifiés.
 
 Les Startups d'État sont toutes financées par leur administration porteuse. Le plus souvent, cependant, celles-ci ne disposent pas de supports contractuels leur permettant de payer les frais techniques d’hébergement, ni de recruter des équipes composées de coachs, développeurs, designers, chargés de déploiement, etc. La DINUM, elle, dispose de marchés publics cadres Startups d’État qui peuvent permettre aux administrations qui le souhaitent de réaliser le portage financier \(frais techniques et rémunération des membres des Startups d’État\). Les administrations désirant utiliser ces supports doivent signer avec la DINUM une **convention de délégation de gestion** \(cas des administrations d’État\) ou une **convention de partenariat public-public** \(autres cas, comme les collectivités territoriales ou les autres agences publiques\).
