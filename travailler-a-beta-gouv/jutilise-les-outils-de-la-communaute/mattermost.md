@@ -35,6 +35,8 @@ Nous avons choisi Mattermost car il présente plusieurs avantages :
 
 {% hint style="info" %}
 Comme sur Slack, pour optimiser l'expérience, nous vous conseillons de télécharger l'application Mattermost sur ordinateur et mobile : [liens de téléchargement](https://mattermost.com/download/#).
+
+A l'installation, si le client demande l'ajout d'un serveur \("Add server"\), choisir un nom pour cet espace \(par exemple : beta.gouv.fr\) et saisir comme adresse de serveur : [https://mattermost.incubateur.net](https://mattermost.incubateur.net%20).
 {% endhint %}
 
 **Etape 2** : votre compte a déjà été créé lors de l’import de l’historique des conversations. Il vous faut simplement **récupérer votre mot de passe** \(qui est différent de celui du compte beta\) :
