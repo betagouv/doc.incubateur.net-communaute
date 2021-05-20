@@ -30,6 +30,7 @@
   * [Les formations à venir](travailler-a-beta-gouv/se-former/les-formations-a-venir.md)
   * [Les formations passées](travailler-a-beta-gouv/se-former/les-formations-passees.md)
   * [Les besoins en formation](travailler-a-beta-gouv/se-former/les-besoins-en-formation.md)
+  * [Le métier de chargé.e de déploiement chez Beta.gouv](travailler-a-beta-gouv/se-former/le-metier-de-charge.e-de-deploiement-chez-beta.gouv.md)
   * [Partage de ressources](travailler-a-beta-gouv/se-former/partage-de-ressources.md)
   * [Certification des intrapreneurs](travailler-a-beta-gouv/se-former/certification-des-intrapreneurs/README.md)
     * [C'est quoi une certification de compétences?](travailler-a-beta-gouv/se-former/certification-des-intrapreneurs/cest-quoi-une-certification-de-competences.md)
