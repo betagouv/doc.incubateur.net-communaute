@@ -45,7 +45,7 @@ Pour cela, nous mettons à la disposition des Startups d'État un "Kit de démar
 * Le code source est ouvert, y compris à la contribution externe.
 * Le code est instrumenté par des tests automatisés.
 * Le code est déployé fréquemment, idéalement en continu.
-* Le code est écrit en utilisant les standards du langages \(ex : pep8 en python\) et du framework.
+* Le code est écrit en utilisant les standards du langage \(ex : pep8 en python\) et du framework.
 
 ## Standard de sécurité
 
