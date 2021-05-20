@@ -63,5 +63,3 @@ Dans le cadre du travail avec l'administration, il est important de connaitre le
 * Si vous souhaitez les consulter vous pourrez les trouver sur la page dédiée au [RGPD et sécurité](../../je-securise-mon-produit/guide-rgpd-et-securite.md) et à l'[accessibilité](../../jameliore-le-design-et-lexperience-utilisateur/accessibilite-et-rgaa/)
 * Nous proposons aussi une formation dédiée : contactez Anna-Livia pour plus d'informations.
 
-
-
