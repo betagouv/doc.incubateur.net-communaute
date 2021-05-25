@@ -2,7 +2,7 @@
 
 {% page-ref page="comment-recruter.md" %}
 
-{% page-ref page="publier-une-offre-dembauche.md" %}
+{% page-ref page="publier-une-offre-dembauche/" %}
 
 {% page-ref page="entretiens-de-recrutement.md" %}
 

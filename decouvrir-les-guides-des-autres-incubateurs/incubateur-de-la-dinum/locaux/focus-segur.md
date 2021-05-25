@@ -76,17 +76,5 @@ Aller voir M. Delplace au 1.507 pour qu'il active les accès pour votre badge \(
 
 ### Imprimer
 
-Une imprimante est disponible physiquement au fond de la salle de droite, et sur le réseau imprimante.segur.incubateur.net
-
-Pour connecter l'imprimante à votre ordinateur, les étapes sont les suivantes :   
-1 - accéder aux réglages/préférences systèmes  
-2 - dans Périphériques \(ou Imprimantes et Scanners\), **Ajouter une imprimante**
-
-![](../../../.gitbook/assets/capture-de-cran-2021-05-20-a-10.27.36%20%281%29.png)
-
-**3 -** choisir une connexion par adresse IP \(a\) et renseigner l'IP imprimante.segur.incubateur.net \(b\) et l'emplacement 192.168.210.198 \(c\)
-
-![](../../../.gitbook/assets/capture-de-cran-2021-05-20-a-10.21.25.png)
-
-**4 -** valider. Vous pouvez désormais choisir l'imprimante de l'open space lorsque vous souhaitez imprimer un document. 
+Une imprimante est disponible physiquement au fond de la salle de droite, et sur le réseau imprimante.segur.beta.gouv.fr
 
