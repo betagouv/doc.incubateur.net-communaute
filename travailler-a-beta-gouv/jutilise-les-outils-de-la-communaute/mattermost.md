@@ -1,19 +1,21 @@
 # Mattermost
 
-## **Quelle temporalité pour le passage à Mattermost ?**
+## Migration Slack -> Mattermost
 
-Le grand jour arrive à pas de géant, le 20 mai toutes les communications passeront sur Mattermost !
+### **Quelle temporalité pour le passage à Mattermost ?**
 
-**D'ici là voici le programme :**
+Le grand jour est arrivé, depuis le 20 mai toutes les communications sont passées sur Mattermost !
 
-* **Dès maintenant** rejoignez l'espace Mattermost de Beta pour le **tester**. N'hésitez pas à poser vos questions et faire des remarques sur [\#installation-mattermost](https://startups-detat.slack.com/archives/C021BDGH8KS) La communication continue à se faire sur Slack
+**Le programme de la migration était le suivant :**
+
+* **En amont** rejoignez l'espace Mattermost de Beta pour le **tester**. N'hésitez pas à poser vos questions et faire des remarques sur [\#installation-mattermost](https://startups-detat.slack.com/archives/C021BDGH8KS) La communication continue à se faire sur Slack
 * **Mercredi 12 mai** : **lancement officiel** ! L'espace sera tout prêt à vous accueillir en grand nombre. La communication se fera parallèlement sur Slack et Mattermost \(les messages apparaîtront des deux côtés\). Pour **vous accompagner** à rejoindre Mattermost nous vous proposons 3 sessions en visio :
   * **Mercredi 12 mai** : 14h00 - 16h00
   * **Lundi 17 mai** : 14h00 - 16h00
   * **Mardi 18 mai** : 9h30 - 11h30
 * **Jeudi 20 mai** : **fin de Slack**. Plus de lien avec Slack, la communication se fera exclusivement sur Mattermost.
 
-## **Pourquoi passer à Mattermost ?**
+### **Pourquoi passer à Mattermost ?**
 
 Depuis déjà quelques années, la communauté envisage de migrer hors de Slack pour utiliser un outil aligné sur ses standards de conception. Nous n'étions pas collectivement arrivés à un consensus car la migration demande une organisation complexe en transverse. Nous quittons finalement Slack car pour le payer \(+ de 40 000€ au total\), il faudrait lancer un marché public et cette énergie peut être plus utilement employée à écrire ce document par exemple :\)
 
@@ -24,12 +26,12 @@ Nous avons choisi Mattermost car il présente plusieurs avantages :
 * Déjà utilisé par d’autres incubateurs Beta.gouv
 * Et moins cher si on opte pour une version payante mais on commence avec la version gratuite
 
-## Quelles grandes différences d’usage avec Slack ?
+### Quelles grandes différences d’usage avec Slack ?
 
 * **Pas \(encore\) de fil de discussion**. On peut répondre à un message en le commentant mais ce commentaire apparaîtra dans le fil global du canal. La marche à suivre est décrite plus bas. Ok c’est une régression assez conséquente mais elle n’est que temporaire,  leurs devs sont en train de tester le code et visent un déploiement en beta en juin.
 * **Pas de partage des messages**. On ne peut plus republier un message sur le même canal ou un autre canal. En revanche, on a la possibilité de partager le lien vers le message. En cliquant dessus, les personnes sont redirigées vers le post original. La marche à suivre est décrite plus bas.
 
-## **Comment rejoindre l’espace Mattermost de Beta ?**
+### **Comment rejoindre l’espace Mattermost de Beta ?**
 
 **Etape 1** : cliquez sur le lien du Mattermost : [https://mattermost.incubateur.net/](https://mattermost.incubateur.net/**]%28https://mattermost.incubateur.net/%29****) ou téléchargez l'app.
 
@@ -54,7 +56,7 @@ A l'installation, si le client demande l'ajout d'un serveur \("Add server"\), ch
 
 ![](https://lh6.googleusercontent.com/dmzmqbVoDmbXpOsSfIVTXLirn__E01dYadqfTmXUQaXzXkpCLNsPM24xi_2dgEMDoaMoyMyI6Gbq-o-Cs0hx9nQo7RntZghW4aDH7bsuayaQX5uvq7Y8w72i9OyHIqJOW4AYRW9Y)
 
-### **Dans le cas où votre adresse Beta n’est pas reconnue, merci de nous prévenir sur le canal Slack** [**\#aide-mattermost**](https://startups-detat.slack.com/archives/C021C1HDA1F) **ou par email contact@beta.gouv.fr  pour que nous débloquions la situation.**
+#### **Dans le cas où votre adresse Beta n’est pas reconnue, merci de nous prévenir sur le canal Slack** [**\#aide-mattermost**](https://startups-detat.slack.com/archives/C021C1HDA1F) **ou par email contact@beta.gouv.fr  pour que nous débloquions la situation.**
 
 **Etape 3** : pour faciliter la gestion de l’espace, vous pouvez changer votre “Nom d'utilisateur” par prenom.nom \(comme le début de votre email\). Il vous faut :
 
@@ -69,7 +71,7 @@ A l'installation, si le client demande l'ajout d'un serveur \("Add server"\), ch
 
 ![](https://lh6.googleusercontent.com/T_laA76igKgAScDNdeNYsxFcKArGDGvqL_5vAKWdgdXy-hCyc9ao6-tKgIiTHk5rjaUSHb5doZHyoRf2Tmj3gxtI_RdsC6T8U48Wd31K09bSlLsJuNHbLVAZuZIZJA7a7sk4-7jH)
 
-## **Comment demander/trouver de l’aide ?**
+### **Comment demander/trouver de l’aide ?**
 
 * Posez vos questions sur le canal **Slack** [**\#aide-mattermost**](https://startups-detat.slack.com/archives/C021C1HDA1F) ou sur le canal **Mattermost** [**\#Mattermost-Aide**](https://mattermost.incubateur.net/betagouv/channels/mattermost-aide)
 * Aide Mattermost en haut à droite et en bas à droite 
@@ -148,6 +150,19 @@ Vous pouvez créer autant de catégories que vous souhaitez pour organiser votre
 Dans la barre de recherche en haut à droite. Vous pouvez vous aider d’options de recherche.
 
 ![](https://lh3.googleusercontent.com/UL7cEXnSP0Bue3keJ3ZrUJsNnxY2hMjuW4Wb2KCUQV3Dmq9K-94sRIsJsBnkPq5y014Frt08qO7Ana17hTuH1qm9pT79AwjZZ0iXCOlutAPMvu5hqc4qvdDMHlS5U1vZgqgNX1Dt)
+
+## **Comment inviter un nouveau membre de la communauté sur Mattermost**
+
+Auparavant, toute personne avec une adresse `@beta.gouv.fr` pouvait s'inscrire librement, par elle-même, sur Slack. Ce n'est plus le cas avec Mattermost : un membre de la communauté doit désormais envoyer une invitation aux nouvelles personnes arrivant.
+
+Pour faire ça par vous-même :
+* Cliquez sur l'icône ![](https://lh5.googleusercontent.com/De8PjC5doIaIMGFuuR95dlnmOZWxJuHqp3BAAyiIxJMuygtt_LWY6EUka0-mutJvKVOqTvnVL_fTD_lGJ8AmxzfrPXfnOoxL9eatGe1i6y8kKBPlgjvjQ_sg8zRTEJY8ok-TfUuD)
+
+![](https://lh5.googleusercontent.com/uXTXzsqkLKQc2t74VchYcVPy10eg3CGCq2ZP6bbcjsdLvf9zhXRBb939TeK1dLkzFEt3gMDPXZKjVeigeliN_ZxFTDIp2xV8DYWLZWjlJ8tQRvggwUsiBGz_8yLA4aB0KH591DW7)
+
+* Allez dans “Inviter des utilisateurs”
+* Renseignez l'adresse `@beta.gouv.fr` de la personne concernée
+* Puis validez !
 
 ## **Comment aller plus vite ?**
 
