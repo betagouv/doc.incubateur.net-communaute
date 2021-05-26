@@ -1,6 +1,6 @@
 # Mattermost
 
-## Migration Slack -> Mattermost
+## Migration Slack -&gt; Mattermost
 
 ### **Quelle temporalité pour le passage à Mattermost ?**
 
@@ -143,9 +143,8 @@ Vous pouvez créer autant de catégories que vous souhaitez pour organiser votre
 
 ![](https://lh5.googleusercontent.com/5qG6rWYvvXFDsKIbI5OUjcd02G1rNRMElGNTJylukznO6gJMByi0w1dftxNnnrJcbWNjqyPY1i4eA9OS_t6aT34nzZ-cIychtjN9QlYC0InlV28FHyIiu99JvsIPX6aaiSZ9CW99)
 
-1. Déplacez des canaux dans vos différentes catégories en « glissé-déposé ». 
-
-* **Chercher des messages** 
+1. Déplacez des canaux dans vos différentes catégories en « glissé-déposé ».
+2. **Chercher des messages**
 
 Dans la barre de recherche en haut à droite. Vous pouvez vous aider d’options de recherche.
 
@@ -156,6 +155,7 @@ Dans la barre de recherche en haut à droite. Vous pouvez vous aider d’options
 Auparavant, toute personne avec une adresse `@beta.gouv.fr` pouvait s'inscrire librement, par elle-même, sur Slack. Ce n'est plus le cas avec Mattermost : un membre de la communauté doit désormais envoyer une invitation aux nouvelles personnes arrivant.
 
 Pour faire ça par vous-même :
+
 * Cliquez sur l'icône ![](https://lh5.googleusercontent.com/De8PjC5doIaIMGFuuR95dlnmOZWxJuHqp3BAAyiIxJMuygtt_LWY6EUka0-mutJvKVOqTvnVL_fTD_lGJ8AmxzfrPXfnOoxL9eatGe1i6y8kKBPlgjvjQ_sg8zRTEJY8ok-TfUuD)
 
 ![](https://lh5.googleusercontent.com/uXTXzsqkLKQc2t74VchYcVPy10eg3CGCq2ZP6bbcjsdLvf9zhXRBb939TeK1dLkzFEt3gMDPXZKjVeigeliN_ZxFTDIp2xV8DYWLZWjlJ8tQRvggwUsiBGz_8yLA4aB0KH591DW7)
