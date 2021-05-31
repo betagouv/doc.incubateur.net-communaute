@@ -3,7 +3,7 @@
 ## Pense-bête pour embarquer quelqu'un
 
 * [ ] Tu as envoyé un mail de bienvenue à la nouvelle recrue
-* [ ] Tu lui as demandé de lire la [page de bienvenue](https://github.com/betagouv/doc.incubateur.net-communaute/tree/9cbcea39c9a66c22aa6d15193c560499171d7810/travailler-a-beta-gouv/bienvenue/travailler-a-beta-gouv/bienvenue/README.md)
+* [ ] Tu lui as demandé de lire la[ page de bienvenue](./)
 * [ ] _\(Optionnel\) La nouvelle recrue a un compte Github sur lequelle elle a activé l'_[_authentification double facteur_](https://github.com/settings/security)
 * [ ] Demander à la nouvelle recrue de créer une fiche sur [https://secretariat.incubateur.net/onboarding](https://secretariat.incubateur.net/onboarding).
 * [ ] Valider sur Github la création de la fiche [https://github.com/betagouv/beta.gouv.fr/pulls](https://github.com/betagouv/beta.gouv.fr/pulls)

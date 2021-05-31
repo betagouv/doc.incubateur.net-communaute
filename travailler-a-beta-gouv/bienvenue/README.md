@@ -11,18 +11,16 @@ Si tu as besoin d'aide, envoyer un mail à [`contact@beta.gouv.fr`](mailto:conta
 ## Démarre avec les indispensables
 
 {% hint style="success" %}
-Créé ta fiche sur le secrétariat  pour obtenir ton email @beta.gouv.fr
+Créé ta fiche sur le secrétariat pour obtenir ton email @beta.gouv.fr
 {% endhint %}
 
-{% embed url="https://secretariat.incubateur.net/onboarding" %}
+{% embed url="https://secretariat.incubateur.net/onboarding" caption="" %}
 
 {% hint style="success" %}
 Grâce à ton compte, tu pourras nous rejoindre sur Mattermost.
 {% endhint %}
 
 {% page-ref page="../jutilise-les-outils-de-la-communaute/mattermost.md" %}
-
-
 
 ## Découvre la communauté
 
