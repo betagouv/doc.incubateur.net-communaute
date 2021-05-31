@@ -44,7 +44,7 @@ Un dashLord est un tableau de bord. Il permet de situer sa Startup d'État ou de
 ### Construire une communauté de membres
 
 {% hint style="info" %}
-**Rejoindre le canal de discussion :** [**\#incubateur-dashlord**](https://startups-detat.slack.com/archives/C01SDQX0DB5)\*\*\*\*
+**Rejoindre le canal de discussion :** [**\~incubateur-dashlord**](https://mattermost.incubateur.net/betagouv/channels/incubateur-dashlord)\*\*\*\*
 {% endhint %}
 
 ### S'appuyer de travaux existants
@@ -65,4 +65,3 @@ D'ici la fin de l'année 2021, nous souhaitons :
 ## En savoir plus
 
 {% page-ref page="questions-reponses.md" %}
-
