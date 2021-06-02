@@ -10,7 +10,7 @@ description: Séminaire en ligne.
 Pour contacter l'équipe qui le développe sur mattermost : \#tmp-webinaire-numerique-gouv-fr
 {% endhint %}
 
-### **Le contenu ci-dessous sera définitivement supprimé le 1er juillet.**
+### **Le contenu ci-dessous sera définitivement supprimé le 1er juillet 2021.**
 
 {% hint style="danger" %}
 Nous avons résilié notre abonnement Livestorm car nous n'en avions plus l'usage. **Nous privilégions Webinaire.numerique.gouv.fr.** 
