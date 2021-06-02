@@ -19,7 +19,7 @@ description: >-
 {% hint style="success" %}
 \*\*\*\*[**https://webinaire.numerique.gouv.fr/welcome**](https://webinaire.numerique.gouv.fr/welcome) ****: ****a l'avantage de permettre la connexion par téléphone et de tenir la charge à de nombreuses personnes.   
   
-Pour contacter l'équipe qui le développe sur Slack : \#tmp-webinaire-numerique-gouv-fr
+Pour contacter l'équipe qui le développe sur mattermost : \#tmp-webinaire-numerique-gouv-fr
 {% endhint %}
 
 {% hint style="success" %}
