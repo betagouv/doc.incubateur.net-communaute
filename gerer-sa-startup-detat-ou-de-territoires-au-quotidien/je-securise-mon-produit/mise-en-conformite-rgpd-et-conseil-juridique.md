@@ -1,4 +1,4 @@
-# Mise en conformité RGPD et Conseil juridique
+# Mise en conformité RGPD et coaching juridique
 
 ## Qui propose de l’aide ?
 

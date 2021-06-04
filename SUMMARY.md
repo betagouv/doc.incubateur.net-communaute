@@ -155,7 +155,7 @@
   * [Choisir des technologies](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/choisir-des-technologies.md)
   * [Infra](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/infra.md)
 * [🔐 Sécuriser son produit](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-securise-mon-produit/README.md)
-  * [Mise en conformité RGPD et Conseil juridique](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-securise-mon-produit/mise-en-conformite-rgpd-et-conseil-juridique.md)
+  * [Mise en conformité RGPD et coaching juridique](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-securise-mon-produit/mise-en-conformite-rgpd-et-conseil-juridique.md)
   * [Guide RGPD et Sécurité 📓](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-securise-mon-produit/guide-rgpd-et-securite.md)
 * [🎀 Solliciter de l'aide transverse](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-sollicite-de-laide-transverse/README.md)
   * [Growth Hacking](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-sollicite-de-laide-transverse/growth-hacking-acquisition.md)
