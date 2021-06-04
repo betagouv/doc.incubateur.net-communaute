@@ -14,7 +14,7 @@ Dernière mise à jour 3 months ago
 
 {% page-ref page="criteres-devaluation-a-la-fin-dune-investigation.md" %}
 
-{% page-ref page="la-methode-dinvestigation-nest-pas....md" %}
+{% page-ref page="la-methode-dinvestigation-nest-pas.md" %}
 
 {% page-ref page="conseils-pour-les-coachs-en-investigation.md" %}
 
