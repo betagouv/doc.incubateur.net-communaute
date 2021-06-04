@@ -2,7 +2,7 @@
 description: Ce texte est une synthèse des échanges d'un fil de discussion en ligne.
 ---
 
-# La méthode d’investigation n’est pas…
+# La méthode d’investigation n’est pas
 
 La discussion a été initiée sur le thème "Qu'est-ce qu'on peut répondre à un sponsor qui nous demande si on a une démarche scientifique?". Une collègue avait été confrontée à cette question. Ainsi ce texte ne vise qu'à partager des arguments si vous vous retrouvez dans ce cas de figure. Il ne s'agit donc pas d'une description de la démarche d'investigation.
 
