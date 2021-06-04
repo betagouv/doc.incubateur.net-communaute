@@ -16,7 +16,7 @@ En tant que marrain, tu t'engages à :
 
 * Présenter à la nouvelle recrue d'autres équipes et produits.
 
-> N'hésite pas à faire le tour des équipes sur place pour faire connaissance en chair et en os. Vous pouvez faire le tour de Slack
+> N'hésite pas à faire le tour des équipes sur place pour faire connaissance en chair et en os. Vous pouvez faire le tour de Mattermost
 
 * Présenter le réseau beta.gouv, son histoire et son mode de fonctionnement.
 
