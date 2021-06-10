@@ -12,7 +12,7 @@ Préalable 2 : Avoir une application déployée sur un hébergeur Saas. On prend
 
 2. Ajouter le nouveau domaine. Dans l'interface, trouver le menu `domains`, puis le bouton `Add a domain` et suivre les instructions pour ajouter le domaine `ma-super-startup.incubateur.net`.
 
-3. Aller prévenir le channel `incubateur-ops` que vous avez réalisé les étapes précédentes, en précisant l'adresse mail utilisée à l'étape 1. Cela permettra à l'équipe ops de vous déléguer la gestion des DNS pour ce nouveau domaine.
+3. Aller prévenir le channel `~incubateur-ops` que vous avez réalisé les étapes précédentes, en précisant l'adresse mail utilisée à l'étape 1. Cela permettra à l'équipe ops de vous déléguer la gestion des DNS pour ce nouveau domaine.
 
 4. Ajouter les entrées DNS
   - Dans le menu `domains`, en face du nom de votre domaine cliquez sur le picto dans la colonne `details`, puis sur l'onglet `DNS Records`.
