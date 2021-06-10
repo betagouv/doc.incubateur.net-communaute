@@ -23,10 +23,10 @@ Grâce à ces deux entrées DNS, les adressses `ma-super-startup.incubateur.net`
 
 5. Ajuster les réglages de l'application Scalingo
 
-  Scalingo, comme Heroku et d'autres hébergeurs Saas, demande de préciser les noms de domaines utilisés. Dans l'interface de gestion, section `Settings` pour Scalingo, on peut trouver une zone pour préciser le nouveau domaine (`ma-super-startup.incubateur.net` donc).
+  Scalingo, comme Heroku, Clever-Cloud et d'autres hébergeurs Saas, demande de préciser les noms de domaines utilisés. Dans l'interface de gestion, section `Settings` pour Scalingo, on peut trouver une zone pour préciser le nouveau domaine (`ma-super-startup.incubateur.net` donc).
 
-  Pour garder la connection https, il faut également activer l'option `force SSL`.
+  Pour garder la connexion https, il faut également activer l'option `force SSL`.
 
 Pour finir, vérifier que tout fonctionne bien en rafraîchissant la page `ma-super-startup.incubateur.net`.
 
-En cas de problème, vous pouvez trouver de l'aide sur le channel Mattermost `incubateur-ops`.
+En cas de problème, vous pouvez trouver de l'aide sur le channel Mattermost `~incubateur-ops`.
