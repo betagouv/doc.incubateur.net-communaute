@@ -19,7 +19,7 @@ Préalable 2 : Avoir une application déployée sur un hébergeur Saas. On prend
   - Cliquez sur `Add DNS record`, et ajouter une entrée de type `ALIAS`, avec `ma-super-startup-staging.osc-fr1.scalingo.io` comme `value`.
   - Ajouter une deuxieme entrée DNS, cette fois de type `CNAME`, avec `www` comme `Hostname` et `ma-super-startup-staging.osc-fr1.scalingo.io` comme `value`.
 
-Grâce à ces deux entrées DNS, les adressses `ma-super-startup.incubateur.net` et `www.ma-super-startup.incubateur.net` afficheront toute les deux l'application de `ma-super-startup-staging.osc-fr1.scalingo.io`.
+    Grâce à ces deux entrées DNS, les adressses `ma-super-startup.incubateur.net` et `www.ma-super-startup.incubateur.net` afficheront toute les deux l'application de `ma-super-startup-staging.osc-fr1.scalingo.io`.
 
 5. Ajuster les réglages de l'application Scalingo
 
