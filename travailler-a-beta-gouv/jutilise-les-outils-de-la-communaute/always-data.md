@@ -23,7 +23,7 @@ Préalable 2 : Avoir une application déployée sur un hébergeur Saas. On prend
 
     Grâce à ces deux entrées DNS, les adressses `ma-super-startup.incubateur.net` et `www.ma-super-startup.incubateur.net` afficheront toute les deux l'application de `ma-super-startup-staging.osc-fr1.scalingo.io`.
 
-5. Ajuster les réglages de l'application Scalingo
+5. Ajuster les réglages de l'hébergement Saas
 
     Scalingo, comme Heroku, Clever-Cloud et d'autres hébergeurs Saas, demande de préciser les noms de domaines utilisés. Dans l'interface de gestion, section `Settings` pour Scalingo, on peut trouver une zone pour préciser le nouveau domaine (`ma-super-startup.incubateur.net` donc).
 
