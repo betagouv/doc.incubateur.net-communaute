@@ -8,6 +8,7 @@ Préalable 1 : Choisir les URL, en se basant sur [cette documentation](https://d
 
 Préalable 2 : Avoir une application déployée sur un hébergeur Saas. On prendra ici comme exemple Scalingo, nous disposons donc d'une application déployée sur une adresse comme celle-ci : `ma-super-startup-staging.osc-fr1.scalingo.io`.
 
+
 1. Créer un compte sur [Always Data](https://admin.alwaysdata.com/) avec votre adresse mail `@beta.gouv.fr`.
 
 2. Ajouter le nouveau domaine. Dans l'interface, trouver le menu `domains`, puis le bouton `Add a domain` et suivre les instructions pour ajouter le domaine `ma-super-startup.incubateur.net`.
@@ -15,6 +16,7 @@ Préalable 2 : Avoir une application déployée sur un hébergeur Saas. On prend
 3. Aller prévenir le channel `~incubateur-ops` que vous avez réalisé les étapes précédentes, en précisant l'adresse mail utilisée à l'étape 1. Cela permettra à l'équipe ops de vous déléguer la gestion des DNS pour ce nouveau domaine.
 
 4. Ajouter les entrées DNS
+
   - Dans le menu `domains`, en face du nom de votre domaine cliquez sur le picto dans la colonne `details`, puis sur l'onglet `DNS Records`.
   - Cliquez sur `Add DNS record`, et ajouter une entrée de type `ALIAS`, avec `ma-super-startup-staging.osc-fr1.scalingo.io` comme `value`.
   - Ajouter une deuxieme entrée DNS, cette fois de type `CNAME`, avec `www` comme `Hostname` et `ma-super-startup-staging.osc-fr1.scalingo.io` comme `value`.
@@ -23,9 +25,10 @@ Préalable 2 : Avoir une application déployée sur un hébergeur Saas. On prend
 
 5. Ajuster les réglages de l'application Scalingo
 
-  Scalingo, comme Heroku, Clever-Cloud et d'autres hébergeurs Saas, demande de préciser les noms de domaines utilisés. Dans l'interface de gestion, section `Settings` pour Scalingo, on peut trouver une zone pour préciser le nouveau domaine (`ma-super-startup.incubateur.net` donc).
+    Scalingo, comme Heroku, Clever-Cloud et d'autres hébergeurs Saas, demande de préciser les noms de domaines utilisés. Dans l'interface de gestion, section `Settings` pour Scalingo, on peut trouver une zone pour préciser le nouveau domaine (`ma-super-startup.incubateur.net` donc).
 
-  Pour garder la connexion https, il faut également activer l'option `force SSL`.
+    Pour garder la connexion https, il faut également activer l'option `force SSL`.
+
 
 Pour finir, vérifier que tout fonctionne bien en rafraîchissant la page `ma-super-startup.incubateur.net`.
 
