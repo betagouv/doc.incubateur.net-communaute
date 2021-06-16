@@ -1,4 +1,4 @@
-# Conditions d’engagement 🥚
+# Conditions d’engagement
 
 ## Une Startup d’État peut être lancée si <a id="une-startup-detat-peut-etre-lancee-si"></a>
 
