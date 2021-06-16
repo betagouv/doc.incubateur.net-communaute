@@ -4,7 +4,7 @@ description: >-
   beta.gouv
 ---
 
-# Chronologie d'une appel à innovateur
+# Chronologie d'un appel à innovateur
 
 Cette note reprend les différentes phases correspondant à la mise en place de l’appel à innovateurs dans le cadre du partenariat entre une administration et le programme beta.gouv.
 
