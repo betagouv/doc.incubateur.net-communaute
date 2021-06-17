@@ -1,13 +1,15 @@
 # Les formations passées
 
-Tu trouveras ici une vue d'ensemble des formations passées. 👉[Les formations passées](https://airtable.com/shrB8JsKAN5Echna4)
+Tu trouveras ici une vue d'ensemble des formations passées. 👉[Les formations passées](https://airtable.com/shrQYTD8YZflrhNSb)
 
 Tu peux  évaluer ces formations si tu y as assisté. C'est notamment l'occasion de donner des pistes aux animateurs si tu vois des possibilités d'améliorations de leur formation. 
 
 
 
-Tu trouveras ci-dessous des fiches détails de ces formations. 👇  
+Tu trouveras ci-dessous les supports de quelques unes de ces formations. 👇  
 _\(tu as une table des matières juste à droite_ 😉_\)_
+
+Tu trouveras le reste dans la section [Partage de ressources](partage-de-ressources.md). 
 
 ## 🎬  Créer et publier une vidéo de formation
 
