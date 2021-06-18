@@ -20,7 +20,7 @@ Créé ta fiche sur le secrétariat pour obtenir ton email @beta.gouv.fr
 Grâce à ton compte, tu pourras nous rejoindre sur Mattermost.
 {% endhint %}
 
-{% page-ref page="../jutilise-les-outils-de-la-communaute/mattermost.md" %}
+{% page-ref page="../jutilise-les-outils-de-la-communaute/mattermost/" %}
 
 ## Découvre la communauté
 

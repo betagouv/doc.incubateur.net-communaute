@@ -6,7 +6,7 @@ description: Clôture du Slack le 21 mai 2021
 
 L'incubateur utilisait Slack comme service de messagerie instantanée. Nous utilisons aujourd'hui Mattermost.
 
-{% page-ref page="mattermost.md" %}
+{% page-ref page="mattermost/" %}
 
 
 

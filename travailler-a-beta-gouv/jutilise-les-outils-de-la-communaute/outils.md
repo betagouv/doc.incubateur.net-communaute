@@ -12,7 +12,7 @@ Le Mattermost de l'incubateur est accessible via  [https://mattermost.incubateur
 
 ~~Le bot glossaire de Slack \(`/trad`\) est une instance de~~ [~~`glossary-bot`~~](https://github.com/codeforamerica/glossary-bot) ~~hébergée sur Heroku \(id : glossaire-betagouvfr\) sur le compte de @MattiSG.~~
 
-_Plus d'informations sur_ [_notre usage de Mattermost_](mattermost.md)_._
+_Plus d'informations sur_ [_notre usage de Mattermost_](mattermost/)_._
 
 ## Agenda
 

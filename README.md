@@ -8,7 +8,7 @@ description: "\U0001F9ED Toutes les ressources pour aider les membres de la comm
 
 {% page-ref page="travailler-a-beta-gouv/bienvenue/" %}
 
-{% page-ref page="travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/mattermost.md" %}
+{% page-ref page="travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/mattermost/" %}
 
 {% page-ref page="travailler-a-beta-gouv/recrutement/remuneration.md" %}
 
