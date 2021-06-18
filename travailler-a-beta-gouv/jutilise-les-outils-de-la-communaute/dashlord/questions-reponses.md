@@ -6,7 +6,7 @@ description: Principales questions et réponses sur les DashLords.
 
 ## Comment ajouter ma Startup d'État ou de Territoire sur DashLord?
 
-Tu peux  laisser un message sur le canal slack [\#incubateur-holodeck](https://startups-detat.slack.com/archives/C01SDQX0DB5).
+Tu peux  laisser un message sur le canal [~incubateur-dashlord](https://mattermost.incubateur.net/betagouv/channels/incubateur-dashlord).
 
 ## Est-ce que les indicateurs sont fiables?
 
