@@ -1,4 +1,4 @@
-# 3.	Contenu de l’appel à intrapreneur
+# 3.    Contenu de l’appel à intrapreneur
 
 <table>
   <thead>
