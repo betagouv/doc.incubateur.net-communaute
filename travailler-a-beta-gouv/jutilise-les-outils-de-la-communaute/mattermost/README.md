@@ -135,7 +135,7 @@ Pour faire ça par vous-même :
 
 ## **Comment aller plus vite ?**
 
-#### **Activer l'option thread \(version beta pouvant entrainer des risques\)**
+#### **Activer l'option thread** \(version beta pouvant entrainer des risques\)
 
 {% hint style="info" %}
 Cette option permet de réduire la sensation de "bruit" et de retrouver les échanges dans des fils de discussion séparée.
