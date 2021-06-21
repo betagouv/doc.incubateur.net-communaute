@@ -16,8 +16,12 @@ Créé ta fiche sur le secrétariat pour obtenir ton email @beta.gouv.fr
 
 {% embed url="https://secretariat.incubateur.net/onboarding" caption="" %}
 
+{% hint style="warning" %}
+Pour que ton compte soit finalisé, ton référent ou ta référente doit se rendre sur Github et valider la demande. Cela peut prendre quelques minutes. 
+{% endhint %}
+
 {% hint style="success" %}
-Demande à présent à ton contact de t'inviter à rejoindre Mattermost. Pour cela, il suffit que cette personne renseigne ta nouvelle adresse beta.gouv.fr dans les paramètres de son compte.  
+Ensuite, demande-lui de t'inviter sur Mattermost, qui est notre outil de travail principal. Pour cela, il suffit que cette personne renseigne ta nouvelle adresse beta.gouv.fr dans les paramètres de son compte.  
 {% endhint %}
 
 {% page-ref page="../jutilise-les-outils-de-la-communaute/mattermost/" %}
