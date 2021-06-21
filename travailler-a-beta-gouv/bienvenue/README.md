@@ -17,7 +17,7 @@ Créé ta fiche sur le secrétariat pour obtenir ton email @beta.gouv.fr
 {% embed url="https://secretariat.incubateur.net/onboarding" caption="" %}
 
 {% hint style="warning" %}
-Pour que ton compte soit finalisé, ton référent ou ta référente doit se rendre sur Github et valider la demande. Cela peut prendre quelques minutes. 
+Pour que ton compte soit finalisé, ton contact référent doit se rendre sur Github et valider la demande. Cela peut prendre quelques minutes. 
 {% endhint %}
 
 {% hint style="success" %}
