@@ -21,7 +21,7 @@ Pour que ton compte soit finalisé, ton référent ou ta référente doit se ren
 {% endhint %}
 
 {% hint style="success" %}
-Ensuite, demande-lui de t'inviter sur Mattermost, qui est notre outil de travail principal. Pour cela, il suffit que cette personne renseigne ta nouvelle adresse beta.gouv.fr dans les paramètres de son compte.  
+Ensuite, demande-lui de t'inviter sur Mattermost, qui est notre outil de travail principal. Pour cela, il suffit que cette personne clique sur "inviter des utilisateurs" dans ses paramètres et ajoute ta nouvelle adresse beta.gouv.fr .
 {% endhint %}
 
 {% page-ref page="../jutilise-les-outils-de-la-communaute/mattermost/" %}
