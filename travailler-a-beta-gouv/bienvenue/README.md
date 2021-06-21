@@ -17,7 +17,7 @@ Créé ta fiche sur le secrétariat pour obtenir ton email @beta.gouv.fr
 {% embed url="https://secretariat.incubateur.net/onboarding" caption="" %}
 
 {% hint style="success" %}
-Grâce à ton compte, tu pourras nous rejoindre sur Mattermost.
+Demande à présent à ton contact de t'inviter à rejoindre Mattermost. Pour cela, il suffit que cette personne renseigne ta nouvelle adresse beta.gouv.fr dans les paramètres de son compte.  
 {% endhint %}
 
 {% page-ref page="../jutilise-les-outils-de-la-communaute/mattermost/" %}
