@@ -2,6 +2,10 @@
 
 ## **Comment rejoindre l’espace Mattermost de Beta ?**
 
+{% hint style="warning" %}
+Si tu es nouveau ou nouvelle chez beta, c'est à ton contact référent de t'ajouter sur Mattermost. Pour cela, il suffit que cette personne clique sur "inviter des utilisateurs" dans ses paramètres et ajoute ta nouvelle adresse beta.gouv.fr . 
+{% endhint %}
+
 **Etape 1** : cliquez sur le lien du Mattermost : [https://mattermost.incubateur.net/](https://mattermost.incubateur.net/**]%28https://mattermost.incubateur.net/%29****) ou téléchargez l'app.
 
 {% hint style="info" %}
