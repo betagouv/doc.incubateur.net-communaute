@@ -14,7 +14,7 @@ Les mesures d'impact se sont nettement améliorées au cours des derniers mois :
 
 **Qui sont les personnes cibles ?** Les SE qui se posent des questions sur leurs indicateurs d'impact \(fond, forme, pourquoi, comment,...\), et qui auraient besoin d'aide pour avancer vers des métriques utiles et utilisables.
 
-**Quel format ?** Un atelier d'une heure en [mode "co-développement"](https://www.afcodev.com/le-codeveloppement/le-codeveloppement.html) à la demande d'une SE, ouvert aux observateurs qui veulent apprendre sans nécessairement participer. Rendez-vous sur [\#domaine-mesures-impact](https://startups-detat.slack.com/archives/C0164D4LSJE) \(Si vous n'avez pas accès au Slack de la communauté, envoyez un email à dinum@beta.gouv.fr\) !
+**Quel format ?** Un atelier d'une heure en [mode "co-développement"](https://www.afcodev.com/le-codeveloppement/le-codeveloppement.html) à la demande d'une SE, ouvert aux observateurs qui veulent apprendre sans nécessairement participer. Rendez-vous sur[ \#domaine-mesures-impact ](https://mattermost.incubateur.net/betagouv/channels/domaine-mesures-impact)\(Si vous n'avez pas accès au Mattermost de la communauté, envoyez un email à dinum@beta.gouv.fr\) !
 
 Dans la logique d'un atelier de co-développement, l'équipe de la SE sera "le client" et les 3 membres de beta qui les aideront, "les consultants".
 
