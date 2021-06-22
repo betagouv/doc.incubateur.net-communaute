@@ -31,7 +31,7 @@ Tu veux travailler dans les bureaux de Ségur ? Demande ton badge !
 4. mettant Florian Delezenne en cc avec son email en @beta.gouv.fr et Amelie Jonnet en cc avec son email en @modernisation.gouv.fr
 5. et en indiquant la fréquence de tes visites à Ségur \(1x par semaine / 3x par semaine\)
 6. comme sujet : "Demande de badge - Externe DINUM"
-7. Une fois la demande de badge effectuée, il faudra attendre quelques jours, voir quelques semaines avant l'émission du badge. En attendant, n'hésite pas à demander à un membre de la communauté de transmettre un mail à l'accueil de Ségur afin que l'on te laisse monter tous les matins sans avoir à appeler quelqu'un. Exemple de mail :
+7. Une fois la demande de badge effectuée, il faudra attendre quelques jours, voir quelques semaines avant l'émission du badge. Les badges sont produits en salle 1607. En attendant, n'hésite pas à demander à un membre de la communauté de transmettre un mail à l'accueil de Ségur afin que l'on te laisse monter tous les matins sans avoir à appeler quelqu'un. Exemple de mail :
 
 > Bonjour, Pourriez-vous s'il vous plaît laisser monter xxxxxx tous les matins des prochains jours en salle 5.515 ? Il s'agit d'une nouvelle personne collaborant avec l'incubateur de services numériques de la DINUM. Nous avons effectué sa demande de badge il y a quelques jours, mais ce-dernier n'est pas encore arrivé. Merci beaucoup !
 >
