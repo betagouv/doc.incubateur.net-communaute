@@ -2,6 +2,8 @@
 
 Ce service en ligne est en version bêta. Il a été proposé à l'usage depuis le lundi 26 octobre 2020.
 
+\*\*\*\*[**Ouvrir le formulaire dans une nouvelle fenêtre.**](https://airtable.com/shra8F0OUtXTC4t4Z)\*\*\*\*
+
 {% embed url="https://airtable.com/shra8F0OUtXTC4t4Z" %}
 
 
