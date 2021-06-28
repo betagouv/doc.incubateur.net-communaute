@@ -25,7 +25,7 @@ description: >-
 ### Intégration à la communauté beta.gouv.fr
 
 * mise en avant des services numériques et de l'incubateur sur le site internet beta.gouv.fr ;
-* accès au Slack beta.gouv.fr ; 
+* accès au Mattermost beta.gouv.fr ; 
 * relai des campagnes de recrutement sur les réseaux beta.gouv.fr \(site internet, réseaux sociaux\) ;
 * invitation des membres des équipes aux “clubs” beta.gouv.fr et aux réflexions transverses \(séminaires, réseaux de partage d’expérience entre coachs, intrapreneurs ou chefs de produit, développeurs, designers, chargés de déploiement, etc\) ;
 * possibilité d’accueillir ponctuellement l’équipe dans les locaux de l’incubateur de la DINUM \(échanges, revues de portefeuille, ateliers\) ;
