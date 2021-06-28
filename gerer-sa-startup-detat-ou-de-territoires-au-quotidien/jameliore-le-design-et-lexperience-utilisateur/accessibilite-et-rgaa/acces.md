@@ -98,6 +98,6 @@ L'équipe de la SE et le cabinet travailleront ensemble pour obtenir le score _�
 Une rétrospective avec l'équipe de la SE permettra d'évaluer les apprentissages et les points à améliorer vis-à-vis de ce programme Access.
 
 {% hint style="info" %}
-Vous pouvez poser toutes vos question sur [le salon Slack dédié](https://startups-detat.slack.com/archives/C015LNMTTJ9) ou à designer@beta.gouv.fr .
+Vous pouvez poser toutes vos question sur [le salon dédié](https://mattermost.incubateur.net/betagouv/channels/c015lnmttj9) ou à designer@beta.gouv.fr .
 {% endhint %}
 
