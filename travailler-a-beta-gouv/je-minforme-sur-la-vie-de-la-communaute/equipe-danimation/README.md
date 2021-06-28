@@ -38,5 +38,5 @@ Des postes sont régulièrement ouverts au sein de l'équipe d'animation beta.go
 
 Pour contacter l'équipe d'animation de beta.gouv.fr : dinum@beta.gouv.fr
 
-L'équipe est à disposition sur Slack : \#incubateur-animation
+L'équipe est à disposition sur Mattermost : \#incubateur-animation
 
