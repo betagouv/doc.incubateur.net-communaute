@@ -1,6 +1,6 @@
 # Agents de la DINUM
 
-_Les adresses mail personnelles sont marquées comme du `code` et sont masquées sur ce document public. Demander les adresses réelles dans_ [_🔒`#incubateur-secretaria`_](https://startups-detat.slack.com/messages/incubateur-secretaria/) _sur Slack._
+_Les adresses mail personnelles sont marquées comme du `code` et sont masquées sur ce document public. Demander les adresses réelles dans_ [_🔒`#incubateur-secretaria`_](https://startups-detat.slack.com/messages/incubateur-secretaria/) _sur Mattermost._
 
 ## Notes de frais
 
