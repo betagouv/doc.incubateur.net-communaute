@@ -11,7 +11,7 @@ description: "Tu nous quittes ? On espère que tu as passé un moment positif av
 
 > C'est important, c'est là que se fait le suivi RH !
 
-* [ ] Demander sur [\#incubateur-secretaria](https://startups-detat.slack.com/archives/C0KUBLJG4) de rediriger ton adresse `@beta.gouv.fr` vers `departs@beta.gouv.fr` pour que les personnes écrivant à cette adresse reçoivent un répondeur les informant de ton départ :
+* [ ] Si tu le souhaites tu peux demander sur [\#incubateur-secretaria](https://startups-detat.slack.com/archives/C0KUBLJG4) de rediriger ton adresse `@beta.gouv.fr` vers `departs@beta.gouv.fr` pour que les personnes écrivant à cette adresse reçoivent un répondeur les informant de ton départ :
 
 > Bonjour !
 >
@@ -38,5 +38,5 @@ Si tu n'as pas supprimé ton compte email, il y aura une suppression automatique
 
 ## Mattermost
 
-* Ton compte Mattermost sera désactivé s'il devient inactif \(14 jours d'inactivité\).
+* Ton compte Mattermost sera désactivé, il faut faire une demande spécifique pour le garder sur \#incubateur-secretariat ou à contact@beta.gouv.fr . Dans ce dernier cas, le compte sera désactivé après 1 mois d'inactivité ou en cas de conflit d'intérêt avec tes nouvelles activités.
 
