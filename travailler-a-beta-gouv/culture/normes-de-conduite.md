@@ -21,7 +21,7 @@ Ce sont celles et ceux qui font qui décident \(et réciproquement\). Celles et 
 
 ## Privilégier les moments apportant de la valeur aux utilisateurs
 
-En tant que faiseurs, **se méfier** [**des réunions**](https://blog.alan.com/bien-etre-au-travail/no-meeting-policy) **et du temps morcelé**. S'il est possible d'éviter une réunion avec un mail ou une discussion à l'écrit sur Slack, [privilégier l'asynchrone](https://basecamp.com/guides/how-we-communicate). N'oublions pas qu'une heure de réunion à 5 ne correspond pas à une heure de travail mais à 5.
+En tant que faiseurs, **se méfier** [**des réunions**](https://blog.alan.com/bien-etre-au-travail/no-meeting-policy) **et du temps morcelé**. S'il est possible d'éviter une réunion avec un mail ou une discussion à l'écrit sur Mattermost, [privilégier l'asynchrone](https://basecamp.com/guides/how-we-communicate). N'oublions pas qu'une heure de réunion à 5 ne correspond pas à une heure de travail mais à 5.
 
 En particulier, **refuser le** [**"présentéisme"**](https://www.linkedin.com/pulse/prendre-son-temps-cest-de-largent-pr%C3%A9sent%C3%A9isme-remi-rommelard/) : on juge les personnes sur leurs résultats et non sur leurs efforts, leurs horaires…
 
