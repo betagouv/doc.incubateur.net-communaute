@@ -32,7 +32,7 @@ _Si en tant que membre de la communauté, vous constatez un manquement par rappo
 
 ## Rejoindre l'équipe d'animation
 
-Des postes sont régulièrement ouverts au sein de l'équipe d'animation beta.gouv.fr. Ils sont en général communiqués sur le Slack avant d'être publiés plus largement sur beta.gouv.fr/recrutement.
+Des postes sont régulièrement ouverts au sein de l'équipe d'animation beta.gouv.fr. Ils sont en général communiqués sur Mattermost avant d'être publiés plus largement sur beta.gouv.fr/recrutement.
 
 ## Contacter l'équipe d'animation
 
