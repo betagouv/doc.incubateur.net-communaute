@@ -38,5 +38,11 @@ Si tu n'as pas supprimé ton compte email, il y aura une suppression automatique
 
 ## Mattermost
 
-* Ton compte Mattermost sera désactivé, il faut faire une demande spécifique pour le garder sur \#incubateur-secretariat ou à contact@beta.gouv.fr . Dans ce dernier cas, le compte sera désactivé après 1 mois d'inactivité ou en cas de conflit d'intérêt avec tes nouvelles activités.
+* Désactive ton compte Mattermost
+  * Allez dans le menu, puis "Paramètres du compte" -&gt; "Options avancées" 
+  * Dans "Désactiver mon compte", faite "Modifier" puis "Desactivate"
+
+![D&#xE9;sactiver mon compte](../.gitbook/assets/image%20%2820%29.png)
+
+* Si tu veux le garder il faut faire une demande spécifique pour le garder sur \#incubateur-secretariat ou à contact@beta.gouv.fr . Dans ce dernier cas, le compte sera désactivé après 1 mois d'inactivité ou en cas de conflit d'intérêt avec tes nouvelles activités.
 
