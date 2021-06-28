@@ -13,7 +13,7 @@ On vous propose de répondre rapidement à toute question liée à la conformit�
 Formats possibles :
 
 * Formats courts : intervention ponctuelle sur demande des startups
-  * entretiens “speed dating”, demande par mail / slack ;
+  * entretiens “speed dating”, demande par mail / mattermost ;
   * rédaction, relecture, précision des éléments indispensables à votre conformité RGPD \(production documentaire : mentions légales, CGU, politique de confidentialité\) ;
   * production d’éléments de langage pour rassurer vos partenaires ;
   * challenge exemplarité : analyse des outils tiers utilisés et proposition de solution plus “vertueuses” ;
