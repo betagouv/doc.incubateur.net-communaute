@@ -97,5 +97,5 @@ Ta signature ne doit pas mentionner la DINUM, pour éviter de porter à confusio
 
 ## Retrouver mon mot de passe
 
-Si tu as perdu ton mot de passe, il faut passer par OVH pour le récupérer. Tu peux demander de l'aide sur \#incubateur-secretariat sur Slack.
+Si tu as perdu ton mot de passe, il faut passer par OVH pour le récupérer. Tu peux demander de l'aide sur \#incubateur-secretariat sur Mattermost.
 
