@@ -45,7 +45,6 @@ Une instance Matomo est disponible [ici](http://stats.data.gouv.fr/). Vous pouve
 
 Ont les accès:
 
-* @hussardnum
 * @Florian
 * @julien
 
@@ -53,9 +52,9 @@ Ont les accès:
 
 Ont les accès:
 
-* @hela
-* @sylvain
-* @julien
+* @florian.delezenne
+* @julien.dauphant
+* @tristan.robert
 
 ## Docker Hub
 
@@ -64,22 +63,16 @@ On a [un compte](https://hub.docker.com/u/betagouv) pour stocker des images.
 Ont les accès:
 
 * @florian
-* @hussardnum
 * @jerome
 * @totakoko
-* @jpic
 
 ## Autres ressources partagées
 
-### Gitlab
-
-Aller [Gitlab](https://gitlab.incubateur.net)
-
-S'enregistrer avec une email @beta.gouv.fr, puis créer ou rejoindre les projets.
-
-Support:
-
-* 🔒`#incubateur-ops`
+* Sentry
+* [https://template.incubateur.net/](https://template.incubateur.net/)
+* [https://github.com/betagouv/redirections](https://github.com/betagouv/redirections)
+* [https://metabase.incubateur.net/](https://metabase.incubateur.net/)
+* [https://dashlord.incubateur.net/](https://dashlord.incubateur.net/#/)
 
 ## Services pratiques pour lancer un site Web
 
@@ -112,7 +105,6 @@ Voici des hébergements simple pour un site statique :
 Il existe des hébergeurs qui automatisent la mise en prod de votre application et gère la base de donnée. Ils sont recommandé pour le lancement d'une startup d'état \(**Ne perdez pas du temps avec de l'ops** : concentrez-vous sur le produit\). Voici une liste d'hébergeur permettant d'héberger simplement une application : \(non exhaustive\)
 
 * Clever Cloud \(Français\)
-* Heroku \(Américain, propose d'un offre gratuite utile pour des applications de tests\)
 * Scalingo \(Français, propose une offre pour les startups d'état : 100€/mois offert pendant les 6 premiers mois\)
 
 > Pour ces hébergeurs vous devez respecter certaines normes, comme la configuration par les variables d'environnement \(ce qui est toujours bon à faire, aller faire un tour sur les [The Twelve-factor app](https://12factor.net/)\).
@@ -126,7 +118,6 @@ Il existe des hébergeurs qui automatisent la mise en prod de votre application 
 Voici des recommandations d'hébergeur permettant de louer machine virtuel ou serveur.
 
 * AlwaysData : Français, propose une offre d'hébergement mutualisé multi-languages aussi, ainsi que les emails et les DNS \(domaine de second niveau\)
-* AWS : Américain, services très variés autour de machines virtuelles, propose une offre de 2000$ pour les startups d'état
 * OVH : Français, services très variés de machines virtuelles, bare-metal, base de donnée managé, emails et DNS \(commence à faire de l'orchestration avec kubernetes, on pourra bientôt le classer en simple\)
 * Scaleway / Online : Français, services très variés de machines virtuelles, bare-metal, base de données managées, emails et DNS \(et bientôt kubernetes manager\)
 
