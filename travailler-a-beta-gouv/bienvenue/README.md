@@ -4,6 +4,12 @@ description: 'Tu viens d''arriver ? Bienvenue, et laisse toi guider.'
 
 # 🛫 Embarquer un nouveau membre
 
+## Bienvenue dans la communauté beta.gouv.fr ! 
+
+{% hint style="info" %}
+Si tu as besoin d'aide à n'importe quel moment de la procédure d'embarquement qui suit, envoie un mail à [`contact@beta.gouv.fr`](mailto:contact@beta.gouv.Fr)ou demande sur[`#incubateur-help`](https://startups-detat.slack.com/messages/incubateur-help)sur Slack.
+{% endhint %}
+
 {% hint style="info" %}
 Si tu as besoin d'aide, envoyer un mail à [`contact@beta.gouv.fr`](mailto:contact@beta.gouv.Fr)ou demande sur`#incubateur-help`sur Mattermost.
 {% endhint %}
@@ -11,10 +17,14 @@ Si tu as besoin d'aide, envoyer un mail à [`contact@beta.gouv.fr`](mailto:conta
 ## Démarre avec les indispensables
 
 {% hint style="success" %}
-Créé ta fiche sur le secrétariat pour obtenir ton email @beta.gouv.fr
+Créé ta fiche sur le secrétariat  pour obtenir ton email @beta.gouv.fr en cliquant sur le lien ci-dessous.
 {% endhint %}
 
 {% embed url="https://secretariat.incubateur.net/onboarding" caption="" %}
+
+{% hint style="success" %}
+Grâce à ton compte, tu pourras nous rejoindre sur notre messagerie instantanée Mattermost.
+{% endhint %}
 
 {% hint style="warning" %}
 Pour que ton compte soit finalisé, ton contact référent doit se rendre sur Github et valider la demande. Cela peut prendre quelques minutes. 

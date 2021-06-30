@@ -1,21 +1,4 @@
----
-description: >-
-  Chacune et chacun a le droit de se sentir à l'aise dans son environnement
-  professionnel. Voici quelques conseils et informations à garder en tête pour
-  garantir que ce soit bien le cas.
----
-
-# 💖 Découvrir notre culture
-
-Sans prétendre à l'exhaustivité, voici ci-dessous un aperçu de différentes situations, normales et moins normales, qui peuvent être vécues à beta, et dans chaque cas ce que tu peux faire pour y réagir.
-
-## Bien dans tes baskets
-
-C'est, de notre point de vue, l'état souhaité et normal au sein des équipes produit et transverses de beta.
-
-Je bosse dans une équipe qui marche bien, je me lève le matin avec le sourire et je suis content·e la plupart du temps à l'idée de la journée qui s'annonce. Mon travail a du sens et j'y trouve de quoi m'épanouir et progresser.
-
-Bien entendu tous les jours ne se ressemblent pas, et certains jours je peux me contenter de faire mes heures, ou faire mes tâches. Je prends du repos ou des congés quand c'est nécessaire en étant sensible à mon énergie et mon état de santé. **Je partage régulièrement avec mon équipe à l'occasion de rétrospectives afin de maintenir cet état positif.**
+# Conflits, mal-être, souffrance, violence ou harcèlement
 
 ## Conflit
 
@@ -43,6 +26,10 @@ Je ne suis pas seul·e responsable de mes conditions de succès ; si je suis rec
 
 Le mal-être ou la souffrance exigent une réponse rapide, et peuvent être pris en charge dans le cadre de confiance qu'est l'équipe. C'est plus difficile lorsqu'il s'agit de faits relevant de diverses formes de violence : propos sexistes ou dégradants, faits pouvant relever du harcèlement moral, discrimination, etc.
 
+Les comportements abusifs ne sont pas tolérés. Est notamment estimée abusive la manifestation, dans le cadre des relations de travail, de comportements ou de propos sexistes, homophobes, racistes, antisémites, discriminants, transphobes, sérophobes, grossophobes, etc ; par exemple, prononcer des paroles négatives ou offensantes sur l'apparence physique, la corpulence, les vêtements, le statut social, l'expression de genre, est intolérable, de même que toucher des personnes sans leur accord tacite.
+
+Le harcèlement moral ou sexuel est interdit et constitue un délit pénal. A titre de référence, nous renvo~~y~~ons à la politique anti-harcèlement formulée dans le [Geek Feminism wiki](https://geekfeminism.wikia.org/wiki/Conference_anti-harassment/Policy).
+
 Dès lors que je me sens victime de fait graves, je peux utiliser les recours décrits ci-dessus. Si mes recours à l'équipe ou à la chaîne d'accompagnement n'aboutissent pas, voire **en parallèle si je me sens menacé·e, je fais appel à la cellule d'écoute psychologique ainsi qu'aux services d'assistance juridique proposés par la DINUM à travers Allo Discrim**. Si je suis salarié·e de la DINUM ou d'une autre administration, je peux également me tourner vers les fonctions Ressources Humaines. Dans tous les cas, je suis protégé·e en la matière par la loi, et en cas de harcèlement avéré je dispose de recours de nature civile et pénale.
 
 Coordonnées de la cellule:
@@ -50,7 +37,9 @@ Coordonnées de la cellule:
 * numéro non surtaxé 0 800 200 286 - **pour une écoute par des psychologues**
 * site Web [https://allodiscrim.wethics.eu/](https://allodiscrim.wethics.eu/) - code 2018 - **pour un conseil juridique par des avocats**
 
-{% page-ref page="conseils/independant-victime-de-harcelement-ou-discrimination.md" %}
+{% page-ref page="independant-victime-de-harcelement-ou-discrimination.md" %}
+
+
 
 
 
