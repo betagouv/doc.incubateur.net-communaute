@@ -24,6 +24,8 @@ Concernant le devis, la date limite de prestation n'est que prévisionnelle. Ain
 
 {% page-ref page="la-facturation-de-a-a-z.md" %}
 
+{% page-ref page="publier-son-budget.md" %}
+
 {% page-ref page="preparer-un-comite-dinvestissement.md" %}
 
 {% page-ref page="preparer-la-fin-dannee-budgetaire.md" %}
@@ -35,6 +37,3 @@ Concernant le devis, la date limite de prestation n'est que prévisionnelle. Ain
 {% page-ref page="faire-un-achat.md" %}
 
 {% page-ref page="tourniquet-developpement/" %}
-
-
-
