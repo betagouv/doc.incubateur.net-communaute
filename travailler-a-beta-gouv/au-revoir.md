@@ -1,17 +1,30 @@
 ---
-description: "Tu nous quittes ? On espère que tu as passé un moment positif avec nous ! \U0001F63A"
+description: Tu nous quittes ? On espère que tu as passé un moment positif avec nous !
 ---
 
 # 🙋 Quitter beta.gouv
 
-## Checklist de départ
+## Liste de tâches avant ton départ
 
-* [ ] T'assurer que ta date de départ a bien été renseignée dans [ta fiche sur beta.gouv.fr](https://github.com/betagouv/beta.gouv.fr/tree/master/content/_authors).
-* [ ] Clôturer ton adresse email sur [l'application secretariat](https://secretariat.incubateur.net/account) 
+### C'est indispensable pour le suivi RH
 
-> C'est important, c'est là que se fait le suivi RH !
+* [ ] Renseigner ta date de départ dans [ta fiche sur beta.gouv.fr](https://github.com/betagouv/beta.gouv.fr/tree/master/content/_authors).
+* [ ] Clôturer ton adresse email sur [l'application secrétariat](https://secretariat.incubateur.net/account) 
+* [ ] Te retirer les droits d'écriture de [l'agenda public de l'incubateur](https://calendar.google.com/calendar/embed?src=0ieonqap1r5jeal5ugeuhoovlg%40group.calendar.google.com&ctz=Europe/Paris).
+* [ ] Désactiver ton compte Mattermost
+* [ ] Si tu utilises Github : Quitter l'organisation BetaGouv
 
-* [ ] Si tu le souhaites tu peux demander sur [\#incubateur-secretaria](https://startups-detat.slack.com/archives/C0KUBLJG4) de rediriger ton adresse `@beta.gouv.fr` vers `departs@beta.gouv.fr` pour que les personnes écrivant à cette adresse reçoivent un répondeur les informant de ton départ :
+### C'est optionnelle
+
+* [ ] Rediriger ton adresse `@beta.gouv.fr` vers `departs@beta.gouv.fr` en le demandant  sur [\#incubateur-secretaria](https://mattermost.incubateur.net/betagouv/channels/incubateur-secretaria) 
+* [ ] Faire un debrief d'une demi-heure de ton passage à l'Incubateur avec [un·e permanent·e](comprendre-loffre-de-service-de-beta.gouv.fr/equipe-danimation/), pour qu'on puisse s'améliorer.
+* [ ] Annoncer la date de ton pot de départ sur [\#general](https://mattermost.incubateur.net/betagouv/channels/town-square)
+
+## Comment ça va se passer pout ton adresse email beta.gouv.fr ?
+
+### Si tu as demandé la redirection de ton email @beta vers une autre :
+
+Les personnes écrivant à ton ancienne adresse @beta.gouv.fr recevront ce message :
 
 > Bonjour !
 >
@@ -24,19 +37,12 @@ description: "Tu nous quittes ? On espère que tu as passé un moment positif av
 > Bonne journée,
 >
 > L'équipe beta.gouv.fr
->
-> Il est possible de personnaliser le répondeur personnalisé mais c'est une étape qui prends un peu plus de temps pour l'administrateur \(à utiliser avec parcimonie ou à automatiser ^\).
 
-* [ ] Si tu utilises Github : Quitter l'organisation BetaGouv
-* [ ] Te retirer les droits d'écriture de [l'agenda public de l'incubateur](https://calendar.google.com/calendar/embed?src=0ieonqap1r5jeal5ugeuhoovlg%40group.calendar.google.com&ctz=Europe/Paris).
-* [ ] Faire un debrief d'une demi-heure de ton passage à l'Incubateur avec un·e permanent·e, pour qu'on puisse s'améliorer.
-* [ ] Annoncer la date de ton pot de départ sur \#general ! 🍻
+### Si tu n'as pas supprimé ton compte email
 
-## Ton adresse email beta.gouv.fr
+Il y aura une suppression automatique de l'adresse email @beta.gouv.fr après la date de fin de contrat. Tu recevras un rappel lorsque la date de fin de mission s'approche.
 
-Si tu n'as pas supprimé ton compte email, il y aura une suppression automatique de l'adresse email @beta.gouv.fr après la date de fin de contrat. Tu devrais recevoir un rappel lorsque la date de fin de mission s'approche.
-
-## Mattermost
+## Comment ça se passe avec ton compte Mattermost suite à ton départ ?
 
 * Désactive ton compte Mattermost
   * Allez dans le menu, puis "Paramètres du compte" -&gt; "Options avancées" 
