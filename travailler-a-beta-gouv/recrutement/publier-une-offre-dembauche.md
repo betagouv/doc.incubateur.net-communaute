@@ -3,7 +3,7 @@
 {% hint style="success" %}
 Pour **créer simplement une offre de recrutement, tu peux utiliser**[ **cette plateforme facile d'utilisation.**](https://beta.gouv.fr/admin)\*\*\*\*
 
-Dès que ton offre sera en ligne, tu pourras **annoncer ton** [**recrutement sur le compte Linkedin de beta.gouv** ](../comprendre-loffre-de-service-de-beta.gouv.fr/nos-services-a-destination/annoncer-un-recrutement-sur-le-compte-linkedin-de-beta.gouv.md)pour toucher plus de candidats potentiels.
+Dès que ton offre sera en ligne, tu pourras **annoncer ton** [**recrutement sur le compte Linkedin de beta.gouv** ](annoncer-un-recrutement-sur-le-compte-linkedin-de-beta.gouv.md)pour toucher plus de candidats potentiels.
 {% endhint %}
 
 ![](../../.gitbook/assets/recrutement.jpg)
@@ -20,5 +20,5 @@ Une fois que l'offre aura été pourvue, penses à fermer l'offre.
 
 Tu peux également consulter le [guide au recrutement ](comment-recruter.md)beta.gouv.fr.
 
-{% page-ref page="../comprendre-loffre-de-service-de-beta.gouv.fr/nos-services-a-destination/annoncer-un-recrutement-sur-le-compte-linkedin-de-beta.gouv.md" %}
+{% page-ref page="annoncer-un-recrutement-sur-le-compte-linkedin-de-beta.gouv.md" %}
 
