@@ -35,12 +35,12 @@ Bien s'assurer qu'un événement n'a pas déjà été programmé sur le même cr
 {% endhint %}
 
 {% hint style="info" %}
-**Un export** _**analytics**_ **demandé après la fin d'un webinaire sera envoyé par défaut à l'adresse** [corine.waroquiers@data.gouv.fr](mailto:corine.waroquiers@data.gouv.fr). Contactez un membre de l'équipe pour récupérer le fichier. 
+**Un export** _**analytics**_ **demandé après la fin d'un webinaire sera envoyé par défaut à l'adresse contact@api.gouv.fr**. Contactez un membre de l'équipe pour récupérer le fichier. 
 {% endhint %}
 
 {% hint style="info" %}
-Login : [corine.waroquiers@data.gouv.fr](mailto:corine.waroquiers@data.gouv.fr)
+Login : **contact@api.gouv.fr**
 
-Mot de passe : demander en message privé à Corinne \(présente sur mattermost\)
+Mot de passe : demander en message privé à [corine.waroquiers@data.gouv.fr](mailto:corine.waroquiers@data.gouv.fr) \(présente sur mattermost\) ou quelqu'un de l'équipe api.
 {% endhint %}
 
