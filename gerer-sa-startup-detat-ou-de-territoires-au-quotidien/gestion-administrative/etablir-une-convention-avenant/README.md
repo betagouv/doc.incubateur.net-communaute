@@ -2,6 +2,8 @@
 
 {% hint style="success" %}
 \*\*\*\*[**Modèle de conventions de délégation de gestion ou de partenariat**](https://docs.google.com/document/d/1i-6oZUv4as_no8lJ_NeqvdcaQ5k-08oT2lE-7nzgTew/edit)\*\*\*\*
+
+\*\*\*\*[**Modèle d'avenant de délégation de gestion**](https://docs.google.com/document/d/1JvYlkYrToo-jPbCxbVxQ-97TIo1dyV4Keq54EkgV9XY/edit?usp=sharing)\*\*\*\*
 {% endhint %}
 
 Bonne nouvelle : une administration partenaire souhaite lancer une nouvelle Startup d’Etat, ou refinancer une Startup d’Etat existante qui a eu un succès avéré. L’étape suivante consiste souvent à établir une convention avec cette administration pour matérialiser le partenariat public-public et mettre en place très rapidement des équipes autonomes et dédiées focalisées sur les problèmes identifiés.
