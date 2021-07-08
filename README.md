@@ -32,6 +32,8 @@ description: "\U0001F9ED Toutes les ressources pour aider les membres de la comm
 
 {% page-ref page="gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-gere-mon-produit-et-son-impact/gerer-sa-fiche-produit.md" %}
 
+{% page-ref page="gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/budget-de-sa-se/faire-une-demande-de-devis.md" %}
+
 ### Pour les chargé\(e\)s de déploiement
 
 {% page-ref page="travailler-a-beta-gouv/se-former/le-metier-de-charge.e-de-deploiement-chez-beta.gouv/" %}
