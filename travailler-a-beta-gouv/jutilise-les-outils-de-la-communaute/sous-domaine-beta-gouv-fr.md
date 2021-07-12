@@ -2,9 +2,9 @@
 
 ## beta.gouv.fr ou incubateur.net ?
 
-Pour la production, c'est ok d'utiliser mastartup.beta.gouv.fr.
+Pour la production, c'est ok d'utiliser ma-startup.beta.gouv.fr.
 
-Pour le reste \(dev, pré-prod\), il faut utiliser mastartup.incubateur.net
+Pour le reste \(dev, pré-prod\), il faut utiliser ma-startup.incubateur.net
 
 ## Comment obtenir la délégation d'un sous-domaine beta.gouv.fr ou incubateur.net sur AlwaysData ? 
 
