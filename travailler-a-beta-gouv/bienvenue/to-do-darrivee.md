@@ -7,6 +7,7 @@ description: 'Pour comprendre beta.gouv.fr, rien d''obligatoire bien sûr !'
 ###  Le premier mois
 
 * [ ] Rencontrer [ton parrain ou ta marraine ](marrainage/) 
+* [ ] Ajouter ton expérience chez [beta.gouv ](https://www.linkedin.com/company/betagouv/?originalSubdomain=fr)dans ton profil LinkedIn  
 * [ ] Participer à un 🛫 **atelier d'embarquement beta.gouv.fr** \(ils sont régulièrement organisés et référencés sur [l'agenda public de l'incubateur](https://calendar.google.com/calendar/embed?src=0ieonqap1r5jeal5ugeuhoovlg%40group.calendar.google.com&ctz=Europe/Paris)\)
 
 > Tu trouveras ici la [présentation déroulée lors de cet atelier](https://docs.google.com/presentation/d/1ded7iFFFaPuw9tKcj6g-xLBggAox-QNDjsMamECPqHU/edit) \(dernière mise à jour : avril 2021\)
