@@ -4,7 +4,7 @@
 
 ## Travailler chez Beta.Gouv <a id="travailler-a-beta-gouv"></a>
 
-* [🛫 Embarquer un nouveau membre](travailler-a-beta-gouv/bienvenue/README.md)
+* [🛫 Ton embarquement](travailler-a-beta-gouv/bienvenue/README.md)
   * [Tes premiers mois à beta.gouv](travailler-a-beta-gouv/bienvenue/to-do-darrivee.md)
   * [Marrainage](travailler-a-beta-gouv/bienvenue/marrainage/README.md)
     * [Comment embarquer quelqu'un ?](travailler-a-beta-gouv/bienvenue/marrainage/embarquement-par-le-recruteur.md)
