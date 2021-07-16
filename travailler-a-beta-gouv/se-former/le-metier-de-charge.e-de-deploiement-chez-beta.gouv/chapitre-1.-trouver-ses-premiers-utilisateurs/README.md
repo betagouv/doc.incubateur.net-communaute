@@ -1,5 +1,9 @@
 # 🙋‍♀️ Chapitre 1. Trouver ses premiers utilisateurs
 
+{% embed url="https://www.youtube.com/watch?v=O5uzA15EyfQ" %}
+
+Retrouver dans cette vidéo l'atelier de 2h 
+
 ![](https://lh4.googleusercontent.com/G0sHZCcGLLMxUgyko3g0Wcr29Vq2URzEtDunNqmWEtOhv1mzVTgxCN1rIuLY0KGn-76fi9dpetVfC9mFhy9SR56DjxVaZpnZO9yxLFo_XFHDfoXi_AyAioo_nF96pk1j2OFkg3s2)
 
 ## **Objectifs et action**  
