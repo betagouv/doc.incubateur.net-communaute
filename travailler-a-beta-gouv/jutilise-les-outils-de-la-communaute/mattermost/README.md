@@ -29,7 +29,7 @@ A l'installation, si le client demande l'ajout d'un serveur \("Add server"\), ch
 
 ![](https://lh6.googleusercontent.com/dmzmqbVoDmbXpOsSfIVTXLirn__E01dYadqfTmXUQaXzXkpCLNsPM24xi_2dgEMDoaMoyMyI6Gbq-o-Cs0hx9nQo7RntZghW4aDH7bsuayaQX5uvq7Y8w72i9OyHIqJOW4AYRW9Y)
 
-#### **Dans le cas où votre adresse Beta n’est pas reconnue, merci de nous prévenir sur le canal Slack** [**\#aide-mattermost**](https://startups-detat.slack.com/archives/C021C1HDA1F) **ou par email contact@beta.gouv.fr  pour que nous débloquions la situation.**
+#### **Dans le cas où votre adresse beta n’est pas reconnue, merci de nous prévenir sur le canal Slack** [**\#aide-mattermost**](https://startups-detat.slack.com/archives/C021C1HDA1F) **ou par email contact@beta.gouv.fr  pour que nous débloquions la situation.**
 
 **Etape 3** : pour faciliter la gestion de l’espace, vous pouvez changer votre “Nom d'utilisateur” par prenom.nom \(comme le début de votre email\). Il vous faut :
 
@@ -176,4 +176,8 @@ Vous y avez accès en cliquant sur votre nom en haut à gauche.
 La liste et disponible sur cette page ou en tapant « / » dans une conversation
 
 [https://mattermost.incubateur.net/help/commands](https://mattermost.incubateur.net/help/commands)
+
+{% page-ref page="acces-a-lespace-de-la-communaute-beta.gouv-sur-mattermost.md" %}
+
+
 
