@@ -27,6 +27,7 @@
 * [🔧 Utiliser les outils de la communauté](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/README.md)
   * [Mattermost](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/mattermost/README.md)
     * [Migration Slack -&gt; Mattermost](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/mattermost/migration-slack-greater-than-mattermost.md)
+    * [Accès à l'espace de la communauté beta.gouv sur Mattermost](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/mattermost/acces-a-lespace-de-la-communaute-beta.gouv-sur-mattermost.md)
   * [Mettre à jour mes informations](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/mise-a-jour-de-mes-informations.md)
   * [DashLord](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/dashlord/README.md)
     * [Questions-réponses](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/dashlord/questions-reponses.md)
