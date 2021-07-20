@@ -4,7 +4,7 @@
 
 Tu veux travailler dans les bureaux de Ségur ? Demande ton badge !
 
-1. Demande le formulaire de badge sur [\#bureaux-segur](https://startups-detat.slack.com/archives/C74HCKV8A) en indiquant la formule "badge segur". Ce document est jugé comme confidentiel par l'administration, nous ne pouvons pas le rendre public malheureusement.
+1. Demande le formulaire de badge sur [\#bureaux-segur](https://mattermost.incubateur.net/betagouv/channels/bureaux-segur) en indiquant la formule "badge segur". Ce document est jugé comme confidentiel par l'administration, nous ne pouvons pas le rendre public malheureusement.
 2. Le remplir \(possible directement depuis son PC avec un logiciel compatible, sinon en papier\) avec :
    * Demandeur
      * Florian Delezenne
@@ -18,7 +18,7 @@ Tu veux travailler dans les bureaux de Ségur ? Demande ton badge !
    * Service d'affectation
      * Service : Programme TechGouv - Mission Beta 
      * Direction : DINUM
-     * Bureau : 5.504, 5.505, 5.509, 5.511, 5.515, 
+     * Bureau : 5.413, 5.420 
    * Site d'affectation
      * Ségur
    * Droit d'accès aux sites
