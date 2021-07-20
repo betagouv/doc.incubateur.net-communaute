@@ -1,7 +1,5 @@
 # Rémunération
 
-
-
 _Les éléments partagés ici peuvent servir de référence pour recruter dans une startup d'Etat. Ils reflètent d'une part la volonté de recruter des personnes talentueuses, d'autre part l'exigence d'éthique budgétaire liée à notre mission d'intérêt général. Ce document a une valeur indicative et pourra évoluer en fonction du marché et des retours des équipes._
 
 ### Contexte du document
