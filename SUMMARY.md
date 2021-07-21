@@ -64,6 +64,7 @@
   * [S'engager dans une action transverse](travailler-a-beta-gouv/actions-transverses/sengager-dans-une-action-transverse.md)
   * [Les zones de responsabilités](travailler-a-beta-gouv/actions-transverses/les-zones-de-responsabilites.md)
   * [La prise de décision](travailler-a-beta-gouv/actions-transverses/la-prise-de-decision.md)
+  * [Proposer un nouvel outil à la communauté](travailler-a-beta-gouv/actions-transverses/proposer-un-nouvel-outil-a-la-communaute.md)
 * [🎯 Recruter](travailler-a-beta-gouv/recrutement/README.md)
   * [Comment recruter ?](travailler-a-beta-gouv/recrutement/comment-recruter.md)
   * [Publier une offre d'embauche](travailler-a-beta-gouv/recrutement/publier-une-offre-dembauche.md)
