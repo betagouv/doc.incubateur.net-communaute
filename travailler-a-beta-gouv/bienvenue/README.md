@@ -7,11 +7,7 @@ description: 'Tu viens d''arriver ? Bienvenue, et laisse toi guider.'
 ## Bienvenue dans la communauté beta.gouv.fr ! 
 
 {% hint style="info" %}
-Si tu as besoin d'aide à n'importe quel moment de la procédure d'embarquement qui suit, envoie un mail à [`contact@beta.gouv.fr`](mailto:contact@beta.gouv.Fr)ou demande sur[`#incubateur-help`](https://startups-detat.slack.com/messages/incubateur-help)sur Slack.
-{% endhint %}
-
-{% hint style="info" %}
-Si tu as besoin d'aide, envoyer un mail à [`contact@beta.gouv.fr`](mailto:contact@beta.gouv.Fr)ou demande sur`#incubateur-help`sur Mattermost.
+Si tu as besoin d'aide, envoyer un mail à [`contact@beta.gouv.fr`](mailto:contact@beta.gouv.Fr)ou demande sur[`#incubateur-help`](https://mattermost.incubateur.net/betagouv/channels/incubateur-help)sur Mattermost. 
 {% endhint %}
 
 ## Démarre avec les indispensables
