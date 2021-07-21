@@ -35,6 +35,10 @@ Crée un compte simplement en suivant [ces instructions](https://doc.incubateur.
 
 * Si l'équipe utilise l'espace communautaire beta.gouv pour échanger et ne dispose pas d'espace de travail propre, alors tu es bloqué\(e\) ! Vérifie que tu ne peux pas être considéré\(e\) comme membre de beta.gouv \(cas n°1°\) ou vois avec l'équipe s'il y a une opportunité de créer un espace de travail dédié.  
 
+{% hint style="success" %}
+La bonne nouvelle : quel que soit l'espace de travail auquel tu as accès, tu peux contacter tous les membres de la communauté beta.gouv présents sur Mattermost ! 
+{% endhint %}
+
 ### Liste des espaces de travail
 
 | Nom de l'espace | Description |
