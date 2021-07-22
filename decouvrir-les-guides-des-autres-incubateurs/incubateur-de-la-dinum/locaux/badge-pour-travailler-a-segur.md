@@ -1,39 +1,91 @@
+---
+description: Tu veux travailler dans les bureaux de Ségur ? Demande ton badge !
+---
+
 # Badge pour travailler à Ségur
 
-> Si tu ne viens moins d'une fois par semaine, ils vont te refuser le badge. Indique dans ce cas que tu viens au moins une fois par semaine si c'est le cas.
+## 1. Quelles sont les informations à préparer ?
 
-Tu veux travailler dans les bureaux de Ségur ? Demande ton badge !
+* **Période durant laquelle tu vas demander un accès à Segur**. Elle correspond à celle de ta mission dans une Startup d'Etat.
+* **Ton email @beta.gouv.fr** \([Comment avoir un email @beta.gouv.fr](../../../travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/emails.md)\);
+* Un **photo ou un scan, recto-verso, de ta carte d'identité** ou de ton passeport en cours de validité au format JPEG \(\*.jpg\) ou PDF ;
+* Une **photo d'identité couleur** prise de face sur un fond neutre au format JPEG \(\*.jpg\).
+* **Le formulaire de demande de badge** que tu peux récupérer sur [\#bureaux-segur](https://mattermost.incubateur.net/betagouv/channels/bureaux-segur) en indiquant la formule "badge segur". Ce ficher XLS est jugé comme confidentiel par l'administration, nous ne pouvons pas le rendre public.
 
-1. Demande le formulaire de badge sur [\#bureaux-segur](https://mattermost.incubateur.net/betagouv/channels/bureaux-segur) en indiquant la formule "badge segur". Ce document est jugé comme confidentiel par l'administration, nous ne pouvons pas le rendre public malheureusement.
-2. Le remplir \(possible directement depuis son PC avec un logiciel compatible, sinon en papier\) avec :
-   * Demandeur
-     * Florian Delezenne
-     * Service : Programme TechGouv - Mission Beta 
-   * Résident bénéficiaire
-     * Bien indiquer une date de prise de fonction et une date de fin de fonction \(même approximative\).
-   * Responsable Hiérarchique
-     * Florian Delezenne
-     * Fonction : Chef de mission
-     * Délégation de signature donnée au résident bénéficiaire : Non
-   * Service d'affectation
-     * Service : Programme TechGouv - Mission Beta 
-     * Direction : DINUM
-     * Bureau : 5.413, 5.420 
-   * Site d'affectation
-     * Ségur
-   * Droit d'accès aux sites
-     * Ségur
-   * Sur la deuxième page : Droits ressources Humaines
-     * Accès au restaurant administratif : Ségur-Fontenoy
-     * Gestion du temps : Agent ne bénéficiant pas du badgeage horaire
-   * Ne pas compléter le reste de la deuxième page \(sauf la date\)
-3. Envoyer simultanément le formulaire et une photo carré couleur de face \(et sur fond blanc !\) à l'email [logistique-dinum@pm.gouv.fr](mailto:logistique-dinum@pm.gouv.fr) en:
-4. mettant Florian Delezenne en cc avec son email en @beta.gouv.fr et Amelie Jonnet en cc avec son email en @modernisation.gouv.fr
-5. et en indiquant la fréquence de tes visites à Ségur \(1x par semaine / 3x par semaine\)
-6. comme sujet : "Demande de badge - Externe DINUM"
-7. Une fois la demande de badge effectuée, il faudra attendre quelques jours, voir quelques semaines avant l'émission du badge. Les badges sont produits en salle 1607. En attendant, n'hésite pas à demander à un membre de la communauté de transmettre un mail à l'accueil de Ségur afin que l'on te laisse monter tous les matins sans avoir à appeler quelqu'un. Exemple de mail :
+### Aide pour remplir le formulaire
+
+| Champs | Informations à renseigner |
+| :--- | :--- |
+| _Au sein de_  | BETA |
+| _Accès à SEGUR_ | Locaux SEGUR 5520 et 5513 et cantine |
+| _Fourniture d'une adresse_ | \[Laisser vide\] |
+| _Numéro commande Chorus_ | \[Laisser vide\] |
+
+## 2. Quel est l'email à envoyer pour obtenir son badge ?
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Champs</th>
+      <th style="text-align:left">A remplir</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><b>Destinataire</b>
+      </td>
+      <td style="text-align:left">logistique-dinum@pm.gouv.fr</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>En copie</b>
+      </td>
+      <td style="text-align:left">
+        <p>Florian Delezenne : prenom.nom@beta.gouv.fr</p>
+        <p>Secr&#xE9;tariat de la Dinum : sec.dinum@modernisation.gouv.fr</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Objet </b>
+      </td>
+      <td style="text-align:left">Demande de badge - Externe DINUM</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Pi&#xE8;ces jointes</b>
+      </td>
+      <td style="text-align:left">
+        <p>Photo de la carte d&apos;identit&#xE9; ou passeport</p>
+        <p>Photo d&apos;identit&#xE9;</p>
+        <p>Formulaire renseign&#xE9;</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Message</b>
+      </td>
+      <td style="text-align:left">
+        <p>Bonjour,</p>
+        <p></p>
+        <p>Je sollicite un badge d&apos;acc&#xE8;s &#xE0; Segur dans les locaux 5520
+          et 5513 ainsi qu&apos;&#xE0; la cantine.
+          <br />Je souhaite y travailler X fois par semaine.</p>
+        <p>J&apos;ai rejoins r&#xE9;cemment beta.gouv au sein de la DINUM.
+          <br />Florian Delezenne, responsable de beta.gouv, est en copie de cet email.
+          <br
+          />
+          <br />Bonne journ&#xE9;e,
+          <br />
+          <br />Pr&#xE9;nom Nom</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Combien de temps pour obtenir son badge ?
+
+Une fois la demande de badge effectuée, il faudra attendre quelques jours, voir quelques semaines avant l'émission du badge. 
+
+Les badges sont produits en salle 1607. 
+
+En attendant, n'hésite pas à demander à un membre de la communauté de transmettre un mail à l'accueil de Ségur afin que l'on te laisse monter tous les matins sans avoir à appeler quelqu'un. Exemple de mail :
 
 > Bonjour, Pourriez-vous s'il vous plaît laisser monter xxxxxx tous les matins des prochains jours en salle 5.515 ? Il s'agit d'une nouvelle personne collaborant avec l'incubateur de services numériques de la DINUM. Nous avons effectué sa demande de badge il y a quelques jours, mais ce-dernier n'est pas encore arrivé. Merci beaucoup !
->
-> **ProTip** Tu vas souvent rencontrer des acronymes administratifs étranges. Pour t'aider, la commande `/trad` est disponible sur Slack ! N'hésite pas à enrichir ce glossaire partagé au fur et à mesure de tes découvertes
 
