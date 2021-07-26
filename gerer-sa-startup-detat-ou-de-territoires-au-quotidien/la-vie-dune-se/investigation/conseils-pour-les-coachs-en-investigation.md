@@ -20,7 +20,7 @@ Cette transparence s'applique dès la phase d'investigation.
 * **créer un canal de discussion** en ligne spécifiquement sur ton investigation en invitant l'intra
 * la norme c'est d'avoir un canal public sur le Slack de beta :
   * Avantage : Vous pourrez facilement demander de l'aide ou de l'expertise à un membre de la communauté.
-  * Inconvénient : Il y a beaucoup de "bruits" sur le Slack de beta ce qui peut être un frein pour certains intra.
+  * Inconvénient : Il y a beaucoup de "bruits" sur le Mattermost de beta ce qui peut être un frein pour certains intra.
 * Tu pourras utiliser d'autres canaux de discussion comme Tchap, Resana ou un autre Slack :
   * Avantage : Il y aura moins de "bruits" que sur le Slack de Beta.
   * Inconvénient : L'accès à la communauté et aux ressources seront plus difficiles. Il conviendra que le coach à minima soit présent sur le Slack de Beta pour faciliter les échanges avec les autres coachs, les co-animateurs et la communauté?
