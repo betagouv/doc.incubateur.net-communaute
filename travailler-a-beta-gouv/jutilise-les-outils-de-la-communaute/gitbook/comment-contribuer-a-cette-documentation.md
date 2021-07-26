@@ -15,12 +15,12 @@ Chaque membre de la communauté peut devenir éditeur et proposer des modificati
 
 Pour contribuer à ce guide \(gitbook\), tu as deux choix :
 
-* simplement poster ce message sur Slack : "Bonjour, j'aimerai savoir comment **modifier la documentation?"** . Le lien de connexion te sera envoyé automatiquement.
+* Cliquer dans le lien posté dans le titre du canal[ \#incubateur-documentation](https://mattermost.incubateur.net/betagouv/channels/incubateur-documentation)
 * Si tu es doué avec github, tu peux aussi modifier ce guide directement [ici](https://github.com/betagouv/doc.incubateur.net-communaute).
 
 Tu ne prends aucun risque à "casser" quoi que ce soit.
 
-Si besoin d'aide, tu peux solliciter les membres du salon \#incubateur-documentation \(sur Mattermost\).
+Si besoin d'aide, tu peux solliciter les membres du salon [\#incubateur-documentation ](https://mattermost.incubateur.net/betagouv/channels/incubateur-documentation)\(sur Mattermost\).
 
 
 
