@@ -7,7 +7,7 @@
 
 
 
-Dans tous les cas vous pouvez demander de l'aide sur Slack `#incubateur-help` ou par email sur `contact@beta.gouv.fr`
+Dans tous les cas vous pouvez demander de l'aide sur Mattermost `#incubateur-help` ou par email sur `contact@beta.gouv.fr`
 
 ## Je créé un compte Github
 
@@ -80,7 +80,7 @@ Dans tous les cas vous pouvez demander de l'aide sur Slack `#incubateur-help` ou
 * Notre secrétariat robotisé tourne tous les jours à 13h une fois un compte github ajouté sur une fiche. Si tu as publié la modification dans la matinée, tu recevras ton invitation pour l'après-midi. Sinon, il faudra patienter jusqu'au lendemain!
 * Pour accepter l'invitation :
   * Soit tu cliques sur l'email reçu par email
-  * Soit aller sur la page [https://github.com/betagouv](https://github.com/betagouv) et accepter l'invitation visile en haut
+  * Soit aller sur la page [https://github.com/betagouv](https://github.com/betagouv) et accepter l'invitation visible en haut
 
 {% page-ref page="../../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-gere-mon-produit-et-son-impact/gerer-sa-fiche-produit.md" %}
 
