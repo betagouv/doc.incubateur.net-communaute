@@ -6,17 +6,42 @@ description: '- en cours de rédaction -'
 
 ## **Quels sont les différents statuts d'indépendant ?**
 
-* **L’entreprise individuelle classique** est une forme juridique adaptée aux personnes qui désirent exer- cer une activité sans créer de société. C’est un statut dont les démarches administratives sont allégées : il n’y a pas de statuts à rédiger et le patrimoine personnel de l’entrepreneur individuel est confondu avec le patrimoine de l’entreprise \(sauf dans le cas de l’EIRL\). L’entrepreneur individuel exerce ainsi en “nom propre”. En cas de dettes, la responsabilité de l’entrepreneur individuel est totale : ses biens personnels peuvent être saisis, à l’exception de sa résidence principale qui est insaisissable si elle n’est pas affectée à un usage professionnel. Ses autres biens immobiliers peuvent être protégés par une déclaration d’insaisissabilité.
+**Il existe deux grandes formes juridiques d'entreprise en France : l'ENTREPRISE INDIVIDUELLE et la SOCIÉTÉ.** 
+
+**1 - L'ENTREPRISE INDIVIDUELLE**
+
+L’entreprise individuelle \(EI\) s’adresse, comme son nom l’indique, aux créateurs d’entreprise qui souhaitent exercer leur activité seuls. C’est la forme juridique la plus souvent choisie car sa création est plus simple et qu’elle ne nécessite pas de capital social.
+
+Dans la forme simple de l’entreprise individuelle \(EI\), l’entrepreneur individuel exerce ainsi en “nom propre” et les patrimoines personnel et professionnel du dirigeant de l'entreprise sont confondus. Cela signifie que vous pouvez piocher dans la trésorerie de votre entreprise sans limite mais également qu’en cas de créance, de faillite, votre responsabilité est totale et votre patrimoine personnel peut se retrouver engagé pour rembourser vos dettes professionnelles.
+
+Il y a deux statuts au sein des EI qui présentent de forts avantages : 
+
+* **L’Entreprise Individuelle à Responsabilité Limitée \(EIRL\)** est un statut qui permet de protéger votre patrimoine personnel des risques financiers de votre activité. Il peut également être avantageux au niveau des impôts, car il vous est possible de payer non pas l'impôt sur le revenu comme toutes les entreprises individuelles mais l’impôt sur les sociétés... Et ce sans avoir à créer de société ! [Guide complet sur l'EIRL](https://www.shine.fr/blog/creer-une-eirl/)
 * **Le statut de micro-entrepreneur** est une version plus simplifiée du statut d’entreprise individuelle, c’est le mode le plus simple pour exercer une activité en tant qu’indépendant. Il est composé de deux volets : le régime micro-social \(pour la protection sociale\) et le régime fiscal de la micro-entreprise \(pour le régime d’imposition\), conçus pour simplifier les démarches administratives. Le travailleur indépendant peut bénéficier de ce statut jusqu’à un certain niveau de chiffre d’affaires hors taxes effectivement encaissé au cours de l’année civile : 170 000 euros pour des activités d’achat / vente ou de fourniture de logement, et 70 000 euros pour les prestations de service et les professions libérales.
+
+**2 - LA SOCIÉTÉ**
+
+La société est une personne morale\*\* distincte de son créateur alors que l’entrepreneur ne fait qu’un  juridiquement avec son entreprise individuelle. 
+
+Qu’est-ce que ça implique ? 
+
+* On peut créer une société à plusieurs
+* Les démarches de création d’une société sont plus fastidieuses
+* La société doit disposer de son patrimoine propre, décorrélé du vôtre.
+* Vous devez suivre des règles établies pour la création de la société et devez rendre des comptes aux éventuels autres associés.
+
+Il existe différents statuts juridiques pour les sociétés. Voici un aperçu des plus répandus : 
+
 * **L’EURL \(Entreprise Unipersonnelle à Responsabilité Limitée\)** est une société unipersonnelle et non une entreprise individuelle. L’EURL étant une personne morale, il est nécessaire de rédiger des statuts. Ce statut permet à l’associé unique d’être protégé par la responsabilité limitée : sa responsabilité est limitée au mon- tant de ses apports. L’EURL permet d’accueillir de nouveaux associés et devient alors une SARL.
-* **L’EIRL \(Entreprise Individuelle à Responsabilité Limitée\)** est un statut hybride entre l’entreprise individuelle et l’EURL. Similaire à l’entreprise individuelle en termes de création et de fonctionnement, il permet en revanche de bénéficier d’une responsabilité limitée comme l’EURL. Les biens personnels de l’entrepreneur individuel sont protégés en cas de poursuites engagées contre lui pour les dettes nées de son activité. La déclaration d’affectation permet ainsi de définir exactement les biens affectés à l’entreprise et ainsi de séparer les biens utilisés à titre professionnel et à titre personnel. Le statut de l’EIRL implique davantage de coûts administratifs par rapport à l’entreprise individuelle.
 * Comme l’EURL, la **SASU \(Société par Actions Simplifiée Unipersonnelle\)** est une société unipersonnelle : c’est une personne morale et il convient donc de rédiger des statuts.
 
   La SASU diffère de l’EURL dans l’encadrement de son activité par le code de commerce : important dans le cas de l’EURL, la SASU bénéficie à l’inverse d’une grande liberté dans son fonctionnement.
 
   À la différence de l’EURL, un président doit être nommé. S’il est rémunéré, celui-ci est assimilé salarié. Il est donc affilié au régime général de la sécurité sociale. Du point de vue fiscal, les bénéfices de la société sont imposés à l’impôt sur les sociétés \(IS\) et la rémunération du dirigeant est im- posée à l’impôt sur le revenu \(IR\). Cependant il est possible d’opter pour une durée de cinq exercices pour une imposition des bénéfices de la société à l’IR : le dirigeant est alors imposé personnellement sur les bénéfices de sa société.
 
-## Qu'est-ce qu'un auto-entreprise ?
+* Les **SAS** et **SARL** sont des statuts qui se prêtent aux entreprises comportant plusieurs associés. 
+
+## Qu'est-ce qu'une auto-entreprise ?
 
 L’auto-entreprise est une **entreprise individuelle** qui relève du régime fiscal de la micro-entreprise et du régime micro-social pour le paiement des cotisations et contributions sociales. Ce régime simplifié a été créé pour faciliter les démarches de création et de gestion de votre activité, tout en vous permettant de bénéficier d’une protection sociale dédiée et d’autres avantages : une protection sociale, des formalités administratives simplifiées, une protection sociale, un droit à la formation professionnelle...
 
@@ -36,15 +61,18 @@ Cependant, nous conseillons de bien suivre le cumul de ses revenus et faire le c
 
 ## \[Auto-entreprise\] Quel est le régime le plus avantageux quand on a dépassé le plafond de CA pour une auto-entreprise ?
 
-Tout dépend des situations personnelles. Ce qui est important c’est de connaître le % de charges en régime de croisière. Attention à ne pas se limiter en TJM "pour éviter de sortir du régime de l'auto-entreprise". Il faut prendre le temps d'explorer toutes les pistes : continuer en entreprise individuelle, créer une société \(EURL, SAS, SASU etc\).
+Tout dépend des situations personnelles. Ce qui est important c’est de connaître 
 
-## Comment et quand détecter le dépassement du plafond de TVA ?
+* le % de charges en régime de croisière et donc le montant net touché
+* le niveau de sécurité qu'on l'on souhaite prévoir à l'issue de sa mission \(chômage ou pas\)
+* le niveau de cotisations retraite que l'on souhaite avoir
 
-**Jusqu’à un certain plafond annuel du chiffre d’affaires, les travailleurs indépendants ne sont pas redevables de la TVA et bénéficient de la « franchise en base de TVA ».** Pour une activité de prestation de services \(le plus courant chez beta\), ce plafond est de 35 200 € de chiffre d’affaires \(à condition d’avoir un chiffre d’affaires inférieur à 33 200 € l’année précédente\). Au-delà de ce niveau de chiffre d’affaires, le freelance devient redevable de la TVA, c’est-à-dire qu’il collecte de la TVA pour le compte de l’Etat et qu’en contrepartie, il peut déduire la TVA payée sur ses dépenses.
+Il s'agit vraiment d'un choix individuel. 
 
-De même que pour le dépassement de plafond de revenus en auto-entreprise, nous conseillons de bien suivre le cumul de ses revenus et faire le calcul soi-même. 
+Note : Attention à ne pas se limiter en TJM "pour éviter de sortir du régime de l'auto-entreprise". Il faut prendre le temps d'explorer toutes les pistes : continuer en entreprise individuelle, créer une société \(EURL, SAS, SASU etc\).
 
-Attention, la **première** facture responsable du dépassement doit prendre en compte la TVA. 
+[Comparatif : choisir entre SASU et auto-entreprise](https://www.shine.fr/blog/sasu-ou-auto-entrepreneur/)  
+[Comparatif : choisir entre EURL et SASU](https://www.shine.fr/blog/sasu-ou-eurl-comparatif/)
 
 ## \[Auto-entreprise\] Quand on a opté pour le versement libératoire de l'impôt sur le revenu, que faut-il déclarer aux impôts ?
 
@@ -57,6 +85,36 @@ Déjà, il faut [obéir aux conditions](https://www.impots.gouv.fr/portail/profe
 * [Simulation avec 50000€ de CA et versement libératoire](https://mon-entreprise.fr/simulateurs/auto-entrepreneur?dirigeant+.+auto-entrepreneur+.+chiffre+d%27affaires=50000%E2%82%AC%2Fan&dirigeant+.+auto-entrepreneur+.+imp%C3%B4t+.+versement+lib%C3%A9ratoire=oui&entreprise+.+ACRE=non&entreprise+.+activit%C3%A9=%27lib%C3%A9rale%27&entreprise+.+activit%C3%A9+.+lib%C3%A9rale+r%C3%A9glement%C3%A9e=non&entreprise+.+date+de+cr%C3%A9ation=%2701%2F01%2F2021%27&utm_source=sharing)
 * [Simulation avec 50000€ de CA, célibataire sans enfant](https://mon-entreprise.fr/simulateurs/auto-entrepreneur?dirigeant+.+auto-entrepreneur+.+chiffre+d%27affaires=50000%E2%82%AC%2Fan&dirigeant+.+auto-entrepreneur+.+imp%C3%B4t+.+versement+lib%C3%A9ratoire=non&entreprise+.+ACRE=non&entreprise+.+activit%C3%A9=%27lib%C3%A9rale%27&entreprise+.+activit%C3%A9+.+lib%C3%A9rale+r%C3%A9glement%C3%A9e=non&entreprise+.+date+de+cr%C3%A9ation=%2701%2F01%2F2021%27&imp%C3%B4t+.+m%C3%A9thode+de+calcul=%27bar%C3%A8me+standard%27&utm_source=sharing)
 
+## Le régime micro-fiscal : kezako? 
+
+Sur le plan fiscal, le micro entrepreneur a le choix entre le régime _classique_ et le régime optionnel de versement libératoire. L'objectif de ce régime est de lui permettre d'alléger ses déclarations fiscales et la comptabilité de son activité.
+
+C'est le régime classique qui s'applique automatiquement, sauf si le micro-entrepreneur fait le choix de l'option du versement libératoire.
+
+## Le régime micro-social : kezako? 
+
+Le régime micro-social simplifié permet au micro-entrepreneur de payer ses cotisations en fonction de son chiffre d'affaires. Il s'agit d'un taux de cotisations qui varie selon l'activité. 
+
+![](../../.gitbook/assets/capture-de-cran-2021-07-19-a-16.37.05.png)
+
+Le régime du micro-social permet au micro-entrepreneur de bénéficier :
+
+* des indemnités en cas de maladie ou maternité,
+* de l'accès à la formation professionnelle \(cependant, pour en bénéficier, il doit verser une contribution\),
+* des droits à la retraite, en fonction du montant des cotisations versées.
+
+Le régime du micro-social ne permet pas au micro-entrepreneur de percevoir des indemnités versées par pole emploi pour le chômage.
+
+**A savoir :** le versement forfaitaire ne comprend pas la [contribution à la formation professionnelle](https://www.service-public.fr/professionnels-entreprises/vosdroits/F23459) qui s'ajoute aux cotisations sociales versées au titre du régime micro-social \(cf tableau ci-dessus\).
+
+## Comment et quand détecter le dépassement du plafond de TVA ?
+
+**Jusqu’à un certain plafond annuel du chiffre d’affaires, les travailleurs indépendants ne sont pas redevables de la TVA et bénéficient de la « franchise en base de TVA ».** Pour une activité de prestation de services \(le plus courant chez beta\), ce plafond est de 35 200 € de chiffre d’affaires \(à condition d’avoir un chiffre d’affaires inférieur à 33 200 € l’année précédente\). Au-delà de ce niveau de chiffre d’affaires, le freelance devient redevable de la TVA, c’est-à-dire qu’il collecte de la TVA pour le compte de l’Etat et qu’en contrepartie, il peut déduire la TVA payée sur ses dépenses.
+
+De même que pour le dépassement de plafond de revenus en auto-entreprise, nous conseillons de bien suivre le cumul de ses revenus et faire le calcul soi-même. 
+
+Attention, la **première** facture responsable du dépassement doit prendre en compte la TVA. 
+
 ## **Quelle type d'assurance pour un indépendant chez beta ?**
 
 À l’image de la responsabilité civile personnelle qui prend en charge les dommages que vous pouvez causer aux autres, **la responsabilité civile professionnelle \(RC Pro\) couvre tous les dommages causés à des tiers par le biais de votre activité** :
@@ -68,8 +126,6 @@ Auto-entrepreneur : L'assurance Responsabilité Civile Pro n'est obligatoire que
 Lorsque que vous exercez une profession libérale non réglementée \(le plus fréquent chez beta\), ce n'est pas obligatoire. 
 
 Cependant, "Dans votre activité d’auto-entrepreneur, vous êtes tenu responsable personnellement en cas de dommage matériel ou corporel causé à autrui. Contrairement à d’autres types d’entreprises, **votre responsabilité est dite illimitée ce qui signifie que votre patrimoine personnel peut être saisi en cas de sinistre** ayant lieu pendant votre activité professionnelle." \(source [https://www.portail-autoentrepreneur.fr/academie/creation-auto-entreprise/rc-pro](https://www.portail-autoentrepreneur.fr/academie/creation-auto-entreprise/rc-pro)\) -&gt; si tu perds le data de ton administration ou si tu casses l'imprimante, tu payes.
-
-## 
 
 ## Pourquoi choisir le portage salarial ? 
 
