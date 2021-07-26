@@ -24,7 +24,7 @@ Cette transparence s'applique dès la phase d'investigation.
 * Tu pourras utiliser d'autres canaux de discussion comme Tchap, Resana ou un autre Slack :
   * Avantage : Il y aura moins de "bruits" que sur le Slack de Beta.
   * Inconvénient : L'accès à la communauté et aux ressources seront plus difficiles. Il conviendra que le coach à minima soit présent sur le Slack de Beta pour faciliter les échanges avec les autres coachs, les co-animateurs et la communauté?
-* **Solliciter un mentorat** d'un membre de beta ayant déjà réalisé une investigation \(1h par semaine d'échange pour aide\) sur le canal Slack \#incubateur-coach
+* **Solliciter un mentorat** d'un membre de beta ayant déjà réalisé une investigation \(1h par semaine d'échange pour aide\) sur le canal Mattermost \#incubateur-coach
 
 **Pourquoi un canal de discussion public ?**
 
@@ -42,7 +42,7 @@ L'objectif est de rendre votre travail découvrable facilement pour toute person
 * **Point de mi-parcours \(facultatif, T + 4 semaines\)**
 * A mi-parcours, un point d'étape avec une personne connaissant bien beta.gouv.fr, par exemple coach, responsable d'incubateur, ou co-animateur, pour recueillir du feedback
 * **Répétition du comité d'investissement \(facultatif mais très recommandé, T + 8 semaines\)**
-* Très recommandé : prévoir une répétition du comité d'investissement où inviter la communauté beta.gouv.fr, en publiant le créneau sur l'agenda public de l'incubateur et en communiquant via Slack \(le responsable d'incubateur ou un/e ancien/ne de beta.gouv.fr peuvent t'aider pour cela\)
+* Très recommandé : prévoir une répétition du comité d'investissement où inviter la communauté beta.gouv.fr, en publiant le créneau sur l'agenda public de l'incubateur et en communiquant via Mattermost \(le responsable d'incubateur ou un/e ancien/ne de beta.gouv.fr peuvent t'aider pour cela\)
 * **Comité d'investissement \(obligatoire, T + 9 semaines\)**
 * Prévoir le comité d'investissement à la fin de l'investigation en y invitant toutes les parties prenantes nécessaires, et de préférence un membre de l'équipe d'animation de beta.gouv.fr
 
@@ -59,11 +59,11 @@ L'objectif est de rendre votre travail découvrable facilement pour toute person
 
 * La [grille d'évaluation à la fin de l'investigation](https://beta.gouv.fr/content/docs/grille_lancement.pdf)​
 * Documentation : [Préparer un comité d'investissement](../../gestion-administrative/budget-de-sa-se/preparer-un-comite-dinvestissement.md)​
-* Exemples de supports de fin d'investigation et comité d'investissement : demandez sur le Slack, \#incubateur-investigation
+* Exemples de supports de fin d'investigation et comité d'investissement : demandez sur le Mattermost, \#incubateur-investigation
 
 ### Où demander de l'aide <a id="ou-demander-de-laide"></a>
 
-* demander de l'aide ou des informations sur l'un de ses deux canaux Slack : [\#incubateur-investigation](https://startups-detat.slack.com/archives/CG21S6TSB) et [\#incubateur-coaching](https://startups-detat.slack.com/archives/C7XT3PJKH)​
+* demander de l'aide ou des informations sur l'un de ses deux canaux Mattermost :[ \#incubateur-investigation](https://mattermost.incubateur.net/betagouv/channels/incubateur-investigation) et [\#incubateur-coaching](https://mattermost.incubateur.net/betagouv/channels/incubateur-coaching)​
 
 ### Le RGPD et l'investigation <a id="le-rgpd-et-linvestigation"></a>
 
@@ -71,7 +71,7 @@ L'objectif est de rendre votre travail découvrable facilement pour toute person
 
 ### Des tutos sur les principaux outils utilisés <a id="des-tutos-sur-les-principaux-outils-utilises"></a>
 
-* Vidéos tutoriels sur les outils en ligne de gestion de produit/équipe \(slack, whereby, trello, drive\) : [lien dossier drive](https://drive.google.com/drive/folders/10qMmlHCYjL6XwmnLyQXC1iJlCOljFL2n?usp=sharing)​
+* Vidéos tutoriels sur les outils en ligne de gestion de produit/équipe \(mattermost, whereby, trello, drive\) : [lien dossier drive](https://drive.google.com/drive/folders/10qMmlHCYjL6XwmnLyQXC1iJlCOljFL2n?usp=sharing)​
 
 ## A la fin de l'investigation, comment savoir si j'ai fait du bon travail ? <a id="a-la-fin-de-linvestigation-comment-savoir-si-jai-fait-du-bon-travail"></a>
 
