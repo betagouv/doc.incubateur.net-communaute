@@ -1,7 +1,7 @@
 # Je veux modifier ce guide
 
 {% hint style="info" %}
-Pour modifier ce guide, rendez-vous sur \#incubateur-documentation et poste exactement message sur  : "**Bonjour, j'aimerai savoir comment modifier la documentation?"** . 
+Pour modifier ce guide, rendez-vous sur \#incubateur-documentation et retrouve le lien de connexion pour éditer ce guide dans le titre du canal. 
 {% endhint %}
 
 ## Pourquoi contribuer ? <a id="pourquoi-contribuer"></a>
