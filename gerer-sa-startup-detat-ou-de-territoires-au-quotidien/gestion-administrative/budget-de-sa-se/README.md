@@ -20,9 +20,9 @@ Concernant le devis, la date limite de prestation n'est que prévisionnelle. Ain
 
 {% page-ref page="faire-une-demande-de-devis.md" %}
 
-{% page-ref page="livrable-et-service-fait.md" %}
+{% page-ref page="la-facturation-de-a-a-z/livrable-et-service-fait.md" %}
 
-{% page-ref page="la-facturation-de-a-a-z.md" %}
+{% page-ref page="la-facturation-de-a-a-z/" %}
 
 {% page-ref page="preparer-un-comite-dinvestissement.md" %}
 
