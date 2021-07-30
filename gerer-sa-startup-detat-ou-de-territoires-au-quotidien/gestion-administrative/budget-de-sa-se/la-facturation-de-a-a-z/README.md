@@ -43,6 +43,8 @@ Le résumé des livrables ou CRA devra être annexé.
 
 {% page-ref page="livrable-et-service-fait.md" %}
 
+
+
 ## 3. L'intrapreneur ou le responsable d'incubateur vérifie ces informations, le signe et le transmet à son co-animateur. <a id="3-lintrapreneur-ou-le-responsable-dincubateur-verifie-ces-informations-le-signe-et-le-transmet-a-son-co-animateur"></a>
 
 Par défaut, l'intrapreneur signe le procès verbal de service fait et l'adresse au co-animateur. Le co-animateur l'adressera au pole gestion de la Dinum.
