@@ -1,3 +1,7 @@
+---
+description: 'Comprendre les grandes étapes de la facturation, du livrable au paiement.'
+---
+
 # La facturation de A à Z
 
 Ce process pourra intéresser :
@@ -42,8 +46,6 @@ Ce [procès verbal](https://docs.google.com/document/d/1hyvfie7hoRApJJP3liJGELqS
 Le résumé des livrables ou CRA devra être annexé.
 
 {% page-ref page="livrable-et-service-fait.md" %}
-
-
 
 ## 3. L'intrapreneur ou le responsable d'incubateur vérifie ces informations, le signe et le transmet à son co-animateur. <a id="3-lintrapreneur-ou-le-responsable-dincubateur-verifie-ces-informations-le-signe-et-le-transmet-a-son-co-animateur"></a>
 
