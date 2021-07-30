@@ -5,8 +5,9 @@
 ## Travailler chez Beta.Gouv <a id="travailler-a-beta-gouv"></a>
 
 * [🛫 Ton embarquement](travailler-a-beta-gouv/bienvenue/README.md)
-  * [Tes premiers mois à beta.gouv](travailler-a-beta-gouv/bienvenue/to-do-darrivee.md)
-  * [Marrainage](travailler-a-beta-gouv/bienvenue/marrainage/README.md)
+  * [Premier pas indispensable : créer ta fiche membre](travailler-a-beta-gouv/bienvenue/premier-pas-indispensable-creer-ta-fiche-membre.md)
+  * [Que faire durant les premières semaines et premiers mois ?](travailler-a-beta-gouv/bienvenue/to-do-darrivee.md)
+  * [Qu'est-ce que le marrainage ?](travailler-a-beta-gouv/bienvenue/marrainage/README.md)
     * [Comment embarquer quelqu'un ?](travailler-a-beta-gouv/bienvenue/marrainage/embarquement-par-le-recruteur.md)
 * [💖 Découvrir notre culture](travailler-a-beta-gouv/culture/README.md)
   * [Notre charte](travailler-a-beta-gouv/culture/charte.md)
@@ -92,7 +93,10 @@
     * [C'est quoi une certification de compétences?](travailler-a-beta-gouv/se-former/certification-des-intrapreneurs/cest-quoi-une-certification-de-competences.md)
     * [Pourquoi une certification des compétences des intras ?](travailler-a-beta-gouv/se-former/certification-des-intrapreneurs/pourquoi-une-certification-des-competences-des-intras.md)
   * [Groupe de co-développement professionnel](travailler-a-beta-gouv/se-former/groupe-de-co-developpement-professionnel.md)
-* [🙋 Quitter beta.gouv](travailler-a-beta-gouv/au-revoir.md)
+* [🙋 Quitter beta.gouv](travailler-a-beta-gouv/au-revoir/README.md)
+  * [Que faire avant la date de fin de ma mission ?](travailler-a-beta-gouv/au-revoir/que-faire-avant-la-date-de-fin-de-ma-mission.md)
+  * [Que se passe-t-il après la date de fin de ma mission ?](travailler-a-beta-gouv/au-revoir/que-se-passe-t-il-apres-la-date-de-fin-de-ma-mission.md)
+  * [Questions fréquentes](travailler-a-beta-gouv/au-revoir/questions-frequentes.md)
 
 ## Gérer sa Startup d'Etat au quotidien <a id="gerer-sa-startup-detat-ou-de-territoires-au-quotidien"></a>
 

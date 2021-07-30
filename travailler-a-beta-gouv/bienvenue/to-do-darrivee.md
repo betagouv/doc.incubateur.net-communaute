@@ -1,10 +1,26 @@
 ---
-description: 'Pour comprendre beta.gouv.fr, rien d''obligatoire bien sûr !'
+description: Pour comprendre beta.gouv.fr mais rien d'obligatoire bien sûr !
 ---
 
-# Tes premiers mois à beta.gouv
+# Que faire durant les premières semaines et premiers mois ?
 
-###  Le premier mois
+## La première semaine
+
+Nous recommandons cette liste de choses à faire à tous les nouveaux arrivants :
+
+* [ ] Présente-toi sur Mattermost dans `#general` ! 👋
+* [ ] Découvre ton équipe :
+  * [ ] Rejoins ses canaux sur Mattermost ;
+  * [ ] Imprègne-toi de la mission sur la **fiche produit** disponible sur beta.gouv.fr/startups.
+* [ ] Découvre s'il y a d'autres membres de la communauté près de chez toi sur la [carte des membres](https://doc.incubateur.net/communaute/dinum/locaux/ou-travailler#beta-gouv-fr-en-dehors-de-paris) ;
+* [ ] Participe à [l'hebdo beta.gouv](../actions-transverses/rituels/standup.md), rassemblement du réseau beta.gouv tous les jeudis à midi ;
+* [ ] Ajoute ton expérience chez beta.gouv.fr sur ton profil Linkedin ;
+* [ ] Abonne toi à [l'agenda public de l'incubateur](https://calendar.google.com/calendar/embed?src=0ieonqap1r5jeal5ugeuhoovlg%40group.calendar.google.com&ctz=Europe/Paris) pour suivre les événements de la communauté ; 
+* [ ] Participe à un 🛫 atelier d'embarquement beta.gouv.fr :
+  * [ ] Découvre le prochain dans [l'agenda public de l'incubateur](https://calendar.google.com/calendar/embed?src=0ieonqap1r5jeal5ugeuhoovlg%40group.calendar.google.com&ctz=Europe/Paris) ;
+  * [ ] Consulte la [présentation de la session d'embarquement](https://docs.google.com/presentation/d/1ded7iFFFaPuw9tKcj6g-xLBggAox-QNDjsMamECPqHU/edit#slide=id.p3) de janvier 2021. 
+
+##  Le premier mois
 
 * [ ] Rencontrer [ton parrain ou ta marraine ](marrainage/) 
 * [ ] Ajouter ton expérience chez [beta.gouv ](https://www.linkedin.com/company/betagouv/?originalSubdomain=fr)dans ton profil LinkedIn  
@@ -23,7 +39,7 @@ description: 'Pour comprendre beta.gouv.fr, rien d''obligatoire bien sûr !'
   *   Organiser ta propre rencontre sur un sujet qui te botte !
 * [ ] \[Si tu rejoins une nouvelle startup\], créer avec ton équipe une fiche produit sur beta.gouv.fr, [directement sur Github](https://github.com/betagouv/beta.gouv.fr/tree/master/content/_startups), ou alors en passant par l'interface de gestion de contenu [Netlify](https://beta.gouv.fr/admin/#/collections/startups). Tu peux t'inspirer [des autres produits](https://beta.gouv.fr/startups/) pour le format et contenu.
 
-###  Au cours des 6 premiers mois
+##  Au cours des 6 premiers mois
 
 * [ ]   Participer au prochain [Grand Séminaire](../actions-transverses/rituels/grand-seminaire-1.md) \(tous les 6 mois, 2 jours à la campagne\)
 * [ ]   Commenter et valider une pull request sur github : [https://github.com/betagouv/beta.gouv.fr/pulls](https://github.com/betagouv/beta.gouv.fr/pulls)

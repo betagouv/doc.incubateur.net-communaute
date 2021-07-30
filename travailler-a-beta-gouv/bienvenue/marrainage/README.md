@@ -4,7 +4,7 @@ description: >-
   ou plusieurs nouveaux arrivants.
 ---
 
-# Marrainage
+# Qu'est-ce que le marrainage ?
 
 ## Je suis recruteur
 
