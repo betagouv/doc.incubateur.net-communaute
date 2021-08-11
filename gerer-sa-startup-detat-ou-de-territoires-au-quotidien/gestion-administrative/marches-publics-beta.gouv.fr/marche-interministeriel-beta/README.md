@@ -2,7 +2,7 @@
 description: >-
   Le marché interministériel beta est un accord-cadre interministériel qui
   permet à l'ensemble des ministères de recruter toutes les compétences
-  nécessaires à la réussite d'une Startup d'Etat.##
+  nécessaires à la réussite d'une Startup d'Etat.
 ---
 
 # Marché interministériel beta
@@ -23,5 +23,7 @@ Cette information sera publiée début septembre après la notification du march
 
 ## Foire aux questions
 
+{% page-ref page="je-suis-une-administration-beneficiaire-du-marche-interministeriel.md" %}
 
+{% page-ref page="je-suis-un-des-attributaires-du-marche-interministeriel.md" %}
 
