@@ -1,6 +1,6 @@
 ---
 description: >-
-  Ces standard d'écriture s'appliquent dans l'ensemble de nos supports de nos
+  Ces standards d'écriture s'appliquent dans l'ensemble de nos supports de nos
   communications internes et externes, ainsi que sur les produits estampillés
   beta.gouv.fr.
 ---
