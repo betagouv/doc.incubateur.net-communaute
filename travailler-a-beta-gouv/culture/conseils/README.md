@@ -1,14 +1,19 @@
+---
+description: >-
+  Sans prétendre à l'exhaustivité, voici ci-dessous un aperçu de différentes
+  situations, normales et moins normales, qui peuvent être vécues à beta, et
+  dans chaque cas ce qu'on peut faire pour y réagir.
+---
+
 # Conflits, mal-être, souffrance, violence ou harcèlement
 
 ## Conflit
 
-Le conflit, surtout ponctuel, est tout à fait normal au sein d'équipes qui traitent de sujets complexes.
+Le conflit, surtout ponctuel, est tout à fait normal au sein d'équipes qui traitent de sujets complexes. Dans une équipe tout le monde n'est pas tout le temps d'accord, et c'est tant mieux. Si l'on recrute des personnes diverses,  c'est parce que leur point de vue a de la valeur.
 
-Dans mon équipe tout le monde n'est pas tout le temps d'accord, et c'est tant mieux. Si je suis là c'est parce que mon point de vue a de la valeur; je me sens libre de l'exprimer, sans imposer le mien non plus. On se parle, on traite les choses, on avance: cela peut faire tout à fait partie d'un état "bien dans mes baskets".
+Le conflit prolongé, ou des expressions verbales jugées violentes, peuvent être un signe avant-coureur de choses plus sérieuses. **Ne pas hésiter à en parler à la personne qui coache l'équipe.**
 
-Le conflit prolongé, ou des expressions verbales jugées violentes, peuvent être un signe avant-coureur de choses plus sérieuses. **Je n'hésite pas à en parler à la personne qui coache l'équipe.**
-
-Si c'est le ou la coach avec qui une situation conflictuelle s'installe, **je peux en parler avec une autre personne dans ma chaîne d'accompagnement** \(mon équipe -&gt; mon coach -&gt; la personne référente de mon coach éventuellement -&gt; la direction de mon incubateur -&gt; un·e membre de l'équipe d'animation de beta\). **J'ai le droit, de ma propre initiative, "d'escalader" la chaîne si la réponse apportée ne me satisfait pas.** C'est évidemment sans exclusive, et je peux parler de ma situation avec qui bon me semble dans la communauté, mais les personnes de ma chaîne d'accompagnement acceptent une responsabilité à cet égard.
+Si c'est le ou la coach avec qui une situation conflictuelle s'installe, il est possible d'**en parler avec une autre personne dans ma chaîne d'accompagnement** \(son équipe, son coach, la personne référente de son coach éventuellement, la direction de son incubateur, un·e membre de [l'équipe d'animation de beta](../../comprendre-loffre-de-service-de-beta.gouv.fr/equipe-danimation/)\). **On a le droit, de sa propre initiative, "d'escalader" la chaîne si la réponse apportée ne satisfait pas.** C'est évidemment sans exclusivité, et on peut parler de ma situation avec qui bon me semble dans la communauté.
 
 ## Mal-être ou souffrance
 
@@ -20,7 +25,7 @@ Si par exemple je me suis investi·e émotionnellement dans un produit auquel je
 
 Je ne suis pas seul·e responsable de mes conditions de succès ; si je suis recruté·e c'est sur décision d'autres personnes, qui y ont une part de responsabilité, et j'ai quoi qu'il en soit droit à une expérience de travail sereine et dans de bonnes conditions.
 
-**J'en parle à mon équipe dès les premiers signes ; je fais appel à ma chaîne d'accompagnement ; je dispose d'un droit de retrait.** \(Celui-ci est décrit en détail dans un autre chapitre.\)
+**J'en parle à mon équipe dès les premiers signes ; je fais appel à ma chaîne d'accompagnement ; je dispose d'un droit de retrait.** 
 
 ## Violence ou harcèlement
 

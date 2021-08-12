@@ -7,9 +7,9 @@ description: "\U0001F9ED Toutes les ressources pour aider les membres de la comm
 {% hint style="info" %}
 **Bienvenue** dans l'espace de documentation de beta.gouv.fr. 
 
-**Si vous faites partie d'un** [**incubateur**](https://beta.gouv.fr/communaute/) **du réseau**, cet espace a été conçu pour vous aider à trouver toutes les ressources nécessaires à la réussite de votre produit numérique.  Vous pouvez utiliser la _**barre de recherche**_ en haut à droite de votre écran pour faciliter votre navigation. Si vous ne trouvez pas la ressource que vous cherchez, vous pouvez poser la question dans la _**chaîne ~incubateur-help**_ de [notre espace Mattermost](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/mattermost/). Si vous repérez une erreur, vous pouvez [la corriger et contribuer à ce guide](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/gitbook/comment-contribuer-a-cette-documentation.md). 
+**Si vous êtes membre de beta.gouv.fr**, cet espace a été conçu pour vous aider à trouver toutes les ressources nécessaires à la réussite de votre produit numérique.  Vous pouvez utiliser la _**barre de recherche**_ en haut à droite de votre écran pour faciliter votre navigation. Si vous ne trouvez pas la ressource que vous cherchez, vous pouvez poser la question dans la _**chaîne ~incubateur-help**_ de [notre espace Mattermost](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/mattermost/). Si vous repérez une erreur, vous pouvez [la corriger et contribuer à ce guide](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/gitbook/comment-contribuer-a-cette-documentation.md). 
 
-**Si vous n'êtes pas \(encore\) membre de beta.gouv.fr**, nous serions ravis que vous puissiez profiter des ressources et des apprentissages que nous avons compilées ici publiquement. Vous pouvez nous contacter à _**contact@beta.gouv.fr**_. 
+**Si vous n'êtes pas \(encore\) membre de beta.gouv.fr**, vous pouvez profiter librement des ressources et des apprentissages que nous avons compilés ici, en gardant en tête que cette documentation est initialement à usage interne. Nous espérons cependant qu'elles pourra inspirer d'autres organisations. Si vous souhaitez nous contacter pour en parler, transmettez nous un message à _**contact@beta.gouv.fr**_ !
 {% endhint %}
 
 ## Les pages les plus consultées de ce guide

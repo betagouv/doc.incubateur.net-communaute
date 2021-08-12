@@ -23,7 +23,7 @@ description: >-
 * La DRH de l’agent concernée pourra enclencher les processus internes liés à ce type de comportement \(enquête interne, mesures préventives…\).
 * Nous ne savons pas encore précisément et formellement ce qu’on est censés dire et faire quand ces situations surviennent. Dans la mesure où on peut avoir des marges de manœuvre et d’autonomie pour mettre en place des dispositifs de prévention et d’aiguillage, on le fera et on se déclarera disposés à le faire, mais au-delà, il nous manque encore des informations claires.
 
-## Notre volonté à bêta :
+## Notre volonté chez beta.gouv.fr :
 
 * Respecter la loi : les victimes sont protégées par la loi qui interdit des mesures de rétorsion \(arrêt de la mission, etc\).
 * Si malgré notre intention vous êtes victimes de représailles, vous disposez de recours devant les tribunaux.
