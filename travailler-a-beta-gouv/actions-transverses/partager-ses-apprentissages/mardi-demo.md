@@ -9,6 +9,6 @@ Nous encourageons chaque équipe à proposer une **démonstration** de son produ
 
 ### Organisation
 
-* caler un créneau dans l'[agenda public de beta.gouv.fr](../je-minforme-sur-la-vie-de-la-communaute/agenda-public.md) avec un lien de visio ou une localisation physique lorsque c'est possible ; 
+* caler un créneau dans l'[agenda public de beta.gouv.fr]() avec un lien de visio ou une localisation physique lorsque c'est possible ; 
 * communiquer pour informer les personnes susceptibles d'être intéressées : via Mattermost ou via l'infolettre hebdomadaire de beta.gouv.fr.
 

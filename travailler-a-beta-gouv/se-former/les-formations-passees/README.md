@@ -13,7 +13,7 @@ Tu peux  évaluer ces formations si tu y as assisté. C'est notamment l'occasion
 Tu trouveras ci-dessous les supports de quelques unes de ces formations. 👇  
 _\(tu as une table des matières juste à droite_ 😉_\)_
 
-Tu trouveras le reste dans la section [Partage de ressources](partage-de-ressources.md). 
+Tu trouveras le reste dans la section [Partage de ressources](../partage-de-ressources.md). 
 
 ## 🎬  Créer et publier une vidéo de formation
 
@@ -71,23 +71,23 @@ Tous les mois, une formation est organisée et animée à distance par NUMA. Vou
 
 #### 📕NUMA - Workshop Exécution : Gagner 1/2 journée par semaine en gérant sont temps et son focus comme un pro \(27.10.2020\)
 
-{% file src="../../.gitbook/assets/numa-workshop-execution-fiche-recapitulative \(4\).pdf" caption="Exécution : gagner 1/2 journée par semaine" %}
+{% file src="../../../.gitbook/assets/numa-workshop-execution-fiche-recapitulative \(4\).pdf" caption="Exécution : gagner 1/2 journée par semaine" %}
 
 #### 📗NUMA - Conversations difficiles : être à l'aise même dans les situations les plus inconfortables \(17.11.2020\)
 
-{% file src="../../.gitbook/assets/numa-conversations-difficiles-fiche-recapitulative- \(1\).pdf" caption="Conversations difficiles" %}
+{% file src="../../../.gitbook/assets/numa-conversations-difficiles-fiche-recapitulative- \(1\).pdf" caption="Conversations difficiles" %}
 
 #### 📘NUMA - **Plan d'action, comment allier roadmap globale et résultats mesurables avec la méthode OKRs \(15.12.2020\)**
 
-{% file src="../../.gitbook/assets/numa-okrs-fiche-recapitulative.pdf" caption="Les OKRs" %}
+{% file src="../../../.gitbook/assets/numa-okrs-fiche-recapitulative.pdf" caption="Les OKRs" %}
 
 📙**NUMA - Feedbacks, partager des feedbacks opportuns et actionnables** 
 
-{% file src="../../.gitbook/assets/numa-feedbacks-fiche-recapitulative \(1\).pdf" caption="Partager des feedbacks opportuns et actionnables" %}
+{% file src="../../../.gitbook/assets/numa-feedbacks-fiche-recapitulative \(1\).pdf" caption="Partager des feedbacks opportuns et actionnables" %}
 
 #### 📕NUMA - **Coaching : comment coacher au bon moment et aider ses collègues à progresser \(19.01.2021\)**
 
-{% file src="../../.gitbook/assets/numa-coaching-fiche-recapitulative.pdf" caption="Coaching" %}
+{% file src="../../../.gitbook/assets/numa-coaching-fiche-recapitulative.pdf" caption="Coaching" %}
 
 
 

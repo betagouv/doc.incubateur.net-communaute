@@ -1,4 +1,14 @@
+---
+description: >-
+  Mattermost est l'espace de travail virtuel principal du réseau beta.gouv.fr.
+  La plupart des échanges y ont lieu.
+---
+
 # Mattermost
+
+## Comment ça marche ?
+
+Mattermost est un outil de collaboration partagé par des incubateurs et des startups d'Etat. Il permet de communiquer avec 2 niveaux d'échanges : échanges via message privés et échanges dans des espaces de travail \(encore appelés "teams"\) au sein desquels peuvent être créés des canaux de discussion. 
 
 ## **Comment rejoindre l’espace Mattermost de Beta ?**
 
@@ -6,10 +16,10 @@
 Si tu es nouveau ou nouvelle chez beta, c'est à ton contact référent de t'ajouter sur Mattermost. Pour cela, il suffit que cette personne clique sur "inviter des utilisateurs" dans ses paramètres et ajoute ta nouvelle adresse beta.gouv.fr . 
 {% endhint %}
 
-**Etape 1** : cliquez sur le lien du Mattermost : [https://mattermost.incubateur.net/](https://mattermost.incubateur.net/**]%28https://mattermost.incubateur.net/%29****) ou téléchargez l'app.
+**Etape 1** : clique sur le lien du Mattermost : [https://mattermost.incubateur.net/](https://mattermost.incubateur.net/**]%28https://mattermost.incubateur.net/%29****) ou télécharge l'app.
 
 {% hint style="info" %}
-Comme sur Slack, pour optimiser l'expérience, nous vous conseillons de télécharger l'application Mattermost sur ordinateur et mobile : [liens de téléchargement](https://mattermost.com/download/#).
+Pour optimiser l'expérience, nous vous conseillons de télécharger l'application Mattermost sur ordinateur et mobile : [liens de téléchargement](https://mattermost.com/download/#).
 
 A l'installation, si le client demande l'ajout d'un serveur \("Add server"\), choisir un nom pour cet espace \(par exemple : beta.gouv.fr\) et saisir comme adresse de serveur : [https://mattermost.incubateur.net](https://mattermost.incubateur.net%20).
 {% endhint %}

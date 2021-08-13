@@ -27,7 +27,7 @@ Seule la DINUM peut passer des commandes sur ce marché. Si une Startup d'Etat s
 
 ## Comment bénéficier de ce marché ?
 
-Contactez [l'équipe beta.gouv.fr de la DINUM](../../../travailler-a-beta-gouv/comprendre-loffre-de-service-de-beta.gouv.fr/equipe-danimation/).
+Contactez [l'équipe beta.gouv.fr de la DINUM](../../../travailler-a-beta-gouv/actions-transverses/equipe-danimation.md).
 
 
 

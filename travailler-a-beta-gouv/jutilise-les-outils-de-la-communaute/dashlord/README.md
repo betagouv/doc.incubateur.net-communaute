@@ -7,7 +7,7 @@ description: Tableau de bord technique des produits numériques.
 {% hint style="info" %}
 **Un DashLord, c'est quoi ?**
 
-Un dashLord est un tableau de bord. Il permet de situer sa Startup d'État ou de Territoires par rapport aux standards du marché : accessibilité, sécurité et RGPD.
+Un dashLord est un tableau de bord. Il permet de situer sa Startup d'État ou de Territoires par rapport aux standards de qualité des services beta.gouv.fr : accessibilité, sécurité et RGPD.
 {% endhint %}
 
 ![Capture d&apos;&#xE9;cran de DashLord](../../../.gitbook/assets/meteoapps.jpg)

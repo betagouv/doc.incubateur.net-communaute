@@ -37,7 +37,7 @@ Tu peux le désactiver :
 * Allez dans le menu, puis "Paramètres du compte" -&gt; "Options avancées" 
 * Dans "Désactiver mon compte", faite "Modifier" puis "Desactivate"
 
-![D&#xE9;sactiver mon compte](../../.gitbook/assets/image%20%2820%29.png)
+![D&#xE9;sactiver mon compte](../../.gitbook/assets/image%20%2814%29%20%282%29.png)
 
 {% hint style="info" %}
 **Si tu souhaites garder accès à Mattermost, fais en la demande spécifiquement** sur \#incubateur-secretariat ou à contact@beta.gouv.fr . 

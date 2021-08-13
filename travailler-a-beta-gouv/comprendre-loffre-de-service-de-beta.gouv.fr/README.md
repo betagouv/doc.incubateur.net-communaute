@@ -2,7 +2,7 @@
 
 Les articles de cette section : 
 
-{% page-ref page="equipe-danimation/" %}
+{% page-ref page="../actions-transverses/equipe-danimation.md" %}
 
 {% page-ref page="nos-services-a-destination/" %}
 

@@ -30,7 +30,7 @@ description: "\U0001F9ED Toutes les ressources pour aider les membres de la comm
 
 {% page-ref page="travailler-a-beta-gouv/se-former/" %}
 
-{% page-ref page="travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/faire-une-visio.md" %}
+{% page-ref page="travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/faire-une-visio/" %}
 
 ### Pour les intrapreneur\(e\)s
 

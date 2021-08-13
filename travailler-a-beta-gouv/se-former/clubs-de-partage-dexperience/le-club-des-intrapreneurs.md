@@ -1,7 +1,7 @@
 ---
 description: >-
   Cette page documente les liens utiles pour les intrapreneurs et la manière
-  dont s'organise le club des intrapreneurs: la réunion mensuelle consacrée aux
+  dont s'organise le club des intrapreneurs : la réunion mensuelle consacrée aux
   intrapreneurs et ouvertes à tous.
 ---
 
@@ -28,11 +28,11 @@ description: >-
 * [Modèle de fiche poste "Intrapreneur de startup d'Etat"](https://github.com/betagouv/beta.gouv.fr/files/3069081/Fiche.poste.Intrapreneur.startup.d.Etat.VBETA.docx)
 * [Toutes les conventions et avenants des SE](https://www.data.gouv.fr/fr/datasets/conventions-de-partenariat/)
 * [Modèle de suivi du budget de la SE](https://docs.google.com/spreadsheets/d/1JSVnmruZq0iufjpxabnYKaHcR1XBygL0MXkYOm7nz3E/edit?usp=sharing)
-* [RGPD et sécurité : des conseils avant de démarrer](../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-securise-mon-produit/guide-rgpd-et-securite.md) 
+* [RGPD et sécurité : des conseils avant de démarrer](../../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-securise-mon-produit/guide-rgpd-et-securite.md) 
 
 ### Certification des intrapreneurs :
 
-* Beta.gouv te propose de certifier tes nouvelles compétences d'intrapreneuse/eur. Les infos sont[ ici](../se-former/certification-des-intrapreneurs/).
+* Beta.gouv te propose de certifier tes nouvelles compétences d'intrapreneuse/eur. Les infos sont[ ici](../certification-des-intrapreneurs/).
 
 ###  Articles sur l'intrapreunariat
 

@@ -8,7 +8,7 @@ description: >-
 
 Cette note vise à aider les équipes à anticiper la présence de dysfonctionnements au sein d’une équipe produit ou d’un partenariat réalisé avec une autre administration \(cadrage partenarial bancal, manque d’alignement opérationnel, méthodologique, culturel ou stratégique, environnement toxique et/ou de blocages politiques ou administratifs importants\). 
 
-Si vous vous reconnaissez dans plusieurs éléments mentionnés ci-dessous et que vous avez besoin d’aide, vous pouvez contacter l’[équipe d'animation de beta.gouv.fr](../../travailler-a-beta-gouv/comprendre-loffre-de-service-de-beta.gouv.fr/equipe-danimation/).
+Si vous vous reconnaissez dans plusieurs éléments mentionnés ci-dessous et que vous avez besoin d’aide, vous pouvez contacter l’[équipe d'animation de beta.gouv.fr](../../travailler-a-beta-gouv/actions-transverses/equipe-danimation.md).
 
 ## Liste des signaux faibles <a id="liste-des-signaux-faibles"></a>
 

@@ -9,7 +9,7 @@ description: >-
 
 ### Comment ça marche 
 
-Mattermost est un outil de collaboration partagé par des incubateurs et des startups d'Etat. Il permet de communiquer avec 2 niveaux d'échanges : échanges via message privés et échanges dans des espaces de travail \(encore appelés "teams"\) au sein desquels peuvent être créés des canaux de discussion. 
+Sur Mattermost, il y a 2 niveaux d'échanges : échanges via message privés et échanges dans des espaces de travail \(encore appelés "teams"\) au sein desquels peuvent être créés des canaux de discussion. 
 
 Une personne peut-être rattachée à plusieurs espaces de travail.
 

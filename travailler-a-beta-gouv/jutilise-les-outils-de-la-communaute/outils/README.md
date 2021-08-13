@@ -4,7 +4,7 @@
 
 Les membres des Startups peuvent obtenir une boîte mail de type `prenom.nom@beta.gouv.fr`. Pour l'obtenir, demande à un quelqu'un de la communauté de faire la procédure avec l'app secrétariat [https://secretariat.incubateur.net/](https://secretariat.incubateur.net/).
 
-Une fois que tu as ton identifiant et ton mot de passe, configure ta boite mail sur la page [Email](emails.md).
+Une fois que tu as ton identifiant et ton mot de passe, configure ta boite mail sur la page [Email](../emails.md).
 
 ## Mattermost
 
@@ -12,13 +12,13 @@ Le Mattermost de l'incubateur est accessible via  [https://mattermost.incubateur
 
 ~~Le bot glossaire de Slack \(`/trad`\) est une instance de~~ [~~`glossary-bot`~~](https://github.com/codeforamerica/glossary-bot) ~~hébergée sur Heroku \(id : glossaire-betagouvfr\) sur le compte de @MattiSG.~~
 
-_Plus d'informations sur_ [_notre usage de Mattermost_](mattermost/)_._
+_Plus d'informations sur_ [_notre usage de Mattermost_](../mattermost/)_._
 
 ## Agenda
 
 Les évènements communs à tout l'incubateur sont référencés sur un [agenda public](https://calendar.google.com/calendar/embed?src=0ieonqap1r5jeal5ugeuhoovlg%40group.calendar.google.com&ctz=Europe/Paris). Il est visible par tous - y compris hors de l'incubateur -, et peut être ajouté à un gestionnaire d'agenda via son adresse [iCal](https://calendar.google.com/calendar/ical/0ieonqap1r5jeal5ugeuhoovlg%40group.calendar.google.com/public/basic.ics) ou [email](mailto:0ieonqap1r5jeal5ugeuhoovlg@group.calendar.google.com).
 
-![Image d&apos;illustration](../../.gitbook/assets/image%20%2818%29.png)
+![Image d&apos;illustration](../../../.gitbook/assets/image%20%2818%29.png)
 
 {% hint style="info" %}
 [Ajouter un évènement à l'agenda de beta](https://airtable.com/shrWvcUAOJqllVqtj)
@@ -26,19 +26,19 @@ Les évènements communs à tout l'incubateur sont référencés sur un [agenda 
 
 ## Listes de diffusion
 
-voir aussi [Listes de diffusion et adresses de contact](../je-minforme-sur-la-vie-de-la-communaute/liste-de-diffusion-et-adresses-de-contact.md).
+voir aussi [Listes de diffusion et adresses de contact](liste-de-diffusion-et-adresses-de-contact.md).
 
 ### Gestion des DNS via OVH
 
 Nous disposons d'un MX plan chez OVH pour le domaine `beta.gouv.fr`. Pour les modifier, il faut donc passer par l'[interface web d'OVH](https://www.ovh.com/fr/g1596.mail_mutualise_guide_dutilisation_mailing-list). Si vous n'avez pas les droits d'accès, demandez-les sur Mattermost, dans 🔒`#incubateur-secretaria`.
 
-Plusieurs [listes de diffusion](../je-minforme-sur-la-vie-de-la-communaute/liste-de-diffusion-et-adresses-de-contact.md) sont disponibles, dont certaines, optionnelles, modifient votre niveau d'implication dans l'incubateur. Si vous souhaitez participer \(ou simplement être au courant\) des aspects stratégiques de la structure, par exemple, inscrivez-vous à `contact@beta.gouv.fr`.
+Plusieurs [listes de diffusion](liste-de-diffusion-et-adresses-de-contact.md) sont disponibles, dont certaines, optionnelles, modifient votre niveau d'implication dans l'incubateur. Si vous souhaitez participer \(ou simplement être au courant\) des aspects stratégiques de la structure, par exemple, inscrivez-vous à `contact@beta.gouv.fr`.
 
 ### Gestion des DNS via AlwaysData
 
 Sur AlwaysData, il existe une fonctionnalité de création de mailing list et de gestion des modérateurs et admin de ces listes. L'ajout de récipiendaires et la modération se font sur mailman.alwaysdata.com
 
-Pour plus d'information sur la gestion des mailing list, voir [Listes de diffusion et adresses de contact](../je-minforme-sur-la-vie-de-la-communaute/liste-de-diffusion-et-adresses-de-contact.md).
+Pour plus d'information sur la gestion des mailing list, voir [Listes de diffusion et adresses de contact](liste-de-diffusion-et-adresses-de-contact.md).
 
 ## Mots de passe
 

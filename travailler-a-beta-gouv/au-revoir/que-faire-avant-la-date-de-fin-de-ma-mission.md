@@ -15,7 +15,7 @@ description: Nous te prévenons avant la date de fin de ta mission
 ### C'est optionnel
 
 * [ ] Rediriger ton adresse `@beta.gouv.fr` vers `departs@beta.gouv.fr` en le demandant  sur [\#incubateur-secretaria](https://mattermost.incubateur.net/betagouv/channels/incubateur-secretaria) 
-* [ ] Faire un debrief d'une demi-heure de ton passage à l'Incubateur avec [un·e permanent·e](../comprendre-loffre-de-service-de-beta.gouv.fr/equipe-danimation/), pour qu'on puisse s'améliorer.
+* [ ] Faire un debrief d'une demi-heure de ton passage à l'Incubateur avec [un·e permanent·e](../actions-transverses/equipe-danimation.md), pour qu'on puisse s'améliorer.
 * [ ] Annoncer la date de ton pot de départ sur [\#general](https://mattermost.incubateur.net/betagouv/channels/town-square)
 * [ ] [Désactiver ton compte Mattermost](./#que-va-devenir-ton-compte-mattermost)
 

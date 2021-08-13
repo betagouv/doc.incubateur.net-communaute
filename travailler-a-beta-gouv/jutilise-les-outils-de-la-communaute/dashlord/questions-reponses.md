@@ -2,7 +2,7 @@
 description: Principales questions et réponses sur les DashLords.
 ---
 
-# Questions-réponses
+# FAQ DashLords
 
 ## Comment ajouter ma Startup d'État ou de Territoire sur DashLord?
 

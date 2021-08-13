@@ -18,7 +18,7 @@ On utilise le logiciel open source [CodiMD](https://github.com/hackmdio/codimd),
 
 Les documents que tu peux créer sur ce serveur sont _confidentiels par défaut_ \(contrairement par exemple à nos produits qui sont open source, ou à notre guide dont les informations sont publiques\).
 
-Pour accéder à ces pads confidentiels tu peux t'identifier avec ton compte Slack. Il suffit de cliquer le gros bouton vert "Sign in" puis "Sign in via Slack Beta".
+Pour accéder à ces pads confidentiels tu peux t'identifier avec ton compte Mattermost. Il suffit de cliquer le gros bouton vert "Sign in" puis "Sign in via Mattermost Beta".
 
 C'est utile mais il ne faut pas en abuser. Nous préférons [être transparents](https://guides.etalab.gouv.fr/juridique/opendata/#qu-est-ce-que-l-open-data) sur quasiment tout ce que nous faisons: une [exigence générale de transparence](https://www.conseil-etat.fr/actualites/discours-et-interventions/transparence-et-efficacite-de-l-action-publique) s'applique au service public, à condition de ne pas entraver ses missions.
 
@@ -28,11 +28,9 @@ Une [analyse de risques](https://pad.incubateur.net/fiqTt1NDSi2YSEQQexFsbg) est 
 
 ## Mais pourquoi pas utiliser Google Docs ? Quelle différence ?
 
-Une différence importante dans la maîtrise des données: celles des pads "appartiennent" à beta dans un sens plus fort \(on a toute la base sous la main, on peut la backuper, éventuellement l'explorer\), ce qui est chez Google "appartient", au mieux aux personnes à titre individuel qui créent des GDocs, au pire à Google. On a aucun moyen par exemple de chercher "tous les GDocs créés par des membres de beta".
+Une différence importante dans la maîtrise des données : celles des pads "appartiennent" à beta dans un sens plus fort \(on a toute la base sous la main, on peut la backuper, éventuellement l'explorer\), ce qui est chez Google "appartient", au mieux aux personnes à titre individuel qui créent des GDocs, au pire à Google. On a aucun moyen par exemple de chercher "tous les GDocs créés par des membres de beta".
 
 Cela ne veut pas dire que l'un est "mieux" que l'autre, c'est seulement un critère de choix. Au moment de créer un document, tu peux te demander "est-ce que c'est potentiellement utile à beta ?", si la réponse est oui, un pad est indiqué. Pour des documents uniquement à l'usage de l'équipe produit, un Google Doc dans un drive partagé qui appartient à l'équipe peut être la bonne solution \(en restant attentifs à la [vie privée des personnes](https://github.com/betagouv/doc.incubateur.net-communaute/tree/5d2700237a9d080612a23b44eb159ea770a3310b/communaute/outils/guide-rgpd-et-securite/README.md)\).
-
-Comme l'accès à Slack garantit l'accès aux pads, on se sert aussi beaucoup des pads comme solution de contournement à des phénomènes de type Slacknésie: si c'est sur Slack, et que c'est important, le bon réflexe c'est de le mettre dans un pad. Sinon, c'est beaucoup plus dur à retrouver plus tard. \(La Slacknésie est un mal qui nous frappait quand on utilisait l'offre "gratuite" de Slack, qui avait pour effet d'effacer les messages anciens de plus d'une semaine. Même en étant passés sur l'offre "premium" payante de Slack, le volume de messages garantit presque à coup sûr l'oubli d'informations importantes.\)
 
 ## Quelques conseils pour l'utiliser ?
 
