@@ -4,7 +4,9 @@ description: >-
   DS de l'État.
 ---
 
-# Utiliser Le Design System De Letat
+# Utiliser le système de design de l'Etat
+
+## Pourquoi utiliser le système de design ?
 
 ## Documentation officielle
 

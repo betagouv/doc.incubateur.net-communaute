@@ -5,7 +5,7 @@ description: >-
   circuler des données entre des acteurs.
 ---
 
-# Decouvrir Les Api
+# Découvrir les Api
 
 {% hint style="info" %}
 Cette page est édité par l'équipe API de la DINUM, active au sein d'Etalab pour mettre en place la circulation des données entre les administrations. Vous pouvez contacter l'équipe : [contact@api.gouv.fr](mailto:contact@api.gouv.fr)

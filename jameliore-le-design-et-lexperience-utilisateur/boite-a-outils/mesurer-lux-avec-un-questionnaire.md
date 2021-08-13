@@ -2,7 +2,7 @@
 description: 'NPS, SUS, DEEP, Attrakdiff, MeCUE, les questionnaires standardisés'
 ---
 
-# Mesurer Lux Avec Un Questionnaire
+# Mesurer l'ux avec un questionnaire
 
 {% embed url="https://vimeo.com/536388559" caption="" %}
 

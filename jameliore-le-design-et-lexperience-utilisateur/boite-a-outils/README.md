@@ -4,7 +4,7 @@ description: >-
   Startups d'état. Elle est vouée à être étoffée avec le temps.
 ---
 
-# Boite A Outils Ux
+# Ressources & outils
 
 ## Faire des tests utilisateurs
 

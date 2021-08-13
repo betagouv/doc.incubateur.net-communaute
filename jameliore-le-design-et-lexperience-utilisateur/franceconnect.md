@@ -4,7 +4,7 @@ description: >-
   services publics numériques
 ---
 
-# Franceconnect
+# France Connect
 
 Cette page est à destination des développeur.se.s implémentant la connexion usagers via FranceConnect \(FC\). On est ici dans le contexte d'un Fournisseur de Services \(FS\) dans la terminologie de FC.
 

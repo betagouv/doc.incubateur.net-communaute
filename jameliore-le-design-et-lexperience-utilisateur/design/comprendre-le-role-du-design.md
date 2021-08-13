@@ -2,7 +2,7 @@
 description: Comment bien utiliser un designer dans un projet ?
 ---
 
-# Comprendre Le Rôle Du Design
+# Comprendre le rôle du design
 
 {% embed url="https://vimeo.com/415190106" caption="Vidéo-conférence de la formation sur le rôle du design" %}
 

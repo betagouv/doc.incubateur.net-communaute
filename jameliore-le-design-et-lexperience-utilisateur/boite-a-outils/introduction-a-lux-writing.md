@@ -1,4 +1,4 @@
-# Introduction A Lux Writing
+# Introduction à l'ux writing
 
 ## UX Writing
 

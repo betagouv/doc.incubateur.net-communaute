@@ -2,7 +2,7 @@
 description: Retrouvez les formations UX menées par l'équipe transverse.
 ---
 
-# Formation
+# Formations
 
 L'équipe des designers transverses propose des formations sur différentes thématiques : l'accessibilité, la réalisation des entretiens ou des tests utilisateurs, les notions de bases en ergonomie. Des formations surmesures peuvent être mises en place suivant vos besoins. Vous trouverez ci-dessous des exemples de formations.
 
