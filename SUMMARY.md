@@ -82,6 +82,7 @@
       * [🔧 7 techniques pour un bon contact avec vos usagers](travailler-a-beta-gouv/se-former/le-metier-de-charge.e-de-deploiement-chez-beta.gouv/chapitre-1.-trouver-ses-premiers-utilisateurs/7-techniques-pour-un-bon-contact-avec-vos-usagers.md)
     * [🙋‍♀️🙋‍♂️Chapitre 2. Valider sa proposition de valeur et développer sa stratégie de déploiement](travailler-a-beta-gouv/se-former/le-metier-de-charge.e-de-deploiement-chez-beta.gouv/chapitre-2.-valider-sa-proposition-de-valeur-et-developper-sa-strategie-de-deploiement/README.md)
       * [🔧 5 techniques pour trouver ses seconds utilisateurs](travailler-a-beta-gouv/se-former/le-metier-de-charge.e-de-deploiement-chez-beta.gouv/chapitre-2.-valider-sa-proposition-de-valeur-et-developper-sa-strategie-de-deploiement/5-techniques-pour-trouver-ses-seconds-utilisateurs.md)
+  * [Formation hygiène informatique](travailler-a-beta-gouv/se-former/formation-hygiene-informatique.md)
   * [Certification des intrapreneurs](travailler-a-beta-gouv/se-former/certification-des-intrapreneurs/README.md)
     * [C'est quoi une certification de compétences?](travailler-a-beta-gouv/se-former/certification-des-intrapreneurs/cest-quoi-une-certification-de-competences.md)
     * [Pourquoi une certification des compétences des intras ?](travailler-a-beta-gouv/se-former/certification-des-intrapreneurs/pourquoi-une-certification-des-competences-des-intras.md)
