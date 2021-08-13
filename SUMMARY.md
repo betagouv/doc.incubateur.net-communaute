@@ -157,7 +157,6 @@
     * [Tourniquet développement](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/budget-de-sa-se/tourniquet-developpement/README.md)
       * [Codeurs en liberté](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/budget-de-sa-se/tourniquet-developpement/codeurs-en-liberte.md)
 * [💎 Améliorer le design et l'expérience utilisateur](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/README.md)
-  * [Le guide design de la communauté beta.gouv](https://doc.incubateur.net/design/)
   * [Accessibilité et RGAA](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/accessibilite-et-rgaa/README.md)
     * [Kit accessibilité](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/accessibilite-et-rgaa/kit-accessibilite/README.md)
       * [Introduction](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/accessibilite-et-rgaa/kit-accessibilite/introduction.md)
