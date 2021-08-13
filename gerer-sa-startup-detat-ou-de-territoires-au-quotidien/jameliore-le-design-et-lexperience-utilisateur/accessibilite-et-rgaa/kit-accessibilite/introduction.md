@@ -25,7 +25,7 @@ Concrètement, **les deux démarches sont donc profondément imbriquées** car l
 
 Pour autant, **design inclusif et accessibilité n'ont pas les mêmes enjeux** : le design inclusif facilite les usages pour tous quand **l'accessibilité est indispensable** pour certains.
 
-![Exemple de handicap situationnel \(conduire\), temporaire \(avoir le bras cass&#xE9;\) ou permanent \(&#xEA;tre paralys&#xE9;\)](../../.gitbook/assets/inclusive.png)
+![Exemple de handicap situationnel \(conduire\), temporaire \(avoir le bras cass&#xE9;\) ou permanent \(&#xEA;tre paralys&#xE9;\)](../../../../.gitbook/assets/inclusive.png)
 
 {% hint style="info" %}
 On parle parfois de **a11y**, qui est la contraction du terme anglais **accessibility** avec les première lettre _a_, le nombre de lettres entre celle-ci et la dernière, et la dernière lettre _y_.

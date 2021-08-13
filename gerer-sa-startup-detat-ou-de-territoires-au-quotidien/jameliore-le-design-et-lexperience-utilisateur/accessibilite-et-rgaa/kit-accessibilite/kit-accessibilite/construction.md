@@ -6,8 +6,6 @@ description: >-
 
 # Construction
 
-
-
 ### Identifier les rôles de chacun
 
 Chaque membre de l'équipe peut mettre ses compétences à disposition pour améliorer l'accessibilité du service.

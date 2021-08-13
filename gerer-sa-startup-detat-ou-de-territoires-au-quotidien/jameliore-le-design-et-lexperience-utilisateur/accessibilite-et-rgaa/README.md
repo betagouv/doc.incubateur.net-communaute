@@ -2,15 +2,9 @@
 
 **L’accessibilité numérique, c’est la possibilité pour toutes et tous d’utiliser les services numériques, quelle que soit leur façon d’y accéder.**
 
-Ce guide est en cours de rédaction : des liens redirigent vers la [**Documentation Design**](https://doc.incubateur.net/design/ressources-design/kit-accessibilite/obligations-legales) en attendant d'être hébergé ici à terme.
+{% page-ref page="kit-accessibilite/introduction.md" %}
 
-## Introduction <a id="introduction"></a>
-
-​[Pour comprendre ce qu'est l'accessibilité en une minute.](https://doc.incubateur.net/design/ressources-design/kit-accessibilite/introduction)​
-
-## Obligations légales <a id="obligations-legales"></a>
-
-​[Pour comprendre les obligations légales des services numériques d'État.](https://doc.incubateur.net/design/ressources-design/kit-accessibilite/obligations-legales)​
+{% page-ref page="kit-accessibilite/obligations-legales.md" %}
 
 ## Guide pour un service accessible <a id="guide-pour-un-service-accessible"></a>
 
@@ -18,11 +12,11 @@ Ce guide est en cours de rédaction : des liens redirigent vers la [**Documentat
 
 Ainsi, la conformité ne s'atteint pas en un jour et ça n'est pas grave : c'est **l'engagement vers la démarche qui est important** !
 
-👉 [Investigation](https://doc.incubateur.net/design/ressources-design/kit-accessibilite/guide-pour-une-startup-detat-accessible/investigation)​
+[👉 Investigation​](kit-accessibilite/kit-accessibilite/investigation.md)
 
-👉 [Construction](https://doc.incubateur.net/design/ressources-design/kit-accessibilite/guide-pour-une-startup-detat-accessible/construction)​
+[👉 Construction​](kit-accessibilite/kit-accessibilite/construction.md)
 
-👉 [Accélération](https://doc.incubateur.net/design/ressources-design/kit-accessibilite/guide-pour-une-startup-detat-accessible/acceleration)​
+[👉 Accélération​](kit-accessibilite/kit-accessibilite/acceleration.md)
 
-👉 [Consolidation](https://doc.incubateur.net/design/ressources-design/kit-accessibilite/guide-pour-une-startup-detat-accessible/consolidation)​
+[👉 Consolidation​](kit-accessibilite/kit-accessibilite/consolidation.md)
 

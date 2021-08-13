@@ -6,8 +6,6 @@ description: >-
 
 # 10 choses faciles à vérifier pour un site plus accessible
 
-
-
 ### Support de présentation
 
 Retrouvez les 10 choses faciles à tester avec des exemples concrets \(des vrais bouts de SE dedans !\) dans le support de présentation
