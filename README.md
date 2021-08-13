@@ -20,7 +20,7 @@ description: "\U0001F9ED Toutes les ressources pour aider les membres de la comm
 
 {% page-ref page="travailler-a-beta-gouv/culture/charte.md" %}
 
-{% page-ref page="gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/accessibilite-et-rgaa/" %}
+{% page-ref page="jameliore-le-design-et-lexperience-utilisateur/accessibilite-et-rgaa/" %}
 
 {% page-ref page="travailler-a-beta-gouv/bienvenue/" %}
 
@@ -54,7 +54,7 @@ description: "\U0001F9ED Toutes les ressources pour aider les membres de la comm
 
 {% page-ref page="travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/dashlord/" %}
 
-{% page-ref page="gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-securise-mon-produit/guide-rgpd-et-securite.md" %}
+{% page-ref page="je-securise-mon-produit/guide-rgpd-et-securite.md" %}
 
 ### Pour les designer et designeuses
 

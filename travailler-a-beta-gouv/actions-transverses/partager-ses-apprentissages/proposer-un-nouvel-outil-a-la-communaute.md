@@ -44,7 +44,7 @@ La CNIL a apporté de nouvelles recommandations en matière de politique de cook
 * Exemple : Analytics non anonymisés, fonts & images… Tout le reste qui n’est pas “strictement nécessaire” au fonctionnement du site.
 * Solution : un bandeau cookies qui répond à toutes les recommandations CNIL \(possibilité de paramétrer chaque cookie, etc.\).
 
-{% page-ref page="../../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-securise-mon-produit/" %}
+{% page-ref page="../../../je-securise-mon-produit/" %}
 
 ## Je travaille sur une SE et je monte une startup à côté.  j'aimerais que les Startups d'État intègrent ma solution.
 
