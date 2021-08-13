@@ -5,7 +5,7 @@ description: >-
   beta.gouv.fr.
 ---
 
-# ...des structures partenaires \(incubateurs, fabriques, etc\)
+# Offre de service pour les structures partenaires \(incubateurs, fabriques, etc\)
 
 ### Aides financières
 
@@ -24,7 +24,7 @@ description: >-
 
 ### Intégration à la communauté beta.gouv.fr
 
-* mise en avant des services numériques et de l'incubateur sur le site internet [beta.gouv.fr](../../actions-transverses/rituels/standup.md) ;
+* mise en avant des services numériques et de l'incubateur sur le site internet [beta.gouv.fr](../../travailler-a-beta-gouv/actions-transverses/rituels/standup.md) ;
 * accès au Mattermost beta.gouv.fr ; 
 * relai des campagnes de recrutement sur les réseaux beta.gouv.fr \(site internet, réseaux sociaux\) ;
 * invitation des membres des équipes aux “clubs” beta.gouv.fr et réflexions transverses \(séminaires, réseaux de partage d’expérience entre coachs, intrapreneurs ou chefs de produit, développeurs, designers, chargés de déploiement, etc\) ;
