@@ -4,7 +4,7 @@ description: >-
   long de la vie de leur produit
 ---
 
-# Kit Accessibilite
+# Le Kit de l'accessibilité
 
 L**’accessibilité est une démarche sur le long terme** : elle se pense dès l'investigation du service, elle est est régulièrement évaluée pendant la construction puis tout au long de la durée d’exploitation du service.
 

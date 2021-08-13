@@ -1,4 +1,4 @@
-# Obligations Legales
+# Vos obligations légales
 
 En France, plusieurs lois viennent encadrer l'accessibilité numérique rendant obligatoire l'accessibilité à tous les sites publics des services de l'État et des collectivités territoriales.
 

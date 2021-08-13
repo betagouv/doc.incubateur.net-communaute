@@ -58,6 +58,8 @@ description: "\U0001F9ED Toutes les ressources pour aider les membres de la comm
 
 ### Pour les designer et designeuses
 
+{% page-ref page="jameliore-le-design-et-lexperience-utilisateur/" %}
+
 ### Pour les coachs
 
 {% page-ref page="gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/investigation/conseils-pour-les-coachs-en-investigation.md" %}
@@ -67,8 +69,6 @@ description: "\U0001F9ED Toutes les ressources pour aider les membres de la comm
 
 
 ## Les autres guides de bêta
-
-{% embed url="https://doc.incubateur.net/design/" %}
 
 {% embed url="https://doc.incubateur.net/consolidation/" %}
 

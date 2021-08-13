@@ -1,4 +1,4 @@
-# Formation A Laccessibilite
+# Formation à l'accessibilité
 
 Le catalogue formation comprend actuellement 3 formations relatives à l'accessibilité :
 
