@@ -40,7 +40,7 @@
     * [Logo de beta](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/ressources-supplementaires/logo.md)
     * [Modèle de note](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/ressources-supplementaires/modele-de-note.md)
 * [🖖 Participer à la vie de la communauté](travailler-a-beta-gouv/actions-transverses/README.md)
-  * [Équipe d'animation](travailler-a-beta-gouv/actions-transverses/equipe-danimation.md)
+  * [Équipe d'animation beta.gouv.fr](travailler-a-beta-gouv/actions-transverses/equipe-danimation.md)
   * [S'informer sur la vie de la communauté](travailler-a-beta-gouv/actions-transverses/sinformer-sur-la-vie-de-la-communaute.md)
   * [Les rendez-vous du réseau beta.gouv.fr](travailler-a-beta-gouv/actions-transverses/rituels/README.md)
     * [L'hebdo beta.gouv.fr](travailler-a-beta-gouv/actions-transverses/rituels/standup.md)

@@ -4,13 +4,13 @@ description: >-
   soutient les incubateurs ministériels dans leur croissance.
 ---
 
-# Équipe d'animation
+# Équipe d'animation beta.gouv.fr
 
 {% hint style="success" %}
 Pour contacter facilement l'équipe d'animation de la DINUM, transmet un mail à _**dinum@beta.gouv.fr**_ ou utilise la chaîne [_**~incubateur-animation**_](https://mattermost.incubateur.net/betagouv/channels/incubateur-animation) sur Mattermost.
 {% endhint %}
 
-L’équipe d’animation de beta.gouv.fr est constituée d’une dizaine de personnes dites _**co-animatrices**_ au statut de fonctionnaire ou contractuel, ayant pour mission de garantir que les opérations du programme se passent correctement, de faire grandir le programme beta.gouv.fr et de diffuser l'approche dans l'ensemble des ministères. Cette équipe fait partie de la **mission BETA** de la Direction interministérielle du numérique \(DINUM\), mais interagit avec l'ensemble des administrations publiques membres du réseau beta.gouv.fr.
+L’équipe d’animation de beta.gouv.fr est constituée d’une dizaine de personnes dites _**co-animatrices**_ au statut de fonctionnaire ou contractuel, ayant pour mission de garantir que les opérations du programme se passent correctement, de faire grandir le programme beta.gouv.fr et de diffuser l'approche dans l'ensemble des ministères. Cette équipe fait partie de la **mission BETA** de la Direction interministérielle du numérique \(DINUM\), mais interagit avec l'ensemble des administrations publiques membres du réseau beta.gouv.fr. 
 
 _L'animation de la communauté beta.gouv.fr n'est pas l'exclusivité des agents DINUM : d'autres personnes peuvent et sont invitées à contribuer à la réussite du collectif \(agents des incubateurs ministériels, freelances, etc\)._ 
 

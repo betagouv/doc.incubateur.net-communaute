@@ -7,7 +7,7 @@ description: 'Tu viens d''arriver ? Bienvenue, et laisse toi guider.'
 ## Bienvenue dans la communauté beta.gouv.fr ! 
 
 {% hint style="info" %}
-Que tu sois **indépendant**, **salariée**, **stagiaire**, **fonctionnaire** ou **contractuelle**, ces conseils sont pour toi.
+Que tu sois **indépendant**, **salariée**, **stagiaire**, **fonctionnaire** ou **contractuelle**, ces conseils sont pour toi. Ils peuvent notamment s'appliquer à toute personne intervenant dans une Startup d'État, quel que soit son incubateur du réseau beta.gouv.fr. 
 {% endhint %}
 
 Pour te permettre de démarrer dans les meilleures conditions et dès que tu apprends que tu rejoins une équipe, nous te recommandons de commencer par te créer une **fiche membre**, qui te permettra également d'avoir une adresse email @beta.gouv.fr et d'accéder à notre messagerie collaborative Mattermost :
