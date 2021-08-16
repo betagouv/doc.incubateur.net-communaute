@@ -24,13 +24,15 @@ Une "**norme**" n'est ni plus ni moins qu'une façon de parler, de se comporter 
 
 ## Privilégier les moments qui apportent vraiment de la valeur aux utilisateurs plutôt que de perdre du temps en réunion
 
-**Se méfier** [**des réunions**](https://blog.alan.com/bien-etre-au-travail/no-meeting-policy) **et du temps morcelé**. S'il est possible d'éviter une réunion avec un mail ou une discussion à l'écrit sur Mattermost, [privilégier l'asynchrone](https://basecamp.com/guides/how-we-communicate). N'oublions pas qu'une heure de réunion à 5 ne correspond pas à une heure de travail mais à 5 heures travaillées.
+**Se méfier** [**des réunions**](https://blog.alan.com/bien-etre-au-travail/no-meeting-policy) **et du temps morcelé**. S'il est possible d'éviter une réunion avec un mail ou une discussion à l'écrit sur Mattermost, [privilégier la communication asynchrone](https://basecamp.com/guides/how-we-communicate). N'oublions pas qu'une heure de réunion à 5 ne correspond pas à une heure de travail mais à 5 heures travaillées. Bref, une réunion, c'est l'option du dernier recours, quand tout le reste n'a pas fonctionné. 
 
-En particulier, **refuser le** [**"présentéisme"**](https://www.linkedin.com/pulse/prendre-son-temps-cest-de-largent-pr%C3%A9sent%C3%A9isme-remi-rommelard/) : ce n'est pas parce que quelqu'un n'est pas présent \(physiquement ou non\) à une réunion qu'il ne travaille pas. On juge les personnes sur leurs résultats et non sur leurs efforts ou leurs horaires.
+En particulier, **refuser le** [**"présentéisme"**](https://www.linkedin.com/pulse/prendre-son-temps-cest-de-largent-pr%C3%A9sent%C3%A9isme-remi-rommelard/) : ce n'est pas parce que quelqu'un n'est pas présent \(physiquement ou non\) à une réunion qu'il ne travaille pas. On juge les personnes sur leurs résultats et non sur leurs efforts ou leurs horaires. En corollaire, ne jamais oublier que tout ce qui se dit dans une pièce ne sert que les gens de la pièce ; si ce n'est écrit nulle part, les autres n'en profiteront pas \(parmi les autres, il y a aussi les nouvelles recrues à venir\). 
 
 Lorsque les réunions s'avèrent nécessaires, **appliquer la** [**loi des deux pieds**](http://www.alidade-conseil.com/2016/11/01/connaissez-vous-la-loi-des-deux-pieds/) : les personnes présentes et motivées sont légitimes pour discuter de n’importe quel sujet ; chacune a le droit de se retirer “avec ses deux pieds” en ne participant pas ou en quittant les réunions ou discussions. 
 
 **Limiter le reporting au minimum**. Le temps passé à faire du reporting à sa hiérarchie est autant de temps passé à ne pas s'occuper des problèmes de ses utilisateurs. Si la hiérarchie a besoin d'information, transmettez l'information à la source \(page de statistiques publique, code source, backlog produit\). Adopter des pratiques de transparence permet souvent de limiter les demandes de reporting \(voir paragraphe suivant\). 
+
+{% page-ref page="../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-gere-mon-produit-et-son-impact/comment-repondre-a-un-sponsor-qui-demande-une-roadmap-produit.md" %}
 
 D'une manière générale, **tenir compte des coûts de coordination** \(une personne à temps complet est souvent bien plus efficace que cinq personnes à 20% de leur temps\) et **limiter le nombre de personnes impliquées dans chaque sujet**.
 
@@ -38,7 +40,7 @@ D'une manière générale, **tenir compte des coûts de coordination** \(une per
 
 **En interne, communiquer avec son équipe sur des canaux publics. Eviter les messages privés.** La circulation de l'information permet de mieux faire fonctionner l'organisation, d'éviter les frustrations, les prises de pouvoir individuelles non désirables, les rumeurs infondées, les fantasmes. La transparence est la contrepartie de l'autonomie concédée aux équipes : elle empêche les gens de faire n'importe quoi, parce que tout le monde voit. Ce qui est visible est plus facilement améliorable.
 
-**En externe, partager le maximum d'apprentissages, en transparence**. Les codes sources, pages de statistiques, apprentissages et budgets de vos produits numériques devraient être publiques. 
+**En externe, partager le maximum d'apprentissages, en transparence**. Les codes sources, pages de statistiques, apprentissages et budgets de vos produits numériques devraient être publiques. Lorsque vous êtes responsable d'une tâche, documentez votre action, le protocole que vous avez choisi, les apprentissages dont vous avez bénéficié, et partagez le lien de cette documentation dans l'espace de votre équipe : cela lui permettra de prendre le relai si vous êtes en congés ou si vous êtes absent. 
 
 {% hint style="success" %}
 L'exemple du service Mon Entreprise : 
