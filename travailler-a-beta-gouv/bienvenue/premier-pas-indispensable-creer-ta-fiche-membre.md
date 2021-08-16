@@ -43,11 +43,11 @@ En ayant un compte Github, tu gagneras en autonomie durant ta mission dans une �
 
 ## 2. Que faire ensuite ?
 
-Nous te recommandons de découvrir la culture d'organisation de beta.gouv.fr.
+S'inscrire au **prochain atelier d'embarquement**, qui a lieu toutes les 6 semaines pour accueillir les nouveaux membres de beta.gouv.fr. 
 
-{% page-ref page="../culture/" %}
+{% embed url="https://startupdetat.typeform.com/to/QY8l29Z1\#email={{%20contact.EMAIL%20}}&prenom={{%20contact.PRENOM%20}}&status={{%20contact.MISSION\_STATUS%20}}&role={{%20contact.ROLE%20}}&date\_start={{%20contact.MISSION\_START%20}}" %}
 
-...puis de lire nos recommandations pour tes premières semaines et tes premiers mois de mission.
+...puis lire nos recommandations pour tes premières semaines et tes premiers mois de mission.
 
 {% page-ref page="to-do-darrivee.md" %}
 
