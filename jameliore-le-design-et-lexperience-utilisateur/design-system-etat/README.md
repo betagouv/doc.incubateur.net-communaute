@@ -4,7 +4,7 @@ description: >-
   design de l'État
 ---
 
-# Identité graphique de l'Etat
+# Utiliser l'identité graphique de l'Etat
 
 ## La marque Etat
 

@@ -1,4 +1,4 @@
-# Les rendez-vous design
+# Participer à la communauté design
 
 ### Assister à un événement design 🗓 <a id="participer-a-un-evenement-design"></a>
 

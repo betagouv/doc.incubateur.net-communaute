@@ -1,4 +1,4 @@
-# Recherche utilisateur
+# Mener la recherche utilisateur
 
 ![traduction du sch&#xE9;ma de Nielsen Norman Group](../../.gitbook/assets/methode_test.png)
 
