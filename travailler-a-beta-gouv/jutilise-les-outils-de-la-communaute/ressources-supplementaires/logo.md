@@ -20,17 +20,17 @@ Ces images ne sont pas soumises à la licence CC0 appliquée à ce texte.
 
 #### Version disque sans titre :
 
-![Version rond sans titre](../../.gitbook/assets/logo-generique-startup-carre-2019.jpg)
+![Version rond sans titre](../../../.gitbook/assets/logo-generique-startup-carre-2019.jpg)
 
 [SVG éditable](https://github.com/betagouv/beta.gouv.fr/blob/master/img/betagouva.svg)
 
 #### Version disque avec titre  :
 
-![](../../.gitbook/assets/betagouv-disque.png)
+![](../../../.gitbook/assets/betagouv-disque.png)
 
 #### Version disque sans titre deuil :
 
-![logo beta sans titre deuil](../../.gitbook/assets/betagouv-disque-sans-texte-deuil.png)
+![logo beta sans titre deuil](../../../.gitbook/assets/betagouv-disque-sans-texte-deuil.png)
 
 ### Marianne
 
@@ -38,7 +38,7 @@ Ces images ne sont pas soumises à la licence CC0 appliquée à ce texte.
 [Charte graphique du gouvernement](https://www.gouvernement.fr/charte/charte-graphique-les-fondamentaux/les-symboles-de-la-republique-francaise)
 {% endhint %}
 
-![Marianne](../../.gitbook/assets/1200px-republique-francaise-logo.svg.png)
+![Marianne](../../../.gitbook/assets/1200px-republique-francaise-logo.svg.png)
 
 Attention, la Marianne appartient au [SIG](http://www.gouvernement.fr/service-d-information-du-gouvernement-sig). Ne pas l'utiliser sans discussion interne.
 
@@ -46,7 +46,7 @@ Attention, la Marianne appartient au [SIG](http://www.gouvernement.fr/service-d-
 
 Version prototype
 
-![Logo prototype](../../.gitbook/assets/logo-generique-startup-carre.jpg)
+![Logo prototype](../../../.gitbook/assets/logo-generique-startup-carre.jpg)
 
-![Logo prototype](../../.gitbook/assets/logo-generique-startup-rectangle.jpg)
+![Logo prototype](../../../.gitbook/assets/logo-generique-startup-rectangle.jpg)
 

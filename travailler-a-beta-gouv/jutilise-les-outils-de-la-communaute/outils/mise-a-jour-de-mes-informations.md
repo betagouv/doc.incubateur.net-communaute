@@ -12,5 +12,5 @@ Il est important de garder à jour sa date de suivi pour garder l'accès à vos 
 
 {% embed url="https://www.loom.com/share/e04fb7465fc34844bbc80759e63054e0" %}
 
-Vous avez besoin de créer votre compte github ? Retrouvez les [explications ici.](github/)
+Vous avez besoin de créer votre compte github ? Retrouvez les [explications ici.](../github/)
 
