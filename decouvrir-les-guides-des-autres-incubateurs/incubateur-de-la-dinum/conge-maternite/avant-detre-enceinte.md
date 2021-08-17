@@ -20,12 +20,12 @@ description: Les réponses aux questions qu'on peut se poser avant d'être encei
 * Pour les prestataires et l'employeur direct :
   * indemnité maximum de 2600€ net par mois 
     * si tu es salarié et si la durée du congé mater est de 16 semaines : 89,03€ net indemnité journalière
-      * Si tu as moins d'un an d'anciennté, la différence est à ta charge.
+      * Si tu as moins d'un an d'ancienneté, la différence est à ta charge.
         * Exemple  : si salaire net de 3900€ et sur une durée de 16 semaines \(4 mois\), il y a 1300€ par mois de perte nette \(5200€ en tout\).
       * Si tu as plus d'un an, c'est l'entreprise qui prend en charge \(Convention SYNTEC\).
         * Exemple : si salaire net de 3900€ et sur une durée de 16 semaines \(4 mois\), l'entreprise paiera également des charges sociales. La montant correspondra à 8000€ sur les 4 mois dans cet exemple.
 * Si tu es indep et si tu t'arrêtes pendant 8 semaines minimums : tu auras une perte de salaire. Nous avons des difficultés pour la calculer. Pour vous aider : [https://www.ameli.fr/assure/remboursements/indemnites-journalieres/conge-maternite](https://www.ameli.fr/assure/remboursements/indemnites-journalieres/conge-maternite)
-  * En tant qu'indépendant, je peux aussi me pencher sur les solutions que je peux mobiliser à titre individuel et préventif : Soucrire à une Assurance perte de revenue, Vérifier ma couverture mutuelle complémentaire \(vérifier les conditions de garantits en cas de grossesse\) contrat éligible loi madelin \(déductible des revenus pro imposables\)
+  * En tant qu'indépendant, je peux aussi me pencher sur les solutions que je peux mobiliser à titre individuel et préventif : Souscrire à une Assurance perte de revenue, Vérifier ma couverture mutuelle complémentaire \(vérifier les conditions de garantis en cas de grossesse\) contrat éligible loi madelin \(nb : vous ne pouvez plus souscrire à ce genre de contrat depuis le 01/10/20\)
 * Pour les agents publics
   * [https://www.service-public.fr/particuliers/vosdroits/F519](https://www.service-public.fr/particuliers/vosdroits/F519)
 
@@ -42,7 +42,7 @@ description: Les réponses aux questions qu'on peut se poser avant d'être encei
 
 Elements culturels favorables :
 
-* Il est possible, dans la pluspart des cas, de travailler à distance
+* Il est possible, dans la plupart des cas, de travailler à distance
 * Les personnes sont libres de choisir leurs horaires de travail
 
   A compléter
