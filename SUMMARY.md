@@ -51,7 +51,7 @@
   * [Partager ses apprentissages](travailler-a-beta-gouv/actions-transverses/partager-ses-apprentissages/README.md)
     * [Ecrire un article sur le blog de beta.gouv.fr](travailler-a-beta-gouv/actions-transverses/partager-ses-apprentissages/retours-dexperience.md)
     * [Proposer une démonstration de son produit](travailler-a-beta-gouv/actions-transverses/partager-ses-apprentissages/mardi-demo.md)
-    * [Annoncer un évènement](travailler-a-beta-gouv/actions-transverses/partager-ses-apprentissages/annoncer-un-evenement.md)
+    * [Annoncer un événement](travailler-a-beta-gouv/actions-transverses/partager-ses-apprentissages/annoncer-un-evenement.md)
     * [Proposer un nouvel outil à la communauté](travailler-a-beta-gouv/actions-transverses/partager-ses-apprentissages/proposer-un-nouvel-outil-a-la-communaute.md)
     * [Parler de beta.gouv.fr à l'extérieur](travailler-a-beta-gouv/actions-transverses/partager-ses-apprentissages/presenter-de-beta.gouv.fr.md)
   * [S'engager dans une action transverse](travailler-a-beta-gouv/actions-transverses/sengager-dans-une-action-transverse/README.md)

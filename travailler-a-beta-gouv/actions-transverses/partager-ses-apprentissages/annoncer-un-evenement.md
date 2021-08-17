@@ -2,7 +2,7 @@
 description: Comment annoncer un évènement pour la communauté bêta ?
 ---
 
-# Annoncer un évènement
+# Annoncer un événement
 
 Nous sommes plusieurs à organiser et proposer des évènements pour la communauté.
 
