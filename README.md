@@ -12,7 +12,13 @@ description: "\U0001F9ED Toutes les ressources pour aider les membres de la comm
 **Si vous n'êtes pas \(encore\) membre de beta.gouv.fr**, vous pouvez profiter librement des ressources et des apprentissages que nous avons compilés ici, en gardant en tête que cette documentation est initialement à usage interne. Nous espérons cependant qu'elles pourra inspirer d'autres organisations. Si vous souhaitez nous contacter pour en parler, transmettez nous un message à _**contact@beta.gouv.fr**_ !
 {% endhint %}
 
+## Pour découvrir beta.gouv.fr
+
+{% embed url="https://beta.gouv.fr/approche/" %}
+
 ## Les pages les plus consultées de ce guide
+
+{% page-ref page="travailler-a-beta-gouv/bienvenue/" %}
 
 {% page-ref page="travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/mattermost/" %}
 
@@ -21,8 +27,6 @@ description: "\U0001F9ED Toutes les ressources pour aider les membres de la comm
 {% page-ref page="travailler-a-beta-gouv/culture/charte.md" %}
 
 {% page-ref page="jameliore-le-design-et-lexperience-utilisateur/accessibilite-et-rgaa/" %}
-
-{% page-ref page="travailler-a-beta-gouv/bienvenue/" %}
 
 {% page-ref page="travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/emails.md" %}
 
