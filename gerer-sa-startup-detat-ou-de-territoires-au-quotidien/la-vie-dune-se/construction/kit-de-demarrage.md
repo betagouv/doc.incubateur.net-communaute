@@ -26,7 +26,7 @@ Pour cela, nous mettons à la disposition des Startups d'État un "Kit de démar
 
 Les standards de qualité beta.gouv.fr sont référencés à la page ci-dessous. Attention : si vous ne les suivez pas, on pourra vous le reprocher et il sera nécessaire de le justifier.
 
-{% page-ref page="../../je-gere-mon-produit-et-son-impact/standards-de-qualite-beta.gouv.fr.md" %}
+{% page-ref page="../../je-fais-des-choix-technologique/standards-de-qualite-beta.gouv.fr.md" %}
 
 ## Contraintes légales
 
