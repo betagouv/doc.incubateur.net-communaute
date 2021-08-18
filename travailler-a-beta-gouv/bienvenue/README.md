@@ -18,22 +18,5 @@ Dès que tu auras un email @beta.gouv.fr et un accès à notre messagerie collab
 
 {% page-ref page="to-do-darrivee.md" %}
 
-## Découvre la documentation spécifique à ton incubateur
-
-A l'exception des cas où ton administration publique de rattachement ne dispose pas encore d'un incubateur maison \(auquel cas tu es rattachée par défaut à l'[incubateur de la DINUM](../../decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/)\), nous t'invitons à découvrir si ce n'est pas déjà fait les espaces de documentation spécifiques à ta structure.
-
-| Nom de l'incubateur | Liens utiles |
-| :--- | :--- |
-| Fabrique numérique des Affaires sociales | [site internet ](https://www.fabrique.social.gouv.fr/)-  [wiki](https://github.com/SocialGouv/www/wiki) - [documentation technique](https://github.com/SocialGouv/www/wiki/Social-Gouv-Tech-Welcome-Pack-%F0%9F%96%96) |
-| Fabrique numérique de l'Écologie | [documentation](https://fabrique-numerique.gitbook.io/guide/) |
-| Fabrique numérique des Armées | [documentation](../../decouvrir-les-guides-des-autres-incubateurs/fabrique-numerique-ministeres-des-armees/) |
-| Fabrique Pôle emploi |  |
-| Lab MI \(ministère de l'Intérieur\) | [site internet](https://beta.interieur.gouv.fr/) |
-| Incubateur des territoires | [site internet](https://incubateur.anct.gouv.fr/) |
-| Incubateur du ministère de l'économie |  |
-| Atelier numérique de la culture | [documentation](https://atelier-numerique.gitbook.io/atelier-numerique-le-guide/) |
-| Atelier numérique des affaires étrangères |  |
-| Incubateur de l'ANSSI |  |
-
 
 

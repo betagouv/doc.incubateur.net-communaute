@@ -13,7 +13,7 @@ description: "\U0001F9ED Toutes les ressources pour aider les membres de la comm
 {% endhint %}
 
 {% hint style="warning" %}
-Ce guide est un espace commun à [tous les incubateurs](https://beta.gouv.fr/communaute/) du réseau beta.gouv.fr. Ses recommandations s'appliquent par défaut quel que soit votre incubateur, sauf mention contraire dans [la documentation spécifique de votre incubateur de rattachement](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/bienvenue#decouvre-la-documentation-specifique-a-ton-incubateur).
+Ce guide est un espace commun à [tous les incubateurs](https://beta.gouv.fr/communaute/) du réseau beta.gouv.fr. Ses recommandations s'appliquent par défaut quel que soit votre incubateur, sauf mention contraire dans [la documentation spécifique de votre incubateur de rattachement](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/bienvenue/to-do-darrivee#decouvre-la-documentation-specifique-a-ton-incubateur).
 {% endhint %}
 
 ## Pour découvrir beta.gouv.fr
