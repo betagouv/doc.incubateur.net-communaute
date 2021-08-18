@@ -87,10 +87,10 @@
 
 ## Gérer sa Startup d'Etat au quotidien <a id="gerer-sa-startup-detat-ou-de-territoires-au-quotidien"></a>
 
-* [🌀 Comprendre les grandes étapes d'une SE](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/README.md)
-  * [Je souhaite lancer une Startup d'Etat](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/je-souhaite-lancer-une-startup-detat/README.md)
+* [🌀 Comprendre les grandes étapes d'une Startup d'État](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/README.md)
+  * [Lancer une Startup d'État](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/je-souhaite-lancer-une-startup-detat/README.md)
     * [Conditions d’engagement](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/je-souhaite-lancer-une-startup-detat/conditions-dengagement.md)
-    * [Chronologie d'un appel à innovateurs](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/je-souhaite-lancer-une-startup-detat/chronologie-dune-appel-a-innovateur/README.md)
+    * [Guide de l'appel à innovateurs publics](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/je-souhaite-lancer-une-startup-detat/chronologie-dune-appel-a-innovateur/README.md)
       * [1. Phase politique](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/je-souhaite-lancer-une-startup-detat/chronologie-dune-appel-a-innovateur/1.-phase-politique.md)
       * [2. Phase administrative](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/je-souhaite-lancer-une-startup-detat/chronologie-dune-appel-a-innovateur/2.-phase-administrative.md)
       * [3.    Contenu de l’appel à intrapreneur](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/je-souhaite-lancer-une-startup-detat/chronologie-dune-appel-a-innovateur/3.-contenu-de-lappel-a-intrapreneur/README.md)
@@ -199,7 +199,7 @@
   * [Connaître les outils de la DINUM](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/les-outils-de-la-dinum/README.md)
     * [France Connect](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/les-outils-de-la-dinum/franceconnect.md)
     * [Découvrir les Api](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/les-outils-de-la-dinum/decouvrir-les-api.md)
-* [🚀 Activer la croissance de sa SE](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jactive-la-croissance-de-ma-se-growth-hacking/README.md)
+* [🚀 Activer la croissance de sa Startup d'État](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jactive-la-croissance-de-ma-se-growth-hacking/README.md)
   * [Les principes du Growth-Hacking](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jactive-la-croissance-de-ma-se-growth-hacking/les-principes-du-growth-hacking/README.md)
     * [Acquisition](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jactive-la-croissance-de-ma-se-growth-hacking/les-principes-du-growth-hacking/acquisition.md)
     * [Activation](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jactive-la-croissance-de-ma-se-growth-hacking/les-principes-du-growth-hacking/activation.md)

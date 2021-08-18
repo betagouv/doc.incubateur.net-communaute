@@ -1,2 +1,2 @@
-# 🚀 Activer la croissance de sa SE
+# 🚀 Activer la croissance de sa Startup d'État
 

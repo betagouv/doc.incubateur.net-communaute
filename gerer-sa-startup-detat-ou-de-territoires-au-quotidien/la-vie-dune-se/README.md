@@ -1,4 +1,4 @@
-# 🌀 Comprendre les grandes étapes d'une SE
+# 🌀 Comprendre les grandes étapes d'une Startup d'État
 
 {% page-ref page="je-souhaite-lancer-une-startup-detat/" %}
 
