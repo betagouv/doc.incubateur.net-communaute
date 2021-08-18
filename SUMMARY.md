@@ -247,4 +247,5 @@
     * [OKR Fred](decouvrir-les-guides-des-autres-incubateurs/fabrique-numerique-ministeres-des-armees/okr/okr-fred.md)
   * [Vision, mission et valeurs](decouvrir-les-guides-des-autres-incubateurs/fabrique-numerique-ministeres-des-armees/vision-mission-valeurs.md)
 * [🖌 L'Atelier Numérique \(Culture\)](https://atelier-numerique.gitbook.io/atelier-numerique-le-guide/)
+* [Journal de bord de la documentation](decouvrir-les-guides-des-autres-incubateurs/journal-de-bord-de-la-documentation.md)
 

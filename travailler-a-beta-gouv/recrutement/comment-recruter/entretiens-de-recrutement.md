@@ -84,3 +84,9 @@ Parlons d'un domaine qui te passionne. Quel produit voudrais-tu construire ?
 * Quel modèle d'affaires mets-tu en place ?
 * Comment génères-tu du trafic ?
 
+### Designers
+
+{% page-ref page="../../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/design/" %}
+
+
+
