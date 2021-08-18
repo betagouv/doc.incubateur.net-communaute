@@ -42,5 +42,7 @@ Un "**standard**" c’est un critère d’évaluation explicite de quelque chose
 Les incubateurs du réseau beta.gouv.fr ont parfois des règles de sécurité spécifiques. Par exemple, la Fabrique des Affaires sociales a documenté les siens [ici](https://socialgouv.github.io/support/#/README).
 {% endhint %}
 
-
+{% hint style="info" %}
+Pour aider les développeuses et les développeurs qui lancent un nouveau service depuis une page blanche, un [kit de démarrage](../la-vie-dune-se/construction/kit-de-demarrage.md) a été documenté. Ce kit prend en compte les standards définis ci-dessus.
+{% endhint %}
 

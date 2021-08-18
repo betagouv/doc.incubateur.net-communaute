@@ -1,4 +1,4 @@
-# Kit de démarrage pour coder son produit minimum viable
+# Kit de démarrage pour lancer son produit minimum viable
 
 Votre objectif pour les 6 premiers mois est d'avoir de l'impact sur au moins un usager, en écrivant du code répondant aux standards de beta.gouv.fr en terme de front \(accessibilité\), back \(sécurité\) et données utilisateurs \(RGPD\).
 

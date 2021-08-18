@@ -109,7 +109,7 @@
     * [Ressources utiles pour l'investigation](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/investigation/ressources-utiles-pour-linvestigation.md)
   * [2. Construction](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/construction/README.md)
     * [3 retours d'expérience de coachs](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/construction/3-retours-dexperience-de-coachs.md)
-    * [Kit de démarrage pour coder son produit minimum viable](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/construction/kit-de-demarrage.md)
+    * [Kit de démarrage pour lancer son produit minimum viable](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/construction/kit-de-demarrage.md)
   * [3. Accélération](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/acceleration.md)
   * [4. Consolidation](https://doc.incubateur.net/consolidation/)
   * [5. Abandon](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/abandon.md)
