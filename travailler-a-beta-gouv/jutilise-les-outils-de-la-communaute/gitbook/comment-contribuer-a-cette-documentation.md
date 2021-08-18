@@ -6,8 +6,8 @@ Pour modifier ce guide, rendez-vous sur le canal \#incubateur-documentation dans
 
 ## Pourquoi contribuer ? <a id="pourquoi-contribuer"></a>
 
-* Tu souhaite créer une nouvelle page ?
-* Tu souhaite mettre à jour ou corriger du contenu sur ce guide ?
+* Tu souhaites créer une nouvelle page ?
+* Tu souhaites mettre à jour ou corriger du contenu sur ce guide ?
 
 ## Comment devenir contributeur ?  <a id="comment-devenir-contributeur"></a>
 
