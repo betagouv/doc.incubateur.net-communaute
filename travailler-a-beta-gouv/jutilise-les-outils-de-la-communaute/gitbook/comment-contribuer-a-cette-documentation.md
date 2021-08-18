@@ -1,7 +1,7 @@
 # Je veux modifier ce guide
 
 {% hint style="info" %}
-Pour modifier ce guide, rendez-vous sur \#incubateur-documentation et retrouve le lien de connexion pour éditer ce guide dans le titre du canal. 
+Pour modifier ce guide, rendez-vous sur le canal \#incubateur-documentation dans Mattermost ; retrouve le lien de connexion pour éditer ce guide dans le titre et descriptif du canal. 
 {% endhint %}
 
 ## Pourquoi contribuer ? <a id="pourquoi-contribuer"></a>
