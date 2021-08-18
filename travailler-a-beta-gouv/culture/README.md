@@ -7,7 +7,7 @@ description: 'Concrètement, comment c''est de travailler chez beta.gouv.fr ?'
 {% hint style="info" %}
 Habituellement, les administrations publiques ont une [culture bureaucratique](https://fr.wikipedia.org/wiki/Bureaucratie), qui est nécessaire pour garantir l'universalité de nos services publics. 
 
-En tant qu'espace d'innovation et d'expérimentation au sein de l'État, beta.gouv.fr a instauré en son sein une **culture plus horizontale fondée sur la recherche de l'impact, l'amélioration continue et l'autonomie des équipes**, qui permet notamment la prise d'initiative d'agents publics sur le terrain.
+En tant qu'espace d'innovation et d'expérimentation au sein de l'État, beta.gouv.fr a instauré en son sein une **culture plus horizontale fondée sur la recherche de l'impact, la rapidité d'exécution, l'amélioration continue et l'autonomie des équipes**, qui permet notamment la prise d'initiative d'agents publics sur le terrain.
 {% endhint %}
 
 ## Un manifeste pour décrire notre conception de l'action publique numérique

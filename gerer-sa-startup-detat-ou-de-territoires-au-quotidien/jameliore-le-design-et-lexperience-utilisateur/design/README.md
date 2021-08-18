@@ -6,7 +6,7 @@ Pour mieux comprendre de quel type de designer votre produit a besoin, vous pouv
 
 
 
-![exemple de mod&#xE8;le de comp&#xE9;tence du design : le mod&#xE8;le en T](../../.gitbook/assets/modele-en-t_1.png)
+![exemple de mod&#xE8;le de comp&#xE9;tence du design : le mod&#xE8;le en T](../../../.gitbook/assets/modele-en-t_1.png)
 
 {% hint style="info" %}
 Plus d'informations sur [les compétences UX et le modèle en T](https://blocnotes.iergo.fr/articles/competences-ux-et-modele-en-t/)

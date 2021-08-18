@@ -26,7 +26,7 @@ description: "\U0001F9ED Toutes les ressources pour aider les membres de la comm
 
 {% page-ref page="travailler-a-beta-gouv/culture/charte.md" %}
 
-{% page-ref page="jameliore-le-design-et-lexperience-utilisateur/accessibilite-et-rgaa/" %}
+{% page-ref page="gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/accessibilite-et-rgaa/" %}
 
 {% page-ref page="travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/emails.md" %}
 
@@ -48,7 +48,7 @@ description: "\U0001F9ED Toutes les ressources pour aider les membres de la comm
 
 ### Pour les chargé\(e\)s de déploiement
 
-{% page-ref page="travailler-a-beta-gouv/se-former/le-metier-de-charge.e-de-deploiement-chez-beta.gouv/" %}
+{% page-ref page="gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/le-metier-de-charge.e-de-deploiement-chez-beta.gouv/" %}
 
 {% page-ref page="gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-gere-mon-produit-et-son-impact/definir-et-mesurer-limpact/" %}
 
@@ -58,17 +58,17 @@ description: "\U0001F9ED Toutes les ressources pour aider les membres de la comm
 
 {% page-ref page="travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/dashlord/" %}
 
-{% page-ref page="je-securise-mon-produit/guide-rgpd-et-securite.md" %}
+{% page-ref page="gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-securise-mon-produit/guide-rgpd-et-securite.md" %}
 
 ### Pour les designer et designeuses
 
-{% page-ref page="jameliore-le-design-et-lexperience-utilisateur/" %}
+{% page-ref page="gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/" %}
 
 ### Pour les coachs
 
 {% page-ref page="gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/investigation/conseils-pour-les-coachs-en-investigation.md" %}
 
-{% page-ref page="gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-gere-mon-produit-et-son-impact/coacher-une-startup-detat.md" %}
+{% page-ref page="gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/coacher-une-startup-detat.md" %}
 
 
 

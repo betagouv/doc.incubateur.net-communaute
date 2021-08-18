@@ -36,6 +36,12 @@ Tu trouveras le reste dans la section [Partage de ressources](../partage-de-ress
 * support de slides : [https://docs.google.com/presentation/d/1NHBuofCO3aN5X2I2LzT2pYWbIfTL0CU6KQaQ2J1KZ6M/edit\#slide=id.g6e6fae9d17\_0\_31](https://docs.google.com/presentation/d/1NHBuofCO3aN5X2I2LzT2pYWbIfTL0CU6KQaQ2J1KZ6M/edit#slide=id.g6e6fae9d17_0_31)
 * livret de tutos détaillés : [https://docs.google.com/document/d/1vAciXefWmEP-imjh0ZHRYv8xp1IGH9FegVE9YGfrRwk/edit\#](https://docs.google.com/document/d/1vAciXefWmEP-imjh0ZHRYv8xp1IGH9FegVE9YGfrRwk/edit#)
 
+## 🚀 Déploiement 
+
+Formation au business development dans l'État : voir la section Déploiement de cette documentation.
+
+{% page-ref page="../../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/le-metier-de-charge.e-de-deploiement-chez-beta.gouv/" %}
+
 ## ✨ Design
 
 L'équipe de designers transverses proposent des ateliers et formations UX à la communauté. 

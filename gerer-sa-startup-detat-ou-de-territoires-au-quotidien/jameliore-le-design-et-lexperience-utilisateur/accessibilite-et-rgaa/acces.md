@@ -21,7 +21,7 @@ En 2020, une étude menée par les Designers Transverses auprès de toutes les S
 
 Pour 2021, l'objectif de beta.gouv.fr est que **100 % des SE en accélération et transfert respectent les obligations légales.** En particulier l'obligation d'afficher le « niveau de conformité  RGAA \(Référentiel Général d'Accessibilité pour les Administrations\) » sur la page d'accueil du site.
 
-![SignalConso affiche &quot;partiellement conforme&quot; sur toutes les pages de son service](../../.gitbook/assets/signal-conso-access.png)
+![SignalConso affiche &quot;partiellement conforme&quot; sur toutes les pages de son service](../../../.gitbook/assets/signal-conso-access.png)
 
 ## Prérequis pour intégrer ce programme
 
@@ -74,7 +74,7 @@ L'équipe reçoit alors un rapport contenant :
 * la liste des points conformes : les éléments conforme du site 🎉
 * la liste des éléments à corriger, avec des recommandations et/ou sites à prendre en exemple.
 
-![Rapport de l&apos;audit flash pour Code Du Travail Num&#xE9;rique](../../.gitbook/assets/image%20%2811%29.png)
+![Rapport de l&apos;audit flash pour Code Du Travail Num&#xE9;rique](../../../.gitbook/assets/image%20%2811%29.png)
 
 
 

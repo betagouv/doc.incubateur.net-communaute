@@ -8,7 +8,7 @@ La _data science_, ou science des données, est un domaine interdisciplinaire qu
 
 ## Deux approches complémentaires en Data Science
 
-![Deux approches Data Science](../.gitbook/assets/data-science-approaches.png)
+![Deux approches Data Science](../../.gitbook/assets/data-science-approaches.png)
 
 ## Offre de service
 

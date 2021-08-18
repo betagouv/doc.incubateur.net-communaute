@@ -10,5 +10,5 @@ L**’accessibilité est une démarche sur le long terme** : elle se pense dès 
 
 Ainsi, la conformité ne s'atteint pas en un jour et ça n'est pas grave : c'est **l'engagement vers la démarche qui est important** !
 
-![](../../../.gitbook/assets/a11y-2x.png)
+![](../../../../.gitbook/assets/a11y-2x.png)
 

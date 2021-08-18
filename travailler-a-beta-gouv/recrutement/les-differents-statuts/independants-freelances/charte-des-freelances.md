@@ -13,7 +13,7 @@ En tant qu'indépendante ou indépendant, il n'y a pas de lien de subordination,
 
 * Pour répondre aux normes de l’administration française, notamment sur les sujets de corruption et de vigilance fiscale, les _freelances_ fournissent les documents demandés par la société de prestation titulaire du marché public beta.gouv.fr. En cas de changement d’une ou plusieurs informations \(incluant adresse, RIB, etc..\) fournies lors du référencement, les _freelances_ s’engagent à avertir la société de prestation en temps réel.
 * Les _freelances_ envoient les factures mensuelles dans les 15 jours après la fin des travaux en mentionnant les informations obligatoires et légales \(_N°SIRET, Date facture..._\). 
-* En tant que sous-traitant des sociétés de prestation au sens [RGPD](../../../../je-securise-mon-produit/guide-rgpd-et-securite.md), les _freelances_ respectent les directives du RGPD envers la société et celles de son client. 
+* En tant que sous-traitant des sociétés de prestation au sens [RGPD](../../../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-securise-mon-produit/guide-rgpd-et-securite.md), les _freelances_ respectent les directives du RGPD envers la société et celles de son client. 
 
 ### Bien-être
 

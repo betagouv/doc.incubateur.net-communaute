@@ -118,5 +118,5 @@ _Mon produit a rencontré ses utilisateurs et démontré sa valeur en phase d'ex
 
 ## 📖 Support de présentation I Conformité RGPD - Mars 2021
 
-{% file src="../.gitbook/assets/conformite-rgpd-support-formation.pdf" %}
+{% file src="../../.gitbook/assets/conformite-rgpd-support-formation.pdf" %}
 

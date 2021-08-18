@@ -10,7 +10,7 @@ Nous recommandons cette liste de choses à faire à tous les nouveaux arrivants 
 * [ ] Découvrir son équipe :
   * [ ] Rejoindre ses canaux sur Mattermost ;
   * [ ] S'imprégner de la mission sur la **fiche produit** disponible sur beta.gouv.fr/startups.
-* [ ] Pour les développeurs / développeuses et les coach, prendre le temps de lire notre [kit de démarrage](../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/construction/kit-de-demarrage.md) ; 
+* [ ] Pour les développeurs / développeuses et les coach, prendre le temps de lire notre [kit de démarrage](../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/construction/kit-de-demarrage.md) et nos [standards de qualité](../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-gere-mon-produit-et-son-impact/standards-de-qualite-beta.gouv.fr.md) ; 
 * [ ] Découvrir s'il y a d'autres membres de la communauté près de chez toi sur la [carte des membres](https://doc.incubateur.net/communaute/dinum/locaux/ou-travailler#beta-gouv-fr-en-dehors-de-paris) ;
 * [ ] S'abonner à [l'agenda public de l'incubateur](https://calendar.google.com/calendar/embed?src=0ieonqap1r5jeal5ugeuhoovlg%40group.calendar.google.com&ctz=Europe/Paris) pour suivre les événements de la communauté ; 
 

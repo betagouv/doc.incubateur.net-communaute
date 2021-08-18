@@ -15,7 +15,7 @@ Au final, l'impact est faible.
 
 C'est un mélange de marketing \(souvent digital\), d'ingénierie informatique, et d'analyse de données 
 
-![](../.gitbook/assets/growth-hacker.png)
+![](../../.gitbook/assets/growth-hacker.png)
 
  Parmi ces tactiques :
 

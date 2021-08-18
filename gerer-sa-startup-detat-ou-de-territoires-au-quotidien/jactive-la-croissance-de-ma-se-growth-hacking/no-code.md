@@ -24,7 +24,7 @@ Au programme :
 * Chat et email partagé 
 * En prod via Maxime Dréau pour ANAIS . Julien veut faire un POC sur scalingo.  Test en cours
 
-![](../.gitbook/assets/dashboard-screen-b294bdd1d718312290ec49b6c2a13428.png)
+![](../../.gitbook/assets/dashboard-screen-b294bdd1d718312290ec49b6c2a13428.png)
 
 
 
@@ -32,7 +32,7 @@ Au programme :
 
 * [https://plausible.io/](https://plausible.io/) : Matomo en plus simple et plus beau. Open sournce. Prix ridicule . 100% data ownership. 100% RGPD \(pas de bandeau\). Utilisé sur mesconseilscovid.sante.gouv.fr
 
-![](../.gitbook/assets/privacy-focused-web-analytics.png)
+![](../../.gitbook/assets/privacy-focused-web-analytics.png)
 
 
 
@@ -41,7 +41,7 @@ Au programme :
 * [https://www.integromat.com/en](https://www.integromat.com/en) : Zapier 5x moins chers . Test en cours
 * Automatisation de tache
 
-![](../.gitbook/assets/capture-de-cran-2021-03-25-a-15.11.03.png)
+![](../../.gitbook/assets/capture-de-cran-2021-03-25-a-15.11.03.png)
 
 #### Verifaute
 

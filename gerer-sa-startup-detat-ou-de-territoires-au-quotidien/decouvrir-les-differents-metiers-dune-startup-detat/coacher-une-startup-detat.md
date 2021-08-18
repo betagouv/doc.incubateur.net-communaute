@@ -1,4 +1,4 @@
-# Coacher une startup d'état
+# Coaching
 
 ## À quoi ça sert une \(personne qui\) coache une Startup d'État ?
 

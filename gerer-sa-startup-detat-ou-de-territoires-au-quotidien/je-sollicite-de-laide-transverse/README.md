@@ -30,7 +30,7 @@ Risque : oublier de se demander si ça marche, si l'aide transverse est utile et
 
 {% page-ref page="methodologie-produit.md" %}
 
-{% page-ref page="../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-gere-mon-produit-et-son-impact/definir-et-mesurer-limpact/cauchemar-a-beta-la-mesure-dimpact.md" %}
+{% page-ref page="../je-gere-mon-produit-et-son-impact/definir-et-mesurer-limpact/cauchemar-a-beta-la-mesure-dimpact.md" %}
 
 {% page-ref page="demander-de-laide.md" %}
 

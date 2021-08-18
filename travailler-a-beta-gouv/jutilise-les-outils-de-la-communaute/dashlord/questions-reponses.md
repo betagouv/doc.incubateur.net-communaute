@@ -12,7 +12,7 @@ Tu peux laisser un message sur le canal [~incubateur-dashlord](https://mattermos
 
 Certains indicateurs ont des limites que l'on connait déjà.
 
-* L'indicateur accessibilité ne représente que 25% du [référentiel général d'amélioration accessibilité](../../../jameliore-le-design-et-lexperience-utilisateur/accessibilite-et-rgaa/acces.md) ;
+* L'indicateur accessibilité ne représente que 25% du [référentiel général d'amélioration accessibilité](../../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/accessibilite-et-rgaa/acces.md) ;
 * DashLord ne scanne pas toutes les pages des produits notamment ceux nécessitant un login et un mot de passe ;
 * L'indicateur OWASP \(sécurité\) remonte beaucoup de faux positifs. Pour l'instant, il n'y a pas de moyens de les désactiver.
 

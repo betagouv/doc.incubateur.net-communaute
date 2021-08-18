@@ -67,7 +67,7 @@ L'objectif est de rendre votre travail découvrable facilement pour toute person
 
 ### Le RGPD et l'investigation <a id="le-rgpd-et-linvestigation"></a>
 
-* [​Les questions à se poser en matière de RGPD pendant l'investigation](../../../je-securise-mon-produit/guide-rgpd-et-securite.md)
+* [​Les questions à se poser en matière de RGPD pendant l'investigation](../../je-securise-mon-produit/guide-rgpd-et-securite.md)
 
 ### Des tutos sur les principaux outils utilisés <a id="des-tutos-sur-les-principaux-outils-utilises"></a>
 
