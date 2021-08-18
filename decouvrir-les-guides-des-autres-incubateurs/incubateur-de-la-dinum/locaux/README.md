@@ -1,4 +1,4 @@
-# Locaux
+# Locaux \(Ségur\)
 
 {% page-ref page="ou-travailler.md" %}
 

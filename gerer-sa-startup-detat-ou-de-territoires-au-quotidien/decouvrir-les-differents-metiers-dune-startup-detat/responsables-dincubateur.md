@@ -6,5 +6,11 @@ Ils et elles peuvent également assurer un rôle de soutien des Startups d'État
 
 Il peut y avoir plusieurs responsables d'incubateur pour chaque structure d'innovation, avec des personnes spécialisées dans la technique \(_Tech Leads_\) ou dans le Design. 
 
+## D'autres ressources pour les responsables d'incubateur
+
+{% page-ref page="../../decouvrir-les-guides-des-autres-incubateurs/gerer-son-incubateur.md" %}
+
+
+
 
 

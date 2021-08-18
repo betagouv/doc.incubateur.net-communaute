@@ -1,4 +1,4 @@
-# Growth Hacking
+# Aide transverse - Growth Hacking
 
 ## Le `Growth Hacking`, qu'est-ce que c'est ?
 

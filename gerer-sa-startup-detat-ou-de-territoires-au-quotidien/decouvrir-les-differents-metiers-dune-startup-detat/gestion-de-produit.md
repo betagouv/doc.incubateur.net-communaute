@@ -1,7 +1,7 @@
 # Gestion de produit
 
 {% hint style="info" %}
-Les **gestionnaires de produit** \(_Product Manager_\) pilotent ou copilotent \(avec l'[intrapreneur](intrapreneurs.md)\) le service numérique.
+Les **gestionnaires de produit** \(_Product Manager_ ou responsable produit\) pilotent ou copilotent \(avec l'[intrapreneur](intrapreneurs.md)\) le service numérique.
 {% endhint %}
 
 Les gestionnaires de produit travaillent avec l’équipe pour élaborer la vision du service et établir les priorités quotidiennes afin de concrétiser cette vision et d’assurer la réalisation du travail de l’équipe. Ils et elles sont responsables de la mise au point, du fonctionnement et de l’amélioration continue du service. 

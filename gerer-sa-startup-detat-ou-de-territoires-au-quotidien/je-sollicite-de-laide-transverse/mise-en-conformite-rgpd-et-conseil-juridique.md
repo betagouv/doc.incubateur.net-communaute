@@ -27,3 +27,9 @@ Formats possibles :
 * Par Mattermost : @thomas ou \#domaine-juridique
 * Par mail : [thomas.menant@beta.gouv.fr](mailto:thomas.menant@beta.gouv.fr) ou [contact@numericite.eu](mailto:contact@numericite.eu)
 
+## Ressources 
+
+{% page-ref page="../je-securise-mon-produit/guide-rgpd-et-securite.md" %}
+
+
+

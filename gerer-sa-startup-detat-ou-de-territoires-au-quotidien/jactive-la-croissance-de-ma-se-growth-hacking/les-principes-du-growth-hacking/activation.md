@@ -2,7 +2,7 @@
 
 Si vous souhaitez de l'aide sur les sujets liés à la croissance, la DINUM met en place un accompagnement en transverse : [https://doc.incubateur.net/communaute/aide-transverse/growth-hacking-acquisition](../../je-sollicite-de-laide-transverse/growth-hacking-acquisition.md) par Chaïb Martinez
 
-Côté gestion de produit, [https://doc.incubateur.net/communaute/aide-transverse/methodologie-produit](../../je-sollicite-de-laide-transverse/methodologie-produit.md) par Mathilde Petit et Clément Chapalain
+Côté gestion de produit, [https://doc.incubateur.net/communaute/aide-transverse/methodologie-produit]() par Mathilde Petit et Clément Chapalain
 
 {% embed url="https://youtu.be/XzzjUncS55c" %}
 

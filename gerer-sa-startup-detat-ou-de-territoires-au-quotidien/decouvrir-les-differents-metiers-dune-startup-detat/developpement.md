@@ -16,5 +16,7 @@ Un **kit de démarrage** est disponible pour les développeuses et développeurs
 
 {% page-ref page="../la-vie-dune-se/construction/kit-de-demarrage.md" %}
 
-\*\*\*\*
+En outre, plusieurs ressources sont disponibles pour aider les développeuses et les développeurs :
+
+{% page-ref page="../je-fais-des-choix-technologique/" %}
 

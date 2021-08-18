@@ -1,6 +1,6 @@
 # Infra
 
-Chaque équipe startup gère son infrastructure de façon souveraine. Elle peut s'appuyer sur une UO dédiée, comme on en trouve par exemple dans le marché Startups de la DINSIC, pour la prise en charge financière, ou passer par des mécanismes de type "caisse blanche".
+Chaque équipe de Startups d'Etat gère son infrastructure de façon souveraine. Certains incubateurs [comme la Fabrique numérique des ministères sociaux](https://socialgouv.github.io/support/#/README) propose des services d'hébergement mutualisés.
 
 Par exception à cette règle générale, sur un petit nombre de sujets nous gérons des ressources partagées:
 

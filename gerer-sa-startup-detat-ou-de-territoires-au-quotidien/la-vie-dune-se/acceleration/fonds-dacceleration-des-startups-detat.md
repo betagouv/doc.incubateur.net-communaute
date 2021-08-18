@@ -1,8 +1,8 @@
----
-description: FAST
----
+# Fonds d'accélération des Startups d'État
 
-# 💸 Le Fond d’accélération des Startups
+Ce fonds, géré par l'équipe d'animation de beta.gouv.fr, permet à n'importe quel service numérique du réseau beta.gouv.fr de solliciter un cofinancement de la DINUM. Plus d'informations : 
+
+{% embed url="https://beta.gouv.fr/approche/fast" %}
 
 ## C'est quoi le FAST ?
 
@@ -21,8 +21,6 @@ En 2020, 3.5M€ ont été distribué à 22 lauréats :
 
 👉 Une présentation rapide est disponible [ici](https://docs.google.com/presentation/d/1oErK_vF044C2bKNby1gucuFf4Rdfyp04bdmnmYX37O0/edit#slide=id.gb974131f9f_0_116). 
 
-📃Toutes les infos sont disponibles ici : [https://beta.gouv.fr/fast/](https://beta.gouv.fr/fast/)
-
 ### Comment est financé le FAST ?
 
 Le FAST est financé par le programme budgétaire 352 - Fonds pour l'accélération du financement des start-up d'État. 
@@ -35,8 +33,4 @@ Pour l'exercice budgétaire 2020, voici les informations officielles sur ce prog
 * [Objectifs et indicateurs de performance](https://www.performance-publique.budget.gouv.fr/sites/performance_publique/files/farandole/ressources/2020/pap/html/DBGPGMOBJINDPGM352.htm)
 * [Présentation des crédits et des dépenses fiscales](https://www.performance-publique.budget.gouv.fr/sites/performance_publique/files/farandole/ressources/2020/pap/html/DBGPGMPRESCREDPGM352.htm)
 * [Justification au premier euro](https://www.performance-publique.budget.gouv.fr/sites/performance_publique/files/farandole/ressources/2020/pap/html/DBGPGMJPEPGM352.htm)
-
-
-
-
 

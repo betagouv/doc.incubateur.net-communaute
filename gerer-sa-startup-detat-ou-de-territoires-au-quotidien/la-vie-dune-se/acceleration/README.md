@@ -38,7 +38,7 @@ Il convient que la Startup d'État qui souhaite passer en phase d'accélération
 
 ### **Ressource utile : en apprendre plus sur le Growth Hacking** <a id="ressource-utile-en-apprendre-plus-sur-le-growth-hacking"></a>
 
-Le Growth Hacking \(GH\) recouvre toutes les tactiques d'acquisition, de conversion \(activation\), de rétention \(fidélisation\) d'utilisateurs d'une Startup. Ils participent à augmenter l'impact d'un produit. Pour en savoir plus sur cette pratique, vous pouvez consultez la fiche [Growth Hacking](../je-sollicite-de-laide-transverse/growth-hacking-acquisition.md) du guide pour la communauté ainsi que la fiche [Les principes du Growth Hacking](../jactive-la-croissance-de-ma-se-growth-hacking/les-principes-du-growth-hacking/).
+Le Growth Hacking \(GH\) recouvre toutes les tactiques d'acquisition, de conversion \(activation\), de rétention \(fidélisation\) d'utilisateurs d'une Startup. Ils participent à augmenter l'impact d'un produit. Pour en savoir plus sur cette pratique, vous pouvez consultez la fiche [Growth Hacking](../../je-sollicite-de-laide-transverse/growth-hacking-acquisition.md) du guide pour la communauté ainsi que la fiche [Les principes du Growth Hacking](../../jactive-la-croissance-de-ma-se-growth-hacking/les-principes-du-growth-hacking/).
 
 ### **Ressource utile : un modèle de grille d’évaluation utilisée en fin de phase de construction** <a id="ressource-utile-un-modele-de-grille-devaluation-utilisee-en-fin-de-phase-de-construction"></a>
 
@@ -48,9 +48,15 @@ L’accompagnement proposé par beta.gouv.fr vise à créer un environnement pro
 
 Il s’articule autour de la mise à disposition de ressources spécialisées pour l’accélération, en particulier de la documentation et un recensement d’experts sur des problématiques récurrentes \(Growth Hacking, Design, Rôles et rituels, Mesure d’impact, Tech, Data, Marketing & Communication, Acquisition clients / Déploiement, etc.\).
 
-Le programme d’accompagnement resserré \(programme Gamma\), grâce à un suivi régulier et la mise à disposition de ressources transverses, est proposé depuis septembre 2020 aux startups d'État souhaitant être accompagnées dans leur accélération.
+Le programme d’accompagnement resserré \(**programme Gamma\)**, grâce à un suivi régulier et la mise à disposition de ressources transverses, est proposé depuis septembre 2020 aux startups d'État souhaitant être accompagnées dans leur accélération.
+
+{% page-ref page="programme-gamma.md" %}
 
 Enfin, les services entrant en phase d’accélération ont la possibilité de postuler au [Fonds d’accélération des Startups d’État et de Territoire \(FAST\)](https://beta.gouv.fr/approche/fast), offrant jusqu’à 1 million d’euros par session en provenance de la Direction Interministérielle du Numérique \(DINUM\) pouvant être partagés par plusieurs lauréats.
+
+{% page-ref page="fonds-dacceleration-des-startups-detat.md" %}
+
+
 
 ### **Focus sur le programme d'accompagnement Gamma** <a id="focus-sur-le-programme-daccompagnement-gamma"></a>
 

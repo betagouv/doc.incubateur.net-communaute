@@ -18,6 +18,8 @@ extrait de l'appel d'offre « Accompagnement »
 
 Il s'agit donc pour la coache, d'**accompagner** et de **partager des savoir-faire**.
 
+Une [présentation](https://docs.google.com/presentation/d/12aEGovHBZYH-xeskRalvhPhGhDG971hibddiGj5f_AU/edit?usp=sharing) datant d'octobre 2020 cartographie les différentes nuances du rôle de coach chez beta.gouv.fr. 
+
 ## Quel est le niveau d'intervention d'une personne qui coache ? 
 
 Les éléments partagés ici peuvent servir de référence et non de normes. Ils reflètent d'une part ce que nous avons observé chez beta.gouv, d'autre part l'exigence d'éthique budgétaire liée à notre mission d'intérêt général. Ce document a une valeur indicative et pourra évoluer en fonction du marché et des retours des équipes.
@@ -56,7 +58,7 @@ Les éléments partagés ici peuvent servir de référence et non de normes. Ils
       <td style="text-align:left">Accompagner l&apos;&#xE9;quipe pour la rendre autonome</td>
     </tr>
     <tr>
-      <td style="text-align:left"><a href="../la-vie-dune-se/acceleration.md">Acc&#xE9;l&#xE9;ration</a>
+      <td style="text-align:left"><a href="../la-vie-dune-se/acceleration/">Acc&#xE9;l&#xE9;ration</a>
       </td>
       <td style="text-align:left">
         <p>15 &#xE0; 25 jours</p>
@@ -90,9 +92,9 @@ Un échange entre le coach, l'intra et le co-animateur ou la co-animatrice perme
 
 ## Quelle différence avec un\(e\) responsable de produit ?
 
-Certaines équipes sont composées d'un\(e\) responsable de produit \(parfois appelé\(e\) chef\(fe\) de produit, product manager ou product owner\).
+Certaines équipes sont composées d'un\(e\) [gestionnaire de produit ](gestion-de-produit.md)\(parfois responsable de produit, appelé\(e\) chef\(fe\) de produit, _product manager_ ou _product owner_\).
 
-C'est le cas lorsque qu'il n'y a plus d'intrapreneur dans l'équipe ou que celui ou celle-ci n'a pas assez de temps à consacrer au produit.
+C'est le cas lorsque qu'il n'y a plus d'intrapreneur dans l'équipe ou que celui ou celle-ci n'a pas assez de temps à consacrer au produit, ou parce qu'on a choisi d'associer une personne à l'intrapreneur \(rôle d'entrepreneur associé\).
 
-Le responsable de produit est différent du coach car il conçoit avec l'équipe à la différence du coach qui accompagne.
+Le gestionnaire de produit est différent du coach car il conçoit avec l'équipe à la différence du coach qui accompagne. 
 

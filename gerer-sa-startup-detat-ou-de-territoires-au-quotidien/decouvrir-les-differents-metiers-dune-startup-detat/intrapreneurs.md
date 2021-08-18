@@ -10,5 +10,7 @@ Consultez les deux pages suivantes pour en savoir plus sur le rôle d'intraprene
 
 {% embed url="https://beta.gouv.fr/devenir-intrapreneur" %}
 
+Au bout de 6 mois dans une Startup d'État, les intrapreneurs peuvent prétendre à une certification officielle.
 
+{% page-ref page="../../travailler-a-beta-gouv/se-former/certification-des-intrapreneurs/" %}
 

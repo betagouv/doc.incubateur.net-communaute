@@ -1,5 +1,9 @@
 # Définir et mesurer l’impact
 
+## Petit guide de la mesure d'impact <a id="pourquoi-mesurer-un-impact"></a>
+
+Une ébauche de guide de la mesure d'impact est disponible [à ce lien](https://docs.google.com/presentation/d/1SkTz20qNuOh3rGJZ1vGqStvlXHaKu_7zsnmrW997xn4/edit?usp=sharing).
+
 ## Pourquoi mesurer un impact ? <a id="pourquoi-mesurer-un-impact"></a>
 
 « _Plus un indicateur quantitatif est utilisé pour prendre des décisions, plus il va être manipulé et plus son usage va aboutir à corrompre le processus qu’il était censé améliorer._ » \(loi de Campbell, 1976\). Il est en effet clair que si une administration se voyait responsable de publier un « taux de satisfaction » ou un « coût par transaction », ces mesures deviendraient un objectif de facto, que ce soit vis-à-vis du gouvernement ou de la société civile. Ainsi, il faut être extrêmement attentif à ce que les mesures soient celles d’un impact réel et non des mesures d’efficience interne, aux effets délétères assurés.

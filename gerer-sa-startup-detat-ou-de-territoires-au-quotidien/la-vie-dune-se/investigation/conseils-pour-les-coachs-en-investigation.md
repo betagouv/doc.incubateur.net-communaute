@@ -58,7 +58,7 @@ L'objectif est de rendre votre travail découvrable facilement pour toute person
 ### Pour préparer le comité d'investissement <a id="pour-preparer-le-comite-dinvestissement"></a>
 
 * La [grille d'évaluation à la fin de l'investigation](https://beta.gouv.fr/content/docs/grille_lancement.pdf)​
-* Documentation : [Préparer un comité d'investissement](../../gestion-administrative/budget-de-sa-se/preparer-un-comite-dinvestissement.md)​
+* Documentation : [Préparer un comité d'investissement](../../gestion-administrative/preparer-un-comite-dinvestissement.md)​
 * Exemples de supports de fin d'investigation et comité d'investissement : demandez sur le Mattermost, \#incubateur-investigation
 
 ### Où demander de l'aide <a id="ou-demander-de-laide"></a>

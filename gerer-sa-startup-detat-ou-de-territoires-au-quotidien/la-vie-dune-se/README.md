@@ -6,7 +6,7 @@
 
 {% page-ref page="construction/" %}
 
-{% page-ref page="acceleration.md" %}
+{% page-ref page="acceleration/" %}
 
 {% page-ref page="abandon.md" %}
 

@@ -65,7 +65,7 @@ Cas particuliers des SE portés ou co-financés par beta.gouv \(via le FAST par 
 
 ### Liste des questions à se poser pour bien préparer le comité : <a id="liste-des-questions-a-se-poser-pour-bien-preparer-le-comite"></a>
 
-Ces questions sont inspirées des [recommandations pour juger du passage en investigation](../../la-vie-dune-se/investigation/criteres-devaluation-a-la-fin-dune-investigation.md) et de la [grille d’analyse du comité d’investigation](https://docs.google.com/document/d/1eo751v_vNCucueEBh_ggqb6iJeg4x6IrJuPRWi4Z-Ds/edit#). On n’est pas exactement dans le meme cas de figure mais ces questions restent utiles.
+Ces questions sont inspirées des [recommandations pour juger du passage en investigation](../la-vie-dune-se/investigation/criteres-devaluation-a-la-fin-dune-investigation.md) et de la [grille d’analyse du comité d’investigation](https://docs.google.com/document/d/1eo751v_vNCucueEBh_ggqb6iJeg4x6IrJuPRWi4Z-Ds/edit#). On n’est pas exactement dans le meme cas de figure mais ces questions restent utiles.
 
 * **Le problème :**
   * Le problème est-il bien qualifié ?

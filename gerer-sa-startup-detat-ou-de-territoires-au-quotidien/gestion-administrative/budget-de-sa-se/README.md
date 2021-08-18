@@ -1,4 +1,4 @@
-# Budget de sa SE
+# Gérer le budget de sa Startup d'État
 
 **Pour préparer puis gérer au mieux le budget de votre Startup d'État ou de Territoire, voici un** [**modèle**](https://docs.google.com/spreadsheets/d/1JSVnmruZq0iufjpxabnYKaHcR1XBygL0MXkYOm7nz3E/edit?usp=sharing)**.**
 
@@ -24,17 +24,13 @@ Concernant le devis, la date limite de prestation n'est que prévisionnelle. Ain
 
 {% page-ref page="la-facturation-de-a-a-z/" %}
 
-{% page-ref page="preparer-un-comite-dinvestissement.md" %}
+{% page-ref page="../preparer-un-comite-dinvestissement.md" %}
 
 {% page-ref page="preparer-la-fin-dannee-budgetaire.md" %}
 
-{% page-ref page="le-fond-dacceleration-des-start-ups-fast.md" %}
-
 {% page-ref page="comment-payer-de-petits-services-avec-mon-budget.md" %}
 
-{% page-ref page="faire-un-achat.md" %}
-
-{% page-ref page="tourniquet-developpement/" %}
+{% page-ref page="../marches-publics-beta.gouv.fr/tourniquet-developpement/" %}
 
 
 
