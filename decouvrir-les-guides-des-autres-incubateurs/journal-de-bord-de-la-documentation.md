@@ -6,6 +6,8 @@ description: >-
 
 # Journal de bord de la documentation
 
+{% page-ref page="../travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/gitbook/comment-contribuer-a-cette-documentation.md" %}
+
 ## Journal des modifications de l'été 2021
 
 ### Améliorations, corrections
