@@ -36,7 +36,7 @@ _**----**_
 
 #### _Exemple :_
 
-![](../../.gitbook/assets/testcapture.jpg)
+![](../../../.gitbook/assets/testcapture.jpg)
 
 ### 3. Envoie ce post et l'image d'illustration sur[ \#reseau-social-linkedin](https://mattermost.incubateur.net/betagouv/channels/tmp-atteindre-20000-followers-linkedin)
 

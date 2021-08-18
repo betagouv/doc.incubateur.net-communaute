@@ -95,7 +95,7 @@ C'est le régime classique qui s'applique automatiquement, sauf si le micro-entr
 
 Le régime micro-social simplifié permet au micro-entrepreneur de payer ses cotisations en fonction de son chiffre d'affaires. Il s'agit d'un taux de cotisations qui varie selon l'activité. 
 
-![](../../.gitbook/assets/capture-de-cran-2021-07-19-a-16.37.05.png)
+![](../../../../.gitbook/assets/capture-de-cran-2021-07-19-a-16.37.05.png)
 
 Le régime du micro-social permet au micro-entrepreneur de bénéficier :
 
@@ -138,7 +138,7 @@ Le portage salarial est une relation contractuelle tripartite dans laquelle un s
 
 ## Ressources utiles
 
-{% file src="../../.gitbook/assets/freelancing\_vs\_salariat\_shine.pdf" caption="Rapport Shine - Freelance VS Salariat" %}
+{% file src="../../../../.gitbook/assets/freelancing\_vs\_salariat\_shine.pdf" caption="Rapport Shine - Freelance VS Salariat" %}
 
 {% embed url="https://mon-entreprise.fr/" %}
 

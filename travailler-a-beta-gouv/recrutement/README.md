@@ -1,14 +1,12 @@
 # 🎯 Recruter
 
-{% page-ref page="comment-recruter.md" %}
+Nous proposons un guide de recrutement pour vous aider à recruter dans vos équipes.
 
-{% page-ref page="publier-une-offre-dembauche.md" %}
+{% page-ref page="comment-recruter/" %}
 
-{% page-ref page="entretiens-de-recrutement.md" %}
+beta.gouv.fr est une communauté qui compte des centaines de membres aux statuts très différents : indépendantes, fonctionnaires, contractuelles, etc. Pour vous y retrouver, lisez la section suivante. 
 
-{% page-ref page="stages.md" %}
-
-{% page-ref page="remuneration.md" %}
+{% page-ref page="les-differents-statuts/" %}
 
 
 
