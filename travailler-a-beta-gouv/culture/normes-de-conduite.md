@@ -4,7 +4,9 @@ description: >-
   de beta.gouv.fr.
 ---
 
-# Normes de conduite
+# Culture de travail
+
+Cette page liste les **normes de conduite** diffusées et constatées chez beta.gouv.fr. Elles participent à la création d'une culture fondée sur la recherche de **l'impact**, la **rapidité** d'exécution, **l'amélioration** **continue**, la **transparence** et **l'autonomie** des équipes
 
 {% hint style="info" %}
 Une "**norme**" n'est ni plus ni moins qu'une façon de parler, de se comporter ou de penser que l'on souhaite promouvoir comme "normale". Si tu vois un cas où on se comporte différemment, c'est une "exception". On parle de "normes" et non de "règles". Dans chaque situation, il peut y avoir de bonnes raisons de déroger à la norme en vigueur.

@@ -9,7 +9,7 @@
   * [Que faire durant les premières semaines et premiers mois ?](travailler-a-beta-gouv/bienvenue/to-do-darrivee.md)
 * [💫 Découvrir notre culture](travailler-a-beta-gouv/culture/README.md)
   * [Notre charte](travailler-a-beta-gouv/culture/charte.md)
-  * [Normes de conduite](travailler-a-beta-gouv/culture/normes-de-conduite.md)
+  * [Culture de travail](travailler-a-beta-gouv/culture/normes-de-conduite.md)
   * [Histoire de beta.gouv.fr](travailler-a-beta-gouv/culture/histoire-de-beta.gouv.fr/README.md)
     * [Références bibliographiques](travailler-a-beta-gouv/culture/histoire-de-beta.gouv.fr/references-bibliographiques.md)
   * [Conflits, mal-être, souffrance, violence ou harcèlement](travailler-a-beta-gouv/culture/conseils/README.md)
