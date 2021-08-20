@@ -2,7 +2,7 @@
 description: La phase d'accélération est idéale pour outiller la mise en accessibilité.
 ---
 
-# Acceleration
+# Kit accessibilité - Acceleration
 
 
 

@@ -47,6 +47,10 @@ S'inscrire au **prochain atelier d'embarquement**, qui a lieu toutes les 6 semai
 
 {% embed url="https://startupdetat.typeform.com/to/QY8l29Z1\#email={{%20contact.EMAIL%20}}&prenom={{%20contact.PRENOM%20}}&status={{%20contact.MISSION\_STATUS%20}}&role={{%20contact.ROLE%20}}&date\_start={{%20contact.MISSION\_START%20}}" %}
 
+Tu peux aussi parcourir le support de cet atelier d'embarquement : 
+
+{% embed url="https://docs.google.com/presentation/d/1ded7iFFFaPuw9tKcj6g-xLBggAox-QNDjsMamECPqHU/edit?usp=sharing" %}
+
 ...puis lire nos recommandations pour tes premières semaines et tes premiers mois de mission.
 
 {% page-ref page="to-do-darrivee.md" %}

@@ -8,5 +8,7 @@
 
 {% page-ref page="acceleration/" %}
 
+{% page-ref page="4.-consolidation-et-transfert/" %}
+
 {% page-ref page="abandon.md" %}
 

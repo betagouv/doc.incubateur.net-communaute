@@ -12,11 +12,13 @@
 
 Ainsi, la conformité ne s'atteint pas en un jour et ça n'est pas grave : c'est **l'engagement vers la démarche qui est important** !
 
-[👉 Investigation​](kit-accessibilite/investigation.md)
+{% page-ref page="kit-accessibilite/investigation.md" %}
 
-[👉 Construction​](kit-accessibilite/construction.md)
+{% page-ref page="kit-accessibilite/construction.md" %}
 
-[👉 Accélération​](kit-accessibilite/acceleration.md)
+{% page-ref page="kit-accessibilite/acceleration.md" %}
 
-[👉 Consolidation​](kit-accessibilite/consolidation.md)
+{% page-ref page="kit-accessibilite/consolidation.md" %}
+
+
 

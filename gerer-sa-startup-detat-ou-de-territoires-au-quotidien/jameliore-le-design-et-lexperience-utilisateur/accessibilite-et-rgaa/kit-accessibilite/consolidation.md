@@ -4,7 +4,7 @@ description: >-
   accomplis.
 ---
 
-# Consolidation
+# Kit accessibilité - Consolidation
 
 ### **Évaluer l'accessibilité de son service**
 
