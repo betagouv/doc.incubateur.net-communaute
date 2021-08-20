@@ -20,6 +20,10 @@ Les sections [Découvrir notre culture](../travailler-a-beta-gouv/culture/), [Pa
 
 ### Migrations
 
+La documentation sur la phase de Consolidation / Transfert, auparavant hébergée sur un autre Gitbook, est à présent intégrée au présent espace de documentation.
+
+{% page-ref page="../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/4.-consolidation-et-transfert/" %}
+
 La documentation Design qui était auparavant hébergée sur un autre Gitbook, est à présent intégrée au présent espace de documentation
 
 {% page-ref page="../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/" %}
@@ -65,8 +69,4 @@ La documentation Design qui était auparavant hébergée sur un autre Gitbook, e
 {% page-ref page="../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/marches-publics-beta.gouv.fr/marche-interministeriel-beta/" %}
 
 {% page-ref page="../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/budget-de-sa-se/" %}
-
-* Migrer et actualiser la documentation sur la consolidation d'une Startup d'Etat
-
-
 

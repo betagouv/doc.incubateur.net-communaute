@@ -128,7 +128,6 @@
       * [Création du Groupement d'Intérêt Public Pix](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/4.-consolidation-et-transfert/exemples-de-perennisations-de-startups-detat/creation-du-groupement-dinteret-public-pix.md)
       * [Pérennisation de transport.data.gouv.fr à la DGITM](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/4.-consolidation-et-transfert/exemples-de-perennisations-de-startups-detat/perennisation-de-transport.data.gouv.fr-a-la-dgitm.md)
       * [Pérennisation de Maintenant! chez Pôle Emploi](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/4.-consolidation-et-transfert/exemples-de-perennisations-de-startups-detat/perennisation-de-maintenant-chez-pole-emploi.md)
-  * [4. Consolidation](https://doc.incubateur.net/consolidation/)
   * [5. Abandon](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/abandon.md)
 * [👥 Découvrir les différents métiers d'une Startup d'État](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/README.md)
   * [Coaching](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/coacher-une-startup-detat.md)

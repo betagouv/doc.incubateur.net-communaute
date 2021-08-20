@@ -76,9 +76,5 @@ Ce guide est un espace commun à [tous les incubateurs](https://beta.gouv.fr/com
 
 
 
-## Les autres guides de bêta
-
-{% embed url="https://doc.incubateur.net/consolidation/" %}
-
 \*\*\*\*
 
