@@ -1,5 +1,11 @@
 # 🧪Gérer son incubateur
 
+## L'organisation type d'un incubateur
+
+Un incubateur a pour principal objectif de **soutenir les agents publics intrapreneurs et leurs équipes** qui construisent des services numériques à destination de leur public. 
+
+![](../.gitbook/assets/image%20%2820%29.png)
+
 ## Quels sont les ressources auxquelles mon incubateur a accès s'il fait partie du réseau beta.gouv.fr ? 
 
 * mise en avant des services numériques et de l'incubateur sur le site internet [beta.gouv.fr](../travailler-a-beta-gouv/actions-transverses/rituels/standup.md) ;
