@@ -11,7 +11,7 @@ Le ou la responsable de portefeuille \(ou d'incubateur\) participe aussi à la r
 #### Ce que le ou la responsable de portefeuille doit faire pour une équipe
 
 * **Être à la disposition des équipes**, sans que leur présence ne soit nécessaire tout le temps ;
-* **Recruter le ou la coach**, s’assurer qu’iel répond aux attentes et convient à l’[intrapreneur.se](http://intrapreneur.se/) ;
+* **Recruter le ou la coach**, s’assurer qu’iel répond aux attentes et convient à l’[intra](http://intrapreneur.se/) ;
 * **Mobiliser les personnes ressources** nécessaires quand c’est utile aux équipes ;
 * Veiller au **respect du manifeste** et travailler avec l’équipe à régler d’éventuels écarts ;
 * S'assurer que le **programme beta.gouv.fr** est bien suivi, notamment avec **l'organisation de comités d'investissement réguliers** ;  
@@ -21,7 +21,7 @@ Le ou la responsable de portefeuille \(ou d'incubateur\) participe aussi à la r
 * **Faire du feedback**, y compris critique, accompagné de propositions d’aides ou d’actions.
 * **Expliciter ce qui ne relève pas des décisions de l’équipe** : les process administratifs, les règles comptables, les obligations liées à la commande publique, les décisions du sponsor ;
 * **Lever l’alerte en cas de dysfonctionnement** \(vis-à-vis du manifeste, de la gestion financière, du droit du travail…\), et travailler avec l’équipe à régler ces problèmes ;
-* S’assurer de la **formation des intrapreneur.se.s** aux questions comptables et administratives ;
+* S’assurer de la **formation des intras** aux questions comptables et administratives ;
 * S’assurer de la **fluidité administrative** \(marchés publics, conventions, devis et services faits\) pour s’assurer que tout le monde puisse être payé à temps.
 
 {% hint style="info" %}
@@ -34,13 +34,13 @@ C'est au responsable de portefeuille, par exemple, de veiller à ce que toutes l
 * **Aider pour le recrutement** des membres de l’équipe ;
 * **Proposer/recommander des évolutions** fonctionnelles ou organisationnelles ;
 * **Aider l’équipe à faire partir un des ses membres** à sa demande ;
-* **Mentorer ou onboarder le.a coach** : respect de la méthode [beta.gouv.fr](http://beta.gouv.fr/), concentration sur l’impact et les besoins des utilisateurs, bonnes métriques, itérations courtes, trouver des solutions aux problèmes, anticiper le déploiement ;
+* **Mentorer ou onboarder le ou la coach** : respect de la méthode [beta.gouv.fr](http://beta.gouv.fr/), concentration sur l’impact et les besoins des utilisateurs, bonnes métriques, itérations courtes, trouver des solutions aux problèmes, anticiper le déploiement ;
 * **Border la situation de l’intra** pendant et après l’expérience [beta.gouv.fr](http://beta.gouv.fr/) dans son administration d’origine.
 
 #### Ce que le ou la responsable de portefeuille ne doit pas faire pour une équipe
 
 * **Imposer des choix produits** à l’équipe ;
-* **Imposer des modes d’organisation**/fonctionnement à l’équipe ;
+* **Imposer des modes d’organisation/fonctionnement** à l’équipe ;
 * **Imposer des membres** à l’équipe.
 
 {% hint style="success" %}
