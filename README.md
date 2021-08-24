@@ -4,6 +4,8 @@ description: "\U0001F9ED Toutes les ressources pour aider les membres de la comm
 
 # Guide de la communauté beta.gouv
 
+
+
 {% hint style="info" %}
 **Bienvenue** dans l'espace de documentation de beta.gouv.fr. 
 
