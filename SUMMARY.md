@@ -5,9 +5,8 @@
 ## Travailler chez Beta.Gouv <a id="travailler-a-beta-gouv"></a>
 
 * [🛫 Ton embarquement](travailler-a-beta-gouv/bienvenue/README.md)
-  * [Le premier jour : créer ta fiche membre](travailler-a-beta-gouv/bienvenue/premier-pas-indispensable-creer-ta-fiche-membre.md)
+  * [Le premier jour chez beta.gouv](travailler-a-beta-gouv/bienvenue/premier-pas-indispensable-creer-ta-fiche-membre.md)
   * [Que faire durant les premières semaines et premiers mois ?](travailler-a-beta-gouv/bienvenue/to-do-darrivee.md)
-  * [BYOD - apporte ton propre équipement](travailler-a-beta-gouv/bienvenue/byod-apporte-ton-propre-equipement.md)
 * [💫 Découvrir notre culture](travailler-a-beta-gouv/culture/README.md)
   * [Notre charte](travailler-a-beta-gouv/culture/charte.md)
   * [Culture de travail](travailler-a-beta-gouv/culture/normes-de-conduite.md)

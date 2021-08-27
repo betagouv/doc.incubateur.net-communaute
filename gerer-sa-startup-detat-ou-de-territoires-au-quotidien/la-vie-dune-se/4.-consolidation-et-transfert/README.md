@@ -1,7 +1,7 @@
 # 4. Consolidation et transfert
 
 {% hint style="info" %}
-La **phase de consolidation** est une phase qui dure jusqu'à ce que le service numérique ne soit plus pertinent. C'est une phase qui a lieu après la période d'incubation, et elle correspond donc à la **pérennisation** du produit. Lorsque le produit est transféré d'un incubateur à une autre structure, il faut organiser avant la consolidation une phase de transfert.
+La **phase de consolidation** est une phase qui dure jusqu'à ce que le service numérique soit débranché. C'est une phase qui a lieu après la période d'incubation, et elle correspond donc à la **pérennisation** du produit. Lorsque le produit est transféré d'un incubateur à une autre structure, il faut organiser avant la consolidation une phase de transfert.
 {% endhint %}
 
 ## Le guide de la pérennisation des Startups d'État

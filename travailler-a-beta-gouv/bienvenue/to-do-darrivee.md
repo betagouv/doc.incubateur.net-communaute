@@ -38,10 +38,6 @@ A l'exception des cas où ton administration publique de rattachement ne dispose
 
 * [ ] Rencontrer [ton parrain ou ta marraine ](../actions-transverses/marrainage/) 
 * [ ] Ajouter ton expérience chez [beta.gouv ](https://www.linkedin.com/company/betagouv/?originalSubdomain=fr)dans ton profil LinkedIn  
-* [ ] Participer à un 🛫 **atelier d'embarquement beta.gouv.fr** \(ils sont régulièrement organisés et référencés sur [l'agenda public de l'incubateur](https://calendar.google.com/calendar/embed?src=0ieonqap1r5jeal5ugeuhoovlg%40group.calendar.google.com&ctz=Europe/Paris)\). [Lien d'inscription](https://startupdetat.typeform.com/to/QY8l29Z1#email={{%20contact.EMAIL%20}}&prenom={{%20contact.PRENOM%20}}&status={{%20contact.MISSION_STATUS%20}}&role={{%20contact.ROLE%20}}&date_start={{%20contact.MISSION_START%20}})
-
-> Tu trouveras ici la [présentation déroulée lors de cet atelier](https://docs.google.com/presentation/d/1ded7iFFFaPuw9tKcj6g-xLBggAox-QNDjsMamECPqHU/edit) \(dernière mise à jour : avril 2021\)
-
 * [ ] Participer à [l'hebdo beta.gouv](../actions-transverses/rituels/standup.md),  le rassemblement hebdomadaire du réseau beta.gouv tous les jeudis à midi
 * [ ]  Venir à un point de rencontre régulier :
 * [ ] *   Rencontre dev : partage sur les pratiques de développement informatiques 🔒`#domaine-dev` - 2ème mercredi du mois de 10h30 à 12h

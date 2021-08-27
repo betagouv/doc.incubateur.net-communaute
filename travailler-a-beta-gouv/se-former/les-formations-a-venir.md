@@ -1,13 +1,5 @@
 # Les formations à venir
 
-### Je souhaite animer une formation
-
-Si tu souhaites proposer une formation :
-
-{% embed url="https://airtable.com/shr3sH68gDOjFaLT7" %}
-
-La vue optimisée, c'est par ici "[Je propose une formation](https://airtable.com/shr3sH68gDOjFaLT7)".
-
 ### Je souhaite voir quelles formations arrivent 
 
 Tu trouveras ici une vue d'ensemble des formations à venir.   
@@ -16,6 +8,14 @@ Depuis cette vue, tu pourras t'inscrire aux formations auxquelles tu souhaites a
 {% embed url="https://airtable.com/shrjchWYvVihQzic6" %}
 
 [👉Les formations à venir](https://airtable.com/shrjchWYvVihQzic6)
+
+### Je souhaite animer une formation
+
+Si tu souhaites proposer une formation :
+
+{% embed url="https://airtable.com/shr3sH68gDOjFaLT7" %}
+
+La vue optimisée, c'est par ici "[Je propose une formation](https://airtable.com/shr3sH68gDOjFaLT7)".
 
 ### Je souhaite être formé•e sur un sujet qui n'est pas dans la liste
 
