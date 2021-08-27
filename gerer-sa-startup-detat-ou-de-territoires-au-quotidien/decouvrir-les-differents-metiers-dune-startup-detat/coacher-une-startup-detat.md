@@ -182,7 +182,9 @@ Avant de vous lancer dans le grand bain, le premier pas est de binômer avec un 
 
 **Comment trouver une première investigation ?** 
 
-Vous pouvez en discuter avec les responsables de portefeuille ou contacter directement Béatrice Mercier ou Camille Garrigue pour en discuter. Ils évalueront vos compétences selon les critères présentés ci-dessous et si vous êtes sélectionné vous serez placé sur une prochaine investigation. Le délai de placement sur une investigation est variable selon les appels à candidatures lancés dans les administrations partenaires et selon la volonté des intrapreneurs et coachs d’accepter un binôme.   
+👉 Manifestez votre intérêt ici : [https://airtable.com/shrFflOyc7QcVO1u6](https://airtable.com/shrFflOyc7QcVO1u6)
+
+Vous pouvez aussi en discuter avec les responsables de portefeuille. Ensuite un entretien permettra d'évaluer vos compétences selon les critères présentés ci-dessous et si vous êtes sélectionné vous serez placé sur une prochaine investigation. Le délai de placement sur une investigation est variable selon les appels à candidatures lancés dans les administrations partenaires et selon la volonté des intrapreneurs et coachs d’accepter un binôme.   
 
 
 **Quels sont les critères de sélection ?** 
