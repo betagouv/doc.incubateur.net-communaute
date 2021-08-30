@@ -33,6 +33,7 @@ C'est au responsable de portefeuille, par exemple, de veiller à ce que toutes l
 * Accompagner l’équipe sur **certains points opérationnels** ;
 * **Aider pour le recrutement** des membres de l’équipe ;
 * **Proposer/recommander des évolutions** fonctionnelles ou organisationnelles ;
+* Aider les équipes dont les services ont une utilité avérée à **lever des fonds** pour soutenir leur croissance et leur amélioration continue ;
 * **Aider l’équipe à faire partir un des ses membres** à sa demande ;
 * **Mentorer ou onboarder le ou la coach** : respect de la méthode [beta.gouv.fr](http://beta.gouv.fr/), concentration sur l’impact et les besoins des utilisateurs, bonnes métriques, itérations courtes, trouver des solutions aux problèmes, anticiper le déploiement ;
 * **Border la situation de l’intra** pendant et après l’expérience [beta.gouv.fr](http://beta.gouv.fr/) dans son administration d’origine.
