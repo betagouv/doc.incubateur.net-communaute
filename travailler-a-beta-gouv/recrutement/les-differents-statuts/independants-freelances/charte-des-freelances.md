@@ -7,7 +7,8 @@ En tant qu'indépendante ou indépendant, il n'y a pas de lien de subordination,
 * Vous êtes **libres** de chercher des missions ailleurs et d'avoir d'autres clients ;
 * Vous **choisissez** les jours où vous ne travaillez pas. Afin d'assurer le bon fonctionnement de l'équipe, il est bienvenu de communiquer au maximum sur ses jours de présence et d'absence ;
 * Vous êtes **autonomes** sur le choix de vos outils et de votre organisation de travail dans la mesure où cela ne compromet pas la mission. De bonnes pratiques en termes de sécurité et de protection des données personnelles seront cependant à respecter ;
-* Vous pouvez travailler **où vous voulez**. Des bureaux sont cependant à votre disposition dans nos incubateurs.
+* Vous pouvez travailler **où vous voulez**. Des bureaux sont cependant à votre disposition dans nos incubateurs ; 
+* Vous pouvez **négocier votre prix**, et ce à chaque début ou renouvellement de mission. À titre indicatif et pour vous aidez à vous situer, une grille habituellement pratiquée par la communauté des freelances beta.gouv.fr est disponible. 
 
 ### Respect de la législation
 

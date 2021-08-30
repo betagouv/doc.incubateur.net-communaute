@@ -6,7 +6,7 @@
 extrait de l'appel d'offre « Accompagnement »
 {% endhint %}
 
-> Pour démultiplier l’émergence de ces équipes et de leurs produits numériques au sein de l’administration, la DINSIC \(ex-DINUM\) doit être accompagnée par des experts issus de l’économie numérique au profil d’entrepreneurs, en capacité d’articuler objectifs stratégiques et mise en œuvre opérationnelle.
+> Pour démultiplier l’émergence de ces équipes et de leurs produits numériques au sein de l’administration, la DINUM \(ex-DINSIC\) doit être accompagnée par des experts issus de l’économie numérique au profil d’entrepreneurs, en capacité d’articuler objectifs stratégiques et mise en œuvre opérationnelle.
 >
 > Il s’agit de contribuer à la transformation numérique de l’Etat :
 >
