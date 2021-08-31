@@ -63,27 +63,31 @@ A l'installation, si le client demande l'ajout d'un serveur \("Add server"\), ch
 
 ## **Comment communiquer sur Mattermost ?**
 
+{% hint style="info" %}
+Si tu ne l'as pas déjà fait fait, active l'option "Collapsed Reply Thread" dans `Paramètres du compte > Affichage` 
+{% endhint %}
+
 * **Répondre à un message**
 
-Avant on faisait ça dans un fil de discussion \(thread pour les native speakers hehe\) mais sur Mattermost ce n’est pas \(encore\) disponible. Du coup on fait comme ça :
-
-1. Cliquez dans le message en question sur les « … » puis dans le menu sur « Répondre » :
+Cliquer dans le message en question sur les « … » puis dans le menu sur « Répondre » :
 
 ![](https://lh4.googleusercontent.com/BIq9YkZajLBs8sJbmhnbF1EH1cZkYgkw5948LXTGKyVGB8Hv7M1XTLfKtts11dXZsZTnk8cIccVCi711YPOwebVjz8oGCdWHwWZ2lnhYQAHwb7nzSAQc4VKiKn8bjLWkg_1EwZmk)
 
-1. Un bandeau latéral s’ouvre, écrivez votre message puis cliquez sur « ajouter un commentaire » :
+Un bandeau latéral s’ouvre, écrivez votre message puis cliquez sur « ajouter un commentaire » :
 
 ![](https://lh3.googleusercontent.com/IeHruLdAv0ROS3GDn4MQ1Up4rVMRCLdRuVONW5DWMcpK6RO9PjoOJcyA5TM9FOYp0BFeGcLBmOLL2WSd62IiIBfjZqfLl_vjBaoysR-C76_99vRgq87Zi_D2RTRK0Iup9ucl2zfO)
 
-1. Votre réponse apparaît directement dans le canal avec mention que c’est un commentaire et la référence du message d’origine. 
+Votre réponse apparaît directement dans le canal avec mention que c’est un commentaire et la référence du message d’origine. 
 
 Il faut donc être vigilant à ne pas être trop bavards en commentaires pour ne pas saturer le canal. Dans le cas d’une conversation poussée, il est recommandé de créer une discussion dans un canal dédié.
 
 ![](https://lh3.googleusercontent.com/Co52_Z26452vUbWvCd7Br-mkYPRCxNRxfxOwuMhFupyCCJjsfQdXswpC0ndiVfMfAHyWTsVzfud1OQPt2_dtrLbz7ThApqCYoEz59JeTX02vK71wJzhirHZC-TXSAZO-SSSsEswm)
 
 * **Faire référence à des personnes, des canaux, des mentions**
+
   * Le hashtag \# : pour joindre le message aux autres messages mentionnant le même \#. 
   * Le @ : pour taguer quelqu’un et le notifier
+
 * **Partager une publication**
 
 Cliquez sur “...” à côté du message en question puis sur “copier le lien
@@ -91,26 +95,28 @@ Cliquez sur “...” à côté du message en question puis sur “copier le lie
 ![](https://lh3.googleusercontent.com/_9oWNG8-_un-n6I7KfvSoRlpe5tW-_QDiIKr0fieR8y2-zqSd3FbevX9oFFlT_Cc8XbuQw--LSqi676kRfhs4wMMzRIZNj4qzvEyB0AD-cvGW1lMDcNpbTQGDroGEfRCriviU7kq)
 
 * **Chercher des personnes pour envoyer un message personnel**
-* Cliquez sur le « + » à côté de « Messages personnels »
+
+Cliquez sur le « + » à côté de « Messages personnels »
 
 ![](https://lh4.googleusercontent.com/qOjgRzEgcYhc4WUvwR36JZb5Ot2JdtkaGq7wGY98iTIXGtUgvmxT5C6mta-qj74nIJdqGzvlWIYZiMPECGmG9bH4PiDA_4W1qRoamBnQiQlR8XOgUnvKNnFvM7rLhWdG5N0em1UT)
 
-1. Ajoutez autant de personnes que nécessaires
+Ajoutez autant de personnes que nécessaires
 
 ![](https://lh3.googleusercontent.com/-l2vr6nYQH-JbTmub5gSW1OF0ThcobrMG-PKXRNUa4ZMOjLoMcDBfryVK3YuaKh04IFCEmdukJ0LXIIEdhH1vPXBZCTDRKR_BJ4OfSbvaCDBaJDB7CZLURrZmtqhh_w3f459bKaz)
 
 * **Contacter les membres des autres incubateurs**
-  * Si **l’incubateur en question est sur Mattermost et il est hébergé sur le même serveur que celui de Beta**. L’espace est réparti en différentes équipes. Par défaut tout le monde est dans l’équipe Beta.gouv et à ça s’ajoutent des équipes privées pour d’autres structures comme c’est le cas pour Data.gouv et bientôt pour l’ANCT. Comme l’équipe Beta.gouv est le dénominateur commun, **vous pourrez communiquer avec les membres de ces équipes directement sur l’équipe Beta.gouv**.
-* \(bientôt disponible\) Si **l’incubateur en question est Mattermost mais hébergé sur un autre serveur ou utilise un autre outil comme Slack**. Dans ce cas la communication se fait via des **canaux “ponts”** tels que c’était le cas sur Slack. Par exemple le canal \#échange-pole-emploi-beta-gouv qui nous permet d’échanger avec la fabrique de Pôle-Emploi.
+
+  * Si **l’incubateur en question est sur Mattermost et il est hébergé sur le même serveur que celui de Beta**. L’espace est réparti en différentes équipes. Par défaut tout le monde est dans l’équipe beta.gouv et à ça s’ajoutent des équipes privées pour d’autres structures comme c’est le cas pour data.gouv et bientôt pour l’ANCT. Comme l’équipe Beta.gouv est le dénominateur commun, **vous pourrez communiquer avec les membres de ces équipes directement sur l’équipe beta.gouv**.
+
 * **Créer un nouveau canal**
 
 Tous les canaux présents sur Slack vont être ou ont été transférés sur l’espace Mattermost. Pour créer un nouveau canal :
 
-1. Cliquez sur le « + », puis sur créer un canal
+Cliquez sur le « + », puis sur créer un canal
 
 ![](https://lh6.googleusercontent.com/1n1_6_Qze4ZyA8autCSUIb8FcOfh3D7ZXtCr-ZpwR-WoC2537NC_Hj8pikGO31pKmWmDvMZmUakr-j34jUBhDavhAN9hpp6nEF7y0FyhxY4DFOcKwzHk6_lJKTbNFxllgZYh_iKC)
 
-1. Remplissez la description
+Remplissez la description
 
 ![](https://lh6.googleusercontent.com/cQ8Cg7Cj1-pxUxAIZN4IWMvE2fIkUCEZ5QwcKZMY0TgCwRwpIramIQinD5sPFJnnmXOESaZ-FXq-t7_yyvf11b0iVFx6HYgT0SY8ojphdI2cPHh082A3JIuNE_pGChPV7ucmo_2m)
 
@@ -118,11 +124,11 @@ Tous les canaux présents sur Slack vont être ou ont été transférés sur l�
 
 Vous pouvez créer autant de catégories que vous souhaitez pour organiser votre espace de travail. Les catégories seront visibles uniquement par vous.
 
-1. Cliquez sur les « … » à côté de « canaux » puis cliquez sur « créer une catégorie »
+Cliquez sur les « … » à côté de « canaux » puis cliquez sur « créer une catégorie »
 
 ![](https://lh6.googleusercontent.com/o8Tsvb7BON6BLa41afZpNOKByl3kjDvr-VdQWpwEDFQLQ6AH47sFeovh_h7hMU477tD91QxCRxTWasrFWAmk-tdDNlG6y-nAeh806IZcB0v0j2eOlPUnkYllMhH5VCFpAQegWXvk)
 
-1. Donnez un nom à cette catégorie. Ici on reprend la norme de nommage établie sur Slack qui est expliquée ici dans les rubriques Préfixes et Double canaux des startups : [https://doc.incubateur.net/communaute/travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/slack](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/slack)
+Donnez un nom à cette catégorie. Ici on reprend la norme de nommage établie sur Slack qui est expliquée ici dans les rubriques Préfixes et Double canaux des startups : [https://doc.incubateur.net/communaute/travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/slack](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/slack)
 
 ![](https://lh5.googleusercontent.com/5qG6rWYvvXFDsKIbI5OUjcd02G1rNRMElGNTJylukznO6gJMByi0w1dftxNnnrJcbWNjqyPY1i4eA9OS_t6aT34nzZ-cIychtjN9QlYC0InlV28FHyIiu99JvsIPX6aaiSZ9CW99)
 
