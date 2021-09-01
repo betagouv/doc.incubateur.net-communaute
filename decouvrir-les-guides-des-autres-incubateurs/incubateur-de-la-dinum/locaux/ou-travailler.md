@@ -2,7 +2,7 @@
 
 ## **Le 20 avenue de Ségur**
 
-Les locaux de l'incubateur au 5ème étage sont à ta disposition pour venir travailler. Tu y croiseras d'autres personnes de la communauté beta.gouv.fr, et pourras bénéficier de tous les événements qui s'y organisent \(atelier sur différents thèmes, les "Etalab talks" lorsqu'une personne qui travaille sur un domaine en lien avec les missions de l'incubateur vient présenter son travail pendant le déjeuner...\)
+Les locaux (5.428, 5.413) de l'incubateur au 5ème étage sont à ta disposition pour venir travailler. Tu y croiseras d'autres personnes de la communauté beta.gouv.fr, et pourras bénéficier de tous les événements qui s'y organisent \(atelier sur différents thèmes, les "Etalab talks" lorsqu'une personne qui travaille sur un domaine en lien avec les missions de l'incubateur vient présenter son travail pendant le déjeuner...\)
 
 Si tu organises une réunion, tu peux écrire à l'adresse suivante pour faire une demande de réservation de salle: dsaf.confirmation-reunion@pm.gouv.fr
 
