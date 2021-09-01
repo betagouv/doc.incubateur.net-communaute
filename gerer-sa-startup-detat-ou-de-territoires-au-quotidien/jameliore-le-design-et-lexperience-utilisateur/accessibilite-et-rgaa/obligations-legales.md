@@ -14,7 +14,7 @@ Chaque service numérique doit être en conformité au **niveau double A** \(AA\
 * tester l'accessibilité de son service et publier les résultats **dans une** déclaration de conformité au RGAA \(et justifier les manquements aux règles si besoin\) ;
 * expliquer la politique d’accessibilité suivie.
 
-![SignalConso affiche son taux de conformit&#xE9; \(partiel\) en fin de page](../../../.gitbook/assets/image%20%2814%29.png)
+![SignalConso affiche son taux de conformit&#xE9; \(partiel\) en fin de page](../../../.gitbook/assets/image%20%2814%29%20%282%29.png)
 
 En cas de manquement à la réglementation, entraînant une discrimination d’accès, l’éditeur d’un site est passible d’une amende annuelle de 20 000 €.
 

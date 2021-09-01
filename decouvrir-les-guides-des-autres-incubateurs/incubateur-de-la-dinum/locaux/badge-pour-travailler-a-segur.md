@@ -10,7 +10,7 @@ description: Tu veux travailler dans les bureaux de Ségur ? Demande ton badge !
 * **Ton email @beta.gouv.fr** \([Comment avoir un email @beta.gouv.fr](../../../travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/emails.md)\);
 * Un **photo ou un scan, recto-verso, de ta carte d'identité** ou de ton passeport en cours de validité au format JPEG \(\*.jpg\) ou PDF ;
 * Une **photo d'identité couleur** prise de face sur un fond neutre au format JPEG \(\*.jpg\).
-* **Le formulaire de demande de badge** que tu peux récupérer sur [\#bureaux-segur](https://mattermost.incubateur.net/betagouv/channels/bureaux-segur) en indiquant la formule "badge segur". Ce ficher XLS est jugé comme confidentiel par l'administration, nous ne pouvons pas le rendre public.
+* **Le formulaire de demande de badge** est épinglé dans le canal [\#bureaux-segur](https://mattermost.incubateur.net/betagouv/channels/bureaux-segur). Ce ficher XLS est jugé comme confidentiel par l'administration, nous ne pouvons pas le rendre public.
 
 ### Aide pour remplir le formulaire
 
