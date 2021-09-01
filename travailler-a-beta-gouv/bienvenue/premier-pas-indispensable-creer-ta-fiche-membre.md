@@ -73,7 +73,7 @@ Ces règles s'appliquent à tous les membres de la communauté, quelque soit vot
 
 Cet atelier a lieu toutes les 6 semaines pour accueillir les nouveaux membres de beta.gouv.fr. 
 
-{% embed url="https://startupdetat.typeform.com/to/QY8l29Z1\#email={{%20contact.EMAIL%20}}&prenom={{%20contact.PRENOM%20}}&status={{%20contact.MISSION\_STATUS%20}}&role={{%20contact.ROLE%20}}&date\_start={{%20contact.MISSION\_START%20}}" %}
+{% embed url="https://airtable.com/embed/shrXupnR9BG7xFUtT?" %}
 
 Tu peux aussi parcourir le support de cet atelier d'embarquement : 
 
