@@ -1,4 +1,16 @@
+---
+description: >-
+  Ces standards ont pour objectifs d'aider les équipes à construire et à opérer
+  des services publics numériques exemplaires.
+---
+
 # Standards de qualité beta.gouv.fr
+
+Lorsqu'un service numérique fait partie du réseau beta.gouv.fr, nous nous attendons à ce qu'il réponde à un haut niveau de standard. beta.gouv.fr a pour objectif de créer des services publics numériques : 
+
+* **utiles** : qui répondent vraiment aux besoins des utilisateurs de manière évolutive, qui donnent une vraie solution à leur problème, avec un impact mesurable, qu'il soit administratif \(réduction des délais de traitement par exemple\), environnemental, social, économique ; 
+* **faciles à utiliser** : qui soient accessibles par tout le monde, quel que soit le niveau de l'utilisateur ou de l'utilisatrice en matière de numérique. En particulier, éviter à tout prix de construire des services dont l'expérience pourrait être ressentie comme kafkaïenne, impersonnelle, compliquée et frustrante ; 
+* **exemplaires** : open source, respectueux des données personnelles, sécurisés, accessibles. 
 
 {% hint style="info" %}
 Un "**standard**" c’est un critère d’évaluation explicite de quelque chose qu’on fait ensemble. Elle permet d'introduire une notion de jugement : “_ce qu’on a fait ici c’est pas au standard, il va falloir le rattraper_”. 
@@ -47,4 +59,10 @@ Les incubateurs du réseau beta.gouv.fr ont parfois des règles de sécurité sp
 {% hint style="info" %}
 Pour aider les développeuses et les développeurs qui lancent un nouveau service depuis une page blanche, un [kit de démarrage](../la-vie-dune-se/construction/kit-de-demarrage.md) a été documenté. Ce kit prend en compte les standards définis ci-dessus.
 {% endhint %}
+
+{% hint style="info" %}
+Pour inspiration, [lire ici](https://www.gov.uk/service-manual/service-standard) les standards de Gov.uk au Royaume-Uni 🇬🇧
+{% endhint %}
+
+
 
