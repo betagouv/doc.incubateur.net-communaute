@@ -1,5 +1,7 @@
 ---
-description: '- en cours de rédaction -'
+description: >-
+  Cette page a été rédigée sur la base d'un atelier d'échange entre des
+  freelances membres de beta.gouv.fr aux différents statuts.
 ---
 
 # Devenir freelance
