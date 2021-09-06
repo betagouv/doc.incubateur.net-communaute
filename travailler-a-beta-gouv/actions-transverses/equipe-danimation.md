@@ -40,6 +40,10 @@ Plusieurs indépendants et prestataires soutiennent l'équipe d'animation dans l
 * **Camille Garrigue**, en charge des formations de beta.gouv.fr \(notamment la formation Alpha\)
 * **Chaïb Martinez**, en charge de l'animation des rencontres entre chargés de déploiement \(club bizdev\)
 
+{% hint style="info" %}
+[Découvrir **le tableau listant les responsabilités transverses** de l'équipe d'animation](https://betagouv-dinum.notion.site/Responsabilit-s-transverses-1772ece2c2124265aeb74466114aa411)
+{% endhint %}
+
 ## Pourquoi faire appel à l'équipe d'animation ?
 
 * Parce que j'ai un doute sur mon produit : l'équipe d'animation peut  t'aider pour te donner des retours constructifs sur ton produit, pour t'aider sur des aspects stratégiques, juridiques ou politiques, pour t'orienter vers les bonnes personnes lorsque tu cherches de l'aide, etc
@@ -48,6 +52,10 @@ Plusieurs indépendants et prestataires soutiennent l'équipe d'animation dans l
 * Parce que j'ai une question d'ordre administratif ou concernant un des marchés publics de la DINUM
 * Parce que j'ai besoin du soutien de la DINUM \(Fonds d'accélération des Startups d'Etat, Programme Gamma, aide transverse, négociation des conditions d’autonomie de mon équipe, refinancements, déblocages de freins\)
 * Parce que je me sens mal dans mon équipe
+
+
+
+
 
 ## Engagements envers la communauté
 
