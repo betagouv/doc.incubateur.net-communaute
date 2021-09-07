@@ -83,7 +83,7 @@ description: Tu veux travailler dans les bureaux de Ségur ? Demande ton badge !
 
 Une fois la demande de badge effectuée, il faudra attendre quelques jours, voir quelques semaines avant l'émission du badge. 
 
-Les badges sont produits en salle 1607. 
+Les badges sont produits en salle 1607 mais n'y passe pas directement avant d'avoir contacté le service de proximité à l'adresse logistique-dinum@pm.gouv.fr, tu peux également demander à cette adresse où en est la production du badge.
 
 En attendant, n'hésite pas à demander à un membre de la communauté de transmettre un mail à l'accueil de Ségur afin que l'on te laisse monter tous les matins sans avoir à appeler quelqu'un. Exemple de mail :
 
