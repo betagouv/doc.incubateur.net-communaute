@@ -18,39 +18,44 @@ Un "**standard**" c’est un critère d’évaluation explicite de quelque chose
 
 ## Standards de qualité produit
 
-* L'équipe est pilotée par un processus de design proche des usagers : il est normal pour les dévelopeur•euses d'aller à la rencontre des usagers, et d'inviter des usagers aux séances de design.
+* L'équipe est pilotée par un **processus de design proche des usagers** : il est normal pour les développeuses et les développeurs d'aller à la rencontre des utilisateurs, et d'inviter des utilisateurs aux séances de design.
 
   > L'équipe Aidants Connect se demande comment organiser la liste des usagers sur son service. Ils invitent Sandrine à leur atelier pour voir avec elle la façon dont elle utilise cette liste aujourd'hui et les filtres et options de tri dont elle a besoin.
 
-* L'équipe est à l'écoute des usagers et accessible :
+* L'équipe est **à l'écoute des utilisateurs et accessible**, avec un ****[**haut standard de service aux utilisateurs**](https://djo.medium.com/obsession-service-client-captain-train-cb0b91467fd9) :
+  * pas d'adresses mail "no-reply" ; 
+  * répondre à chaque demande d'un utilisateur ; 
+  * adopter une posture humble au service des utilisateurs ; 
+  * permettre aux utilisateurs de faire des retours facilement \(par exemple avec le bouton ["Je Donne mon Avis"](../je-gere-mon-produit-et-son-impact/definir-et-mesurer-limpact/comment-integrer-le-bouton.md)\) 
+* Les services sont, à terme, accessibles pour tous et toutes : [**kit d'accessibilité**](../jameliore-le-design-et-lexperience-utilisateur/accessibilite-et-rgaa/kit-accessibilite/)\*\*\*\*
+* Une **page /stats** rend compte des mesures d'impact.
+* Le **langage** utilisé sur les interfaces est **clair, direct et sans jargon**.
+* L'équipe développe le produit dans un **esprit de sobriété**, en priorisant les fonctionnalités les plus simple possible pour prouver l'impact sur les utilisateurs \(par exemple : [prioriser un parcours bien conçu plutôt qu'une Foire aux questions](https://alistapart.com/article/no-more-faqs-create-purposeful-information-for-a-more-effective-user-experi/), prioriser une FAQ bien documentée à un _chatbot_\)
 
-  * pas d'adresses mail "no reply"
-  * répond à chaque demande d'un usager
-  * adopte une posture humble au service des usagers
-
-* Les sites sont sécurisés par SSL.
-
-  > Cette option est disponible en un clic sur Scalingo.
-
-* Une page /stats rend compte des mesures d'impact.
-* Le langage utilisé sur les interfaces est clair, direct et sans jargon.
-* L'équipe développe le produit dans un esprit de sobriété, en priorisant les fonctionnalités les plus simple possible pour prouver l'impact sur les usagers \(par exemple : prioriser une FAQ bien documentée à un _chatbot_\)
+{% hint style="info" %}
+Ces standards de qualité produit sont rappelés par [l'Observatoire des services publics numériques de qualité](https://observatoire.numerique.gouv.fr/). 
+{% endhint %}
 
 ## Standards de qualité logicielle
 
-* Le code source est ouvert, y compris à la contribution externe.
-* Le code est instrumenté par des tests automatisés.
-* Le code est déployé fréquemment, idéalement en continu.
-* Le code est écrit en utilisant les standards du langage \(ex : pep8 en python\) et du framework.
+* Le code source est **ouvert**, y compris à la contribution externe.
+* Le code est instrumenté par des **tests automatisés**.
+* Le code est **déployé fréquemment**, idéalement en continu.
+* Le code est écrit en utilisant les **standards** du langage \(ex : pep8 en python\) et du framework.
 
 ## Standards de sécurité
 
-* Activez le 2FA sur tous vos services ;
-* Utilisez un gestionnaire de mots de passe pour stocker vos mots de passe ;
-* Choisissez des mots de passe longs \(20 caractères minimum\), complexes et uniques par service ;
+* Les sites sont sécurisés par **SSL** ;
+
+  > Cette option est disponible en un clic sur Scalingo.
+
 * Activez les HTTPS Security Headers et ne pas utiliser les attributs "style" en html ni embarquer du javascript dans le HTML ;
-* Crééz un compte par personne et évitez de partager un compte si c'est possible de faire autrement ;
 * Activez la vérification de failles de sécurité et la surveillance des dépendances \(Dépendabot\) sur Github.
+* Suivre nos bonnes pratiques d'[hygiène informatique et de sécurité](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/bienvenue/premier-pas-indispensable-creer-ta-fiche-membre#2-prendre-connaissance-des-regles-dhygiene-informatique-et-de-securite-politique-byod), notamment : 
+  * Choisissez des mots de passe longs \(20 caractères minimum\), complexes et uniques par service ;
+  * Crééz un compte par personne et évitez de partager un compte si c'est possible de faire autrement ;
+  * Activez le 2FA sur tous vos services ;
+  * Utilisez un gestionnaire de mots de passe pour stocker vos mots de passe.
 
 {% hint style="info" %}
 Les incubateurs du réseau beta.gouv.fr ont parfois des règles de sécurité spécifiques. Par exemple, la Fabrique des Affaires sociales a documenté les siens [ici](https://socialgouv.github.io/support/#/README).
