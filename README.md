@@ -74,6 +74,8 @@ Ce guide est un espace commun à [tous les incubateurs](https://beta.gouv.fr/com
 
 {% page-ref page="gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/investigation/conseils-pour-les-coachs-en-investigation.md" %}
 
+{% page-ref page="gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/construction/conseils-pour-les-coachs.md" %}
+
 
 
 \*\*\*\*
