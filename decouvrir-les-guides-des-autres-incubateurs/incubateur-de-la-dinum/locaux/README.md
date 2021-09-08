@@ -6,7 +6,5 @@
 
 {% page-ref page="badge-pour-travailler-a-segur.md" %}
 
-{% page-ref page="envoyer-un-colis-a-segur.md" %}
-
 
 

@@ -1,18 +1,6 @@
-# Où travailler ?
+# D'autres endroits où travailler
 
-## **Le 20 avenue de Ségur**
-
-Les locaux \(5.428, 5.413\) de l'incubateur au 5ème étage sont à ta disposition pour venir travailler. Tu y croiseras d'autres personnes de la communauté beta.gouv.fr, et pourras bénéficier de tous les événements qui s'y organisent \(atelier sur différents thèmes, les "Etalab talks" lorsqu'une personne qui travaille sur un domaine en lien avec les missions de l'incubateur vient présenter son travail pendant le déjeuner...\)
-
-Si tu organises une réunion, tu peux écrire à l'adresse suivante pour faire une demande de réservation de salle: dsaf.confirmation-reunion@pm.gouv.fr
-
-Si tu as du mal à trouver du calme pour passer des appels ou te concentrer, tu peux également demander à réserver les petites salles de travail à partir de 5.600 et 5.700.
-
-Attention, seules les salles de l'incubateur sont équipés avec la wifi beta.gouv.fr. Lorsque nous travaillons depuis les salles 5.700+ il est souvent nécéssaire que l'on créé un partage de connexion depuis nos téléphones portables pour travailler.
-
-[Plus d'infos](focus-segur.md)
-
-## **Beta.gouv.fr en dehors de Paris ?**
+## b**eta.gouv.fr en dehors de Paris ?**
 
 Des membres de la communauté Beta.gouv.fr travaillent un peu partout en France. Il existe une carte qui les recence. Tous les membres qui le souhaitent peuvent la [consulter](http://umap.openstreetmap.fr/fr/map/la-communaute-betagouv_498937) ou la [mettre à jour](http://umap.openstreetmap.fr/fr/map/anonymous-edit/498937:rNZ9vgD45VPxZlCh2TPIJoO6K0A) \(pour ajouter une position, cliquez en haut à droite sur le stylo puis sur Ajouter un marqueur. Dans le marqueur, saisissez votre nom-prénom, pour pouvoir être contacté sur Slack.\). Vous pourrez ainsi peut-être trouver un membre près de chez vous pour télétravailler ensemble, partager un coworking ou tout simplement un ☕️
 

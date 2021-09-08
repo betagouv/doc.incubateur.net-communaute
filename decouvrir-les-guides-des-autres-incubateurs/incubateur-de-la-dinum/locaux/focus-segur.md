@@ -1,26 +1,33 @@
-# Focus Segur
+---
+description: >-
+  Il s'agit du quartier général de la Direction interministérielle du numérique
+  d'où est animé le programme beta.gouv.fr
+---
 
-L'appartenance à la communauté `beta.gouv.fr` t'ouvre l'accès à [deux locaux](https://umap.openstreetmap.fr/fr/map/incubateur_70718) à Paris, en plus de tes espaces de travail habituels \(ton espace de coworking, ton administration, chez toi…\).
+# 20 avenue de Ségur
 
-## Ségur
+L'appartenance à la communauté beta.gouv.fr te donne la possibilité de venir travailler dans les locaux du 20 Avenue de Ségur au  à Paris, en plus de tes espaces de travail habituels \(ton espace de coworking, ton administration, chez toi…\).
 
-Environ 36 places dans le QG de la DINUM, [20 avenue de Ségur, Paris 7e](http://www.openstreetmap.org/search?query=20%20avenue%20de%20s%C3%A9gur#map=19/48.85050/2.30844).
+## **Le 20 avenue de Ségur**
+
+### Informations pratiques
 
 Ouvert du lundi au vendredi au moins de 7 h à 22 h.
 
-Le local de l'incubateur est au 5e étage, salles 5.511 et 5.515, accessible par l'ascenseur A.
+Le local de l'incubateur est au 5e étage, salles 5.428 et 5.413, accessible par l'ascenseur A.
 
 ### Internet
 
 * Un accès wifi est disponible, demander le mot de passe sur [🔒`#bureaux-segur`](https://startups-detat.slack.com/messages/bureaux-segur/).
 * Un fallback 4G est également disponible, demander le mot de passe sur [🔒`#bureaux-segur`](https://startups-detat.slack.com/messages/bureaux-segur/) en cas de besoin.
 * Les câbles rouges sont connectés à internet.
+* Attention, seules les salles de l'incubateur sont équipés avec la wifi beta.gouv.fr. Lorsque nous travaillons depuis les salles 5.700+ il est souvent nécéssaire que l'on créé un partage de connexion depuis nos téléphones portables pour travailler.
 
 ### Comment inviter un visiteur à Ségur ?
 
 Envoie un email à l'accueil \(accueil-segur@segur.gouv.fr\), depuis ton adresse beta, en disant que tu travailles à l'incubateur de la DINUM et que tu attends \[liste des noms des visiteurs\], le \[date\] à \[heure\].
 
-Fais-le en avance par politesse. Si tu le fais à la dernière minute, un petit message d'excuse facilite les choses.
+Fais-le en avance par politesse. Si tu le fais à la dernière minute, un petit message d'excuse est le bienvenu
 
 ### Accès visiteur Ségur
 
@@ -34,6 +41,10 @@ Il est préférable que vous ayez le numéro de téléphone de votre contact pou
 > Votre visiteur peut acheter un ticket cantine pour 13€ à la cafétéria.
 
 ### Réserver une salle de réunion à Ségur
+
+{% hint style="info" %}
+Les réservations de salles de réunion ne peuvent se faire que par les agents de la DINUM. Si vous souhaitez organiser une réunion à Ségur, [contactez l'équipe d'animation de beta.gouv.fr](../../../travailler-a-beta-gouv/actions-transverses/equipe-danimation.md).
+{% endhint %}
 
 Faire la demande au CAS \(Centre d’Appel et de Suivi\) :
 
@@ -49,26 +60,9 @@ Il convient de fournir à l’opérateur du CAS les indications suivantes :
 * Nom et n° de téléphone de l’interlocuteur
 * Besoin logistique, \(micro, projection...\)
 
-S'il y a des besoins en termes de restauration, toutes les demandes doivent être centralisées et obligatoirement validées par le pôle des affaires générales de la DINUM : affairesgenerales.dinum@modernisation.gouv.fr - interlocutrice Jany COSTA cheffe de pôle.
+#### Restauration
 
-Voici un [tableur](https://docs.google.com/spreadsheets/d/1clhuKFQULwY20SAdFeduRGPlqWtfvpR4mROdnkgIfHc/edit?usp=sharing) reprenant les principaux éléments qu'il est possible de demander ainsi qu'une estimation des coûts.
-
-Si cette demande de prise en charge est imputée sur les crédits de fonctionnement , celle-ci devra faire l’objet d’une validation par la Direction.
-
-Si cette demande de prise en charge est imputée sur les crédits métiers, il convient de passer les devis avec le Pôle budget-marchés, votre interlocutrice est Géraldine TAURAND, cheffe du pôle, qui vous informera de votre disponible budgétaire.
-
-S'il n'existe pas de crédits métiers ou de fonctionnement, se rapprocher du pôle des affaires générales afin de trouver une solution. La solution la plus simple est de faire un chèque à l'ordre d'Elior. Il est désormais impossible pour un particulier de régler en carte bleue.
-
-La veille il faut fournir à l'accueil \(accueil-segur@segur.gouv.fr\) :
-
-* Le nom de la réunion ;
-* La liste des invités \(par ordre alphabétique\) ;
-* L'heure de la réunion ;
-* La salle ;
-* Le numéro de téléphone que l'accueil doit joindre en cas de problème ;
-* L'administration organisatrice.
-
-Remarque : il est impossible pour des raisons de sécurité d'obtenir le Wifi dans les salles de réunions. Remarque 2 : La Salle Jean Monnet n'a pas de fenêtres et pas de réseau téléphonique.
+S'il y a des besoins en termes de restauration, toutes les demandes doivent être centralisées et obligatoirement validées par le pôle des affaires générales de la DINUM, il convient alors de contacter un membre de [l'équipe d'animation de beta.gouv.fr](../../../travailler-a-beta-gouv/actions-transverses/equipe-danimation.md).
 
 ### Accès local velo avec son badge
 
