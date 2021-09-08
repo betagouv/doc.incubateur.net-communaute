@@ -16,7 +16,7 @@ description: Tu veux travailler dans les bureaux de Ségur ? Demande ton badge !
 
 | Champs | Informations à renseigner |
 | :--- | :--- |
-| _Au sein de_  | BETA |
+| _Au sein de_ | BETA |
 | _Accès à SEGUR_ | Locaux SEGUR 5520 et 5513 et cantine |
 | _Fourniture d'une adresse_ | \[Laisser vide\] |
 | _Numéro commande Chorus_ | \[Laisser vide\] |
@@ -45,7 +45,7 @@ description: Tu veux travailler dans les bureaux de Ségur ? Demande ton badge !
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Objet </b>
+      <td style="text-align:left"><b>Objet</b>
       </td>
       <td style="text-align:left">Demande de badge - Externe DINUM</td>
     </tr>
@@ -63,7 +63,6 @@ description: Tu veux travailler dans les bureaux de Ségur ? Demande ton badge !
       </td>
       <td style="text-align:left">
         <p>Bonjour,</p>
-        <p></p>
         <p>Je sollicite un badge d&apos;acc&#xE8;s &#xE0; Segur dans les locaux 5520
           et 5513 ainsi qu&apos;&#xE0; la cantine.
           <br />Je souhaite y travailler X fois par semaine.</p>
@@ -81,7 +80,7 @@ description: Tu veux travailler dans les bureaux de Ségur ? Demande ton badge !
 
 ### Combien de temps pour obtenir son badge ?
 
-Une fois la demande de badge effectuée, il faudra attendre quelques jours, voir quelques semaines avant l'émission du badge. 
+Une fois la demande de badge effectuée, il faudra attendre quelques jours, voir quelques semaines avant l'émission du badge.
 
 Les badges sont produits en salle 1607 mais n'y passe pas directement avant d'avoir contacté le service de proximité à l'adresse logistique-dinum@pm.gouv.fr, tu peux également demander à cette adresse où en est la production du badge.
 

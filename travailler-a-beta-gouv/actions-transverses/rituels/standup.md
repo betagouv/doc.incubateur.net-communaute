@@ -47,5 +47,5 @@ Pour rejoindre l'hebdo beta.gouv.fr :
 
 
 
-![Avant mars 2020, nous organisions chaque semaine un Stand-up dans nos locaux](../../../.gitbook/assets/image%20%2814%29.png)
+![Avant mars 2020, nous organisions chaque semaine un Stand-up dans nos locaux](../../../.gitbook/assets/image%20%2814%29%20%282%29.png)
 

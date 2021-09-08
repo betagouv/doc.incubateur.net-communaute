@@ -4,7 +4,7 @@
 
 Nous recommandons cette liste de choses à faire à tous les nouveaux arrivants :
 
-* [ ] Si ce n'est pas déjà fait : [créer sa fiche membre](premier-pas-indispensable-creer-ta-fiche-membre.md) et [s'inscrire au prochain atelier d'embarquement](https://startupdetat.typeform.com/to/QY8l29Z1)
+* [ ] Si ce n'est pas déjà fait : [créer sa fiche membre](premier-pas-indispensable-creer-ta-fiche-membre.md) et [s'inscrire au prochain atelier d'embarquement](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/bienvenue/premier-pas-indispensable-creer-ta-fiche-membre#3-sinscrire-au-prochain-atelier-dembarquement)
 * [ ] Prendre connaissance [des modalités de travail et de la culture d'organisation de beta.gouv.fr](../culture/) ;
 * [ ] Se présenter sur Mattermost dans `#general` ! 👋
 * [ ] Découvrir son équipe :
