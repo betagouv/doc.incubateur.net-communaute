@@ -25,6 +25,7 @@ Cette transparence continue de s'appliquer en phase de construction.
   * Faire apparaître le problème investigué, une synthèse des apprentissages en phase de construction, votre stratégie de déploiement et vos mesures d’impact à 6 mois. Elle évoluera probablement au fil de la phase de construction.
 * **Choix d’un nom pour le produit** en suivant [les recommandations le nommage d’un service numérique](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-gere-mon-produit-et-son-impact/nommer-votre-service) \(max T + 2 semaines\) ;
 * **Premier point d’étape** \(facultatif, T + 4 semaines\)
+  * La première version n’est probablement pas un service numérique mais plutôt une version manuelle du produit \(même si ça marche avec un tableau excel et des appels téléphoniques \)
   * Après un mois, un point d'étape avec une personne connaissant bien beta.gouv.fr, par exemple coach, responsable d'incubateur, ou co-animateur, pour recueillir du feedback
   * Proposer un atelier "retrospective" à l'équipe.
 * **Première version d’un service en ligne** \(facultatif mais très recommandé, T + 9 semaines\)
