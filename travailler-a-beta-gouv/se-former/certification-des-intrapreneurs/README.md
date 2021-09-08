@@ -69,6 +69,8 @@ L'intra reçoit un mail pour fixer la date de son entretien d’évaluation une 
 Pour préparer au mieux son oral, l'intra a accès à 12 vidéos reprenant les éléments standards attendus.
 {% endhint %}
 
+{% page-ref page="videos-de-revisions.md" %}
+
 ### 4- Oral d'évaluation
 
 Le coach certificateur et l'intra réalisent l’entretien d’évaluation de 45 minutes. 
@@ -84,6 +86,6 @@ Beta.gouv propose d'officialiser cette certification aux administrations des lau
 En informant le DRH et la hiérarchie de l'intra, ces compétences seront valorisées dans le dossier personnel et lors de l'entretien d'évaluation annuel. 
 
 {% hint style="info" %}
-Vous pouvez poser toutes vos question sur [le salon Slack dédié](https://app.slack.com/client/T04C2PSNY/C0135ELJ6TV/thread/C011EK4NQH3-1590481204.000800) ou à dinum@beta.gouv.fr .
+Vous pouvez poser toutes vos question sur [le salon Mattermost dédié](https://mattermost.incubateur.net/betagouv/channels/incubateur-certif-intrapreneur) ou à dinum@beta.gouv.fr .
 {% endhint %}
 
