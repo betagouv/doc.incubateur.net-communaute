@@ -67,7 +67,7 @@ L’équipe d'animation de beta.gouv.fr est _**au service**_, _**à la dispositi
 * Parce que rien n'est plus agaçant que des managers qui utilisent leurs équipes pour savoir quoi dire à leur propre hiérarchie, **nous essayons au maximum de limiter les demandes de reporting.** En contrepartie, nous attendons des équipes **une transparence maximale** sur leurs actions.
 * Nous ne sommes chef·fe·s de personne, mais nous sommes **responsables** de plusieurs choses qui nous rendent redevables envers la communauté. Notre mission est de s’assurer que tout fonctionne bien, et cela vient inévitablement avec des droits et des devoirs. Pour cela, nous nous engageons à maintenir **une transparence maximale** sur nos actions.
 
-_Si en tant que membre de la communauté, vous constatez un manquement par rapport aux engagements cités ci-dessus, vous êtes libres de le signaler soit directement à la personne concernée, soit au membre de l'équipe d'animation de votre choix._
+_Si en tant que membre de la communauté, tu constate un manquement par rapport aux engagements cités ci-dessus, tu es libre de le signaler soit directement à la personne concernée, soit au membre de l'équipe d'animation de votre choix._
 
 ## Rejoindre l'équipe d'animation
 
