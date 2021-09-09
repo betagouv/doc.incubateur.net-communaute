@@ -7,13 +7,13 @@ description: "\U0001F9ED Toutes les ressources pour aider les membres de la comm
 {% hint style="info" %}
 **Bienvenue** dans l'espace de documentation de beta.gouv.fr. 
 
-**Si vous êtes membre d'une équipe ou d'un incubateur du réseau beta.gouv.fr**, cet espace a été conçu pour vous.  Vous pouvez utiliser la _**barre de recherche**_ en haut à droite de votre écran pour faciliter votre navigation. Si vous ne trouvez pas la ressource que vous cherchez, vous pouvez poser la question dans la _**chaîne ~incubateur-help**_ de [notre espace Mattermost](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/mattermost/). Si vous repérez une erreur, vous pouvez [la corriger et contribuer à ce guide](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/gitbook/comment-contribuer-a-cette-documentation.md). 
+**Si tu es membre d'une équipe ou d'un incubateur du réseau beta.gouv.fr**, cet espace a été conçu pour toi.  Tu peux utiliser la _**barre de recherche**_ en haut à droite de ton écran pour faciliter ta navigation. Si tu ne trouves pas la ressource que tu cherches, tu peux poser la question dans la _**chaîne ~incubateur-help**_ de [notre espace Mattermost](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/mattermost/). Si tu repères une erreur, tu peux [la corriger et contribuer à ce guide](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/gitbook/comment-contribuer-a-cette-documentation.md). 
 
-**Si vous n'êtes pas \(encore\) membre de beta.gouv.fr**, vous pouvez profiter librement des ressources et des apprentissages que nous avons compilés ici, en gardant en tête que cette documentation est initialement à usage interne. Nous espérons cependant qu'elles pourra inspirer d'autres organisations. Si vous souhaitez nous contacter pour en parler, transmettez nous un message à _**contact@beta.gouv.fr**_ !
+**Si tu n'es pas \(encore\) membre de beta.gouv.fr**, tu peux profiter librement des ressources et des apprentissages que nous avons compilés ici, en gardant en tête que cette documentation est initialement à usage interne. Nous espérons cependant qu'elles pourra inspirer d'autres organisations. Si tu souhaites nous contacter pour en parler, transmets nous un message à _**contact@beta.gouv.fr**_ !
 {% endhint %}
 
 {% hint style="warning" %}
-Ce guide est un espace commun à [tous les incubateurs](https://beta.gouv.fr/communaute/) du réseau beta.gouv.fr. Ses recommandations s'appliquent par défaut quel que soit votre incubateur, sauf mention contraire dans [la documentation spécifique de votre incubateur de rattachement](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/bienvenue/to-do-darrivee#decouvre-la-documentation-specifique-a-ton-incubateur).
+Ce guide est un espace commun à [tous les incubateurs](https://beta.gouv.fr/communaute/) du réseau beta.gouv.fr. Ses recommandations s'appliquent par défaut quel que soit ton incubateur, sauf mention contraire dans [la documentation spécifique de ton incubateur de rattachement](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/bienvenue/to-do-darrivee#decouvre-la-documentation-specifique-a-ton-incubateur).
 {% endhint %}
 
 ## Pour découvrir beta.gouv.fr
@@ -75,8 +75,6 @@ Ce guide est un espace commun à [tous les incubateurs](https://beta.gouv.fr/com
 {% page-ref page="gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/investigation/conseils-pour-les-coachs-en-investigation.md" %}
 
 {% page-ref page="gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/construction/conseils-pour-les-coachs.md" %}
-
-
 
 \*\*\*\*
 
