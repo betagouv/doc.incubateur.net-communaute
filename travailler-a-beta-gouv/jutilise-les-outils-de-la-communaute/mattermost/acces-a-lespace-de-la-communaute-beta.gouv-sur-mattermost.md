@@ -5,7 +5,7 @@ description: >-
   "neutres").
 ---
 
-# Accès à l'espace de la communauté beta.gouv sur Mattermost
+# Fonctionnement de l'espace de la communauté beta.gouv sur Mattermost
 
 ### Comment ça marche 
 
