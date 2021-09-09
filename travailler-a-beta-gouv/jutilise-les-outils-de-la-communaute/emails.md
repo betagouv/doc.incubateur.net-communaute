@@ -12,14 +12,14 @@ Le compte email est actif tant que le membre à une mission en cours, il ne faut
 
 ## Envoyer et recevoir des mails @beta.gouv.fr
 
-### Prérequis
+### 0. Prérequis
 
 Muni-toi de :
 
 * ton adresse `prenom.nom@beta.gouv.fr`
 * le mot de passe
 
-### Choisir son client de messagerie
+### 1. Choisir son client de messagerie
 
 Choisis sur quel logiciel de messagerie tu veux recevoir et envoyer tes emails. Par exemple :
 
@@ -32,7 +32,7 @@ Choisis sur quel logiciel de messagerie tu veux recevoir et envoyer tes emails. 
 * [AquaMail](https://www.aqua-mail.com/) \(Android\) : une application mail fluide qui respecte la vie privée
 * [ou beaucoup d'autres](https://duckduckgo.com/?q=meilleurs+clients+mails)
 
-### **Configurer la réception et l'envoi d'emails**
+### **2. Configurer la réception et l'envoi d'emails**
 
 Il existe des tutoriels détaillés pour certains clients mails :
 
