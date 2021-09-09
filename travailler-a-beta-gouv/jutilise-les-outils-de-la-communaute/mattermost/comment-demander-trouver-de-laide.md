@@ -1,6 +1,6 @@
 # Comment demander/trouver de l’aide ?
 
-Poses tes questions sur le canal **Mattermost** [**\#Mattermost-Aide**](https://mattermost.incubateur.net/betagouv/channels/mattermost-aide)
+Pose tes questions sur le canal **Mattermost** [**\#Mattermost-Aide**](https://mattermost.incubateur.net/betagouv/channels/mattermost-aide)
 
 * Aide Mattermost en haut à droite et en bas à droite 
 

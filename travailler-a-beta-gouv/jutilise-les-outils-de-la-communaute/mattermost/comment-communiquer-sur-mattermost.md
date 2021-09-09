@@ -4,7 +4,7 @@
 
 Si tu ne l'as pas déjà fait fait, active l'option "Collapsed Reply Thread" dans `Paramètres du compte > Affichage` 
 
-#### **Actives l'option thread** \(version beta pouvant entrainer des risques\)
+#### **Active l'option thread** \(version beta pouvant entrainer des risques\)
 
 {% hint style="info" %}
 Cette option permet de réduire la sensation de "bruit" et de retrouver les échanges dans des fils de discussion séparée.
@@ -12,25 +12,25 @@ Cette option permet de réduire la sensation de "bruit" et de retrouver les éch
 
 ![Exemple de fil](../../../.gitbook/assets/capture-6.jpg)
 
-**1.Cliques sur les 3 bandes horizontales** 
+**1.Clique sur les 3 bandes horizontales** 
 
 ![](../../../.gitbook/assets/capture-1.jpg)
 
-**2. Cliques sur "Paramètres du compte"**
+**2. Clique sur "Paramètres du compte"**
 
 ![](../../../.gitbook/assets/capture2.jpg)
 
-**3. Cliques sur "Affichage" puis sur "modifier" dans la partie "Collapsed Reply Threads \(beta\)"**
+**3. Clique sur "Affichage" puis sur "modifier" dans la partie "Collapsed Reply Threads \(beta\)"**
 
 ![](../../../.gitbook/assets/capture-3.jpg)
 
-**4. Choisis "On" puis enregistrer.**
+**4. Choisi "On" puis enregistrer.**
 
 ![](../../../.gitbook/assets/capture-4.jpg)
 
 ### **Comment répondre à un message ?**
 
-#### 1. Cliques dans le message en question sur les « … » puis dans le menu sur « Répondre » :
+#### 1. Clique dans le message en question sur les « … » puis dans le menu sur « Répondre » :
 
 ![](https://lh4.googleusercontent.com/BIq9YkZajLBs8sJbmhnbF1EH1cZkYgkw5948LXTGKyVGB8Hv7M1XTLfKtts11dXZsZTnk8cIccVCi711YPOwebVjz8oGCdWHwWZ2lnhYQAHwb7nzSAQc4VKiKn8bjLWkg_1EwZmk)
 
@@ -57,11 +57,11 @@ Cliques sur “...” à côté du message en question puis sur “copier le lie
 
 ### **Comment chercher des personnes pour envoyer un message personnel ?**
 
-#### 1. Cliques sur le « + » à côté de « Messages personnels »
+#### 1. Clique sur le « + » à côté de « Messages personnels »
 
 ![](https://lh4.googleusercontent.com/qOjgRzEgcYhc4WUvwR36JZb5Ot2JdtkaGq7wGY98iTIXGtUgvmxT5C6mta-qj74nIJdqGzvlWIYZiMPECGmG9bH4PiDA_4W1qRoamBnQiQlR8XOgUnvKNnFvM7rLhWdG5N0em1UT)
 
-#### 2. Ajoutes autant de personnes que nécessaires
+#### 2. Ajoute autant de personnes que nécessaires
 
 ![](https://lh3.googleusercontent.com/-l2vr6nYQH-JbTmub5gSW1OF0ThcobrMG-PKXRNUa4ZMOjLoMcDBfryVK3YuaKh04IFCEmdukJ0LXIIEdhH1vPXBZCTDRKR_BJ4OfSbvaCDBaJDB7CZLURrZmtqhh_w3f459bKaz)
 
@@ -71,11 +71,11 @@ Cliques sur “...” à côté du message en question puis sur “copier le lie
 
 ### **Comment créer un nouveau canal ?**
 
-#### 1. Cliques sur le « + », puis sur créer un canal
+#### 1. Clique sur le « + », puis sur créer un canal
 
 ![](https://lh6.googleusercontent.com/1n1_6_Qze4ZyA8autCSUIb8FcOfh3D7ZXtCr-ZpwR-WoC2537NC_Hj8pikGO31pKmWmDvMZmUakr-j34jUBhDavhAN9hpp6nEF7y0FyhxY4DFOcKwzHk6_lJKTbNFxllgZYh_iKC)
 
-#### 2. Remplis la description
+#### 2. Rempli la description
 
 ![](https://lh6.googleusercontent.com/cQ8Cg7Cj1-pxUxAIZN4IWMvE2fIkUCEZ5QwcKZMY0TgCwRwpIramIQinD5sPFJnnmXOESaZ-FXq-t7_yyvf11b0iVFx6HYgT0SY8ojphdI2cPHh082A3JIuNE_pGChPV7ucmo_2m)
 
@@ -83,21 +83,19 @@ Cliques sur “...” à côté du message en question puis sur “copier le lie
 
 Tu peux créer autant de catégories que tu le souhaites pour organiser ton espace de travail. Les catégories seront visibles uniquement par toi.
 
-#### 1. Cliques sur les « … » à côté de « canaux » puis cliques sur « créer une catégorie »
+#### 1. Clique sur les « … » à côté de « canaux » puis cliques sur « créer une catégorie »
 
 ![](https://lh6.googleusercontent.com/o8Tsvb7BON6BLa41afZpNOKByl3kjDvr-VdQWpwEDFQLQ6AH47sFeovh_h7hMU477tD91QxCRxTWasrFWAmk-tdDNlG6y-nAeh806IZcB0v0j2eOlPUnkYllMhH5VCFpAQegWXvk)
 
-#### 2. Donnes un nom à cette catégorie. Ici on reprend la norme de nommage établie sur Slack qui est expliquée[ ici dans les rubriques Préfixes et Double canaux des startups](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/slack) 
+#### 2. Donne un nom à cette catégorie. Ici on reprend la norme de nommage établie sur Slack qui est expliquée[ ici dans les rubriques Préfixes et Double canaux des startups](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/slack) 
 
 ![](https://lh5.googleusercontent.com/5qG6rWYvvXFDsKIbI5OUjcd02G1rNRMElGNTJylukznO6gJMByi0w1dftxNnnrJcbWNjqyPY1i4eA9OS_t6aT34nzZ-cIychtjN9QlYC0InlV28FHyIiu99JvsIPX6aaiSZ9CW99)
 
-#### 3. Déplaces des canaux dans vos différentes catégories en « glissé-déposé ».
+#### 3. Déplace des canaux dans vos différentes catégories en « glissé-déposé ».
 
 ### **Comment chercher des messages ?**
 
 Dans la barre de recherche en haut à droite. Vous pouvez vous aider d’options de recherche.
 
 ![](https://lh3.googleusercontent.com/UL7cEXnSP0Bue3keJ3ZrUJsNnxY2hMjuW4Wb2KCUQV3Dmq9K-94sRIsJsBnkPq5y014Frt08qO7Ana17hTuH1qm9pT79AwjZZ0iXCOlutAPMvu5hqc4qvdDMHlS5U1vZgqgNX1Dt)
-
-## \*\*\*\*
 
