@@ -12,9 +12,9 @@ A l'installation, si le client demande l'ajout d'un serveur \("Add server"\), ch
 
 **Etape 2** : ton compte a déjà été créé lors de l’import de l’historique des conversations. Il te faut simplement **récupérer ton mot de passe** \(qui est différent de celui du compte beta\) :
 
-1. Cliques sur “forgot my password” ;
-2. Entres ton adresse beta pour recevoir l’email de récupération de mot de passe ; 
-3. Cliques sur le lien contenu dans l’email et configures ton mot de passe avec les contraintes suivantes : 
+1. Clique sur “forgot my password” ;
+2. Entre ton adresse beta pour recevoir l’email de récupération de mot de passe ; 
+3. Clique sur le lien contenu dans l’email et configures ton mot de passe avec les contraintes suivantes : 
    * 12 - 64 caractères 
    * Au moins une minuscule
    * Au moins une majuscule
@@ -29,14 +29,14 @@ A l'installation, si le client demande l'ajout d'un serveur \("Add server"\), ch
 
 **Etape 3** : pour faciliter la gestion de l’espace, tu peux changer ton “Nom d'utilisateur” par prenom.nom \(comme le début de votre email\). Il vous faut :
 
-* Cliques sur l'icône ![](https://lh5.googleusercontent.com/De8PjC5doIaIMGFuuR95dlnmOZWxJuHqp3BAAyiIxJMuygtt_LWY6EUka0-mutJvKVOqTvnVL_fTD_lGJ8AmxzfrPXfnOoxL9eatGe1i6y8kKBPlgjvjQ_sg8zRTEJY8ok-TfUuD)
+* Clique sur l'icône ![](https://lh5.googleusercontent.com/De8PjC5doIaIMGFuuR95dlnmOZWxJuHqp3BAAyiIxJMuygtt_LWY6EUka0-mutJvKVOqTvnVL_fTD_lGJ8AmxzfrPXfnOoxL9eatGe1i6y8kKBPlgjvjQ_sg8zRTEJY8ok-TfUuD)
 
 ![](https://lh5.googleusercontent.com/uXTXzsqkLKQc2t74VchYcVPy10eg3CGCq2ZP6bbcjsdLvf9zhXRBb939TeK1dLkzFEt3gMDPXZKjVeigeliN_ZxFTDIp2xV8DYWLZWjlJ8tQRvggwUsiBGz_8yLA4aB0KH591DW7)
 
-* Vas dans “Paramètres du compte”
-* A côté de “Nom d’utilisateur” cliques sur “modifier”
-* Mets prenom.nom \(exactement comme le début de votre email @beta.gouv.fr \)
-* Puis cliques sur “Enregistrer”
+* Va dans “Paramètres du compte”
+* A côté de “Nom d’utilisateur” clique sur “modifier”
+* Met prenom.nom \(exactement comme le début de votre email @beta.gouv.fr \)
+* Puis clique sur “Enregistrer”
 
 ![](https://lh6.googleusercontent.com/T_laA76igKgAScDNdeNYsxFcKArGDGvqL_5vAKWdgdXy-hCyc9ao6-tKgIiTHk5rjaUSHb5doZHyoRf2Tmj3gxtI_RdsC6T8U48Wd31K09bSlLsJuNHbLVAZuZIZJA7a7sk4-7jH)
 
