@@ -24,15 +24,15 @@ Wikipedia dit : « Le Forum Ouvert crée un espace dans lequel beaucoup de perso
 
 #### Quelques grands principes
 
-* La **loi des deux pieds** : si vous n’êtes ni en train d’apprendre, ni de contribuer \(ou si vous pensez que vous le feriez plus ailleurs\), vous avez le droit de quitter l'atelier et de passer à autre chose !
+* La **loi des deux pieds** : si tu n’es ni en train d’apprendre, ni de contribuer \(ou si tu penses que tu le ferais plus ailleurs\), tu as le droit de quitter l'atelier et de passer à autre chose !
 * Les **4 principes** :
   * les personnes qui sont présentes sont les bonnes ;
   * ce qui arrive est la seule chose qui pouvait arriver ;
   * ça commence quand ça commence ;
   * quand c’est fini, c’est fini.
 * Les **animaux totems** :
-  * Les abeilles font circuler les idées d'atelier en atelier : vous avez la possibilité de changer d'atelier à tout moment pour apporter de petites contributions aux ateliers des autres ;
-  * Les papillons font des bulles : si vous souhaitez vous promener entre les ateliers et créer des moments d'échange non prévus, c'est très bien aussi. 
+  * Les abeilles font circuler les idées d'atelier en atelier : tu as la possibilité de changer d'atelier à tout moment pour apporter de petites contributions aux ateliers des autres ;
+  * Les papillons font des bulles : si tu souhaites te promener entre les ateliers et créer des moments d'échange non prévus, c'est très bien aussi. 
 
 #### Bien sûr, on a le droit :
 
@@ -56,7 +56,7 @@ Pendant cette journée, les participant·e·s qui le souhaitent définissent l�
 
 #### Exemple de programme du grand séminaire de décembre 2020 :
 
-* 8h00-9h00 : Venez prendre votre petit déjeuner dans le lounge pour retrouver vos collègues et faire connaissance avec de nouvelles personnes de la communauté
+* 8h00-9h00 : Viens prendre ton petit déjeuner dans le lounge pour retrouver tes collègues et faire connaissance avec de nouvelles personnes de la communauté
 * 9h00-10h : RDV dans la salle plénière où nous compléterons et présenterons ensemble le programme de la journée.
 * 10h - 16h30 : Le forum ouvert est ouvert !
 * 16h30 : RDV dans la salle plénière pour les mots de la fin
@@ -65,14 +65,14 @@ Pendant cette journée, les participant·e·s qui le souhaitent définissent l�
 
 Les 7 choses à savoir pour passer une bonne journée sur Gather.town :
 
-1. Si possible, utilisez un ordinateur et de préférence le navigateur Chrome, ça ne fonctionne pas sur téléphone portable \(les fixes non plus :p\) et sur Safari !
-2. Coupez vos applis en cours, car Gathertown est un peu gourmand en bande passante…
-3. Connectez-vous suffisamment en avance pour avoir le temps d’explorer l’espace : la plénière commence à 9h30, mais nous vous accueillerons dès lundi et à partir de 8h le jour J !
-4. Pensez à couper votre micro lorsque vous êtes à un atelier et que vous ne prenez pas la parole.
-5. Pour le confort audio de tous.tes, équipez-vous d'un micro-casque ou micro-écouteurs.
-6. Partez à l’aventure ! Promenez-vous, explorez l’espace, allez à la rencontre de vos voisins virtuels.
+1. Si possible, utilise un ordinateur et de préférence le navigateur Chrome, ça ne fonctionne pas sur téléphone portable \(les fixes non plus :p\) et sur Safari !
+2. Coupe tes applis en cours, car Gathertown est un peu gourmand en bande passante…
+3. Connecte-toi suffisamment en avance pour avoir le temps d’explorer l’espace : la plénière commence à 9h30, mais nous te accueillerons dès lundi et à partir de 8h le jour J !
+4. Pense à couper ton micro lorsque tu es à un atelier et que tu ne prends pas la parole.
+5. Pour le confort audio de tous.tes, équipes toi d'un micro-casque ou micro-écouteurs.
+6. Pars à l’aventure ! Promène-toi, explore l’espace, va à la rencontre de tes voisins virtuels.
 
-   Vous êtes coincé·e·s ou vous n'entendez plus ? Ça arrive… Rechargez votre page !
+   Tu es coincé·e ou tu n'entends plus ? Ça arrive… Recharge ton page !
 
    A distance 
 
@@ -158,7 +158,7 @@ La veille du Grand Séminaire, l'avant garde arrive sur les lieux et :
 * prépare un plan des lieux pour indiquer où sont les espaces disponibles 
   * nommer les espaces intérieur et extérieur \(la terrasse, la cuisine, la grotte, le salon, comme dans Cluedo quoi !\)
 * prépare la signalétique pour indiquer comment se rendre aux espaces disponibles
-  * vous pouvez utiliser des codes couleurs. Privilégier la pate à fixe au scotch pour accrocher aux murs et portes
+  * tu peux utiliser des codes couleurs. Privilégier la pate à fixe au scotch pour accrocher aux murs et portes
 * aménage les espaces de travail \(en y laissant notamment le matériel nécessaire - post-it, feuilles, marqueurs, paper board...\)
 * aménage la salle de plénière \(en mettant en rond autant de chaises que ne participants prévus\)
 * prépare un panneau rappelant les règles d'un [forum ouvert](https://fr.wikipedia.org/wiki/M%C3%A9thodologie_Forum_Ouvert#M%C3%A9thode)
@@ -172,7 +172,7 @@ La veille du Grand Séminaire, l'avant garde arrive sur les lieux et :
 
 * Etape 1 : Prévoir un menu qui peut se décliné en végé
 * Etape 2 : Noter les quantités pour 5 personnes, puis multiplier par 10 \(si on est 50\)
-* Etape 3 : Donner sa liste à la personne en charge des course. N'hésitez pas à mettre des photos des produits s'ils sont difficiles à trouver.
+* Etape 3 : Donner sa liste à la personne en charge des course. N'hésite pas à mettre des photos des produits s'ils sont difficiles à trouver.
 * Etape 4: Planifier le temps qu'il faut pour cuisiner.
 * Etape 5: Proposer la préparation comme atelier du forum ouvert.
 
