@@ -2,7 +2,7 @@
 
 ## b**eta.gouv.fr en dehors de Paris ?**
 
-Des membres de la communauté Beta.gouv.fr travaillent un peu partout en France. Il existe une carte qui les recence. Tous les membres qui le souhaitent peuvent la [consulter](http://umap.openstreetmap.fr/fr/map/la-communaute-betagouv_498937) ou la [mettre à jour](http://umap.openstreetmap.fr/fr/map/anonymous-edit/498937:rNZ9vgD45VPxZlCh2TPIJoO6K0A) \(pour ajouter une position, cliquez en haut à droite sur le stylo puis sur Ajouter un marqueur. Dans le marqueur, saisissez votre nom-prénom, pour pouvoir être contacté sur Slack.\). Vous pourrez ainsi peut-être trouver un membre près de chez vous pour télétravailler ensemble, partager un coworking ou tout simplement un ☕️
+Des membres de la communauté Beta.gouv.fr travaillent un peu partout en France. Il existe une carte qui les recence. Tous les membres qui le souhaitent peuvent la [consulter](http://umap.openstreetmap.fr/fr/map/la-communaute-betagouv_498937) ou la [mettre à jour](http://umap.openstreetmap.fr/fr/map/anonymous-edit/498937:rNZ9vgD45VPxZlCh2TPIJoO6K0A) \(pour ajouter une position, cliquez en haut à droite sur le stylo puis sur Ajouter un marqueur. Dans le marqueur, saisi ton nom-prénom, pour pouvoir être contacté sur Slack.\). Tu pourras ainsi peut-être trouver un membre près de chez toi pour télétravailler ensemble, partager un coworking ou tout simplement un ☕️
 
 [![Carte de la communaut&#xE9;](../../../.gitbook/assets/carte_communaute.png)](http://umap.openstreetmap.fr/fr/map/la-communaute-betagouv_498937)
 
