@@ -111,7 +111,7 @@ Le rôle du coach au sein d’une start-up d’état comprend, mais ne se limite
 
 Le coach doit s’adapter à la configuration de l’équipe qui dépend de l’engagement de l’intrapreneur et de la répartition des rôles. Son rôle, à terme, est de faire monter en compétences l’équipe pour lui permettre de s’autonomiser petit à petit \(et non pas “faire à la place” de l’équipe\). Il doit aussi maîtriser la culture de Beta.gouv; la durée de son expérience en SET est fortement valorisée.
 
-Lecture conseillée pour approfondir cette discussion : l’excellente “cartographie de pratiques de coaching à beta.gouv.fr” de Raphael [https://docs.google.com/presentation/d/12aEGovHBZYH-xeskRalvhPhGhDG971hibddiGj5f\_AU/edit\#slide=id.p](https://docs.google.com/presentation/d/12aEGovHBZYH-xeskRalvhPhGhDG971hibddiGj5f_AU/edit#slide=id.p)    
+Lecture conseillée pour approfondir cette discussion : l’excellente “[cartographie de pratiques de coaching à beta.gouv.fr](https://docs.google.com/presentation/d/12aEGovHBZYH-xeskRalvhPhGhDG971hibddiGj5f_AU/edit#slide=id.p%20%20)” de Raphael.  
 ****
 
 ## **Quelles compétences pour être coach ?** 
@@ -172,20 +172,17 @@ Aide pour acquérir cette compétence : participer aux rituels et événements d
 
 ## **Comment devenir coach chez Beta ?**
 
-Il n’y a pas de secret, pour devenir coach il faut coacher.   
-****
+Il n’y a pas de secret, pour devenir coach il faut coacher. ****
 
 **Comment faire un premier coaching chez Beta ?** 
 
-Avant de vous lancer dans le grand bain, le premier pas est de binômer avec un coach expérimenté sur une investigation. Il vous faut donc trouver une investigation qui débute, sur laquelle le coach et l’intrapreneur sont d’accord pour que vous soyez binôme dans une démarche d’apprentissage. A l’issue de cette première expérience et si elle s’avère un succès, alors vous pourrez prétendre à coacher une investigation en solo.   
-****
+Avant de te lancer dans le grand bain, le premier pas est de binômer avec un coach expérimenté sur une investigation. Il te faut donc trouver une investigation qui débute, sur laquelle le coach et l’intrapreneur sont d’accord pour que tu  sois binôme dans une démarche d’apprentissage. A l’issue de cette première expérience et si elle s’avère un succès, alors tu pourras prétendre à coacher une investigation en solo. 
 
 **Comment trouver une première investigation ?** 
 
-👉 Manifestez votre intérêt ici : [https://airtable.com/shrFflOyc7QcVO1u6](https://airtable.com/shrFflOyc7QcVO1u6)
+👉 Manifestes ton intérêt ici : [https://airtable.com/shrFflOyc7QcVO1u6](https://airtable.com/shrFflOyc7QcVO1u6)
 
-Vous pouvez aussi en discuter avec les responsables de portefeuille. Ensuite un entretien permettra d'évaluer vos compétences selon les critères présentés ci-dessous et si vous êtes sélectionné vous serez placé sur une prochaine investigation. Le délai de placement sur une investigation est variable selon les appels à candidatures lancés dans les administrations partenaires et selon la volonté des intrapreneurs et coachs d’accepter un binôme.   
-
+Tu peux aussi en discuter avec les responsables de portefeuille. Ensuite un entretien permettra d'évaluer tes compétences selon les critères présentés ci-dessous et si tu es sélectionné tu seras placé sur une prochaine investigation. Le délai de placement sur une investigation est variable selon les appels à candidatures lancés dans les administrations partenaires et selon la volonté des intrapreneurs et coachs d’accepter un binôme. 
 
 **Quels sont les critères de sélection ?** 
 
@@ -215,9 +212,7 @@ Le coaching en binôme est rémunéré à un TJM de 325€ HT.
 
 **Quel suivi de mon parcours ?** 
 
-Au cours de votre coaching des temps d’échanges seront prévus avec les autres apprentis et vos co-animateurs référents afin de suivre votre évolution et partager vos apprentissages.   
-  
-  
+Au cours de votre coaching des temps d’échanges seront prévus avec les autres apprentis et vos co-animateurs référents afin de suivre votre évolution et partager tes apprentissages.   
   
 ****
 
