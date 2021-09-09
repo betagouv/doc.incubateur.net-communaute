@@ -1,6 +1,6 @@
 ---
 description: >-
-  Cette formation donne  10 conseils facile à mettre en place pour vérifier 
+  Cette formation donne 10 conseils facile à mettre en place pour vérifier
   l'accessibilité de son service numérique
 ---
 
@@ -42,7 +42,7 @@ Il existe de nombreux autres outils spécifiques, selon les préférences de cha
 **Le titre de page permet de se situer :** c’est la première chose lue par un lecteur d'écran à l’affichage d’une page ou d’un onglet. Les bons titres de pages aident à s'orienter entre plusieurs onglets.
 
 {% hint style="info" %}
-**Elles vous remercieront :** les personnes utilisant un lecteur d’écran ou les favoris du navigateur. Et aussi les moteurs de recherche.
+**Elles te remercieront :** les personnes utilisant un lecteur d’écran ou les favoris du navigateur. Et aussi les moteurs de recherche.
 {% endhint %}
 
 **Le test des onglets**
@@ -62,7 +62,7 @@ Il existe de nombreux autres outils spécifiques, selon les préférences de cha
 **Les alternatives transmettent l'objectif de l’image :** ils sont lus par les lecteurs d’écrans \(ou ressenti sur une plage braille\). Parfois, ils sont affichés à la place de l'image quand la connexion est mauvaise.
 
 {% hint style="info" %}
-**Elles vous remercieront :** les personnes utilisant un lecteur d’écran et celles ayant une connexion restreinte.
+**Elles te remercieront :** les personnes utilisant un lecteur d’écran et celles ayant une connexion restreinte.
 {% endhint %}
 
 **Le test des alternatives**
@@ -74,7 +74,7 @@ Il existe de nombreux autres outils spécifiques, selon les préférences de cha
 * ✅ L’alternative doit permettre de comprendre le contenu, pas nécessairement décrire l’image.
 * ✅ Les images décoratives qui n’apportent pas de sens n’ont pas d’alternative.
 
-👉 Un bon texte alternatif est ce que vous diriez à quelqu’un qui interagit avec une page web mais ne la voit pas \(par exemple, “recherche” plutôt que “loupe”\).
+👉 Un bon texte alternatif est ce que tu dirais à quelqu’un qui interagit avec une page web mais ne la voit pas \(par exemple, “recherche” plutôt que “loupe”\).
 
 👉 Un texte alternatif approprié n'est pas une science exacte. Certaines personnes préfèrent les descriptions détaillées ; d'autres des descriptions concises.
 
@@ -83,7 +83,7 @@ Il existe de nombreux autres outils spécifiques, selon les préférences de cha
 **La structure de la page est balisée** : certains éléments de textes sont important dans la page : ils sont mis en avant visuellement. Ils doivent l’être aussi dans le code via les balises dédiées.
 
 {% hint style="info" %}
-**Elles vous remercieront :** les personnes qui naviguent au clavier, celles qui utilisent un lecteur d’écran, celles qui affichent le site sans style.
+**Elles te remercieront :** les personnes qui naviguent au clavier, celles qui utilisent un lecteur d’écran, celles qui affichent le site sans style.
 {% endhint %}
 
 **Le test du plan**
@@ -103,7 +103,7 @@ Il existe de nombreux autres outils spécifiques, selon les préférences de cha
 Chaque personne a des besoins différents : le site doit permettre à l’utilisateur de s’adapter.
 
 {% hint style="info" %}
-**Elles vous remercieront :** les personnes souffrant de troubles de lectures, les personnes avec des troubles de visions, les personnes âgées ayant perdu la sensibilité au contraste.
+**Elles te remercieront :** les personnes souffrant de troubles de lectures, les personnes avec des troubles de visions, les personnes âgées ayant perdu la sensibilité au contraste.
 {% endhint %}
 
 **Le test des couleurs**
@@ -122,7 +122,7 @@ Chaque personne a des besoins différents : le site doit permettre à l’utilis
 Si le site est mal conçu, il devient inutilisable, ou le contenu illisible.
 
 {% hint style="info" %}
-**Elles vous remercieront :** les personnes qui ont besoin d'agrandir le contenu pour pouvoir le lire ; celles qui ont besoin d’interlignes élevées.
+**Elles te remercieront :** les personnes qui ont besoin d'agrandir le contenu pour pouvoir le lire ; celles qui ont besoin d’interlignes élevées.
 {% endhint %}
 
 **Le test du zoom**
@@ -144,7 +144,7 @@ Si le site est mal conçu, il devient inutilisable, ou le contenu illisible.
 L’ensemble du contenu et des fonctionnalités doit donc être accessible via le clavier : liens, formulaires, pause/play sur les lecteurs médias, menus...
 
 {% hint style="info" %}
-**Elles vous remercieront :** les personnes qui n’utilisent pas la souris \(aveugles, malvoyants, personnes souffrant de troubles moteurs…\)
+**Elles te remercieront :** les personnes qui n’utilisent pas la souris \(aveugles, malvoyants, personnes souffrant de troubles moteurs…\)
 {% endhint %}
 
 **Le test de la souris perdue**
@@ -167,7 +167,7 @@ Les aides à la saisie et messages d’erreurs doivent être placés de manière
 C’est l’un des tests le plus compliqué mais aussi celui qui a le plus d’impact 💪.
 
 {% hint style="info" %}
-**Elles vous remercieront :** les personnes qui n’utilisent pas la souris, qui ont des problèmes de motricité, ou des troubles cognitifs ou d’apprentissage.
+**Elles te remercieront :** les personnes qui n’utilisent pas la souris, qui ont des problèmes de motricité, ou des troubles cognitifs ou d’apprentissage.
 {% endhint %}
 
 **Le test des formulaires**
@@ -193,7 +193,7 @@ C’est l’un des tests le plus compliqué mais aussi celui qui a le plus d’i
 Plus spécifiquement, certains contenus clignotants peuvent déclencher une crise d’épilepsie chez certains personnes.
 
 {% hint style="info" %}
-**Elles vous remercieront :** les personnes troubles de l'attention, les personnes photosensibles ou épileptiques.
+**Elles te remercieront :** les personnes troubles de l'attention, les personnes photosensibles ou épileptiques.
 {% endhint %}
 
 **Le test des animations**
@@ -208,14 +208,14 @@ Plus spécifiquement, certains contenus clignotants peuvent déclencher une cris
 * ✅ Si des informations se mettent à jour en temps réel, l’utilisateur peut les mettre en pause ou contrôler la fréquence de mise à jour.
 * ✅ Aucun contenu ne clignote ou ne se met à clignoter plus de trois fois en une seconde.
 
-#### 🎬 Les alternative aux médias
+#### 🎬 Les alternatives aux médias
 
 **Les médias ont des alternatives :** les podcasts ou formats audios ne sont pas accessibles aux personnes sourdes ou malentendantes, sauf si fournies dans un format alternatif \(transcription par ex\).
 
 Les informations visuelles d’une vidéo ne sont pas accessibles aux personnes aveugles ou malvoyantes, sauf si elles sont fournies dans un format alternatif tel que l'audio ou le texte.
 
 {% hint style="info" %}
-**Elles vous remercieront :** les personnes malentendantes, malvoyantes, sourdes ou aveugles.
+**Elles te remercieront :** les personnes malentendantes, malvoyantes, sourdes ou aveugles.
 {% endhint %}
 
 **Le test des médias**
@@ -234,7 +234,7 @@ Les informations visuelles d’une vidéo ne sont pas accessibles aux personnes 
 **La page est linéaire** : tout le monde ne « voit » pas une page de la même manière. Un site a souvent une structure complexe visuellement \(sidebar, éléments graphiques...\) mais pour certains utilisateurs, il sera perçu de manière linéaire.
 
 {% hint style="info" %}
-**Elles vous remercieront :** les personnes utilisant un lecteur d’écran, une feuille de style personnalisée ou utilisant le site sur mobile.
+**Elles te remercieront :** les personnes utilisant un lecteur d’écran, une feuille de style personnalisée ou utilisant le site sur mobile.
 {% endhint %}
 
 **Le test du site tout nu**
@@ -251,6 +251,6 @@ Les informations visuelles d’une vidéo ne sont pas accessibles aux personnes 
 [Easy Checks – A First Review of Web Accessibility](https://www.w3.org/WAI/test-evaluate/preliminary/)
 
 {% hint style="success" %}
-Envie d'être accompagné ? Faisons cet atelier ensemble avec votre équipe ! Contactez-nous sur \#domaine-accessibilité
+Envie d'être accompagné ? Faisons cet atelier ensemble avec votre équipe ! Contactes-nous sur \#domaine-accessibilité
 {% endhint %}
 
