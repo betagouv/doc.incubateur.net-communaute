@@ -14,7 +14,7 @@ Les mesures d'impact se sont nettement améliorées au cours des derniers mois :
 
 **Qui sont les personnes cibles ?** Les SE qui se posent des questions sur leurs indicateurs d'impact \(fond, forme, pourquoi, comment,...\), et qui auraient besoin d'aide pour avancer vers des métriques utiles et utilisables.
 
-**Quel format ?** Un atelier d'une heure en [mode "co-développement"](https://www.afcodev.com/le-codeveloppement/le-codeveloppement.html) à la demande d'une SE, ouvert aux observateurs qui veulent apprendre sans nécessairement participer. Rendez-vous sur[ \#domaine-mesures-impact ](https://mattermost.incubateur.net/betagouv/channels/domaine-mesures-impact)\(Si vous n'avez pas accès au Mattermost de la communauté, envoyez un email à dinum@beta.gouv.fr\) !
+**Quel format ?** Un atelier d'une heure en [mode "co-développement"](https://www.afcodev.com/le-codeveloppement/le-codeveloppement.html) à la demande d'une SE, ouvert aux observateurs qui veulent apprendre sans nécessairement participer. Rendez-vous sur[ \#domaine-mesures-impact ](https://mattermost.incubateur.net/betagouv/channels/domaine-mesures-impact)\(Si tu n'as pas accès au Mattermost de la communauté, envois un email à dinum@beta.gouv.fr\) !
 
 Dans la logique d'un atelier de co-développement, l'équipe de la SE sera "le client" et les 3 membres de beta qui les aideront, "les consultants".
 
@@ -28,7 +28,7 @@ Dans la logique d'un atelier de co-développement, l'équipe de la SE sera "le c
 
 **Que doivent faire les équipes de SE pour préparer l'atelier ?** Essayer de préparer des hypothèses de mesures d'impact afin qu'elles soient discutées pendant l'atelier.
 
-**Avoir un retour d'expérience ?**  Vous pouvez contacter les équipes ayant bénéficier de cet atelier :
+**Avoir un retour d'expérience ?**  Tu peux contacter les équipes ayant bénéficier de cet atelier :
 
 * Administration +
 * Domifa
@@ -46,7 +46,7 @@ _Le support de présentation :_
 
 {% file src="../../../.gitbook/assets/cafe-design-mesure-dimpact-1-.pdf" caption="Support de présentation" %}
 
-A tour de rôle pendant 7 minutes chacun, Marine, Damien et Léry allons vous raconter notre retour d'expérience avec les mesures d'impact au sein des SE dans lesquels nous avons bossé.
+A tour de rôle pendant 7 minutes chacun, Marine, Damien et Léry allons te raconter notre retour d'expérience avec les mesures d'impact au sein des SE dans lesquels nous avons bossé.
 
 **Pourquoi proposer cet évènement ?**  
 Les mesures d'impact, on en parle, on essaie de les suivre, on essaie de les améliorer mais on n'est pas tous à l'aise avec ce sujet. Elles sont centrales dans la méthode beta.gouv. Enfin, elles sont nos amies . Il arrive même qu'elles aient des effets magiques sur nos sponsors.
