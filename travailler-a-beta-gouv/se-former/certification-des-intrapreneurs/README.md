@@ -86,6 +86,6 @@ Beta.gouv propose d'officialiser cette certification aux administrations des lau
 En informant le DRH et la hiérarchie de l'intra, ces compétences seront valorisées dans le dossier personnel et lors de l'entretien d'évaluation annuel. 
 
 {% hint style="info" %}
-Vous pouvez poser toutes vos question sur [le salon Mattermost dédié](https://mattermost.incubateur.net/betagouv/channels/incubateur-certif-intrapreneur) ou à dinum@beta.gouv.fr .
+Tu peux poser toutes tes questions sur [le salon Mattermost dédié](https://mattermost.incubateur.net/betagouv/channels/incubateur-certif-intrapreneur) ou à dinum@beta.gouv.fr .
 {% endhint %}
 
