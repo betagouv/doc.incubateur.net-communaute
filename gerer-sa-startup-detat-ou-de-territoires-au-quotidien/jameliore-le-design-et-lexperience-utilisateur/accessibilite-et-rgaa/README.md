@@ -2,6 +2,8 @@
 
 **L’accessibilité numérique, c’est la possibilité pour toutes et tous d’utiliser les services numériques, quelle que soit leur façon d’y accéder.**
 
+## Comprendre l'accessibilité
+
 {% page-ref page="introduction.md" %}
 
 {% page-ref page="obligations-legales.md" %}
@@ -19,6 +21,12 @@ Ainsi, la conformité ne s'atteint pas en un jour et ça n'est pas grave : c'est
 {% page-ref page="kit-accessibilite/acceleration.md" %}
 
 {% page-ref page="kit-accessibilite/consolidation.md" %}
+
+## Accompagnement 
+
+{% page-ref page="formation-a-laccessibilite/sensibilisation-a-laccessibilite.md" %}
+
+{% page-ref page="acces.md" %}
 
 
 

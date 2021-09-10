@@ -4,9 +4,7 @@ description: La phase d'accélération est idéale pour outiller la mise en acce
 
 # Kit accessibilité - Acceleration
 
-
-
-### **Mettre en place des tests automatiques**
+## **Mettre en place des tests automatiques**
 
 Les tests automatiques sont indispensables dans une démarche de qualité continue. Ils permettent de :
 
@@ -18,33 +16,33 @@ Voici quelques outils que l'équipe de développement peut mettre en place sur v
 * [axe-core](https://github.com/dequelabs/axe-core) : un moteur de tests d'accessibilité automatique
 * [asqatasun](https://hub.docker.com/r/asqatasun/asqatasun/) : un outil open-source et français d'analyse d'accessibilité et SEO.
 
-### Tester le service manuellement
+## Tester le service manuellement
 
 Les tests manuels permettent d'aller un peu plus loin que les tests automatiques. Certains éléments demandent par exemple une vérification humaine.
 
-#### Tanaguru
+### Tanaguru
 
-Tanaguru propose des [audits automatisés](https://my.tanaguru.com/home/contract/audit-page-set-up.html?cr=943) gratuitement :
+Tanaguru permet de faire des [audits automatisés](https://my.tanaguru.com/home/contract/audit-page-set-up.html?cr=943) gratuitement. Le logiciel propose
 
-* score
-* éléments à corriger \(invalidé\) 
-* éléments à vérifier \(pré-qualifiés\).
+* un score
+* une liste d'éléments à corriger \(invalidé\) 
+* une liste d'éléments à vérifier manuellement \(pré-qualifiés\).
 
-![Score du site solidarite-numerique.com](../../../.gitbook/assets/screenshot_2020-05-26-resultat-de-laudit-pour-la-page-https-solidarite-numerique-fr-.png)
+![Score du site solidarite-numerique.com](../../../../.gitbook/assets/screenshot_2020-05-26-resultat-de-laudit-pour-la-page-https-solidarite-numerique-fr-.png)
 
-#### Wave
+### Wave
 
 {% hint style="warning" %}
 Exemple à venir
 {% endhint %}
 
-### Utiliser des personas pour tester l'accessibilité
+## Utiliser des personas pour tester l'accessibilité
 
 {% hint style="warning" %}
 Section en cours de rédaction
 {% endhint %}
 
-### 👉 Pendant ma période d'accélération
+### Checklist de la phase d'accélération
 
 * [ ] Je mets en place des tests automatiques.
 * [ ] Je teste manuellement régulièrement l'accessibilité de mon service.

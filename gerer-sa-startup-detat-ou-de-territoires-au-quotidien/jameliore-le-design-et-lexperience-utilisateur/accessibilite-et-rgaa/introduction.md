@@ -1,6 +1,10 @@
-# Introduction
+---
+description: Qu'est-ce que c'est ? Qui est concerné ? Pourquoi ?
+---
 
-### L'accessibilité, un droit pour toutes et tous
+# Comprendre l'accessibilité
+
+## L'accessibilité, un droit pour toutes et tous
 
 L’accessibilité numérique est un **droit** pour toutes et tous d’utiliser les services numériques, quelle que soit leur façon d’y accéder.
 
@@ -12,7 +16,7 @@ _« Oui, mais nous, on est pas concernés, nos utilisateurs ne sont pas handicap
 
 **Un service accessible est un service qu'une personne handicapée peut utiliser, sans obstacle.**
 
-### Quelle différence entre accessibilité et design inclusif ?
+## Quelle différence entre accessibilité et design inclusif ?
 
 {% hint style="success" %}
 **L’accessibilité est essentielle pour les personnes handicapées**, mais également **utile** pour tous.

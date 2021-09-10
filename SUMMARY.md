@@ -196,7 +196,7 @@
     * [Mesurer l'ux avec un questionnaire](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/recherche-utilisateur/mesurer-lux-avec-un-questionnaire.md)
     * [Réaliser Un Openlab](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/recherche-utilisateur/realiser-un-openlab.md)
   * [Rendre un service accessible](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/accessibilite-et-rgaa/README.md)
-    * [Introduction](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/accessibilite-et-rgaa/introduction.md)
+    * [Comprendre l'accessibilité](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/accessibilite-et-rgaa/introduction.md)
     * [Vos obligations légales](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/accessibilite-et-rgaa/obligations-legales.md)
     * [Le Kit de l'accessibilité](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/accessibilite-et-rgaa/kit-accessibilite/README.md)
       * [Kit accessibilité - Investigation](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/accessibilite-et-rgaa/kit-accessibilite/investigation.md)

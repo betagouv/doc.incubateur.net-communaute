@@ -2,7 +2,7 @@
 
 En France, plusieurs lois viennent encadrer l'accessibilité numérique rendant obligatoire l'accessibilité à tous les sites publics des services de l'État et des collectivités territoriales.
 
-#### **Ce que ma Startup d'État doit faire**
+## **Ce que ma Startup d'État doit faire**
 
 {% hint style="success" %}
 Les produits des Startup d’État **doivent être accessibles.**
@@ -27,7 +27,15 @@ En cas de manquement à la réglementation, entraînant une discrimination d’a
 Contactez l'équipe Designers Transverses pour une présentation sur les obligations légales à votre équipe ou votre incubateur.
 {% endhint %}
 
-#### **Comment faire ?**
+## **Comment faire ?**
 
 Le Kit Accessibilité est là pour vous accompagner dans cette démarche, petit à petit, tout au long de la vie de votre startup : se sensibiliser à l'accessibilité en phase d'investigation, mettre en place les bases les plus simples en phase de construction jusqu'à passer l'audit de conformité en phase de consolidation !
+
+{% page-ref page="kit-accessibilite/" %}
+
+Le programme Access vous accompagne dans les démarches officielles \(audit RGAA\)
+
+{% page-ref page="acces.md" %}
+
+
 

@@ -6,9 +6,7 @@ description: >-
 
 # Kit accessibilité - Investigation
 
-
-
-### Se sensibiliser à l'accessibilité
+## Se sensibiliser à l'accessibilité
 
 _Avant de se plonger dans le cœur du sujet de l'accessibilité, il est important de comprendre comment ça implique des vrais gens._
 
@@ -34,7 +32,7 @@ Un service accessible est un service qui est utilisable par les personnes utilis
 L'accessibilité est une histoire de conception : **un handicap est causé par une inadéquation entre un service et la personne l'utilisant.** C'est la mauvaise conception d'un service qui le rend excluant.
 {% endhint %}
 
-#### 👉Pour aller plus loin
+### Pour aller plus loin
 
 * [Simuler d'expérience sur le web avec une déficience](https://www.atalan.fr/agissons/fr/) \(daltonisme, malvoyance, cécité, surdité, handicap moteur...\)
 * [Écouter des témoignages de personnes non voyantes](/emissions/place-de-la-toile/les-aveugles-face-au-numerique)
@@ -43,7 +41,7 @@ L'accessibilité est une histoire de conception : **un handicap est causé par u
 * Admirer la langue des signes en chorégraphie avec [Shake it off de Taylor Swift en langue des signes américaine](https://www.youtube.com/watch?v=npEQattWkYc) ou [Formidable de Stromae en LSF](https://www.youtube.com/watch?v=5Qd6S37rasU). 
 * [Découvrir comment un aveugle navigue sur le web ou sur mobile](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/08/30/demonstrations-accessibilite-numerique.html) avec Jamshid Kohandel.
 
-### Comprendre l'impact sur mon service numérique
+## Comprendre l'impact sur mon service numérique
 
 Une situation de handicap peut impacter la manière dont les utilisateurs utilisent le Web. Et pour votre service ? Quelles sont les capacités nécessaires pour l'utiliser. Faut-il :
 
@@ -62,7 +60,7 @@ En identifiant les capacités nécessaires au fonctionnement du service, vous po
 * **identifier les obstacles** qui peuvent mettre certaines personnes  en situation de handicap ;
 * **proposer des alternatives** accessibles.
 
-#### Identifier les obstacles
+### Identifier les obstacles
 
 {% tabs %}
 {% tab title="Troubles moteurs" %}
@@ -97,7 +95,7 @@ Voici des exemples de points bloquants pour des personnes ayant des troubles du 
 {% endtab %}
 {% endtabs %}
 
-### 👉 Pendant ma période d'investigation
+## Checklist d'investigation
 
 * [ ] Je comprends comment des usagers à besoins spécifiques utilisent Internet.
 * [ ] Je comprends les obstacles que pourraient rencontrer mes usagers en utilisant mon service.
