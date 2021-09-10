@@ -1,4 +1,8 @@
-# Applications Mobiles Accessibles
+---
+description: 10 bonnes pratiques pour concevoir des applications mobiles accessibles
+---
+
+# Applications mobiles accessibles
 
 {% embed url="https://docs.google.com/presentation/d/1GEpcQO7hBUC1MaTUaHH7Y6tbJ0JWB8kpnG0\_PBRsCKI/edit\#slide=id.p" caption="" %}
 

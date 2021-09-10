@@ -4,11 +4,13 @@ description: >-
   l'accessibilité de son service numérique
 ---
 
-# 10 Choses Faciles A Verifier Pour Un Site Plus Accessible
+# 10 choses faciles à vérifier pour un site plus accessible
 
 ### Support de présentation
 
-Retrouvez les 10 choses faciles à tester avec des exemples concrets \(des vrais bouts de SE dedans !\) dans le support de présentation
+Retrouvez les 10 choses faciles à tester avec des exemples concrets \(des vrais bouts de SE dedans !\) dans le support de présentation.
+
+{% file src="../../../../.gitbook/assets/accessibilite-easy-checks-1- \(1\).pdf" caption="Support de présentation" %}
 
 ### Les outils
 
@@ -35,9 +37,7 @@ Il existe de nombreux autres outils spécifiques, selon les préférences de cha
 
 **Pour aller plus loin** : [Easy Checks – A First Review of Web Accessibility](https://www.w3.org/WAI/test-evaluate/preliminary/)
 
-### Les tests
-
-#### 📄 Le titre des pages
+### Le titre des pages
 
 **Le titre de page permet de se situer :** c’est la première chose lue par un lecteur d'écran à l’affichage d’une page ou d’un onglet. Les bons titres de pages aident à s'orienter entre plusieurs onglets.
 
@@ -45,7 +45,7 @@ Il existe de nombreux autres outils spécifiques, selon les préférences de cha
 **Elles te remercieront :** les personnes utilisant un lecteur d’écran ou les favoris du navigateur. Et aussi les moteurs de recherche.
 {% endhint %}
 
-**Le test des onglets**
+#### **Le test des onglets**
 
 **Ce qu'il faut faire :** Ouvrir plusieurs pages du site dans des onglets différents.
 
@@ -55,9 +55,11 @@ Il existe de nombreux autres outils spécifiques, selon les préférences de cha
 * ✅ Le titre décrit brièvement le contenu de la page.
 * ✅ Le titre permet de différentier la page des autres pages du site.
 
-👉 Un bon titre commence généralement par les informations importantes et uniques.
+{% hint style="success" %}
+Un bon titre commence généralement par les informations importantes et uniques.
+{% endhint %}
 
-#### 🖼 Les alternatives aux images
+### Les alternatives aux images 
 
 **Les alternatives transmettent l'objectif de l’image :** ils sont lus par les lecteurs d’écrans \(ou ressenti sur une plage braille\). Parfois, ils sont affichés à la place de l'image quand la connexion est mauvaise.
 
@@ -65,7 +67,7 @@ Il existe de nombreux autres outils spécifiques, selon les préférences de cha
 **Elles te remercieront :** les personnes utilisant un lecteur d’écran et celles ayant une connexion restreinte.
 {% endhint %}
 
-**Le test des alternatives**
+#### **Le test des alternatives**
 
 **Ce qu'il faut faire :** afficher les textes alternatifs des images avec un outil dédié
 
@@ -74,11 +76,13 @@ Il existe de nombreux autres outils spécifiques, selon les préférences de cha
 * ✅ L’alternative doit permettre de comprendre le contenu, pas nécessairement décrire l’image.
 * ✅ Les images décoratives qui n’apportent pas de sens n’ont pas d’alternative.
 
-👉 Un bon texte alternatif est ce que tu dirais à quelqu’un qui interagit avec une page web mais ne la voit pas \(par exemple, “recherche” plutôt que “loupe”\).
+{% hint style="success" %}
+Un bon texte alternatif est ce que tu dirais à quelqu’un qui interagit avec une page web mais ne la voit pas \(par exemple, “recherche” plutôt que “loupe”\).
 
-👉 Un texte alternatif approprié n'est pas une science exacte. Certaines personnes préfèrent les descriptions détaillées ; d'autres des descriptions concises.
+Un texte alternatif approprié n'est pas une science exacte. Certaines personnes préfèrent les descriptions détaillées ; d'autres des descriptions concises.
+{% endhint %}
 
-#### 📰 La hiérarchie de l’information
+### La hiérarchie de l’information
 
 **La structure de la page est balisée** : certains éléments de textes sont important dans la page : ils sont mis en avant visuellement. Ils doivent l’être aussi dans le code via les balises dédiées.
 
@@ -86,7 +90,7 @@ Il existe de nombreux autres outils spécifiques, selon les préférences de cha
 **Elles te remercieront :** les personnes qui naviguent au clavier, celles qui utilisent un lecteur d’écran, celles qui affichent le site sans style.
 {% endhint %}
 
-**Le test du plan**
+#### **Le test du plan**
 
 **Ce qu'il faut faire :** lire le plan de la page avec un outil dédié.
 
@@ -96,7 +100,7 @@ Il existe de nombreux autres outils spécifiques, selon les préférences de cha
 * ✅ Les textes mis en valeur visuellement sont bien marqués comme des titres.
 * ✅ La hiérarchie des titres a du sens.
 
-#### 🌓 Les contraste des couleurs
+### Les contraste des couleurs 
 
 **Les couleurs du site n’entravent pas la lecture :** certaines personnes ont besoin d'un contraste suffisant pour lire \(trouble de vision lié à la vieillesse par exemple\). D’autres ont besoin d’une faible luminance \(certains types de dyslexie\) ou… d’une luminance élevée.
 
@@ -106,7 +110,7 @@ Chaque personne a des besoins différents : le site doit permettre à l’utilis
 **Elles te remercieront :** les personnes souffrant de troubles de lectures, les personnes avec des troubles de visions, les personnes âgées ayant perdu la sensibilité au contraste.
 {% endhint %}
 
-**Le test des couleurs**
+#### **Le test des couleurs**
 
 **Ce qu'il faut faire** : vérifier les contrastes de la page avec un outil dédié.
 
@@ -115,7 +119,7 @@ Chaque personne a des besoins différents : le site doit permettre à l’utilis
 * ✅ Le contraste minimum par défaut est respecté pour les textes de taille normale.
 * ✅ Les utilisateurs peuvent surcharger la couleur de texte ou du fond.
 
-#### ✨ La personnalisation du texte
+### La personnalisation du texte
 
 **Le texte est adaptable :** un texte peut être adapté de multiples façons : couleur, taille, police, interlignes… via les préférences du navigateur.
 
@@ -125,7 +129,7 @@ Si le site est mal conçu, il devient inutilisable, ou le contenu illisible.
 **Elles te remercieront :** les personnes qui ont besoin d'agrandir le contenu pour pouvoir le lire ; celles qui ont besoin d’interlignes élevées.
 {% endhint %}
 
-**Le test du zoom**
+#### **Le test du zoom**
 
 **Ce qu'il faut faire :** agrandir le texte à 200 % et naviguer sur le site.
 
@@ -137,7 +141,7 @@ Si le site est mal conçu, il devient inutilisable, ou le contenu illisible.
 * ✅ Tous les éléments des formulaires sont visibles et utilisables.
 * ✅ Le défilement horizontal n'est pas nécessaire pour lire le contenu.
 
-#### 🎹 La navigation au clavier
+### La navigation au clavier
 
 **L'interface est utilisable sans souris :** certaines personnes utilisent le clavier ou la saisie vocale \(qui utilise des commandes clavier\).
 
@@ -147,7 +151,7 @@ L’ensemble du contenu et des fonctionnalités doit donc être accessible via l
 **Elles te remercieront :** les personnes qui n’utilisent pas la souris \(aveugles, malvoyants, personnes souffrant de troubles moteurs…\)
 {% endhint %}
 
-**Le test de la souris perdue**
+#### **Le test de la souris perdue**
 
 **Ce qu'il faut faire :** utiliser le site sans manipuler la souris.
 
@@ -158,7 +162,7 @@ Ce qu'il faut vérifier
 * ✅ L’accès à tous les éléments \(liens, champs de formulaire, boutons et commandes du lecteur multimédia…\) est possible.
 * ✅ Le focus ne reste pas coincé \(on peut sortir d’une vidéo par exemple\).
 
-#### 📄 Les formulaires
+### Les formulaires
 
 **Les formulaires sont balisés correctement :** un formulaire est composé de champs, qui doivent être correctement balisés pour pouvoir être rempli au clavier, par commande vocale ou via un lecteur d'écran.
 
@@ -170,7 +174,7 @@ C’est l’un des tests le plus compliqué mais aussi celui qui a le plus d’i
 **Elles te remercieront :** les personnes qui n’utilisent pas la souris, qui ont des problèmes de motricité, ou des troubles cognitifs ou d’apprentissage.
 {% endhint %}
 
-**Le test des formulaires**
+#### **Le test des formulaires**
 
 **Ce qu'il faut faire** : identifier tous les formulaires du site \(même les petits, comme un formulaire de recherche ou d'inscription à une newsletter\).
 
@@ -183,7 +187,7 @@ C’est l’un des tests le plus compliqué mais aussi celui qui a le plus d’i
 * ✅ Les formats spécifiques \(par exemple les dates\) sont explicitées dans le label.
 * ✅ Les erreurs sont explicites \(quel champ est concerné, comment corriger\).
 
-#### ▶️ Les contenus animés
+### Les contenus animés
 
 **Les animations ne perturbent pas la lecture :** les utilisateurs doivent pouvoir contrôler le contenu en mouvement :
 
@@ -196,7 +200,7 @@ Plus spécifiquement, certains contenus clignotants peuvent déclencher une cris
 **Elles te remercieront :** les personnes troubles de l'attention, les personnes photosensibles ou épileptiques.
 {% endhint %}
 
-**Le test des animations**
+#### **Le test des animations**
 
 **Ce qu'il faut faire :** identifier les contenus qui bougent ou clignotent.
 
@@ -208,7 +212,7 @@ Plus spécifiquement, certains contenus clignotants peuvent déclencher une cris
 * ✅ Si des informations se mettent à jour en temps réel, l’utilisateur peut les mettre en pause ou contrôler la fréquence de mise à jour.
 * ✅ Aucun contenu ne clignote ou ne se met à clignoter plus de trois fois en une seconde.
 
-#### 🎬 Les alternatives aux médias
+### Les alternatives aux médias
 
 **Les médias ont des alternatives :** les podcasts ou formats audios ne sont pas accessibles aux personnes sourdes ou malentendantes, sauf si fournies dans un format alternatif \(transcription par ex\).
 
@@ -218,7 +222,7 @@ Les informations visuelles d’une vidéo ne sont pas accessibles aux personnes 
 **Elles te remercieront :** les personnes malentendantes, malvoyantes, sourdes ou aveugles.
 {% endhint %}
 
-**Le test des médias**
+#### **Le test des médias**
 
 **Ce qu'il faut faire** : identifier les médias \(vidéos et audio\) du service.
 
@@ -229,7 +233,7 @@ Les informations visuelles d’une vidéo ne sont pas accessibles aux personnes 
 * ✅ Les informations audios sont accessible au format texte \(sous-titres, transcript\).
 * ✅ Les informations visuelles sont accessibles au format texte ou au format audio \(audio description ou transcript\).
 
-#### 📃 La structure des pages
+### La structure des pages
 
 **La page est linéaire** : tout le monde ne « voit » pas une page de la même manière. Un site a souvent une structure complexe visuellement \(sidebar, éléments graphiques...\) mais pour certains utilisateurs, il sera perçu de manière linéaire.
 
@@ -237,7 +241,7 @@ Les informations visuelles d’une vidéo ne sont pas accessibles aux personnes 
 **Elles te remercieront :** les personnes utilisant un lecteur d’écran, une feuille de style personnalisée ou utilisant le site sur mobile.
 {% endhint %}
 
-**Le test du site tout nu**
+#### **Le test du site tout nu**
 
 **Ce qu'il faut faire :** désactiver les images et les styles.
 
@@ -251,6 +255,6 @@ Les informations visuelles d’une vidéo ne sont pas accessibles aux personnes 
 [Easy Checks – A First Review of Web Accessibility](https://www.w3.org/WAI/test-evaluate/preliminary/)
 
 {% hint style="success" %}
-Envie d'être accompagné ? Faisons cet atelier ensemble avec votre équipe ! Contactes-nous sur \#domaine-accessibilité
+Envie d'être accompagné ? Faisons cet atelier ensemble avec votre équipe ! Contactez-nous sur \#domaine-accessibilité
 {% endhint %}
 
