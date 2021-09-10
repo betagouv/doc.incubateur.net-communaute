@@ -1,6 +1,6 @@
 # Comment inviter un nouveau membre de la communauté sur Mattermost
 
-Auparavant, toute personne avec une adresse `@beta.gouv.fr` pouvait s'inscrire librement, par elle-même, sur Slack. Ce n'est plus le cas avec Mattermost : un membre de la communauté doit désormais envoyer une invitation aux nouvelles personnes arrivant.
+Un membre de la communauté doit désormais envoyer une invitation aux nouvelles personnes arrivant.
 
 Pour faire ça par vous-même :
 

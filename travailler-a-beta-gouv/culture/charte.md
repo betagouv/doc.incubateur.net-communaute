@@ -33,7 +33,7 @@ description: >-
 * de soupirer
 * de ne pas consulter ses mails sur son temps libre
 * de ne pas consulter ses mails tout le temps au boulot
-* de demander sur Slack
+* de demander sur Mattermost
 * de demander en personne aux collègues
 * de s’isoler pour se concentrer
 * de donner son avis sur le travail des autres

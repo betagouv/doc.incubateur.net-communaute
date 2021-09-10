@@ -46,7 +46,7 @@ Cette certification est entièrement financée par beta.gouv.fr pour tous les in
 
 ### 1- Inscription
 
-Tous les 2 ou 3 mois, nous lançons une nouvelle session de certification. Le lien d'inscription est renseigné sur le Slack de Beta ou dans l'infolettre interne de beta.
+Tous les 2 ou 3 mois, nous lançons une nouvelle session de certification. Le lien d'inscription est renseigné sur le Mattermost de Beta ou dans l'infolettre interne de beta.
 
 ### 2- Complétion du dossier
 

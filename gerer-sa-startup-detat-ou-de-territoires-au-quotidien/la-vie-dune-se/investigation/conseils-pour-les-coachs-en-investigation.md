@@ -16,14 +16,14 @@ Cette transparence s'applique dès la phase d'investigation.
 
 ## Qu'est-ce qu'on attend de moi la première semaine ? <a id="quest-ce-quon-attend-de-moi-la-premiere-semaine"></a>
 
-* **créer une fiche membre pour toi \(si ce n'est pas déjà fait\) et l'intra**. Tu as juste à renseigner ce [court formulaire \(version beta\)](https://secretariat.incubateur.net/onboarding). Un membre de beta pourra alors te créer un email @beta.gouv.fr puis te donner accès au Slack de la communauté.
+* **créer une fiche membre pour toi \(si ce n'est pas déjà fait\) et l'intra**. Tu as juste à renseigner ce [court formulaire \(version beta\)](https://secretariat.incubateur.net/onboarding). Un membre de beta pourra alors te créer un email @beta.gouv.fr puis te donner accès au Mattermost de la communauté.
 * **créer un canal de discussion** en ligne spécifiquement sur ton investigation en invitant l'intra
-* la norme c'est d'avoir un canal public sur le Slack de beta :
+* la norme c'est d'avoir un canal public sur le Mattermost de beta :
   * Avantage : Vous pourrez facilement demander de l'aide ou de l'expertise à un membre de la communauté.
   * Inconvénient : Il y a beaucoup de "bruits" sur le Mattermost de beta ce qui peut être un frein pour certains intra.
 * Tu pourras utiliser d'autres canaux de discussion comme Tchap, Resana ou un autre Slack :
-  * Avantage : Il y aura moins de "bruits" que sur le Slack de Beta.
-  * Inconvénient : L'accès à la communauté et aux ressources seront plus difficiles. Il conviendra que le coach à minima soit présent sur le Slack de Beta pour faciliter les échanges avec les autres coachs, les co-animateurs et la communauté?
+  * Avantage : Il y aura moins de "bruits" que sur le Mattermost de Beta.
+  * Inconvénient : L'accès à la communauté et aux ressources seront plus difficiles. Il conviendra que le coach à minima soit présent sur le Mattermost de Beta pour faciliter les échanges avec les autres coachs, les co-animateurs et la communauté?
 * **Solliciter un mentorat** d'un membre de beta ayant déjà réalisé une investigation \(1h par semaine d'échange pour aide\) sur le canal Mattermost \#incubateur-coach
 
 **Pourquoi un canal de discussion public ?**

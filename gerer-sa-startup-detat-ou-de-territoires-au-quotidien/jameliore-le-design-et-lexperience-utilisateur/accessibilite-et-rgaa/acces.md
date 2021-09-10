@@ -53,7 +53,7 @@ Ce programme peut être entièrement financé par beta.gouv.fr pour les Startups
 
 ### Inscription
 
-Tous les 2 ou 3 mois, nous lançons une nouvelle promotion Access. Le lien d'inscription est renseigné sur le Slack de Beta ou dans l'infolettre interne de beta.
+Tous les 2 ou 3 mois, nous lançons une nouvelle promotion Access. Le lien d'inscription est renseigné sur le Mattersmot de Beta ou dans l'infolettre interne de beta.
 
 {% embed url="https://airtable.com/shrcbylpZ2GCOsK8q" %}
 
