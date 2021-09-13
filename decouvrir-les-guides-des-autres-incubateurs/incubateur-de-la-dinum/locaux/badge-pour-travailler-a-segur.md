@@ -63,8 +63,8 @@ description: Tu veux travailler dans les bureaux de Ségur ? Demande ton badge !
       </td>
       <td style="text-align:left">
         <p>Bonjour,</p>
-        <p>Je sollicite un badge d&apos;acc&#xE8;s &#xE0; Segur dans les locaux 5520
-          et 5513 ainsi qu&apos;&#xE0; la cantine.
+        <p>Je sollicite un badge d&apos;acc&#xE8;s &#xE0; Segur dans les locaux <b>5.413</b>, <b>4.416</b>, <b>5.420</b>, <b>5.424</b>, <b>5.428</b> ainsi
+          qu&apos;&#xE0; la <b>cantine</b>.
           <br />Je souhaite y travailler X fois par semaine.</p>
         <p>J&apos;ai rejoins r&#xE9;cemment beta.gouv au sein de la DINUM.
           <br />Florian Delezenne, responsable de beta.gouv, est en copie de cet email.
