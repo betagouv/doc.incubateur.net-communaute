@@ -23,7 +23,7 @@ description: >-
 
 Le groupement est constitué de six Sociétés Coopératives et Participatives \(SCOP\) regroupant des experts en développement de produit et en accompagnement agile, et deux coopératives d'entrepreneurs \(Coopératives d’Activités et d’Emploi \(CAE\)\).
 
-* [/ut7](https://ut7.fr/) : développement logiciel agile, déjà titulaire du précédent marché
+* [/ut7](https://ut7.fr/) \(mandataire\) : développement logiciel agile, déjà titulaire du précédent marché
 * [scopyleft](http://scopyleft.fr/) : développement logiciel agile, déjà titulaire du précédent marché
 * [PathTech](https://pathtech.fr/) : agence de Conseil et de Développement Informatique pour la Planète et l’Humain
 * [Fairness](https://fairness.coop/) : coopérative de conception responsable de services numériques prenant en compte l'impact environnemental et sociétal
@@ -34,7 +34,7 @@ Le groupement est constitué de six Sociétés Coopératives et Participative
 
 #### 2e titulaire : groupement conjoint OCTO / MALT
 
-* [Octo Technology](https://www.octo.com/) : cabinet de conseil et de réalisation IT, déjà titulaire du précédent marché
+* [Octo Technology](https://www.octo.com/) \(mandataire\) : cabinet de conseil et de réalisation IT, déjà titulaire du précédent marché
 * [Malt](https://www.malt.fr/) : plateforme de freelances 
 
 #### 3e titulaire : Benext
@@ -43,7 +43,7 @@ Le groupement est constitué de six Sociétés Coopératives et Participative
 
 #### 4e titulaire : groupement conjoint INETUM / LBC
 
-* [Inetum](https://gfi.world/fr-fr/) : entreprise de services du numérique \(ESN\) française
+* [Inetum](https://gfi.world/fr-fr/) \(mandataire\) : entreprise de services du numérique \(ESN\) française
 * [Little Big Connection](https://www.littlebigconnection.com/fr/) : plateforme de freelances
 
 ## Foire aux questions
