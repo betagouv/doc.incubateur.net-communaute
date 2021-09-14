@@ -1,10 +1,10 @@
 # Je suis une administration bénéficiaire du marché interministériel
 
-**Je souhaite demander un devis. Quelles sont les prérequis ?**
+## **Je souhaite demander un devis. Quelles sont les prérequis ?**
 
 Pour demander un devis à votre attributaire, votre besoin doit impérativement et sans exception concerner une Startup d'Etat ou de Territoires.
 
-**Comment savoir si mon besoin concerne bien une Startup d'Etat ou de Territoires ?**
+## **Comment savoir si mon besoin concerne bien une Startup d'Etat ou de Territoires ?**
 
 Une Startup d'Etat :
 
@@ -15,25 +15,25 @@ Une Startup d'Etat :
 
 ### A. Mon besoin concerne une Startup d'Etat
 
-**Comment rattacher une Startup d'Etat à un incubateur ?**
+#### **Comment rattacher une Startup d'Etat à un incubateur ?**
 
 Chaque Startup d'Etat débute par une [phase d'investigation](https://beta.gouv.fr/approche/investigation) accompagnée par un incubateur du réseau beta.gouv. C'est à la suite de cette phase, qu'une Startup d'Etat peut officiellement être lancée.
 
-**Quelles sont les informations à fournir à l'attributaire à chaque nouveau besoin ?**
+#### **Quelles sont les informations à fournir à l'attributaire à chaque nouveau besoin ?**
 
 Pour les besoins faisant suite à une phase d'investigation validant le passage en phase de construction, vous devez fournir une [fiche de fin d'invesgation](https://beta.gouv.fr/content/docs/grille_lancement.pdf). Pour les autres besoins en phase de construction, d'accélération ou de transfert, vous devez systématiquement fournir le lien vers la fiche produit disponible sur le site de beta.gouv.
 
-### Mon besoin ne concerne pas une Startup d'Etat
+### B. Mon besoin ne concerne pas une Startup d'Etat
 
-**Mon besoin concerne un projet numérique autre qu'une Startup d'Etat. Est-ce que je peux tout de même activer ce marché ?**
+#### **Mon besoin concerne un projet numérique autre qu'une Startup d'Etat. Est-ce que je peux tout de même activer ce marché ?**
 
 Si votre besoin ne répond pas aux pré-requis évoqués plus haut, il n'est pas possible d'utiliser ce marché. Ce marché vise explicitement les Startups d'Etat et de Territoires. Le code de la commande publique n'autorise pas à utiliser un marché public pour une autre destination que celle indiquée dans le marché. L'usage de ce marché public ne fait donc pas exception.
 
-**J'ai une urgence ou je suis bloqué et ce marché me rendrait service. Est-il possible de faire une exception ?**
+#### **J'ai une urgence ou je suis bloqué et ce marché me rendrait service. Est-il possible de faire une exception ?**
 
 Le code de la commande publique n'autorise pas à utiliser un marché public pour une autre destination que celle indiquée dans le marché. L'usage de ce marché public ne fait donc pas exception. Ce marché de prestation de développement vise exclusivement les Startups d'Etat et de Territoires du réseau beta.gouv. Il ne peut y avoir d'exceptions.
 
-**Est-il possible de transformer mon projet numérique en Startup d'Etat ?**
+#### **Est-il possible de transformer mon projet numérique en Startup d'Etat ?**
 
 Tout projet qui souhaite bénéficier des prestations de ce marché et qui n’est pas déjà une Startup d'État ou de Territoire doit préalablement passer par une phase d’investigation en coordination avec l’équipe beta.gouv.fr de la DINUM, afin de vérifier que les conditions sont réunies pour être éligible au dispositif Startups d'État. L’équipe beta.gouv donnera au terme de la phase d’investigation son accord pour intégrer le projet au programme par la publication d’une fiche sur beta.gouv.fr/startups Dit autrement :
 

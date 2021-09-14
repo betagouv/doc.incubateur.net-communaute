@@ -170,6 +170,7 @@
 * [💶 S'occuper de la gestion administrative et financière](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/README.md)
   * [Marchés publics beta.gouv.fr](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/marches-publics-beta.gouv.fr/README.md)
     * [Marché interministériel beta](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/marches-publics-beta.gouv.fr/marche-interministeriel-beta/README.md)
+      * [Je travaille dans une Startup d'Etat](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/marches-publics-beta.gouv.fr/marche-interministeriel-beta/je-travaille-dans-une-startup-detat.md)
       * [Je suis une administration bénéficiaire du marché interministériel](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/marches-publics-beta.gouv.fr/marche-interministeriel-beta/je-suis-une-administration-beneficiaire-du-marche-interministeriel.md)
       * [Je suis un des attributaires du marché interministériel](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/marches-publics-beta.gouv.fr/marche-interministeriel-beta/je-suis-un-des-attributaires-du-marche-interministeriel.md)
     * [Marché "coaching"](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/marches-publics-beta.gouv.fr/marche-coaching.md)

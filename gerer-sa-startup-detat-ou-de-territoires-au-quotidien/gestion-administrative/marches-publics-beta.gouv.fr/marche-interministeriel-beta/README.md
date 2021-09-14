@@ -17,11 +17,38 @@ description: >-
 * Les ministères à part les ministères sociaux qui disposent de leur propre marché 
 * Certains établissements publics : IGN - ADEME - Agence bio - ANCT - BRGM - INCA - ANLCI - INRAE
 
-## Qui sont les entreprises titulaires de ce marché ?
+## Quelles sont les entreprises titulaires de ce marché ?
 
-Cette information sera publiée début septembre après la notification du marché
+#### 1er titulaire : groupement solidaire de coopératives
+
+Le groupement est constitué de six Sociétés Coopératives et Participatives \(SCOP\) regroupant des experts en développement de produit et en accompagnement agile, et deux coopératives d'entrepreneurs \(Coopératives d’Activités et d’Emploi \(CAE\)\).
+
+* [/ut7](https://ut7.fr/) : développement logiciel agile, déjà titulaire du précédent marché
+* [scopyleft](http://scopyleft.fr/) : développement logiciel agile, déjà titulaire du précédent marché
+* [PathTech](https://pathtech.fr/) : agence de Conseil et de Développement Informatique pour la Planète et l’Humain
+* [Fairness](https://fairness.coop/) : coopérative de conception responsable de services numériques prenant en compte l'impact environnemental et sociétal
+* [Scopopop](https://scopopop.com/) : société coopérative ouvrière de production de services numériques
+* [TelesCoop](https://www.telescoop.fr/) : agence de développement applicatif durable
+* [Omnicité](https://omnicite.fr/) : coopérative d'entrepreneur·e·s
+* [Solstice](https://solstice.coop/) : coopérative d'entrepreneur·e·s
+
+#### 2e titulaire : groupement conjoint OCTO / MALT
+
+* [Octo Technology](https://www.octo.com/) : cabinet de conseil et de réalisation IT, déjà titulaire du précédent marché
+* [Malt](https://www.malt.fr/) : plateforme de freelances 
+
+#### 3e titulaire : Benext
+
+* [Benext](https://www.benextcompany.com/) : Full Stack Product Company
+
+#### 4e titulaire : groupement conjoint INETUM / LBC
+
+* [Inetum](https://gfi.world/fr-fr/) : entreprise de services du numérique \(ESN\) française
+* [Little Big Connection](https://www.littlebigconnection.com/fr/) : plateforme de freelances
 
 ## Foire aux questions
+
+{% page-ref page="je-travaille-dans-une-startup-detat.md" %}
 
 {% page-ref page="je-suis-une-administration-beneficiaire-du-marche-interministeriel.md" %}
 
