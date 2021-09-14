@@ -57,7 +57,7 @@ _Notes : Junior : &lt; 5 années d'expérience, expérimenté.e &gt; 5 ans_
 
 #### Quel est le rôle du responsable de budget ?
 
-* Le responsable de budget est chargé de la planification, l'expression des besoins auprès de l'attributaire du marché et des contacts DINUM. Il est le garant de l'équilibre budgétaire de la Startup d'Etat, c'est à dire du rapport entre son coût et l'impact mesuré du service.
+* Le responsable de budget est chargé de la planification, l'expression des besoins auprès du titulaire du marché et des contacts DINUM. Il est le garant de l'équilibre budgétaire de la Startup d'Etat, c'est à dire du rapport entre son coût et l'impact mesuré du service.
 * Par défaut, le responsable de budget est **l'intrapreneur.e, sous contrat avec l'administration**.
 * Si l'administration ne délègue pas d'intrapreneur.e, explorer avec [l'équipe d'animation de beta.gouv.fr ](../../../actions-transverses/equipe-danimation.md)des options alternatives hors prestation.
 
@@ -92,6 +92,6 @@ NB : Le cas échéant, pour des prestataires à temps plein, des solutions peuve
 
 * _Frais récurrents et anticipables_ : ils sont généralement inclus dans le taux journalier et négociables en amont. Par exemple, un·e chargé·e de déploiement habitant à Nantes et qui devra se déplacer tous les mois à Paris peut prévoir cette dépense au moment de la négociation de son taux journalier.
 * _Frais exceptionnels ou liés au déploiement du produit_ : ils peuvent être refacturés ponctuellement. Dans ce cas, l'intrapreneur·e prévoit généralement une ligne de budget "déplacements" en lien avec les objectifs de déploiement et partagée à l'équipe. 
-  * Voir les conditions prévues par l'attributaire pour la facturation des frais. 
+  * Voir les conditions prévues par le titulaire pour la facturation des frais. 
 * Quelle que soit l'option retenue, l'important est de se poser la question au moment de la contractualisation et de la rendre explicite. 
 

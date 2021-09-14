@@ -172,7 +172,7 @@
     * [Marché interministériel beta](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/marches-publics-beta.gouv.fr/marche-interministeriel-beta/README.md)
       * [Je travaille dans une Startup d'Etat](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/marches-publics-beta.gouv.fr/marche-interministeriel-beta/je-travaille-dans-une-startup-detat.md)
       * [Je suis une administration bénéficiaire du marché interministériel](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/marches-publics-beta.gouv.fr/marche-interministeriel-beta/je-suis-une-administration-beneficiaire-du-marche-interministeriel.md)
-      * [Je suis un des attributaires du marché interministériel](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/marches-publics-beta.gouv.fr/marche-interministeriel-beta/je-suis-un-des-attributaires-du-marche-interministeriel.md)
+      * [Je suis un des titulaires du marché interministériel](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/marches-publics-beta.gouv.fr/marche-interministeriel-beta/je-suis-un-des-attributaires-du-marche-interministeriel.md)
     * [Marché "coaching"](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/marches-publics-beta.gouv.fr/marche-coaching.md)
     * [Archives : ancien marché Startups d'Etat \(2018 - 2021\)](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/marches-publics-beta.gouv.fr/tourniquet-developpement/README.md)
       * [Codeurs en liberté](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/marches-publics-beta.gouv.fr/tourniquet-developpement/codeurs-en-liberte.md)

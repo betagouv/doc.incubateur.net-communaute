@@ -2,7 +2,7 @@
 
 ## **Je souhaite demander un devis. Quelles sont les prérequis ?**
 
-Pour demander un devis à votre attributaire, votre besoin doit impérativement et sans exception concerner une Startup d'Etat ou de Territoires.
+Pour demander un devis à un titulaire, votre besoin doit impérativement et sans exception concerner une Startup d'Etat ou de Territoires.
 
 ## **Comment savoir si mon besoin concerne bien une Startup d'Etat ou de Territoires ?**
 
@@ -19,7 +19,7 @@ Une Startup d'Etat :
 
 Chaque Startup d'Etat débute par une [phase d'investigation](https://beta.gouv.fr/approche/investigation) accompagnée par un incubateur du réseau beta.gouv. C'est à la suite de cette phase, qu'une Startup d'Etat peut officiellement être lancée.
 
-#### **Quelles sont les informations à fournir à l'attributaire à chaque nouveau besoin ?**
+#### **Quelles sont les informations à fournir au titulaire à chaque nouveau besoin ?**
 
 Pour les besoins faisant suite à une phase d'investigation validant le passage en phase de construction, vous devez fournir une [fiche de fin d'invesgation](https://beta.gouv.fr/content/docs/grille_lancement.pdf). Pour les autres besoins en phase de construction, d'accélération ou de transfert, vous devez systématiquement fournir le lien vers la fiche produit disponible sur le site de beta.gouv.
 

@@ -1,4 +1,4 @@
-# Je suis un des attributaires du marché interministériel
+# Je suis un des titulaires du marché interministériel
 
 Documentation à venir
 

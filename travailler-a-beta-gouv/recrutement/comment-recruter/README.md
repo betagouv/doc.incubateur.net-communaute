@@ -8,7 +8,7 @@
 
 {% page-ref page="publier-une-offre-dembauche.md" %}
 
-* **Les entreprises attributaires des** [**marchés publics beta.gouv.fr**](../../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/marches-publics-beta.gouv.fr/) peuvent répondre à vos besoins de recrutement \(hors recrutement d'agents publics\). A chaque fois que vous avez un projet de recrutement, il est important de tenir l'entreprises de prestation qui est affectée à votre Startup d'État au plus tôt pour qu'elle puisse s'organiser en interne avec ses [salariés](../les-differents-statuts/salaries-des-societes-de-prestation.md). Si l'entreprise ne dispose pas de la compétence, alors il est possible de recruter des personnes au statut [d'indépéndant](../les-differents-statuts/independants-freelances/)
+* **Les entreprises titulaire des** [**marchés publics beta.gouv.fr**](../../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/marches-publics-beta.gouv.fr/) peuvent répondre à vos besoins de recrutement \(hors recrutement d'agents publics\). A chaque fois que vous avez un projet de recrutement, il est important de tenir l'entreprises de prestation qui est affectée à votre Startup d'État au plus tôt pour qu'elle puisse s'organiser en interne avec ses [salariés](../les-differents-statuts/salaries-des-societes-de-prestation.md). Si l'entreprise ne dispose pas de la compétence, alors il est possible de recruter des personnes au statut [d'indépéndant](../les-differents-statuts/independants-freelances/)
 * **Twitter et LinkedIn** sont d'excellents relais pour diffuser l'annonce.
 
 {% page-ref page="annoncer-un-recrutement-sur-le-compte-linkedin-de-beta.gouv.md" %}
