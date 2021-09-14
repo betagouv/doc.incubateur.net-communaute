@@ -14,7 +14,7 @@ Participer à des actions transverses pour la communauté, c’est également pa
 
 Aujourd’hui, le process n’est pas très clair bien qu’il en existe un qui relève plus de la coutume que d’un document précis.  
 Ce n’est donc pas évident de s’y retrouver. On en est désolé.  
-Si tu souhaites proposer un processus claire et lisible, tu es légitime pour en proposer un ou plusieurs.  
+Si tu souhaites proposer un processus clair et lisible, tu es légitime pour en proposer un ou plusieurs.  
 Pour en savoir plus, le salon de discussion de cette équipe transverse est [\#incubateur-engagement](https://startups-detat.slack.com/archives/CUDHRRC1Z).
 
 #### 3. Comment faire pour s’informer sur les actions transverses existantes ? <a id="3-Comment-faire-pour-s&#x2019;informer-sur-les-actions-transverses-existantes-"></a>
