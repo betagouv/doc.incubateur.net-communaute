@@ -44,28 +44,28 @@ En ayant un compte Github, tu gagneras en autonomie durant ta mission dans une �
 
 ## 2. Prendre connaissance des règles d'hygiène informatique et de sécurité \(politique [BYOD](https://fr.wikipedia.org/wiki/Bring_your_own_device)\) 
 
-Chez beta.gouv.fr, que tu sois [salarié d'une société de prestation](../recrutement/les-differents-statuts/salaries-des-societes-de-prestation.md) ou au [statut d'indépendant](../recrutement/les-differents-statuts/independants-freelances/), on te demandera de venir avec ton propre équipement, que ce soit ton ordinateur ou ton téléphone. Tu as le droit de venir avec ton propre équipement quand tu es [agent public](../recrutement/les-differents-statuts/fonctionnaires-et-contractuels-de-la-fonction-publique.md) également. Nous acceptons tous les OS tant qu'il sont à jour.
+Chez beta.gouv.fr, que tu sois [salarié d'une société de prestation](../recrutement/les-differents-statuts/salaries-des-societes-de-prestation.md) ou au [statut d'indépendant](../recrutement/les-differents-statuts/independants-freelances/), on te demandera de venir avec ton propre équipement, que ce soit ton ordinateur ou ton téléphone. Tu as le droit de venir avec ton propre équipement quand tu es [agent public](../recrutement/les-differents-statuts/fonctionnaires-et-contractuels-de-la-fonction-publique.md) également. Nous acceptons tous les OS tant qu'ils sont à jour.
 
-Cela viens avec quelques **règles d'hygiène informatique** pour assurer un niveau convenable de sécurité. Les règles suivantes sont **obligatoires** lorsque tu interviens sur une mission pour beta.gouv.fr. 
+Cela vient avec quelques **règles d'hygiène informatique** pour assurer un niveau convenable de sécurité. Les règles suivantes sont **obligatoires** lorsque tu interviens sur une mission pour beta.gouv.fr. 
 
 1. Utilisez un **gestionnaire de mots de passe** pour stocker vos mots de passe ; 
 
-   Sur Mac, l'application "Trousseau d'accès" est déjà installée. Il existe de nombreuses solutions gratuite ou payante sur le marché.
+   Sur Mac, l'application "Trousseau d'accès" est déjà installée. Il existe de nombreuses solutions gratuites ou payantes sur le marché.
 
 2. Choisissez des **mots de passe longs** \(20 caractères minimum\), **complexes** et **uniques** par service ;
 3. Activez la [**double authentification**](https://fr.wikipedia.org/wiki/Double_authentification) dès que possible \(mot de passe + SMS ou mot de passe + Code généré par application TOTP\)
 4. **Chiffrez** votre disque dur
 5. **Verrouillez votre session** quand vous vous éloignez de votre machine
-6. **Gardez votre OS à jour**, **faites les mises à jours** dès que possible
+6. **Gardez votre OS à jour**, **faites les mises à jour** dès que possible
 7. **N'envoyez pas de login et de mot de passe par le même canal**
 
    Par exemple, envoyez le login via Mattermost et le mot de passe par messagerie chiffrée \(Tchap/Signal ...\).
 
    Encore mieux : envoyez le début de mot de passe par Signal, et la fin du mot de passe par Tchap.
 
-   Encore encore mieux : supprimez tout trace du mot de passe une fois dans toutes les messagerie.
+   Encore encore mieux : supprimez toute trace du mot de passe une fois dans toutes les messageries.
 
-8. Si quelqu'un vous demande un mot de passe, **vérifiez que c'est en effet la bonne personne qui a fait la demande**. Il est possible de voler les accès Mattermost d'une personne et se faire passer pour elle sur le réseau. Il est possible qu'une personne se fasse voler son numéro de téléphone. Pour vous assurez que c'est la bonne personne, vous pouvez demander à déclencher une visio.
+8. Si quelqu'un vous demande un mot de passe, **vérifiez que c'est en effet la bonne personne qui a fait la demande**. Il est possible de voler les accès Mattermost d'une personne et se faire passer pour elle sur le réseau. Il est possible qu'une personne se fasse voler son numéro de téléphone. Pour vous assurer que c'est la bonne personne, vous pouvez demander à déclencher une visio.
 
 Ces règles s'appliquent à tous les membres de la communauté, quelque soit votre accès à des informations sensibles.
 
@@ -81,7 +81,7 @@ Tu peux aussi parcourir le support de cet atelier d'embarquement :
 
 ## 4 - Et ensuite ? 
 
-puis lire nos recommandations pour tes premières semaines et tes premiers mois de mission.
+Tu peux lire nos recommandations pour tes premières semaines et tes premiers mois de mission.
 
 {% page-ref page="to-do-darrivee.md" %}
 

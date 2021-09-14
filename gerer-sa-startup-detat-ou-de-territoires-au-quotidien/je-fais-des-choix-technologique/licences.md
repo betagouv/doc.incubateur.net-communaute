@@ -2,7 +2,7 @@
 
 Conformément à la loi pour une République Numérique, notre code est publié sous une des [licences libres homologuées](https://www.data.gouv.fr/fr/licences).
 
-Lorsque des restrictions à la réutilisations sont justifiées, l'usage de licences homologuées plus restrictives est envisageable \([voir ce guide interactif](https://guide-juridique-logiciel-libre.etalab.gouv.fr) pour le détail\). C'est ce que explique l'utilisation de la licence AGPL-3.0 dans nombre de nos dépôts.
+Lorsque des restrictions à la réutilisation sont justifiées, l'usage de licences homologuées plus restrictives est envisageable \([voir ce guide interactif](https://guide-juridique-logiciel-libre.etalab.gouv.fr) pour le détail\). C'est ce que explique l'utilisation de la licence AGPL-3.0 dans nombre de nos dépôts.
 
 > Pour en savoir plus, voir une [Politique de contribution aux logiciels libres de l’État](https://www.numerique.gouv.fr/publications/politique-logiciel-libre), et si vous avez besoin d'accompagnement ou d'explications, vous pouvez contacter opensource@data.gouv.fr
 

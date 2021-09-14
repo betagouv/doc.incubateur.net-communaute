@@ -102,7 +102,7 @@ Voici des hébergements simple pour un site statique :
 
 ### Recommandations d'hébergement simplifié d'une application
 
-Il existe des hébergeurs qui automatisent la mise en prod de votre application et gère la base de donnée. Ils sont recommandé pour le lancement d'une startup d'état \(**Ne perdez pas du temps avec de l'ops** : concentrez-vous sur le produit\). Voici une liste d'hébergeur permettant d'héberger simplement une application : \(non exhaustive\)
+Il existe des hébergeurs qui automatisent la mise en prod de votre application et gère la base de donnée. Ils sont recommandés pour le lancement d'une startup d'état \(**Ne perdez pas du temps avec de l'ops** : concentrez-vous sur le produit\). Voici une liste d'hébergeur permettant d'héberger simplement une application : \(non exhaustive\)
 
 * Clever Cloud \(Français\)
 * Scalingo \(Français, propose une offre pour les startups d'état : 100€/mois offert pendant les 6 premiers mois\)
@@ -117,7 +117,7 @@ Il existe des hébergeurs qui automatisent la mise en prod de votre application 
 
 Voici des recommandations d'hébergeur permettant de louer machine virtuel ou serveur.
 
-* AlwaysData : Français, propose une offre d'hébergement mutualisé multi-languages aussi, ainsi que les emails et les DNS \(domaine de second niveau\)
+* AlwaysData : Français, propose une offre d'hébergement mutualisé multi-langages aussi, ainsi que les emails et les DNS \(domaine de second niveau\)
 * OVH : Français, services très variés de machines virtuelles, bare-metal, base de donnée managé, emails et DNS \(commence à faire de l'orchestration avec kubernetes, on pourra bientôt le classer en simple\)
 * Scaleway / Online : Français, services très variés de machines virtuelles, bare-metal, base de données managées, emails et DNS \(et bientôt kubernetes manager\)
 
@@ -126,6 +126,8 @@ Voici des recommandations d'hébergeur permettant de louer machine virtuel ou se
 > * Est-ce que je garde les données en France ? \(en général, c'est recommandé pour votre prod mais pour votre environnement de demo, c'est moins sensible\)
 > * Quel est la confidentialité de mes données ? \(quand on se lance, au début on n'a pas ou peu de données\)
 > * Quel est le coût ? \(tu as un coût, une journée dev peut équivaloir à 1 an d'hébergement sur certains de ces services: **si ça te fais gagner du temps, tu peux payer l'hébergement plus cher**\)
+
+
 
 ### Recommandation d'hébergement DNS et Emails pour un sous-domaine beta.gouv.fr
 
