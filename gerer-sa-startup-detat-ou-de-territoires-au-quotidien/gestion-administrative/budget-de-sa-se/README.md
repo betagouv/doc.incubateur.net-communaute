@@ -18,7 +18,7 @@ Il est recommandé de vous renseigner auprès d'une personne de l'équipe de co-
 
 Concernant le devis, la date limite de prestation n'est que prévisionnelle. Ainsi, vous pourrez consommer les crédits de ce devis au-delà de la date limite indiquée dans le devis.
 
-{% page-ref page="faire-une-demande-de-devis.md" %}
+{% page-ref page="faire-une-demande-de-devis/" %}
 
 {% page-ref page="la-facturation-de-a-a-z/livrable-et-service-fait.md" %}
 

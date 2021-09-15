@@ -48,7 +48,7 @@ Ce guide est un espace commun à [tous les incubateurs](https://beta.gouv.fr/com
 
 {% page-ref page="gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-gere-mon-produit-et-son-impact/gerer-sa-fiche-produit.md" %}
 
-{% page-ref page="gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/budget-de-sa-se/faire-une-demande-de-devis.md" %}
+{% page-ref page="gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/budget-de-sa-se/faire-une-demande-de-devis/" %}
 
 ### Pour les chargé\(e\)s de déploiement
 
