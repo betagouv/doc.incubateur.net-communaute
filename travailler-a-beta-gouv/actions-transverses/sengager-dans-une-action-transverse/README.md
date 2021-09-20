@@ -1,5 +1,13 @@
 # S'engager dans une action transverse
 
+Participer à une action transverse, c'est participer à une action qui permet de résoudre un problème de la communauté, ou d'une autre Startup d'Etat que celle à laquelle vous appartenez.
+
+Le partage entre administrations est indispensable pour s'améliorer collectivement. Nous constatons que chacun fait les mêmes erreurs dans son coin, autant essayer de les résoudre ensemble.
+
+Aussi, chaque membre de la communauté peut utiliser 10% du temps qu'il facture à sa Startup d'Etat pour participer à une action transverse.
+
+
+
 ### En tant que membre de beta.gouv, je souhaite savoir comment fonctionnent les actions transverses \(taskforces\) au sein de la communauté <a id="En-tant-que-membre-de-b&#xEA;ta-souhaitant-savoir-comment-fonctionne-les-actions-transverses"></a>
 
 #### 1.Pourquoi participer aux actions transverses de beta.gouv ? <a id="1-Est-ce-que-j&#x2019;ai-le-droit-de-proposer-ou-de-participer-aux-actions-transverses-de-betagouv-"></a>
