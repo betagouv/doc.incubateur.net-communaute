@@ -21,14 +21,14 @@ Depuis déjà quelques années, la communauté envisage de migrer hors de Slack 
 
 Nous avons choisi Mattermost car il présente plusieurs avantages :
 
-* C’est un outil opensource
-* Qu’on opère nous même
-* Déjà utilisé par d’autres incubateurs Beta.gouv
-* Et moins cher si on opte pour une version payante mais on commence avec la version gratuite
+* C’est un outil *open source*
+* Qu’on opère nous-mêmes
+* Déjà utilisé par d’autres incubateurs beta.gouv
+* Et moins cher si on opte pour une version payante (nous commençons avec la version gratuite, qui ne permet pas de débloquer toutes les fonctionnalités sur l'instance opérée)
 
 ### Quelles grandes différences d’usage avec Slack ?
 
-* **Pas \(encore\) de fil de discussion**. On peut répondre à un message en le commentant mais ce commentaire apparaîtra dans le fil global du canal. La marche à suivre est décrite plus bas. Ok c’est une régression assez conséquente mais elle n’est que temporaire,  leurs devs sont en train de tester le code et visent un déploiement en beta en juin.
+* **Pas de fil de discussion par défaut**. Vous pouvez activer l'option depuis vos paramètres.
 * **Pas de partage des messages**. On ne peut plus republier un message sur le même canal ou un autre canal. En revanche, on a la possibilité de partager le lien vers le message. En cliquant dessus, les personnes sont redirigées vers le post original. La marche à suivre est décrite plus bas.
 
 ### **Comment rejoindre l’espace Mattermost de Beta ?**
