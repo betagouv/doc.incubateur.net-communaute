@@ -1,5 +1,13 @@
 # S'engager dans une action transverse
 
+Participer à une action transverse, c'est participer à une action qui permet de résoudre un problème de la communauté, ou d'une autre Startup d'Etat que celle à laquelle vous appartenez.
+
+Le partage entre administrations permet de décloisonner le service public et favorise son amélioration globale. Nous constatons que chacun fait les mêmes erreurs dans son coin, autant essayer de les résoudre ensemble ; d'autant que les sujets de transition numérique évoluent rapidement : les connaissances d'aujourd'hui deviennent rapidement obsolètes. 
+
+Aussi, **chaque membre de la communauté peut utiliser jusqu'à 10% du temps qu'il consacre à sa Startup d'État pour participer à une action transverse**. Par exemple, une développeuse travaillant 10 jours par mois pour sa Startup d'Etat peut consacrer 1 journée à une action transverse comme "organiser et/ou participer au grand séminaire beta.gouv", "parler de son métier lors d'un événément de recrutement pour attirer d'autres développeuses et développeurs", "monter une formation pour partager ses apprentissages au reste de la communauté" ou "participer à une rencontre de partage d'expériences entre développeuses et développeurs". 
+
+Remarque : participer à une formation nécessaire à l'exercice de sa mission et reconnue comme "obligatoire" par l'équipe d'animation beta.gouv.fr (par exemple : "Session d'embarquement", "Formation RGPD", "Formation Hygiène/Sécurité") ou à un rituel imposé par son incubateur (par exemple : "standup hebdomadaire"), fait partie du boulot, et est donc évidemment réalisé sur le temps rémunéré. En revanche, ces temps-là ne sauraient être décomptés des 10% relatifs aux activités transverses. 
+
 ### En tant que membre de beta.gouv, je souhaite savoir comment fonctionnent les actions transverses \(taskforces\) au sein de la communauté <a id="En-tant-que-membre-de-b&#xEA;ta-souhaitant-savoir-comment-fonctionne-les-actions-transverses"></a>
 
 #### 1.Pourquoi participer aux actions transverses de beta.gouv ? <a id="1-Est-ce-que-j&#x2019;ai-le-droit-de-proposer-ou-de-participer-aux-actions-transverses-de-betagouv-"></a>
