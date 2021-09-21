@@ -1,5 +1,7 @@
 # Intégrer le bouton « Je donne mon avis »
 
+Ce bouton permet à l'usager de [donner son avis en répondant à quelques questions très simples](https://observatoire.numerique.gouv.fr/Aide/Donner%20son%20avis).
+
 ## **Créer un compte** sur MonAvis : <a id="1-creer-un-compte-sur-monavis"></a>
 
 * Accéder au site [observatoire.numerique.gouv.fr](https://observatoire.numerique.gouv.fr/)
