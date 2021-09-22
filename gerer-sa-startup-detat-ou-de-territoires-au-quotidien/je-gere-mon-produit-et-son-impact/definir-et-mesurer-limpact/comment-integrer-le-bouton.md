@@ -11,10 +11,10 @@ Ce bouton permet à l'usager de [donner son avis en répondant à quelques quest
 * Confirmer l’adresse mail en cliquant sur le lien reçu dans l’e-mail de confirmation ;
 
 {% hint style="info" %}
-Utilisez votre adresse @beta.gouv.fr pour éviter la validation manuelle par un administrateur. 
+Utilisez votre adresse @beta.gouv.fr pour éviter la validation manuelle par un administrateur.
 {% endhint %}
 
-## Accéder à la p**age démarche**  <a id="2-acceder-a-la-page-de-sa-demarche-via-le-moteur-de-recherche"></a>
+## Accéder à la p**age démarche** <a id="2-acceder-a-la-page-de-sa-demarche-via-le-moteur-de-recherche"></a>
 
 * Rechercher la démarche dans le moteur de recherche
 * **Si elle est absente du référentiel, ajouter sa démarche \(étape optionnelle\) :**
@@ -40,8 +40,6 @@ Deux onglets sont alors accessibles : _Code à intégrer_ et _Tous les avis_.
 * Choisir entre le bouton bleu et le bouton blanc
 
 ![](https://gblobscdn.gitbook.com/assets%2F-M3zJJPRzqnNRhdtTx3k%2F-MINNS5NTZZo__4jTVgF%2F-MINOlWa_TTyJ1CoUmwt%2Fimage.png?alt=media&token=984e6cbb-f75e-40c5-83e0-55801846bab9)
-
-
 
 * Copier le code du bouton ;
 * Intégrer le code à la fin de votre service.

@@ -1,5 +1,9 @@
 # Comment recruter ?
 
+## Préalable au recrutement
+
+Avant de lancer un recrutement, tu dois disposer d'un budget suffisant, avoir réalisé [une demande de devis ](../../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/budget-de-sa-se/)et obtenir un bon de commande. Ton ou ta co-animatrice pourront t'aider si ce process est nouveau pour toi.
+
 ## Pendant le recrutement
 
 ### Où recruter ?
