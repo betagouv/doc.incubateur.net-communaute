@@ -77,7 +77,6 @@
 * [🎓 Se former](travailler-a-beta-gouv/se-former/README.md)
   * [Les formations à venir](travailler-a-beta-gouv/se-former/les-formations-a-venir.md)
   * [Les formations passées](travailler-a-beta-gouv/se-former/les-formations-passees/README.md)
-    * [Formation hygiène informatique](travailler-a-beta-gouv/se-former/les-formations-passees/formation-hygiene-informatique.md)
     * [Ateliers/présentations](travailler-a-beta-gouv/se-former/les-formations-passees/ateliers-presentations.md)
   * [Clubs de partage d'expérience](travailler-a-beta-gouv/se-former/clubs-de-partage-dexperience/README.md)
     * [Le club des intrapreneurs](travailler-a-beta-gouv/se-former/clubs-de-partage-dexperience/le-club-des-intrapreneurs.md)
