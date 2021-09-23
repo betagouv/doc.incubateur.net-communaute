@@ -19,7 +19,7 @@ description: >-
 
 ## Quelles sont les entreprises titulaires de ce marché ?
 
-#### 1er titulaire : groupement solidaire de coopératives
+#### 1er titulaire : la Zone \(groupement solidaire de coopératives\)
 
 Le groupement est constitué de six Sociétés Coopératives et Participatives \(SCOP\) regroupant des experts en développement de produit et en accompagnement agile, et deux coopératives d'entrepreneurs \(Coopératives d’Activités et d’Emploi \(CAE\)\).
 
