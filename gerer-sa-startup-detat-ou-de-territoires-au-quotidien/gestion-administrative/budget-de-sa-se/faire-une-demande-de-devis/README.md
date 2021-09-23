@@ -18,7 +18,7 @@ _ATTENTION : TOUJOURS METTRE_ _**COMPTA@BETA.GOUV.FR**_ _EN COPIE DE VOS DEMANDE
 
 #### Demande de devis "dev/chargé de déploiment/design"
 
-* Pour UT7 : à venir
+* Pour La Zone : devis@la.zone
 * Pour OCTO : dinum@octo.com
 * Pour BENEXT : à venir
 * Pour INETUM/LBC : à venir
