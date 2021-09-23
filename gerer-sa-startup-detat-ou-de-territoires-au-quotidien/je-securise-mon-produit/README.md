@@ -1,10 +1,8 @@
 # 🔐 Sécuriser son produit
 
-## Guide RGPD et Sécurité
-
-Consultez le guide RGPD et Sécurité ci-dessous :
-
 {% page-ref page="guide-rgpd-et-securite.md" %}
+
+{% page-ref page="foire-aux-questions-sur-la-mise-en-conformite-des-services-numeriques/" %}
 
 ## Monitoring transverse de la DINUM pour la communauté beta.gouv.fr
 

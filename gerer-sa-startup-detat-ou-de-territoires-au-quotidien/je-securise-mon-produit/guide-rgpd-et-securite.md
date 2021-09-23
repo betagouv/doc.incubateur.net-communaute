@@ -4,7 +4,7 @@ description: >-
   poser, quelles actions entreprendre, et quelles ressources mobiliser.
 ---
 
-# Guide RGPD et Sécurité 📓
+# Guide RGPD et Sécurité à chaque étape d'une Startup d'Etat
 
 {% hint style="info" %}
 Ce document est une proposition en cours d’élaboration. Il est susceptible d’être amendé ou de faire l’objet de contre-propositions.
