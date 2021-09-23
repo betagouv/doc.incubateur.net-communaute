@@ -4,6 +4,12 @@
 
 {% page-ref page="foire-aux-questions-sur-la-mise-en-conformite-des-services-numeriques/" %}
 
+## Les principales canaux de discussion pour demander de l'aide
+
+{% hint style="info" %}
+### [\#domaine-juridique](https://mattermost.incubateur.net/betagouv/channels/domaine-juridique) ou [\#guide-rgpd-securite](https://mattermost.incubateur.net/betagouv/channels/ctwtvd6ma)
+{% endhint %}
+
 ## Monitoring transverse de la DINUM pour la communauté beta.gouv.fr
 
 Plusieurs "robots" nous aident à nous assurer de la conformité en matière de sécurité des services du réseau beta.gouv.fr : 
