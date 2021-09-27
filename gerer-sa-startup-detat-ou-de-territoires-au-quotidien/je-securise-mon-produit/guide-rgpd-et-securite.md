@@ -82,6 +82,7 @@ _3 à 6 mois pour développer une première solution numérique et l'expériment
 5. [ ] J'organise un atelier d'analyse de risques en suivant le guide agile de l'ANSSI \[1 demi-journée en équipe complète\].
    * 💡 Exemple de [résultat d'un atelier](https://github.com/openmaraude/le.taxi/wiki/Analyse-des-risques) pour Le.taxi
    * 💡 [Guide de sécurité Agile le l'ANSSI](https://www.ssi.gouv.fr/uploads/2018/11/guide-securite-numerique-agile-anssi-pa-v1.pdf)
+6. [ ] J'ajoute ma startup à [dashlord](https://github.com/betagouv/dashlord/blob/main/dashlord.yml) et je vérifie que [tous les voyants sont au vert](https://dashlord.incubateur.net/#/).
 
 > Pour la rédaction d'une AIPD, comme pour l'atelier d'analyse de risques, nous vous conseillons de solliciter l'aide d'expert\(e\)s dans la communauté.
 {% endtab %}

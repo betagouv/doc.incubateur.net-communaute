@@ -41,6 +41,10 @@ Ne pas respecter les standards de qualité devra être justifié.
 
 {% page-ref page="../../je-fais-des-choix-technologique/standards-de-qualite-beta.gouv.fr.md" %}
 
+Pour t'aider à situer ta Startup d'État par rapport à ces standards de qualité, ajoute ton url à l'outil [dashlord](https://dashlord.incubateur.net/). Tu trouveras plus d'informations sur la page ci-dessous.
+
+{% page-ref page="../../../travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/dashlord/" %}
+
 ## Contraintes légales
 
 Dans le cadre du travail avec l'administration, il est important de connaitre les contraintes légales en terme de Sécurité, RGPD et Accessibilité.
