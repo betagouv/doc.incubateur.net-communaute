@@ -1,3 +1,7 @@
+---
+description: Outils et ressources pour développer un produit minimal
+---
+
 # Kit de démarrage pour lancer son produit minimum viable
 
 L'objectif des 6 premiers mois est d'**avoir de l'impact sur au moins un usager**, en écrivant du code de qualité en terme d'accessibilité \(front\), sécurité \(back\) et données utilisateurs \(RGPD\).
