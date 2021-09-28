@@ -25,5 +25,15 @@ Ces contacts seront :
 * transmis aux administrations partenaires bénéficiaires du marché
 * documentés sur [une page publique de notre documentation](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/marches-publics-beta.gouv.fr/marche-interministeriel-beta) : nous préférons ici indiquer uniquement une liste de diffusion plutôt que des noms de personnes précises, si cela est possible
 
+## Est-il possible de refuser une demande de devis ?U
 
+Un titulaire peut refuser une demande. Néanmoins plusieurs refus peuvent avoir des conséquences. 
+
+### L'extrait du marché public détaille ces conséquences : 
+
+> _**Le titulaire peut refuser ponctuellement de répondre à une expression de besoin.** Le tourniquet passe alors au titulaire suivant dans l’ordre précité. Lorsque la situation se produit, **le titulaire doit s’en justifier** auprès bénéficiaire et de l’acheteur._ 
+>
+> _**Dans le cas où un titulaire déciderait de refuser de donner suite à au moins 10** expressions de besoin sur toute la durée de l’accord-cadre \(reconductions comprises\), l’acheteur en informera l’ensemble des bénéficiaires, qui **seront alors en droit de ne plus inclure ce titulaire dans leur tourniquet,** sans que cela ne puisse donner lieu à un quelconque dédommagement._
+
+_\*\*\*\*_
 
