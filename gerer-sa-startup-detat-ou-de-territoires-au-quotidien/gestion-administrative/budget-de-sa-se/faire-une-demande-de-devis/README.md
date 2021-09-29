@@ -1,5 +1,19 @@
 # Faire une demande de devis
 
+## Les principales étapes :
+
+1. L'équipe établit son besoin \(profil, nombre de jours...\);
+2. Elle vérifie qu'elle a suffisamment de budget;
+3. Elle demande un devis à son titulaire;
+4. Le titulaire renvoi un devis à l'équipe et au co-animateur ou co-animatrice \(co-anim\);
+5. Le ou la responsable de Beta.gouv ou le Dinum signent le devis et l'adresse au service compta de la DINUM;
+6. L'équipe peut lancer son recrutement ou informer
+7. Le service compta renseigne le devis dans Chorus et émet un bon de commande
+8. Le titulaire et l'équipe sont informés.
+9. L'équipe peut faire démarrer les collègues recrutés.
+
+Le délai moyen entre l'étape 1 à 9 est de 2 ou 3 semaines.
+
 ## Votre besoin concerne quel type de prestations ?
 
 {% page-ref page="demander-un-devis-pour-du-coaching.md" %}
