@@ -75,9 +75,17 @@ Cet atelier a lieu toutes les 6 semaines pour accueillir les nouveaux membres de
 
 {% embed url="https://airtable.com/embed/shrXupnR9BG7xFUtT?" %}
 
+Si tu ne vois pas l'image : [https://airtable.com/shrXupnR9BG7xFUtT](https://airtable.com/shrXupnR9BG7xFUtT) 
+
 Tu peux aussi parcourir le support de cet atelier d'embarquement : 
 
 {% embed url="https://docs.google.com/presentation/d/1ded7iFFFaPuw9tKcj6g-xLBggAox-QNDjsMamECPqHU/edit?usp=sharing" %}
+
+Si tu nous rejoins en tant que développeur ou développeuse, nous t'invitons aussi à t'inscrire au prochain atelier d'embarquement spécial devs tenu par les responsables technique et produit de beta.gouv.fr. 👉[Je m'inscris à l'embarquement dev](https://airtable.com/shrUCbUT72KtKefsu)
+
+{% embed url="https://airtable.com/shrUCbUT72KtKefsu" %}
+
+
 
 ## 4 - Et ensuite ? 
 
