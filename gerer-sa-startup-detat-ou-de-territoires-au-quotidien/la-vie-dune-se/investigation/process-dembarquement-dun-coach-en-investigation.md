@@ -49,7 +49,7 @@ Co-anim et coach formalisent un mandat d'accompagnement sous la forme d'un docum
 Ce document répond à quatre questions :
 
 * En quoi cette mission est différente ?
-* Quel sont les critères de succès de la mission du coach ? \(point de vu du co-anim\)
+* Quels sont les critères de succès de la mission du coach ? \(point de vue du co-anim\)
 * Quels sont les critères d’excellence de la mission du coach ? \(point de vue du co-anim\)
 * Quel sont mes besoins de coach vis-à-vis du co-animateur ? \(point de vue coach\)
 
