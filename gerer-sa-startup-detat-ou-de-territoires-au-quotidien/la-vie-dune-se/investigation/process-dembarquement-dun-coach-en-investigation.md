@@ -34,7 +34,7 @@ Ce entretien réunira l'intra, le ou la co-anim et les deux coachs pré-sélecti
 | :--- | :--- | :--- |
 | 1 | Chacun se présente. | 15 min |
 | 2 | L'intra explique son investigation et les coachs posent des questions courtes sur l'investigation. | 15 min |
-| 3 | Le premier coach se présente, ainsi que ses motivations \(en individuel, c-a-d l'autre coach n'est pas présent\). L'intra et le coach posent leurs questions.  | 20 min |
+| 3 | Le premier coach se présente, ainsi que ses motivations \(en individuel, c-a-d l'autre coach n'est pas présent\). L'intra et le co-animateur posent leurs questions.  | 20 min |
 | 4 | Idem pour le second coach . | 20 min |
 | 5 | L'intra et le ou la co-anim discute pour aider l'intra à choisir avec quel coach il ou elle souhaite avancer. | 10 min |
 | 6 | On informe les coachs de la décision de l'intra. |  |
