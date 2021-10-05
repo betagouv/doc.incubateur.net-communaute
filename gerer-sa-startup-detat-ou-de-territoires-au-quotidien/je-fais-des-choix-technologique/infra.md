@@ -127,6 +127,8 @@ Voici des recommandations d'hébergeur permettant de louer machine virtuel ou se
 > * Quel est la confidentialité de mes données ? \(quand on se lance, au début on n'a pas ou peu de données\)
 > * Quel est le coût ? \(tu as un coût, une journée dev peut équivaloir à 1 an d'hébergement sur certains de ces services: **si ça te fais gagner du temps, tu peux payer l'hébergement plus cher**\)
 
+{% file src="../../.gitbook/assets/schema\_beta\_hebergeur\_v6.pdf" caption="Schéma - Choisir son hébergeur" %}
+
 
 
 ### Recommandation d'hébergement DNS et Emails pour un sous-domaine beta.gouv.fr
@@ -137,4 +139,6 @@ Voici des recommandations d'hébergeur permettant de louer machine virtuel ou se
 * PointDNS : US, hébergement DNS uniquement, à utiliser si vous pouvez prendre un service qui n'et pas en Europe.
 
 > Les services cloud Américains comme AWS permette de gérer les DNS d'un domaine de second niveau \(à vérifier pour les emails\). A vérifier, si vous pouvez en faire usage pour des raisons réglementaires ou d'images.
+
+
 

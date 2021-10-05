@@ -61,16 +61,20 @@ _3 à 6 mois pour développer une première solution numérique et l'expériment
 {% tab title="Questions à se poser" %}
 * Quelle\(s\) donnée\(s\) personnelle\(s\) ai-je prévu de collecter ou d'utiliser dans mon produit, dans quel but précis ?
 
-> Exemple : J'utilise des "traceurs" ou un outil de web analyse ; et je le fais dans le but d'optimiser le parcours sur le site.
+> Exemple : J’ai besoin de données de contact, et je demande le numéro de téléphone et l’adresse mail alors que l’adresse mail pourrait suffire pour contacter la personne.
 
-* Suis-je en train de collecter des données dont je ne sais vraiment à quoi elles serviront ?
-* Est-ce que le produit que je construit peut se rattacher à une démarche administrative existante, un service, ou un texte juridique ?
+* Suis-je en train de collecter des données dont je ne sais pas vraiment à quoi elles serviront ?
+* Est-ce que je traite des données de santé ? Voir [définition de la CNIL](https://www.cnil.fr/fr/quest-ce-ce-quune-donnee-de-sante)
+
+Attention, la loi ne s'applique pas dans les cas de collecte, enregistrement ou conservation de données en local, sans connexion extérieure et à des fins exclusivement personnelles
+
+* Est-ce que le produit que je construit peut se rattacher à une démarche administrative existante, un service, ou un texte juridique permettant de justifier le traitement de certaines données ? Quelle est ma base légale de traitement ? Note : la base légale sera principalement la [mission d'intérêt public](https://www.cnil.fr/fr/les-bases-legales/mission-interet-public), ou bien [l'obligation légale](https://www.cnil.fr/fr/les-bases-legales/obligation-legale). Le [consentement](https://www.cnil.fr/fr/les-bases-legales/consentement) est à exclure dans l'administration \(voir la section À ne pas faire\).
 * Qui est mon référent RGPD \(DPO ou délégué DPO\) ou sécurité ?
-* Quelle solution d'hébergement utilisé-je pour mon site ? Est-elle opérée ou localisée en France, en Europe ?
+* Quelle solution d'hébergement utilisé-je pour mon site ? Est-elle opérée ou localisée en France, en Europe ? Est-ce que je traite des données sensibles ou de santé qui nécessitent un hébergeur particulier ? \(voir [Infra](../je-fais-des-choix-technologique/infra.md) &gt; schéma de choix hébergeur\)
 {% endtab %}
 
 {% tab title="A faire " %}
-1. [ ] Je rédige les Conditions Générales d'Utilisation \(CGU\) et mentions légales et les soumet à l'équipe juridique.
+1. [ ] Je rédige les Conditions Générales d'Utilisation \(CGU\), mentions légales et Politique de Confidentialité \(PC\) et les soumet à l'équipe juridique.
    * 💡 Modèle à adapter : [Mes-aides](https://mes-aides.gouv.fr/cgu)
 2. [ ] Je choisis les bons outils.
    * 💡 Info et recommandation pour la gestion des cookies : [lien](https://beta.gouv.fr/suivi/)
@@ -88,7 +92,7 @@ _3 à 6 mois pour développer une première solution numérique et l'expériment
 {% endtab %}
 
 {% tab title="A ne pas faire" %}
-* Fausse bonne idée : considérer que le recueil du consentement est nécessaire, ou suffisant, ou facile à mettre en oeuvre. Le consentement est en réalité souvent inutile dans l'administration, et complexe à stocker, gérer dans le temps.
+* Fausse bonne idée : considérer que le recueil du consentement est nécessaire. Pour l'administration, d'autres bases légales sont à considérer telles que la mission d'intérêt public ou l'obligation légale. 
 {% endtab %}
 {% endtabs %}
 
