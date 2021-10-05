@@ -18,11 +18,14 @@ Participer à des actions transverses pour la communauté, c’est également pa
 * ça permet de faire progresser la communauté sur ses irritants et donc potentiellement d'aider votre équipe si elle est concernée;
 * ça vous permet de prendre un peu de recul durant quelques heures pour revenir plus fort dans vos missions au sein de votre Startup d’État ou de territoire.
 
-### 2. Quel est le process pour participer ? <a id="2-Quel-est-le-process"></a>
+### 2. Quel est le process pour proposer une nouvelle action transverse ? <a id="2-Quel-est-le-process"></a>
 
-Aujourd’hui, le process n’est pas très clair bien qu’il en existe un qui relève plus de la coutume que d’un document précis.  
-Ce n’est donc pas évident de s’y retrouver. On en est désolé.  
-Si tu souhaites proposer un processus clair et lisible, tu es légitime pour en proposer un ou plusieurs.  
+- vérifier qu'un groupe de travail ne travaille pas déjà sur le sujet
+- [s'inscrire au Trello](https://trello.com/invite/b/VfWw2XPM/cf3951b70032c18fa9d6075c1eb7295f/betagouvfr-communaut%C3%A9) si ce n'est déjà fait
+- ajouter dans le [Trello](https://trello.com/b/VfWw2XPM/betagouvfr-communaut%C3%A9) la nouvelle action transverse dans la colonne "Proposition d'actions transverses"
+- proposer en [séminaire](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/actions-transverses/rituels/seminaire) un groupe de travail sur le problème, pour s'assurer que la communauté considère que ce problème vaut la peine d'être investigué
+- lancer un channel public sur Mattermost pour que la communauté puisse suivre les avancées du groupe de travail
+
 Pour en savoir plus, le salon de discussion de cette équipe transverse est [\#incubateur-engagement](https://startups-detat.slack.com/archives/CUDHRRC1Z).
 
 ### 3. Comment faire pour s’informer sur les actions transverses existantes ? <a id="3-Comment-faire-pour-s&#x2019;informer-sur-les-actions-transverses-existantes-"></a>
