@@ -4,9 +4,9 @@ Le programme Gamma est un accompagnement de 4 à 6 mois qui vise à mettre à di
 
 La sélection de la Saison 1 de Gamma a eu lieu en septembre 2020. Les équipes accompagnées entre octobre 2020 et mars 2021 sont : [Aides-territoires](https://aides-territoires.beta.gouv.fr/), [DossierFacile](https://dossierfacile.fr/) et [Mon-entreprise](https://mon-entreprise.fr/). L'équipe est aujourd'hui composée de Clément Renault, Chaïb Martinez et Pénélope Liot \(coachs seniors\) ainsi que Lola Charbit\(chargée de déploiement\).
 
-La sélection de la Saison 2 de Gamma se terminera le 31 octobre 2021. Les sélectionnés sont RDV Solidarités, Mon Suivi Psy et JeVeuxAider.gouv.fr. 
+La sélection de la Saison 2 de Gamma se terminera le 31 octobre 2021. Les sélectionnés sont RDV Solidarités, Mon Suivi Psy et JeVeuxAider.gouv.fr.
 
-La saison 3 commencera au T4 2021. Les candidatures se font en écrivant un mail à gamma@beta.gouv.fr pour fixer un entretien.
+La saison 3 commencera en novembre 2021. Les candidatures se font en écrivant un mail à gamma@beta.gouv.fr pour fixer un entretien avec l'équipe de l'accélérateur.
 
 Pour en savoir plus, vous pouvez vous référer à [la présentation générale de Gamma](https://docs.google.com/presentation/d/14wInaKcd2gn9sU0bzlGSrtALq2BwLxdHAZOxh_kM9b8/edit?usp=sharing) ou aux articles publiés sur le blog beta.gouv concernant [la phase d'accélération des startups](https://blog.beta.gouv.fr/dinsic/2020/08/20/acceleration-des-startups-d-etat-d-un-retour-d-experience-a-l-experimentation-d-un-programme-d-accompagnement-cible-1/) et [le lancement du programme Gamma](https://blog.beta.gouv.fr/dinsic/2020/11/23/acceleration-des-startups-d-etat-retour-sur-le-lancement-du-programme-d-accompagnement-gamma-1/).
 
