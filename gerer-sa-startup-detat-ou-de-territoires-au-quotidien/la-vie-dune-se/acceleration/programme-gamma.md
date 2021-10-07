@@ -4,7 +4,7 @@ Le programme Gamma est un accompagnement de 4 à 6 mois qui vise à mettre à di
 
 La sélection de la Saison 1 de Gamma a eu lieu en septembre 2020. Les équipes accompagnées entre octobre 2020 et mars 2021 sont : [Aides-territoires](https://aides-territoires.beta.gouv.fr/), [DossierFacile](https://dossierfacile.fr/) et [Mon-entreprise](https://mon-entreprise.fr/). L'équipe est aujourd'hui composée de Clément Renault, Chaïb Martinez et Pénélope Liot \(coachs seniors\) ainsi que Lola Charbit\(chargée de déploiement\).
 
-La sélection de la Saison 2 de Gamma s'est terminée au 31 mars 2021. Les sélectionnés sont RDV Solidarités, Mon Suivi Psy et JeVeuxAider.gouv.fr. 
+La sélection de la Saison 2 de Gamma se terminera le 31 octobre 2021. Les sélectionnés sont RDV Solidarités, Mon Suivi Psy et JeVeuxAider.gouv.fr. 
 
 La saison 3 commencera au T4 2021. Les candidatures se font en écrivant un mail à gamma@beta.gouv.fr pour fixer un entretien.
 
