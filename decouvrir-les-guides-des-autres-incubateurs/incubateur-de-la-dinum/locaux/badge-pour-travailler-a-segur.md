@@ -14,12 +14,45 @@ description: Tu veux travailler dans les bureaux de Ségur ? Demande ton badge !
 
 ### Aide pour remplir le formulaire
 
-| Champs | Informations à renseigner |
-| :--- | :--- |
-| _Au sein de_ | BETA |
-| _Accès à SEGUR_ | Locaux SEGUR 5520 et 5513 et cantine |
-| _Fourniture d'une adresse_ | \[Laisser vide\] |
-| _Numéro commande Chorus_ | \[Laisser vide\] |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Champs</th>
+      <th style="text-align:left">Informations &#xE0; renseigner</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><em>Au sein de</em>
+      </td>
+      <td style="text-align:left">BETA</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><em>Acc&#xE8;s &#xE0; SEGUR</em>
+      </td>
+      <td style="text-align:left">Locaux SEGUR 5520 et 5513 et cantine</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><em>Entreprise</em>
+      </td>
+      <td style="text-align:left">
+        <p>Pour les ind&#xE9;pendants/salari&#xE9;s : le nom du titulaire qui te
+          porte</p>
+        <p>Pour les agents publics : le nom de ton administration</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><em>Fourniture d&apos;une adresse</em>
+      </td>
+      <td style="text-align:left">[Laisser vide]</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><em>Num&#xE9;ro commande Chorus</em>
+      </td>
+      <td style="text-align:left">[Laisser vide]</td>
+    </tr>
+  </tbody>
+</table>
 
 ## 2. Quel est l'email à envoyer pour obtenir son badge ?
 
