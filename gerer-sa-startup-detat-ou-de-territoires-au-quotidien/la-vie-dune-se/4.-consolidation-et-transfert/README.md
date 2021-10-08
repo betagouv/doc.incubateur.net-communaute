@@ -12,15 +12,11 @@ Un **guide de la pérennisation des Startups d'État** a été publié en avril 
 
 Pour approfondir certains éléments de ce guide, cette documentation liste plusieurs sections thématiques. 
 
-### Trajectoires de pérennisation
+### Pour t'aider tu peux explorer : 
 
-Les trajectoires observées lors des pérennisations sont détaillées ici :
+{% page-ref page="trajectoires-de-perennisation/" %}
 
-{% page-ref page="./" %}
-
-Une des options, assez rares certes, pour pérenniser une Startup d'État, est de l'autonomiser en constituant un Groupement d'intérêt public ou une Société Coopérative d'Intérêt Collectif. Dans les deux cas, cela peut être pertinent quand la Startup d'État a vocation à grossir et à compter plus d'une dizaine de membres dans son équipe en vitesse de croisières. 
-
-{% page-ref page="trajectoires-de-perennisation/gip-et-scic/" %}
+{% page-ref page="boite-a-outils-pour-preparer-un-transfert/" %}
 
 
 
