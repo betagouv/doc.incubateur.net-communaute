@@ -1,8 +1,12 @@
 # Table of contents
 
-* [Guide de la communauté beta.gouv](README.md)
+* [Bienvenue sur le guide de la communauté beta.gouv](README.md)
+* [Je suis membre d'une Startup d'Etat ou de Territoires](je-travaille-ou-vais-travailler-chez-beta.gouv/README.md)
+  * [Comprendre le mode de gestion de la communauté : recrutement, culture de travail, formation...](je-travaille-ou-vais-travailler-chez-beta.gouv/comprendre-le-mode-de-gestion-de-la-communaute-recrutement-culture-de-travail-formation....md)
+  * [Comprendre la gestion de mon produit : étapes clefs, impact, design, sécurité, acquisition...](je-travaille-ou-vais-travailler-chez-beta.gouv/comprendre-la-gestion-de-mon-produit-etapes-clefs-impact-design-securite-acquisition....md)
+* [Je souhaite découvrir beta.gouv](je-ne-travaille-pas-chez-beta.gouv.md)
 
-## Travailler chez Beta.Gouv <a id="travailler-a-beta-gouv"></a>
+## Travailler chez Beta.Gouv <a href="travailler-a-beta-gouv" id="travailler-a-beta-gouv"></a>
 
 * [🛫 Ton embarquement](travailler-a-beta-gouv/bienvenue/README.md)
   * [Le premier jour chez beta.gouv](travailler-a-beta-gouv/bienvenue/premier-pas-indispensable-creer-ta-fiche-membre.md)
@@ -22,7 +26,7 @@
     * [Comment communiquer sur Mattermost ?](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/mattermost/comment-communiquer-sur-mattermost.md)
     * [Comment inviter un nouveau membre de la communauté sur Mattermost](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/mattermost/comment-inviter-un-nouveau-membre-de-la-communaute-sur-mattermost.md)
     * [Comment aller plus vite ?](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/mattermost/comment-aller-plus-vite.md)
-    * [Migration Slack -&gt; Mattermost](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/mattermost/migration-slack-greater-than-mattermost.md)
+    * [Migration Slack -> Mattermost](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/mattermost/migration-slack-greater-than-mattermost.md)
     * [Archives - Slack](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/mattermost/slack.md)
   * [Audio/Visio](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/faire-une-visio/README.md)
     * [Organiser un webinaire](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/faire-une-visio/visioconferences.md)
@@ -66,11 +70,11 @@
     * [Publier une offre d'embauche](travailler-a-beta-gouv/recrutement/comment-recruter/publier-une-offre-dembauche.md)
     * [Annoncer un recrutement sur le compte Linkedin de beta.gouv](travailler-a-beta-gouv/recrutement/comment-recruter/annoncer-un-recrutement-sur-le-compte-linkedin-de-beta.gouv.md)
     * [Entretiens de recrutement](travailler-a-beta-gouv/recrutement/comment-recruter/entretiens-de-recrutement.md)
-  * [Guide pour les candidat\(e\)s](travailler-a-beta-gouv/recrutement/guide-pour-les-candidat-e-s.md)
+  * [Guide pour les candidat(e)s](travailler-a-beta-gouv/recrutement/guide-pour-les-candidat-e-s.md)
   * [Les différents statuts](travailler-a-beta-gouv/recrutement/les-differents-statuts/README.md)
     * [Agents publics](travailler-a-beta-gouv/recrutement/les-differents-statuts/fonctionnaires-et-contractuels-de-la-fonction-publique.md)
     * [Salariés des sociétés de prestation](travailler-a-beta-gouv/recrutement/les-differents-statuts/salaries-des-societes-de-prestation.md)
-    * [Indépendants \(freelances\)](travailler-a-beta-gouv/recrutement/les-differents-statuts/independants-freelances/README.md)
+    * [Indépendants (freelances)](travailler-a-beta-gouv/recrutement/les-differents-statuts/independants-freelances/README.md)
       * [Devenir freelance](travailler-a-beta-gouv/recrutement/les-differents-statuts/independants-freelances/devenir-freelance.md)
       * [Rémunération des freelances](travailler-a-beta-gouv/recrutement/les-differents-statuts/independants-freelances/remuneration.md)
       * [Charte des freelances](travailler-a-beta-gouv/recrutement/les-differents-statuts/independants-freelances/charte-des-freelances.md)
@@ -90,7 +94,7 @@
   * [Que se passe-t-il après la date de fin de ma mission ?](travailler-a-beta-gouv/au-revoir/que-se-passe-t-il-apres-la-date-de-fin-de-ma-mission.md)
   * [Questions fréquentes](travailler-a-beta-gouv/au-revoir/questions-frequentes.md)
 
-## Gérer sa Startup d'Etat au quotidien <a id="gerer-sa-startup-detat-ou-de-territoires-au-quotidien"></a>
+## Gérer sa Startup d'Etat au quotidien <a href="gerer-sa-startup-detat-ou-de-territoires-au-quotidien" id="gerer-sa-startup-detat-ou-de-territoires-au-quotidien"></a>
 
 * [🌀 Comprendre les grandes étapes d'une Startup d'État](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/README.md)
   * [Lancer une Startup d'État](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/je-souhaite-lancer-une-startup-detat/README.md)
@@ -130,7 +134,7 @@
         * [Pérennisation de Maintenant! chez Pôle Emploi](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/4.-consolidation-et-transfert/trajectoires-de-perennisation/3.-choix-dune-structure-daccueil-avec-mise-en-place-dune-nouvelle-equipe/perennisation-de-maintenant-chez-pole-emploi.md)
       * [4. Constitution d’une structure juridique dédiée : GIP, SCIC, SAS, SCN, etc.](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/4.-consolidation-et-transfert/trajectoires-de-perennisation/4.-constitution-dune-structure-juridique-dediee-gip-scic-sas-scn-etc./README.md)
         * [1 - GIP - Groupement d'intérêt public](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/4.-consolidation-et-transfert/trajectoires-de-perennisation/4.-constitution-dune-structure-juridique-dediee-gip-scic-sas-scn-etc./1-gip-groupement-dinteret-public/README.md)
-          * [De la start-up d’Etat au Groupement d’intérêt public \(GIP\)](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/4.-consolidation-et-transfert/trajectoires-de-perennisation/4.-constitution-dune-structure-juridique-dediee-gip-scic-sas-scn-etc./1-gip-groupement-dinteret-public/de-la-start-up-detat-au-groupement-dinteret-public-gip.md)
+          * [De la start-up d’Etat au Groupement d’intérêt public (GIP)](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/4.-consolidation-et-transfert/trajectoires-de-perennisation/4.-constitution-dune-structure-juridique-dediee-gip-scic-sas-scn-etc./1-gip-groupement-dinteret-public/de-la-start-up-detat-au-groupement-dinteret-public-gip.md)
           * [Création d'un GIP : mode d'emploi](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/4.-consolidation-et-transfert/trajectoires-de-perennisation/4.-constitution-dune-structure-juridique-dediee-gip-scic-sas-scn-etc./1-gip-groupement-dinteret-public/creation-dun-gip-mode-demploi.md)
           * [Création du Groupement d'Intérêt Public Pix](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/4.-consolidation-et-transfert/trajectoires-de-perennisation/4.-constitution-dune-structure-juridique-dediee-gip-scic-sas-scn-etc./1-gip-groupement-dinteret-public/creation-du-groupement-dinteret-public-pix.md)
         * [2 - SCIC - Société Coopérative d’Intérêt Collectif](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/4.-consolidation-et-transfert/trajectoires-de-perennisation/4.-constitution-dune-structure-juridique-dediee-gip-scic-sas-scn-etc./2-scic-societe-cooperative-dinteret-collectif/README.md)
@@ -138,10 +142,10 @@
           * [Création d’une SCIC : mode d'emploi](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/4.-consolidation-et-transfert/trajectoires-de-perennisation/4.-constitution-dune-structure-juridique-dediee-gip-scic-sas-scn-etc./2-scic-societe-cooperative-dinteret-collectif/creation-dune-scic-mode-demploi.md)
         * [3 - EPA/EPIC - Etablissements publics](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/4.-consolidation-et-transfert/trajectoires-de-perennisation/4.-constitution-dune-structure-juridique-dediee-gip-scic-sas-scn-etc./3-epa-epic-etablissements-publics/README.md)
           * [De la start-up d'Etat à l'Etablissement public](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/4.-consolidation-et-transfert/trajectoires-de-perennisation/4.-constitution-dune-structure-juridique-dediee-gip-scic-sas-scn-etc./3-epa-epic-etablissements-publics/de-la-start-up-detat-a-letablissement-public.md)
-          * [Création d'un Etablissement public \(mode d'emploi\)](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/4.-consolidation-et-transfert/trajectoires-de-perennisation/4.-constitution-dune-structure-juridique-dediee-gip-scic-sas-scn-etc./3-epa-epic-etablissements-publics/creation-dun-etablissement-public-mode-demploi.md)
+          * [Création d'un Etablissement public (mode d'emploi)](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/4.-consolidation-et-transfert/trajectoires-de-perennisation/4.-constitution-dune-structure-juridique-dediee-gip-scic-sas-scn-etc./3-epa-epic-etablissements-publics/creation-dun-etablissement-public-mode-demploi.md)
         * [4 - Fondations et fonds de dotation](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/4.-consolidation-et-transfert/trajectoires-de-perennisation/4.-constitution-dune-structure-juridique-dediee-gip-scic-sas-scn-etc./4-fondations-et-fonds-de-dotation/README.md)
           * [De la start-up d'Etat à la Fondation et au fonds de dotation](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/4.-consolidation-et-transfert/trajectoires-de-perennisation/4.-constitution-dune-structure-juridique-dediee-gip-scic-sas-scn-etc./4-fondations-et-fonds-de-dotation/de-la-start-up-detat-a-la-fondation-et-au-fonds-de-dotation.md)
-          * [Création d'une fondation ou d'un fonds de dotation \(mode d'emploi\)](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/4.-consolidation-et-transfert/trajectoires-de-perennisation/4.-constitution-dune-structure-juridique-dediee-gip-scic-sas-scn-etc./4-fondations-et-fonds-de-dotation/creation-dune-fondation-ou-dun-fonds-de-dotation-mode-demploi.md)
+          * [Création d'une fondation ou d'un fonds de dotation (mode d'emploi)](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/4.-consolidation-et-transfert/trajectoires-de-perennisation/4.-constitution-dune-structure-juridique-dediee-gip-scic-sas-scn-etc./4-fondations-et-fonds-de-dotation/creation-dune-fondation-ou-dun-fonds-de-dotation-mode-demploi.md)
       * [5. Transfert à une association](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/4.-consolidation-et-transfert/trajectoires-de-perennisation/5.-transfert-a-une-association.md)
     * [Boîte à outils pour préparer un transfert](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/4.-consolidation-et-transfert/boite-a-outils-pour-preparer-un-transfert/README.md)
       * [Mandat de transfert](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/4.-consolidation-et-transfert/boite-a-outils-pour-preparer-un-transfert/mandat-de-transfert.md)
@@ -186,7 +190,7 @@
       * [Je suis une administration bénéficiaire du marché interministériel](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/marches-publics-beta.gouv.fr/marche-interministeriel-beta/je-suis-une-administration-beneficiaire-du-marche-interministeriel.md)
       * [Je suis un des titulaires du marché interministériel](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/marches-publics-beta.gouv.fr/marche-interministeriel-beta/je-suis-un-des-attributaires-du-marche-interministeriel.md)
     * [Marché "coaching"](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/marches-publics-beta.gouv.fr/marche-coaching.md)
-    * [Archives : ancien marché Startups d'Etat \(2018 - 2021\)](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/marches-publics-beta.gouv.fr/tourniquet-developpement/README.md)
+    * [Archives : ancien marché Startups d'Etat (2018 - 2021)](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/marches-publics-beta.gouv.fr/tourniquet-developpement/README.md)
       * [Codeurs en liberté](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/marches-publics-beta.gouv.fr/tourniquet-developpement/codeurs-en-liberte.md)
   * [Établir une convention/avenant](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/etablir-une-convention-avenant/README.md)
     * [Foire aux questions juridiques sur les conventions](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/etablir-une-convention-avenant/foire-aux-questions-juridiques-sur-les-conventions.md)
@@ -260,7 +264,7 @@
       * [Annexe 1 - Tableau présentant la répartition traditionnelle entre les Startups d'état et leurs spons](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-securise-mon-produit/foire-aux-questions-sur-la-mise-en-conformite-des-services-numeriques/responsabilite-de-traitement/annexe-1-tableau-presentant-la-repartition-traditionnelle-entre-les-startups-detat-et-leurs-spons.md)
       * [Annexe 2 - Dans quel cas un texte juridique est-il nécessaire pour mettre en œuvre mon produit ?](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-securise-mon-produit/foire-aux-questions-sur-la-mise-en-conformite-des-services-numeriques/responsabilite-de-traitement/annexe-2-dans-quel-cas-un-texte-juridique-est-il-necessaire-pour-mettre-en-oeuvre-mon-produit.md)
       * [Annexe 3 - Grands principes du RGPD](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-securise-mon-produit/foire-aux-questions-sur-la-mise-en-conformite-des-services-numeriques/responsabilite-de-traitement/annexe-3-grands-principes-du-rgpd.md)
-    * [Analyse d'impact relative à la protection des données \(AIPD\)](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-securise-mon-produit/foire-aux-questions-sur-la-mise-en-conformite-des-services-numeriques/analyse-dimpact-relative-a-la-protection-des-donnees-aipd.md)
+    * [Analyse d'impact relative à la protection des données (AIPD)](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-securise-mon-produit/foire-aux-questions-sur-la-mise-en-conformite-des-services-numeriques/analyse-dimpact-relative-a-la-protection-des-donnees-aipd.md)
     * [Echanges de fichiers de données personnelles](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-securise-mon-produit/foire-aux-questions-sur-la-mise-en-conformite-des-services-numeriques/echanges-de-fichiers-de-donnees-personnelles.md)
     * [Information et consentement des usagers](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-securise-mon-produit/foire-aux-questions-sur-la-mise-en-conformite-des-services-numeriques/information-et-consentement-des-usagers.md)
     * [Sécurité & homologation](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-securise-mon-produit/foire-aux-questions-sur-la-mise-en-conformite-des-services-numeriques/securite-and-homologation.md)
@@ -271,13 +275,13 @@
   * [Aide transverse - Design, UX](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-sollicite-de-laide-transverse/design-ux.md)
   * [Demander de l’aide](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-sollicite-de-laide-transverse/demander-de-laide.md)
 
-## Découvrir les guides des incubateurs <a id="decouvrir-les-guides-des-autres-incubateurs"></a>
+## Découvrir les guides des incubateurs <a href="decouvrir-les-guides-des-autres-incubateurs" id="decouvrir-les-guides-des-autres-incubateurs"></a>
 
 * [🧪Gérer son incubateur](decouvrir-les-guides-des-autres-incubateurs/gerer-son-incubateur.md)
-* [🌍 Fabrique numérique du MTE-MCT](https://doc.mte.incubateur.net/)
+* [🌍 Fabrique numérique du MTE-MCT](https://doc.mte.incubateur.net)
 * [🏥 Fabrique numérique des Ministères sociaux](https://github.com/SocialGouv/www/wiki)
 * [🗻 Incubateur de la DINUM](decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/README.md)
-  * [Locaux \(Ségur\)](decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/locaux/README.md)
+  * [Locaux (Ségur)](decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/locaux/README.md)
     * [20 avenue de Ségur](decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/locaux/focus-segur.md)
     * [Badge pour travailler à Ségur](decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/locaux/badge-pour-travailler-a-segur.md)
     * [D'autres endroits où travailler](decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/locaux/ou-travailler.md)
@@ -289,10 +293,9 @@
     * [Avant le congé maternité](decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/conge-maternite/avant-le-conge-maternite.md)
     * [Pendant le congé maternité](decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/conge-maternite/pendant-le-conge-maternite.md)
     * [Après le congé maternité](decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/conge-maternite/apres-le-conge-maternite.md)
-* [🏭 Fabrique numérique \(Ministères des armées\)](decouvrir-les-guides-des-autres-incubateurs/fabrique-numerique-ministeres-des-armees/README.md)
+* [🏭 Fabrique numérique (Ministères des armées)](decouvrir-les-guides-des-autres-incubateurs/fabrique-numerique-ministeres-des-armees/README.md)
   * [OKR](decouvrir-les-guides-des-autres-incubateurs/fabrique-numerique-ministeres-des-armees/okr/README.md)
     * [OKR Fred](decouvrir-les-guides-des-autres-incubateurs/fabrique-numerique-ministeres-des-armees/okr/okr-fred.md)
   * [Vision, mission et valeurs](decouvrir-les-guides-des-autres-incubateurs/fabrique-numerique-ministeres-des-armees/vision-mission-valeurs.md)
-* [🖌 L'Atelier Numérique \(Culture\)](https://atelier-numerique.gitbook.io/atelier-numerique-le-guide/)
+* [🖌 L'Atelier Numérique (Culture)](https://atelier-numerique.gitbook.io/atelier-numerique-le-guide/)
 * [Journal de bord de la documentation](decouvrir-les-guides-des-autres-incubateurs/journal-de-bord-de-la-documentation.md)
-

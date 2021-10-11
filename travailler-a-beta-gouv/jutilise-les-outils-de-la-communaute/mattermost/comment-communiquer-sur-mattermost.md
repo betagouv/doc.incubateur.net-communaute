@@ -2,9 +2,9 @@
 
 ## Prérequis pour profiter d'une expérience optimale
 
-Si tu ne l'as pas déjà fait fait, active l'option "Collapsed Reply Thread" dans `Paramètres du compte > Affichage` 
+Si tu ne l'as pas déjà fait fait, active l'option "Collapsed Reply Thread" dans `Paramètres du compte > Affichage `
 
-#### **Active l'option thread** \(version beta pouvant entrainer des risques\)
+#### **Active l'option thread** (version beta pouvant entrainer des risques)
 
 {% hint style="info" %}
 Cette option permet de réduire la sensation de "bruit" et de retrouver les échanges dans des fils de discussion séparée.
@@ -12,7 +12,7 @@ Cette option permet de réduire la sensation de "bruit" et de retrouver les éch
 
 ![Exemple de fil](../../../.gitbook/assets/capture-6.jpg)
 
-**1.Clique sur les 3 bandes horizontales** 
+**1.Clique sur les 3 bandes horizontales **
 
 ![](../../../.gitbook/assets/capture-1.jpg)
 
@@ -20,7 +20,7 @@ Cette option permet de réduire la sensation de "bruit" et de retrouver les éch
 
 ![](../../../.gitbook/assets/capture2.jpg)
 
-**3. Clique sur "Affichage" puis sur "modifier" dans la partie "Collapsed Reply Threads \(beta\)"**
+**3. Clique sur "Affichage" puis sur "modifier" dans la partie "Collapsed Reply Threads (beta)"**
 
 ![](../../../.gitbook/assets/capture-3.jpg)
 
@@ -32,34 +32,34 @@ Cette option permet de réduire la sensation de "bruit" et de retrouver les éch
 
 #### 1. Clique dans le message en question sur les « … » puis dans le menu sur « Répondre » :
 
-![](https://lh4.googleusercontent.com/BIq9YkZajLBs8sJbmhnbF1EH1cZkYgkw5948LXTGKyVGB8Hv7M1XTLfKtts11dXZsZTnk8cIccVCi711YPOwebVjz8oGCdWHwWZ2lnhYQAHwb7nzSAQc4VKiKn8bjLWkg_1EwZmk)
+![](https://lh4.googleusercontent.com/BIq9YkZajLBs8sJbmhnbF1EH1cZkYgkw5948LXTGKyVGB8Hv7M1XTLfKtts11dXZsZTnk8cIccVCi711YPOwebVjz8oGCdWHwWZ2lnhYQAHwb7nzSAQc4VKiKn8bjLWkg\_1EwZmk)
 
 #### 2. Un bandeau latéral s’ouvre, écris ton message puis cliques sur « ajouter un commentaire » :
 
-![](https://lh3.googleusercontent.com/IeHruLdAv0ROS3GDn4MQ1Up4rVMRCLdRuVONW5DWMcpK6RO9PjoOJcyA5TM9FOYp0BFeGcLBmOLL2WSd62IiIBfjZqfLl_vjBaoysR-C76_99vRgq87Zi_D2RTRK0Iup9ucl2zfO)
+![](https://lh3.googleusercontent.com/IeHruLdAv0ROS3GDn4MQ1Up4rVMRCLdRuVONW5DWMcpK6RO9PjoOJcyA5TM9FOYp0BFeGcLBmOLL2WSd62IiIBfjZqfLl_vjBaoysR-C76\_99vRgq87Zi_D2RTRK0Iup9ucl2zfO)
 
 Ta réponse apparaît directement dans le canal avec mention que c’est un commentaire et la référence du message d’origine. 
 
 Il faut donc être vigilant à ne pas être trop bavards en commentaires pour ne pas saturer le canal. Dans le cas d’une conversation poussée, il est recommandé de créer une discussion dans un canal dédié.
 
-![](https://lh3.googleusercontent.com/Co52_Z26452vUbWvCd7Br-mkYPRCxNRxfxOwuMhFupyCCJjsfQdXswpC0ndiVfMfAHyWTsVzfud1OQPt2_dtrLbz7ThApqCYoEz59JeTX02vK71wJzhirHZC-TXSAZO-SSSsEswm)
+![](https://lh3.googleusercontent.com/Co52\_Z26452vUbWvCd7Br-mkYPRCxNRxfxOwuMhFupyCCJjsfQdXswpC0ndiVfMfAHyWTsVzfud1OQPt2\_dtrLbz7ThApqCYoEz59JeTX02vK71wJzhirHZC-TXSAZO-SSSsEswm)
 
 #### **3. Faire référence à des personnes, des canaux, des mentions**
 
-* Le hashtag \# : pour joindre le message aux autres messages mentionnant le même \#. 
+* Le hashtag # : pour joindre le message aux autres messages mentionnant le même #. 
 * Le @ : pour taguer quelqu’un et le notifier
 
 #### **4. Partager une publication**
 
 Cliques sur “...” à côté du message en question puis sur “copier le lien
 
-![](https://lh3.googleusercontent.com/_9oWNG8-_un-n6I7KfvSoRlpe5tW-_QDiIKr0fieR8y2-zqSd3FbevX9oFFlT_Cc8XbuQw--LSqi676kRfhs4wMMzRIZNj4qzvEyB0AD-cvGW1lMDcNpbTQGDroGEfRCriviU7kq)
+![](https://lh3.googleusercontent.com/\_9oWNG8-\_un-n6I7KfvSoRlpe5tW-\_QDiIKr0fieR8y2-zqSd3FbevX9oFFlT_Cc8XbuQw--LSqi676kRfhs4wMMzRIZNj4qzvEyB0AD-cvGW1lMDcNpbTQGDroGEfRCriviU7kq)
 
 ### **Comment chercher des personnes pour envoyer un message personnel ?**
 
 #### 1. Clique sur le « + » à côté de « Messages personnels »
 
-![](https://lh4.googleusercontent.com/qOjgRzEgcYhc4WUvwR36JZb5Ot2JdtkaGq7wGY98iTIXGtUgvmxT5C6mta-qj74nIJdqGzvlWIYZiMPECGmG9bH4PiDA_4W1qRoamBnQiQlR8XOgUnvKNnFvM7rLhWdG5N0em1UT)
+![](https://lh4.googleusercontent.com/qOjgRzEgcYhc4WUvwR36JZb5Ot2JdtkaGq7wGY98iTIXGtUgvmxT5C6mta-qj74nIJdqGzvlWIYZiMPECGmG9bH4PiDA\_4W1qRoamBnQiQlR8XOgUnvKNnFvM7rLhWdG5N0em1UT)
 
 #### 2. Ajoute autant de personnes que nécessaires
 
@@ -73,11 +73,11 @@ Cliques sur “...” à côté du message en question puis sur “copier le lie
 
 #### 1. Clique sur le « + », puis sur créer un canal
 
-![](https://lh6.googleusercontent.com/1n1_6_Qze4ZyA8autCSUIb8FcOfh3D7ZXtCr-ZpwR-WoC2537NC_Hj8pikGO31pKmWmDvMZmUakr-j34jUBhDavhAN9hpp6nEF7y0FyhxY4DFOcKwzHk6_lJKTbNFxllgZYh_iKC)
+![](https://lh6.googleusercontent.com/1n1\_6\_Qze4ZyA8autCSUIb8FcOfh3D7ZXtCr-ZpwR-WoC2537NC_Hj8pikGO31pKmWmDvMZmUakr-j34jUBhDavhAN9hpp6nEF7y0FyhxY4DFOcKwzHk6\_lJKTbNFxllgZYh_iKC)
 
 #### 2. Rempli la description
 
-![](https://lh6.googleusercontent.com/cQ8Cg7Cj1-pxUxAIZN4IWMvE2fIkUCEZ5QwcKZMY0TgCwRwpIramIQinD5sPFJnnmXOESaZ-FXq-t7_yyvf11b0iVFx6HYgT0SY8ojphdI2cPHh082A3JIuNE_pGChPV7ucmo_2m)
+![](https://lh6.googleusercontent.com/cQ8Cg7Cj1-pxUxAIZN4IWMvE2fIkUCEZ5QwcKZMY0TgCwRwpIramIQinD5sPFJnnmXOESaZ-FXq-t7\_yyvf11b0iVFx6HYgT0SY8ojphdI2cPHh082A3JIuNE_pGChPV7ucmo\_2m)
 
 ### **Comment créer une nouvelle catégorie et réorganiser ses canaux** ?
 
@@ -98,4 +98,3 @@ Tu peux créer autant de catégories que tu le souhaites pour organiser ton espa
 Dans la barre de recherche en haut à droite. Vous pouvez vous aider d’options de recherche.
 
 ![](https://lh3.googleusercontent.com/UL7cEXnSP0Bue3keJ3ZrUJsNnxY2hMjuW4Wb2KCUQV3Dmq9K-94sRIsJsBnkPq5y014Frt08qO7Ana17hTuH1qm9pT79AwjZZ0iXCOlutAPMvu5hqc4qvdDMHlS5U1vZgqgNX1Dt)
-

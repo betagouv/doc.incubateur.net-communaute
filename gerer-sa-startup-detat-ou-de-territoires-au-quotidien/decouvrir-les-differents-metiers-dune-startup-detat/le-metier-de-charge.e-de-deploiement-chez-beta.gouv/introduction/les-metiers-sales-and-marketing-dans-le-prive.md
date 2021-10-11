@@ -12,7 +12,7 @@ Ceci peut vous paraître comme étant un argument fort de négociation mais ce n
 
 Contrairement à un commercial, vous n'êtes pas là pour convaincre d’utiliser votre produit mais pour trouver des gens motivés, volontaires. 
 
-Vos stratégies de déploiement et de ventes seront pilotées par vos mesures d’impact.   
+Vos stratégies de déploiement et de ventes seront pilotées par vos mesures d’impact. \
 ****
 
 ## **L’interaction forte avec les institutions publiques**
@@ -27,11 +27,11 @@ Vos stratégies de déploiement et de ventes seront pilotées par vos mesures d�
 
 ### **Utiliser les institutions pour son déploiement**
 
-→ Vous pourrez vous appuyer sur de nombreux réseaux et initiatives existantes \(services déconcentrés, opérateurs\).
+→ Vous pourrez vous appuyer sur de nombreux réseaux et initiatives existantes (services déconcentrés, opérateurs).
 
 → temps long de l’administration : les décisions ne sont pas toujours prises rapidement, attention à ne pas être ramené au fonctionnement bureaucratique traditionnel appliqué dans les autres initiatives.
 
-### **Apprendre à bien connaître son environnement** 
+### **Apprendre à bien connaître son environnement **
 
 → Cartographie des institutions
 
@@ -41,9 +41,9 @@ Vos stratégies de déploiement et de ventes seront pilotées par vos mesures d�
 
 → Maîtrise du champs lexical & des termes liés à la culture administrative 
 
-**💡** Le coup de pouce  **:** les 6 choses à savoir pour avoir une culture administrative :
+**💡 **Le coup de pouce ** : **les 6 choses à savoir pour avoir une culture administrative :
 
-Sur ces slides : [https://docs.google.com/presentation/d/1qlaFg4y1A-2c5cK82rZgVrDkyNRwaVIEKd8CnVgcw0o/edit\#slide=id.p](https://docs.google.com/presentation/d/1qlaFg4y1A-2c5cK82rZgVrDkyNRwaVIEKd8CnVgcw0o/edit#slide=id.p)
+Sur ces slides : [https://docs.google.com/presentation/d/1qlaFg4y1A-2c5cK82rZgVrDkyNRwaVIEKd8CnVgcw0o/edit#slide=id.p](https://docs.google.com/presentation/d/1qlaFg4y1A-2c5cK82rZgVrDkyNRwaVIEKd8CnVgcw0o/edit#slide=id.p)
 
 ## **La marque de l’État**
 
@@ -56,4 +56,3 @@ Les réinvestissements sont faits tous les 6 mois selon l’impact. Cette tempor
 ### **📖 Les histoires vraies**
 
 Interview d'Adeline Latron, chargée de déploiement sur Place des Entreprises : [https://youtu.be/T9Wsy119V80](https://youtu.be/T9Wsy119V80)
-

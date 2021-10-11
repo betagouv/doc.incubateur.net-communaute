@@ -11,7 +11,6 @@ Trouver des utilisateurs du produit
 
 Attention : déployer ce n’est pas convaincre un usager mais trouver un usager motivé par votre produit → privilégier le volontariat !
 
-## **Qui ?** 
+## **Qui ? **
 
 * Chez Beta.gouv on parle de chargé·e de déploiement ou bizdev pour business developer.
-

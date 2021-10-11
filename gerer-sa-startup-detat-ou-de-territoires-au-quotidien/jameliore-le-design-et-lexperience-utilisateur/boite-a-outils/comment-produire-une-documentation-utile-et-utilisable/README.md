@@ -4,13 +4,18 @@ description: Quelques contenus pour vous aider à mieux appréhender la document
 
 # Comment produire une documentation utile et utilisable ?
 
-{% page-ref page="les-bases-de-la-documentation.md" %}
+{% content-ref url="les-bases-de-la-documentation.md" %}
+[les-bases-de-la-documentation.md](les-bases-de-la-documentation.md)
+{% endcontent-ref %}
 
-{% page-ref page="les-4-types-de-documentation.md" %}
+{% content-ref url="les-4-types-de-documentation.md" %}
+[les-4-types-de-documentation.md](les-4-types-de-documentation.md)
+{% endcontent-ref %}
 
-{% page-ref page="comment-auto-auditer-sa-documentation.md" %}
+{% content-ref url="comment-auto-auditer-sa-documentation.md" %}
+[comment-auto-auditer-sa-documentation.md](comment-auto-auditer-sa-documentation.md)
+{% endcontent-ref %}
 
 {% hint style="info" %}
-\*\*\*\*[**Rejoint le canal de discussion sur le sujet de la documentation**](https://mattermost.incubateur.net/betagouv/channels/incubateur-documentation)\*\*\*\*
+****[**Rejoint le canal de discussion sur le sujet de la documentation**](https://mattermost.incubateur.net/betagouv/channels/incubateur-documentation)****
 {% endhint %}
-

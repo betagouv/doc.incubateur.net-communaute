@@ -10,8 +10,8 @@ La présentation la plus à jour de beta.gouv.fr est lisible sur la [page Approc
 
 ### Présentations beta.gouv.fr
 
-* [**Lien vers la présentation publique beta.gouv.fr**](https://docs.google.com/presentation/d/1u6YdQphMdfFcA2sHIm3Pr7EcCb_n6IrSCDJJs6O7ynE/edit?usp=sharing) ****\(mise à jour : juin 2020\)
-* \*\*\*\*[**Lien vers la présentation lorsqu'une administration veut travailler avec nous**](https://docs.google.com/presentation/d/1ltHiKpjmKkvrXUT4R0CTIt6C0pb-HNpANStKBzHVjFs/edit?usp=sharing)
+* [**Lien vers la présentation publique beta.gouv.fr**](https://docs.google.com/presentation/d/1u6YdQphMdfFcA2sHIm3Pr7EcCb_n6IrSCDJJs6O7ynE/edit?usp=sharing)** **(mise à jour : juin 2020)
+* ****[**Lien vers la présentation lorsqu'une administration veut travailler avec nous**](https://docs.google.com/presentation/d/1ltHiKpjmKkvrXUT4R0CTIt6C0pb-HNpANStKBzHVjFs/edit?usp=sharing)
 
 **Historique**
 
@@ -24,8 +24,8 @@ La présentation la plus à jour de beta.gouv.fr est lisible sur la [page Approc
 L'expression "beta.gouv.fr", parfois abrégé "beta.gouv", peut désigner plusieurs choses : 
 
 * La **communauté beta.gouv.fr**, à savoir toutes les personnes qui travaillent selon l'approche Startup d'État et, quel que soit leur rôle, leur statut, leur incubateur, leur rattachement : ses membres sont en général référencés sur la [page Communauté](https://beta.gouv.fr/communaute/), et sont disponibles sur notre espace Mattersmost ; on parle parfois aussi de **réseau beta.gouv.fr** pour désigner le [réseau de structures, incubateurs et fabriques partenaires](https://beta.gouv.fr/approche/incubateurs) ; 
-* Le **programme beta.gouv.fr** : en 4 phases, il commence par une _investigation_ préalable à la _construction_ d'un service numérique ; on passe ensuite en phase d'accélération si l'utilité du produit est avérée, et enfin en phase de _transfert_ ou de _consolidation_ ****; 
-* La **mission BETA** : c'est le nom de la mission de la Direction intérministérielle du numérique \(DINUM\) à laquelle sont rattachés les membres de l'[équipe d'animation de beta.gouv.fr](../equipe-danimation.md). Son objectif est d'accompagner la croissance et de soutenir le programme, la communauté et le réseau beta.gouv.fr. 
+* Le **programme beta.gouv.fr **: en 4 phases, il commence par une _investigation_ préalable à la _construction_ d'un service numérique ; on passe ensuite en phase d'accélération si l'utilité du produit est avérée, et enfin en phase de _transfert_ ou de _consolidation_** **; 
+* La **mission BETA** : c'est le nom de la mission de la Direction intérministérielle du numérique (DINUM) à laquelle sont rattachés les membres de l'[équipe d'animation de beta.gouv.fr](../equipe-danimation.md). Son objectif est d'accompagner la croissance et de soutenir le programme, la communauté et le réseau beta.gouv.fr. 
 
 ### "Startup d'État" ?
 
@@ -33,11 +33,11 @@ L'expression Startup d'État a été employée pour la première fois en 2013, a
 
 Elle prête toutefois à confusion et génère souvent des malentendus : l'expression induit en erreur, puisqu'elle laisse entendre que l'État incube des startups privées, ou que les services que nous construisons ont chacune une personnalité juridique propre, ce qui n'est pas le cas.
 
-Certaines personnes de la communauté évitent de parler de "Startup d'État" pour désigner les services développés et privilégient l'expression "services conçus **selon l'approche Startup d'État**". \(Avec la majuscule à Startup d’État qui signifie qu’on introduit un concept entier, par opposition à startup d’État, qui laisse entendre que c’est une startup de l’État, avec toutes les questions de statut moral ; c’est comme les guillemets, mais sans l’aspect dépréciatif\). 
+Certaines personnes de la communauté évitent de parler de "Startup d'État" pour désigner les services développés et privilégient l'expression "services conçus **selon l'approche Startup d'État**". (Avec la majuscule à Startup d’État qui signifie qu’on introduit un concept entier, par opposition à startup d’État, qui laisse entendre que c’est une startup de l’État, avec toutes les questions de statut moral ; c’est comme les guillemets, mais sans l’aspect dépréciatif). 
 
-### Comment parler de l'approche Startup d'État sans tomber dans le jargon de la _Startup Nation_ ? 
+### Comment parler de l'approche Startup d'État sans tomber dans le jargon de la _Startup Nation _? 
 
-L'approche Startup d'État diffère de ce qui est usuellement pratiqué au sein du secteur public dans la conception de services numériques. Il est souvent contre-productif d'employer un langage jargonneux \("agile", "scrum", etc\) pour décrire comment nous travaillons. Les grandes différences dans nos manières de faire sont résumées au sein [du manifeste de beta.gouv.fr](https://beta.gouv.fr/incubateurs/) et peuvent être reformulées ainsi :
+L'approche Startup d'État diffère de ce qui est usuellement pratiqué au sein du secteur public dans la conception de services numériques. Il est souvent contre-productif d'employer un langage jargonneux ("agile", "scrum", etc) pour décrire comment nous travaillons. Les grandes différences dans nos manières de faire sont résumées au sein [du manifeste de beta.gouv.fr](https://beta.gouv.fr/incubateurs/) et peuvent être reformulées ainsi :
 
 1. **Nous cherchons constamment l'impact** : les décisions et priorités des équipes sont guidées par les retours des utilisateurs et non par un cahier des charges défini une fois pour toute par l'administration. Tandis que ce dernier impose une fois pour toute un calendrier et une spécification du produit attendu, l'écoute des besoins usagers conduit à faire évoluer le service au fil de l'eau. 
 2. **Nous constituons des équipes autonomes**, responsables de leur budget et de leurs outils, et constituées d'experts du numérique travaillant au sein de l'État. En particulier, nos équipes bénéficient d'un espace de liberté pour innover, sans avoir par exemple à passer par les règles inhérentes à la structure ou par les circuits de validation habituels.
@@ -53,7 +53,6 @@ L'expression :
 >
 > « Produire rapidement et durablement des outils numériques qui améliorent le service public », c’est très bien. Ou « Les Startups d’État, un moyen de construire des produits numériques qui améliorent le service public ».
 
-Cette phrase \(citation d'Hela Ghariani\) peut également permettre d'expliquer simplement ce que nous faisons :
+Cette phrase (citation d'Hela Ghariani) peut également permettre d'expliquer simplement ce que nous faisons :
 
 > Partir d’un problème précis identifié sur le terrain, construire une équipe animée et motivée pour le résoudre et avancer pas à pas pour construire la solution et sa stratégie de déploiement.
-

@@ -1,12 +1,20 @@
 # Gitbook
 
-Pour lancer un guide en ligne, vous pouvez vous renseigner sur le salon Mattermost : \#incubateur-documentation.
+Pour lancer un guide en ligne, vous pouvez vous renseigner sur le salon Mattermost : #incubateur-documentation.
 
-{% page-ref page="comment-contribuer-a-cette-documentation.md" %}
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
 
-{% page-ref page="documentation-provisoire-a-stabilisee.md" %}
+{% content-ref url="comment-contribuer-a-cette-documentation.md" %}
+[comment-contribuer-a-cette-documentation.md](comment-contribuer-a-cette-documentation.md)
+{% endcontent-ref %}
 
-{% page-ref page="recommandations.md" %}
+{% content-ref url="documentation-provisoire-a-stabilisee.md" %}
+[documentation-provisoire-a-stabilisee.md](documentation-provisoire-a-stabilisee.md)
+{% endcontent-ref %}
 
-
+{% content-ref url="recommandations.md" %}
+[recommandations.md](recommandations.md)
+{% endcontent-ref %}
 

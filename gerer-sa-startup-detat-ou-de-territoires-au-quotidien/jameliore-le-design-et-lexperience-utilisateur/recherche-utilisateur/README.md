@@ -1,15 +1,15 @@
 # Mener la recherche utilisateur
 
-![traduction du sch&#xE9;ma de Nielsen Norman Group](../../../.gitbook/assets/methode_test.png)
+![traduction du schéma de Nielsen Norman Group](../../../.gitbook/assets/methode_test.png)
 
 ## Faire des tests utilisateurs
 
 {% hint style="success" %}
-**Fiche récap** [**Tests utilisateurs**](https://docs.google.com/document/d/1NHrwlGVDvzoctdAWmkvXwswWrQi3e7k_diTRks_0Lxo/edit?usp=sharing) **à imprimer**
+**Fiche récap** [**Tests utilisateurs**](https://docs.google.com/document/d/1NHrwlGVDvzoctdAWmkvXwswWrQi3e7k_diTRks\_0Lxo/edit?usp=sharing) **à imprimer**
 {% endhint %}
 
 {% hint style="success" %}
-**Présentation** [**Tests utilisateurs « faits maison »**](https://docs.google.com/presentation/d/1YWMdMD__ZIEkRBo8UUpI9hVdjTbRhsIGfIF4fPQXbd0/edit?usp=sharing) **pour s'auto-former à :**
+**Présentation** [**Tests utilisateurs « faits maison »**](https://docs.google.com/presentation/d/1YWMdMD\_\_ZIEkRBo8UUpI9hVdjTbRhsIGfIF4fPQXbd0/edit?usp=sharing) **pour s'auto-former à :**
 
 * préparer ses tests utilisateurs
 * tester dans de bonnes conditions
@@ -19,7 +19,7 @@
 ## Faire des entretiens utilisateurs
 
 {% hint style="success" %}
-**Présentation** [**Entretiens utilisateurs**](https://docs.google.com/presentation/d/16XIfoFA5JYSnZZB-eomy22k8RlRo7qXnAakGZ0bpNO0/edit#slide=id.g73cc8a2fd8_0_101) **pour s'auto-former à :**
+**Présentation** [**Entretiens utilisateurs**](https://docs.google.com/presentation/d/16XIfoFA5JYSnZZB-eomy22k8RlRo7qXnAakGZ0bpNO0/edit#slide=id.g73cc8a2fd8\_0\_101) **pour s'auto-former à :**
 
 * organiser des entretiens exploratoires
 * animer un entretien
@@ -48,10 +48,9 @@
 ## Prioriser les fonctionnalités
 
 {% hint style="success" %}
-\*\*\*\*[**Prioriser les fonctionnalités grâce aux retours utilisateurs**](prioriser-les-fonctionnalites-grace-aux-retours-utilisateurs.md)\*\*\*\*
+****[**Prioriser les fonctionnalités grâce aux retours utilisateurs**](prioriser-les-fonctionnalites-grace-aux-retours-utilisateurs.md)****
 {% endhint %}
 
-## Cartographier l'expérience utilisateur \(Experience map\)
+## Cartographier l'expérience utilisateur (Experience map)
 
 [ Présentation de la méthode](https://docs.google.com/presentation/d/1nYbsL7YR9zo63Qk7Pc1gezXGti3c45FMwxFe5J9U_YY/edit?usp=sharing)
-

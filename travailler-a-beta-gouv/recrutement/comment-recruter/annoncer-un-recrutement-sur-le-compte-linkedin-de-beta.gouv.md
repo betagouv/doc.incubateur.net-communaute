@@ -20,17 +20,17 @@ description: Publier une annonce de recrutement sur le compte Linkedin de beta.g
 
 ### 2. Réutilise cette trame de post Linkedin.
 
-On recrute : _**\[NOM DU POSTE\]**_  
-  
-_**\[VOCATION DE TA SE\]**_, c'est l'ambition de la Startup d'État _**\[NOM DE TA SE\]**_ [_**\[Emoji d'illustration\]**_](https://rocketemoji.co/)_**.**_  
-  
-Cette startup d'Etat recrute :  
-🔹 Profil : _**\[Indépendant, contractuel ou fonctionnaire\]**_  
-🔹 Durée et date de début : _**\[X mois à partir de juin\]**_  
-🔹 Rythme de travail : _**\[1,2,3,4 ou 5 jours par semaine\]**_  
-🔹 Localisation : _**\[ Télétravail, locaux disponibles à Paris/Lyon/...\]**_  
-  
-Pour plus d'informations et postuler : _**\[Lien vers ton offre\]**_
+On recrute : _**\[NOM DU POSTE]**_\
+\
+_**\[VOCATION DE TA SE]**_, c'est l'ambition de la Startup d'État _**\[NOM DE TA SE]**_ [_**\[Emoji d'illustration\]**_](https://rocketemoji.co)_**.**_\
+\
+Cette startup d'Etat recrute :\
+🔹 Profil : _**\[Indépendant, contractuel ou fonctionnaire]**_\
+🔹 Durée et date de début : _**\[X mois à partir de juin]**_\
+🔹 Rythme de travail : _**\[1,2,3,4 ou 5 jours par semaine]**_\
+🔹 Localisation : _**\[ Télétravail, locaux disponibles à Paris/Lyon/...]**_\
+\
+Pour plus d'informations et postuler : _**\[Lien vers ton offre]**_
 
 _**----**_
 
@@ -38,13 +38,13 @@ _**----**_
 
 ![](../../../.gitbook/assets/testcapture.jpg)
 
-### 3. Envoie ce post et l'image d'illustration sur[ \#reseau-social-linkedin](https://mattermost.incubateur.net/betagouv/channels/tmp-atteindre-20000-followers-linkedin)
+### 3. Envoie ce post et l'image d'illustration sur[ #reseau-social-linkedin](https://mattermost.incubateur.net/betagouv/channels/tmp-atteindre-20000-followers-linkedin)
 
 ### 4. Un membre de l'équipe beta.gouv le validera avec toi et le publiera sur le compte Linkedin de beta.gouv
 
 ## Alternative - Créer une offre de recrutement sur le compte Linkedin
 
-En faire la demande sur [ \#reseau-social-linkedin](https://mattermost.incubateur.net/betagouv/channels/tmp-atteindre-20000-followers-linkedin).
+En faire la demande sur [ #reseau-social-linkedin](https://mattermost.incubateur.net/betagouv/channels/tmp-atteindre-20000-followers-linkedin).
 
 ## Comment choisir ?
 
@@ -59,4 +59,3 @@ Il existe deux façons d'annoncer un recrutement sur le compte Linkedin de beta.
 
 * Avantage : Ca augmente drastiquement le nombre de candidats car ils ont juste à postuler avec leur compte Linkedin
 * Inconvénient : Nous ne pouvons publier qu'une seule offre d'emploi à la fois pour l'instant.
-

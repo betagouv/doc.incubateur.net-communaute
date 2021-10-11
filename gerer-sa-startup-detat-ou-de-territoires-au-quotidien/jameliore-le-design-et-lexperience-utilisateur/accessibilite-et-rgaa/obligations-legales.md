@@ -8,13 +8,13 @@ En France, plusieurs lois viennent encadrer l'accessibilité numérique rendant 
 Les produits des Startup d’État **doivent être accessibles.**
 {% endhint %}
 
-Chaque service numérique doit être en conformité au **niveau double A** \(AA\) du Référentiel Général d’Accessibilité des Administrations. Concrètement cela implique les choses suivantes :
+Chaque service numérique doit être en conformité au **niveau double A** (AA) du Référentiel Général d’Accessibilité des Administrations. Concrètement cela implique les choses suivantes :
 
 * **afficher l’état de conformité du site** sur la page d’accueil ;
-* tester l'accessibilité de son service et publier les résultats **dans une** déclaration de conformité au RGAA \(et justifier les manquements aux règles si besoin\) ;
+* tester l'accessibilité de son service et publier les résultats **dans une **déclaration de conformité au RGAA (et justifier les manquements aux règles si besoin) ;
 * expliquer la politique d’accessibilité suivie.
 
-![SignalConso affiche son taux de conformit&#xE9; \(partiel\) en fin de page](../../../.gitbook/assets/image%20%2814%29%20%282%29%20%282%29%20%281%29.png)
+![SignalConso affiche son taux de conformité (partiel) en fin de page](<../../../.gitbook/assets/image (14) (2) (2) (1).png>)
 
 En cas de manquement à la réglementation, entraînant une discrimination d’accès, l’éditeur d’un site est passible d’une amende annuelle de 20 000 €.
 
@@ -31,11 +31,13 @@ Contactez l'équipe Designers Transverses pour une présentation sur les obligat
 
 Le Kit Accessibilité est là pour vous accompagner dans cette démarche, petit à petit, tout au long de la vie de votre startup : se sensibiliser à l'accessibilité en phase d'investigation, mettre en place les bases les plus simples en phase de construction jusqu'à passer l'audit de conformité en phase de consolidation !
 
-{% page-ref page="kit-accessibilite/" %}
+{% content-ref url="kit-accessibilite/" %}
+[kit-accessibilite](kit-accessibilite/)
+{% endcontent-ref %}
 
-Le programme Access vous accompagne dans les démarches officielles \(audit RGAA\)
+Le programme Access vous accompagne dans les démarches officielles (audit RGAA)
 
-{% page-ref page="acces.md" %}
-
-
+{% content-ref url="acces.md" %}
+[acces.md](acces.md)
+{% endcontent-ref %}
 

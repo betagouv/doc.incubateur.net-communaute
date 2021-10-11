@@ -1,5 +1,5 @@
 ---
-description: 'Présentation de la SCIC, de son fonctionnement et des rôles et responsabilités'
+description: Présentation de la SCIC, de son fonctionnement et des rôles et responsabilités
 ---
 
 # De la start-up d'Etat à la Société Coopérative d'Intérêt Collectif
@@ -45,7 +45,7 @@ Les établissements publics **disposent de la personnalité morale**. Ils sont r
 {% endtab %}
 
 {% tab title="Fondations et fonds de dotation" %}
-Lorsque la fondation \(ou le fond de dotation\) dispose de la personnalité morale, l'Administration n'est pas responsable des contrats passés. Lorsque la fondation ne dispose pas de la personnalité morale, c'est la personne morale qui l'a créée qui sera responsable des actes et contrats passés. 
+Lorsque la fondation (ou le fond de dotation) dispose de la personnalité morale, l'Administration n'est pas responsable des contrats passés. Lorsque la fondation ne dispose pas de la personnalité morale, c'est la personne morale qui l'a créée qui sera responsable des actes et contrats passés. 
 {% endtab %}
 {% endtabs %}
 
@@ -53,11 +53,11 @@ Lorsque la fondation \(ou le fond de dotation\) dispose de la personnalité mora
 
 {% tabs %}
 {% tab title="SCIC" %}
-La responsabilité civile des partenaires dépend des statuts et de la forme de la société \(c'est-à-dire Société anonyme, Société à responsabilité limitée ou Société par actions simplifiées\).
+La responsabilité civile des partenaires dépend des statuts et de la forme de la société (c'est-à-dire Société anonyme, Société à responsabilité limitée ou Société par actions simplifiées).
 {% endtab %}
 
 {% tab title="GIP" %}
-La responsabilité des partenaires est conjointe, mais non solidaire. Les membres sont tenus à hauteur de leur contribution statutaire en cas de conflits avec les tiers. In fine, seules les personnes publiques membres du GIP \(y compris les administrations\) sont responsables de ses actes.
+La responsabilité des partenaires est conjointe, mais non solidaire. Les membres sont tenus à hauteur de leur contribution statutaire en cas de conflits avec les tiers. In fine, seules les personnes publiques membres du GIP (y compris les administrations) sont responsables de ses actes.
 {% endtab %}
 
 {% tab title="EPA/EPIC" %}
@@ -73,7 +73,7 @@ En cas de litige, les responsabilités sont déterminées selon les statuts.
 
 {% tabs %}
 {% tab title="SCIC" %}
-Les sociétés coopératives d'intérêt collectif peuvent signer des contrats et convention avec l'administration pour leur objectif d'intérêt collectif et selon les modalités prévues par les statuts \(ex : ces derniers peuvent prévoir les domaines pour lesquels les contrats sont signés ou le type de contrat\). Dans le respect des statuts, ils peuvent également s'associer dans le cadres de leurs missions d'intérêt public respectives.
+Les sociétés coopératives d'intérêt collectif peuvent signer des contrats et convention avec l'administration pour leur objectif d'intérêt collectif et selon les modalités prévues par les statuts (ex : ces derniers peuvent prévoir les domaines pour lesquels les contrats sont signés ou le type de contrat). Dans le respect des statuts, ils peuvent également s'associer dans le cadres de leurs missions d'intérêt public respectives.
 {% endtab %}
 
 {% tab title="GIP" %}
@@ -93,24 +93,24 @@ Les fondations bénéficient très souvent d'un soutient économique important d
 
 {% tabs %}
 {% tab title="SCIC" %}
-Les sociétés coopératives d'intérêt collectif **ne sont pas soumises à un contrôle hiérarchique** de leurs actes \(ni devant le préfet ou autre administration\) à l'inverse d'autres structures
+Les sociétés coopératives d'intérêt collectif **ne sont pas soumises à un contrôle hiérarchique** de leurs actes (ni devant le préfet ou autre administration) à l'inverse d'autres structures
 {% endtab %}
 
 {% tab title="GIP" %}
-Les groupements d'intérêt public **ne sont pas soumis à un contrôle hiérarchique** de leurs actes \(ni devant le préfet ou autre administration\) à l'inverse d'autres structures. 
+Les groupements d'intérêt public **ne sont pas soumis à un contrôle hiérarchique** de leurs actes (ni devant le préfet ou autre administration) à l'inverse d'autres structures. 
 
-En revanche, lorsqu'ils sont soumis aux règles de la comptabilité publique, **les GIP peuvent être soumis au contrôle financier et économique de l'Etat**, lorsqu'ils assurent à titre principal la gestion d'un service public administratif en vertu de la [**loi**](https://www.legifrance.gouv.fr/loda/id/LEGIARTI000032442804/2021-04-28/?isSuggest=true)**.**
+En revanche, lorsqu'ils sont soumis aux règles de la comptabilité publique,** les GIP peuvent être soumis au contrôle financier et économique de l'Etat**, lorsqu'ils assurent à titre principal la gestion d'un service public administratif en vertu de la [**loi**](https://www.legifrance.gouv.fr/loda/id/LEGIARTI000032442804/2021-04-28/?isSuggest=true)**.**
 {% endtab %}
 
 {% tab title="EPA/EPIC" %}
-L'acte constitutif peut choisir de maintenir un rapport hiérarchique avec l'Etat, la tutelle. Ainsi, les délibérations des conseils d'administration des établissement ne sont généralement exécutoires de plein droit que si le ministre de tutelle ne s'y oppose pas dans un délai défini \(souvent 15 jours ou 1 mois\).
+L'acte constitutif peut choisir de maintenir un rapport hiérarchique avec l'Etat, la tutelle. Ainsi, les délibérations des conseils d'administration des établissement ne sont généralement exécutoires de plein droit que si le ministre de tutelle ne s'y oppose pas dans un délai défini (souvent 15 jours ou 1 mois).
 
 {% hint style="info" %}
 **Précision : le rattachement à l'Etat ou à une collectivité territoriale**
 
-Chaque établissement est rattaché à une personne publique \(celle dont elle est la continuité, c'est-à-dire celle qui choisit de le créer\). Le rattachemment a des effets juidiques dans son rapport avec l'administration :
+Chaque établissement est rattaché à une personne publique (celle dont elle est la continuité, c'est-à-dire celle qui choisit de le créer). Le rattachemment a des effets juidiques dans son rapport avec l'administration :
 
-* un lien organique, puisque le rattachement peut impliquer, notamment que le directeur est nommé par la collectivité publique créatrice, ou que le président est le maire ou le président du conseil départemental ou un représentant del'Etat \(ex : la présidence du conseil d'administration des établissements communaux peut être assurée par le maire\) ;
+* un lien organique, puisque le rattachement peut impliquer, notamment que le directeur est nommé par la collectivité publique créatrice, ou que le président est le maire ou le président du conseil départemental ou un représentant del'Etat (ex : la présidence du conseil d'administration des établissements communaux peut être assurée par le maire) ;
 * un lien de dépendance budgétaire et financier, puisque la loi peut prévoir une dotation déterminée par l'administration. L'établissement public qui est rattaché à l'Etat est soumis au déféré préfectoral, ce qui n'est pas le cas des autres.
 {% endhint %}
 
@@ -146,7 +146,7 @@ Il est conseillé de se rapprocher d'un avocat ou d'un juriste pour aider à la 
 
 _L'Assemblée générale_
 
-Les sociétés coopératives d'intérêt collectif doivent systématiquement disposer d'au moins 3 associés de types différents \(au moins 1 salarié, 1 utilisateur et 1 associé d'un autre type\). Néanmoins, les statuts peuvent choisir un nombre minimum plus élevé, et, de manière générale détermine les pouvoirs et la composition de l'Assemblée générale.
+Les sociétés coopératives d'intérêt collectif doivent systématiquement disposer d'au moins 3 associés de types différents (au moins 1 salarié, 1 utilisateur et 1 associé d'un autre type). Néanmoins, les statuts peuvent choisir un nombre minimum plus élevé, et, de manière générale détermine les pouvoirs et la composition de l'Assemblée générale.
 
 De plus, la modification des statuts est également systématiquement sur décision de l’Assemblée générale extraordinaire.
 
@@ -161,7 +161,7 @@ Le Conseil d'administration est l'organe de contrôle et de direction des SCIC. 
 * Contrôler l'action du président et du directeur, et le cas échéant le révoquer ;
 * Convoquer l'Assemblée générale ;
 
-Le président du conseil est généralement nommé par le conseil d'administration et peut être révoqué sans aucune justification ou [_ad nutum_](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025559503/) __dans le jargon juridique. Il a des pouvoirs déterminés par les statuts, et sa fonction peut être combinée avec celle du directeur général. Il sera alors, le président directeur général.
+Le président du conseil est généralement nommé par le conseil d'administration et peut être révoqué sans aucune justification ou [_ad nutum_](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025559503/)_ _dans le jargon juridique. Il a des pouvoirs déterminés par les statuts, et sa fonction peut être combinée avec celle du directeur général. Il sera alors, le président directeur général.
 
 _Le gérant_
 
@@ -185,5 +185,4 @@ _Contrats avec les tiers et responsabilité_
 
 La SCIC étant une personne morale de droit privée, les contrats réalisés avec les tiers sont des **contrats de droit privé.**
 
-**La responsabilité des associés et actionnaires dépend de la forme juridique choisie \(SA, SAS et SARL\) et des statuts.**
-
+**La responsabilité des associés et actionnaires dépend de la forme juridique choisie (SA, SAS et SARL) et des statuts.**

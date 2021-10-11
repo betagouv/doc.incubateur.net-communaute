@@ -6,7 +6,7 @@ description: (en cours de rédaction)
 
 ## Définition
 
-Les OKR \(_Objectives and Key Results_\) sont un outil pour fixer des objectifs aux différents niveau de l'organisation.
+Les OKR (_Objectives and Key Results_) sont un outil pour fixer des objectifs aux différents niveau de l'organisation.
 
 > Nous allons parvenir à cet **objectif** en mesurant ces **indicateurs clés**
 
@@ -29,17 +29,15 @@ Les OKR sont fixés au début de chaque trimestre, et évalués à la fin de cel
 
 Exemple d'évaluation :
 
-> **Résultat**  
-> 50 %
+> **Résultat**\
+> ****50 %
 >
-> **Arrêter**  
-> Le sucre.
+> **Arrêter**\
+> ****Le sucre.
 >
-> **Commencer**  
-> La méditation.
+> **Commencer**\
+> ****La méditation.
 >
-> **Continuer**   
+> **Continuer** \
 > Les OKR.
-
-
 

@@ -17,11 +17,11 @@ Ce programme est une expérimentation au sein de beta.gouv.fr depuis mars 2021.
 
 ## Un programme qui répond à des enjeux légaux
 
-En 2020, une étude menée par les Designers Transverses auprès de toutes les SE de l'incubateur a montré qu'**une seule équipe respectait ses obligations légales**. C'est peu 😭. Au niveau national, c'est seulement un peu mieux : seulement [10 % des services publics sont accessibles](https://observatoire.numerique.gouv.fr/).
+En 2020, une étude menée par les Designers Transverses auprès de toutes les SE de l'incubateur a montré qu'**une seule équipe respectait ses obligations légales**. C'est peu 😭. Au niveau national, c'est seulement un peu mieux : seulement [10 % des services publics sont accessibles](https://observatoire.numerique.gouv.fr).
 
-Pour 2021, l'objectif de beta.gouv.fr est que **100 % des SE en accélération et transfert respectent les obligations légales.** En particulier l'obligation d'afficher le « niveau de conformité  RGAA \(Référentiel Général d'Accessibilité pour les Administrations\) » sur la page d'accueil du site.
+Pour 2021, l'objectif de beta.gouv.fr est que **100 % des SE en accélération et transfert respectent les obligations légales. **En particulier l'obligation d'afficher le « niveau de conformité  RGAA (Référentiel Général d'Accessibilité pour les Administrations) » sur la page d'accueil du site.
 
-![SignalConso affiche &quot;partiellement conforme&quot; sur toutes les pages de son service](../../../.gitbook/assets/signal-conso-access.png)
+![SignalConso affiche "partiellement conforme" sur toutes les pages de son service](../../../.gitbook/assets/signal-conso-access.png)
 
 ## Prérequis pour intégrer ce programme
 
@@ -35,18 +35,18 @@ Découvrir le[ Kit d'accessibilité](https://doc.incubateur.net/design/ressource
 
 ## Déroulé du programme Access
 
-| Étapes | Délais | Durées |
-| :--- | :--- | :--- |
-| [ 1. Inscription](https://airtable.com/shrcbylpZ2GCOsK8q) | Jour 1 |  |
-| 2. Présentation du programme | Jour 7 | ~60 minutes |
-| 3. Audit Flash | Jour 15 |  |
-| 4. Implémentation des premières mesures à faible coût |  |  |
-| 5. Audit approfondi par un cabinet spécialisé | ~Jour 30 |  |
-| 6. Accompagnement du cabinet pour atteindre l'objectif |  | 30 jours |
-| 7. Évaluation du programme | ~Jour 60 | ~60 minutes |
+| Étapes                                                    | Délais    | Durées       |
+| --------------------------------------------------------- | --------- | ------------ |
+| [ 1. Inscription](https://airtable.com/shrcbylpZ2GCOsK8q) | Jour 1    |              |
+| 2. Présentation du programme                              | Jour 7    | \~60 minutes |
+| 3. Audit Flash                                            | Jour 15   |              |
+| 4. Implémentation des premières mesures à faible coût     |           |              |
+| 5. Audit approfondi par un cabinet spécialisé             | \~Jour 30 |              |
+| 6. Accompagnement du cabinet pour atteindre l'objectif    |           | 30 jours     |
+| 7. Évaluation du programme                                | \~Jour 60 | \~60 minutes |
 
 {% hint style="info" %}
-Ce programme peut être entièrement financé par beta.gouv.fr pour les Startups d'État en phase d'accélération ou en cours de transfert. L'étape 5 \(audit approfondi par un cabinet\) peut être financée par la DINUM si l'équipe ne dispose pas des ressources nécessaires \(5000€ en moyenne\). Certains incubateurs souhaitent également le financer eux-mêmes.
+Ce programme peut être entièrement financé par beta.gouv.fr pour les Startups d'État en phase d'accélération ou en cours de transfert. L'étape 5 (audit approfondi par un cabinet) peut être financée par la DINUM si l'équipe ne dispose pas des ressources nécessaires (5000€ en moyenne). Certains incubateurs souhaitent également le financer eux-mêmes.
 {% endhint %}
 
 
@@ -74,7 +74,7 @@ L'équipe reçoit alors un rapport contenant :
 * la liste des points conformes : les éléments conforme du site 🎉
 * la liste des éléments à corriger, avec des recommandations et/ou sites à prendre en exemple.
 
-![Rapport de l&apos;audit flash pour Code Du Travail Num&#xE9;rique](../../../.gitbook/assets/image%20%2811%29.png)
+![Rapport de l'audit flash pour Code Du Travail Numérique](<../../../.gitbook/assets/image (11).png>)
 
 
 
@@ -84,14 +84,14 @@ Sur la base des conclusions de l'audit flash, l'équipe de la SE devra implanter
 
 ### Audit de conformité par un cabinet spécialisé
 
-L'équipe est prête à confronter son site auprès d'un cabinet spécialisé pour une **prestation d'audit et d'accompagnement** qui contient :
+L'équipe est prête à confronter son site auprès d'un cabinet spécialisé pour une **prestation d'audit et d'accompagnement **qui contient :
 
-* un audit de conformité RGAA \(pour obtenir le score et le taux de conformité\)
+* un audit de conformité RGAA (pour obtenir le score et le taux de conformité)
 * des recommandations pour améliorer ce score
 
 ### Accompagnement du cabinet pour atteindre l'objectif
 
-L'équipe de la SE et le cabinet travailleront ensemble pour obtenir le score _« Partiellement conforme »_ ou _« Totalement conforme »_.
+L'équipe de la SE et le cabinet travailleront ensemble pour obtenir le score _« Partiellement conforme » _ou _« Totalement conforme »_.
 
 ### Évaluation du programme
 
@@ -100,4 +100,3 @@ Une rétrospective avec l'équipe de la SE permettra d'évaluer les apprentissag
 {% hint style="info" %}
 Vous pouvez poser toutes vos question sur [le salon dédié](https://mattermost.incubateur.net/betagouv/channels/c015lnmttj9) ou à designer@beta.gouv.fr .
 {% endhint %}
-

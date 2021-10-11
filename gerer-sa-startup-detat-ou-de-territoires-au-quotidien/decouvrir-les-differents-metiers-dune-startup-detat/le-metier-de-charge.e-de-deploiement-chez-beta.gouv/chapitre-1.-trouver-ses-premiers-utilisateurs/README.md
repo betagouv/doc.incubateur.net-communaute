@@ -6,7 +6,7 @@ Retrouver dans cette vidéo l'atelier de 2h
 
 ![](https://lh4.googleusercontent.com/G0sHZCcGLLMxUgyko3g0Wcr29Vq2URzEtDunNqmWEtOhv1mzVTgxCN1rIuLY0KGn-76fi9dpetVfC9mFhy9SR56DjxVaZpnZO9yxLFo_XFHDfoXi_AyAioo_nF96pk1j2OFkg3s2)
 
-## **Objectifs et action**  
+## **Objectifs et action  **
 
 Trouvez vos premiers utilisateurs :
 
@@ -16,7 +16,7 @@ Trouvez vos premiers utilisateurs :
 
 Les premiers utilisateurs ont une importance spéciale. Avant de les avoir trouvés, votre solution n’est qu’une idée. 
 
-## **Etude de cas : Peps, le test du prototype** 
+## **Etude de cas : Peps, le test du prototype **
 
 Suite à l’abandon d’une première version du produit, des entretiens utilisateurs ont été menés qui ont révélé trois types d’agriculteurs : l’innovateur agronomique, l’innovateur technique et le traditionnel. Ce constat a ensuite permis d’élaborer une nouvelle proposition : 
 
@@ -25,8 +25,8 @@ Suite à l’abandon d’une première version du produit, des entretiens utilis
 Nous avons alors testé la mise en place d’un site de partage d’expérience  entre agriculteurs selon les modalités suivantes : 
 
 * 60 agriculteurs
-* un territoire \(grand quart nord est de la France\)
-* une filière \(grande culture\)
+* un territoire (grand quart nord est de la France)
+* une filière (grande culture)
 * un site beta fermé
 
 → Objectif : valider la proposition de valeur
@@ -40,7 +40,7 @@ Les indicateurs suivis :
 
 → Des résultats assez bons pour lancer le service
 
-{% page-ref page="7-techniques-pour-un-bon-contact-avec-vos-usagers.md" %}
-
-
+{% content-ref url="7-techniques-pour-un-bon-contact-avec-vos-usagers.md" %}
+[7-techniques-pour-un-bon-contact-avec-vos-usagers.md](7-techniques-pour-un-bon-contact-avec-vos-usagers.md)
+{% endcontent-ref %}
 

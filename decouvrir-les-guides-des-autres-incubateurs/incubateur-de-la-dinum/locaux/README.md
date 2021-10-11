@@ -1,10 +1,18 @@
-# Locaux \(Ségur\)
+# Locaux (Ségur)
 
-{% page-ref page="ou-travailler.md" %}
+{% content-ref url="ou-travailler.md" %}
+[ou-travailler.md](ou-travailler.md)
+{% endcontent-ref %}
 
-{% page-ref page="focus-segur.md" %}
+{% content-ref url="focus-segur.md" %}
+[focus-segur.md](focus-segur.md)
+{% endcontent-ref %}
 
-{% page-ref page="badge-pour-travailler-a-segur.md" %}
+{% content-ref url="badge-pour-travailler-a-segur.md" %}
+[badge-pour-travailler-a-segur.md](badge-pour-travailler-a-segur.md)
+{% endcontent-ref %}
 
-
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
 

@@ -1,5 +1,5 @@
 ---
-description: 'Le rassemblement hebdomadaire du réseau beta.gouv, tous les jeudis à midi !'
+description: Le rassemblement hebdomadaire du réseau beta.gouv, tous les jeudis à midi !
 ---
 
 # L'hebdo beta.gouv.fr
@@ -21,13 +21,13 @@ Pour rejoindre l'hebdo beta.gouv.fr :
 * Configure ton microphone, ta caméra et ton audio 
 * Déplace toi avec les flèches de ton clavier en suivant les flèches pour rejoindre l'espace où se réunit l'hebdo beta.gouv.fr
 
-![L&apos;hebdo beta.gouv sur Gather.Town](../../../.gitbook/assets/image%20%2814%29%20%281%29%20%281%29.png)
+![L'hebdo beta.gouv sur Gather.Town](<../../../.gitbook/assets/image (14) (1) (1).png>)
 
 ## L'hebdo beta.gouv.fr :  « Comment »
 
 ### Avant
 
-* Pensez à préparer votre présentation et vos sujets à l'avance, qu'y a-t-il d'intéressant pour les autres \(accomplissements\) ? pour vous \(blocages\) ? sur quoi avez vous besoin d'aide ? ;
+* Pensez à préparer votre présentation et vos sujets à l'avance, qu'y a-t-il d'intéressant pour les autres (accomplissements) ? pour vous (blocages) ? sur quoi avez vous besoin d'aide ? ;
 * Vous n’êtes pas là ? Faites passer votre message dans l'infolettre interne ;
 * Invitez les nouvelles et les nouveaux de votre équipe à se présenter.
 
@@ -36,8 +36,8 @@ Pour rejoindre l'hebdo beta.gouv.fr :
 * Désigner un·e volontaire pour : 
   * La facilitation de l'hebdo :  animer l'hebdo, en rappeler les règles et les faire respecter ;
   * La gestion du temps : gérer le chronomètre.
-* Nouvelles, nouveaux, visiteuses, visiteurs : **présentez-vous** :\).
-* C’est au maximum **1min** par **personne**, dont **5-10s** pour vous _présenter brièvement._ Evitez les **acronymes**. Si vous ne pouvez pas, traduisez-les. Si vous n’avez rien à dire, dites-le et passer votre tour. **Évitez le dialogue** pendant l'hebdo.
+* Nouvelles, nouveaux, visiteuses, visiteurs : **présentez-vous** :).
+* C’est au maximum **1min** par **personne**, dont **5-10s** pour vous _présenter brièvement. _Evitez les **acronymes**. Si vous ne pouvez pas, traduisez-les. Si vous n’avez rien à dire, dites-le et passer votre tour. **Évitez le dialogue** pendant l'hebdo.
 
 ### Après
 
@@ -47,5 +47,4 @@ Pour rejoindre l'hebdo beta.gouv.fr :
 
 
 
-![Avant mars 2020, nous organisions chaque semaine un Stand-up dans nos locaux](../../../.gitbook/assets/image%20%2814%29%20%282%29%20%282%29.png)
-
+![Avant mars 2020, nous organisions chaque semaine un Stand-up dans nos locaux](<../../../.gitbook/assets/image (14) (2) (2).png>)

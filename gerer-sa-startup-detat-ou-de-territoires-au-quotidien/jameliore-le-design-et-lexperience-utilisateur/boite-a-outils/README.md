@@ -1,16 +1,14 @@
----
-description: >-
-  Cette rubrique propose des outils/ressources à destination des équipes des
-  Startups d'état. Elle est vouée à être étoffée avec le temps.
----
-
 # Produire des contenus
 
-{% page-ref page="ecriture-inclusive.md" %}
+{% content-ref url="ecriture-inclusive.md" %}
+[ecriture-inclusive.md](ecriture-inclusive.md)
+{% endcontent-ref %}
 
-{% page-ref page="introduction-a-lux-writing.md" %}
+{% content-ref url="introduction-a-lux-writing.md" %}
+[introduction-a-lux-writing.md](introduction-a-lux-writing.md)
+{% endcontent-ref %}
 
-{% page-ref page="comment-produire-une-documentation-utile-et-utilisable/" %}
-
-
+{% content-ref url="comment-produire-une-documentation-utile-et-utilisable/" %}
+[comment-produire-une-documentation-utile-et-utilisable](comment-produire-une-documentation-utile-et-utilisable/)
+{% endcontent-ref %}
 

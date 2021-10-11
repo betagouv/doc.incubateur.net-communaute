@@ -5,9 +5,9 @@ description: Séminaire en ligne.
 # Organiser un webinaire
 
 {% hint style="success" %}
-\*\*\*\*[**https://webinaire.numerique.gouv.fr/welcome**](https://webinaire.numerique.gouv.fr/welcome) ****a l'avantage de permettre la connexion par téléphone et de tenir la charge pour de nombreuses personnes.   
-  
-Pour contacter l'équipe qui le développe sur mattermost : \#tmp-webinaire-numerique-gouv-fr
+****[**https://webinaire.numerique.gouv.fr/welcome**](https://webinaire.numerique.gouv.fr/welcome)** **a l'avantage de permettre la connexion par téléphone et de tenir la charge pour de nombreuses personnes. \
+\
+Pour contacter l'équipe qui le développe sur mattermost : #tmp-webinaire-numerique-gouv-fr
 {% endhint %}
 
 ## **Pas à pas pour utiliser Livestorm**
@@ -17,13 +17,13 @@ Nous avons résilié en juin 2021 notre abonnement Livestorm beta et décidé d'
 {% endhint %}
 
 {% hint style="danger" %}
-**Bien suivre le tutoriel et les conseils ci-dessous** \(une erreur de personnalisation d'e-mail de suivi peut entrainer l'envoi d'une information hors sujet à des centaines de participants\)
+**Bien suivre le tutoriel et les conseils ci-dessous** (une erreur de personnalisation d'e-mail de suivi peut entrainer l'envoi d'une information hors sujet à des centaines de participants)
 {% endhint %}
 
-{% embed url="https://www.youtube.com/watch?v=SUDu3BHAfpc&list=PLlCxkt1J864bo3kODkJbpc6mPjQCFmZlh&index=2" caption="" %}
+{% embed url="https://www.youtube.com/watch?v=SUDu3BHAfpc&list=PLlCxkt1J864bo3kODkJbpc6mPjQCFmZlh&index=2" %}
 
 {% hint style="success" %}
-Tous les **intervenant** doivent être ajoutés au moment de la création du webinaire, avant l'événement. Le jour J, **une seule personne doit se connecter en qualité d’administrateur** \(c'est-à-dire avec le login [corine.waroquiers@data.gouv.fr](mailto:corine.waroquiers@data.gouv.fr) pour pouvoir lancer et terminer la retransmission. 
+Tous les **intervenant **doivent être ajoutés au moment de la création du webinaire, avant l'événement. Le jour J, **une seule personne doit se connecter en qualité d’administrateur **(c'est-à-dire avec le login [corine.waroquiers@data.gouv.fr](mailto:corine.waroquiers@data.gouv.fr) pour pouvoir lancer et terminer la retransmission. 
 {% endhint %}
 
 {% hint style="warning" %}
@@ -31,16 +31,15 @@ Bien s'assurer qu'un événement n'a pas déjà été programmé sur le même cr
 {% endhint %}
 
 {% hint style="info" %}
-**Une personne avec le statut membre sur le compte Livestorm ne pourra jamais s'inscrire à un webinaire** via la page d'inscription. Elle pourra en revanche rejoindre n'importe quel webinaire à partir de l'interface administrative
+**Une personne avec le statut membre sur le compte Livestorm ne pourra jamais s'inscrire à un webinaire **via la page d'inscription. Elle pourra en revanche rejoindre n'importe quel webinaire à partir de l'interface administrative
 {% endhint %}
 
 {% hint style="info" %}
-**Un export** _**analytics**_ **demandé après la fin d'un webinaire sera envoyé par défaut à l'adresse contact@api.gouv.fr**. Contactez un membre de l'équipe pour récupérer le fichier. 
+**Un export **_**analytics**_** demandé après la fin d'un webinaire sera envoyé par défaut à l'adresse contact@api.gouv.fr**. Contactez un membre de l'équipe pour récupérer le fichier. 
 {% endhint %}
 
 {% hint style="info" %}
 Login : **contact@api.gouv.fr**
 
-Mot de passe : demander en message privé à [corine.waroquiers@data.gouv.fr](mailto:corine.waroquiers@data.gouv.fr) \(présente sur mattermost\) ou quelqu'un de l'équipe api.
+Mot de passe : demander en message privé à [corine.waroquiers@data.gouv.fr](mailto:corine.waroquiers@data.gouv.fr) (présente sur mattermost) ou quelqu'un de l'équipe api.
 {% endhint %}
-

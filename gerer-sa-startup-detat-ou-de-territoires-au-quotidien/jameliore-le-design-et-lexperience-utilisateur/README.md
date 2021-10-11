@@ -9,13 +9,12 @@ Vous y trouverez notamment la réponse à ces questions :
 * comment concevoir un service numérique **accessible** ?
 * comment s'adresser à vos utilisateurs et **produire des contenus clairs et lisibles** ?
 * comment **recruter** le ou la designer qui convienne aux besoins de votre produit ?
-* comment **participer à la communauté design** de betagouv ?
+* comment **participer à la communauté design **de betagouv ?
 * quels **outils spécifiques à l'administration** peut améliorer l'expérience de vos utilisateurs ?
 
 {% hint style="info" %}
 Pour obtenir de l'aide sur un sujet de design, vous pouvez [solliciter - gratuitement - l'équipe des designers transverse](../je-sollicite-de-laide-transverse/design-ux.md) 👋
 
-En écrivant sur **\#incubateur-team-designers-transverse** sur Mattermost  
+En écrivant sur **#incubateur-team-designers-transverse **sur Mattermost\
 En prenant rendez-vous sur 🚑 [Docteur Design](https://airtable.com/shrhbALSi4MptguEA)
 {% endhint %}
-

@@ -1,9 +1,3 @@
----
-description: >-
-  Nous accueillons joyeusement l'humanité des personnes et appliquons la charte
-  de beta.gouv.fr inspirée de celle de GOV.UK.
----
-
 # Notre charte
 
 ![](../../.gitbook/assets/charte_beta_page-0001.jpg)
@@ -53,4 +47,3 @@ description: >-
 {% hint style="info" %}
 Cette charte est librement inspirée de celle de [Gov.UK](https://twitter.com/gilest/status/735131901900521472).
 {% endhint %}
-

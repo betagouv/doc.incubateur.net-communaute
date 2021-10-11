@@ -8,7 +8,7 @@ description: >-
 
 ## Qu'est-ce qu'un Etablissement public ?
 
-Les établissements publics sont des personnes morales de droit public qui **disposent de l'autonomie administrative et financière et chargées d'une mission d'intérêt public**. **Ils sont créés et rattachés à une personne publique qui peut être l'Etat ou une collectivité territoriale**. Ils peuvent être soumis à deux régimes juridiques qui détermineront le droit qui leur sera applicable :
+Les établissements publics sont des personnes morales de droit public qui **disposent de l'autonomie administrative et financière et chargées d'une mission d'intérêt public**.** Ils sont créés et rattachés à une personne publique qui peut être l'Etat ou une collectivité territoriale**. Ils peuvent être soumis à deux régimes juridiques qui détermineront le droit qui leur sera applicable :
 
 * Les Etablissements publics administratifs ; 
 * Les Etablissements publics industriels et commerciaux.
@@ -21,9 +21,9 @@ Ces critères sont désormais connus :
 * les ressources de l'établissement public ;
 * les modalités de fonctionnement, qui sont déterminés par l'acte créateur. Il s'agit de contrôle si l'établissement se comporte de manière similaire à une entreprise privée.
 
-**A savoir** : Lorsqu'une loi a choisi un type d'établissement \(administratif ou à caractère industriel et commecial\), ce choix s'impose. En revanche, le choix du pouvoir réglementaire peut être requalifié par le juge. Il faut donc veiller dans ce cas à ce que soient respectés les critères jurisprudentiels. 
+**A savoir** : Lorsqu'une loi a choisi un type d'établissement (administratif ou à caractère industriel et commecial), ce choix s'impose. En revanche, le choix du pouvoir réglementaire peut être requalifié par le juge. Il faut donc veiller dans ce cas à ce que soient respectés les critères jurisprudentiels. 
 
-Les établissements publics ont un budget qui est important \(entre 30 et 250 millions de budget\) et dont la masse « salariale » peut être également importante \(jusqu’à environ 2000 personnes employés\).
+Les établissements publics ont un budget qui est important (entre 30 et 250 millions de budget) et dont la masse « salariale » peut être également importante (jusqu’à environ 2000 personnes employés).
 
 ### Quel intérêt à créer un Etablissement public ?
 
@@ -33,7 +33,7 @@ Les avantages et intérêts à créer un établissement public diffèrent en fon
 
 {% tabs %}
 {% tab title="EPA" %}
-**L'établissement public administratif \(EPA\) permet** :
+**L'établissement public administratif (EPA) permet** :
 
 * La gestion d'une mission d'intérêt public dans le cadre des règles de droit public ;
 * La gestion d'un budget et d'une masse salariale très importante ;
@@ -43,7 +43,7 @@ Les avantages et intérêts à créer un établissement public diffèrent en fon
 {% endtab %}
 
 {% tab title="EPIC" %}
-**L'établissement public industriel et commercial \(EPIC\) permet** :
+**L'établissement public industriel et commercial (EPIC) permet** :
 
 * La gestion d'une mission d'intérêt public dans le cadre des règles de droit privé ;
 * La gestion d'un budget et d'une masse salariale très importante ;
@@ -64,7 +64,7 @@ Deux manières :
 Le parlement vote une loi, qui acte la création d'un établissement public. Il est alors fréquent que le gouvernement prenne un décret d'application contenu notamment les statuts de l'établissement, mais les modalités de gestion et le caractère administratif ou industriel et commercial peut être déterminé dans la loi.
 {% endtab %}
 
-{% tab title="Par l\'administration" %}
+{% tab title="Par l'administration" %}
 L'administration peut **prendre une ordonnance, un décret ou un arrêté pour créer elle-même un établissement public. L'acte devra contenir**
 
 * la détermination et le rôle des organes de direction et d'administration ;
@@ -100,11 +100,11 @@ Les sociétés coopératives d'intérêt collectif **disposent de la personnalit
 {% endtab %}
 
 {% tab title="Fondations et fonds de dotation" %}
-Lorsque la fondation \(ou le fond de dotation\) dispose de la personnalité morale, l'Administration n'est pas responsable des contrats passés. Lorsque la fondation ne dispose pas de la personnalité morale, c'est la personne morale qui l'a créée qui sera responsable des actes et contrats passés. 
+Lorsque la fondation (ou le fond de dotation) dispose de la personnalité morale, l'Administration n'est pas responsable des contrats passés. Lorsque la fondation ne dispose pas de la personnalité morale, c'est la personne morale qui l'a créée qui sera responsable des actes et contrats passés. 
 {% endtab %}
 {% endtabs %}
 
-#### En cas de litige devant un tribunal, la responsabilité \(des associés\) est-elle conjointe ou solidaire ?
+#### En cas de litige devant un tribunal, la responsabilité (des associés) est-elle conjointe ou solidaire ?
 
 {% tabs %}
 {% tab title="EPA/EPIC" %}
@@ -112,11 +112,11 @@ Les établissements publics sont responsables en cas de faute, et peuvent l'êtr
 {% endtab %}
 
 {% tab title="GIP" %}
-La responsabilité des partenaires est conjointe, mais non solidaire. Les membres sont tenus à hauteur de leur contribution statutaire en cas de conflits avec les tiers. In fine, seules les personnes publiques membres du GIP \(y compris les administrations\) sont responsables de ses actes.
+La responsabilité des partenaires est conjointe, mais non solidaire. Les membres sont tenus à hauteur de leur contribution statutaire en cas de conflits avec les tiers. In fine, seules les personnes publiques membres du GIP (y compris les administrations) sont responsables de ses actes.
 {% endtab %}
 
 {% tab title="SCIC" %}
-La responsabilité civile des partenaires dépend des statuts et de la forme de la société \(c'est-à-dire Société anonyme, Société à responsabilité limitée ou Société par actions simplifiées\).
+La responsabilité civile des partenaires dépend des statuts et de la forme de la société (c'est-à-dire Société anonyme, Société à responsabilité limitée ou Société par actions simplifiées).
 {% endtab %}
 
 {% tab title="Fondations et fonds de dotation" %}
@@ -136,7 +136,7 @@ Les groupements d'intérêt public peuvent signer des contrats et convention ave
 {% endtab %}
 
 {% tab title="SCIC" %}
-Les sociétés coopératives d'intérêt collectif peuvent signer des contrats et convention avec l'administration pour leur objectif d'intérêt collectif et selon les modalités prévues par les statuts \(ex : ces derniers peuvent prévoir les domaines pour lesquels les contrats sont signés ou le type de contrat\). Dans le respect des statuts, ils peuvent également s'associer dans le cadres de leurs missions d'intérêt public respectives.
+Les sociétés coopératives d'intérêt collectif peuvent signer des contrats et convention avec l'administration pour leur objectif d'intérêt collectif et selon les modalités prévues par les statuts (ex : ces derniers peuvent prévoir les domaines pour lesquels les contrats sont signés ou le type de contrat). Dans le respect des statuts, ils peuvent également s'associer dans le cadres de leurs missions d'intérêt public respectives.
 {% endtab %}
 
 {% tab title="Fondations et fonds de dotation" %}
@@ -148,14 +148,14 @@ Les fondations bénéficient très souvent d'un soutient économique important d
 
 {% tabs %}
 {% tab title="EPA/EPIC" %}
-L'acte constitutif peut choisir de maintenir un rapport hiérarchique avec l'Etat, la tutelle. Ainsi, les délibérations des conseils d'administration des établissement ne sont généralement exécutoires de plein droit que si le ministre de tutelle ne s'y oppose pas dans un délai défini \(souvent 15 jours ou 1 mois\).
+L'acte constitutif peut choisir de maintenir un rapport hiérarchique avec l'Etat, la tutelle. Ainsi, les délibérations des conseils d'administration des établissement ne sont généralement exécutoires de plein droit que si le ministre de tutelle ne s'y oppose pas dans un délai défini (souvent 15 jours ou 1 mois).
 
 {% hint style="info" %}
 **Précision : le rattachement à l'Etat ou à une collectivité territoriale**
 
-Chaque établissement est rattaché à une personne publique \(celle dont elle est la continuité, c'est-à-dire celle qui choisit de le créer\). Le rattachemment a des effets juidiques dans son rapport avec l'administration :
+Chaque établissement est rattaché à une personne publique (celle dont elle est la continuité, c'est-à-dire celle qui choisit de le créer). Le rattachemment a des effets juidiques dans son rapport avec l'administration :
 
-* un lien organique, puisque le rattachement peut impliquer, notamment que le directeur est nommé par la collectivité publique créatrice, ou que le président est le maire ou le président du conseil départemental ou un représentant del'Etat \(ex : la présidence du conseil d'administration des établissements communaux peut être assurée par le maire\) ;
+* un lien organique, puisque le rattachement peut impliquer, notamment que le directeur est nommé par la collectivité publique créatrice, ou que le président est le maire ou le président du conseil départemental ou un représentant del'Etat (ex : la présidence du conseil d'administration des établissements communaux peut être assurée par le maire) ;
 * un lien de dépendance budgétaire et financier, puisque la loi peut prévoir une dotation déterminée par l'administration. L'établissement public qui est rattaché à l'Etat est soumis au déféré préfectoral, ce qui n'est pas le cas des autres.
 {% endhint %}
 
@@ -164,16 +164,18 @@ En outre, Ils disposent également de l'autonomie financière et de gestion.
 {% hint style="info" %}
 L'acte constitutif peut disposer que l'établissement public ne bénéficiera pas de l'autonomie de financière et de gestion.
 {% endhint %}
+
+
 {% endtab %}
 
 {% tab title="GIP" %}
-Les groupements d'intérêt public **ne sont pas soumis à un contrôle hiérarchique** de leurs actes \(ni devant le préfet ou autre administration\) à l'inverse d'autres structures. 
+Les groupements d'intérêt public **ne sont pas soumis à un contrôle hiérarchique** de leurs actes (ni devant le préfet ou autre administration) à l'inverse d'autres structures. 
 
-En revanche, lorsqu'ils sont soumis aux règles de la comptabilité publique, **les GIP peuvent être soumis au contrôle financier et économique de l'Etat**, lorsqu'ils assurent à titre principal la gestion d'un service public administratif en vertu de la [**loi**](https://www.legifrance.gouv.fr/loda/id/LEGIARTI000032442804/2021-04-28/?isSuggest=true)**.**
+En revanche, lorsqu'ils sont soumis aux règles de la comptabilité publique,** les GIP peuvent être soumis au contrôle financier et économique de l'Etat**, lorsqu'ils assurent à titre principal la gestion d'un service public administratif en vertu de la [**loi**](https://www.legifrance.gouv.fr/loda/id/LEGIARTI000032442804/2021-04-28/?isSuggest=true)**.**
 {% endtab %}
 
 {% tab title="SCIC" %}
-Les sociétés coopératives d'intérêt collectif **ne sont pas soumises à un contrôle hiérarchique** de leurs actes \(ni devant le préfet ou autre administration\) à l'inverse d'autres structures
+Les sociétés coopératives d'intérêt collectif **ne sont pas soumises à un contrôle hiérarchique** de leurs actes (ni devant le préfet ou autre administration) à l'inverse d'autres structures
 {% endtab %}
 
 {% tab title="Fondations et fonds de dotation" %}
@@ -191,9 +193,9 @@ Généralement, l'organisation de l'établissement public et de ses organes est 
 
 _Le président et le Conseil d'administration_
 
-Les pouvoirs et modalités de nomination du président sont déterminés par l'acte constitutif. De manière générale, le président est nommé par l'autorité administrative \(par décret, par arrêté du ministre de tutelle\). Les membres du conseil d'administration sont également être nommés soit selon les modalités déterminées par l'acte constitutif, soit par l'autorité administrative.
+Les pouvoirs et modalités de nomination du président sont déterminés par l'acte constitutif. De manière générale, le président est nommé par l'autorité administrative (par décret, par arrêté du ministre de tutelle). Les membres du conseil d'administration sont également être nommés soit selon les modalités déterminées par l'acte constitutif, soit par l'autorité administrative.
 
-_Le directeur_ 
+_Le directeur _
 
 De manière similaire au président, le directeur est nommé par l'autorité administrative sur arrêté du ministre de tutelle, ou parfois par le conseil d'administration.
 
@@ -215,5 +217,4 @@ _Contrats avec les tiers et responsabilité_
 Le type de l'établissement détermine le droit applicable aux contrats avec les tiers :
 
 * En principe, les contrats passés par les établissements publics administratifs dans le cadre de leur mission de sevice public, sont des contrats soumis, le cas échéant au droit de la commande publique ;
-* En principe, les contrats passés par les établissements publics industriels et commerciaux dans le cadre de leur mission, sont des [contrats de droit privé](https://www.legifrance.gouv.fr/ceta/id/CETATEXT000028839801/), sauf s'il y a dans ces contrats des clauses "exorbitantes de droit commun", c'est-à-dire des clauses donnant des pouvoirs qui ne sont pas généralement admis dans des contrats de droit privée entre deux acteurs économiques \(ex : le pouvoir de modification unilatérale du contrat\).
-
+* En principe, les contrats passés par les établissements publics industriels et commerciaux dans le cadre de leur mission, sont des [contrats de droit privé](https://www.legifrance.gouv.fr/ceta/id/CETATEXT000028839801/), sauf s'il y a dans ces contrats des clauses "exorbitantes de droit commun", c'est-à-dire des clauses donnant des pouvoirs qui ne sont pas généralement admis dans des contrats de droit privée entre deux acteurs économiques (ex : le pouvoir de modification unilatérale du contrat).
