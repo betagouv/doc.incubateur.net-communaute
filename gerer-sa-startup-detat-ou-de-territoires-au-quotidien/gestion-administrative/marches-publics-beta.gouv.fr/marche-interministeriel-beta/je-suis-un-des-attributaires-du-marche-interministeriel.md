@@ -36,3 +36,7 @@ Un titulaire peut refuser une demande. Néanmoins plusieurs refus peuvent avoir 
 > _**Dans le cas où un titulaire déciderait de refuser de donner suite à au moins 10 **expressions de besoin sur toute la durée de l’accord-cadre (reconductions comprises), l’acheteur en informera l’ensemble des bénéficiaires, qui **seront alors en droit de ne plus inclure ce titulaire dans leur tourniquet,** sans que cela ne puisse donner lieu à un quelconque dédommagement._
 
 _****_
+
+## **Est-ce que** chaque membre d'un groupement conjoint pourra facturer directement ses prestations ?
+
+Oui, c'est possible.
