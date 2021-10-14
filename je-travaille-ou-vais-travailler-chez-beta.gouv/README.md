@@ -1,7 +1,3 @@
----
-description: Les ressoucres pour
----
-
 # Je suis membre d'une Startup d'Etat ou de Territoires
 
 {% hint style="info" %}
