@@ -2,14 +2,14 @@
 
 ## **Je souhaite demander un devis. Quelles sont les prérequis ?**
 
-Pour demander un devis à un titulaire, votre besoin doit impérativement et sans exception concerner une Startup d'Etat ou de Territoires.
+Pour [demander un devis](../../budget-de-sa-se/faire-une-demande-de-devis/demander-un-devis-pour-des-prestations-produits.md) à un titulaire, votre besoin doit impérativement et sans exception concerner une Startup d'Etat ou de Territoires.
 
 ## **Comment savoir si mon besoin concerne bien une Startup d'Etat ou de Territoires ?**
 
 Une Startup d'Etat :
 
 * dispose systématiquement d'une fiche produit sur le site beta.gouv.fr, référencée sur [beta.gouv.fr/startups](https://beta.gouv.fr/startups/) ;
-* est obligatoirement rattachée à un des incubateurs du réseau beta.gouv qui dispose d'une convention de partenariat avec la DINUM, ou à défaut d'incubateur, est rattachée à l'[incubateur de la DINUM](../../../../decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/) \(en général, cela se matérialise par une convention de partenariat entre l'administration porteuse et la DINUM\) ; 
+* est obligatoirement rattachée à un des incubateurs du réseau beta.gouv qui dispose d'une convention de partenariat avec la DINUM, ou à défaut d'incubateur, est rattachée à l'[incubateur de la DINUM](../../../../decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/) (en général, cela se matérialise par une convention de partenariat entre l'administration porteuse et la DINUM) ; 
 * est composée d'une équipe qui s'engage à suivre le manifeste beta.gouv ;
 * est en phase de construction, d'accélération ou de transfert/consolidation.
 
@@ -45,4 +45,3 @@ Vous pouvez vous rapprocher de beta.gouv pour échanger à dinum@beta.gouv.fr. S
 #### Que puis-je faire si j'ai un doute ?
 
 Vous pouvez contacter l'équipe de beta.gouv sur dinum@beta.gouv.fr.
-
