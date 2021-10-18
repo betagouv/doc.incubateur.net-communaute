@@ -1,6 +1,6 @@
 ---
 description: >-
-  Si vous souhaitez organiser un jeu publicitaire sans recourir à un huissier,
+  Si tu souhaites organiser un jeu publicitaire sans recourir à un huissier,
   voici quelques recommandations.
 ---
 
@@ -13,6 +13,8 @@ Ton objectif est de développer la visibilité du produit pour augmenter son imp
 Néanmoins, tu ne sais pas si tu peux réaliser un jeu ou une loterie et particulièrement si tu as l’obligation de recourir à un huissier. 
 
 ### **1. Ta startup d'Etat peut réaliser un jeu ou loterie publicitaire**
+
+Voir "cadre juridique" (en bas de page) si tu veux comprendre pourquoi.
 
 ### 2. Tu dois respecter quelques conditions pour rentrer dans le cadre des loteries publicitaires: 
 
