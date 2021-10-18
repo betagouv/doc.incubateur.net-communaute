@@ -251,6 +251,7 @@
   * [Gestion des envois emails](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jactive-la-croissance-de-ma-se-growth-hacking/gestion-des-envois-emails.md)
   * [No code](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jactive-la-croissance-de-ma-se-growth-hacking/no-code.md)
   * [Réseaux sociaux](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jactive-la-croissance-de-ma-se-growth-hacking/reseaux-sociaux.md)
+  * [Organiser un jeu concours](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jactive-la-croissance-de-ma-se-growth-hacking/organiser-un-jeu-concours.md)
 * [🤖 Faire des choix technologiques](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/README.md)
   * [Standards de qualité beta.gouv.fr](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/standards-de-qualite-beta.gouv.fr.md)
   * [Licences](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/licences.md)
