@@ -6,18 +6,20 @@ description: Clôture du Slack le 21 mai 2021
 
 L'incubateur utilisait Slack comme service de messagerie instantanée. Nous utilisons aujourd'hui Mattermost.
 
-{% page-ref page="./" %}
+{% content-ref url="../" %}
+[..](../)
+{% endcontent-ref %}
 
 
 
 ## Premiers pas
 
 * Se [créer un compte](https://startups-detat.slack.com/signup) sur notre Slack.
-  * Avec une adresse email en `@beta.gouv.fr`: aller sur [https://startups-detat.slack.com/](https://startups-detat.slack.com/) et se créer un compte, ça devrait rouler tout seul. Sinon, demande à t·on.a marrain·e, par exemple.
-  * Avec n'importe quel autre email : n'importe qui peut faire une demande d'invitation à l'espace de travail Slack de beta.gouv.fr \("Invite People"\) ; la demande sera transmise à un administrateur qui pourra l'approuver ou non.
+  * Avec une adresse email en `@beta.gouv.fr`: aller sur [https://startups-detat.slack.com/](https://startups-detat.slack.com) et se créer un compte, ça devrait rouler tout seul. Sinon, demande à t·on.a marrain·e, par exemple.
+  * Avec n'importe quel autre email : n'importe qui peut faire une demande d'invitation à l'espace de travail Slack de beta.gouv.fr ("Invite People") ; la demande sera transmise à un administrateur qui pourra l'approuver ou non.
 * Compléter ton profil Slack, avec ton mail et ton rôle dans la communauté beta.gouv.fr et chez Etalab, afin que celles et ceux qui ne te connaissent pas puissent facilement t'identifier. Sans que cela soit obligatoire, nous t'encourageons également à rajouter une photo où tu es reconnaissable et renseigner ton numéro de téléphone pro.
-* Prendre connaissance de la liste des canaux publics pour choisir ceux qui t'intéressent. 
-* Prendre connaissance des conventions de nommage des canaux de discussion si tu souhaitent en créer de nouveaux\(ici plus bas\).
+* Prendre connaissance de la liste des canaux publics pour choisir ceux qui t'intéressent.&#x20;
+* Prendre connaissance des conventions de nommage des canaux de discussion si tu souhaitent en créer de nouveaux(ici plus bas).
 * Pour tout problème ou toute question concernant une des étapes de ton intégration, tu es invité à envoyer un message sur [🔒`#incubateur-secretaria`](https://startups-detat.slack.com/messages/incubateur-secretaria/) ou [🔒`#incubateur-help`](https://startups-detat.slack.com/messages/incubateur-help/).
 * Découvrir et s'inscrire aux [listes de diffusion](https://github.com/betagouv/beta.gouv.fr/wiki/listes-de-diffusion) qui t'intéressent.
 
@@ -25,7 +27,7 @@ L'incubateur utilisait Slack comme service de messagerie instantanée. Nous util
 
 ## Inviter d'autres personnes
 
-Tu peux inviter des personnes avec qui ça a du sens de discuter sur notre Slack. Pour éviter de créer le sentiment qu'on se parle dans un lieu rempli d'étrangers, tu as la responsabilité de veiller à ce que ces personnes se présentent \(sur [🔒`#incubateur-nouveaux`](https://startups-detat.slack.com/messages/incubateur-nouveaux/)\) au reste de la communauté.
+Tu peux inviter des personnes avec qui ça a du sens de discuter sur notre Slack. Pour éviter de créer le sentiment qu'on se parle dans un lieu rempli d'étrangers, tu as la responsabilité de veiller à ce que ces personnes se présentent (sur [🔒`#incubateur-nouveaux`](https://startups-detat.slack.com/messages/incubateur-nouveaux/)) au reste de la communauté.
 
 Si c'est pour créer un espace de discussion restreint, par exemple une équipe au sein d'une administration partenaire qui aime bien l'idée d'avoir une messagerie instantanée, mais avec qui on sera peu amené à échanger, il vaut mieux leur créer un Slack à part entière.
 
@@ -37,7 +39,7 @@ Si c'est pour créer un espace de discussion restreint, par exemple une équipe 
 
 ### La vie administrative
 
-[🔒`#incubateur-compta`](https://startups-detat.slack.com/messages/incubateur-compta/) [🔒`#incubateur-indép-octo`](https://startups-detat.slack.com/messages/incubateur-indép-octo/) [🔒`#incubateur-secretaria`](https://startups-detat.slack.com/messages/incubateur-secretaria/)
+[🔒`#incubateur-compta`](https://startups-detat.slack.com/messages/incubateur-compta/) [🔒`#incubateur-indép-octo`](https://startups-detat.slack.com/messages/incubateur-ind%C3%A9p-octo/) [🔒`#incubateur-secretaria`](https://startups-detat.slack.com/messages/incubateur-secretaria/)
 
 ### La vie, la vraie
 
@@ -57,7 +59,7 @@ Les canaux publics de Slack ne sont pas la machine à café, soyons respectueux.
 
 ### Threads
 
-Nous encourageons l'utilisation des threads pour les discussions afin de les fluidifier \(pas d'enchevêtrement des messages\) et que certains sujets ne se retrouvent pas "cachés" par un flux de messages trop important.
+Nous encourageons l'utilisation des threads pour les discussions afin de les fluidifier (pas d'enchevêtrement des messages) et que certains sujets ne se retrouvent pas "cachés" par un flux de messages trop important.
 
 ### Mentions @
 
@@ -96,7 +98,7 @@ _Voir_ [https://github.com/betagouv/beta.wip/pull/1](https://github.com/betagouv
 
 Pour partager une avancée, un succès ou une release avec le reste de l'incubateur, postez un petit message dans [🔒`#incubateur-annonces`](https://startups-detat.slack.com/messages/incubateur-annonces) – en ajoutant une `:rocket:` 🚀 au début du texte.
 
-Pas besoin d’être bien long ; c'est juste pour signaler aux autres ce dont vous êtes heureux ou fier \(et pour recueillir les applaudissements\).
+Pas besoin d’être bien long ; c'est juste pour signaler aux autres ce dont vous êtes heureux ou fier (et pour recueillir les applaudissements).
 
 Par exemple :
 
@@ -109,7 +111,7 @@ Par exemple :
 
 Pour recevoir une notification de Slack à chaque "🚀", vous pouvez également rajouter `:rocket:` dans votre [liste des mots-clefs](https://get.slack.help/hc/fr-fr/articles/201398467-Notifications-des-mots-cl%C3%A9s).
 
-_Cette convention est encore neuve, et en cours d'expérimentation \(avril 2017\)._  
+_Cette convention est encore neuve, et en cours d'expérimentation (avril 2017)._\
 _Plus de détails_ [_par ici_](http://kemenaran.winosx.com/posts/partager-les-succes/)_._
 
 ### 💩 : négativité inutile.
@@ -120,7 +122,7 @@ Par exemple :
 
 > les informaticiens de la DRFTAPS sont vraiment des abrutis, ils ont encore réussi à planter le serveur de leur API, ÇA ME SAOULE +💩
 >
-> → le serveur de l'API de la DRFTAPS est encore en rade, ÇA ME SAOULE _\(edited\)_
+> → le serveur de l'API de la DRFTAPS est encore en rade, ÇA ME SAOULE _(edited)_
 
 ## Paramétrage
 
@@ -128,15 +130,14 @@ Par exemple :
 
 ## Nettoyage de fichier sur slack
 
-* Installer [slack-cleaner](https://github.com/kfei/slack-cleaner) ou \(`pip install slack-cleaner`\)
-* Récupérer votre token API slack [ici](https://api.slack.com/custom-integrations/legacy-tokens) \(Vous avez peut être besoin d'être admin pour avoir une clé\)
-* Lancer la commande `slack-cleaner --token {TOKEN} --file --before 20170101` \(changer la date\)
-  * Si vous faites une install pip en local, le binaire peut se trouver à `./.local/bin/slack-cleaner` \(à remplacer dans la commande\)
-* Lancer la commande `slack-cleaner --token {TOKEN} --file --before 20170101 --confirm` maintenant \(changer la date\)
+* Installer [slack-cleaner](https://github.com/kfei/slack-cleaner) ou (`pip install slack-cleaner`)
+* Récupérer votre token API slack [ici](https://api.slack.com/custom-integrations/legacy-tokens) (Vous avez peut être besoin d'être admin pour avoir une clé)
+* Lancer la commande `slack-cleaner --token {TOKEN} --file --before 20170101` (changer la date)
+  * Si vous faites une install pip en local, le binaire peut se trouver à `./.local/bin/slack-cleaner` (à remplacer dans la commande)
+* Lancer la commande `slack-cleaner --token {TOKEN} --file --before 20170101 --confirm` maintenant (changer la date)
 
 ## Fonctionnalités
 
 ### Enregistrer des messages
 
-Vous avez la possibilité de en taguer "Enregistrer" certains messages \(le logo ressemble à un marque-page\_ ![:marque-page:](https://a.slack-edge.com/production-standard-emoji-assets/10.2/google-medium/1f516@2x.png) \_quand vous passez la souris sur un message\) Une fois tagués ces messages sont disponibles dans la rubrique "éléments enregistrés" sans date de péremption. Cette fonctionnalité était particulièrement pertinente lorsque nous disposions d'une licence "gratuite" qui supprimait les messages au fur et à mesure.
-
+Vous avez la possibilité de en taguer "Enregistrer" certains messages (le logo ressemble à un marque-page\_ ![:marque-page:](https://a.slack-edge.com/production-standard-emoji-assets/10.2/google-medium/1f516@2x.png) \_quand vous passez la souris sur un message) Une fois tagués ces messages sont disponibles dans la rubrique "éléments enregistrés" sans date de péremption. Cette fonctionnalité était particulièrement pertinente lorsque nous disposions d'une licence "gratuite" qui supprimait les messages au fur et à mesure.
