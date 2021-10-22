@@ -38,7 +38,7 @@ Ton compte a déjà été créé lors de l’import de l’historique des conver
 #### **Dans le cas où ton adresse beta n’est pas reconnue, merci de nous prévenir par email dinum@beta.gouv.fr  pour que nous débloquions la situation.**
 {% endhint %}
 
-### **Etape 3** : Changes ton “Nom d'utilisateur” par "prenom.nom"
+## **Etape 3** : Changes ton “Nom d'utilisateur” par "prenom.nom"
 
 * Clique sur l'icône ![](https://lh5.googleusercontent.com/De8PjC5doIaIMGFuuR95dlnmOZWxJuHqp3BAAyiIxJMuygtt\_LWY6EUka0-mutJvKVOqTvnVL\_fTD\_lGJ8AmxzfrPXfnOoxL9eatGe1i6y8kKBPlgjvjQ\_sg8zRTEJY8ok-TfUuD)
 
@@ -50,5 +50,11 @@ Ton compte a déjà été créé lors de l’import de l’historique des conver
 * Puis clique sur “Enregistrer”
 
 ![](https://lh6.googleusercontent.com/T\_laA76igKgAScDNdeNYsxFcKArGDGvqL\_5vAKWdgdXy-hCyc9ao6-tKgIiTHk5rjaUSHb5doZHyoRf2Tmj3gxtI\_RdsC6T8U48Wd31K09bSlLsJuNHbLVAZuZIZJA7a7sk4-7jH)
+
+## Pour aller plus loin
+
+{% content-ref url="comment-communiquer-sur-mattermost/" %}
+[comment-communiquer-sur-mattermost](comment-communiquer-sur-mattermost/)
+{% endcontent-ref %}
 
 ## ****
