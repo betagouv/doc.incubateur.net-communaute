@@ -7,12 +7,12 @@ description: >-
 # 3 retours d'expérience de coachs
 
 {% hint style="success" %}
-[Visionner le replay.](https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=2a3d1a09c15fa76c015a0334ab0af0b2eef8b79a-1617721085279)
+[Visionner le replay.](https://resana.numerique.gouv.fr/public/information/consulterAccessUrl?cle\_url=569601629CWMHZ1FdUm5XOgdhVTsGJlVrW2YAIVI7UzhXalEwDDYGMwUxA2YAZFVnVGQ=)
 {% endhint %}
 
 ![Capture d'écran de l'atelier.](../../../.gitbook/assets/dessin-sans-titre-14-.jpg)
 
-## Au sommaire de cet atelier : 
+## Au sommaire de cet atelier :&#x20;
 
 ### 25 minutes d'échanges entre les 3 intervenantes sur :
 
