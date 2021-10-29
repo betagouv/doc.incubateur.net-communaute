@@ -280,6 +280,7 @@
     * [Echanges de fichiers de données personnelles](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-securise-mon-produit/foire-aux-questions-sur-la-mise-en-conformite-des-services-numeriques/echanges-de-fichiers-de-donnees-personnelles.md)
     * [Information et consentement des usagers](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-securise-mon-produit/foire-aux-questions-sur-la-mise-en-conformite-des-services-numeriques/information-et-consentement-des-usagers.md)
     * [Sécurité & homologation](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-securise-mon-produit/foire-aux-questions-sur-la-mise-en-conformite-des-services-numeriques/securite-and-homologation.md)
+  * [Monitorer votre Startup d'Etat](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-securise-mon-produit/monitorer-votre-startup-detat.md)
 * [🎀 Solliciter de l'aide transverse](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-sollicite-de-laide-transverse/README.md)
   * [Mise en conformité RGPD et coaching juridique](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-sollicite-de-laide-transverse/mise-en-conformite-rgpd-et-conseil-juridique.md)
   * [Aide transverse - Growth Hacking](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-sollicite-de-laide-transverse/growth-hacking-acquisition.md)
