@@ -124,13 +124,11 @@ description: >-
 * Organiser dès le début de la phase de construction des ateliers pour identifier les métriques d'impact en fonction de ce que l'on souhaite montrer.&#x20;
 * Selon que la data vienne d'une base de données, ou du trafic d'un site, il existe différents outils (ex: Matomo, Metabase) pour les visualiser. Commencer par un visuel basique, et au bout de six mois, penser aux AARRR (acquisition, activation, rétention, référence, revenus). Plus le produit grandit et plus l'enjeu d'amélioration du parcours est fort, plus il est intéressant de tracer finement les retours quantitatifs et de mettre en place les bons rituels pour les suivre.&#x20;
 * Suivi quantitatif d'autant plus important que le risque de la "métrique de vanité" est présent ("trop cool, j'ai plein d'utilisateurs qui visitent mon site" ➢ "ok, pour quel impact derrière"?).&#x20;
-*   3 idées de critères de notation des fonctionnalités proposées à l'issue des retours utilisateurs :&#x20;
-
-    * Impact : combien de nouveaux usagers pour chaque fonctionnalité ?&#x20;
-    * Urgence : combien de personnes peuvent vivre pendant X durée sans chaque fonctionnalité ?&#x20;
-    * Effort de dev : quelle complexité technique et durée de développement pour chaque fonctionnalité ?
-
-    Passer sur l'ensemble du backlog et prioriser le Top10 par rapport à la notation établie.&#x20;
+* 3 idées de critères de notation des fonctionnalités proposées à l'issue des retours utilisateurs :&#x20;
+  * Impact : combien de nouveaux usagers pour chaque fonctionnalité ?&#x20;
+  * Urgence : combien de personnes peuvent vivre pendant X durée sans chaque fonctionnalité ?&#x20;
+  * Effort de dev : quelle complexité technique et durée de développement pour chaque fonctionnalité ?
+* Passer sur l'ensemble du backlog et prioriser le Top10 par rapport à la notation établie.&#x20;
 
 ### 7- Et l'impact du Covid dans tout ça ?&#x20;
 
