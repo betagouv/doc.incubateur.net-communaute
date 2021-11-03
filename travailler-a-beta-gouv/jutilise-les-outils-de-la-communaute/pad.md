@@ -14,7 +14,7 @@ C'est un outil en ligne géré par beta.gouv.
 
 Ce sont des documents faciles à rédiger et à partager sur Internet. Ils utilisent le format [Markdown](https://fr.wikipedia.org/wiki/Markdown), qui permet "d'habiller" du texte brut sans être aussi complexe que HTML.
 
-On utilise le logiciel open source [CodiMD](https://github.com/hackmdio/codimd), hebergé chez nous à la DINUM. L'adresse du serveur est pad.incubateur.net.
+On utilise le logiciel open source [Hedgedoc](https://github.com/hedgedoc/hedgedoc), hebergé chez nous à la DINUM. L'adresse du serveur est pad.incubateur.net.
 
 Les documents que tu peux créer sur ce serveur sont _confidentiels par défaut_ \(contrairement par exemple à nos produits qui sont open source, ou à notre guide dont les informations sont publiques\).
 
