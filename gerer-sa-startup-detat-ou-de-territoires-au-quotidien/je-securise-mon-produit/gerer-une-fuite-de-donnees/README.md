@@ -22,7 +22,7 @@ description: >-
 
 #### Quelles sont les premières personnes alertées ?
 
-Les membres de l’équipe d’Ops transverses sont souvent les premières personnes alertées grâce aux outils de monitoring.
+Les membres de l’équipe ops transverses sont souvent les premières personnes alertées grâce aux outils de monitoring.
 
 #### Aller directement au modèle de rapport d'alerte
 

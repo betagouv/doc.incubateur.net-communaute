@@ -16,14 +16,14 @@ Reste concentré sur les actions à prendre, ne reste pas isolé, demande de l'a
 2. Rédiger un rapport et informer les bonnes personnes
 3. Mesurer les conséquences
 
-## 1. Immédiatement - Fixer la fuite
+## 1. Immédiatement - Réparer la fuite
 
 1. **Faire l'inventaire des données disponibles en ligne**
 2. **Couper l'accès aux données en ligne en priorisant vos actions sur les données personnelles **
 3. **Couper les autres accès **
 4. **Supprimer les données ou les accès de github/gitlab**
 
-### Quels sont les bons réflexes à adopter (et parfois négligé) ?
+### Quels sont les bons réflexes à adopter (et parfois négligés) ?
 
 Vérifier par service les risques associés (liste non exhaustive) :&#x20;
 
@@ -44,18 +44,17 @@ Vérifier par service les risques associés (liste non exhaustive) :&#x20;
 [modele-de-rapport-dincident.md](modele-de-rapport-dincident.md)
 {% endcontent-ref %}
 
-* Il existe un modèle de rapport conçu pour ces situations. Il n'a pas vocation à être technique car il s’adresse à un public non-technique.
-* Ce rapport vise à informer des risques.
-* Délégué au reste de l’équipe non-tech l’initialisation de ce rapport et la timeline
-* Ne vous lancer pas dans un rapport technique mais resté concentrer sur le rapport
-* Déléguer toutes les tâches non-tech au reste de l’équipe
+* Il existe un modèle de rapport conçu pour ces situations. Il n'a pas vocation à être technique car il s’adresse à un public non-technique. Ce rapport vise à informer des risques.
+* Déléguez au reste de l’équipe non-tech l’initialisation de ce rapport et la timeline
+* Ne vous lancez pas dans un rapport technique mais restez concentré sur le rapport
+* Déléguez toutes les tâches non-tech au reste de l’équipe
 
 ### Les destinataires du rapport
 
 S'il y a fuite de donnée personnelle ou une suspicion de fuite :
 
-* Contacter l'équipe technique de votre incubateur et/ou [l'équipe ops ](mailto:dinum@beta.gouv.fr)de beta.gouv.fr
-* Communiquer auprès de votre délégué à la protection des données (DPO) et le responsable de la sécurité des systèmes d'information (RSSI) de référence au sein de l'administration sponsor dans les heures qui suivent l'alerte.
+* Contactez l'équipe technique de votre incubateur et/ou [l'équipe ops ](mailto:dinum@beta.gouv.fr)de beta.gouv.fr
+* Communiquez auprès de votre délégué à la protection des données (DPO) et le responsable de la sécurité des systèmes d'information (RSSI) de référence au sein de l'administration sponsor dans les heures qui suivent l'alerte.
 
 {% hint style="info" %}
 **Le DPO à 72h pour déclarer une fuite ou une suspicion de fuite** de données personnees auprès de la CNIL.
@@ -63,6 +62,6 @@ S'il y a fuite de donnée personnelle ou une suspicion de fuite :
 
 ## Mesurer les conséquences
 
-* Les données ont-elles fuitées ?
+* Les données ont-elles fuité ?
 * Les données sont-elles exposées sur le darkweb ?
 * (à compléter)
