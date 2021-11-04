@@ -14,8 +14,8 @@ Un [quiz d'aide à la décision](https://startupdetat.typeform.com/to/N6rXqwFF) 
 [2.-choix-dune-structure-daccueil-en-gardant-lequipe-de-la-startup-detat](2.-choix-dune-structure-daccueil-en-gardant-lequipe-de-la-startup-detat/)
 {% endcontent-ref %}
 
-{% content-ref url="3.-choix-dune-structure-daccueil-avec-mise-en-place-dune-nouvelle-equipe/" %}
-[3.-choix-dune-structure-daccueil-avec-mise-en-place-dune-nouvelle-equipe](3.-choix-dune-structure-daccueil-avec-mise-en-place-dune-nouvelle-equipe/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="4.-constitution-dune-structure-juridique-dediee-gip-scic-sas-scn-etc./" %}

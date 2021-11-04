@@ -1,6 +1,14 @@
 # 4. Constitution d’une structure juridique dédiée : GIP, SCIC, SAS, SCN, etc.
 
-## De la Start-up d'Etat à ...
+Le produit en se développant a rencontré un public qui dépasse les usagers de l’administration porteuse ; d’autres administrations sont prêtes à co-investir dans le développement du produit. La Startup d'Etat évolue en une entité juridique autonome et l’administration porteuse devient “investisseur”.
+
+Ce processus de consolidation permet une grande liberté dans les modes de gouvernance et la feuille de route produit, ainsi qu'une flexibilité sur le recrutement et la rémunération. En outre, ce type de structures disposent d'une carte bleue qui permet d'être extrêmement agile dans l'achat de prestations de bas niveau comme des outils de productivité ou des abonnements à des services en ligne.
+
+Exemples : **pix**, **pass culture**, **rdv-solidarité**
+
+{% hint style="info" %}
+Ce scénario peut prendre du temps et requière une volonté politique forte. Il est conseillé d'avancer par étape. Avant de construire un objet commun juridique autonome, utiliser des conventions de financement pour tester un modus operandi avec un ou plusieurs co-investisseurs publics
+{% endhint %}
 
 ### GIP - Groupement d'intérêt public
 
@@ -33,29 +41,3 @@ Une fondation est une structure créée par d'autres personnes physiques ou mora
 {% content-ref url="4-fondations-et-fonds-de-dotation/" %}
 [4-fondations-et-fonds-de-dotation](4-fondations-et-fonds-de-dotation/)
 {% endcontent-ref %}
-
-
-
-
-
-
-
-
-
-Plus d'informations sur ce troisième scénario :
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-
-
-Le produit en se développant a rencontré un public qui dépasse les usagers de l’administration porteuse ; d’autres administrations sont prêtes à co-investir dans le développement du produit. La startup évolue en une entité juridique autonome et l’administration porteuse devient “investisseur”.
-
-Ce processus de consolidation permet une grande liberté dans les modes de gouvernance et la feuille de route produit, ainsi qu'une flexibilité sur le recrutement et la rémunération. En outre, ce type de structures disposent d'une carte bleue qui permet d'être extrêmement agile dans l'achat de prestations de bas niveau comme des outils de productivité ou des abonnements à des services en ligne.
-
-> Exemples connus : `Pass Culture`, `Pix`, `Dossier Facile` (en cours), `RDV Solidarité` 
-
-{% hint style="info" %}
-Ce scénario peut prendre du temps et requière une volonté politique forte. Il est conseillé d'avancer par étape. Avant de construire un objet commun juridique autonome, utiliser des conventions de financement pour tester un modus operandi avec un ou plusieurs co-investisseurs publics
-{% endhint %}
