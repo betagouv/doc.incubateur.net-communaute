@@ -35,6 +35,10 @@ Cette transparence continue de s'appliquer en phase de construction.
 * **Comité d'investissement** (obligatoire, T + 6 mois)
   * Prévoir le comité d'investissement à la fin de la phase de construction en y invitant toutes les parties prenantes nécessaires, et notamment un membre de l'équipe d'animation de beta.gouv.fr.
 
+{% content-ref url="../../gestion-administrative/preparer-un-comite-dinvestissement.md" %}
+[preparer-un-comite-dinvestissement.md](../../gestion-administrative/preparer-un-comite-dinvestissement.md)
+{% endcontent-ref %}
+
 ## **Comment puis-je trouver de l'aide durant la phase de construction ? :**
 
 ### **De la documentation pour monter en compétence sur le sujet de construction :**
@@ -52,7 +56,7 @@ Cette transparence continue de s'appliquer en phase de construction.
 ### **Où demander de l'aide**
 
 * demander de l'aide ou des informations sur l'un de ses deux canaux Mattermost : [#incubateur-coaching](https://mattermost.incubateur.net/betagouv/channels/incubateur-coaching)​
-* club des coachs : 1er mercredi de chaque mois, au format co-développement : on échange des suggestions à une problématique de coaching d’un des participants. [agenda](https://calendar.google.com/calendar/u/0/r/eventedit/N3RjMTVyMm9oaHUzdGZ0YmJmcjdqcTBobmJfMjAyMTA5MDFUMDkwMDAwWiAwaWVvbnFhcDFyNWplYWw1dWdldWhvb3ZsZ0Bn), [notes](https://pad.incubateur.net/Yw3D8qeyQb6GtMLFzLgNWg#) partagées. 
+* club des coachs : 1er mercredi de chaque mois, au format co-développement : on échange des suggestions à une problématique de coaching d’un des participants. [agenda](https://calendar.google.com/calendar/u/0/r/eventedit/N3RjMTVyMm9oaHUzdGZ0YmJmcjdqcTBobmJfMjAyMTA5MDFUMDkwMDAwWiAwaWVvbnFhcDFyNWplYWw1dWdldWhvb3ZsZ0Bn), [notes](https://pad.incubateur.net/Yw3D8qeyQb6GtMLFzLgNWg#) partagées.&#x20;
 
 ### **Le RGPD et l'investigation**
 
