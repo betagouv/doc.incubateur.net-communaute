@@ -8,17 +8,17 @@ Tous les jeudis à midi, la communauté beta.gouv.fr se donne rendez-vous pour u
 
 _**Les personnes extérieures qui souhaitent nous découvrir sont les bienvenues, à l'invitation d'une équipe ou du collectif.**_
 
-## Horaire et lieu
+## Horaire : 12h tous les jeudis
 
-Tous les jeudis à 12h sur l'outil Gather.Town, pour une durée variable selon le nombre de personnes présentes et de sujets transverses. 
+## Lieu : Locaux de Beta.gouv à Segur et en visio
 
-> À titre indicatif, la durée est généralement comprise entre 25 et 40 minutes.
+À titre indicatif, la durée est généralement comprise entre 25 et 40 minutes.
 
-Pour rejoindre l'hebdo beta.gouv.fr : 
+Pour rejoindre l'hebdo beta.gouv.fr :&#x20;
 
 * Rends-toi sur [https://gather.town/app/jztgra1ioCseFdYL/beta.gouv](https://gather.town/app/jztgra1ioCseFdYL/beta.gouv)
 * Saisis ton prénom, choisis ton personnage
-* Configure ton microphone, ta caméra et ton audio 
+* Configure ton microphone, ta caméra et ton audio&#x20;
 * Déplace toi avec les flèches de ton clavier en suivant les flèches pour rejoindre l'espace où se réunit l'hebdo beta.gouv.fr
 
 ![L'hebdo beta.gouv sur Gather.Town](<../../../.gitbook/assets/image (14) (1) (1).png>)
@@ -33,7 +33,7 @@ Pour rejoindre l'hebdo beta.gouv.fr :
 
 ### Pendant
 
-* Désigner un·e volontaire pour : 
+* Désigner un·e volontaire pour :&#x20;
   * La facilitation de l'hebdo :  animer l'hebdo, en rappeler les règles et les faire respecter ;
   * La gestion du temps : gérer le chronomètre.
 * Nouvelles, nouveaux, visiteuses, visiteurs : **présentez-vous** :).
