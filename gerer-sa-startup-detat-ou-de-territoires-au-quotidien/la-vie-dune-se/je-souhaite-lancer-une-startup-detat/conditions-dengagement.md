@@ -1,6 +1,6 @@
 # Conditions d’engagement
 
-## Une Startup d’État peut être lancée si <a id="une-startup-detat-peut-etre-lancee-si"></a>
+## Une Startup d’État peut être lancée si vous disposez d'un sponsor<a id="une-startup-detat-peut-etre-lancee-si"></a>
 
 * De niveau Directeur d’Administration Centrale ou Directeur Général des Services dans les Collectivités. Le sponsoring d'un élu \(resp. Ministre ou Maire/Président\) est un plus, mais pas une condition suffisante, car il ne pourra pas réellement protéger l'initiative dans l'administration.
 * Qui autorise et garantit l’autonomie et la liberté dans le respect du but convenu : l’organisation et la gouvernance de la Startup, les choix produit, technique et marketing. Concrètement l’intrapreneur rapporte directement au sponsor plutôt qu’à sa hiérarchie habituelle dans le cadre de la Startup.
