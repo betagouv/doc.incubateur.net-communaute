@@ -1,4 +1,4 @@
-# 🧪 Gérer son incubateur
+# Gérer son incubateur
 
 ## L'organisation type d'un incubateur
 

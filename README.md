@@ -24,7 +24,7 @@ description: >-
 
 ### **Pour aller plus loin**
 
-**Si tu es membre d'une équipe ou d'un incubateur du réseau beta.gouv.fr**, cet espace a été conçu pour toi.  Tu peux utiliser la _**barre de recherche**_ en haut à droite de ton écran pour faciliter ta navigation. Si tu ne trouves pas la ressource que tu cherches, tu peux poser la question dans la _**chaîne \~incubateur-help**_ de [notre espace Mattermost](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/mattermost/). Si tu repères une erreur, tu peux [la corriger et contribuer à ce guide](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/gitbook/comment-contribuer-a-cette-documentation.md). 
+**Si tu es membre d'une équipe ou d'un incubateur du réseau beta.gouv.fr**, cet espace a été conçu pour toi.  Tu peux utiliser la _**barre de recherche**_ en haut à droite de ton écran pour faciliter ta navigation. Si tu ne trouves pas la ressource que tu cherches, tu peux poser la question dans la _**chaîne \~incubateur-help**_ de [notre espace Mattermost](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/mattermost/). Si tu repères une erreur, tu peux [la corriger et contribuer à ce guide](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/gitbook/comment-contribuer-a-cette-documentation.md).&#x20;
 
 **Si tu n'es pas (encore) membre de beta.gouv.fr**, tu peux profiter librement des ressources et des apprentissages que nous avons compilés ici, en gardant en tête que cette documentation est initialement à usage interne. Nous espérons cependant qu'elles pourra inspirer d'autres organisations. Si tu souhaites nous contacter pour en parler, transmets nous un message à _**contact@beta.gouv.fr **_!
 
@@ -40,8 +40,8 @@ Ce guide est un espace commun à [tous les incubateurs](https://beta.gouv.fr/com
 [bienvenue](travailler-a-beta-gouv/bienvenue/)
 {% endcontent-ref %}
 
-{% content-ref url="decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/locaux/badge-pour-travailler-a-segur.md" %}
-[badge-pour-travailler-a-segur.md](decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/locaux/badge-pour-travailler-a-segur.md)
+{% content-ref url="decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/locaux/badge-pour-travailler-a-segur/" %}
+[badge-pour-travailler-a-segur](decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/locaux/badge-pour-travailler-a-segur/)
 {% endcontent-ref %}
 
 {% content-ref url="travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/mattermost/" %}
