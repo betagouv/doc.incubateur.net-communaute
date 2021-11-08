@@ -19,7 +19,7 @@ description: >-
 | Champs                     | Informations à renseigner                                                                                                               |
 | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
 | _Au sein de_               | BETA                                                                                                                                    |
-| _Accès à SEGUR_            | Locaux SEGUR 5520 et 5513 et cantine                                                                                                    |
+| _Accès à SEGUR_            | Locaux SEGUR 5.413, 5.416, 5.420, 5.425, 5.424, 5.428 et cantine                                                                        |
 | _Entreprise_               | <p>Pour les indépendants/salariés : le nom du titulaire qui te porte </p><p>Pour  les agents publics : le nom de ton administration</p> |
 | _Fourniture d'une adresse_ | \[Laisser vide]                                                                                                                         |
 | _Numéro commande Chorus_   | \[Laisser vide]                                                                                                                         |
