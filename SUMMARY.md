@@ -264,6 +264,7 @@
     * [Je ne suis pas développeur](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-securise-mon-produit/gerer-une-fuite-de-donnees/je-ne-suis-pas-developpeur.md)
     * [Modèle de rapport d'incident](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-securise-mon-produit/gerer-une-fuite-de-donnees/modele-de-rapport-dincident.md)
     * [Je suis ops transverse d'un incubateur](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-securise-mon-produit/gerer-une-fuite-de-donnees/je-suis-ops-transverse-dun-incubateur.md)
+    * [Les principales causes de fuites de données](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-securise-mon-produit/gerer-une-fuite-de-donnees/les-principales-causes-de-fuites-de-donnees.md)
   * [Guide RGPD et Sécurité à chaque étape d'une Startup d'Etat](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-securise-mon-produit/guide-rgpd-et-securite.md)
   * [Foire aux questions sur la mise en conformité des services numériques](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-securise-mon-produit/foire-aux-questions-sur-la-mise-en-conformite-des-services-numeriques/README.md)
     * [Responsabilité de traitement](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-securise-mon-produit/foire-aux-questions-sur-la-mise-en-conformite-des-services-numeriques/responsabilite-de-traitement/README.md)

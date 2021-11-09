@@ -1,7 +1,7 @@
 ---
 description: >-
   Cette documentation vise à aider les membres non-développeurs des équipes
-  étant alertés d'une fuite de données ou d'un risque de fuite.
+  étant alertées d'une fuite de données ou d'un risque de fuite.
 ---
 
 # Je ne suis pas développeur

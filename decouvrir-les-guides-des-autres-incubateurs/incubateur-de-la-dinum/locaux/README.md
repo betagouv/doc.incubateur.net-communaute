@@ -8,8 +8,8 @@
 [focus-segur.md](focus-segur.md)
 {% endcontent-ref %}
 
-{% content-ref url="badge-pour-travailler-a-segur/" %}
-[badge-pour-travailler-a-segur](badge-pour-travailler-a-segur/)
+{% content-ref url="badge-pour-travailler-a-segur.md" %}
+[badge-pour-travailler-a-segur.md](badge-pour-travailler-a-segur.md)
 {% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}

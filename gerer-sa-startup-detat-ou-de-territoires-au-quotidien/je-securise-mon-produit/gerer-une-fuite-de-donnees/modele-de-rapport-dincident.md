@@ -15,10 +15,10 @@ description: >-
 * Impact : exemple d’impact
 * Métrics : exemple de métrics
 
-## Fil rouge (time line)
+## Fil rouge (timeline)
 
 * JJ MM AAA - HHMM - actions
-* Informations complémentation
+* Informations complémentaires
 
 ## Plan d’action
 
@@ -26,18 +26,23 @@ description: >-
 
 ## Analyse
 
-* Causes identifiées de l’incident :
-* Autres problèmes rencontrées pendant l’incident :
-* Ce qui a fonctionné correctement :&#x20;
-* Actions de résolution mises en place :&#x20;
-* Action de résolution programmées :&#x20;
-* Déterminer le niveau d’alerte selon la gravité avec des couleurs…
+#### Problème
+
+* Déterminer le niveau d’alerte selon la gravité de la fuite avec des couleurs…
   * Niveau alerte rouge :&#x20;
-    * Exemple de pb : les emails des utilisateurs du produit sont accessibles au monde entier
+    * Exemple de problème : les emails des utilisateurs du produit sont accessibles au monde entier
     * Contact immédiat de l’équipe. Fix immédiat et rapport en 24h
   * Niveau alerte orange :
     * A fixer sous 30 jours
     * Exemple : Une équipe rend accessible au monde entier ses environnements de test. Si passage en prod, gros risque de fuite.
+* Causes identifiées de l’incident :
+* Autres problèmes rencontrées pendant l’incident :
+
+#### Résolution
+
+* Ce qui a fonctionné correctement :&#x20;
+* Actions de résolution mises en place :&#x20;
+* Action de résolution programmées :&#x20;
 
 #### Voir le modèle directement dans pad.incubateur 👇
 

@@ -6,7 +6,7 @@
 
 ## Comment qualifier le niveau d’incident ?
 
-* Alerte rouge : des données sont accessibles en claire sur le web.
+* Alerte rouge : des données sont accessibles en clair sur le web.
 * Alerte orange : de mauvaises pratiques dans le code pourraient entrainer une alerte rouge.
 
 ## Comment contacter l’équipe de la Stratup d’Etat concernée le plus rapidement possible ?
@@ -23,7 +23,7 @@
 
 ## Comment alerter l’équipe sans générer de la panique ?
 
-* Pour une alerte rouge, un appel audio ou visio est nécessaire (fondamentale) pour rassurer les dev concernés et rester concentrer sur les actions à prendre et moins sur les conséquences. Eviter le stress inutile.
+* Pour une alerte rouge, un appel audio ou visio est nécessaire (fondamental) pour rassurer les dev concernés et rester concentré sur les actions à prendre plutôt que sur les conséquences. Eviter le stress inutile.
 
 ### Comment orienter l’équipe pour lui permettre d’aller plus vite en restant zen ?
 
@@ -39,7 +39,7 @@
 
 ### Qui prévenir à la DINUM ?
 
-* En cas d’alerte rouge, l’équipe d’Ops transverse, doit prévenir après un diagnostique avec l’équipe de la Startup d'Etat concernée :&#x20;
+* En cas d’alerte rouge (et après un diagnostic avec l’équipe de la Startup d'Etat concernée), l’équipe d’Ops transverse doit prévenir :&#x20;
   * Le responsable Sécurité de la DINUM
   * Le correspondant DPO
 
