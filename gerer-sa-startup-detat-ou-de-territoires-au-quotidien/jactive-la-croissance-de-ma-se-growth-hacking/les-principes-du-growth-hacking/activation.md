@@ -22,8 +22,6 @@ Comment faire un sondage qui marche? En quoi un sondage est différent d'un simp
 
 {% embed url="https://youtu.be/4NP-u6YO7No" %}
 
-
-
 1h45, par Mathilde Petit, Clément Chapalain, Chaïb Martinez
 
 C'est quoi une landing page? Comment faire en sorte que vos visiteurs s'inscrivent sur votre service?
@@ -34,23 +32,15 @@ Slides : [https://docs.google.com/presentation/d/1MT3xbM0j23Xwl5s55sss6cEKNEhSUF
 
 {% embed url="https://youtu.be/SUDu3BHAfpc" %}
 
-
-
-Accès
-
-https://app.livestorm.co/
-
-login et mdp : demander en message privé à Arnaud Denoix ou dinum ou Chaïb Martinez
-
-​
-
-​
+{% content-ref url="../../../travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/faire-une-visio/visioconferences.md" %}
+[visioconferences.md](../../../travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/faire-une-visio/visioconferences.md)
+{% endcontent-ref %}
 
 ## E-Mailing  <a href="mailing-en-masse" id="mailing-en-masse"></a>
 
 #### Utiliser un outil comme Sendinblue <a href="utiliser-mailjet" id="utiliser-mailjet"></a>
 
-Il existe un compte partagé beta.gouv pour envoyer des e-mailings rapidement. Pour savoir comment l'utiliser et comment envoyer des emails : 
+Il existe un compte partagé beta.gouv pour envoyer des e-mailings rapidement. Pour savoir comment l'utiliser et comment envoyer des emails :&#x20;
 
 {% embed url="https://youtu.be/1Q7BBKdL0Ws" %}
 
