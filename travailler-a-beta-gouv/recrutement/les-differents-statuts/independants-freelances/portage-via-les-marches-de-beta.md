@@ -72,13 +72,3 @@ Beta.gouv dispose de deux marchés mais d'autres incubateurs ont également leur
 {% content-ref url="../../../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/marches-publics-beta.gouv.fr/marche-coaching.md" %}
 [marche-coaching.md](../../../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/marches-publics-beta.gouv.fr/marche-coaching.md)
 {% endcontent-ref %}
-
-## Pourquoi les indépendants ne sont-ils pas directement porté par beta.gouv ?&#x20;
-
-La somme annuelle de l'ensemble des prestations commandées par beta.gouv dépassent le seuil des 40 000€. Nous devons obligatoirement passer par des marchés publics.
-
-Ainsi, nous publions des appels d'offre tous les trois ans en moyenne. Ces appels d'offre sont ouverts à toute entreprise en capacité de répondre aux besoins.
-
-Un indépendant seul ne pourra donc pas répondre aux besoins globaux de beta.gouv.
-
-Par ailleurs, il serait trop complexe opérationnellement pour beta.gouv de gérer plusieurs centaines de prestataires en direct.
