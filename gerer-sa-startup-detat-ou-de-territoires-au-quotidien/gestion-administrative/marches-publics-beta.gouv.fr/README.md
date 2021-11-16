@@ -4,9 +4,15 @@
 Deux marchés publics rendent possible le fonctionnement d'équipes selon l'approche Startups d'Etat : le marché interministériel beta et le marché "coaching". Par ailleurs, plusieurs autres marchés sont à disposition des Startups d'Etat pour commander certains types de prestations
 {% endhint %}
 
-{% page-ref page="marche-interministeriel-beta/" %}
+{% content-ref url="marche-interministeriel-beta/" %}
+[marche-interministeriel-beta](marche-interministeriel-beta/)
+{% endcontent-ref %}
 
-{% page-ref page="marche-coaching.md" %}
+{% content-ref url="marche-coaching.md" %}
+[marche-coaching.md](marche-coaching.md)
+{% endcontent-ref %}
 
-
+{% content-ref url="pourquoi-y-a-t-il-un-markup.md" %}
+[pourquoi-y-a-t-il-un-markup.md](pourquoi-y-a-t-il-un-markup.md)
+{% endcontent-ref %}
 
