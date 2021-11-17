@@ -292,7 +292,7 @@
 * [🏥 Fabrique numérique des Ministères sociaux](https://github.com/SocialGouv/www/wiki)
 * [🗻 Incubateur de la DINUM](decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/README.md)
   * [Locaux (Ségur)](decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/locaux/README.md)
-    * [20 avenue de Ségur](decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/locaux/focus-segur.md)
+    * [Venir ponctuellement](decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/locaux/focus-segur.md)
     * [Badge pour travailler à Ségur](decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/locaux/badge-pour-travailler-a-segur/README.md)
       * [Faire une demande de badge](decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/locaux/badge-pour-travailler-a-segur/faire-une-demande-de-badge.md)
       * [Prolonger la durée de validité de mon badge](decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/locaux/badge-pour-travailler-a-segur/prolonger-la-duree-de-validite-de-mon-badge.md)
