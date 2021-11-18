@@ -12,7 +12,9 @@ _**Les personnes extérieures qui souhaitent nous découvrir sont les bienvenues
 
 ## Lieu : Locaux de Beta.gouv à Segur et en visio
 
+{% hint style="info" %}
 À titre indicatif, la durée est généralement comprise entre 25 et 40 minutes.
+{% endhint %}
 
 Pour rejoindre l'hebdo beta.gouv.fr :&#x20;
 
@@ -38,6 +40,10 @@ Pour rejoindre l'hebdo beta.gouv.fr :&#x20;
   * La gestion du temps : gérer le chronomètre.
 * Nouvelles, nouveaux, visiteuses, visiteurs : **présentez-vous** :).
 * C’est au maximum **1min** par **personne**, dont **5-10s** pour vous _présenter brièvement. _Evitez les **acronymes**. Si vous ne pouvez pas, traduisez-les. Si vous n’avez rien à dire, dites-le et passer votre tour. **Évitez le dialogue** pendant l'hebdo.
+
+{% embed url="https://docs.google.com/presentation/d/12qUZlSbvgwpxVJdDdl3K7tahPMprF2hfW3xbwnf8sKA/edit?usp=sharing" %}
+Diapo de l'hebdo
+{% endembed %}
 
 ### Après
 
