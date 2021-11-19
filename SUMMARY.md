@@ -23,6 +23,7 @@
     * [Qui peut accéder au Mattermost de beta.gouv ?](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/mattermost/acces-a-lespace-de-la-communaute-beta.gouv-sur-mattermost.md)
     * [Comment rejoindre l’espace Mattermost de Beta ?](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/mattermost/comment-rejoindre-lespace-mattermost-de-beta.md)
     * [Foire aux astuces](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/mattermost/comment-communiquer-sur-mattermost/README.md)
+      * [Comment ajouter un rappel récurrent ?](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/mattermost/comment-communiquer-sur-mattermost/comment-ajouter-un-rappel-recurrent.md)
       * [Comment activer l'option thread/fil ?](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/mattermost/comment-communiquer-sur-mattermost/comment-activer-loption-thread-fil.md)
       * [Comment demander/trouver de l’aide ?](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/mattermost/comment-communiquer-sur-mattermost/comment-demander-trouver-de-laide.md)
       * [Comment contacter directement des personnes?](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/mattermost/comment-communiquer-sur-mattermost/comment-contacter-directement-des-personnes.md)
