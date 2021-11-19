@@ -207,6 +207,7 @@
     * [Comment payer de petits services avec mon budget ?](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/budget-de-sa-se/comment-payer-de-petits-services-avec-mon-budget.md)
   * [Préparer un comité d’investissement](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/preparer-un-comite-dinvestissement.md)
 * [💎 Améliorer le design et l'expérience utilisateur](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/README.md)
+  * [Docteur Design - Échangez avec des designers](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/docteur-design-echangez-avec-des-designers.md)
   * [Utiliser l'identité graphique de l'Etat](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/design-system-etat/README.md)
     * [Le Bloc Marque](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/design-system-etat/le-bloc-marque.md)
     * [Utiliser le système de design de l'Etat](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/design-system-etat/utiliser-le-design-system-de-letat.md)
