@@ -19,13 +19,13 @@
 * Mesurer l’impact et la satisfaction de vos utilisateurs.
 * Réaliser des tests utilisateurs (protocole, objectifs, panel et analyse)
 
-## Comment ça marche ? 👀 
+## Comment ça marche ? 👀&#x20;
 
 ### Embarquer un.e design transverse dans votre équipe
 
-Écrivez-nous sur le Mattermost dans la chaîne [**#incubateur-designers-transverses**](https://mattermost.incubateur.net/betagouv/channels/incubateur-team-designers-transverses)** : **l'un d'entre nous fera un point d'étape avec vous avant de vous proposer un type d'intervention. 
+Écrivez-nous sur le Mattermost dans la chaîne [**#incubateur-designers-transverses**](https://mattermost.incubateur.net/betagouv/channels/incubateur-team-designers-transverses)** : **l'un d'entre nous fera un point d'étape avec vous avant de vous proposer un type d'intervention.&#x20;
 
-Nous dessinerons ensemble un périmètre d'intervention et un calendrier d'intervention, en fonction de nos disponibilités et de vos enjeux. 
+Nous dessinerons ensemble un périmètre d'intervention et un calendrier d'intervention, en fonction de nos disponibilités et de vos enjeux.&#x20;
 
 Ces interventions sont gratuites pour votre équipe : l'équipe transverse est payée par l'incubateur.
 
@@ -37,7 +37,7 @@ Ces interventions sont gratuites pour votre équipe : l'équipe transverse est p
 
 Pendant une heure, **deux designers expérimentés** vous proposent de vous écouter, d’identifier des axes de progression, d’échanger avec votre équipe et de vous partager leurs meilleurs conseils !
 
-▶️ [**Réservez votre créneau**](https://airtable.com/shrhbALSi4MptguEA)
+▶️ [**Réservez votre créneau**](https://airtable.com/shrPuyfNR9ggNsEaQ)****
 
 ## **Comment nous joindre ? 👩‍💻 **
 
