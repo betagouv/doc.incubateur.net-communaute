@@ -42,6 +42,11 @@ description: >-
 [comment-aller-plus-vite.md](comment-aller-plus-vite.md)
 {% endcontent-ref %}
 
+{% content-ref url="comment-ajouter-un-rappel-recurrent.md" %}
+[comment-ajouter-un-rappel-recurrent.md](comment-ajouter-un-rappel-recurrent.md)
+{% endcontent-ref %}
+
 {% content-ref url="comment-repondre-a-un-message.md" %}
 [comment-repondre-a-un-message.md](comment-repondre-a-un-message.md)
 {% endcontent-ref %}
+
