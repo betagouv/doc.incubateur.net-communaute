@@ -33,7 +33,7 @@ Le mal-être ou la souffrance exigent une réponse rapide, et peuvent être pris
 
 Les comportements abusifs ne sont pas tolérés. Est notamment estimée abusive la manifestation, dans le cadre des relations de travail, de comportements ou de propos sexistes, homophobes, racistes, antisémites, discriminants, transphobes, sérophobes, grossophobes, etc ; par exemple, prononcer des paroles négatives ou offensantes sur l'apparence physique, la corpulence, les vêtements, le statut social, l'expression de genre, est intolérable, de même que toucher des personnes sans leur accord tacite.
 
-Le harcèlement moral ou sexuel est interdit et constitue un délit pénal. A titre de référence, nous renvo~~y~~ons à la politique anti-harcèlement formulée dans le [Geek Feminism wiki](https://geekfeminism.wikia.org/wiki/Conference_anti-harassment/Policy).
+Le harcèlement moral ou sexuel est interdit et constitue un délit pénal. A titre de référence, nous renvoyons à la politique anti-harcèlement formulée dans le [Geek Feminism wiki](https://geekfeminism.wikia.org/wiki/Conference_anti-harassment/Policy).
 
 Dès lors que je me sens victime de fait graves, je peux utiliser les recours décrits ci-dessus. Si mes recours à l'équipe ou à la chaîne d'accompagnement n'aboutissent pas, voire **en parallèle si je me sens menacé·e, je fais appel à la cellule d'écoute psychologique ainsi qu'aux services d'assistance juridique proposés par la DINUM à travers Allo Discrim**. Si je suis salarié·e de la DINUM ou d'une autre administration, je peux également me tourner vers les fonctions Ressources Humaines. Dans tous les cas, je suis protégé·e en la matière par la loi, et en cas de harcèlement avéré je dispose de recours de nature civile et pénale.
 
