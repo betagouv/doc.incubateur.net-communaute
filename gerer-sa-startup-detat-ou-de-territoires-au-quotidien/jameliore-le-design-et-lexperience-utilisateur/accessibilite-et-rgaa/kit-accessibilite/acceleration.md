@@ -1,8 +1,8 @@
 ---
-description: La phase d'accélération est idéale pour outiller la mise en accessibilité.
+description: Outiller la mise en accessibilité pendant la phase d'accélération.
 ---
 
-# Kit accessibilité - Acceleration
+# Kit accessibilité - Accélération
 
 ## **Mettre en place des tests automatiques**
 
@@ -22,13 +22,9 @@ Les tests manuels permettent d'aller un peu plus loin que les tests automatiques
 
 ### Tanaguru
 
-Tanaguru permet de faire des [audits automatisés](https://my.tanaguru.com/home/contract/audit-page-set-up.html?cr=943) gratuitement. Le logiciel propose
+Tanaguru permet de faire des [audits automatisés](https://my.tanaguru.com/home/contract/audit-page-set-up.html?cr=943) gratuitement.&#x20;
 
-* un score
-* une liste d'éléments à corriger \(invalidé\) 
-* une liste d'éléments à vérifier manuellement \(pré-qualifiés\).
-
-![Score du site solidarite-numerique.com](../../../../.gitbook/assets/screenshot_2020-05-26-resultat-de-laudit-pour-la-page-https-solidarite-numerique-fr-.png)
+![Score du site solidarite-numerique.com](../../../../.gitbook/assets/screenshot\_2020-05-26-resultat-de-laudit-pour-la-page-https-solidarite-numerique-fr-.png)
 
 ### Wave
 
@@ -46,5 +42,4 @@ Section en cours de rédaction
 
 * [ ] Je mets en place des tests automatiques.
 * [ ] Je teste manuellement régulièrement l'accessibilité de mon service.
-* [ ] J'expérimente avec les proto-personas inclusifs \(à venir\)
-
+* [ ] _J'expérimente avec les proto-personas inclusifs (à venir)_

@@ -1,7 +1,5 @@
 ---
-description: >-
-  La phase de construction est idéale pour mettre en place de bonnes bases 
-  d'accessibilité.
+description: Mettre en place des bases saines pendant la phase de construction.
 ---
 
 # Kit accessibilité - Construction
@@ -22,10 +20,10 @@ Les développeurs et développeuses ont la responsabilité de coder des composan
 
 * La [Notice d’accessibilité HTML et CSS](https://www.accede-web.com/notices/html-et-css/) d'AccedeWeb liste les règles à respecter pour un site accessible (structure générale, titre, liens, boutons, formulaires, liste...)
 * La [Notice d’accessibilité des principaux composants d’interface riche](https://www.accede-web.com/notices/interface-riche/) présente les principaux motifs de conception qu’il est recommandé de respecter lors du développement des composants d’interface riches (accordéons, modales, menu déroulant....)
-* Le [Design System de l'État](https://gouvfr.atlassian.net/wiki/spaces/DB/overview?homepageId=145359476) propose une documentation et des composants accessible.
+* Le [Design System de l'État](https://gouvfr.atlassian.net/wiki/spaces/DB/overview?homepageId=145359476) propose une documentation et des composants nativement accessible.
 {% endtab %}
 
-{% tab title="Intra, chargé de déploiement, etc" %}
+{% tab title="Intra, chargé de déploiement, product owner, etc" %}
 De nombreuses personnes peuvent être amenés à rédiger du contenu, au sein du service d'une SE. La [Notice d’accessibilité éditoriale ](https://www.accede-web.com/notices/editoriale-modele/)d'AccedeWeb donne des règles à respecter pour créer du contenu accessible en ligne.
 {% endtab %}
 {% endtabs %}
@@ -52,8 +50,8 @@ Contacter l'équipe Designers Transverse pour organiser un atelier **« Vérifie
 
 Si la navigation au clavier est possible, les personnes utilisant des technologies d'assistances comme un lecteur d'écran pourront aussi utiliser votre service.
 
-* Toutes les sections du site et toutes les actions sont possibles grâce au clavier (`tab` pour naviguer d'une zone à un autre, `shift + tab` pour revenir en arrière et `Entrer` pour actionner un lien). 
-* Un effet focus permet de repérer facilement la zone sélectionnée. 
+* Toutes les sections du site et toutes les actions sont possibles grâce au clavier (`tab` pour naviguer d'une zone à un autre, `shift + tab` pour revenir en arrière et `Entrer` pour actionner un lien).&#x20;
+* Un effet focus permet de repérer facilement la zone sélectionnée.&#x20;
 * Il est toujours possible de sortir d'une zone au clavier.
 
 ![Le focus est visible sur le site du Design System de l'État](../../../../.gitbook/assets/capture-de-cran-2021-09-10-a-12.35.30.png)
@@ -132,7 +130,7 @@ Dans votre navigateur, vous pouvez désactiver la feuille de style appliquée à
 
 * Demander une formation [10 choses faciles à vérifier](https://doc.incubateur.net/design/nos-rendez-vous-design/formation/accessibilite) pour mon équipe
 * Utiliser [les ressources et outils Accessibilité de la DILA](https://pidila.gitlab.io).
-* Utiliser des outils dédiés : 
+* Utiliser des outils dédiés :&#x20;
 
 {% tabs %}
 {% tab title="Bookmarklet" %}
@@ -148,7 +146,7 @@ Ces outils peuvent s'installer d'un simple `drag 'n drop` vers la barre des sign
 
 {% tab title="Firefox" %}
 * [**WAVE**](https://wave.webaim.org/extension/) **:** détecte automatiquement plusieurs types de problèmes d'accessibilités et donne des conseils pratiques pour les corriger.
-* [WCAG Constrast Checker](https://addons.mozilla.org/en-US/firefox/addon/wcag-contrast-checker/) : vérifie les contrates sur la page 
+* [WCAG Constrast Checker](https://addons.mozilla.org/en-US/firefox/addon/wcag-contrast-checker/) : vérifie les contrates sur la page&#x20;
 {% endtab %}
 
 {% tab title="Outils en lignes" %}
@@ -158,5 +156,5 @@ Ces outils peuvent s'installer d'un simple `drag 'n drop` vers la barre des sign
 
 ### Checklist de la phase Construction
 
-* [ ] J'identifie ce que je peux faire à mon niveau, et comment mon équipe peut se répartir les responsabilités. 
+* [ ] J'identifie ce que je peux faire à mon niveau, et comment mon équipe peut se répartir les responsabilités.&#x20;
 * [ ] Je m'assure que les règles élémentaires de l’accessibilité sont respectées.
