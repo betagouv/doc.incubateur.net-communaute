@@ -13,6 +13,7 @@ Les tests automatiques sont indispensables dans une démarche de qualité contin
 
 Voici quelques outils que l'équipe de développement peut mettre en place sur votre service :
 
+* [Dashlord](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/dashlord) : le tableau de bord de la communauté pour mesurer la qualité de son service (accessibilité, mais aussi sécurité, RGPD...)
 * [axe-core](https://github.com/dequelabs/axe-core) : un moteur de tests d'accessibilité automatique
 * [asqatasun](https://hub.docker.com/r/asqatasun/asqatasun/) : un outil open-source et français d'analyse d'accessibilité et SEO.
 
