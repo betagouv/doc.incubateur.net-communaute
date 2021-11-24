@@ -4,7 +4,7 @@ description: Explication et comparaison des quatre types de documentation.
 
 # Les 4 types de documentation
 
-D’après [Daniele Procida](https://www.writethedocs.org/videos/eu/2017/the-four-kinds-of-documentation-and-why-you-need-to-understand-what-they-are-daniele-procida/), Il existe quatre fonctions différentes qui ont chacune leur mode d’écriture propre :
+D’après [le système Diátaxis de Daniele Procida](https://diataxis.fr/) ([video](https://www.writethedocs.org/videos/eu/2017/the-four-kinds-of-documentation-and-why-you-need-to-understand-what-they-are-daniele-procida/)), Il existe quatre fonctions différentes qui ont chacune leur mode d’écriture propre :
 
 * **le tutoriel **pour aider l'utilisateur à** démarrer,**
 * **le guide pratique** pour aider l'utilisatrice à **atteindre un objectif ou résoudre un problème**,
