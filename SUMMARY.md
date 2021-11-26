@@ -238,7 +238,7 @@
       * [Les bases de la documentation](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/boite-a-outils/comment-produire-une-documentation-utile-et-utilisable/les-bases-de-la-documentation.md)
       * [Les 4 types de documentation](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/boite-a-outils/comment-produire-une-documentation-utile-et-utilisable/les-4-types-de-documentation.md)
       * [Comment auto-auditer sa documentation ?](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/boite-a-outils/comment-produire-une-documentation-utile-et-utilisable/comment-auto-auditer-sa-documentation.md)
-  * [Recruter un designer](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/design/README.md)
+  * [Recruter un·e designer](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/design/README.md)
     * [Comprendre le rôle du design](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/design/comprendre-le-role-du-design.md)
   * [Participer à la communauté design](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/nos-rendezous-design/README.md)
     * [Café Design](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/nos-rendezous-design/cafe-design.md)

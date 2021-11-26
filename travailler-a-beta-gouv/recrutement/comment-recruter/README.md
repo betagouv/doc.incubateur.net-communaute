@@ -4,6 +4,14 @@
 
 Avant de lancer un recrutement, tu dois disposer d'un budget suffisant, avoir réalisé [une demande de devis ](../../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/budget-de-sa-se/)et obtenir un bon de commande. Ton ou ta co-animatrice pourront t'aider si ce process est nouveau pour toi.
 
+## Avant le recrutement
+
+* L'équipe Designer Transverse accompagne les équipes qui souhaite recruter un.e designer.
+
+{% content-ref url="../../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/design/" %}
+[design](../../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/design/)
+{% endcontent-ref %}
+
 ## Pendant le recrutement
 
 ### Où recruter ?
@@ -49,7 +57,7 @@ Pour [en savoir plus sur l'engagement ](https://doc.incubateur.net/communaute/tr
 >
 > L’objectif est de faire de beta.gouv une communauté vivante, riche des expériences et de l’engagement de chacun, et qui apporte un cadre de travail stimulant pour ces membres.
 >
-> En tant que membre, vous pouvez et êtes invités à vous engager dans la communauté. Si vous avez des questions, n’hésitez pas à les poser lors de votre entretien. 
+> En tant que membre, vous pouvez et êtes invités à vous engager dans la communauté. Si vous avez des questions, n’hésitez pas à les poser lors de votre entretien.&#x20;
 
 ## Une fois le recrutement effectué
 
