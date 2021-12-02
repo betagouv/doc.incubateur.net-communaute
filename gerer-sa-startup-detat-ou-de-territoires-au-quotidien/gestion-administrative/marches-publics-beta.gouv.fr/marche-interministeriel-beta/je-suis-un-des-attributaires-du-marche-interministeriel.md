@@ -6,7 +6,7 @@ Si la DINUM reste cheffe d'orchestre, vos contacts au quotidien dans les minist�
 
 ## Avons-nous une obligation d'information envers la DINUM ?
 
-Nous vous rappelons également à toutes fins utiles que conformément au cahier des charges du marché,** les titulaires seront tenus d'informer la DINUM (i.e. l'équipe beta.gouv) sur l'ensemble des commandes demandées par toutes les administrations bénéficiaires**. Nous essaierons de vous simplifier la vie progressivement pour éviter que cela ne soit trop lourd ; pour l'instant, copier [compta@beta.gouv.fr](mailto:compta@beta.gouv.fr) lors de tous vos échanges avec n'importe quelle administration bénéficiaire souhaitant activer le marché suffira.&#x20;
+Nous vous rappelons également à toutes fins utiles que conformément au cahier des charges du marché, **les titulaires seront tenus d'informer la DINUM (i.e. l'équipe beta.gouv) sur l'ensemble des commandes demandées par toutes les administrations bénéficiaires**. Nous essaierons de vous simplifier la vie progressivement pour éviter que cela ne soit trop lourd ; pour l'instant, copier [compta@beta.gouv.fr](mailto:compta@beta.gouv.fr) lors de tous vos échanges avec n'importe quelle administration bénéficiaire souhaitant activer le marché suffira.&#x20;
 
 ## Est-il possible de répondre favorablement à une demande d'un ministère ne relevant pas d'un besoin pour une Startup d'Etat ?
 
@@ -15,9 +15,9 @@ A l'exception des produits numériques de la DINUM (et de la DINUM exclusivement
 ## Quelles sont les informations à transmettre à la DINUM et aux autres ministères pour être identifié ?
 
 * **Interlocuteur ou interlocutrice principal·e** au quotidien pour les commandes (par exemple commercial) : indiquez les coordonnées - Nom - Courriel - Téléphone-&#x20;
-* **Contact(s) pour la facturation **: indiquez les coordonnées - Nom - Courriel - Téléphone-&#x20;
-* **Contact(s) pour le lien avec les freelances **: indiquez les coordonnées - Nom - Courriel - Téléphone-&#x20;
-* **Liste de diffusion pour contacter tout le groupement **(notamment pour la transmission des nouvelles expressions de besoin), en indiquant qui reçoit le mail :&#x20;
+* **Contact(s) pour la facturation** : indiquez les coordonnées - Nom - Courriel - Téléphone-&#x20;
+* **Contact(s) pour le lien avec les freelances** : indiquez les coordonnées - Nom - Courriel - Téléphone-&#x20;
+* **Liste de diffusion pour contacter tout le groupement** (notamment pour la transmission des nouvelles expressions de besoin), en indiquant qui reçoit le mail :&#x20;
 * Autres contacts que vous jugerez utiles&#x20;
 
 Ces contacts seront :&#x20;
@@ -31,9 +31,9 @@ Un titulaire peut refuser une demande. Néanmoins plusieurs refus peuvent avoir 
 
 ### L'extrait du marché public détaille ces conséquences :&#x20;
 
-> _**Le titulaire peut refuser ponctuellement de répondre à une expression de besoin. **Le tourniquet passe alors au titulaire suivant dans l’ordre précité. Lorsque la situation se produit,** le titulaire doit s’en justifier **auprès bénéficiaire et de l’acheteur. _
+> _**Le titulaire peut refuser ponctuellement de répondre à une expression de besoin.** Le tourniquet passe alors au titulaire suivant dans l’ordre précité. Lorsque la situation se produit, **le titulaire doit s’en justifier** auprès bénéficiaire et de l’acheteur._&#x20;
 >
-> _**Dans le cas où un titulaire déciderait de refuser de donner suite à au moins 10 **expressions de besoin sur toute la durée de l’accord-cadre (reconductions comprises), l’acheteur en informera l’ensemble des bénéficiaires, qui **seront alors en droit de ne plus inclure ce titulaire dans leur tourniquet,** sans que cela ne puisse donner lieu à un quelconque dédommagement._
+> _**Dans le cas où un titulaire déciderait de refuser de donner suite à au moins 10** expressions de besoin sur toute la durée de l’accord-cadre (reconductions comprises), l’acheteur en informera l’ensemble des bénéficiaires, qui **seront alors en droit de ne plus inclure ce titulaire dans leur tourniquet,** sans que cela ne puisse donner lieu à un quelconque dédommagement._
 
 _****_
 

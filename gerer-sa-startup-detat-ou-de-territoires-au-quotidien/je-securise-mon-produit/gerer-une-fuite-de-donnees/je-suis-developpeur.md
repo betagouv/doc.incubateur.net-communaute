@@ -19,8 +19,8 @@ Reste concentré sur les actions à prendre, ne reste pas isolé, demande de l'a
 ## 1. Immédiatement - Résoudre la fuite
 
 1. **Faire l'inventaire des données disponibles en ligne**
-2. **Couper l'accès aux données en ligne en priorisant vos actions sur les données personnelles **
-3. **Couper les autres accès **
+2. **Couper l'accès aux données en ligne en priorisant vos actions sur les données personnelles**&#x20;
+3. **Couper les autres accès**&#x20;
 4. **Supprimer les données ou les accès de github/gitlab**
 
 ### Quels sont les bons réflexes à adopter (et parfois négligés) ?

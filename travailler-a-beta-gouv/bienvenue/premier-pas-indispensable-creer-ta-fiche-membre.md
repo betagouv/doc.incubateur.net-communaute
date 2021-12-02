@@ -11,7 +11,7 @@ description: >-
 
 Chaque nouvel arrivant est autonome pour créer sa fiche membre. Une fois créée, son nom apparaîtra dans [l'annuaire beta.gouv](https://beta.gouv.fr/communaute/annuaire). Tu as juste à te laisser guider :
 
-👉 [**Créer sa fiche membre**](https://secretariat.incubateur.net/onboarding)** **👈
+👉 [**Créer sa fiche membre**](https://secretariat.incubateur.net/onboarding) **** 👈
 
 ### Pourquoi créer une fiche membre ?
 
@@ -41,7 +41,7 @@ En ayant un compte Github, tu gagneras en autonomie durant ta mission dans une �
 {% endcontent-ref %}
 
 {% hint style="info" %}
-**Un blocage ? une difficulté ? besoin d'aide ? pour toi ou un collègue ? **Envoie un mail à[`contact@beta.gouv.fr`](mailto:contact@beta.gouv.Fr)ou demande sur[`#incubateur-help`](https://mattermost.incubateur.net/betagouv/channels/incubateur-help)sur Mattermost.&#x20;
+**Un blocage ? une difficulté ? besoin d'aide ? pour toi ou un collègue ?** Envoie un mail à[`contact@beta.gouv.fr`](mailto:contact@beta.gouv.Fr)ou demande sur[`#incubateur-help`](https://mattermost.incubateur.net/betagouv/channels/incubateur-help)sur Mattermost.&#x20;
 {% endhint %}
 
 ## 2. Prendre connaissance des règles d'hygiène informatique et de sécurité (politique [BYOD](https://fr.wikipedia.org/wiki/Bring\_your\_own\_device))&#x20;

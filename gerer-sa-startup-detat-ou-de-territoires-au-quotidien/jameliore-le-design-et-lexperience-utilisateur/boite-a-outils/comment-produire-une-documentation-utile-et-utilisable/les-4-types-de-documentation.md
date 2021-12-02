@@ -6,17 +6,17 @@ description: Explication et comparaison des quatre types de documentation.
 
 D’après [Daniele Procida](https://www.writethedocs.org/videos/eu/2017/the-four-kinds-of-documentation-and-why-you-need-to-understand-what-they-are-daniele-procida/), Il existe quatre fonctions différentes qui ont chacune leur mode d’écriture propre :
 
-* **le tutoriel **pour aider l'utilisateur à** démarrer,**
+* **le tutoriel** pour aider l'utilisateur à **démarrer,**
 * **le guide pratique** pour aider l'utilisatrice à **atteindre un objectif ou résoudre un problème**,
-* **la note descriptive **pour** informer **l'utilisateur sur un sujet spécifique ou le produit,
-* **le note explicative** pour **clarifier **les choix d'un sujet ou du produit.
+* **la note descriptive** pour **informer** l'utilisateur sur un sujet spécifique ou le produit,
+* **le note explicative** pour **clarifier** les choix d'un sujet ou du produit.
 
 ## Tableau comparatif des 4 types de documentation
 
 |                         | **Tutoriel**                               | **Guide pratique**                   | **Note descriptive**                                                  | **Note explicative**                                                    |
 | ----------------------- | ------------------------------------------ | ------------------------------------ | --------------------------------------------------------------------- | ----------------------------------------------------------------------- |
 | **Synonymes**           | Tuto, livret de démarrage...               | Pas-à-pas, manuel, ...               | Wiki, note de référence, matériel de référence, liste de référence... | Discussion thématique, Note explicative, argumentaire, notice...        |
-| **Vise à **             | Apprendre                                  | Atteindre un objectif                | Informer                                                              | Comprendre un sujet spécifique                                          |
+| **Vise à**              | Apprendre                                  | Atteindre un objectif                | Informer                                                              | Comprendre un sujet spécifique                                          |
 | **Doit**                | Permettre de démarrer                      | Montrer comment résoudre un problème | Décrire un système                                                    | Clarifier un sujet et être axé sur la compréhension                     |
 | **Prend la forme**      | Une leçon                                  | Un processus à suivre                | Une description                                                       | Une explication logique ou une discussion sur un sujet                  |
 | **Peut être comparé à** | Apprendre à un enfant à préparer un gâteau | Une recette de cuisine               | Un article d’encyclopédie                                             | <p>Un article d’histoire sociale de la cuisine<br><strong></strong></p> |

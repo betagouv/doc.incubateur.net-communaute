@@ -1,7 +1,7 @@
 # Je souhaite découvrir beta.gouv
 
 {% hint style="info" %}
-Utiliser la barre de recherche, en haut à droite de l'écran** "Rechercher"**
+Utiliser la barre de recherche, en haut à droite de l'écran **"Rechercher"**
 {% endhint %}
 
 ## 1. Je suis une personne candidate ou intéressée pour travailler chez beta.gouv :

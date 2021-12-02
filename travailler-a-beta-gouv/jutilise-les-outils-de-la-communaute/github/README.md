@@ -24,7 +24,7 @@ Dans tous les cas vous pouvez demander de l'aide sur Mattermost `#incubateur-hel
 ![](<../../../.gitbook/assets/image (14) (2) (2) (2) (2) (2) (2) (2) (2) (1).png>)
 
 * Si vous êtes familier avec les applications mobile de type "Google Authenticator" faite : "**Set up using an app**." et suivre les étapes indiqués par Github.
-* Si vous ne comprenez pas le point si dessus ^ faite "**Set up using SMS" **et entrer votre numéro de mobile
+* Si vous ne comprenez pas le point si dessus ^ faite "**Set up using SMS"** et entrer votre numéro de mobile
 * Github vas vous afficher des "Recovery codes"
   * Imprimer ces codes et garder les dans un coin, à défaut sauvegarder les de manière sécurisé
 
@@ -38,7 +38,7 @@ Dans tous les cas vous pouvez demander de l'aide sur Mattermost `#incubateur-hel
 
 * Vérifie que tu es connecté à Github
 * Recherche ta fiche sur le repo github [https://github.com/betagouv/beta.gouv.fr/tree/master/content/\_authors](https://github.com/betagouv/beta.gouv.fr/tree/master/content/\_authors)
-* Ouvre la fiche et clique sur le crayon 
+* Ouvre la fiche et clique sur le crayon&#x20;
 
 ![](<../../../.gitbook/assets/image (4).png>)
 
@@ -55,7 +55,7 @@ Dans tous les cas vous pouvez demander de l'aide sur Mattermost `#incubateur-hel
   * link : si tu veux mettre un lien vers ton site web, ta page linkedin, twitter ou laisser vide
   * missions : ajoute la date de debut et de fin de ton contrat (si tu ne sais pas met une date de fin dans 6 mois
     * status : tu mets "admin" si tu es agents publiques, "independent" si tu es travailleur indépendant et "service" sinon
-  * startups : tu peux mettre le nom de code de ta startup à la place de "super_startup" sinon supprime la ligne qui contient "super_startup"
+  * startups : tu peux mettre le nom de code de ta startup à la place de "super\_startup" sinon supprime la ligne qui contient "super\_startup"
   * A la place de "Écrit des autobiographies percutantes en moins de 200 caractères depuis 1972." tu peux écrire un petit mot cours sur toi en \~ 200 caractère
   * Tu peux supprimer les `#` avec le texte à la suite de la ligne
   * Si tu as pu compléter une bonne partie mais tu as encore des doutes, passe quand même au étape suivante et marque tes doutes dans la description de l'étape "Pull Request"

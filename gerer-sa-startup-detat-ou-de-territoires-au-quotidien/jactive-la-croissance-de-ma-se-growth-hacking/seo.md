@@ -15,7 +15,7 @@ Si votre document figure dans une page de résultats de recherche, le contenu de
 
 Le titre de votre page d'accueil peut indiquer le nom de votre site Web ou de votre entreprise et inclure d'autres informations importantes, telles que l'emplacement physique de l'établissement, ou divers renseignements sur ses offres ou sur son domaine de spécialité.
 
-:bulb:** Conseils : **
+:bulb: **Conseils :**&#x20;
 
 * titre unique pour chaque page
 * titre lisible et évocateur du contenu de la page
@@ -95,7 +95,7 @@ Tous les sites ont une page d'accueil ou une page "racine", qui est généraleme
 
 Pensez aux mots qu'un internaute pourrait rechercher pour trouver une partie de votre contenu. Les internautes avertis sur le sujet de votre site peuvent utiliser des mots clés différents de ceux choisis par les novices dans leurs requêtes de recherche.
 
-Google Ads offre un [outil de planification des mots clés](https://ads.google.com/aw/keywordplanner/ideas/new?ocid=121353919&\__c=9452772231\&authuser=0&\__u=3985757991) pratique qui vous permet de découvrir de nouvelles variantes de mots clés et le volume de recherche approximatif pour chacun. La Google Search Console fournit également les requêtes de recherche les plus fréquentes pour votre site et celles qui ont conduit le plus grand nombre d'internautes vers votre site dans le [rapport sur les performances](https://support.google.com/webmasters/answer/7576553).
+Google Ads offre un [outil de planification des mots clés](https://ads.google.com/aw/keywordplanner/ideas/new?ocid=121353919&\_\_c=9452772231\&authuser=0&\_\_u=3985757991) pratique qui vous permet de découvrir de nouvelles variantes de mots clés et le volume de recherche approximatif pour chacun. La Google Search Console fournit également les requêtes de recherche les plus fréquentes pour votre site et celles qui ont conduit le plus grand nombre d'internautes vers votre site dans le [rapport sur les performances](https://support.google.com/webmasters/answer/7576553).
 
 :bulb: **Conseils :**
 
@@ -108,7 +108,7 @@ Google Ads offre un [outil de planification des mots clés](https://ads.google.c
 
 Avec un texte d'ancrage approprié, les utilisateurs et les moteurs de recherche peuvent facilement interpréter ce que contiennent les pages liées.
 
-:bulb:** Conseils :**
+:bulb: **Conseils :**
 
 * choisir un texte descriptif
 * rédiger un texte concis
@@ -119,7 +119,7 @@ Avec un texte d'ancrage approprié, les utilisateurs et les moteurs de recherche
 
 La réputation de votre site peut être transmise à un autre site vers lequel vous créez un lien. Il arrive parfois que les internautes profitent de cette association en ajoutant des liens vers leur propre site dans vos sections de commentaires ou groupes de discussion.
 
-:bulb:** Conseils :**
+:bulb: **Conseils :**
 
 * utiliser l'attribut "nofollow" comme valeur de l'attribut "rel" d'un lien indique à Google que certains des liens de votre site ne doivent pas être suivis
 * ajouter automatiquement l'attribut "nofollow" aux colonnes de commentaires et groupes de discussion
@@ -128,7 +128,7 @@ La réputation de votre site peut être transmise à un autre site vers lequel v
 
 Fournissez un nom de fichier descriptif et une description de l'attribut "alt" pour les images. L'attribut "alt" vous permet de spécifier un texte de remplacement pour l'image si elle ne peut pas être affichée pour une raison quelconque.
 
-:bulb:** Conseils :**
+:bulb: **Conseils :**
 
 * utiliser des noms de fichiers et du texte "alt" courts mais descriptifs
 * fournir un texte "alt" lors de l'utilisation d'images en tant que liens

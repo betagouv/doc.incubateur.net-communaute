@@ -21,7 +21,7 @@ Un "**standard**" c’est un critère d’évaluation explicite de quelque chose
 *   L'équipe est pilotée par un **processus de design proche des usagers** : il est normal pour les développeuses et les développeurs d'aller à la rencontre des utilisateurs, et d'inviter des utilisateurs aux séances de design.
 
     > L'équipe Aidants Connect se demande comment organiser la liste des usagers sur son service. Ils invitent Sandrine à leur atelier pour voir avec elle la façon dont elle utilise cette liste aujourd'hui et les filtres et options de tri dont elle a besoin.
-* L'équipe est **à l'écoute des utilisateurs et accessible**, avec un** **[**haut standard de service aux utilisateurs**](https://djo.medium.com/obsession-service-client-captain-train-cb0b91467fd9) :
+* L'équipe est **à l'écoute des utilisateurs et accessible**, avec un **** [**haut standard de service aux utilisateurs**](https://djo.medium.com/obsession-service-client-captain-train-cb0b91467fd9) :
   * pas d'adresses mail "no-reply" ;&#x20;
   * répondre à chaque demande d'un utilisateur ;&#x20;
   * adopter une posture humble au service des utilisateurs ;&#x20;
@@ -47,9 +47,9 @@ L'outil [**dashlord**](../../travailler-a-beta-gouv/jutilise-les-outils-de-la-co
 * Le code est écrit en utilisant les **standards** du langage (ex : pep8 en python) et du framework.
 
 {% hint style="info" %}
-**Quelle langue utiliser dans le développement de mon produit ? **:flag\_fr:** **:flag\_gb:****
+**Quelle langue utiliser dans le développement de mon produit ?** :flag\_fr: **** :flag\_gb:****
 
-Tout ce qui concerne le métier (README, Pull Requests, documentation, ...) doit être écrit **en Français **:flag\_fr:. Par contre, tout ce qui concerne la mécanique du code doit être **en Anglais **:flag\_gb: par souci de cohérence avec la langue de ces langages de programmation.
+Tout ce qui concerne le métier (README, Pull Requests, documentation, ...) doit être écrit **en Français** :flag\_fr:. Par contre, tout ce qui concerne la mécanique du code doit être **en Anglais** :flag\_gb: par souci de cohérence avec la langue de ces langages de programmation.
 {% endhint %}
 
 ## Standards de sécurité

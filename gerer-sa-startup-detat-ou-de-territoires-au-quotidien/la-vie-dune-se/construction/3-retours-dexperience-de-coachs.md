@@ -16,7 +16,7 @@ description: >-
 
 ### 1- Comment bien démarrer une phase de construction ?&#x20;
 
-* **Se mettre d'accord sur les bases de la culture de travail de l'équipe **avant de se projeter sur les aspects plus opérationnels :&#x20;
+* **Se mettre d'accord sur les bases de la culture de travail de l'équipe** avant de se projeter sur les aspects plus opérationnels :&#x20;
   * Philosophie de travail (valeurs, principes) ;&#x20;
   * Rôle et attentes de chaque membre de l'équipe ;&#x20;
   * Rituels de travail (fréquence des rendez-vous selon l'objet).&#x20;
@@ -29,11 +29,11 @@ description: >-
 ### 2- Comment mettre du rythme et s'assurer de tenir les objectifs ?
 
 * **Travailler avec un outil de type Trello, modulaire et transparent**, pour se répartir les tâches, visualiser l'avancement, se faire des retours rapidement et travailler en asynchrone si besoin ;&#x20;
-* **Mettre en place des rituels adaptés aux besoins de son équipe **et bien expliciter leur objet :&#x20;
+* **Mettre en place des rituels adaptés aux besoins de son équipe** et bien expliciter leur objet :&#x20;
   * Quotidiens (ex: suivi rapproché des avancées, retours rapides) ;&#x20;
   * Et/ou hebdomadaires (ex: suivi des métriques, point d'avancement, bilan culture agile) ;
   * Et/ou mensuels (ex: rétrospective générale sur l'avancement du projet et la culture de travail).&#x20;
-* S'adapter aux besoins de son équipe et du projet, et** accepter que l'organisation peut être mouvante en fonction des phases de développement du produit** :&#x20;
+* S'adapter aux besoins de son équipe et du projet, et **accepter que l'organisation peut être mouvante en fonction des phases de développement du produit** :&#x20;
   * Ex: au départ, possibilité de travailler avec très peu d'outils, et en ajouter au fur et à mesure que l'équipe s'agrandit et que le produit se complexifie (OKR, AARRR, etc. pour la phase d'accélération) ➢ pas nécessaire de tout "processer" dès le début, sauf s'il s'agit d'un souhait majoritaire de l'équipe.
 
 ### 3- Quels sont les principes à respecter absolument, et ceux qui seraient plus secondaires ?&#x20;
@@ -48,8 +48,8 @@ description: >-
 
 ### 4- Comment passer d'une "logique de prestations" (UX, dev, coach, etc.) à une "logique d'équipe startup" avec une mutualisation des expertises de chacun ?&#x20;
 
-* Dès le lancement de la construction, **embarquer l'ensemble de l'équipe sur le sens du produit, la vision générale et la façon d'appréhender l'impact **;&#x20;
-* **Favoriser les échanges entre les membres **de l'équipe pour :&#x20;
+* Dès le lancement de la construction, **embarquer l'ensemble de l'équipe sur le sens du produit, la vision générale et la façon d'appréhender l'impact** ;&#x20;
+* **Favoriser les échanges entre les membres** de l'équipe pour :&#x20;
   * Faire naître une compréhension partagée des métiers de chacun ;&#x20;
   * Faire naître une vision partagée du produit ;&#x20;
   * Éviter les travers classiques des circuits de dialogue habituels ;&#x20;
@@ -65,7 +65,7 @@ description: >-
   * Informer les personnalités externes des avancées, voire leur proposer l'accès à certains outils (ex: Trello), sans pour autant entrer dans une logique de reporting type COPIL auprès d'elles ;&#x20;
 * **Consigner les éléments déterminant cette posture dans une charte à faire signer par l'ensemble des parties prenantes** (idée générale : "vous financez, on va faire des trucs géniaux pour les usagers par la stratégie des petits pas, mais on ne peut pas faire tout, tout de suite, et les règles du jeu sont ça, ça et ça") ;&#x20;
 * **Rôle de l'incubateur de faire un travail d'acculturation et de pédagogie auprès des personnalités externes** jugées clé afin de créer un cercle vertueux autour du développement du produit ;&#x20;
-* Se mettre d'accord sur le fait que si à un moment donné, le sponsor impose trop ses vues par un cahier des charges direct ou indirect, et que le Manifeste beta.gouv ne s'en trouve pas respecté,** l'incubateur a la possibilité de transférer le produit pour le sortir du cadre Startup d'État **(rôle du coach d'alerter à cet égard).&#x20;
+* Se mettre d'accord sur le fait que si à un moment donné, le sponsor impose trop ses vues par un cahier des charges direct ou indirect, et que le Manifeste beta.gouv ne s'en trouve pas respecté, **l'incubateur a la possibilité de transférer le produit pour le sortir du cadre Startup d'État** (rôle du coach d'alerter à cet égard).&#x20;
 
 ### Quelques ressources issues de la documentation beta.gouv :&#x20;
 

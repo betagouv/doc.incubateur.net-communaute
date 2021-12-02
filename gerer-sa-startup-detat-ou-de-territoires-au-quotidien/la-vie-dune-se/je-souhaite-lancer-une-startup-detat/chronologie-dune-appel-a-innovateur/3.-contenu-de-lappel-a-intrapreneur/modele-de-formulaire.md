@@ -12,15 +12,15 @@ description: >-
 
 La notation portera principalement sur cette question.
 
-Vous pouvez commencer votre phrase par « chaque année, des centaines de... », la fin de la phrase exprimant le problème. 
+Vous pouvez commencer votre phrase par « chaque année, des centaines de... », la fin de la phrase exprimant le problème.&#x20;
 
-Exposez-le de manière chiffrée (temps perdu, euros gaspillés, population laissée de côté, etc.) et en maximum 10 lignes. 
+Exposez-le de manière chiffrée (temps perdu, euros gaspillés, population laissée de côté, etc.) et en maximum 10 lignes.&#x20;
 
 Si vous avez des difficultés, aidez-vous grâce à la formation en ligne ([https://beta.gouv.fr/alpha/mooc/](https://beta.gouv.fr/alpha/mooc/)) ou en consultant d'autres réalisations au lien suivant : [https://beta.gouv.fr/startups/](https://beta.gouv.fr/startups/).
 
 ### **Quelle est votre solution potentielle ? \***
 
-Expliquez-la au présent et en dix lignes maximum. 
+Expliquez-la au présent et en dix lignes maximum.&#x20;
 
 Si vous avez des difficultés, aidez-vous grâce à la formation en ligne ([https://beta.gouv.fr/alpha/mooc/](https://beta.gouv.fr/alpha/mooc/)) ou en consultant d'autres réalisations au lien suivant : [https://beta.gouv.fr/startups/](https://beta.gouv.fr/startups/).
 
@@ -36,7 +36,7 @@ Concentrez-vous sur une cible très précise et détaillez votre stratégie de d
 
 Pour toute information complémentaire, vous pouvez également nous contacter à l'adresse suivante : incubateur@mon-administration.fr
 
-#### **A cocher : **
+#### **A cocher :**&#x20;
 
 * En cochant cette case, vous reconnaissez avoir lu et approuvé le guide de d'informations concernant l'appel à candidatures de l'incubateur dans sa totalité. \*
 * En cochant cette case, vous acceptez que les informations transmises soient partagées avec les services en chargé de cette appel à innovateur. \*

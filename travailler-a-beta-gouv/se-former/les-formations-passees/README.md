@@ -2,7 +2,7 @@
 
 Tu trouveras ici une vue d'ensemble des formations passées. 👉[Les formations passées](https://airtable.com/shrB8JsKAN5Echna4)
 
-Tu peux  évaluer ces formations si tu y as assisté. C'est notamment l'occasion de donner des pistes aux animateurs si tu vois des possibilités d'améliorations de leur formation. 
+Tu peux  évaluer ces formations si tu y as assisté. C'est notamment l'occasion de donner des pistes aux animateurs si tu vois des possibilités d'améliorations de leur formation.&#x20;
 
 {% embed url="https://airtable.com/shrB8JsKAN5Echna4" %}
 
@@ -11,9 +11,9 @@ Tu peux  évaluer ces formations si tu y as assisté. C'est notamment l'occasion
 
 
 Tu trouveras ci-dessous les supports de quelques unes de ces formations. 👇\
-_(tu as une table des matières juste à droite _😉_)_
+_(tu as une table des matières juste à droite_ 😉_)_
 
-Tu trouveras le reste dans la section [Partage de ressources](../partage-de-ressources.md). 
+Tu trouveras le reste dans la section [Partage de ressources](../partage-de-ressources.md).&#x20;
 
 ## 🎬  Créer et publier une vidéo de formation
 
@@ -29,14 +29,14 @@ Tu trouveras le reste dans la section [Partage de ressources](../partage-de-ress
 
 #### > Fiche
 
-[https://pad.incubateur.net/z_ILyUNwRfe_g95dTlsw7w?view#](https://pad.incubateur.net/z_ILyUNwRfe_g95dTlsw7w?view#)
+[https://pad.incubateur.net/z\_ILyUNwRfe\_g95dTlsw7w?view#](https://pad.incubateur.net/z\_ILyUNwRfe\_g95dTlsw7w?view#)
 
 #### > Supports
 
 * support de slides : [https://docs.google.com/presentation/d/1NHBuofCO3aN5X2I2LzT2pYWbIfTL0CU6KQaQ2J1KZ6M/edit#slide=id.g6e6fae9d17\_0\_31](https://docs.google.com/presentation/d/1NHBuofCO3aN5X2I2LzT2pYWbIfTL0CU6KQaQ2J1KZ6M/edit#slide=id.g6e6fae9d17\_0\_31)
 * livret de tutos détaillés : [https://docs.google.com/document/d/1vAciXefWmEP-imjh0ZHRYv8xp1IGH9FegVE9YGfrRwk/edit#](https://docs.google.com/document/d/1vAciXefWmEP-imjh0ZHRYv8xp1IGH9FegVE9YGfrRwk/edit#)
 
-## 🚀 Déploiement 
+## 🚀 Déploiement&#x20;
 
 Formation au business development dans l'État : voir la section Déploiement de cette documentation.
 
@@ -46,13 +46,13 @@ Formation au business development dans l'État : voir la section Déploiement de
 
 ## ✨ Design
 
-L'équipe de designers transverses proposent des ateliers et formations UX à la communauté. 
+L'équipe de designers transverses proposent des ateliers et formations UX à la communauté.&#x20;
 
 Exemple de sujets : Comment mener des entretiens utilisateurs, faire des tests, rendre son site accessible...
 
 Tu trouveras l'ensemble de ces formations ici 👉 [Les formations UX](https://doc.incubateur.net/design/nos-rendez-vous-design/formation)
 
-Ressources supplémentaires : 
+Ressources supplémentaires :&#x20;
 
 * Tu trouveras ci-après un REX de Raphaël, qui comporte une partie formation : [https://blocnotes.iergo.fr/articles/6-mois-a-beta-gouv-fr/](https://blocnotes.iergo.fr/articles/6-mois-a-beta-gouv-fr/)
 

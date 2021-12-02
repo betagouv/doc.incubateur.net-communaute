@@ -18,7 +18,7 @@ Les mesures d'impact se sont nettement améliorées au cours des derniers mois :
 
 Dans la logique d'un atelier de co-développement, l'équipe de la SE sera "le client" et les 3 membres de beta qui les aideront, "les consultants".
 
-**Quel déroulé ? **
+**Quel déroulé ?**&#x20;
 
 * 10min : intro + tour de table
 * 10 min : exposé du problème par l'équipe de la SE + ses attentes
@@ -26,9 +26,9 @@ Dans la logique d'un atelier de co-développement, l'équipe de la SE sera "le c
 * 25 min : focus recommandation impact
 * 5 min : principaux apprentissages de l'équipe et qu'est-ce qu'elle pense mettre en place rapidement.
 
-**Que doivent faire les équipes de SE pour préparer l'atelier ? **Essayer de préparer des hypothèses de mesures d'impact afin qu'elles soient discutées pendant l'atelier.
+**Que doivent faire les équipes de SE pour préparer l'atelier ?** Essayer de préparer des hypothèses de mesures d'impact afin qu'elles soient discutées pendant l'atelier.
 
-**Avoir un retour d'expérience ?  **Tu peux contacter les équipes ayant bénéficier de cet atelier :
+**Avoir un retour d'expérience ?**  Tu peux contacter les équipes ayant bénéficier de cet atelier :
 
 * Administration +
 * Domifa
@@ -38,7 +38,7 @@ Dans la logique d'un atelier de co-développement, l'équipe de la SE sera "le c
 [Inscrit ton équipe au prochain atelier "Cauchemar à bêta : la mesure d'impact !](https://airtable.com/shr7L3jxSrxsptKvs)
 {% endhint %}
 
-\__\_
+\_\_\_
 
 ## #Acte 1  Témoignage d'un intra, d'une designer et d'un coach sur leur pire souvenir avec les indicateurs d'impact
 

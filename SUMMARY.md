@@ -6,7 +6,7 @@
   * [Comprendre la gestion de mon produit : étapes clefs, impact, design, sécurité, acquisition...](je-travaille-ou-vais-travailler-chez-beta.gouv/comprendre-la-gestion-de-mon-produit-etapes-clefs-impact-design-securite-acquisition....md)
 * [Je souhaite découvrir beta.gouv](je-ne-travaille-pas-chez-beta.gouv.md)
 
-## Travailler chez Beta.Gouv <a href="travailler-a-beta-gouv" id="travailler-a-beta-gouv"></a>
+## Travailler chez Beta.Gouv <a href="#travailler-a-beta-gouv" id="travailler-a-beta-gouv"></a>
 
 * [🛫 Ton embarquement](travailler-a-beta-gouv/bienvenue/README.md)
   * [Le premier jour chez beta.gouv](travailler-a-beta-gouv/bienvenue/premier-pas-indispensable-creer-ta-fiche-membre.md)
@@ -102,7 +102,7 @@
   * [Que se passe-t-il après la date de fin de ma mission ?](travailler-a-beta-gouv/au-revoir/que-se-passe-t-il-apres-la-date-de-fin-de-ma-mission.md)
   * [Questions fréquentes](travailler-a-beta-gouv/au-revoir/questions-frequentes.md)
 
-## Gérer sa Startup d'Etat au quotidien <a href="gerer-sa-startup-detat-ou-de-territoires-au-quotidien" id="gerer-sa-startup-detat-ou-de-territoires-au-quotidien"></a>
+## Gérer sa Startup d'Etat au quotidien <a href="#gerer-sa-startup-detat-ou-de-territoires-au-quotidien" id="gerer-sa-startup-detat-ou-de-territoires-au-quotidien"></a>
 
 * [🌀 Comprendre les grandes étapes d'une Startup d'État](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/README.md)
   * [Lancer une Startup d'État](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/je-souhaite-lancer-une-startup-detat/README.md)
@@ -208,9 +208,8 @@
   * [Préparer un comité d’investissement](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/preparer-un-comite-dinvestissement.md)
 * [💎 Améliorer le design et l'expérience utilisateur](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/README.md)
   * [Docteur Design - Échangez avec des designers](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/docteur-design-echangez-avec-des-designers.md)
-  * [Utiliser l'identité graphique de l'Etat](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/design-system-etat/README.md)
+  * [Utiliser l'identité graphique de l'État](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/design-system-etat/README.md)
     * [Le Bloc Marque](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/design-system-etat/le-bloc-marque.md)
-    * [Utiliser le système de design de l'Etat](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/design-system-etat/utiliser-le-design-system-de-letat.md)
   * [Mener la recherche utilisateur](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/recherche-utilisateur/README.md)
     * [Auditer l'expérience utilisateur de son service](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/recherche-utilisateur/auditer-lexperience-utilisateur-de-son-service.md)
     * [Réaliser des entretiens avec vos utilisateurs](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/recherche-utilisateur/realiser-des-entretiens-avec-vos-utilisateurs.md)
@@ -287,7 +286,7 @@
   * [Aide transverse - Design, UX](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-sollicite-de-laide-transverse/design-ux.md)
   * [Demander de l’aide](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-sollicite-de-laide-transverse/demander-de-laide.md)
 
-## Découvrir les guides des incubateurs <a href="decouvrir-les-guides-des-autres-incubateurs" id="decouvrir-les-guides-des-autres-incubateurs"></a>
+## Découvrir les guides des incubateurs <a href="#decouvrir-les-guides-des-autres-incubateurs" id="decouvrir-les-guides-des-autres-incubateurs"></a>
 
 * [Gérer son incubateur](decouvrir-les-guides-des-autres-incubateurs/gerer-son-incubateur.md)
 * [🌍 Fabrique numérique du MTE-MCT](https://doc.mte.incubateur.net)

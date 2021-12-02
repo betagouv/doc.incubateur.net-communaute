@@ -7,7 +7,7 @@ description: >-
 # Bienvenue sur le guide de la communauté beta.gouv
 
 {% hint style="info" %}
-**Gagne du temps** en utilisant le moteur de recherche en haut à droite de l'écran **"Rechercher" **🔎
+**Gagne du temps** en utilisant le moteur de recherche en haut à droite de l'écran **"Rechercher"** 🔎
 {% endhint %}
 
 ## Pour bien démarrer, choisis ta situation :
@@ -26,7 +26,7 @@ description: >-
 
 **Si tu es membre d'une équipe ou d'un incubateur du réseau beta.gouv.fr**, cet espace a été conçu pour toi.  Tu peux utiliser la _**barre de recherche**_ en haut à droite de ton écran pour faciliter ta navigation. Si tu ne trouves pas la ressource que tu cherches, tu peux poser la question dans la _**chaîne \~incubateur-help**_ de [notre espace Mattermost](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/mattermost/). Si tu repères une erreur, tu peux [la corriger et contribuer à ce guide](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/gitbook/comment-contribuer-a-cette-documentation.md).&#x20;
 
-**Si tu n'es pas (encore) membre de beta.gouv.fr**, tu peux profiter librement des ressources et des apprentissages que nous avons compilés ici, en gardant en tête que cette documentation est initialement à usage interne. Nous espérons cependant qu'elles pourra inspirer d'autres organisations. Si tu souhaites nous contacter pour en parler, transmets nous un message à _**contact@beta.gouv.fr **_!
+**Si tu n'es pas (encore) membre de beta.gouv.fr**, tu peux profiter librement des ressources et des apprentissages que nous avons compilés ici, en gardant en tête que cette documentation est initialement à usage interne. Nous espérons cependant qu'elles pourra inspirer d'autres organisations. Si tu souhaites nous contacter pour en parler, transmets nous un message à _**contact@beta.gouv.fr**_ !
 
 {% hint style="warning" %}
 Ce guide est un espace commun à [tous les incubateurs](https://beta.gouv.fr/communaute/) du réseau beta.gouv.fr. Ses recommandations s'appliquent par défaut quel que soit ton incubateur, sauf mention contraire dans [la documentation spécifique de ton incubateur de rattachement](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/bienvenue/to-do-darrivee#decouvre-la-documentation-specifique-a-ton-incubateur).
