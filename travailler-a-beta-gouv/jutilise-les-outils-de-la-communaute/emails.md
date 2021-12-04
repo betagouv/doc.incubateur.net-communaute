@@ -14,7 +14,7 @@ Le compte email est actif tant que le membre à une mission en cours, il ne faut
 
 ### 0. Prérequis
 
-Muni-toi de :
+Munis-toi de :
 
 * ton adresse `prenom.nom@beta.gouv.fr`
 * le mot de passe
@@ -89,7 +89,7 @@ Il existe des services adaptés pour les envois en masse : SendInBlue, Mailjet, 
 Voici un exemple de signature :
 
 > Jean LOUIS  
-> Chargé de Développement  
+> Chargé de Développement 
 > Équipe Lambda - beta.gouv.fr  
 > jean.louis@beta.gouv.fr – +33.\(0\)6.XX.XX.XX.XX
 
