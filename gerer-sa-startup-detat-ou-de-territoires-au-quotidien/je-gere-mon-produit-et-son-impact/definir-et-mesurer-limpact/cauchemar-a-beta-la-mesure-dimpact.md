@@ -34,6 +34,8 @@ Dans la logique d'un atelier de co-développement, l'équipe de la SE sera "le c
 * Domifa
 * Ecolab
 
+[Voir équipes inscrites à l'atelier ](https://airtable.com/shrYB59ivc3PljMkD)
+
 {% hint style="info" %}
 [Inscrit ton équipe au prochain atelier "Cauchemar à bêta : la mesure d'impact !](https://airtable.com/shr7L3jxSrxsptKvs)
 {% endhint %}
