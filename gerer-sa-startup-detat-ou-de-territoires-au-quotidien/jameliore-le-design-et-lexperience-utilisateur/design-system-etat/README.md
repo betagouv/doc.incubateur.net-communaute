@@ -45,6 +45,17 @@ Le Design System est **obligatoire** pour les sites communiquant au nom de l'Ét
 
 Les applications métiers, intranets, applications mobiles ne sont **pas encore** concernés par l'obligation, tant que le DSFR ne propose pas les composants adéquats. Mais son usage reste fortement recommandé.
 
+### Contribuer au DSFR
+
+En rejoignant la [communauté ](https://gouvfr.slack.com)du DSFR vous pourrez :&#x20;
+
+* obtenir de l’aide et de l’assistance du SIG ou des personnes utilisant le DSFR
+* partager avec d’autres designers et d’autres développeurs
+* être tenu au courant des dernières nouveautés et des prochaines livraisons
+* contribuer aux évolutions du système de design de l’État
+
+[Rejoignez la communauté DSFR](https://gouvfr.slack.com) ou [inscrivez-vous](https://gouvfr.atlassian.net/servicedesk/customer/portal/1/group/1/create/9) avec votre adresse @beta.gouv.fr
+
 ## À propos de la marque État
 
 Depuis 2020, un travail d'uniformisation de l'identité de l'Etat est déployée. La [marque Etat](https://www.gouvernement.fr/charte/charte-graphique-les-fondamentaux/le-bloc-marque) correspond à une charte graphique qui s'applique aux supports imprimés et aux supports web.&#x20;
