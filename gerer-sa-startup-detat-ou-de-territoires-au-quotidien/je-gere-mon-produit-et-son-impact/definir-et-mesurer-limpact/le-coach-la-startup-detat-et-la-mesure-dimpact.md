@@ -15,7 +15,7 @@ Le coach n’est pas le garant ou le responsable des mesures d’impact d’une 
 
 Le coach accompagne l’équipe tout au long du cycle de vie du produit pour mettre à jour la vision et les mesures d’impact en continu car le contexte évolue en permanence.
 
-Son rôle est de permettre à l’équipe d’être pilotée par l’impact (objectif, mesure, logique d’investissement, redevabilité).&#x20;
+Son rôle est de permettre à l’équipe d’être pilotée par l’impact (objectif, mesure, logique d’investissement, redevabilité). 
 
 ## **En tant que coach, quelles vont-être mes missions concernant les mesures d’impact d’une SET ?**
 
@@ -31,7 +31,7 @@ En tant que coach tu peux sensibiliser, former, aider à l’alignement, propose
 * inviter les membres de l’équipe de la SET à participer à une formation Alpha
 * montrer les pages /stats d’autres SE pour illustrer l’intérêt d’une mesure d’impact permanente et transparente.
 
-### **Aider l’équipe à s’aligner sur l’impact recherché :**&#x20;
+### **Aider l’équipe à s’aligner sur l’impact recherché : **
 
 * permettre à l’équipe de comprendre comment avancer pas à pas sur cette question ;
 * aider l’équipe à définir les objectifs réels (directs et indirects) pour en tirer les mesures d’impact ;

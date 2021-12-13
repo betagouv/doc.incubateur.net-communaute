@@ -4,7 +4,7 @@ description: >-
   responsabilités
 ---
 
-# De la Startup d'Etat à la Fondation et au fonds de dotation
+# De la start-up d'Etat à la Fondation et au fonds de dotation
 
 ## Qu'est-ce qu'une fondation ou un fond de dotation ?
 
@@ -12,20 +12,20 @@ Une fondation est une structure créée par d'autres personnes physiques ou mora
 
 1\) Personnes morales de droit privé à champ d'intervention général :
 
-* [les fondations reconnue d'utilité publique](https://www.legifrance.gouv.fr/loda/article\_lc/LEGIARTI000006275353#:\~:text=La%20fondation%20est%20l'acte,et%20%C3%A0%20but%20non%20lucratif.\&text=Elle%20acquiert%20alors%20le%20statut%20de%20fondation%20reconnue%20d'utilit%C3%A9%20publique.) ;
-* [les fonds de dotation](https://www.legifrance.gouv.fr/loda/article\_lc/LEGIARTI000038610543/) ;
-* [les fondations d'entreprise](https://www.legifrance.gouv.fr/loda/article\_lc/LEGIARTI000006477024) ;
+* [les fondations reconnue d'utilité publique](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006275353#:\~:text=La%20fondation%20est%20l'acte,et%20%C3%A0%20but%20non%20lucratif.\&text=Elle%20acquiert%20alors%20le%20statut%20de%20fondation%20reconnue%20d'utilit%C3%A9%20publique.) ;
+* [les fonds de dotation](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038610543/) ;
+* [les fondations d'entreprise](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006477024) ;
 
 2\) Personnes morales de droit privé à champ d'intervention spécifique (recherche ; santé publique ; enseignement supérieur etc.)
 
-* [les fondations universitaires ](https://www.legifrance.gouv.fr/codes/article\_lc/LEGIARTI000042813544/);
-* [les fondation partenariales.](https://www.legifrance.gouv.fr/codes/article\_lc/LEGIARTI000042813544/)
+* [les fondations universitaires ](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042813544/);
+* [les fondation partenariales.](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042813544/)
 * [les fondations de coopération scientifique](https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006166553/2006-04-19/) ;
-* [les fondations hospitalières](https://www.legifrance.gouv.fr/codes/article\_lc/LEGIARTI000029394491)
+* [les fondations hospitalières](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029394491)
 
 3\) Structure totalement assujettie à une autre fondation créatrice :
 
-* [les fondations sous égide](https://www.legifrance.gouv.fr/loda/article\_lc/LEGIARTI000020630485).
+* [les fondations sous égide](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000020630485).
 
 ### Quel intérêt à créer une fondation ou un fond de dotation ?
 
@@ -36,7 +36,7 @@ La fondation est généralement une personne morale de droit privé **à but non
 
 ### **Qui peut faire partie d'une fondation ou d'un fonds de dotation ?**
 
-Une fondation ou un fonds de dotation n'est pas composé d'actionnaire. Néanmoins, la structure générale du conseil d'administration peut être diverse. L'acte constitutif détermine les membres qui peuvent y être représentés.&#x20;
+Une fondation ou un fonds de dotation n'est pas composé d'actionnaire. Néanmoins, la structure générale du conseil d'administration peut être diverse. L'acte constitutif détermine les membres qui peuvent y être représentés. 
 
 ## La transformation d'une start-up d'Etat en fondation ou fonds de dotation
 
@@ -46,7 +46,7 @@ Une fondation ou un fonds de dotation n'est pas composé d'actionnaire. Néanmoi
 
 {% tabs %}
 {% tab title="Fondations et fonds de dotation" %}
-Lorsque la fondation (ou le fond de dotation) dispose de la personnalité morale, l'Administration n'est pas responsable des contrats passés. Lorsque la fondation ne dispose pas de la personnalité morale, c'est la personne morale qui l'a créée qui sera responsable des actes et contrats passés.&#x20;
+Lorsque la fondation (ou le fond de dotation) dispose de la personnalité morale, l'Administration n'est pas responsable des contrats passés. Lorsque la fondation ne dispose pas de la personnalité morale, c'est la personne morale qui l'a créée qui sera responsable des actes et contrats passés. 
 {% endtab %}
 
 {% tab title="GIP" %}
@@ -110,9 +110,9 @@ Les fondations et fonds de dotation ne sont pas soumis à un contrôle hiérarch
 {% endtab %}
 
 {% tab title="GIP" %}
-Les groupements d'intérêt public **ne sont pas soumis à un contrôle hiérarchique** de leurs actes (ni devant le préfet ou autre administration) à l'inverse d'autres structures.&#x20;
+Les groupements d'intérêt public **ne sont pas soumis à un contrôle hiérarchique** de leurs actes (ni devant le préfet ou autre administration) à l'inverse d'autres structures. 
 
-En revanche, lorsqu'ils sont soumis aux règles de la comptabilité publique, **les GIP peuvent être soumis au contrôle financier et économique de l'Etat**, lorsqu'ils assurent à titre principal la gestion d'un service public administratif en vertu de la [**loi**](https://www.legifrance.gouv.fr/loda/id/LEGIARTI000032442804/2021-04-28/?isSuggest=true)**.**
+En revanche, lorsqu'ils sont soumis aux règles de la comptabilité publique,** les GIP peuvent être soumis au contrôle financier et économique de l'Etat**, lorsqu'ils assurent à titre principal la gestion d'un service public administratif en vertu de la [**loi**](https://www.legifrance.gouv.fr/loda/id/LEGIARTI000032442804/2021-04-28/?isSuggest=true)**.**
 {% endtab %}
 
 {% tab title="SCIC" %}
@@ -131,7 +131,7 @@ Chaque établissement est rattaché à une personne publique (celle dont elle es
 * un lien de dépendance budgétaire et financier, puisque la loi peut prévoir une dotation déterminée par l'administration. L'établissement public qui est rattaché à l'Etat est soumis au déféré préfectoral, ce qui n'est pas le cas des autres.
 {% endhint %}
 
-En outre, Ils disposent également de l'autonomie financière et de gestion.&#x20;
+En outre, Ils disposent également de l'autonomie financière et de gestion. 
 
 {% hint style="info" %}
 L'acte constitutif peut disposer que l'établissement public ne bénéficiera pas de l'autonomie de financière et de gestion.
@@ -141,7 +141,7 @@ L'acte constitutif peut disposer que l'établissement public ne bénéficiera pa
 
 ### Comment fonctionne une fondation ?
 
-#### Organisation des fondations et fonds de dotation déterminée par l'acte constitutif&#x20;
+#### Organisation des fondations et fonds de dotation déterminée par l'acte constitutif 
 
 L'organisation est déterminée par l'acte constitutif, dans le respect de statuts types (pour les fondations reconnues d'utilité publique et les fondations de coopération scientifique)
 
@@ -151,7 +151,7 @@ _Le président et le Conseil d'administration_
 
 Les pouvoirs et modalités de nomination du président sont déterminés par l'acte constitutif.  Les membres du conseil d'administration sont également être nommés soit selon les modalités déterminées par l'acte constitutif.
 
-_Le directeur_&#x20;
+_Le directeur _
 
 De manière similaire au président, le directeur, lorsqu'il existe, est nommé par le conseil d'administration.
 
@@ -163,7 +163,7 @@ Les fondations et fonds de dotations sont soumis à la comptabilité privée. Le
 
 _Contrats de travail et personnels_
 
-Les fondations et fonds de dotations sont des personnes morales de droit privé, dès lors, les personnes qui travaillent dans les fondations et fonds de dotations sont soumis au code du travail.&#x20;
+Les fondations et fonds de dotations sont des personnes morales de droit privé, dès lors, les personnes qui travaillent dans les fondations et fonds de dotations sont soumis au code du travail. 
 
 Les personnes mises à disposition pour la fondation conservent leur propre statut.
 
@@ -171,4 +171,4 @@ _Contrats avec les tiers et responsabilité_
 
 Les fondations et fonds de dotations étant des personnes morales de droit privé, les contrats passés avec les tiers sont en principe des contrats de droit privé.
 
-Néanmoins, le [code de la commande publique](https://www.legifrance.gouv.fr/codes/article\_lc/LEGIARTI000037703308/) s'appliquera si le financement de la fondation ou son organe de décision est majoritairement public.
+Néanmoins, le [code de la commande publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037703308/) s'appliquera si le financement de la fondation ou son organe de décision est majoritairement public.

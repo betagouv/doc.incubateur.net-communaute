@@ -24,7 +24,7 @@ _9 semaines pour instruire un problème et envisager des solutions pour le réso
 {% tabs %}
 {% tab title="Question à se poser" %}
 * Quels outils utilise l'équipe pour communiquer, prendre des notes, conduire des entretiens ?
-* "Qui ça regarde ?" Est-ce que je suis en train de partager des données au delà du périmètre de l'équipe ou de ceux qu'elles regardent ?&#x20;
+* "Qui ça regarde ?" Est-ce que je suis en train de partager des données au delà du périmètre de l'équipe ou de ceux qu'elles regardent ? 
 
 > Exemple : Un entretien utilisateur peut être partagé avec l'équipe, le coach, l'environnement de l'équipe, mais sans doute pas au-delà. Est-ce que j'ai autorisé la lecture de mon Google doc par défaut, ou l'ai-je restreint au cercle d'intéressés ?
 
@@ -37,7 +37,7 @@ _9 semaines pour instruire un problème et envisager des solutions pour le réso
   * 💡 [Guide d'hygiène informatique pour les systèmes d'information](https://www.ssi.gouv.fr/guide/guide-dhygiene-informatique/) & [Guide RGPD du dev](https://www.cnil.fr/fr/guide-rgpd-du-developpeur)
 * [ ] Je rencontre l'équipe juridique de la DINUM et de l'administration sponsor du produit pour une première prise de contact (Pour DINUM : perica.sucevic@modernisation.gouv.fr,  cindy.kus@modernisation.gouv.fr).
 * [ ] Je limite l'accès aux docs partagés à ceux que "ça regarde" et j'utilise des outils différenciés en fonction du degré de gêne (sensibilité) des informations :
-  * 💡 pad.incubateur.net est une alternative à Google doc qui permet de prendre des notes. L'option _signed-in people can edit_ limite la diffusion à la communauté @beta.gouv.fr.
+  * 💡 pad.incubateur.net est une alternative à Google doc qui permet de prendre des notes. L'option _signed-in people can edit _limite la diffusion à la communauté @beta.gouv.fr.
 *   [ ] Je minimise les informations collectées et supprime celles dont je n'ai pas besoin : après un entretien utilisateur, ai-je besoin de conserver dans mes notes toutes les données de le personne interrogée (date de naissance, numéro de tél, nom, etc.) ?
 
 
@@ -52,7 +52,7 @@ _9 semaines pour instruire un problème et envisager des solutions pour le réso
 {% endtab %}
 {% endtabs %}
 
-## 🧱 Phase de construction produit&#x20;
+## 🧱 Phase de construction produit 
 
 _3 à 6 mois pour développer une première solution numérique et l'expérimenter auprès d'utilisateurs_
 
@@ -78,9 +78,9 @@ Attention, la loi ne s'applique pas dans les cas de collecte, enregistrement ou 
 * [ ] Je choisis les bons outils.
   * 💡 Info et recommandation pour la gestion des cookies : [lien](https://beta.gouv.fr/suivi/)
 * [ ] Je recense toutes les données traitées et les finalités qui leur sont associées \[1 à 2h].
-  * 💡 [Tableau données-finalités](https://docs.google.com/document/d/1PQniGdnvLdjyEBbk1lFGzmG6rwnwD5bPCbvP\_XBOe4I/edit?usp=sharing) écrit par la startup Itou. Le vôtre sera plus simple !
+  * 💡 [Tableau données-finalités](https://docs.google.com/document/d/1PQniGdnvLdjyEBbk1lFGzmG6rwnwD5bPCbvP_XBOe4I/edit?usp=sharing) écrit par la startup Itou. Le vôtre sera plus simple !
 * [ ] Si mon produit rentre dans l'un des [critères de la CNIL](https://www.cnil.fr/sites/default/files/atoms/files/liste-traitements-aipd-non-requise.pdf) : j'initie une analyse d'impact relative à la protection des donnée (AIPD, aussi appelée EIVP).
-  * 💡 [Une AIPD, c'est quoi ?](https://www.cnil.fr/sites/default/files/atoms/files/infographie\_aipd.pdf)
+  * 💡 [Une AIPD, c'est quoi ?](https://www.cnil.fr/sites/default/files/atoms/files/infographie_aipd.pdf)
   * 💡 [Exemple d'AIPD](https://docs.google.com/document/d/1j\_1EESLdOHIa6bsYo3VSp-AJhPNPbQJKNRJnpJpRhKU/edit) pour la startup Itou
 * [ ] J'organise un atelier d'analyse de risques en suivant le guide agile de l'ANSSI \[1 demi-journée en équipe complète].
   * 💡 Exemple de [résultat d'un atelier](https://github.com/openmaraude/le.taxi/wiki/Analyse-des-risques) pour Le.taxi
@@ -91,11 +91,11 @@ Attention, la loi ne s'applique pas dans les cas de collecte, enregistrement ou 
 {% endtab %}
 
 {% tab title="A ne pas faire" %}
-* Fausse bonne idée : considérer que le recueil du consentement est nécessaire. Pour l'administration, d'autres bases légales sont à considérer telles que la mission d'intérêt public ou l'obligation légale.&#x20;
+* Fausse bonne idée : considérer que le recueil du consentement est nécessaire. Pour l'administration, d'autres bases légales sont à considérer telles que la mission d'intérêt public ou l'obligation légale. 
 {% endtab %}
 {% endtabs %}
 
-## 🚀 Phase d'accélération&#x20;
+## 🚀 Phase d'accélération 
 
 _Mon produit a rencontré ses utilisateurs et démontré sa valeur en phase d'expérimentation ; je concentre mes efforts sur son déploiement à grande échelle (de 100 à 1 000 ou de 1 000 à 100 000 utilisateurs)_
 
@@ -108,7 +108,7 @@ _Mon produit a rencontré ses utilisateurs et démontré sa valeur en phase d'ex
 * [ ] Je reviens sur les actions des phases précédentes, en répète certaines (atelier risques) et mets à jour les documents correspondants.
 * [ ] \[Si AIPD] Je finalise l'analyse et sa validation avec le responsable de traitement.
 * [ ] A partir du livrable de l'atelier risques, je constitue un dossier d'homologation de sécurité.
-  * 💡 Exemples de dossier d'homologation de sécurité : [Le.taxi](https://github.com/betagouv/beta.ssi/blob/master/homologations/le\_taxi.md) et [Aidants connect](https://trello.com/c/NOap62w5)
+  * 💡 Exemples de dossier d'homologation de sécurité : [Le.taxi](https://github.com/betagouv/beta.ssi/blob/master/homologations/le_taxi.md) et [Aidants connect](https://trello.com/c/NOap62w5)
 * [ ] Je partage le dossier avec le RSSI de mon administration, prends en compte ses retours et me renseigne sur l'autorité d'homologation.
   * 💡 Pour connaître le RSSI de la DINUM, tu peux interroger l'équipe de co-animation de beta.gouv.fr
 * [ ] \[Optionnel] A ce stade, je peux solliciter un prestataire pour réaliser un test d'intrusion. Je contacte la DINUM si besoin pour en discuter.

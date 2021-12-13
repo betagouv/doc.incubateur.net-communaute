@@ -6,7 +6,7 @@ description: >-
 
 # Comment activer l'option thread/fil ?
 
-## Etape 1**. Cliques sur les 3 bandes horizontales**&#x20;
+## Etape 1**. Cliques sur les 3 bandes horizontales **
 
 ![](../../../../.gitbook/assets/capture-1.jpg)
 

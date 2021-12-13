@@ -15,7 +15,7 @@ Les produits des Startup d’État **doivent être accessibles.**
 Chaque service numérique doit être en conformité au **niveau double A** (AA) du Référentiel Général d’Accessibilité des Administrations. Concrètement :
 
 * **afficher l’état de conformité du site** sur la page d’accueil, par exemple en utilisant le Design System (et son composant [Footer](obligations-legales.md#ce-que-ma-startup-detat-doit-faire)) ;
-* **publier une** [**déclaration de conformité**](https://betagouv.github.io/a11y-generateur-declaration/) après avoir audité le service ;
+* **publier une **[**déclaration de conformité**](https://betagouv.github.io/a11y-generateur-declaration/) après avoir audité le service ;
 * **expliquer la politique d’accessibilité** en publiant un schéma pluri-annuel.
 
 ![SignalConso affiche son taux de conformité (partiel) en fin de page](<../../../.gitbook/assets/image (14) (2) (2) (1).png>)

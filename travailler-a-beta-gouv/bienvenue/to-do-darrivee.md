@@ -56,7 +56,7 @@ A l'exception des cas où ton administration publique de rattachement ne dispose
   * &#x20; Rencontre bizdev : comment déployer les startups 🔒`#incubateur-bizdev`
   * &#x20; Rencontre intra : comment les agents publiques créent leurs startups 🔒`#domaine-intrapreneurs`
   * &#x20; Organiser ta propre rencontre sur un sujet qui te botte !
-* [ ] \[Si tu rejoins une nouvelle startup], créer avec ton équipe une **fiche produit** sur beta.gouv.fr, [directement sur Github](https://github.com/betagouv/beta.gouv.fr/tree/master/content/\_startups), ou alors en passant par l'interface de gestion de contenu [Netlify](https://beta.gouv.fr/admin/#/collections/startups). Tu peux t'inspirer [des autres produits](https://beta.gouv.fr/startups/) pour le format et contenu.
+* [ ] \[Si tu rejoins une nouvelle startup], créer avec ton équipe une** fiche produit **sur beta.gouv.fr, [directement sur Github](https://github.com/betagouv/beta.gouv.fr/tree/master/content/\_startups), ou alors en passant par l'interface de gestion de contenu [Netlify](https://beta.gouv.fr/admin/#/collections/startups). Tu peux t'inspirer [des autres produits](https://beta.gouv.fr/startups/) pour le format et contenu.
 
 ## &#x20;Au cours des 6 premiers mois
 

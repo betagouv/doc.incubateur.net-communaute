@@ -1,7 +1,7 @@
 # Comprendre la gestion de mon produit : étapes clefs, impact, design, sécurité, acquisition...
 
 {% hint style="info" %}
-**Gagne du temps** en utilisant la barre de recherche, en haut à droite de l'écran **"Rechercher"** 🔎
+**Gagne du temps **en utilisant la barre de recherche, en haut à droite de l'écran** "Rechercher" **🔎
 {% endhint %}
 
 ## Que recherches-tu ?

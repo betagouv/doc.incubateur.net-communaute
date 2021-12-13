@@ -14,9 +14,9 @@ Cette FAQ sert à répondre aux principales questions qui nous sont posées. La 
 
 ## Pourquoi est-il important de ne pas considérer Beta.gouv comme un prestataire de service ?
 
-**La convention n'organise pas la réalisation d’une prestation** par la Direction interministérielle du Numérique, confiée par une administration pour répondre à son besoin, en contrepartie d’un prix (ou équivalent).&#x20;
+**La convention n'organise pas la réalisation d’une prestation** par la Direction interministérielle du Numérique, confiée par une administration pour répondre à son besoin, en contrepartie d’un prix (ou équivalent). 
 
-En effet, l’approche beta.gouv.fr consiste à identifier des problèmes de politique publique à fort impact social et à donner de l’autonomie à une équipe pour en trouver une solution. Beta.gouv met donc en œuvre le principe du développement itératif qui vise à mettre un service en production rapidement et l’améliorer ensuite, plutôt que d’attendre qu’il soit « théoriquement parfait » pour le lancer. Dès lors, le besoin n’est pas clairement définit avec précision comme l’impose le code de la commande publique.&#x20;
+En effet, l’approche beta.gouv.fr consiste à identifier des problèmes de politique publique à fort impact social et à donner de l’autonomie à une équipe pour en trouver une solution. Beta.gouv met donc en œuvre le principe du développement itératif qui vise à mettre un service en production rapidement et l’améliorer ensuite, plutôt que d’attendre qu’il soit « théoriquement parfait » pour le lancer. Dès lors, le besoin n’est pas clairement définit avec précision comme l’impose le code de la commande publique. 
 
 En outre, Beta.gouv diffuse des méthodes d’amélioration progressive et continue, centrées sur les usages observés, dont l’efficacité repose sur une responsabilisation des équipes composées d’agents de l’administration partenaire et de Beta.gouv. Ces méthodes nécessitent que les administrations partenaires en tirent les conséquences dans leurs organisations, ce qui exige un accompagnement, et internalisent fortement les compétences nécessaires. Or lorsqu’il est fait appel à des prestataires, des adaptations contractuelles doivent être prises, notamment par l’inscription de clauses de sorties, ce qui n’est pas le cas dans l’accompagnement Beta.gouv.
 
@@ -34,7 +34,7 @@ Sans intrapreneur ou sans experts du numérique de la DINUM, il n'y a pas de Sta
 
 Une équipe de Startup d'Etat a donc "un pied dedans, un pied dehors".
 
-## En quoi les besoins et les solutions sont définis par l’ensemble des parties ?&#x20;
+## En quoi les besoins et les solutions sont définis par l’ensemble des parties ? 
 
 L'équipe de la Startup d’État est mixte. **Elle est composée d'un agent public de l'administration partenaire et d'experts du numérique de la DINUM.**
 
@@ -42,7 +42,7 @@ Cette équipe va définir les besoins (ou problèmes à résoudre pour l'usager)
 
 **Le rôle de l'intrapreneur.se est central**. Les témoignages de différents intrapreneurs le démontrent parfaitement (exemple : [là](https://blog.beta.gouv.fr/pole-emploi/2020/07/10/paroles-dintrapreneuses-3-lauren-michel-de-la-startup-maintenant-de-pole-emploi/), [ici ](https://blog.beta.gouv.fr/dinsic/2020/07/01/paroles-dintrapreneuse-melodie-dahi-du-secretariat-general-du-gouvernement/)et [là](https://blog.beta.gouv.fr/general/2020/06/24/parole-dintrapreneus-gaelle/)).
 
-Ainsi **l'équipe va proposer les finalités** et le comité d'investissement les validera ou non. L'équipe comme le comité sont composés de membres de l'administration partenaire et de la DINUM.&#x20;
+Ainsi** l'équipe va proposer les finalités **et le comité d'investissement les validera ou non. L'équipe comme le comité sont composés de membres de l'administration partenaire et de la DINUM. 
 
 ## En quoi les transferts financiers entre l'administration partenaire et la DINUM ne peuvent pas être regardés comme le résultat d’une activité commerciale ?
 
@@ -50,7 +50,7 @@ Toutes les Startups d’État ont pour vocation à résoudre un problème de pol
 
 **La convention vise explicitement des considérations d'intérêt général**.
 
-En outre, l'ensemble des coûts dépensés ne vise qu'à financer les prestations des titulaires des marchés publics auquel à recours la DINUM. **L'administration partenaire n'aura aucun autre frais à payer, en dehors de la rémunération de l'intrapreneur.se.**
+En outre, l'ensemble des coûts dépensés ne vise qu'à financer les prestations des titulaires des marchés publics auquel à recours la DINUM.** L'administration partenaire n'aura aucun autre frais à payer, en dehors de la rémunération de l'intrapreneur.se.**
 
 De plus, **ces prestations ne permettent pas à elles seules de réaliser la Startup d’État**. L**'intervention de l'intrapreneur (agent public de l'administration partenaire) et de divers directions ou services de l'administration partenaire et de la DINUM sont indispensables pour que la Startup d’État réussisse**. C'est cette coopération ou collaboration qui définit les Startups d’État et le programme beta.gouv.
 
@@ -88,13 +88,13 @@ Ils sont strictement définit par trois critères :
 
 ## Que dit la jurisprudence sur ce type de contrat ?
 
-La jurisprudence européenne analyse également **deux critères complémentaires** :
+La jurisprudence européenne analyse également** deux critères complémentaires** :
 
-\- **l’absence de favoritisme d’une entreprise privée** par rapport à ses concurrents&#x20;
+\- **l’absence de favoritisme d’une entreprise privée** par rapport à ses concurrents 
 
 \- **l’absence de volonté de contourner les règles de la commande publique.**
 
-La CJUE indique que **la mission d’intérêt général doit être commune aux personnes publiques contractantes** et que la coopération soit conditionnée exclusivement à **la poursuite de considérations d’intérêt public**.&#x20;
+La CJUE indique que **la mission d’intérêt général doit être commune aux personnes publiques contractantes** et que la coopération soit conditionnée exclusivement à **la poursuite de considérations d’intérêt public**. 
 
 La coopération peut être horizontale ou verticale.
 
@@ -118,7 +118,7 @@ Pour que ces critères soient bien respectés, vous devez toujours :
 | ------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Exécution conjointe d’un service public, ou de services publics complémentaires disposant d’objectifs communs, à des fins exclusives d’intérêt public. | Externalisation de services internes ou d’activités assurés par le ou les pouvoir(s) adjudicateur(s) à une entité dédiée placée sous son contrôle. |
 
-## Pour aller plus loin&#x20;
+## Pour aller plus loin 
 
 La direction des affaires juridiques met à disposition une [note complète et régulièrement mise à jour sur ce sujet](https://www.economie.gouv.fr/daj/contrats-entre-entites-secteur-public-2019-2) : _**Les contrats conclus entre entités appartenant au secteur public.**_
 
@@ -126,8 +126,8 @@ Il convient d'avoir quelques bases en droit pour réussir à la traduire.
 
 ## Si vous avez des questions ou des doutes sur une prochaine convention ?
 
-Adresser un message à l'un des co-animateurs ou à dinum@beta.gouv.fr.&#x20;
+Adresser un message à l'un des co-animateurs ou à dinum@beta.gouv.fr. 
 
-Nous ferons le nécessaire pour vous répondre.&#x20;
+Nous ferons le nécessaire pour vous répondre. 
 
 Si nous n'avons pas la réponse, nous ferons suivre au service juridique de la DINUM.

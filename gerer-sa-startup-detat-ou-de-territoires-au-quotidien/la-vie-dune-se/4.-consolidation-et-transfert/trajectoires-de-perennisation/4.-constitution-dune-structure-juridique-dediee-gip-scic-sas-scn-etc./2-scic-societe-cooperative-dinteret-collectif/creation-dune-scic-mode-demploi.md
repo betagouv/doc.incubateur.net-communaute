@@ -10,9 +10,9 @@ Pour créer une SCIC, les associés doivent d'une part rédiger des statuts et d
 
 Ces trois formes sont régies par des règles posées par le code de commerce, dont certaines devront être respectées.
 
-Il faut néanmoins déterminer **l'intérêt collectif ayant une "utilité sociale"** de la SCIC. L’intérêt collectif ayant un caractère d’utilité sociale est [**un besoin qui n’est pas pris en compte par le marché ou qui l’est de façon peu satisfaisante**](https://questions.assemblee-nationale.fr/q15/15-22947QE.htm).&#x20;
+Il faut néanmoins déterminer** l'intérêt collectif ayant une "utilité sociale"** de la SCIC. L’intérêt collectif ayant un caractère d’utilité sociale est [**un besoin qui n’est pas pris en compte par le marché ou qui l’est de façon peu satisfaisante**](https://questions.assemblee-nationale.fr/q15/15-22947QE.htm). 
 
-Cette définition ne devrait pas constituer un obstacle à la transformation d’une Start-up d’État en une SCIC puisque les Start-up d’État doivent résoudre un « _problème de politique publique_ » suffisamment important.&#x20;
+Cette définition ne devrait pas constituer un obstacle à la transformation d’une Start-up d’État en une SCIC puisque les Start-up d’État doivent résoudre un « _problème de politique publique _» suffisamment important. 
 
 ## Les étapes à la création d'une SCIC
 

@@ -18,9 +18,9 @@ extrait de l'appel d'offre « Accompagnement »
 
 Il s'agit donc pour la coache, d'**accompagner** et de **partager des savoir-faire**.
 
-Une [présentation](https://docs.google.com/presentation/d/12aEGovHBZYH-xeskRalvhPhGhDG971hibddiGj5f\_AU/edit?usp=sharing) datant d'octobre 2020 cartographie les différentes nuances du rôle de coach chez beta.gouv.fr.&#x20;
+Une [présentation](https://docs.google.com/presentation/d/12aEGovHBZYH-xeskRalvhPhGhDG971hibddiGj5f_AU/edit?usp=sharing) datant d'octobre 2020 cartographie les différentes nuances du rôle de coach chez beta.gouv.fr. 
 
-## Quel est le niveau d'intervention d'une personne qui coache ?&#x20;
+## Quel est le niveau d'intervention d'une personne qui coache ? 
 
 Les éléments partagés ici peuvent servir de référence et non de normes. Ils reflètent d'une part ce que nous avons observé chez beta.gouv, d'autre part l'exigence d'éthique budgétaire liée à notre mission d'intérêt général. Ce document a une valeur indicative et pourra évoluer en fonction du marché et des retours des équipes.
 
@@ -45,7 +45,7 @@ Certaines équipes sont composées d'un(e) [gestionnaire de produit ](gestion-de
 
 C'est le cas lorsque qu'il n'y a plus d'intrapreneur dans l'équipe ou que celui ou celle-ci n'a pas assez de temps à consacrer au produit, ou parce qu'on a choisi d'associer une personne à l'intrapreneur (rôle d'entrepreneur associé).
 
-Le gestionnaire de produit est différent du coach car il conçoit avec l'équipe à la différence du coach qui accompagne.&#x20;
+Le gestionnaire de produit est différent du coach car il conçoit avec l'équipe à la différence du coach qui accompagne. 
 
 ## **Quel est le rôle du coach ?**
 
@@ -60,25 +60,25 @@ Le rôle du coach au sein d’une start-up d’état comprend, mais ne se limite
 
 Le coach doit s’adapter à la configuration de l’équipe qui dépend de l’engagement de l’intrapreneur et de la répartition des rôles. Son rôle, à terme, est de faire monter en compétences l’équipe pour lui permettre de s’autonomiser petit à petit (et non pas “faire à la place” de l’équipe). Il doit aussi maîtriser la culture de Beta.gouv; la durée de son expérience en SET est fortement valorisée.
 
-Lecture conseillée pour approfondir cette discussion : l’excellente “[cartographie de pratiques de coaching à beta.gouv.fr](https://docs.google.com/presentation/d/12aEGovHBZYH-xeskRalvhPhGhDG971hibddiGj5f\_AU/edit#slide=id.p)” de Raphael.\
+Lecture conseillée pour approfondir cette discussion : l’excellente “[cartographie de pratiques de coaching à beta.gouv.fr](https://docs.google.com/presentation/d/12aEGovHBZYH-xeskRalvhPhGhDG971hibddiGj5f_AU/edit#slide=id.p)” de Raphael.\
 ****
 
-## **Quelles compétences pour être coach ?**&#x20;
+## **Quelles compétences pour être coach ? **
 
 D’expérience, les meilleurs coachs avec qui nous avons travaillé chez[ beta.gouv.fr](http://beta.gouv.fr) ont une expérience entrepreneuriale et savent un peu tout faire (tech, design, bizdev, politique, etc). Ils et elles ont du vécu et savent gérer des situations complexes.
 
 Ce sont des personnes qui ont l’expérience de lancer des produits de la page blanche au 1er puis à 1000 utilisateurs.
 
-Voici quelques grandes catégories de compétences à maîtriser pour pouvoir accompagner effectivement une équipe de SET.&#x20;
+Voici quelques grandes catégories de compétences à maîtriser pour pouvoir accompagner effectivement une équipe de SET. 
 
-**Product management**&#x20;
+**Product management **
 
 * Connaissances techniques pour comprendre les implications techniques du développement d’une fonctionnalité
 * Gestion de produit : savoir prioriser les développements en fonction de l’impact, les retours utilisateurs et de la vision produit.
 
 Aide pour acquérir cette compétence : demander au/à la Product Owner/manager de son équipe d’expliquer son travail. S’il n’y en a pas alors demander sur le canal Mattermost [#incubateur-help](https://mattermost.incubateur.net/betagouv/channels/incubateur-help).
 
-**Design de produit numérique** &#x20;
+**Design de produit numérique  **
 
 Sourcer les demandes d’évolutions des usagers : entretiens usagers, outils de centralisation des demandes.
 
@@ -91,9 +91,9 @@ Aide pour acquérir cette compétence : Consulter les contenus et formations pro
 
 Définir un business modèle, identifier un product-market fit, définir des KPI ou métriques d’impact, etc.
 
-Aide pour acquérir cette compétence : Lire des références dans le domaine (Running Lean). ****&#x20;
+Aide pour acquérir cette compétence : Lire des références dans le domaine (Running Lean).** **
 
-**Déploiement** &#x20;
+**Déploiement  **
 
 * Maîtriser l’art du pitch
 * Savoir approcher et convaincre les dirigeants d'administrations
@@ -101,19 +101,19 @@ Aide pour acquérir cette compétence : Lire des références dans le domaine (R
 * Savoir préparer/présenter les comités d’investissement
 * Marketing et communication numérique (SEO/SEA, growth hacking, stratégies sur les réseaux sociaux)
 
-Aide pour acquérir cette compétence :&#x20;
+Aide pour acquérir cette compétence : 
 
 * Suivre la formation “chargé.e de déploiement chez Beta : [https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/le-metier-de-charge.e-de-deploiement-chez-beta.gouv](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/le-metier-de-charge.e-de-deploiement-chez-beta.gouv)
 * Participer au Club bizdev mensuel
 
-**Animation d’équipe**&#x20;
+**Animation d’équipe **
 
 C’est un rôle transverse qui demande de coordonner l’ensemble des métiers d’une équipe pour fluidifier les échanges et créer des synergies.
 
 Rituels d’équipe (mise en place d’outils partagés (Trello, Airtable, etc), animations d’ateliers OKRs, de rétros, de post-mortem, de codev)\
 ****
 
-**Connaître la culture Beta.gouv**&#x20;
+**Connaître la culture Beta.gouv **
 
 Être en mesure d’expliquer et de transmettre cette culture à l’intrapreneur et les nouveaux membres de l’équipe. s’impliquer au sein de la communauté.
 
@@ -121,21 +121,21 @@ Aide pour acquérir cette compétence : participer aux rituels et événements d
 
 ## **Comment devenir coach chez Beta ?**
 
-Il n’y a pas de secret, pour devenir coach il faut coacher. ****&#x20;
+Il n’y a pas de secret, pour devenir coach il faut coacher.** **
 
-**Comment faire un premier coaching chez Beta ?**&#x20;
+**Comment faire un premier coaching chez Beta ? **
 
-Avant de te lancer dans le grand bain, le premier pas est de binômer avec un coach expérimenté sur une investigation. Il te faut donc trouver une investigation qui débute, sur laquelle le coach et l’intrapreneur sont d’accord pour que tu  sois binôme dans une démarche d’apprentissage. A l’issue de cette première expérience et si elle s’avère un succès, alors tu pourras prétendre à coacher une investigation en solo.&#x20;
+Avant de te lancer dans le grand bain, le premier pas est de binômer avec un coach expérimenté sur une investigation. Il te faut donc trouver une investigation qui débute, sur laquelle le coach et l’intrapreneur sont d’accord pour que tu  sois binôme dans une démarche d’apprentissage. A l’issue de cette première expérience et si elle s’avère un succès, alors tu pourras prétendre à coacher une investigation en solo. 
 
-**Comment trouver une première investigation ?**&#x20;
+**Comment trouver une première investigation ? **
 
 👉 Manifestes ton intérêt ici : [https://airtable.com/shrFflOyc7QcVO1u6](https://airtable.com/shrFflOyc7QcVO1u6)
 
-Tu peux aussi en discuter avec les responsables de portefeuille. Ensuite un entretien permettra d'évaluer tes compétences selon les critères présentés ci-dessous et si tu es sélectionné tu seras placé sur une prochaine investigation. Le délai de placement sur une investigation est variable selon les appels à candidatures lancés dans les administrations partenaires et selon la volonté des intrapreneurs et coachs d’accepter un binôme.&#x20;
+Tu peux aussi en discuter avec les responsables de portefeuille. Ensuite un entretien permettra d'évaluer tes compétences selon les critères présentés ci-dessous et si tu es sélectionné tu seras placé sur une prochaine investigation. Le délai de placement sur une investigation est variable selon les appels à candidatures lancés dans les administrations partenaires et selon la volonté des intrapreneurs et coachs d’accepter un binôme. 
 
-**Quels sont les critères de sélection ?**&#x20;
+**Quels sont les critères de sélection ? **
 
-Les deux critères majeurs sont l’expérience et la motivation. Un échange sera prévu pour évaluer ces critères.&#x20;
+Les deux critères majeurs sont l’expérience et la motivation. Un échange sera prévu pour évaluer ces critères. 
 
 * Expérience chez Beta :
   * depuis combien de temps
@@ -151,15 +151,15 @@ Les deux critères majeurs sont l’expérience et la motivation. Un échange se
   * Pourquoi devenir coach ?
   * Quelle conciliation avec la mission actuelle ?
 
-**Quel engagement hebdomadaire ?**&#x20;
+**Quel engagement hebdomadaire ? **
 
-Le coaching en investigation demande une charge de travail de 2 jours par semaine sur une durée de 3 mois.&#x20;
+Le coaching en investigation demande une charge de travail de 2 jours par semaine sur une durée de 3 mois. 
 
-**Quelle rémunération pour le temps investi sur le coaching en investigation?**&#x20;
+**Quelle rémunération pour le temps investi sur le coaching en investigation? **
 
 Le coaching en binôme est rémunéré à un TJM de 325€ HT.
 
-**Quel suivi de mon parcours ?**&#x20;
+**Quel suivi de mon parcours ? **
 
 Au cours de votre coaching des temps d’échanges seront prévus avec les autres apprentis et vos co-animateurs référents afin de suivre votre évolution et partager tes apprentissages. \
 ****\

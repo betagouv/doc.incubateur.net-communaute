@@ -9,14 +9,14 @@ Selon la taille et le stade d’avancement de la startup, les chargé·e·s de d
 
 ![](https://lh4.googleusercontent.com/O8Ift-ThuWqGVrz8J59EtRcVHg851zogM4to81vV86eFiFR5yQNG7estpK1VrKg506OBWvqe7MyS2KR61HJfmgarWTlFxHuFp2ItkCfX6IWpVH6XMCg8dX9Xftes5qf0LCyHNS9y)
 
-## **Les casquettes :**&#x20;
+## **Les casquettes : **
 
-* Chargé·e de déploiement pour trouver les premiers usagers&#x20;
+* Chargé·e de déploiement pour trouver les premiers usagers 
 * Chargé·e de support utilisateurs
-* &#x20;Responsable Produit  pour orienter les choix produit en fonctions des retours utilisateurs et des ambitions de déploiement
+*  Responsable Produit  pour orienter les choix produit en fonctions des retours utilisateurs et des ambitions de déploiement
 * Chargé(e) d'études pour s’assurer que les choix sont fait en fonction de l’impact mesuré
-* animateur de communauté pour développer l’engagement des utilisateurs sur le produit&#x20;
+* animateur de communauté pour développer l’engagement des utilisateurs sur le produit 
 
-![](https://lh6.googleusercontent.com/657c4O3CgH0c5WpARG9wIl8l3tMfx8fgRBJKdBW-wYzO5vZZ\_bQUgthaqbLLEi\_F9\_QeRPRLhr31gyxdgkznu6B-J0RGjmUnIEHgrMMUX2mn5uptiGd4iRQcrwer76bQxjSWI-Pr)
+![](https://lh6.googleusercontent.com/657c4O3CgH0c5WpARG9wIl8l3tMfx8fgRBJKdBW-wYzO5vZZ_bQUgthaqbLLEi_F9\_QeRPRLhr31gyxdgkznu6B-J0RGjmUnIEHgrMMUX2mn5uptiGd4iRQcrwer76bQxjSWI-Pr)
 
 ### ****

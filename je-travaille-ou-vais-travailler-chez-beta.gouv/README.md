@@ -1,7 +1,7 @@
 # Je suis membre d'une Startup d'Etat ou de Territoires
 
 {% hint style="info" %}
-**Gagne du temps** en utilisant la barre de recherche en haut à droite de l'écran **"Rechercher"** 🔎
+**Gagne du temps **en utilisant la barre de recherche en haut à droite de l'écran** "Rechercher" **🔎
 {% endhint %}
 
 ## Tu recherches de l'aide ou de l'information sur quel sujet ?
@@ -14,7 +14,7 @@
 [comprendre-la-gestion-de-mon-produit-etapes-clefs-impact-design-securite-acquisition....md](comprendre-la-gestion-de-mon-produit-etapes-clefs-impact-design-securite-acquisition....md)
 {% endcontent-ref %}
 
-## Tu peux aussi trouver des ressources clefs par profil&#x20;
+## Tu peux aussi trouver des ressources clefs par profil 
 
 {% tabs %}
 {% tab title="Intra" %}

@@ -4,30 +4,30 @@ description: >-
   responsabilités
 ---
 
-# De la Startup d'Etat à l'Etablissement public
+# De la start-up d'Etat à l'Etablissement public
 
 ## Qu'est-ce qu'un Etablissement public ?
 
-Les établissements publics sont des personnes morales de droit public qui **disposent de l'autonomie administrative et financière et chargées d'une mission d'intérêt public**. **Ils sont créés et rattachés à une personne publique qui peut être l'Etat ou une collectivité territoriale**. Ils peuvent être soumis à deux régimes juridiques qui détermineront le droit qui leur sera applicable :
+Les établissements publics sont des personnes morales de droit public qui **disposent de l'autonomie administrative et financière et chargées d'une mission d'intérêt public**.** Ils sont créés et rattachés à une personne publique qui peut être l'Etat ou une collectivité territoriale**. Ils peuvent être soumis à deux régimes juridiques qui détermineront le droit qui leur sera applicable :
 
-* Les Etablissements publics administratifs ;&#x20;
+* Les Etablissements publics administratifs ; 
 * Les Etablissements publics industriels et commerciaux.
 
-Le régime ou le type d'établissement public est déterminé par la loi, par l'autorité administrative ou par le juge, selon les critères de la jurisprudence.&#x20;
+Le régime ou le type d'établissement public est déterminé par la loi, par l'autorité administrative ou par le juge, selon les critères de la jurisprudence. 
 
-Ces critères sont désormais connus :&#x20;
+Ces critères sont désormais connus : 
 
 * l'objet de la mission d'intérêt public dont est chargée la personne publique ;
 * les ressources de l'établissement public ;
 * les modalités de fonctionnement, qui sont déterminés par l'acte créateur. Il s'agit de contrôle si l'établissement se comporte de manière similaire à une entreprise privée.
 
-**A savoir** : Lorsqu'une loi a choisi un type d'établissement (administratif ou à caractère industriel et commecial), ce choix s'impose. En revanche, le choix du pouvoir réglementaire peut être requalifié par le juge. Il faut donc veiller dans ce cas à ce que soient respectés les critères jurisprudentiels.&#x20;
+**A savoir** : Lorsqu'une loi a choisi un type d'établissement (administratif ou à caractère industriel et commecial), ce choix s'impose. En revanche, le choix du pouvoir réglementaire peut être requalifié par le juge. Il faut donc veiller dans ce cas à ce que soient respectés les critères jurisprudentiels. 
 
 Les établissements publics ont un budget qui est important (entre 30 et 250 millions de budget) et dont la masse « salariale » peut être également importante (jusqu’à environ 2000 personnes employés).
 
 ### Quel intérêt à créer un Etablissement public ?
 
-L'établissement public est une personne publique dotée de l'autonomie financière et de gestion.&#x20;
+L'établissement public est une personne publique dotée de l'autonomie financière et de gestion. 
 
 Les avantages et intérêts à créer un établissement public diffèrent en fonction de leur type.
 
@@ -38,7 +38,7 @@ Les avantages et intérêts à créer un établissement public diffèrent en fon
 * La gestion d'une mission d'intérêt public dans le cadre des règles de droit public ;
 * La gestion d'un budget et d'une masse salariale très importante ;
 * Une autonomie financière et de gestion ;
-* Le maintient de prérogatives de puissances publiques, notamment dans les contrats avec les tiers ;&#x20;
+* Le maintient de prérogatives de puissances publiques, notamment dans les contrats avec les tiers ; 
 * De détenir et de développer son propre patrimoine, protégé par le principe d''insaisissabilité.
 {% endtab %}
 
@@ -48,16 +48,16 @@ Les avantages et intérêts à créer un établissement public diffèrent en fon
 * La gestion d'une mission d'intérêt public dans le cadre des règles de droit privé ;
 * La gestion d'un budget et d'une masse salariale très importante ;
 * Une autonomie financière et de gestion ;
-* Le maintient de prérogatives de puissances publiques, notamment dans les contrats avec les tiers ;&#x20;
+* Le maintient de prérogatives de puissances publiques, notamment dans les contrats avec les tiers ; 
 * De détenir et de développer son propre patrimoine, protégé par le principe d'insaisissabilité.
 {% endtab %}
 {% endtabs %}
 
 ### Comment puis-je créer un Etablissement public ?
 
-Qu'il soit un EPIC ou un EPA, **seul l'Etat et les collectivité territoriales** peuvent créer des établissements publics.&#x20;
+Qu'il soit un EPIC ou un EPA, **seul l'Etat et les collectivité territoriales** peuvent créer des établissements publics. 
 
-Deux manières :&#x20;
+Deux manières : 
 
 {% tabs %}
 {% tab title="Par la loi" %}
@@ -100,7 +100,7 @@ Les sociétés coopératives d'intérêt collectif **disposent de la personnalit
 {% endtab %}
 
 {% tab title="Fondations et fonds de dotation" %}
-Lorsque la fondation (ou le fond de dotation) dispose de la personnalité morale, l'Administration n'est pas responsable des contrats passés. Lorsque la fondation ne dispose pas de la personnalité morale, c'est la personne morale qui l'a créée qui sera responsable des actes et contrats passés.&#x20;
+Lorsque la fondation (ou le fond de dotation) dispose de la personnalité morale, l'Administration n'est pas responsable des contrats passés. Lorsque la fondation ne dispose pas de la personnalité morale, c'est la personne morale qui l'a créée qui sera responsable des actes et contrats passés. 
 {% endtab %}
 {% endtabs %}
 
@@ -159,7 +159,7 @@ Chaque établissement est rattaché à une personne publique (celle dont elle es
 * un lien de dépendance budgétaire et financier, puisque la loi peut prévoir une dotation déterminée par l'administration. L'établissement public qui est rattaché à l'Etat est soumis au déféré préfectoral, ce qui n'est pas le cas des autres.
 {% endhint %}
 
-En outre, Ils disposent également de l'autonomie financière et de gestion.&#x20;
+En outre, Ils disposent également de l'autonomie financière et de gestion. 
 
 {% hint style="info" %}
 L'acte constitutif peut disposer que l'établissement public ne bénéficiera pas de l'autonomie de financière et de gestion.
@@ -169,9 +169,9 @@ L'acte constitutif peut disposer que l'établissement public ne bénéficiera pa
 {% endtab %}
 
 {% tab title="GIP" %}
-Les groupements d'intérêt public **ne sont pas soumis à un contrôle hiérarchique** de leurs actes (ni devant le préfet ou autre administration) à l'inverse d'autres structures.&#x20;
+Les groupements d'intérêt public **ne sont pas soumis à un contrôle hiérarchique** de leurs actes (ni devant le préfet ou autre administration) à l'inverse d'autres structures. 
 
-En revanche, lorsqu'ils sont soumis aux règles de la comptabilité publique, **les GIP peuvent être soumis au contrôle financier et économique de l'Etat**, lorsqu'ils assurent à titre principal la gestion d'un service public administratif en vertu de la [**loi**](https://www.legifrance.gouv.fr/loda/id/LEGIARTI000032442804/2021-04-28/?isSuggest=true)**.**
+En revanche, lorsqu'ils sont soumis aux règles de la comptabilité publique,** les GIP peuvent être soumis au contrôle financier et économique de l'Etat**, lorsqu'ils assurent à titre principal la gestion d'un service public administratif en vertu de la [**loi**](https://www.legifrance.gouv.fr/loda/id/LEGIARTI000032442804/2021-04-28/?isSuggest=true)**.**
 {% endtab %}
 
 {% tab title="SCIC" %}
@@ -195,7 +195,7 @@ _Le président et le Conseil d'administration_
 
 Les pouvoirs et modalités de nomination du président sont déterminés par l'acte constitutif. De manière générale, le président est nommé par l'autorité administrative (par décret, par arrêté du ministre de tutelle). Les membres du conseil d'administration sont également être nommés soit selon les modalités déterminées par l'acte constitutif, soit par l'autorité administrative.
 
-_Le directeur_&#x20;
+_Le directeur _
 
 De manière similaire au président, le directeur est nommé par l'autorité administrative sur arrêté du ministre de tutelle, ou parfois par le conseil d'administration.
 
@@ -210,7 +210,7 @@ _Contrats de travail et personnels_
 Le type de l'établissement détermine le droit applicable à son personnel :
 
 * Le personnel des établissements publics administratifs sont par principe des fonctionnaires, soumis aux dispositions applicables aux fonctionnaires ;
-* Le personnel des établissements publics à caractère industriel et commercial sont par principe des salariés, soumis aux dispositions du code du travail, à l'exception du comptable et du directeur.&#x20;
+* Le personnel des établissements publics à caractère industriel et commercial sont par principe des salariés, soumis aux dispositions du code du travail, à l'exception du comptable et du directeur. 
 
 _Contrats avec les tiers et responsabilité_
 

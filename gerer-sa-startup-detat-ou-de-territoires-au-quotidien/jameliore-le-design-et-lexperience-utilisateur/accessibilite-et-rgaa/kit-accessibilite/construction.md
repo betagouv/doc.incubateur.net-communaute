@@ -42,7 +42,7 @@ Contacter l'équipe Designers Transverse pour organiser un atelier **« Vérifie
 
 {% tabs %}
 {% tab title="Navigation" %}
-**Il y a au moins deux façons de naviguer dans le site.** Cela peut être un menu mais aussi un moteur de recherche, un plan, un fil d'ariane...
+**Il y a au moins deux façons de naviguer dans le site. **Cela peut être un menu mais aussi un moteur de recherche, un plan, un fil d'ariane...
 
 ![](../../../../.gitbook/assets/doublenav.png)
 

@@ -1,6 +1,6 @@
 # Aide transverse - Design, UX
 
-## **Qu'est-ce qu'on peut faire ensemble ? 🏔**&#x20;
+## **Qu'est-ce qu'on peut faire ensemble ? 🏔 **
 
 ### **Investigation & construction**
 
@@ -12,7 +12,7 @@
 * Dessiner les parcours utilisateur et les process (experience maps, service blueprint)
 * Recruter un.e designer
 
-### **Accélération & Consolidation**&#x20;
+### **Accélération & Consolidation **
 
 * Réaliser des audits d'accessibilité ou d'ergonomie.
 * Réaliser une interface produit accessible et inclusive.
@@ -23,7 +23,7 @@
 
 ### Embarquer un.e design transverse dans votre équipe
 
-Écrivez-nous sur le Mattermost dans la chaîne [**#incubateur-designers-transverses**](https://mattermost.incubateur.net/betagouv/channels/incubateur-team-designers-transverses) **:** l'un d'entre nous fera un point d'étape avec vous avant de vous proposer un type d'intervention.&#x20;
+Écrivez-nous sur le Mattermost dans la chaîne [**#incubateur-designers-transverses**](https://mattermost.incubateur.net/betagouv/channels/incubateur-team-designers-transverses)** : **l'un d'entre nous fera un point d'étape avec vous avant de vous proposer un type d'intervention.&#x20;
 
 Nous dessinerons ensemble un périmètre d'intervention et un calendrier d'intervention, en fonction de nos disponibilités et de vos enjeux.&#x20;
 
@@ -39,13 +39,13 @@ Pendant une heure, **deux designers expérimentés** vous proposent de vous éco
 
 ▶️ [**Réservez votre créneau**](https://airtable.com/shrPuyfNR9ggNsEaQ)****
 
-## **Comment nous joindre ? 👩‍💻**&#x20;
+## **Comment nous joindre ? 👩‍💻 **
 
 * sur Mattermost : **#incubateur-team-designers-transverses**
 * par email : [design@beta.gouv.fr](mailto:design@beta.gouv.fr)
 * en message privé à l'un d'entre nous !
 
-## **🌈 À propos des designers transverses**&#x20;
+## **🌈 À propos des designers transverses **
 
 En ce moment, nous sommes six designers transverse disponible environ 2 jours par semaine, avec chacun.e nos spécialités : Amandine Audras, Jérémie Cook, Gladys Diandoki, et Aurélie Jallut, Anne-Sophie Tranchet et Raphaël Yharrassarry.
 

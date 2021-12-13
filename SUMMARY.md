@@ -11,6 +11,7 @@
 * [🛫 Ton embarquement](travailler-a-beta-gouv/bienvenue/README.md)
   * [Le premier jour chez beta.gouv](travailler-a-beta-gouv/bienvenue/premier-pas-indispensable-creer-ta-fiche-membre.md)
   * [Que faire durant les premières semaines et premiers mois ?](travailler-a-beta-gouv/bienvenue/to-do-darrivee.md)
+  * [Embarquement dev](travailler-a-beta-gouv/bienvenue/embarquement-dev.md)
 * [💫 Découvrir notre culture](travailler-a-beta-gouv/culture/README.md)
   * [Notre charte](travailler-a-beta-gouv/culture/charte.md)
   * [Culture de travail](travailler-a-beta-gouv/culture/normes-de-conduite.md)

@@ -8,7 +8,7 @@ description: >-
 
 ## Comment comprendre le niveau de gravité ?
 
-* <mark style="color:red;">**Alerte rouge**</mark>** ** : des données sont accessibles en clair sur le web.
+* <mark style="color:red;">**Alerte rouge**</mark>** **: des données sont accessibles en clair sur le web.
 * <mark style="color:orange;">**Alerte orange**</mark> : de mauvaises pratiques dans le code pourraient entrainer une alerte rouge.
 
 ## Comment aider mon équipe de dev ?

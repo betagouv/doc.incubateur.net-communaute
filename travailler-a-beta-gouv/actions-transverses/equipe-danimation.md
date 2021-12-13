@@ -10,28 +10,28 @@ description: >-
 Pour contacter facilement l'équipe d'animation de la DINUM, transmet un mail à _**dinum@beta.gouv.fr**_ ou utilise la chaîne [_**\~incubateur-animation**_](https://mattermost.incubateur.net/betagouv/channels/incubateur-animation) sur Mattermost.
 {% endhint %}
 
-L’équipe d’animation de beta.gouv.fr est constituée d’une dizaine de personnes dites _**co-animatrices**_ au statut de fonctionnaire ou contractuel, ayant pour mission de garantir que les opérations du programme se passent correctement, de faire grandir le programme beta.gouv.fr et de diffuser l'approche dans l'ensemble des ministères. Cette équipe fait partie de la **mission BETA** de la Direction interministérielle du numérique (DINUM), mais interagit avec l'ensemble des administrations publiques membres du réseau beta.gouv.fr.&#x20;
+L’équipe d’animation de beta.gouv.fr est constituée d’une dizaine de personnes dites _**co-animatrices**_ au statut de fonctionnaire ou contractuel, ayant pour mission de garantir que les opérations du programme se passent correctement, de faire grandir le programme beta.gouv.fr et de diffuser l'approche dans l'ensemble des ministères. Cette équipe fait partie de la **mission BETA** de la Direction interministérielle du numérique (DINUM), mais interagit avec l'ensemble des administrations publiques membres du réseau beta.gouv.fr. 
 
-_L'animation de la communauté beta.gouv.fr n'est pas l'exclusivité des agents DINUM : d'autres personnes peuvent et sont invitées à contribuer à la réussite du collectif (agents des incubateurs ministériels, freelances, etc)._&#x20;
+_L'animation de la communauté beta.gouv.fr n'est pas l'exclusivité des agents DINUM : d'autres personnes peuvent et sont invitées à contribuer à la réussite du collectif (agents des incubateurs ministériels, freelances, etc). _
 
 ## Qui fait quoi ?
 
 ### Mission BETA de la DINUM
 
-Elle est constituée de 9 agents.&#x20;
+Elle est constituée de 9 agents. 
 
-**Florian Delezenne** est responsable de la mission BETA (pour ainsi dire, c'est le CEO de beta.gouv.fr).&#x20;
+**Florian Delezenne **est responsable de la mission BETA (pour ainsi dire, c'est le CEO de beta.gouv.fr). 
 
-**Anna-Livia Gomart** et **Julien Dauphant** se partagent les responsabilités techniques transverses.
+**Anna-Livia Gomart **et **Julien Dauphant** se partagent les responsabilités techniques transverses.
 
-6 "[**responsables de portefeuille**](../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/responsables-de-portefeuille.md)" s'occupent de soutenir les équipes produit et les incubateurs dans leurs travaux en fonction de leur périmètre ministériel :&#x20;
+6 "[**responsables de portefeuille**](../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/responsables-de-portefeuille.md)" s'occupent de soutenir les équipes produit et les incubateurs dans leurs travaux en fonction de leur périmètre ministériel : 
 
 * **Arnaud Denoix** : Travail, Formation professionnelle
 * **Béatrice Mercier** : Economie et finances, Europe et affaires étrangères, Outre-mers
 * **Inès Hijazi** : Territoires, Education nationale, Enseignement supérieur, Culture
-* **Ishan Bhojwani** : Transition écologique, Transports, Logement, Mer, Agriculture, Armées
-* **Jihane Herizi** : Transformation publique
-* **Léry Jicquel** : Justice, Intérieur, Santé et Solidarités
+* **Ishan Bhojwani **: Transition écologique, Transports, Logement, Mer, Agriculture, Armées
+* **Jihane Herizi **: Transformation publique
+* **Léry Jicquel **: Justice, Intérieur, Santé et Solidarités
 
 ### Soutiens à l'équipe d'animation
 
@@ -41,7 +41,7 @@ Plusieurs indépendants et prestataires soutiennent l'équipe d'animation dans l
 * **Chaïb Martinez**, en charge de l'animation des rencontres entre chargés de déploiement (club bizdev)
 
 {% hint style="info" %}
-[Découvrir **le tableau listant les responsabilités transverses** de l'équipe d'animation](https://betagouv-dinum.notion.site/Responsabilit-s-transverses-1772ece2c2124265aeb74466114aa411)
+[Découvrir **le tableau listant les responsabilités transverses **de l'équipe d'animation](https://betagouv-dinum.notion.site/Responsabilit-s-transverses-1772ece2c2124265aeb74466114aa411)
 {% endhint %}
 
 ## Pourquoi faire appel à l'équipe d'animation ?

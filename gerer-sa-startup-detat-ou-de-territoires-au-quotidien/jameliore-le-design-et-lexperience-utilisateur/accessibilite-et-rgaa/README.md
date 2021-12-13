@@ -16,9 +16,9 @@ description: Ressources pour concevoir des services accessibles à toutes et tou
 [obligations-legales.md](obligations-legales.md)
 {% endcontent-ref %}
 
-## Guide pour un service accessible <a href="#guide-pour-un-service-accessible" id="guide-pour-un-service-accessible"></a>
+## Guide pour un service accessible <a href="guide-pour-un-service-accessible" id="guide-pour-un-service-accessible"></a>
 
-**L’accessibilité est une démarche sur le long terme.** Elle se pense dès la phase d'investigation, et est régulièrement évalue tout au long de la construction et durée d’exploitation du service.
+**L’accessibilité est une démarche sur le long terme. ** Elle se pense dès la phase d'investigation, et est régulièrement évalue tout au long de la construction et durée d’exploitation du service.
 
 La conformité ne s'atteint pas en un jour et ça n'est pas grave : c'est **l'engagement vers la démarche qui est important** !
 
