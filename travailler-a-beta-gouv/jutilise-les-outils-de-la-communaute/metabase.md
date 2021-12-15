@@ -103,3 +103,9 @@ scalingo \
   --app <mon-app> \
   deploy https://github.com/Scalingo/metabase-scalingo/archive/refs/heads/master.tar.gz
 ```
+
+> **Note technique**\
+> Le dépôt Metabase de Scalingo n'a pas besoin de bouger à chaque changement de version de Metabase car il utilise le buildpack maintenu par l'équipe Metabase.\
+> \
+> Vous pouvez vérifier la version dans ce fichier pour vous assurer de ce que vous déployez.\
+> [https://github.com/metabase/metabase-buildpack/blob/master/bin/version](https://github.com/metabase/metabase-buildpack/blob/master/bin/version)
