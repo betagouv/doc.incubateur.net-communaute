@@ -10,35 +10,54 @@ description: >-
 
 ### Pour communiquer
 
-{% page-ref page="mattermost/" %}
+{% content-ref url="mattermost/" %}
+[mattermost](mattermost/)
+{% endcontent-ref %}
 
-{% page-ref page="faire-une-visio/" %}
+{% content-ref url="faire-une-visio/" %}
+[faire-une-visio](faire-une-visio/)
+{% endcontent-ref %}
 
 ### Gestion du site internet beta.gouv.fr
 
-{% page-ref page="github/" %}
+{% content-ref url="github/" %}
+[github](github/)
+{% endcontent-ref %}
 
-### Documentation 
+### Documentation&#x20;
 
-{% page-ref page="gitbook/" %}
+{% content-ref url="gitbook/" %}
+[gitbook](gitbook/)
+{% endcontent-ref %}
 
 ### Rédaction de documents collaboratifs
 
-{% page-ref page="pad.md" %}
+{% content-ref url="pad.md" %}
+[pad.md](pad.md)
+{% endcontent-ref %}
 
 ## Outils développés par beta.gouv.fr
 
 ### Pour gérer son compte beta.gouv.fr
 
-{% page-ref page="outils/" %}
+{% content-ref url="outils/" %}
+[outils](outils/)
+{% endcontent-ref %}
 
-{% page-ref page="emails.md" %}
+{% content-ref url="emails.md" %}
+[emails.md](emails.md)
+{% endcontent-ref %}
 
 ### Pour gérer sa Startup d'État
 
-{% page-ref page="sous-domaine-beta-gouv-fr.md" %}
+{% content-ref url="sous-domaine-beta-gouv-fr.md" %}
+[sous-domaine-beta-gouv-fr.md](sous-domaine-beta-gouv-fr.md)
+{% endcontent-ref %}
 
-{% page-ref page="dashlord/" %}
+{% content-ref url="dashlord/" %}
+[dashlord](dashlord/)
+{% endcontent-ref %}
 
-
-
+{% content-ref url="metabase.md" %}
+[metabase.md](metabase.md)
+{% endcontent-ref %}

@@ -53,6 +53,7 @@
   * [Sous-domaine beta.gouv.fr](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/sous-domaine-beta-gouv-fr.md)
   * [Dashlord](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/dashlord/README.md)
     * [FAQ DashLord](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/dashlord/questions-reponses.md)
+  * [Metabase](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/metabase.md)
   * [Ressources supplémentaires](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/ressources-supplementaires/README.md)
     * [Logo de beta](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/ressources-supplementaires/logo.md)
     * [Modèle de note](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/ressources-supplementaires/modele-de-note.md)
