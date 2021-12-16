@@ -109,3 +109,86 @@ scalingo \
 > \
 > Vous pouvez vérifier la version dans ce fichier pour vous assurer de ce que vous déployez.\
 > [https://github.com/metabase/metabase-buildpack/blob/master/bin/version](https://github.com/metabase/metabase-buildpack/blob/master/bin/version)
+
+### Connecter Metabase à une base de données anonymisée
+
+Toujours pour des raisons de sécurité, il est préférable de ne pas connecter Metabase directement à la base de donnée de production, mais plutôt à une base dédié, ne contenant que des données anonymisées.
+
+Pour cela,
+
+1. créer une app Scalingo sans container (myapp-metabase-data)
+2. lui ajouter un add-on PostgreSQL
+3. créer un utilisateur `metabase` en lecture seule (voir plus haut)
+4. configurer Metabase pour se connecter à cette nouvelle base
+
+Puis, sur votre app de production :
+
+* Copier-coller le contenu de la variable d’environnement `SCALINGO_POSTGRESQL_URL` de myapp-metabase-data dans une nouvelle variable `METABASE_DB_URL`
+* Préparer un script `export-db-metabase.sh` qui va créer les tables anonymisées, et les transférer sur la nouvelle DB.
+
+Exemple de script
+
+```
+#!/bin/bash
+
+export SRC_DB_URL=$SCALINGO_POSTGRESQL_URL
+export DEST_DB_URL=$METABASE_DB_URL
+
+# analytics_user
+psql $SRC_DB_URL -c "DROP TABLE IF EXISTS analytics_user"
+psql $SRC_DB_URL -c "
+CREATE TABLE analytics_user AS
+SELECT
+  users_user.id,
+  users_user.is_staff,
+  users_user.is_active,
+  users_user.date_joined,
+  users_user.is_valid
+FROM users_user"
+psql $SRC_DB_URL -c "ALTER TABLE analytics_user ADD PRIMARY KEY (id)"
+# ajouter les index ici si necessaire
+
+pg_dump $DATABASE_URL -O -t analytics_user -c | psql $DEST_DB_URL
+
+
+# à répéter avec les autres tables
+```
+
+#### Mise à jour manuelle
+
+```
+scalingo --app myapp-prod run export-db-metabase.sh
+```
+
+#### Mise à jour automatisée, avec le scheduler Scalingo
+
+*   Si nécessaire, rajouter un test au début du script de transfert pour que la tache ne tourne qu’en production; par exemple:
+
+    ```
+    if [ "$ENVIRONMENT" != "production" ];then exit 0; fi
+    ```
+* demander au support Scalingo de vous ajouter à la beta publique de leur scheduler\
+  [https://doc.scalingo.com/platform/app/task-scheduling/scalingo-scheduler](https://doc.scalingo.com/platform/app/task-scheduling/scalingo-scheduler)
+*   ajouter un fichier cron.json à la racine de votre projet. Le format de “command” est au standard crontab
+
+    ```
+    {
+      "jobs": [
+        { "command": "25 1 * * * export-db-metabase.sh", "size": "S" }
+      ]
+    }
+    ```
+* une fois cette modification deployée, vous pouvez controler sa bonne prise en compte :\
+  `scalingo --app myapp-prod cron-tasks`
+* les logs de la commande apparaissent dans les logs applicatifs scalingo
+
+### Chiffrage des données au repos
+
+{% embed url="https://www.metabase.com/docs/latest/operations-guide/encrypting-database-details-at-rest.html" %}
+Documentation Metabase du chiffrage au repos
+{% endembed %}
+
+* Ajouter la variable d’environnement MB\_ENCRYPTION\_SECRET\_KEY à l’app metabase
+* Relancer le container
+* Dans l’admin Metabase, re-sauvegarder la connexion
+* Dans la DB metabase, vérifier que le champ “details” de la table `table metabase_database` est maintenant cryptée
