@@ -6,7 +6,7 @@
 Il est important de mettre ses dates de mission à jour pour conserver l'accès aux services et permettre un suivi des membres de la communauté.
 {% endhint %}
 
-Voici différentes méthodes permettant de modifier ses dates de missions. Celles-ci sont ultimement prises en compte lorsque ta fiche de membre associée est intégrée dans la branche `master` du dépôt [beta.gouv.fr](https://github.com/betagouv/beta.gouv.fr/).
+Voici différentes méthodes permettant de modifier ses dates de missions. Celles-ci seront ultimement prises en compte lorsque ta fiche de membre sera intégrée dans la branche `master` du dépôt [beta.gouv.fr](https://github.com/betagouv/beta.gouv.fr/).
 
 Tu as besoin de créer un compte github ? Retrouve les [explications ici.](../github/)
 
@@ -29,18 +29,12 @@ RDV sur :
 
 Tu peux enfin modifier directement ta fiche personnelle sur [github](https://github.com/betagouv/beta.gouv.fr/tree/master/content/\_authors) : voir la section [« Prolonger la durée d'activation d'un membre…»](./README.md) de cette documentation.
 
-## J'ai fait une erreur en modifiant ma date de fin de mission !
+## J'ai fait une erreur en modifiant / oublié de mettre à jour ma date de fin de mission !
 
-Il se peut que tu perdes temporairement accès à certains services si la date de fin enregistrée est dépassée, mais pas de panique, voici comment remettre les choses en ordre :
+Il se peut que tu perdes temporairement accès à certains services (notamment ton accès au site du secrétariat et au dépot github) si la date de fin enregistrée est dépassée, mais pas de panique : avec l'aide d'un⋅e collègue, tu pourras récupérer ces accès.
 
-  * Par toi-même :
-    1. Essaye de te connecter au [secrétariat](https://secretariat.incubateur.net/) avec ton adresse secondaire : c'est celle que tu as utilisée initialement avant d'obtenir ton adresse @beta.gouv.fr. Si tu y parviens, tu dois pouvoir y modifier la date de fin de ta mission.
-    2. Si cela n'est pas possible, tu peux essayer de modifier ta fiche directement depuis github (cf. paragraphe « Github » ci-dessus.)
-
-  * Avec l'aide d'un⋅e collègue : si les étapes ci-dessus ne fonctionnent pas pour toi, tu peux demander à quelqu'un d'effectuer la modification de ta fiche sur github pour toi.
-
-Dans les deux cas, la modification de la date créera un `commit` sur une nouvelle branche pour laquelle il faudra demander intégration dans la branche `master` par une « pull request» (voir fin de la vidéo ci-dessus.)
+Demande à cette personne d'effectuer la modification de ta fiche sur github à l'aide d'une des méthodes décrites ci-dessus : directement sur le [dépôt](https://github.com/betagouv/beta.gouv.fr/tree/master/content/\_authors), ou via le site d'[administration](https://beta.gouv.fr/admin) de beta.gouv.fr. Dans les deux cas la modification de la date créera un `commit` sur une nouvelle branche pour laquelle il faudra demander intégration dans la branche `master` par une « pull request» (voir fin du tutoriel vidéo .)
 
 Une fois la modification effectuée, tu pourras réactiver ton adresse @beta.gouv.fr depuis le site du [secrétariat](https://secretariat.incubateur.net/). Tu devrais recevoir un mail dans les 30 minutes avec tes nouveaux accès.
 
-Si la procédure décrite ne fonctionne pas, demandez de l'aide sur le canal mattermost [~incubateur-secretaria](https://mattermost.incubateur.net/betagouv/channels/incubateur-secretaria).
+Si la procédure décrite ne fonctionne pas, demande de l'aide sur le canal mattermost [~incubateur-secretaria](https://mattermost.incubateur.net/betagouv/channels/incubateur-secretaria).
