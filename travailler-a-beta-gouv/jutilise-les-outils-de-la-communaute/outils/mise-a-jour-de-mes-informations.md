@@ -41,4 +41,6 @@ Il se peut que tu perdes temporairement accès à certains services si la date d
 
 Dans les deux cas, la modification de la date créera un `commit` sur une nouvelle branche pour laquelle il faudra demander intégration dans la branche `master` par une « pull request» (voir fin de la vidéo ci-dessus.)
 
-Une fois la modification effectuée, tu pourras réactiver ton adresse @beta.gouv.fr depuis le site du secrétariat.
+Une fois la modification effectuée, tu pourras réactiver ton adresse @beta.gouv.fr depuis le site du secrétariat. Tu devrais recevoir un mail dans les deux heures avec tes nouveaux accès.
+
+Si la procédure décrite ne fonctionne pas, demandez de l'aide sur le canal mattermost [~incubateur-secretaria](https://mattermost.incubateur.net/betagouv/channels/incubateur-secretaria).
