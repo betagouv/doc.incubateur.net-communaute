@@ -62,5 +62,5 @@ Il est bien évidemment hors de question de transmettre la clé et le mot de pas
 
 1. Connectez-vous sur la [page Github référençant tous les membres de beta.gouv](https://github.com/betagouv/beta.gouv.fr/tree/master/content/\_authors).
 2. Recherchez votre nom ou celui de la personne dont la date d'activation a expiré ou va expirer.
-3. Après avoir ouvert cette fiche du type "prénom.nom.md", modifiez la date "end" par celle nécessaire.
-4. Enfin, choisissez : "créer une nouvelle branche" puis proposer cette branche en Pull Request.
+3. Après avoir ouvert cette fiche du type `prénom.nom.md`, modifiez la date sous le champ `end`.
+4. Enfin, choisissez « créer une nouvelle branche », puis proposez une « Pull Request » de cette branche vers la branche `master`.
