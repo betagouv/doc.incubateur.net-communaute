@@ -4,7 +4,7 @@
 
 {% embed url="https://doc.incubateur.net/communaute/travailler-a-beta-gouv/bienvenue/premier-pas-indispensable-creer-ta-fiche-membre#1.-pour-demarrer-au-plus-vite-commence-par-creer-ta-fiche-membre" %}
 
-Si tu es nouveau ou nouvelle chez beta, c'est à ton contact référent de t'ajouter sur Mattermost. Pour cela, il suffit que cette personne clique sur "inviter des utilisateurs" dans ses paramètres et ajoute ta nouvelle adresse beta.gouv.fr .&#x20;
+Si tu es nouveau ou nouvelle chez beta, ton compte Mattermost sera créé par bot une fois que ton profil de membre a été créé. Tu reçois un email sur l'adresse de ton compte t'informant de se création (par défaut ton adresse @beta.gouv.fr si tu en as une)
 
 ## Etape 1.  clique sur [https://mattermost.incubateur.net/](https://mattermost.incubateur.net/\*\*]\(https://mattermost.incubateur.net/\)\*\*\*\*) ou télécharge l'app
 
@@ -16,9 +16,9 @@ A l'installation, si le client demande l'ajout d'un serveur ("Add server"), choi
 
 ## Etape 2. Récupérer son mot de passe
 
-Ton compte a déjà été créé lors de l’import de l’historique des conversations. Il te faut simplement **récupérer ton mot de passe** (qui est différent de celui du compte beta) :
+Ton compte a été à la validation de ton profil. Il te faut simplement **récupérer ton mot de passe** (qui est différent de celui du compte beta) :
 
-### A. Clique sur "Forgot my password
+### A. Clique sur "[J'ai perdu mon mot de passe](https://mattermost.incubateur.net/reset\_password)"
 
 ![Illustration](https://lh5.googleusercontent.com/UiX0HY5uMLL91gKZtpNxLZcharavsGN4PLE\_ajtVPKBlSINhB7g4Ii6h7PE8Ba\_G4ZgeN95ikutAJFZxeHaghEGo0hTaqaJFiTFVAW9wg\_CzEt2rO3bbrn618iYfL-DXwkQZrvHo)
 
@@ -28,14 +28,10 @@ Ton compte a déjà été créé lors de l’import de l’historique des conver
 
 ### C. Clique sur le lien contenu dans l’email et configures ton mot de passe avec les contraintes suivante
 
-* 12 - 64 caractères&#x20;
-* Au moins une minuscule
-* Au moins une majuscule
-* Au moins 1 chiffre
-* Au moins un symbole (ex : #\*%£ etc.)
+* 20-64 caractères&#x20;
 
 {% hint style="info" %}
-#### **Dans le cas où ton adresse beta n’est pas reconnue, merci de nous prévenir par email dinum@beta.gouv.fr  pour que nous débloquions la situation.**
+#### **Dans le cas où ton adresse beta n’est pas reconnue, merci de nous prévenir par email secretariat@incubateur.net  pour que nous débloquions la situation.**
 {% endhint %}
 
 ## **Etape 3** : Changes ton “Nom d'utilisateur” par "prenom.nom"
