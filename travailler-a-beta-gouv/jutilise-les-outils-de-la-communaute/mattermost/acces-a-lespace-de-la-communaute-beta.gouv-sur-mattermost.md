@@ -17,7 +17,7 @@ L'un de ces espaces de travail est celui de la communauté beta.gouv (celui tout
 
 Cette règle d'accès nous permet de garantir un minimum de confiance dans les échanges et sujets discutés. Nous souhaitons éviter que des personnes ne se sentent plus autorisées ou légitimes pour partager de l'information, faute de savoir avec qui exactement elles la partagent. Le critère "a un compte beta.gouv", s'il n'est pas parfait, nous assure au moins qu'une personne s'identifie comme membre de la communauté.
 
-![Illustration de l'affichage des espaces de travail dans le panneau à gauche](../../../.gitbook/assets/capture-de-cran-2021-07-05-a-11.48.09.png)
+![Illustration de l'affichage des espaces de travail dans le panneau à gauche](<../../../.gitbook/assets/Capture d’écran 2021-07-05 à 11.48.09.png>)
 
 {% hint style="warning" %}
 Cette règle ne concerne pas l'accès à l'outil Mattermost lui-même, mais seulement l'accès à l'espace de travail communautaire.

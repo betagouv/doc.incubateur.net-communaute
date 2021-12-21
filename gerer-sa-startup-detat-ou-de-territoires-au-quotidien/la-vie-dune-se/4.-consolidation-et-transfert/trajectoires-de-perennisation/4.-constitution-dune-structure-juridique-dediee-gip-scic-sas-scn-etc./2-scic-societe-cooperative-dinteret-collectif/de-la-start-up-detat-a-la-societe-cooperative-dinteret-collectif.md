@@ -2,7 +2,7 @@
 description: Présentation de la SCIC, de son fonctionnement et des rôles et responsabilités
 ---
 
-# De la start-up d'Etat à la Société Coopérative d'Intérêt Collectif
+# De la Startup d'Etat à la Société Coopérative d'Intérêt Collectif
 
 ## Qu'est-ce qu'une Société Coopérative d'Intérêt Collectif ?
 
@@ -45,7 +45,7 @@ Les établissements publics **disposent de la personnalité morale**. Ils sont r
 {% endtab %}
 
 {% tab title="Fondations et fonds de dotation" %}
-Lorsque la fondation (ou le fond de dotation) dispose de la personnalité morale, l'Administration n'est pas responsable des contrats passés. Lorsque la fondation ne dispose pas de la personnalité morale, c'est la personne morale qui l'a créée qui sera responsable des actes et contrats passés. 
+Lorsque la fondation (ou le fond de dotation) dispose de la personnalité morale, l'Administration n'est pas responsable des contrats passés. Lorsque la fondation ne dispose pas de la personnalité morale, c'est la personne morale qui l'a créée qui sera responsable des actes et contrats passés.&#x20;
 {% endtab %}
 {% endtabs %}
 
@@ -97,9 +97,9 @@ Les sociétés coopératives d'intérêt collectif **ne sont pas soumises à un 
 {% endtab %}
 
 {% tab title="GIP" %}
-Les groupements d'intérêt public **ne sont pas soumis à un contrôle hiérarchique** de leurs actes (ni devant le préfet ou autre administration) à l'inverse d'autres structures. 
+Les groupements d'intérêt public **ne sont pas soumis à un contrôle hiérarchique** de leurs actes (ni devant le préfet ou autre administration) à l'inverse d'autres structures.&#x20;
 
-En revanche, lorsqu'ils sont soumis aux règles de la comptabilité publique,** les GIP peuvent être soumis au contrôle financier et économique de l'Etat**, lorsqu'ils assurent à titre principal la gestion d'un service public administratif en vertu de la [**loi**](https://www.legifrance.gouv.fr/loda/id/LEGIARTI000032442804/2021-04-28/?isSuggest=true)**.**
+En revanche, lorsqu'ils sont soumis aux règles de la comptabilité publique, **les GIP peuvent être soumis au contrôle financier et économique de l'Etat**, lorsqu'ils assurent à titre principal la gestion d'un service public administratif en vertu de la [**loi**](https://www.legifrance.gouv.fr/loda/id/LEGIARTI000032442804/2021-04-28/?isSuggest=true)**.**
 {% endtab %}
 
 {% tab title="EPA/EPIC" %}
@@ -114,7 +114,7 @@ Chaque établissement est rattaché à une personne publique (celle dont elle es
 * un lien de dépendance budgétaire et financier, puisque la loi peut prévoir une dotation déterminée par l'administration. L'établissement public qui est rattaché à l'Etat est soumis au déféré préfectoral, ce qui n'est pas le cas des autres.
 {% endhint %}
 
-En outre, Ils disposent également de l'autonomie financière et de gestion. 
+En outre, Ils disposent également de l'autonomie financière et de gestion.&#x20;
 
 {% hint style="info" %}
 L'acte constitutif peut disposer que l'établissement public ne bénéficiera pas de l'autonomie de financière et de gestion.
@@ -132,11 +132,11 @@ Les fondations et fonds de dotation ne sont pas soumis à un contrôle hiérarch
 
 Les associés ou actionnaires choisissent les modalités de fonctionnement et organes au sein de la SCIC, en resepctant les dispositions légales obligatoires :
 
-* [Société anonyme](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042339625/) ; 
-* [Société par actions simplifiées](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038799575/) ;
-* [Société à responsabilité limitée](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019291708/).
+* [Société anonyme](https://www.legifrance.gouv.fr/codes/article\_lc/LEGIARTI000042339625/) ;&#x20;
+* [Société par actions simplifiées](https://www.legifrance.gouv.fr/codes/article\_lc/LEGIARTI000038799575/) ;
+* [Société à responsabilité limitée](https://www.legifrance.gouv.fr/codes/article\_lc/LEGIARTI000019291708/).
 
-A ces règles s'ajoutent celles spécifiques aux [sociétés coopératives d'intérêt collectif](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000029321359/2016-04-22)
+A ces règles s'ajoutent celles spécifiques aux [sociétés coopératives d'intérêt collectif](https://www.legifrance.gouv.fr/loda/article\_lc/LEGIARTI000029321359/2016-04-22)
 
 {% hint style="info" %}
 Il est conseillé de se rapprocher d'un avocat ou d'un juriste pour aider à la compréhension des différences entre les types de formes de sociétés.
@@ -161,7 +161,7 @@ Le Conseil d'administration est l'organe de contrôle et de direction des SCIC. 
 * Contrôler l'action du président et du directeur, et le cas échéant le révoquer ;
 * Convoquer l'Assemblée générale ;
 
-Le président du conseil est généralement nommé par le conseil d'administration et peut être révoqué sans aucune justification ou [_ad nutum_](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025559503/)_ _dans le jargon juridique. Il a des pouvoirs déterminés par les statuts, et sa fonction peut être combinée avec celle du directeur général. Il sera alors, le président directeur général.
+Le président du conseil est généralement nommé par le conseil d'administration et peut être révoqué sans aucune justification ou [_ad nutum_](https://www.legifrance.gouv.fr/codes/article\_lc/LEGIARTI000025559503/) __ dans le jargon juridique. Il a des pouvoirs déterminés par les statuts, et sa fonction peut être combinée avec celle du directeur général. Il sera alors, le président directeur général.
 
 _Le gérant_
 

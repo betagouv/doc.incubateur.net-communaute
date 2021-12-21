@@ -1,14 +1,14 @@
 # D'autres endroits où travailler
 
-## À** Paris dans le 9e arrondissement **
+## À **Paris dans le 9e arrondissement**&#x20;
 
-ETAP est le 1er espace de coworking entièrement dédié aux agents publics, mais en fait à tous ceux qui ont un email en .gouv.fr , comme là votre qui est en @beta.gouv.fr . Il est **gratuit **et ouvert** du Mardi au Jeudi**.&#x20;
+ETAP est le 1er espace de coworking entièrement dédié aux agents publics, mais en fait à tous ceux qui ont un email en .gouv.fr , comme là votre qui est en @beta.gouv.fr . Il est **gratuit** et ouvert **du Mardi au Jeudi**.&#x20;
 
 Lieu : 47, rue Le Peletier, Paris 9è
 
 Lien d'inscription / réservation : [https://etap-prefecture-idf.cosoft.fr/LogOn#register](https://etap-prefecture-idf.cosoft.fr/LogOn#register)&#x20;
 
-![](<../../../.gitbook/assets/Capture d’écran 2021-11-03 à 12.33.38.png>)
+![](<../../../.gitbook/assets/Capture d’écran 2021-11-03 à 12.33.38.png>)
 
 ## b**eta.gouv.fr en province**
 

@@ -14,7 +14,7 @@ description: Nous te prévenons avant la date de fin de ta mission
 
 ### C'est optionnel
 
-* [ ] Rediriger ton adresse `@beta.gouv.fr` vers `departs@beta.gouv.fr` en le demandant  sur [#incubateur-secretaria](https://mattermost.incubateur.net/betagouv/channels/incubateur-secretaria) 
+* [ ] Rediriger ton adresse `@beta.gouv.fr` vers `departs@beta.gouv.fr` en le demandant  sur [#incubateur-secretaria](https://mattermost.incubateur.net/betagouv/channels/incubateur-secretaria)&#x20;
 * [ ] Faire un debrief d'une demi-heure de ton passage à l'Incubateur avec [un·e permanent·e](../actions-transverses/equipe-danimation.md), pour qu'on puisse s'améliorer.
 * [ ] Annoncer la date de ton pot de départ sur [#general](https://mattermost.incubateur.net/betagouv/channels/town-square)
 * [ ] [Désactiver ton compte Mattermost](./#que-va-devenir-ton-compte-mattermost)
@@ -33,4 +33,4 @@ L'équipe de dev transverse améliore ces alertes au fil des semaines. **Seules 
 ### Si ta date de fin de mission est dans moins de deux jours, tu seras alerté :
 
 * [x] **\[Mattermost] Alerte en message privé pour t'indiquer les prochaines étapes**
-* [x] **\[email] Alerte pour t'informer des prochaine étapes **
+* [x] **\[email] Alerte pour t'informer des prochaine étapes**&#x20;

@@ -11,22 +11,22 @@ description: Une liste de questions à se poser pour améliorer sa documentation
 
 ## **J’ai d’abord cherché à améliorer mon produit avant de documenter :**
 
-* [ ] **Oui **
+* [ ] **Oui**&#x20;
 * [ ] **Non → Tu devrais passer plus de temps sur ton produit**
 
-## **Je suis capable de classer ma documentation dans une de ces catégories : **
+## **Je suis capable de classer ma documentation dans une de ces catégories :**&#x20;
 
-* [ ] **tutoriel (comment démarrer), **
-* [ ] **guide pratique (comment atteindre un objectif), **
-* [ ] **Note descriptive (comment m’informer) **
+* [ ] **tutoriel (comment démarrer),**&#x20;
+* [ ] **guide pratique (comment atteindre un objectif),**&#x20;
+* [ ] **Note descriptive (comment m’informer)**&#x20;
 * [ ] **Note explicative (comment comprendre)**
 
-## **Ces différentes catégories sont bien distinctes dans ma documentation : **
+## **Ces différentes catégories sont bien distinctes dans ma documentation :**&#x20;
 
 * [ ] **Oui**
 * [ ] **Non → Essayer de faire un sommaire de quatre parties correspondant à ces catégories regroupant les contenus au bon endroit**
 
-## **J’ai identifié la typologie de mes lecteurs : **
+## **J’ai identifié la typologie de mes lecteurs :**&#x20;
 
 * [ ] **Débutant**
 * [ ] **Utilisateur**
@@ -41,12 +41,12 @@ description: Une liste de questions à se poser pour améliorer sa documentation
 * [ ] **Oui**
 * [ ] **Non → Essaie de proposer un page d’accueil courte qui renvoie vers les bonnes catégories**
 
-## **Ma documentation est découvrable pour chaque cible de lecteur : **
+## **Ma documentation est découvrable pour chaque cible de lecteur :**&#x20;
 
 * [ ] **Oui**
 * [ ] **Non → Essaie de placer le lien vers la documentation aux endroits où tes utilisateurs en ont le plus besoin. Ces endroits peuvent varier selon la catégorie et la cible de ta documentation**
 
-## **Ma documentation est à jour : **
+## **Ma documentation est à jour :**&#x20;
 
 * [ ] **Oui**
 * [ ] **Non → Fixe des rituels mensuels pour la mettre à jour et essaie de créer des templates de documentation pour faciliter les choses**
@@ -58,6 +58,6 @@ description: Une liste de questions à se poser pour améliorer sa documentation
 
 ## Je pense avoir besoin d'aide :
 
-* [ ] **Oui -->  Demande de l'aide sur le**[** canal de discussion Documentation**](https://mattermost.incubateur.net/betagouv/channels/incubateur-documentation)****
+* [ ] **Oui -->  Demande de l'aide sur le**[ **canal de discussion Documentation**](https://mattermost.incubateur.net/betagouv/channels/incubateur-documentation)****
 * [ ] **None**
 

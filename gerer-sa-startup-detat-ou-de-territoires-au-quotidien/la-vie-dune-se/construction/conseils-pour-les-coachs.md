@@ -21,16 +21,16 @@ Cette transparence continue de s'appliquer en phase de construction.
 
 ## **​Et après la première semaine, quels sont les jalons que je dois garder en tête ?**
 
-* **Mise à jour obligatoire de la fiche problème en fiche produit **sur beta.gouv.fr (max T + 2 semaines)
+* **Mise à jour obligatoire de la fiche problème en fiche produit** sur beta.gouv.fr (max T + 2 semaines)
   * Faire apparaître le problème investigué, une synthèse des apprentissages en phase de construction, votre stratégie de déploiement et vos mesures d’impact à 6 mois. Elle évoluera probablement au fil de la phase de construction.
-* **Choix d’un nom pour le produit **en suivant [les recommandations le nommage d’un service numérique](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-gere-mon-produit-et-son-impact/nommer-votre-service) (max T + 2 semaines) ;
+* **Choix d’un nom pour le produit** en suivant [les recommandations le nommage d’un service numérique](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-gere-mon-produit-et-son-impact/nommer-votre-service) (max T + 2 semaines) ;
 * **Premier point d’étape** (facultatif, T + 4 semaines)
   * La première version n’est probablement pas un service numérique mais plutôt une version manuelle du produit (même si ça marche avec un tableau excel et des appels téléphoniques )
   * Après un mois, un point d'étape avec une personne connaissant bien beta.gouv.fr, par exemple coach, responsable d'incubateur, ou co-animateur, pour recueillir du feedback
   * Proposer un atelier "retrospective" à l'équipe.
 * **Première version d’un service en ligne** (facultatif mais très recommandé, T + 9 semaines)
   * Il est attendu de l’équipe de délivrer de la valeur ajoutée pour ses utilisateurs dès le premier jour. Durant les premières semaines,  il ne s’agit que d’une dizaine de personnes. Néanmoins, il est attendu un premier service utile, utilisable et imparfait dès le 2 ou 3 ème mois. Il est donc important de lancer les recrutements le plus tôt possible.
-* **Répétition du comité d’investissement **(facultatif mais très recommandé, T + 8 mois)
+* **Répétition du comité d’investissement** (facultatif mais très recommandé, T + 8 mois)
   * Prévoir une répétition du comité d'investissement où inviter la communauté beta.gouv.fr, en publiant le créneau sur l'agenda public de l'incubateur et en communiquant via Mattermost (le responsable d'incubateur ou un/e ancien/ne de beta.gouv.fr peuvent t'aider pour cela)
 * **Comité d'investissement** (obligatoire, T + 6 mois)
   * Prévoir le comité d'investissement à la fin de la phase de construction en y invitant toutes les parties prenantes nécessaires, et notamment un membre de l'équipe d'animation de beta.gouv.fr.

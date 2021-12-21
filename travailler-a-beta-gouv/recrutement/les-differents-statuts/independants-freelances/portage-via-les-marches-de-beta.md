@@ -8,7 +8,7 @@ description: >-
 
 ## Quels sont les informations et documents à fournir ?
 
-**Informations : **
+**Informations :**&#x20;
 
 * Identité : nom, prénom, adresse, téléphone du signature du contrat (toi!)
 * Nom de la société (si tu n'en as pas, tu peux indiquer ton prénom et ton nom)
@@ -18,18 +18,18 @@ description: >-
 * Numéro de TVA (seulement si tu en as un)
 * [Ton taux journalier moyen HT](remuneration.md#grille-de-taux-journaliers) négocié lors de ton recrutement
 
-**Documents : **
+**Documents :**&#x20;
 
 * RIB
 * Attestation URSSAF (micro-entreprise) ou extrait KBIS (autres statuts)
 * Attestation de régularité fiscale (disponible depuis l'espace URSSAF)
 
-_Selon les entreprises de portage : _
+_Selon les entreprises de portage :_&#x20;
 
 * Assurance responsabilité civile professionnelle
 
 {% hint style="info" %}
-**Besoin d'aide : **[**#domaine-indeps**](https://mattermost.incubateur.net/betagouv/channels/domaine-indeps)****
+**Besoin d'aide :** [**#domaine-indeps**](https://mattermost.incubateur.net/betagouv/channels/domaine-indeps)****
 {% endhint %}
 
 ### Suis-je obligé d'avoir une assurance responsabilité civile ?

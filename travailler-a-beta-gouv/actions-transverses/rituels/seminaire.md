@@ -7,7 +7,7 @@ description: >-
 # Le forum beta.gouv.fr (Arrêté)
 
 {% hint style="warning" %}
-En raison d'un manque de participants sur une longue période,** le Forum est arrêté depuis le 19/10/2021**. Toutes les initiatives visant à proposer une amélioration ou une alternative sont les bienvenues.
+En raison d'un manque de participants sur une longue période, **le Forum est arrêté depuis le 19/10/2021**. Toutes les initiatives visant à proposer une amélioration ou une alternative sont les bienvenues.
 {% endhint %}
 
 ### Horaire et lieu

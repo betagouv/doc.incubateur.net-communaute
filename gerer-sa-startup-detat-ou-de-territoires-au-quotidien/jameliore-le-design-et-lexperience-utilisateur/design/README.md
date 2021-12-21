@@ -14,7 +14,7 @@ Les métiers du design regroupent un **large panel de compétences** dans diffé
 
 Pour recruter un·e designer, la première étape est de définir vos besoins :&#x20;
 
-* [ ] ⭐** Conception de parcours** : vous avez besoin d'une personne capable de traduire un besoin ou une fonctionnalité en parcours.
+* [ ] ⭐ **Conception de parcours** : vous avez besoin d'une personne capable de traduire un besoin ou une fonctionnalité en parcours.
 * [ ] ⭐ **Ergonomie** : vous avez besoin d'une personne capable d'améliorer des interfaces et parcours existants.
 * [ ] ⭐ **Recherche utilisateur** : vous avez besoin d'une personne qui est proche des utilisateurs pour identifier leurs problèmes.
 * [ ] **Conception visuelle** : vous avez besoin d'une personne qui peut concevoir des interfaces esthétiques et/ou utiliser un design system.
@@ -50,7 +50,7 @@ Enfin, le type de service que vous développez aura une influence sur les enjeux
 * Adoption de l'outil par des professionnels ?
 * ...
 
-### Définir la charge de travail <a href="docs-internal-guid-28535909-7fff-54be-0deb-5b02958e01f4" id="docs-internal-guid-28535909-7fff-54be-0deb-5b02958e01f4"></a>
+### Définir la charge de travail <a href="#docs-internal-guid-28535909-7fff-54be-0deb-5b02958e01f4" id="docs-internal-guid-28535909-7fff-54be-0deb-5b02958e01f4"></a>
 
 Voici quelques clés pour identifier la charge de travail de votre future recrue :
 
@@ -67,15 +67,15 @@ Selon votre situation et votre budget, voici quelques exemples de formulation :
 
 
 
-### Rédiger l'annonce <a href="docs-internal-guid-d0796aed-7fff-05ea-4900-350f54147ddd" id="docs-internal-guid-d0796aed-7fff-05ea-4900-350f54147ddd"></a>
+### Rédiger l'annonce <a href="#docs-internal-guid-d0796aed-7fff-05ea-4900-350f54147ddd" id="docs-internal-guid-d0796aed-7fff-05ea-4900-350f54147ddd"></a>
 
 * Lister les compétences nécessaires identifiées.
 * Expliquer quel type de produit vous développez, et quels sont les enjeux en terme d'UX.
 * Mentionner un TJM. Par exemple « Entre 500€ et 700€[ selon profil](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/recrutement/remuneration).
 
-### Contacter des candidats spontanés <a href="docs-internal-guid-03ea9015-7fff-718c-31d0-bfae8488a867" id="docs-internal-guid-03ea9015-7fff-718c-31d0-bfae8488a867"></a>
+### Contacter des candidats spontanés <a href="#docs-internal-guid-03ea9015-7fff-718c-31d0-bfae8488a867" id="docs-internal-guid-03ea9015-7fff-718c-31d0-bfae8488a867"></a>
 
-L'incubateur reçoit des candidatures spontanées. Vous pouvez prendre contact avec l'équipe des Designers Transverses pour **voir les candidatures spontannées récentes **, intéressés par votre domaine.
+L'incubateur reçoit des candidatures spontanées. Vous pouvez prendre contact avec l'équipe des Designers Transverses pour **voir les candidatures spontannées récentes** , intéressés par votre domaine.
 
 {% hint style="warning" %}
 Les candidatures spontanées ne sont pas revues en amont par Beta.&#x20;
@@ -104,6 +104,6 @@ Voici quelques idées de questions à poser :
 
 
 
-### &#x20;<a href="docs-internal-guid-03ea9015-7fff-718c-31d0-bfae8488a867" id="docs-internal-guid-03ea9015-7fff-718c-31d0-bfae8488a867"></a>
+### &#x20;<a href="#docs-internal-guid-03ea9015-7fff-718c-31d0-bfae8488a867" id="docs-internal-guid-03ea9015-7fff-718c-31d0-bfae8488a867"></a>
 
 &#x20;

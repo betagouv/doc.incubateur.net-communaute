@@ -9,7 +9,7 @@ description: Le programme d'accélération de l'accessibilité des Startups d'É
 Le programme Access est destiné aux Startups d'États du réseau beta.gouv.fr pour :
 
 * **connaître ses** **obligations légales** d'accessibilité
-* **corriger les erreurs d'accessibilité** les plus fréquentes 
+* **corriger les erreurs d'accessibilité** les plus fréquentes&#x20;
 * **passer un audit** d'accessibilité
 * **être en conformité** partielle ou totale.
 
@@ -19,7 +19,7 @@ Ce programme est une expérimentation au sein de beta.gouv.fr depuis mars 2021.
 
 En 2020, une étude menée par les Designers Transverses auprès de toutes les SE de l'incubateur a montré qu'**une seule équipe respectait ses obligations légales**. C'est peu 😭. Au niveau national, c'est seulement un peu mieux : seulement [10 % des services publics sont accessibles](https://observatoire.numerique.gouv.fr).
 
-Pour 2021, l'objectif de beta.gouv.fr est que **100 % des SE en accélération et transfert respectent les obligations légales. **En particulier l'obligation d'afficher le « niveau de conformité  RGAA (Référentiel Général d'Accessibilité pour les Administrations) » sur la page d'accueil du site.
+Pour 2021, l'objectif de beta.gouv.fr est que **100 % des SE en accélération et transfert respectent les obligations légales.** En particulier l'obligation d'afficher le « niveau de conformité  RGAA (Référentiel Général d'Accessibilité pour les Administrations) » sur la page d'accueil du site.
 
 ![SignalConso affiche "partiellement conforme" sur toutes les pages de son service](../../../.gitbook/assets/signal-conso-access.png)
 
@@ -59,7 +59,7 @@ Tous les 2 ou 3 mois, nous lançons une nouvelle promotion Access. Le lien d'ins
 
 ### Présentation du programme
 
-L'équipe reçoit un mail pour fixer la date d'entretien avec l'équipe en charge d'Access. Cet entretien durera environ 60 minutes par téléphone ou en visio. 
+L'équipe reçoit un mail pour fixer la date d'entretien avec l'équipe en charge d'Access. Cet entretien durera environ 60 minutes par téléphone ou en visio.&#x20;
 
 {% hint style="info" %}
 Pour préparer au mieux son oral, l'équipe peut consulter le [Kit accessibilité](https://doc.incubateur.net/design/ressources-design/kit-accessibilite).
@@ -84,14 +84,14 @@ Sur la base des conclusions de l'audit flash, l'équipe de la SE devra implanter
 
 ### Audit de conformité par un cabinet spécialisé
 
-L'équipe est prête à confronter son site auprès d'un cabinet spécialisé pour une **prestation d'audit et d'accompagnement **qui contient :
+L'équipe est prête à confronter son site auprès d'un cabinet spécialisé pour une **prestation d'audit et d'accompagnement** qui contient :
 
 * un audit de conformité RGAA (pour obtenir le score et le taux de conformité)
 * des recommandations pour améliorer ce score
 
 ### Accompagnement du cabinet pour atteindre l'objectif
 
-L'équipe de la SE et le cabinet travailleront ensemble pour obtenir le score _« Partiellement conforme » _ou _« Totalement conforme »_.
+L'équipe de la SE et le cabinet travailleront ensemble pour obtenir le score _« Partiellement conforme »_ ou _« Totalement conforme »_.
 
 ### Évaluation du programme
 

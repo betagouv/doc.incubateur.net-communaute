@@ -5,7 +5,7 @@ description: Proposition de guide d'entretiens pour recruter des membres dans so
 # Entretiens de recrutement
 
 {% hint style="info" %}
-Cette section est en construction, nos équipes travaillent à enrichir ces guides d'entretien. Si vous êtes candidat·e et que votre corps de métier n'est pas documenté ici, nous vous invitons à solliciter la personne qui recrute pour plus d'informations sur le protocole d'entretien auquel vous serez soumis·e. 
+Cette section est en construction, nos équipes travaillent à enrichir ces guides d'entretien. Si vous êtes candidat·e et que votre corps de métier n'est pas documenté ici, nous vous invitons à solliciter la personne qui recrute pour plus d'informations sur le protocole d'entretien auquel vous serez soumis·e.&#x20;
 {% endhint %}
 
 ### **Mettre à l'aise les candidat·e·s**
@@ -16,19 +16,19 @@ Tutoiement bienvenu, _dress code_ : comme on viendrait si on était déjà pris.
 
 #### Critères de recrutement
 
-1. Connaissance de l'**environnement beta.gouv.fr, Startups d'État, **ou plus largement des **enjeux de la transformation numérique de l'État**
+1. Connaissance de l'**environnement beta.gouv.fr, Startups d'État,** ou plus largement des **enjeux de la transformation numérique de l'État**
 2. **Motivations** à travailler dans le service public / sur le sujet de politique publique visé : volonté de faire bouger les lignes en sachant rester conciliant, intérêt pour la transformation numérique de l'administration, etc
-3. **Adéquation **[**culturelle**](../../culture/) : culture entrepreneuriale + culture de l'intérêt général 
-4. Compétences en accompagnement d'équipe ou d'individus (**coaching**) : OKR, animations de formations, de rétros, capacité à savoir quand laisser faire ou prendre la main 
+3. **Adéquation** [**culturelle**](../../culture/) : culture entrepreneuriale + culture de l'intérêt général&#x20;
+4. Compétences en accompagnement d'équipe ou d'individus (**coaching**) : OKR, animations de formations, de rétros, capacité à savoir quand laisser faire ou prendre la main&#x20;
 5. Compétences **tech** : recrutement des développeurs, niveau technique, _product management_, _no code_
 6. Compétences **design** : connaissance de démarches UX, maquettage rapide (Sketch, Figma)
 7. Compétences **bizdev** : acquisition/conversion/rétention, deal-making
-8. Track-Record entrepreneurial : quels sont les succès et les échecs passés du candidat ? 
+8. Track-Record entrepreneurial : quels sont les succès et les échecs passés du candidat ?&#x20;
 9. Posture et _soft skills_ : travail en autonomie, en équipe, en horizontalité, capacité à comprendre rapidement un contexte/jeu d'acteurs compliqué, focus problème, focus usagers, sortir de situation complexe pour tout faire pour la réussite du produit, acquérir la confiance des sponsors, capacité à fédérer autour d'une approche usager
 
-#### Guide d'entretien 
+#### Guide d'entretien&#x20;
 
-45 minutes, dont : 
+45 minutes, dont :&#x20;
 
 * 5 min de présentation
 * 5 min de présentation du contexte du recrutement

@@ -1,7 +1,7 @@
 # Comprendre le mode de gestion de la communauté : recrutement, culture de travail, formation...
 
 {% hint style="info" %}
-**Gagne du temps **en utilisant la barre de recherche, en haut à droite de l'écran** "Rechercher" **🔎
+**Gagne du temps** en utilisant la barre de recherche, en haut à droite de l'écran **"Rechercher"** 🔎
 {% endhint %}
 
 ## Que recherches-tu ?
@@ -39,7 +39,7 @@
 {% endcontent-ref %}
 
 {% hint style="info" %}
-Utiliser la barre de recherche, en haut à droite de l'écran** "Rechercher"**
+Utiliser la barre de recherche, en haut à droite de l'écran **"Rechercher"**
 {% endhint %}
 
 ##
