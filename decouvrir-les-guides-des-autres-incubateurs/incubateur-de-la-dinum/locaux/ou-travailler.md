@@ -8,7 +8,7 @@ Lieu : 47, rue Le Peletier, Paris 9è
 
 Lien d'inscription / réservation : [https://etap-prefecture-idf.cosoft.fr/LogOn#register](https://etap-prefecture-idf.cosoft.fr/LogOn#register)&#x20;
 
-![](<../../../.gitbook/assets/Capture d’écran 2021-11-03 à 12.33.38.png>)
+![](<../../../.gitbook/assets/Capture d’écran 2021-11-03 à 12.33.38.png>)
 
 ## b**eta.gouv.fr en province**
 

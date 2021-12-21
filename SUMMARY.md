@@ -129,7 +129,7 @@
   * [2. Construction](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/construction/README.md)
     * [Conseils pour les coachs en phase de construction](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/construction/conseils-pour-les-coachs.md)
     * [3 retours d'expérience de coachs](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/construction/3-retours-dexperience-de-coachs.md)
-    * [Kit de démarrage pour lancer son produit minimum viable](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/construction/kit-de-demarrage.md)
+    * [Kit de démarrage à destination des Devs](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/construction/kit-de-demarrage.md)
   * [3. Accélération](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/acceleration/README.md)
     * [Programme Gamma](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/acceleration/programme-gamma.md)
     * [Fonds d'accélération des Startups d'État](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/acceleration/fonds-dacceleration-des-startups-detat.md)
