@@ -1,14 +1,14 @@
 # Services numériques à impact national
 
-Le programme beta.gouv.fr a pour objectif principal de construire des services numérique de grande qualité, qui résolvent réellement le problème des citoyennes et des citoyens, en ayant un impact direct sur leur vie quotidienne. Afin d'évaluer notre succès, nous comptons chaque année le nombre de **services publics numériques ayant un impact national** que nous avons réussi à accompagner dans le réseau beta.gouv.fr.&#x20;
+Le programme beta.gouv.fr a pour objectif principal de construire des services numérique de grande qualité, qui résolvent réellement le problème des citoyennes et des citoyens, en ayant un impact direct sur leur vie quotidienne. Afin d'évaluer notre succès, nous dénombrons chaque année le nombre de **services publics numériques ayant un impact national** conçus dans le programme beta.gouv.fr.&#x20;
 
 ## Critères d'un produit à impact national
 
-**a) Le service est sorti du programme beta.gouv.fr et il n'y a plus de doute quant à sa pérennisation.** Il peut encore recevoir l’aide de la DINUM ou faire partie du réseau beta.gouv.fr, mais officiellement, le produit est sorti de sa phase d'incubation et il n'y a plus de doute sur le fait qu'il continuera à être opéré tant que c'est nécessaire.&#x20;
+**a) Le service a prouvé son utilité et a été déployé à l'ensemble du territoire national.** Il peut être en cours de phase d'accélération, ou déjà pérennisé par son administration d'origine.
 
-**b) Le service, disponible partout ou presque en France, a atteint un seuil d'impact significatif**. Ainsi, si le critère pour passer en phase d’accélération est d’avoir atteint entre 2 et 5% du marché atteignable, l’impact national peut être considéré lorsque le service couvre 50% ou plus du marché atteignable (lorsqu’il est pertinent de raisonner en ces termes). Dans tous les cas, le service doit pouvoir justifier d’un impact significatif sur la vie de centaines de milliers voire de millions de Français.&#x20;
+**b) Le service a atteint un seuil d'impact significatif**. Il doit pouvoir justifier, par exemple sur une une page rendant compte de ses statistiques, d’un impact significatif sur la vie de centaines de milliers voire de millions de Français.&#x20;
 
-**c) Les conditions de succès perdurent :** une équipe continue de répondre aux utilisateurs ; le produit évolue régulièrement (il n’est pas mis au placard) ; les statistiques d’impact sont disponibles en ligne et restent suivies par l’équipe.
+**c) Le service continue de suivre les standards d'un service numérique de qualité :** les recommandations de [l'observatoire pour des services numériques de qualité sont respectées](https://observatoire.numerique.gouv.fr) ; une équipe continue de répondre aux utilisateurs ; le produit évolue régulièrement (il n’est pas mis au placard), avec des objectifs d'amélioration continue et de croissance de l'impact ; le maximum de ressources produites sont partagées (code source ouvert, données ouvertes, APIs, etc) ; les statistiques d’impact sont disponibles en ligne et restent suivies par l’équipe.
 
 {% hint style="info" %}
 A titre d'exemple, le service en ligne d'évaluation des compétences numériques [**Pix**](https://pix.fr) a été généralisé à tous les collèges et lycées et [compte des millions d'utilisateurs](https://pix.fr/statistiques).&#x20;
