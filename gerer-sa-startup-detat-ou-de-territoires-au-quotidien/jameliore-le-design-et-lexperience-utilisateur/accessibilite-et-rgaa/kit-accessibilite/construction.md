@@ -54,7 +54,7 @@ Si la navigation au clavier est possible, les personnes utilisant des technologi
 * Un effet focus permet de repérer facilement la zone sélectionnée.&#x20;
 * Il est toujours possible de sortir d'une zone au clavier.
 
-![Le focus est visible sur le site du Design System de l'État](../../../../.gitbook/assets/capture-de-cran-2021-09-10-a-12.35.30.png)
+![Le focus est visible sur le site du Design System de l'État](<../../../../.gitbook/assets/Capture d’écran 2021-09-10 à 12.35.30.png>)
 {% endtab %}
 
 {% tab title="Textes" %}
@@ -71,7 +71,7 @@ La balise titre est la première chose lue par un lecteur d'écran : elle doit d
 
 Les titres de la page sont cohérents : il n'y a pas de trous dans les niveaux (de h1 à h6).
 
-![Hiérarchie des titres en accueil d'api.gouv.fr dans l'extension HeadingsMap](../../../../.gitbook/assets/capture-d-u2019ecran-2020-05-25-a-15.52.31.png)
+![Hiérarchie des titres en accueil d'api.gouv.fr dans l'extension HeadingsMap](<../../../../.gitbook/assets/Capture d%u2019écran 2020-05-25 à 15.52.31.png>)
 
 {% hint style="info" %}
 Je vérifie avec l'extension [HeadingsMap pour Firefox](https://addons.mozilla.org/fr/firefox/addon/headingsmap/)

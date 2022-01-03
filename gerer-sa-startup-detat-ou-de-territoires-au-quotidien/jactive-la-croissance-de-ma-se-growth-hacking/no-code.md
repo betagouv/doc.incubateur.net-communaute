@@ -41,7 +41,7 @@ Au programme :&#x20;
 * [https://www.integromat.com/en](https://www.integromat.com/en) : Zapier 5x moins chers . Test en cours
 * Automatisation de tache
 
-![](../../.gitbook/assets/capture-de-cran-2021-03-25-a-15.11.03.png)
+![](<../../.gitbook/assets/Capture d’écran 2021-03-25 à 15.11.03.png>)
 
 #### Verifaute
 

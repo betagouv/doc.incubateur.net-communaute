@@ -1,14 +1,14 @@
 # D'autres endroits où travailler
 
-## À **Paris dans le 9e arrondissement**&#x20;
+## À **Paris dans le 9e arrondissement**
 
-ETAP est le 1er espace de coworking entièrement dédié aux agents publics, mais en fait à tous ceux qui ont un email en .gouv.fr , comme la vôtre qui est en @beta.gouv.fr . Il est **gratuit** et ouvert **du Mardi au Jeudi**.&#x20;
+ETAP est le 1er espace de coworking entièrement dédié aux agents publics, mais en fait à tous ceux qui ont un email en .gouv.fr , comme la vôtre qui est en @beta.gouv.fr . Il est **gratuit** et ouvert **du Mardi au Jeudi**.
 
 Lieu : 47, rue Le Peletier, Paris 9è
 
-Lien d'inscription / réservation : [https://etap-prefecture-idf.cosoft.fr/LogOn#register](https://etap-prefecture-idf.cosoft.fr/LogOn#register)&#x20;
+Lien d'inscription / réservation : [https://etap-prefecture-idf.cosoft.fr/LogOn#register](https://etap-prefecture-idf.cosoft.fr/LogOn#register)
 
-![](<../../../.gitbook/assets/Capture d’écran 2021-11-03 à 12.33.38.png>)
+![](<../../../.gitbook/assets/Capture d’écran 2021-11-03 à 12.33.38.png>)
 
 ## b**eta.gouv.fr en province**
 
@@ -21,8 +21,6 @@ Des membres de la communauté Beta.gouv.fr travaillent un peu partout en France.
 À **Bordeaux**, Francis Chabouis loue un bureau fermé et met à disposition des membres de la communauté 2 places de travail.
 
 À **Metz** les membres de la communauté beta seront toujours les bienvenus aussi à Metz au tiers lieu + coworking BLIIIDA/Le Poulailler. Contactez Jérôme Desboeufs
-
-
 
 ## **Le Ground Control à Paris**
 

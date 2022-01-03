@@ -32,6 +32,12 @@ Une fiche membre permet aux nouveaux arrivants :
 
 Tu auras donc accès à ta boite email @beta.gouv, à la messagerie de ton équipe et ton profil apparaitra sur [le site de beta.gouv](https://beta.gouv.fr/communaute/).
 
+#### Que faire si tu n'as pas activé ton email beta.gouv.fr et que le lien d'activation est expiré ?
+
+1. Rends toi sur [https://secretariat.incubateur.net](http://secretariat.incubateur.net)
+2. Utilise ton email secondaire (celui renseigné dans le formulaire) pour te connecter à ta fiche
+3. Demande un renouvellement du mot de passe de ta boîte mail
+
 #### Pourquoi créer te créer un compte Github si tu n'en as pas encore ? _**(facultatif)**_
 
 En ayant un compte Github, tu gagneras en autonomie durant ta mission dans une équipe du réseau beta.gouv. Par exemple, tu seras autonome pour mettre à jour ta fiche produit ou ta fiche membre.&#x20;
@@ -64,7 +70,8 @@ Cela vient avec quelques **règles d'hygiène informatique** pour assurer un niv
 
     Encore mieux : envoyez le début de mot de passe par Signal, et la fin du mot de passe par Tchap.
 
-    Encore encore mieux : supprimez toute trace du mot de passe une fois dans toutes les messageries.
+    Encore encore mieux : supprimez toute trace du mot de passe une fois dans toutes les messageries.\
+    Enfin, le top du top : utiliser un gestionnaire de mot de passe comme Dashlane pour partager vos mots de passe de manière sécurisée et révocable !
 8. Si quelqu'un vous demande un mot de passe, **vérifiez que c'est en effet la bonne personne qui a fait la demande**. Il est possible de voler les accès Mattermost d'une personne et se faire passer pour elle sur le réseau. Il est possible qu'une personne se fasse voler son numéro de téléphone. Pour vous assurer que c'est la bonne personne, vous pouvez demander à déclencher une visio.
 
 Ces règles s'appliquent à tous les membres de la communauté, quelque soit votre accès à des informations sensibles.
@@ -84,6 +91,12 @@ Tu peux aussi parcourir le support de cet atelier d'embarquement :&#x20;
 Si tu nous rejoins en tant que développeur ou développeuse, nous t'invitons aussi à t'inscrire au prochain atelier d'embarquement spécial devs tenu par les responsables technique et produit de beta.gouv.fr. 👉[Je m'inscris à l'embarquement dev](https://airtable.com/shrUCbUT72KtKefsu)
 
 {% embed url="https://airtable.com/shrUCbUT72KtKefsu" %}
+
+{% content-ref url="embarquement-dev.md" %}
+[embarquement-dev.md](embarquement-dev.md)
+{% endcontent-ref %}
+
+
 
 
 
