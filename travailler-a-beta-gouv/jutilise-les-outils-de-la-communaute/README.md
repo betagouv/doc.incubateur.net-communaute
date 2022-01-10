@@ -61,3 +61,8 @@ description: >-
 {% content-ref url="metabase.md" %}
 [metabase.md](metabase.md)
 {% endcontent-ref %}
+
+{% content-ref url="dashlane.md" %}
+[dashlane.md](dashlane.md)
+{% endcontent-ref %}
+
