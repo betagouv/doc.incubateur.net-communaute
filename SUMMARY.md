@@ -47,6 +47,7 @@
     * [Standards d'écriture](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/gitbook/recommandations.md)
   * [Pad - Prise de notes](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/pad.md)
   * [Outils de secrétariat](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/outils/README.md)
+    * [Comment fonctionne le secrétariat](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/outils/comment-fonctionne-le-secretariat.md)
     * [Mettre à jour mes informations](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/outils/mise-a-jour-de-mes-informations.md)
     * [Liste de diffusion interne à la communauté](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/outils/liste-de-diffusion-et-adresses-de-contact.md)
   * [Emails](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/emails.md)
