@@ -97,5 +97,6 @@ Ta signature ne doit pas mentionner la DINUM, pour éviter de porter à confusio
 
 ## Retrouver mon mot de passe
 
-Si tu as perdu ton mot de passe, il faut passer par OVH pour le récupérer. Tu peux demander de l'aide sur \#incubateur-secretariat sur Mattermost.
+Si tu as perdu ton mot de passe, tu peux te connecter au [secretariat](https://secreteriat.incubateur.net) avec ton adresse secondaire que tu as du renseigner à ton arrivée. Tu pourras y changer ton mot de passe pour ton adresse @beta.gouv.fr en te rendant dans l'admin de ton compte  https://secreteriat.incubateur.net/account#password
+Si tu n'as pas d'email secondaire tu peux demander de l'aide sur \#incubateur-secretariat sur Mattermost et y communiquer ton email secondaire.
 
