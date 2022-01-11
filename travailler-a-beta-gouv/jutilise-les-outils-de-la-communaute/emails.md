@@ -97,6 +97,12 @@ Ta signature ne doit pas mentionner la DINUM, pour éviter de porter à confusio
 
 ## Retrouver mon mot de passe
 
-Si tu as perdu ton mot de passe, tu peux te connecter au [secretariat](https://secreteriat.incubateur.net) avec ton adresse secondaire que tu as du renseigner à ton arrivée. Tu pourras y changer ton mot de passe pour ton adresse @beta.gouv.fr en te rendant dans l'admin de ton compte  https://secreteriat.incubateur.net/account#password
-Si tu n'as pas d'email secondaire tu peux demander de l'aide sur \#incubateur-secretariat sur Mattermost et y communiquer ton email secondaire.
+Si tu as perdu ton mot de passe, tu peux te connecter au [secretariat](https://secreteriat.incubateur.net/account#password) avec ton adresse secondaire que tu as du renseigner à ton arrivée. Tu pourras y changer ton mot de passe pour ton adresse @beta.gouv.fr en te rendant dans l'[admin de ton compte] (https://secreteriat.incubateur.net/account#password)
+
+Si tu n'as pas d'email secondaire, tu peux suivre la procédure : [demander l'ajout de mon email secondaire](#Demander-lajout-de-mon-email-secondaire)
+
+## Demander l'ajout de mon email secondaire
+
+Demander de l'aide sur \#incubateur-secretariat sur Mattermost et y communiquer ton email secondaire en envoyant ce message type :
+`Bonjour, j'ai perdu les accès à mon adresse beta xxx@beta.gouv.fr. Mon adresse secondaire est xxx@yyy.vvv.`
 
