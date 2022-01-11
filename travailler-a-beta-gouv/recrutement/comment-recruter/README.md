@@ -22,19 +22,24 @@ Avant de lancer un recrutement, tu dois disposer d'un budget suffisant, avoir r�
 [publier-une-offre-dembauche.md](publier-une-offre-dembauche.md)
 {% endcontent-ref %}
 
-* **Les entreprises titulaire des** [**marchés publics beta.gouv.fr**](../../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/marches-publics-beta.gouv.fr/) peuvent répondre à vos besoins de recrutement (hors recrutement d'agents publics). A chaque fois que vous avez un projet de recrutement, il est important de tenir l'entreprises de prestation qui est affectée à votre Startup d'État au plus tôt pour qu'elle puisse s'organiser en interne avec ses [salariés](../les-differents-statuts/salaries-des-societes-de-prestation.md). Si l'entreprise ne dispose pas de la compétence, alors il est possible de recruter des personnes au statut [d'indépéndant](../les-differents-statuts/independants-freelances/)
+* **Les entreprises titulaire des** [**marchés publics beta.gouv.fr**](../../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/marches-publics-beta.gouv.fr/) peuvent répondre à vos besoins de recrutement (hors recrutement d'agents publics). A chaque fois que vous avez un projet de recrutement, il est important de tenir informée l'entreprise de prestation qui est affectée à votre Startup d'État au plus tôt pour qu'elle puisse s'organiser en interne avec ses [salariés](../../actions-transverses/sengager-dans-une-action-transverse/salaries-des-societes-de-prestation.md). Si l'entreprise ne dispose pas de la compétence, alors il est possible de recruter des personnes au statut [d'indépendant](../../actions-transverses/sengager-dans-une-action-transverse/independants-freelances.md)
 * **Twitter et LinkedIn** sont d'excellents relais pour diffuser l'annonce.
+* L'annonce peut aussi être relayée auprès de communautés dédiées
+  * [DuchessFrance \[Women in tech\]](https://www.duchess-france.org/contact/)
+  * [Ladies of code Paris](https://www.meetup.com/fr-FR/Ladies-of-Code-Paris/)
+  * [PyLadies Paris](https://www.meetup.com/fr-FR/pyladiesparis/)
+  * [WomenOnRails](./#aider-les-autres-a-recruter)
 
 {% content-ref url="annoncer-un-recrutement-sur-le-compte-linkedin-de-beta.gouv.md" %}
 [annoncer-un-recrutement-sur-le-compte-linkedin-de-beta.gouv.md](annoncer-un-recrutement-sur-le-compte-linkedin-de-beta.gouv.md)
 {% endcontent-ref %}
 
-**Attention**, pour le recrutement sous le statut d'[agent public](../les-differents-statuts/fonctionnaires-et-contractuels-de-la-fonction-publique.md) (contractuel, vacataire, stagiaire), des procédures administratives sont à prévoir et encadrent notamment les démarches d'entretien: grille d'évaluation, compte-rendu d'entretien, dossier de recrutement…
+**Attention**, pour le recrutement sous le statut d'[agent public](../../actions-transverses/les-differents-statuts/fonctionnaires-et-contractuels-de-la-fonction-publique.md) (contractuel, vacataire, stagiaire), des procédures administratives sont à prévoir et encadrent notamment les démarches d'entretien: grille d'évaluation, compte-rendu d'entretien, dossier de recrutement…
 
 Une fois la fiche de poste publiée et les premières réponses obtenues, c'est le moment de faire passer des entretiens.
 
-{% content-ref url="entretiens-de-recrutement.md" %}
-[entretiens-de-recrutement.md](entretiens-de-recrutement.md)
+{% content-ref url="entretiens-de-recrutement/" %}
+[entretiens-de-recrutement](entretiens-de-recrutement/)
 {% endcontent-ref %}
 
 ### Quels sont les éléments à ne pas oublier lors des recrutements ?
