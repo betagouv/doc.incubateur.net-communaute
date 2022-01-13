@@ -6,7 +6,7 @@
 Il est important de mettre ses dates de mission à jour pour conserver l'accès aux services et permettre un suivi des membres de la communauté. N'hésite pas à demander à des personnes de ton équipe de t'aider si tu n'y arrives pas.
 {% endhint %}
 
-Toutes ses méthodes se déroulent en 3 étapes :
+Toutes ces méthodes se déroulent en 3 étapes :
 1. Vous indiquez, avec l'une des méthodes ci-dessous votre nouvelle date de fin de mission. Ceci créera une PR (demande de modification) sur le [code du site de betagouv sur Github](https://github.com/betagouv/beta.gouv.fr/).
 2. Un des membres de votre équipe (idéalement l'intra) valide la PR avec vos nouvelles dates. Pour faciliter cela, tu peut leur envoyer le lien vers la PR.
 3. Le site, ainsi que nos systèmes, sont mis à jour automatiquement.
