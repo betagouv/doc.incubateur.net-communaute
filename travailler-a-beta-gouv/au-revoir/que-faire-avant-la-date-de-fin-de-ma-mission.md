@@ -23,12 +23,4 @@ Tu peux [mettre à jour tes dates de mission](https://doc.incubateur.net/communa
 
 ## Serais-je prévenu de la date de fin de mission ?
 
-### Si ta date de fin de mission est dans moins de 15 jours, tu seras alerté  :
-
-* \[Mattermost] Alerte en message privé pour t'indiquer les prochaines étapes
-* \[email] Alerte pour t'informer des prochaine étapes
-
-### Si ta date de fin de mission est dans moins de deux jours, tu seras alerté :
-
-* \[Mattermost] Alerte en message privé pour t'indiquer les prochaines étapes
-* \[email] Alerte pour t'informer des prochaine étapes&#x20;
+Tu seras alerté sur Mattermost et sur ton email principal 15 jours puis 2 jours avant ta date de fin de mission.
