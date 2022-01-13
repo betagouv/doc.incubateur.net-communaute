@@ -6,7 +6,7 @@ description: Les réponses aux questions fréquentes concernant les départs.
 
 ## Comment prolonger ma date de fin de mission ?
 
-Si ta mission est prolongée, tu peux [mettre à jour ta date de fin de mission dans ta fiche membre](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-gere-mon-produit-et-son-impact/gerer-sa-fiche-produit#ajouter-un-membre-de-son-equipe-a-sa-fiche-produit).
+Si ta mission est prolongée, tu peux [mettre à jour ta date de fin de mission dans ta fiche membre](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/outils/mise-a-jour-de-mes-informations#comment-mettre-a-jour-mes-dates-de-mission).
 
 ## Que va devenir mon email @beta.gouv.fr après mon départ ?
 
