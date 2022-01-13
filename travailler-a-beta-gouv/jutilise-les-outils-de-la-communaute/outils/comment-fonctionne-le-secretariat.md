@@ -35,7 +35,7 @@ Une fois la PR sur Github validée
 ### Au fur et à mesure de ta mission
 Via le secretariat, tu pourras : 
 - Changer ton mot de passe mail
-- Changer ton adresse sécondaire
+- Changer ton adresse secondaire
 - Configurer une réponse automatique sur ton mail en cas d'absence
 - Changer tes dates de mission ou les informations concernant ta mission en cours (Attention : Il faudra qu'on membre de ton équipe valide la PR sur github)
 
