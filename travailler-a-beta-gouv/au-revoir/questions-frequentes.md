@@ -10,7 +10,10 @@ Si ta mission est prolongée, tu peux [mettre à jour ta date de fin de mission 
 
 ## Que va devenir mon email @beta.gouv.fr après mon départ ?
 
-**Ton email sera supprimé automatiquement quelques semaines après la date de fin de contrat.** Tu recevras un rappel lorsque la date de fin de mission s'approche.
+Le jour suivant ton départ, tel qu'indiqué sur ta fiche de membre, tu perdras les accès à ta boîte mail.
+**Ton email sera supprimé automatiquement 30 jours après la date de fin de contrat.** 
+
+Tu recevras un rappel lorsque la date de fin de mission s'approche.
 
 ### Si tu as demandé la redirection de ton email @beta vers une autre
 
