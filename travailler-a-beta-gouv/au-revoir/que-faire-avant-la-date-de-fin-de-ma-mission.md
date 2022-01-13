@@ -4,13 +4,15 @@ description: Nous te prévenons avant la date de fin de ta mission
 
 # Que faire avant la date de fin de ma mission ?
 
-## Que faire avant mon départ de beta.gouv ?
+## Si ta mission est prolongée
+Tu peux [mettre à jour tes dates de mission](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/outils/mise-a-jour-de-mes-informations#comment-mettre-a-jour-mes-dates-de-mission)
 
-### C'est indispensable pour le suivi RH
+## Si ta mission se finit, que faire avant mon départ de beta.gouv ?
 
-* [ ] Renseigner ta date de départ dans ta fiche sur beta.gouv.fr depuis[ la solution en ligne](../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-gere-mon-produit-et-son-impact/gerer-sa-fiche-produit.md) ou depuis[ Github](https://github.com/betagouv/beta.gouv.fr/tree/master/content/\_authors).
+### Actions indispensable
+
+* [ ] Renseigner ta date de départ exacte dans ta fiche sur beta.gouv.fr. Voici la [marche à suivre](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/outils/mise-a-jour-de-mes-informations#comment-mettre-a-jour-mes-dates-de-mission)
 * [ ] Retirer tes droits d'écriture de [l'agenda public de l'incubateur](https://calendar.google.com/calendar/embed?src=0ieonqap1r5jeal5ugeuhoovlg%40group.calendar.google.com\&ctz=Europe/Paris).
-* [ ] Si tu utilises Github : quitter l'organisation BetaGouv
 
 ### C'est optionnel
 
@@ -21,16 +23,12 @@ description: Nous te prévenons avant la date de fin de ta mission
 
 ## Serais-je prévenu de la date de fin de mission ?
 
-{% hint style="info" %}
-L'équipe de dev transverse améliore ces alertes au fil des semaines. **Seules celles en gras sont opérationnelles.** Les autres sont en cours de test ou de développement.
-{% endhint %}
-
 ### Si ta date de fin de mission est dans moins de 15 jours, tu seras alerté  :
 
-* [x] **\[Mattermost] Alerte en message privé pour t'indiquer les prochaines étapes**
-* [ ] \[email] Alerte pour t'informer des prochaine étapes
+* \[Mattermost] Alerte en message privé pour t'indiquer les prochaines étapes
+* \[email] Alerte pour t'informer des prochaine étapes
 
 ### Si ta date de fin de mission est dans moins de deux jours, tu seras alerté :
 
-* [x] **\[Mattermost] Alerte en message privé pour t'indiquer les prochaines étapes**
-* [x] **\[email] Alerte pour t'informer des prochaine étapes**&#x20;
+* \[Mattermost] Alerte en message privé pour t'indiquer les prochaines étapes
+* \[email] Alerte pour t'informer des prochaine étapes&#x20;
