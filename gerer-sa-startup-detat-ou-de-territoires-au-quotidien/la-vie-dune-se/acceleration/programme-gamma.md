@@ -10,6 +10,6 @@ La saison 3 est débutée depuis Janvier 2022. Les équipes accompagnées sont [
 
 Pour en savoir plus, vous pouvez vous référer à [la présentation générale de Gamma](https://docs.google.com/presentation/d/14wInaKcd2gn9sU0bzlGSrtALq2BwLxdHAZOxh\_kM9b8/edit?usp=sharing) ou aux articles publiés sur le blog beta.gouv concernant [la phase d'accélération des startups](https://blog.beta.gouv.fr/dinsic/2020/08/20/acceleration-des-startups-d-etat-d-un-retour-d-experience-a-l-experimentation-d-un-programme-d-accompagnement-cible-1/) et [le lancement du programme Gamma](https://blog.beta.gouv.fr/dinsic/2020/11/23/acceleration-des-startups-d-etat-retour-sur-le-lancement-du-programme-d-accompagnement-gamma-1/).
 
-Dans une démarche de transparence, l'équipe Gamma partage [le récap de ses weekly](https://drive.google.com/drive/folders/1MK7Tt0fSe\_Q10GwRxSb03C6XdwBmPwNV) à toute l'équipe beta. Vous pouvez également retrouver l'ensemble de l'actualité de Gamma en rejoignant le channel #incubateur-accélération sur le slack beta.gouv.fr.
+Vous pouvez retrouver l'ensemble de l'actualité de Gamma en rejoignant le channel #gamma sur le mattermost beta@dinum.
 
 Pour contacter l’équipe Gamma : gamma@beta.gouv.fr.
