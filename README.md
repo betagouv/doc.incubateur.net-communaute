@@ -12,19 +12,19 @@ description: >-
 
 ## Pour bien démarrer, choisis ta situation :
 
-{% content-ref url="je-travaille-ou-vais-travailler-chez-beta.gouv/" %}
-[je-travaille-ou-vais-travailler-chez-beta.gouv](je-travaille-ou-vais-travailler-chez-beta.gouv/)
+{% content-ref url="gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/marches-publics-beta.gouv.fr/marche-interministeriel-beta/je-travaille-dans-une-startup-detat.md" %}
+[je-travaille-dans-une-startup-detat.md](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/marches-publics-beta.gouv.fr/marche-interministeriel-beta/je-travaille-dans-une-startup-detat.md)
 {% endcontent-ref %}
 
 {% content-ref url="je-ne-travaille-pas-chez-beta.gouv.md" %}
 [je-ne-travaille-pas-chez-beta.gouv.md](je-ne-travaille-pas-chez-beta.gouv.md)
 {% endcontent-ref %}
 
-### ****
+### \*\*\*\*
 
 ### **Pour aller plus loin**
 
-**Si tu es membre d'une équipe ou d'un incubateur du réseau beta.gouv.fr**, cet espace a été conçu pour toi.  Tu peux utiliser la _**barre de recherche**_ en haut à droite de ton écran pour faciliter ta navigation. Si tu ne trouves pas la ressource que tu cherches, tu peux poser la question dans la _**chaîne \~incubateur-help**_ de [notre espace Mattermost](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/mattermost/). Si tu repères une erreur, tu peux [la corriger et contribuer à ce guide](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/gitbook/comment-contribuer-a-cette-documentation.md).&#x20;
+**Si tu es membre d'une équipe ou d'un incubateur du réseau beta.gouv.fr**, cet espace a été conçu pour toi. Tu peux utiliser la _**barre de recherche**_ en haut à droite de ton écran pour faciliter ta navigation. Si tu ne trouves pas la ressource que tu cherches, tu peux poser la question dans la _**chaîne \~incubateur-help**_ de [notre espace Mattermost](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/mattermost/). Si tu repères une erreur, tu peux [la corriger et contribuer à ce guide](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/gitbook/comment-contribuer-a-cette-documentation.md).
 
 **Si tu n'es pas (encore) membre de beta.gouv.fr**, tu peux profiter librement des ressources et des apprentissages que nous avons compilés ici, en gardant en tête que cette documentation est initialement à usage interne. Nous espérons cependant qu'elles pourra inspirer d'autres organisations. Si tu souhaites nous contacter pour en parler, transmets nous un message à _**contact@beta.gouv.fr**_ !
 
