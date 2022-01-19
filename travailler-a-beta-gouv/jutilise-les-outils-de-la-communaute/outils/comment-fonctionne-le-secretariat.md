@@ -50,3 +50,19 @@ J-2 : un message Mattermost et un email sur ton adresse principale sont envoyés
 J : Date de fin de mission
 J+1 : tes accès à ta boite mail et à github/betagouv sont desactivés
 J+30 : Ton compte email @betagouv est supprimé
+
+# Fonctionnalités du secretariat 
+
+## Changer son email principal
+
+Auparavant l'email @beta.gouv.fr était obligatoire pour pouvoir avoir une fiche membre beta.gouv.fr et accès aux différents outils de la communauté.
+Ce n'est plus le cas pour les personnes qui possèdent déjà un email d'agent public.
+Si vous n'utilisez pas votre email @beta.gouv.fr vous pouvez sur https://secretariat.incubateur.net changer votre adresse principale pour l'email d'agent public que vous possédez déjà. 
+Attention l'email @beta.gouv.fr sera alors supprimé.
+Tu peux retrouver cette fonctionnalité en te rendant dans [Secretariat > Mon Compte > Configurer mon email principal](https://secretariat.incubateur.net/account#change-primary-email)
+
+## Ajouter/Changer mon email secondaire
+
+L'email secondaire permet de se connecter au secretariat en cas d'oublie ou changement du mot de passe de votre adresse @beta.gouv.fr. 
+Il est utile notamment dans ce cas afin d'accéder au secretariat pour y redéfinir un nouveau mot de passe ainsi que pour diverse communication au moment de la fin de mission.
+Tu peux retrouver cette fonctionnalité en te rendant dans [Secretariat > Mon Compte > Configurer mon email secondaire](https://secretariat.incubateur.net/account#change-secondary-email)
