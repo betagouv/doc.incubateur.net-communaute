@@ -19,6 +19,5 @@
 ## Les principales canaux de discussion pour demander de l'aide
 
 {% hint style="info" %}
-### [#domaine-juridique](https://mattermost.incubateur.net/betagouv/channels/domaine-juridique) ou [#guide-rgpd-securite](https://mattermost.incubateur.net/betagouv/channels/ctwtvd6ma)
+#### [#domaine-juridique](https://mattermost.incubateur.net/betagouv/channels/domaine-juridique) ou [#guide-rgpd-securite](https://mattermost.incubateur.net/betagouv/channels/ctwtvd6ma)
 {% endhint %}
-

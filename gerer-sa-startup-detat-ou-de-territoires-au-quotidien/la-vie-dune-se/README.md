@@ -1,14 +1,25 @@
 # 🌀 Comprendre les grandes étapes d'une Startup d'État
 
-{% page-ref page="je-souhaite-lancer-une-startup-detat/" %}
+{% content-ref url="je-souhaite-lancer-une-startup-detat/" %}
+[je-souhaite-lancer-une-startup-detat](je-souhaite-lancer-une-startup-detat/)
+{% endcontent-ref %}
 
-{% page-ref page="investigation/" %}
+{% content-ref url="investigation/" %}
+[investigation](investigation/)
+{% endcontent-ref %}
 
-{% page-ref page="construction/" %}
+{% content-ref url="construction/" %}
+[construction](construction/)
+{% endcontent-ref %}
 
-{% page-ref page="acceleration/" %}
+{% content-ref url="acceleration/" %}
+[acceleration](acceleration/)
+{% endcontent-ref %}
 
-{% page-ref page="4.-consolidation-et-transfert/" %}
+{% content-ref url="4.-consolidation-et-transfert" %}
+[4.-consolidation-et-transfert](4.-consolidation-et-transfert)
+{% endcontent-ref %}
 
-{% page-ref page="abandon.md" %}
-
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}

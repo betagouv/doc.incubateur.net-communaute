@@ -21,34 +21,34 @@ Nous vous proposons ce modèle qui n'est pas obligatoire.
 
 Il est composé :
 
-* une première partie courte et synthétique&#x20;
+* une première partie courte et synthétique
 * une seconde partie pour aller plus loin
 
 ### Modèle :
 
 > Synthèse pour comprendre rapidement
 >
-> #### Intitulé de l'évènement _(utilises des emoji en lien avec le thème)_
+> **Intitulé de l'évènement **_**(utilises des emoji en lien avec le thème)**_
 >
-> #### - 📆 Date et horaire
+> **- 📆 Date et horaire**
 >
-> #### - Lieu/lien visio
+> **- Lieu/lien visio**
 >
-> #### - Tu penses participer ?
+> **- Tu penses participer ?**
 >
-> #### 👍 (oui) 👎 (non) 📅 (à un autre moment)
+> **👍 (oui) 👎 (non) 📅 (à un autre moment)**
 >
 > Pour aller plus loin
 >
-> #### Description du thème en quelques lignes
+> **Description du thème en quelques lignes**
 >
-> #### Pourquoi proposer cet évènement ?
+> **Pourquoi proposer cet évènement ?**
 >
-> #### Personnes cibles ?
+> **Personnes cibles ?**
 >
-> #### Qui l'organise ?
+> **Qui l'organise ?**
 >
-> #### Ce qui sera attendu des participants ?
+> **Ce qui sera attendu des participants ?**
 
 ```
 Intitulé de l'évènement
