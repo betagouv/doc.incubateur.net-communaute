@@ -27,12 +27,12 @@ En tant qu'incubateur du réseau beta.gouv, les équipes qui suivent l'approche 
 
 #### Marchés publics
 
-* accès au marché interministériel beta.gouv (sauf pour le ministère des affaires sociales qui dispose de son propre marché)&#x20;
+* accès au marché interministériel beta.gouv pour les produits conçus selon l'approche Startup d'État (sauf pour le ministère des affaires sociales qui dispose de son propre marché)&#x20;
 * accès au marché de coaching de la DINUM (par le biais de conventions de partenariat entre votre administration et la DINUM)&#x20;
 
-#### Offre technique
+#### Offre technique pour les produits conçus selon l'approche Startup d'État
 
-* L’obtention d’un nom de domaine [beta.gouv.fr](http://beta.gouv.fr) pour les produits conçus selon l'approche Startup d'État ;
+* L’obtention d’un nom de domaine [beta.gouv.fr](http://beta.gouv.fr)  ;
 * Un appui ponctuel sur les sujets liés [au design et à l'accessibilité](../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/) ;
 * Un accompagnement et des conseils en matières de [RGPD et sécurité](../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/cadrer-juridiquement-son-produit/) ;
 * L’utilisation de stack techniques interministérielles ;
@@ -43,7 +43,7 @@ En tant qu'incubateur du réseau beta.gouv, les équipes qui suivent l'approche 
 
 * mise en avant des services numériques et de l'incubateur sur le site internet [beta.gouv.fr](../travailler-a-beta-gouv/actions-transverses/rituels/standup.md) ;
 * accès au [Mattermost](../travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/mattermost/) beta.gouv.fr ;
-* relai des campagnes de recrutement sur les réseaux beta.gouv.fr (site internet, réseaux sociaux) ;
+* relai des campagnes de recrutement sur les réseaux beta.gouv.fr pour les produits conçus selon l'approche Startup d'État (site internet, réseaux sociaux) ;
 * invitation des membres des équipes aux “[clubs](../travailler-a-beta-gouv/se-former/clubs-de-partage-dexperience/)” beta.gouv.fr et réflexions transverses (séminaires, réseaux de partage d’expérience entre coachs, intrapreneurs ou chefs de produit, développeurs, designers, chargés de déploiement, etc) ;
 * invitation au [grand séminaire beta.gouv](../travailler-a-beta-gouv/actions-transverses/rituels/grand-seminaire-1.md) ;&#x20;
 * possibilité d’accueillir ponctuellement l’équipe dans les [locaux](incubateur-de-la-dinum/locaux/) de l’incubateur de la DINUM (échanges, revues de portefeuille, ateliers) ;
