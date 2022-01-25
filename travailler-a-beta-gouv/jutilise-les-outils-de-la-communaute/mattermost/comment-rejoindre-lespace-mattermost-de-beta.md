@@ -6,7 +6,7 @@
 
 Si tu es nouveau ou nouvelle chez beta, ton compte Mattermost sera créé par bot une fois que ton profil de membre a été créé. Tu reçois un email sur l'adresse de ton compte t'informant de se création (par défaut ton adresse @beta.gouv.fr si tu en as une)
 
-## Etape 1.  clique sur [https://mattermost.incubateur.net/](https://mattermost.incubateur.net/\*\*]\(https://mattermost.incubateur.net/\)\*\*\*\*) ou télécharge l'app
+## Etape 1.  Clique sur [https://mattermost.incubateur.net/](https://mattermost.incubateur.net/\*\*]\(https://mattermost.incubateur.net/\)\*\*\*\*) ou télécharge l'app
 
 {% hint style="info" %}
 Pour optimiser l'expérience, nous te conseillons de télécharger l'application Mattermost sur ordinateur et mobile : [liens de téléchargement](https://mattermost.com/download/#).
@@ -14,7 +14,7 @@ Pour optimiser l'expérience, nous te conseillons de télécharger l'application
 A l'installation, si le client demande l'ajout d'un serveur ("Add server"), choisir un nom pour cet espace (par exemple : beta.gouv.fr) et saisir comme adresse de serveur : [https://mattermost.incubateur.net](https://mattermost.incubateur.net).
 {% endhint %}
 
-## Etape 2. Récupérer son mot de passe
+## Etape 2. "Récupérer" son mot de passe (pour l'intialiser)
 
 Ton compte a été à la validation de ton profil. Il te faut simplement **récupérer ton mot de passe** (qui est différent de celui du compte beta) :
 
