@@ -6,29 +6,29 @@ description: >-
 
 # Comment activer l'option thread/fil ?
 
-## Etape 1**. Cliques sur les 3 bandes horizontales**&#x20;
+## Etape 1**. Clique sur les 3 bandes horizontales**&#x20;
 
 ![](../../../../.gitbook/assets/capture-1.jpg)
 
 ****
 
-## Etape 2. **Cliques sur "Paramètres du compte"**
+## Etape 2. **Clique sur "Paramètres du compte"**
 
 ![](../../../../.gitbook/assets/capture2.jpg)
 
-## **Etape 3. Cliques sur "Affichage" puis sur "modifier" dans la partie "Collapsed Reply Threads (beta)"**
+## **Etape 3. Clique sur "Affichage" puis sur "modifier" dans la partie "Collapsed Reply Threads (beta)"**
 
 ![](../../../../.gitbook/assets/capture-3.jpg)
 
 ****
 
-## **Etape 4. Choisi "On" puis enregistrer.**
+## **Etape 4. Choisis "On" puis enregistrer.**
 
 ![](../../../../.gitbook/assets/capture-4.jpg)
 
 ### ****
 
-## Demo vidéo
+## Démo vidéo
 
 #### Collapsed Reply Threads Tutorial
 
