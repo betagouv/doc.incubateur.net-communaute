@@ -6,7 +6,7 @@
 
 Si tu es nouveau ou nouvelle chez beta, ton compte Mattermost sera créé par bot une fois que ton profil de membre a été créé. Tu reçois un email sur l'adresse de ton compte t'informant de sa création (par défaut ton adresse @beta.gouv.fr si tu en as une).
 
-## Etape 1.  clique sur [https://mattermost.incubateur.net/](https://mattermost.incubateur.net/\*\*]\(https://mattermost.incubateur.net/\)\*\*\*\*) ou télécharge l'app
+## Etape 1. Clique sur [https://mattermost.incubateur.net/](https://mattermost.incubateur.net/\*\*]\(https://mattermost.incubateur.net/\)\*\*\*\*) ou télécharge l'app
 
 {% hint style="info" %}
 Pour optimiser l'expérience, nous te conseillons de télécharger l'application Mattermost sur ordinateur et mobile : [liens de téléchargement](https://mattermost.com/download/#).
