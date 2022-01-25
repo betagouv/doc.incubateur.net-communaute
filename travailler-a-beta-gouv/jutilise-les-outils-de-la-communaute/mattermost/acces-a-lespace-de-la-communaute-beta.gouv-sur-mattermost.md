@@ -25,7 +25,7 @@ Cette règle ne concerne pas l'accès à l'outil Mattermost lui-même, mais seul
 
 ### Tu fais partie d'une startup ou d'un incubateur mais n'as pas encore d'adresse mail beta (cas n°1) ?
 
-Crée un compte simplement en suivant [ces instructions](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/bienvenue). Quels que soient son métier, son incubateur ou administration, ou le volume horaire de son engagement, toute personne qui contribue au travail d'une startup d'Etat et à l'atteinte de ses résultats est légitime pour avoir un compte beta.
+Crée un compte simplement en suivant [ces instructions](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/bienvenue). Quel que soit son métier, son incubateur ou administration, ou le volume horaire de son engagement, toute personne qui contribue au travail d'une startup d'Etat et à l'atteinte de ses résultats est légitime pour avoir un compte beta.
 
 ### Tu ne fais pas partie d'une startup mais tu veux suivre ou participer aux échanges d'une équipe (cas n°2) ?
 
