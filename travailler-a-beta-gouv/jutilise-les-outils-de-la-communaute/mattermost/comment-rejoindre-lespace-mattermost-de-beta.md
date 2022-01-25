@@ -14,9 +14,9 @@ Pour optimiser l'expérience, nous te conseillons de télécharger l'application
 A l'installation, si le client demande l'ajout d'un serveur ("Add server"), choisir un nom pour cet espace (par exemple : beta.gouv.fr) et saisir comme adresse de serveur : [https://mattermost.incubateur.net](https://mattermost.incubateur.net).
 {% endhint %}
 
-## Etape 2. "Récupérer" son mot de passe (pour l'intialiser)
+## Etape 2. "Récupérer" son mot de passe (pour l'initialiser)
 
-Ton compte a été à la validation de ton profil. Il te faut simplement **récupérer ton mot de passe** (qui est différent de celui du compte beta) :
+Ton compte a été créé à la validation de ton profil. Il te faut simplement **initialiser ton mot de passe** (qui est différent de celui du compte beta). Pour ce faire, suis la procédure de "perte de mot de passe". Même s'il n'est pas réellement perdu, elle te permettra de l'initialiser :
 
 ### A. Clique sur "[J'ai perdu mon mot de passe](https://mattermost.incubateur.net/reset\_password)"
 
@@ -26,7 +26,7 @@ Ton compte a été à la validation de ton profil. Il te faut simplement **récu
 
 ![](https://lh6.googleusercontent.com/dmzmqbVoDmbXpOsSfIVTXLirn\_\_E01dYadqfTmXUQaXzXkpCLNsPM24xi\_2dgEMDoaMoyMyI6Gbq-o-Cs0hx9nQo7RntZghW4aDH7bsuayaQX5uvq7Y8w72i9OyHIqJOW4AYRW9Y)
 
-### C. Clique sur le lien contenu dans l’email et configures ton mot de passe avec les contraintes suivante
+### C. Clique sur le lien contenu dans l’email et configure ton mot de passe avec les contraintes suivante
 
 * 20-64 caractères&#x20;
 
