@@ -11,7 +11,7 @@ Par exception à cette règle générale, sur un petit nombre de sujets nous gé
 
 ### Comment demander de l'aide ?
 
-Tu peux demander de l'aide sur ces sujets sur Mattermost dans 🔒`#incubateur-ops` et, s'il y a un délai important, ouvrir également un ticket dans [Trello](https://trello.com/invite/b/LQONIILQ/44ad5ab3073e83030067cc1b1c8ce968/infra) pour le suivi dans la durée.
+Tu peux demander de l'aide sur ces sujets sur Mattermost dans 🔒`#incubateur-ops`.
 
 Si tu n'as pas de réponse sous 24h, consulte ci-dessous la liste des gens qui ont accès et les droits suffisants, et fais une relance nominative.
 
@@ -28,32 +28,32 @@ Inscris-toi d'abord ci-dessous pour signaler que tu as l'accès aux ressources e
 
 ### OVH (domaine beta.gouv.fr et adresses mail, mailing lists etc.)
 
-Pour les mails et les [listes](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/outils/liste-de-diffusion-et-adresses-de-contact) c'est automatisé, voir la page à ce sujet.
+Pour demander un sous domaines, remplis le formulaire de demande d'ops que tu trouveras dans la description du channel `~incubateur-ops` sur mattermost.
 
-Pour la gestion des sous-domaines (ajouts d'enregistrement , passer par le protocole ci-dessus.
+Pour les mails et mailing listes, si tu as un sous domaine délégué sur alwaysdata tu peux gérer toi même les adresses et les mailing listes.
+Sinon il s'agira d'une mailing liste ovh : [voir la page à ce sujet](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/outils/liste-de-diffusion-et-adresses-de-contact).
 
 Ont les accès:
 
 * @anna-Livia
 * @florian
-* @julien
 * [pli](https://app.gitbook.com/u/fSfs0pRUfWcVSxNjLWzM5QwYjs92 "mention")
 
 ### Matomo (ex Piwik)
 
-Une instance Matomo est disponible [ici](http://stats.data.gouv.fr). Vous pouvez demander sur 🔒`#incubateur-ops` un compte pour votre Startup.
+Une instance Matomo est disponible [ici](http://stats.data.gouv.fr). Tu poux demander un compte pour ta Startup en remplissant le formulaire de demande d'ops que tu trouveras dans la description du channel `~incubateur-ops` sur mattermost.
 
 Ont les accès:
 
 * @Florian
-* @julien
+* @pli
+* @lucas.charrier
 
 ## Mattermost
 
 Ont les accès:
 
 * @florian.delezenne
-* @julien.dauphant
 * @tristan.robert
 
 ## Docker Hub
