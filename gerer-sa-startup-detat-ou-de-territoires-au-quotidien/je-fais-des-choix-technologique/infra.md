@@ -44,7 +44,7 @@ Ont les accès:
 
 ### Matomo (ex Piwik)
 
-Une instance Matomo est disponible [ici](http://stats.data.gouv.fr). Tu poux demander un compte pour ta Startup en remplissant le formulaire de demande d'ops que tu trouveras dans la description du channel `~incubateur-ops` sur mattermost.
+Une instance Matomo est disponible [ici](http://stats.data.gouv.fr). Tu peux demander un compte pour ta Startup en remplissant le formulaire de demande d'ops que tu trouveras dans la description du channel `~incubateur-ops` sur mattermost.
 
 Ont les accès:
 
