@@ -106,3 +106,16 @@ Si tu n'as pas d'email secondaire, tu peux suivre la procédure : [demander l'aj
 Demander de l'aide sur \#incubateur-secretariat sur Mattermost et y communiquer ton email secondaire en envoyant ce message type :
 `Bonjour, j'ai perdu les accès à mon adresse beta xxx@beta.gouv.fr. Mon adresse secondaire est xxx@yyy.vvv.`
 
+## Dépannage : Je n'arrive plus à acceder à mes emails
+Jusqu'ici, tu recevait tes mails betagouv sans (trop) de soucis. Tout d'un coup, plus rien. Cette section peut t'aider à trouver la solution.
+
+### Tu as dépassé ta date de fin de mission
+Les droits d'accès aux ressources betagouv (sont l'email fait partie) sont lié à la date de fin de mission sur ta fiche menbre.
+Pour savoir si celle-ci est dépassée, tu peux consulter https://beta.gouv.fr/communaute/annuaire . Si ta fiche est n'est plus dans les membres actif, c'est que ta date doit être expirée.
+Tu peux [la mettre à jour](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/outils/mise-a-jour-de-mes-informations)
+
+Une fois mise à jour, tu devras [renouveller le mot de passe de ta boite mail](#Retrouver-mon-mot-de-passe), et mettre à jour ce mot de passe sur [ton client mail](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/emails#2.-configurer-la-reception-et-lenvoi-demails)
+
+#### J'ai besoin d'aide 
+N'hésite pas à demander un coup de main aux personnes de ton équipe, ou d'un ou d'une collègue. 
+Tu peux aussi soliciter l'aide de la communauté sur le chan incubateur-help.
