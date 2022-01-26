@@ -49,6 +49,7 @@ Une instance Matomo est disponible [ici](http://stats.data.gouv.fr). Tu peux dem
 Ont les accès:
 
 * @Florian
+* @julien.dauphant
 * @pli
 * @lucas.charrier
 
