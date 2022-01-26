@@ -58,6 +58,7 @@ Ont les accès:
 Ont les accès:
 
 * @florian.delezenne
+* @julien.dauphant
 * @tristan.robert
 
 ## Docker Hub
