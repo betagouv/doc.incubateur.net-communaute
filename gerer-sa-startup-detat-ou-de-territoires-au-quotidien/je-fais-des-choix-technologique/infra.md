@@ -9,46 +9,37 @@ Par exception à cette règle générale, sur un petit nombre de sujets nous gé
 * certains hébergement PaaS
 * notre Mattermost
 
-### Comment demander de l'aide ?
-
-Tu peux demander de l'aide sur ces sujets sur Mattermost dans 🔒`#incubateur-ops` et, s'il y a un délai important, ouvrir également un ticket dans [Trello](https://trello.com/invite/b/LQONIILQ/44ad5ab3073e83030067cc1b1c8ce968/infra) pour le suivi dans la durée.
-
-Si tu n'as pas de réponse sous 24h, consulte ci-dessous la liste des gens qui ont accès et les droits suffisants, et fais une relance nominative.
-
-### Comment apporter de l'aide ?
-
-Inscris-toi d'abord ci-dessous pour signaler que tu as l'accès aux ressources en question.
-
-* Si tu es dispo quand une demande arrive, réponds en thread sur Mattermost en disant "Je prends"
-* _Seulement_ après, fais ce qu'il faut pour répondre à la demande
-* _Seulement_ après, tu peux mettre une réaction ✅ sur le message d'origine, et répondre "fait"
-* Si on te demande à toi directement et que tu ne souhaite pas prendre, réponds "Je passe"
-
 ## Les services partagés
 
 ### OVH (domaine beta.gouv.fr et adresses mail, mailing lists etc.)
 
-Pour les mails et les [listes](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/outils/liste-de-diffusion-et-adresses-de-contact) c'est automatisé, voir la page à ce sujet.
+#### Demander un sous domaine
 
-Pour la gestion des sous-domaines (ajouts d'enregistrement , passer par le protocole ci-dessus.
+Tu peux demander un sous domaine en suivant la procédure : [demande ops](#comment-faire-une-demande-dops)
+
+#### Mails et mailing listes
+
+Si tu as un sous domaine délégué sur alwaysdata tu peux gérer toi même les adresses et les listes de diffusion (mailing lists) de ce sous-domaine.
+Sinon il s'agira d'une mailing liste ovh : [voir la page à ce sujet](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/outils/liste-de-diffusion-et-adresses-de-contact).
 
 Ont les accès:
 
 * @anna-Livia
 * @florian
-* @julien
 * [pli](https://app.gitbook.com/u/fSfs0pRUfWcVSxNjLWzM5QwYjs92 "mention")
 
 ### Matomo (ex Piwik)
 
-Une instance Matomo est disponible [ici](http://stats.data.gouv.fr). Vous pouvez demander sur 🔒`#incubateur-ops` un compte pour votre Startup.
+Une instance Matomo est disponible [ici](http://stats.data.gouv.fr). Tu peux demander un compte pour ta Startup en suivant la procédure : [demande ops](#comment-faire-une-demande-dops)
 
 Ont les accès:
 
 * @Florian
-* @julien
+* @julien.dauphant
+* @pli
+* @lucas.charrier
 
-## Mattermost
+### Mattermost
 
 Ont les accès:
 
@@ -56,7 +47,7 @@ Ont les accès:
 * @julien.dauphant
 * @tristan.robert
 
-## Docker Hub
+### Docker Hub
 
 On a [un compte](https://hub.docker.com/u/betagouv) pour stocker des images.
 
@@ -73,6 +64,24 @@ Ont les accès:
 * [https://github.com/betagouv/redirections](https://github.com/betagouv/redirections)
 * [https://metabase.incubateur.net/](https://metabase.incubateur.net)
 * [https://dashlord.incubateur.net/](https://dashlord.incubateur.net/#/)
+
+## Comment faire une demande d'ops
+
+Pour toute demande d'ops (sous-domaine, matomo, sentry, etc) remplis le formulaire de demande d'ops que tu trouveras dans la description du channel `~incubateur-ops` sur mattermost.
+Afin d'éviter de multiples aller-retour n'hésite pas à fournir le maximum d'information dans le champ "note".
+
+Si tu n'as pas de réponse sous 24h, consulte la liste des gens qui ont accès et les droits suffisants, et fais une relance nominative.
+
+Tu peux demander de l'aide sur ces sujets sur Mattermost dans 🔒`~incubateur-ops`.
+
+## Comment apporter de l'aide ?
+
+Inscris-toi d'abord ci-dessous pour signaler que tu as l'accès aux ressources en question.
+
+* Si tu es dispo quand une demande arrive, réponds en thread sur Mattermost en disant "Je prends"
+* _Seulement_ après, fais ce qu'il faut pour répondre à la demande
+* _Seulement_ après, tu peux mettre une réaction ✅ sur le message d'origine, et répondre "fait"
+* Si on te demande à toi directement et que tu ne souhaite pas prendre, réponds "Je passe"
 
 ## Services pratiques pour lancer un site Web
 
