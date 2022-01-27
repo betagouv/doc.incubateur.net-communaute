@@ -9,12 +9,6 @@ Par exception à cette règle générale, sur un petit nombre de sujets nous gé
 * certains hébergement PaaS
 * notre Mattermost
 
-### Comment demander de l'aide ?
-
-Tu peux demander de l'aide sur ces sujets sur Mattermost dans 🔒`#incubateur-ops`.
-
-Si tu n'as pas de réponse sous 24h, consulte ci-dessous la liste des gens qui ont accès et les droits suffisants, et fais une relance nominative.
-
 ### Comment apporter de l'aide ?
 
 Inscris-toi d'abord ci-dessous pour signaler que tu as l'accès aux ressources en question.
@@ -30,9 +24,10 @@ Inscris-toi d'abord ci-dessous pour signaler que tu as l'accès aux ressources e
 
 #### Demander un sous domaine
 
-Pour demander un sous domaine, remplis le formulaire de demande d'ops que tu trouveras dans la description du channel `~incubateur-ops` sur mattermost.
+Tu peux demander un sous domaine en suivant la procédure : [demande ops](#Comment faire-une-demande-d-ops)
 
 #### Mails et mailing listes
+
 Si tu as un sous domaine délégué sur alwaysdata tu peux gérer toi même les adresses et les listes de diffusion (mailing lists) de ce sous-domaine .
 Sinon il s'agira d'une mailing liste ovh : [voir la page à ce sujet](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/outils/liste-de-diffusion-et-adresses-de-contact).
 
@@ -44,7 +39,7 @@ Ont les accès:
 
 ### Matomo (ex Piwik)
 
-Une instance Matomo est disponible [ici](http://stats.data.gouv.fr). Tu peux demander un compte pour ta Startup en remplissant le formulaire de demande d'ops que tu trouveras dans la description du channel `~incubateur-ops` sur mattermost.
+Une instance Matomo est disponible [ici](http://stats.data.gouv.fr). Tu peux demander un compte pour ta Startup en suivant la procédure : [demande ops](#Comment faire-une-demande-d-ops)
 
 Ont les accès:
 
@@ -70,6 +65,15 @@ Ont les accès:
 * @florian
 * @jerome
 * @totakoko
+
+## Comment faire une demande d'ops
+
+Pour toute demande d'ops (sous-domaine, matomo, sentry, etc) remplis le formulaire de demande d'ops que tu trouveras dans la description du channel `~incubateur-ops` sur mattermost.
+Afin d'éviter de multiples aller-retour n'hésite pas à fournir le maximum d'information dans le champ "note".
+
+Si tu n'as pas de réponse sous 24h, consulte la liste des gens qui ont accès et les droits suffisants, et fais une relance nominative.
+
+Tu peux demander de l'aide sur ces sujets sur Mattermost dans 🔒`~incubateur-ops`.
 
 ## Autres ressources partagées
 
