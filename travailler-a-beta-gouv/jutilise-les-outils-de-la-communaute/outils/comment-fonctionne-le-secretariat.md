@@ -62,7 +62,7 @@ Si tu n'utilises pas ton email @beta.gouv.fr tu peux sur [https://secretariat.in
 
 ⚠️ Attention l'email `@beta.gouv.fr` sera alors supprimé, donc si tu l'utilises sur certains services il faudra penser à mettre à jour l'email utilisé avant de faire le changement.
 
-C'est le cas notamment pour Mattermost pour lequel la mise à jour de l'email est obligatoire avant de pouvoir effectuer le changement (voir [maj email mattermost](#mettre-a-jour-lemail-dans-mattermost)).
+C'est le cas notamment pour Mattermost pour lequel la mise à jour de l'email est obligatoire avant de pouvoir effectuer le changement (voir [mettre à jour l'email mattermost](#mettre-a-jour-lemail-dans-mattermost)).
 
 Tu peux retrouver cette fonctionnalité en te rendant dans [Secretariat > Mon Compte > Configurer mon email principal](https://secretariat.incubateur.net/account#change-primary-email).
 
