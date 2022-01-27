@@ -4,9 +4,11 @@
 
 {% embed url="https://doc.incubateur.net/communaute/travailler-a-beta-gouv/bienvenue/premier-pas-indispensable-creer-ta-fiche-membre#1.-pour-demarrer-au-plus-vite-commence-par-creer-ta-fiche-membre" %}
 
-Si tu es nouveau ou nouvelle chez beta, ton compte Mattermost sera créé par bot une fois que ton profil de membre a été créé. Tu reçois un email sur l'adresse de ton compte t'informant de se création (par défaut ton adresse @beta.gouv.fr si tu en as une)
+Si tu es nouveau ou nouvelle chez beta, ton compte Mattermost sera créé par bot une fois que ton profil de membre a été créé. Tu reçois un email sur l'adresse de ton compte t'informant de sa création (par défaut ton adresse @beta.gouv.fr si tu en as une).
 
-## Etape 1.  Clique sur [https://mattermost.incubateur.net/](https://mattermost.incubateur.net/\*\*]\(https://mattermost.incubateur.net/\)\*\*\*\*) ou télécharge l'app
+
+## Etape 1. Clique sur [https://mattermost.incubateur.net/](https://mattermost.incubateur.net/\*\*]\(https://mattermost.incubateur.net/\)\*\*\*\*) ou télécharge l'app
+
 
 {% hint style="info" %}
 Pour optimiser l'expérience, nous te conseillons de télécharger l'application Mattermost sur ordinateur et mobile : [liens de téléchargement](https://mattermost.com/download/#).
@@ -26,7 +28,8 @@ Ton compte a été créé à la validation de ton profil. Il te faut simplement 
 
 ![](https://lh6.googleusercontent.com/dmzmqbVoDmbXpOsSfIVTXLirn\_\_E01dYadqfTmXUQaXzXkpCLNsPM24xi\_2dgEMDoaMoyMyI6Gbq-o-Cs0hx9nQo7RntZghW4aDH7bsuayaQX5uvq7Y8w72i9OyHIqJOW4AYRW9Y)
 
-### C. Clique sur le lien contenu dans l’email et configure ton mot de passe avec les contraintes suivante
+### C. Clique sur le lien contenu dans l’email et configure ton mot de passe avec les contraintes suivantes
+
 
 * 20-64 caractères&#x20;
 
@@ -34,7 +37,7 @@ Ton compte a été créé à la validation de ton profil. Il te faut simplement 
 #### **Dans le cas où ton adresse beta n’est pas reconnue, merci de nous prévenir par email secretariat@incubateur.net  pour que nous débloquions la situation.**
 {% endhint %}
 
-## **Etape 3** : Changes ton “Nom d'utilisateur” par "prenom.nom"
+## **Etape 3** : Change ton “Nom d'utilisateur” par "prenom.nom"
 
 * Clique sur l'icône ![](https://lh5.googleusercontent.com/De8PjC5doIaIMGFuuR95dlnmOZWxJuHqp3BAAyiIxJMuygtt\_LWY6EUka0-mutJvKVOqTvnVL\_fTD\_lGJ8AmxzfrPXfnOoxL9eatGe1i6y8kKBPlgjvjQ\_sg8zRTEJY8ok-TfUuD)
 
