@@ -64,7 +64,7 @@ Si tu n'utilises pas ton email @beta.gouv.fr tu peux sur [https://secretariat.in
 
 C'est le cas notamment pour Mattermost pour lequel la mise à jour de l'email est obligatoire avant de pouvoir effectuer le changement (voir [maj email mattermost](#mettre-a-jour-lemail-dans-mattermost)).
 
-Tu peux retrouver cette fonctionnalité en te rendant dans [Secretariat > Mon Compte > Configurer mon email principal](https://secretariat.incubateur.net/account#change-primary-email)
+Tu peux retrouver cette fonctionnalité en te rendant dans [Secretariat > Mon Compte > Configurer mon email principal](https://secretariat.incubateur.net/account#change-primary-email).
 
 ### Mettre à jour l'email dans mattermost
 
@@ -76,4 +76,4 @@ L'email secondaire permet de se connecter au secretariat en cas d'oublie ou chan
 
 Il est utile notamment dans ce cas afin d'accéder au secretariat pour y redéfinir un nouveau mot de passe ainsi que pour diverse communication au moment de la fin de mission.
 
-Tu peux retrouver cette fonctionnalité en te rendant dans [Secretariat > Mon Compte > Configurer mon email secondaire](https://secretariat.incubateur.net/account#change-secondary-email)
+Tu peux retrouver cette fonctionnalité en te rendant dans [Secretariat > Mon Compte > Configurer mon email secondaire](https://secretariat.incubateur.net/account#change-secondary-email).
