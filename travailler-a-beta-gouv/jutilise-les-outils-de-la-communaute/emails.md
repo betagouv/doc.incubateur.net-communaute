@@ -110,7 +110,7 @@ Demander de l'aide sur \#incubateur-secretariat sur Mattermost et y communiquer 
 Jusqu'ici, tu recevait tes mails betagouv sans (trop) de soucis. Tout d'un coup, plus rien. Cette section peut t'aider à trouver la solution.
 
 ### Tu as dépassé ta date de fin de mission
-Les droits d'accès aux ressources betagouv (sont l'email fait partie) sont lié à la date de fin de mission sur ta fiche menbre.
+Les droits d'accès aux ressources betagouv (dont l'email fait partie) sont liés à la date de fin de mission sur ta fiche membre.
 Pour savoir si celle-ci est dépassée, tu peux consulter https://beta.gouv.fr/communaute/annuaire . Si ta fiche est n'est plus dans les membres actif, c'est que ta date doit être expirée.
 Tu peux [la mettre à jour](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/outils/mise-a-jour-de-mes-informations)
 
