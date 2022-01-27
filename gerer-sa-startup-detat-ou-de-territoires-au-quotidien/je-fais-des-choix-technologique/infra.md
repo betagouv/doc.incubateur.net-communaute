@@ -9,26 +9,17 @@ Par exception à cette règle générale, sur un petit nombre de sujets nous gé
 * certains hébergement PaaS
 * notre Mattermost
 
-### Comment apporter de l'aide ?
-
-Inscris-toi d'abord ci-dessous pour signaler que tu as l'accès aux ressources en question.
-
-* Si tu es dispo quand une demande arrive, réponds en thread sur Mattermost en disant "Je prends"
-* _Seulement_ après, fais ce qu'il faut pour répondre à la demande
-* _Seulement_ après, tu peux mettre une réaction ✅ sur le message d'origine, et répondre "fait"
-* Si on te demande à toi directement et que tu ne souhaite pas prendre, réponds "Je passe"
-
 ## Les services partagés
 
 ### OVH (domaine beta.gouv.fr et adresses mail, mailing lists etc.)
 
 #### Demander un sous domaine
 
-Tu peux demander un sous domaine en suivant la procédure : [demande ops](#Comment faire-une-demande-d-ops)
+Tu peux demander un sous domaine en suivant la procédure : [demande ops](#comment-faire-une-demande-dops)
 
 #### Mails et mailing listes
 
-Si tu as un sous domaine délégué sur alwaysdata tu peux gérer toi même les adresses et les listes de diffusion (mailing lists) de ce sous-domaine .
+Si tu as un sous domaine délégué sur alwaysdata tu peux gérer toi même les adresses et les listes de diffusion (mailing lists) de ce sous-domaine.
 Sinon il s'agira d'une mailing liste ovh : [voir la page à ce sujet](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/outils/liste-de-diffusion-et-adresses-de-contact).
 
 Ont les accès:
@@ -39,7 +30,7 @@ Ont les accès:
 
 ### Matomo (ex Piwik)
 
-Une instance Matomo est disponible [ici](http://stats.data.gouv.fr). Tu peux demander un compte pour ta Startup en suivant la procédure : [demande ops](#Comment faire-une-demande-d-ops)
+Une instance Matomo est disponible [ici](http://stats.data.gouv.fr). Tu peux demander un compte pour ta Startup en suivant la procédure : [demande ops](#comment-faire-une-demande-dops)
 
 Ont les accès:
 
@@ -48,7 +39,7 @@ Ont les accès:
 * @pli
 * @lucas.charrier
 
-## Mattermost
+### Mattermost
 
 Ont les accès:
 
@@ -56,7 +47,7 @@ Ont les accès:
 * @julien.dauphant
 * @tristan.robert
 
-## Docker Hub
+### Docker Hub
 
 On a [un compte](https://hub.docker.com/u/betagouv) pour stocker des images.
 
@@ -65,6 +56,14 @@ Ont les accès:
 * @florian
 * @jerome
 * @totakoko
+
+## Autres ressources partagées
+
+* Sentry
+* [https://template.incubateur.net/](https://template.incubateur.net)
+* [https://github.com/betagouv/redirections](https://github.com/betagouv/redirections)
+* [https://metabase.incubateur.net/](https://metabase.incubateur.net)
+* [https://dashlord.incubateur.net/](https://dashlord.incubateur.net/#/)
 
 ## Comment faire une demande d'ops
 
@@ -75,13 +74,14 @@ Si tu n'as pas de réponse sous 24h, consulte la liste des gens qui ont accès e
 
 Tu peux demander de l'aide sur ces sujets sur Mattermost dans 🔒`~incubateur-ops`.
 
-## Autres ressources partagées
+## Comment apporter de l'aide ?
 
-* Sentry
-* [https://template.incubateur.net/](https://template.incubateur.net)
-* [https://github.com/betagouv/redirections](https://github.com/betagouv/redirections)
-* [https://metabase.incubateur.net/](https://metabase.incubateur.net)
-* [https://dashlord.incubateur.net/](https://dashlord.incubateur.net/#/)
+Inscris-toi d'abord ci-dessous pour signaler que tu as l'accès aux ressources en question.
+
+* Si tu es dispo quand une demande arrive, réponds en thread sur Mattermost en disant "Je prends"
+* _Seulement_ après, fais ce qu'il faut pour répondre à la demande
+* _Seulement_ après, tu peux mettre une réaction ✅ sur le message d'origine, et répondre "fait"
+* Si on te demande à toi directement et que tu ne souhaite pas prendre, réponds "Je passe"
 
 ## Services pratiques pour lancer un site Web
 
