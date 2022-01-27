@@ -13,7 +13,7 @@ Le secrétariat est un ensemble de processus automatisés qui gère les membres 
 * Gestion de l'abonnement/desabonnement des mailing list
 * API du site, API de l'infra
 * Formulaires de demandes d'accès aux outils ops
-* Netlify pour le CMS du site ([https://beta.gouv.fr/admin ](https://beta.gouv.fr/admin) ?)
+* Netlify pour le CMS du site ([https://beta.gouv.fr/admin ](https://beta.gouv.fr/admin))
 
 ## Quels sont les processus automatisés
 
@@ -55,12 +55,12 @@ J+30 : Ton compte email @betagouv est supprimé
 
 ## Changer son email principal
 
-Auparavant l'email `@beta.gouv.fr` était obligatoire pour pouvoir avoir une fiche membre beta.gouv.fr et accès aux différents outils de la communauté.
+Auparavant l'email **@beta.gouv.f** était obligatoire pour pouvoir avoir une fiche membre **@beta.gouv.f** et accès aux différents outils de la communauté.
 Ce n'est plus le cas pour les personnes qui possèdent déjà un email d'agent public (@pole-emploi.fr, @modernisation.gouv.fr, ...).
 
-Si tu n'utilises pas ton email @beta.gouv.fr tu peux sur [https://secretariat.incubateur.net](https://secretariat.incubateur.net) changer ton adresse principale pour cet email d'agent public.
+Si tu n'utilises pas ton email **@beta.gouv.f** tu peux sur [https://secretariat.incubateur.net](https://secretariat.incubateur.net) changer ton adresse principale pour cet email d'agent public.
 
-⚠️ Attention l'email `@beta.gouv.fr` sera alors supprimé, donc si tu l'utilises sur certains services il faudra penser à mettre à jour l'email utilisé avant de faire le changement.
+⚠️ Attention l'email **@beta.gouv.f** sera alors supprimé, donc si tu l'utilises sur certains services il faudra penser à mettre à jour l'email utilisé avant de faire le changement.
 
 C'est le cas notamment pour Mattermost pour lequel la mise à jour de l'email est obligatoire avant de pouvoir effectuer le changement (voir [mettre à jour l'email mattermost](#mettre-a-jour-lemail-dans-mattermost)).
 
