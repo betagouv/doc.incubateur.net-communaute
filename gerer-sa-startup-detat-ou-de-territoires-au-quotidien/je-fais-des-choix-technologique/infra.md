@@ -33,7 +33,7 @@ Inscris-toi d'abord ci-dessous pour signaler que tu as l'accès aux ressources e
 Pour demander un sous domaine, remplis le formulaire de demande d'ops que tu trouveras dans la description du channel `~incubateur-ops` sur mattermost.
 
 #### Mails et mailing listes
-Pour les mails et mailing listes, si tu as un sous domaine délégué sur alwaysdata tu peux gérer toi même les adresses et les mailing listes.
+Si tu as un sous domaine délégué sur alwaysdata tu peux gérer toi même les adresses et les listes de diffusion (mailing lists) de ce sous-domaine .
 Sinon il s'agira d'une mailing liste ovh : [voir la page à ce sujet](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/outils/liste-de-diffusion-et-adresses-de-contact).
 
 Ont les accès:
