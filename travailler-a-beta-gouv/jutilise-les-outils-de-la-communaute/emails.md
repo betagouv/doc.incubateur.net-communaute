@@ -107,7 +107,7 @@ Demander de l'aide sur \#incubateur-secretariat sur Mattermost et y communiquer 
 `Bonjour, j'ai perdu les accès à mon adresse beta xxx@beta.gouv.fr. Mon adresse secondaire est xxx@yyy.vvv.`
 
 ## Dépannage : Je n'arrive plus à acceder à mes emails
-Jusqu'ici, tu recevait tes mails betagouv sans (trop) de soucis. Tout d'un coup, plus rien. Cette section peut t'aider à trouver la solution.
+Jusqu'ici, tu recevais tes mails betagouv sans (trop) de soucis. Tout d'un coup, plus rien. Cette section peut t'aider à trouver la solution.
 
 ### Tu as dépassé ta date de fin de mission
 Les droits d'accès aux ressources betagouv (dont l'email fait partie) sont liés à la date de fin de mission sur ta fiche membre.
