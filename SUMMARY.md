@@ -268,7 +268,7 @@
   * [Choisir son nom de domaine](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/choisir-son-nom-de-domaine.md)
   * [Choisir des technologies](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/choisir-des-technologies.md)
   * [Infra](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/infra.md)
-* [👩⚖ 👩⚖ 👩⚖ 👩⚖ 👩⚖ 👩⚖ Cadrer juridiquement son produit](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/cadrer-juridiquement-son-produit/README.md)
+* [🧑⚖ Cadrer juridiquement son produit](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/cadrer-juridiquement-son-produit/README.md)
   * [Faire une liste d'entreprises non-exhaustive](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/cadrer-juridiquement-son-produit/faire-une-liste-dentreprises-non-exhaustive.md)
   * [Concurrence avec le secteur privé](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/cadrer-juridiquement-son-produit/concurrence-avec-le-secteur-prive.md)
 * [🔐 Sécuriser son produit](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-securise-mon-produit/README.md)
