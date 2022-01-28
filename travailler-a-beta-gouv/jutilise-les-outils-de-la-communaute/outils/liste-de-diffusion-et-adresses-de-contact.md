@@ -8,7 +8,7 @@ Les mailing-lists suivantes sont disponibles. Toutes les adresses sont à _postf
 | `compta`      | Achats, facturation, re-facturation…                                                                            | Membres volontaires.                                        | Prestataires. Interlocuteurs DINUM. Administrations partenaires. |
 | `incubateur`  |                                                                                                                 | Tous les [membres actifs](https://beta.gouv.fr/communaute). | Membres. Secrétariat.                                            |
 | `recrutement` | Candidatures.                                                                                                   | Membres volontaires.                                        | Candidats. Secrétariat.                                          |
-| `dinsic`      | Rares éléments administratifs nécessitant un lien contractuel (fiches de paie, gestion des ordres de mission…). | Membres agents de la DINUM.                                 | Secrétariat. Hiérarchie DINUM.                                   |
+| `dinum`      | Rares éléments administratifs nécessitant un lien contractuel (fiches de paie, gestion des ordres de mission…). | Membres agents de la DINUM.                                 | Secrétariat. Hiérarchie DINUM.                                   |
 | `alumni`      | Nouvelles de l'incubateur, possibilités de retrouvailles.                                                       | Ex membres n'ayant plus de relation contractuelle.          | Membres.                                                         |
 | `coachs`      | Discussions, tips, infos sur le coaching de Startups d'Etat                                                     | Membres volontaires.                                        | Les membres de la NL.                                            |
 | `onboarding`  | Embarquement des nouvelles et des nouveaux                                                                      | Membres volontaires.                                        | Marrains. Parraines.                                             |
@@ -23,7 +23,7 @@ Pour créer une nouvelle adresse de contact, il faut demander un admin OVH sur [
 ### Détails de la commande
 
 {% hint style="info" %}
-Attention : ces commandes fonctionnent uniquement dans le canal 🔒[`#incubateur-ops`](https://mattermost.incubateur.net/betagouv/channels/incubateur-ops)sur Mattermost.
+Attention : ces commandes fonctionnent uniquement dans le canal 🔒[`#incubateur-secretaria`](https://mattermost.incubateur.net/betagouv/channels/incubateur-secretaria)sur Mattermost.
 {% endhint %}
 
 * `/emails list` : affiche les listes de diffusions existantes
