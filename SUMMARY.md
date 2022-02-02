@@ -4,7 +4,8 @@
 * [Je suis membre d'une Startup d'Etat ou de Territoires](je-travaille-ou-vais-travailler-chez-beta.gouv/README.md)
   * [Comprendre le mode de gestion de la communauté : recrutement, culture de travail, formation...](je-travaille-ou-vais-travailler-chez-beta.gouv/comprendre-le-mode-de-gestion-de-la-communaute-recrutement-culture-de-travail-formation....md)
   * [Comprendre la gestion de mon produit : étapes clefs, impact, design, sécurité, acquisition...](je-travaille-ou-vais-travailler-chez-beta.gouv/comprendre-la-gestion-de-mon-produit-etapes-clefs-impact-design-securite-acquisition....md)
-* [Je souhaite découvrir beta.gouv](je-ne-travaille-pas-chez-beta.gouv.md)
+* [Je souhaite découvrir beta.gouv](je-ne-travaille-pas-chez-beta.gouv/README.md)
+  * [Bilan 2021 du programme beta.gouv](je-ne-travaille-pas-chez-beta.gouv/bilan-2021-du-programme-beta.gouv.md)
 
 ## Travailler chez Beta.Gouv <a href="#travailler-a-beta-gouv" id="travailler-a-beta-gouv"></a>
 
@@ -273,7 +274,7 @@
   * [Choisir son nom de domaine](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/choisir-son-nom-de-domaine.md)
   * [Choisir des technologies](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/choisir-des-technologies.md)
   * [Infra](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/infra.md)
-* [🧑⚖ Cadrer juridiquement son produit](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/cadrer-juridiquement-son-produit/README.md)
+* [🧑⚖ 🧑⚖ Cadrer juridiquement son produit](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/cadrer-juridiquement-son-produit/README.md)
   * [Faire une liste d'entreprises non-exhaustive](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/cadrer-juridiquement-son-produit/faire-une-liste-dentreprises-non-exhaustive.md)
   * [Concurrence avec le secteur privé](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/cadrer-juridiquement-son-produit/concurrence-avec-le-secteur-prive.md)
 * [🔐 Sécuriser son produit](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-securise-mon-produit/README.md)
