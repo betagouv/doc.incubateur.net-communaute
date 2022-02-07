@@ -36,16 +36,16 @@ Ce guide est un espace commun à [tous les incubateurs](https://beta.gouv.fr/com
 
 ### Ressources les plus consultées de ce guide
 
-{% content-ref url="travailler-a-beta-gouv/bienvenue/" %}
-[bienvenue](travailler-a-beta-gouv/bienvenue/)
+{% content-ref url="travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/emails/depannage-je-nai-plus-acces-a-mon-mail.md" %}
+[depannage-je-nai-plus-acces-a-mon-mail.md](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/emails/depannage-je-nai-plus-acces-a-mon-mail.md)
 {% endcontent-ref %}
 
 {% content-ref url="decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/locaux/badge-pour-travailler-a-segur/" %}
 [badge-pour-travailler-a-segur](decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/locaux/badge-pour-travailler-a-segur/)
 {% endcontent-ref %}
 
-{% content-ref url="travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/mattermost/" %}
-[mattermost](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/mattermost/)
+{% content-ref url="travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/mattermost/comment-rejoindre-lespace-mattermost-de-beta.md" %}
+[comment-rejoindre-lespace-mattermost-de-beta.md](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/mattermost/comment-rejoindre-lespace-mattermost-de-beta.md)
 {% endcontent-ref %}
 
 {% content-ref url="travailler-a-beta-gouv/recrutement/remuneration.md" %}
@@ -58,10 +58,6 @@ Ce guide est un espace commun à [tous les incubateurs](https://beta.gouv.fr/com
 
 {% content-ref url="gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/accessibilite-et-rgaa/" %}
 [accessibilite-et-rgaa](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/accessibilite-et-rgaa/)
-{% endcontent-ref %}
-
-{% content-ref url="travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/emails.md" %}
-[emails.md](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/emails.md)
 {% endcontent-ref %}
 
 {% content-ref url="travailler-a-beta-gouv/recrutement/" %}
