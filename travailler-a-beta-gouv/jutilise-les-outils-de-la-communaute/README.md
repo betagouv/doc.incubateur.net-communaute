@@ -24,7 +24,7 @@ description: >-
 [github](github/)
 {% endcontent-ref %}
 
-### Documentation&#x20;
+### Documentation
 
 {% content-ref url="gitbook/" %}
 [gitbook](gitbook/)
@@ -44,8 +44,8 @@ description: >-
 [outils](outils/)
 {% endcontent-ref %}
 
-{% content-ref url="emails.md" %}
-[emails.md](emails.md)
+{% content-ref url="emails/" %}
+[emails](emails/)
 {% endcontent-ref %}
 
 ### Pour gérer sa Startup d'État
@@ -65,4 +65,3 @@ description: >-
 {% content-ref url="dashlane.md" %}
 [dashlane.md](dashlane.md)
 {% endcontent-ref %}
-
