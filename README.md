@@ -1,10 +1,8 @@
 ---
-# Page 1
 description: >-
   🧭 Toutes les ressources pour aider les membres de la communauté à s'y
   retrouver dans l'organisation beta.gouv.fr.
 ---
-
 
 # Bienvenue sur le guide de la communauté beta.gouv
 
@@ -18,8 +16,8 @@ description: >-
 [je-travaille-dans-une-startup-detat.md](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/marches-publics-beta.gouv.fr/marche-interministeriel-beta/je-travaille-dans-une-startup-detat.md)
 {% endcontent-ref %}
 
-{% content-ref url="je-ne-travaille-pas-chez-beta.gouv.md" %}
-[je-ne-travaille-pas-chez-beta.gouv.md](je-ne-travaille-pas-chez-beta.gouv.md)
+{% content-ref url="je-ne-travaille-pas-chez-beta.gouv/" %}
+[je-ne-travaille-pas-chez-beta.gouv](je-ne-travaille-pas-chez-beta.gouv/)
 {% endcontent-ref %}
 
 ### \*\*\*\*
