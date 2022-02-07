@@ -33,7 +33,11 @@ Attention : ces commandes fonctionnent uniquement dans le canal 🔒[`#incubateu
 
 Exemples :
 
-* /emails join contact jean.louis@beta.gouv.fr : ajouter jean.louis@beta.gouv.fr à la liste contact@beta.gouv.fr
+* /emails join cartobio jean.louis@beta.gouv.fr : ajouter jean.louis@beta.gouv.fr à la liste cartobio@beta.gouv.fr
+
+Pour un cas particulier de liste rattachée a un sous domaine beta comme *contact@covoiturage.beta.gouv.fr* le nom de la liste est à mettre avec le *@soudomaine.beta.gouv.fr* :
+
+* /emails join contact@covoiturage.beta.gouv.fr jean.louis@beta.gouv.fr : ajouter jean.louis@beta.gouv.fr à la liste contact@covoiturage.beta.gouv.fr
 
 _Commande implémentée par_ [_`slack-ovh`_](https://github.com/sgmap/slack-ovh) _et hébergée sur le Heroku de l'Incubateur._
 
