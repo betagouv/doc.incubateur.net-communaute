@@ -7,6 +7,10 @@
 
 Dans tous les cas vous pouvez demander de l'aide sur Mattermost `#incubateur-help` ou par email sur `contact@beta.gouv.fr`
 
+{% hint style="info" %}
+:movie\_camera: Le replay de la dernière formation **Git et GitHub pour les non-Devs** est disponible [ici](https://bbb-dinum-scalelite.visio.education.fr/playback/presentation/2.3/8ee526fca9400cc6d29be8255d42a6f8b9d71ac9-1642668864964)&#x20;
+{% endhint %}
+
 ## Je créé un compte Github
 
 * Inscris-toi sur le site de Github : [https://github.com/join](https://github.com/join)
@@ -26,7 +30,7 @@ Dans tous les cas vous pouvez demander de l'aide sur Mattermost `#incubateur-hel
 * Github va afficher des "Recovery codes"
   * Imprime ces codes et garde les dans un coin. A défaut, sauvegarde les de manière sécurisé
 * Github doit te proposer de saisir un code pour confirmer la procédure (soit le code est envoyé par sms, soit tu dois ouvrir l'application qui gére tes codes)
-* Mets ta photo (ou une image personnalisé si tu ne veux pas diffuser ta photo) sur Github, dans ["Settings", "Profile"](https://github.com/settings/profile)&#x20;
+* Mets ta photo (ou une image personnalisé si tu ne veux pas diffuser ta photo) sur Github, dans ["Settings", "Profile"](https://github.com/settings/profile)
   * :point\_right:c'est la photo qui servira pour la page communauté de beta.gouv.fr
 
 ## Faire une modification sur le site beta.gouv.fr
