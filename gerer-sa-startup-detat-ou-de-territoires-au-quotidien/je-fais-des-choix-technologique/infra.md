@@ -26,7 +26,7 @@ Ont les accès:
 
 * @anna-Livia
 * @florian
-* [pli](https://app.gitbook.com/u/fSfs0pRUfWcVSxNjLWzM5QwYjs92 "mention")
+* @pli
 
 ### Matomo (ex Piwik)
 
@@ -149,5 +149,5 @@ Schéma - Choisir son hébergeur
 * AlwaysData : Français, permet d'héberger DNS et emails sur domaine de second niveau, compris dans l'offre gratuite de base
 * PointDNS : US, hébergement DNS uniquement, à utiliser si vous pouvez prendre un service qui n'et pas en Europe.
 
-> Les services cloud Américains comme AWS permette de gérer les DNS d'un domaine de second niveau (à vérifier pour les emails). A vérifier, si vous pouvez en faire usage pour des raisons réglementaires ou d'images.
+> Les services cloud Américains comme AWS permettent de gérer les DNS d'un domaine de second niveau (à vérifier pour les emails). A vérifier, si vous pouvez en faire usage pour des raisons réglementaires ou d'images.
 
