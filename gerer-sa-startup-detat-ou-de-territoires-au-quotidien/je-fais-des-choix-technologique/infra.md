@@ -15,12 +15,11 @@ Par exception à cette règle générale, sur un petit nombre de sujets nous gé
 
 #### Demander un sous domaine
 
-Tu peux demander un sous domaine en suivant la procédure : [demande ops](#comment-faire-une-demande-dops)
+Tu peux demander un sous domaine en suivant la procédure : [demande ops](infra.md#comment-faire-une-demande-dops)
 
 #### Mails et mailing listes
 
-Si tu as un sous domaine délégué sur alwaysdata tu peux gérer toi même les adresses et les listes de diffusion (mailing lists) de ce sous-domaine.
-Sinon il s'agira d'une mailing liste ovh : [voir la page à ce sujet](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/outils/liste-de-diffusion-et-adresses-de-contact).
+Si tu as un sous domaine délégué sur alwaysdata tu peux gérer toi même les adresses et les listes de diffusion (mailing lists) de ce sous-domaine. Sinon il s'agira d'une mailing liste ovh : [voir la page à ce sujet](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/outils/liste-de-diffusion-et-adresses-de-contact).
 
 Ont les accès:
 
@@ -30,7 +29,7 @@ Ont les accès:
 
 ### Matomo (ex Piwik)
 
-Une instance Matomo est disponible [ici](http://stats.data.gouv.fr). Tu peux demander un compte pour ta Startup en suivant la procédure : [demande ops](#comment-faire-une-demande-dops)
+Une instance Matomo est disponible [ici](http://stats.data.gouv.fr). Tu peux demander un compte pour ta Startup en suivant la procédure : [demande ops](infra.md#comment-faire-une-demande-dops)
 
 Ont les accès:
 
@@ -67,8 +66,7 @@ Ont les accès:
 
 ## Comment faire une demande d'ops
 
-Pour toute demande d'ops (sous-domaine, matomo, sentry, etc) remplis le formulaire de demande d'ops que tu trouveras dans la description du channel `~incubateur-ops` sur mattermost.
-Afin d'éviter de multiples aller-retour n'hésite pas à fournir le maximum d'information dans le champ "note".
+Pour toute demande d'ops (sous-domaine, matomo, sentry, etc) remplis le formulaire de demande d'ops que tu trouveras dans la description du channel `~incubateur-ops` sur mattermost. Afin d'éviter de multiples aller-retour n'hésite pas à fournir le maximum d'information dans le champ "note".
 
 Si tu n'as pas de réponse sous 24h, consulte la liste des gens qui ont accès et les droits suffisants, et fais une relance nominative.
 
@@ -93,6 +91,16 @@ Un certain nombre de startups utilisent des services de déploiement facile de s
 * Sendinblue
 
 Nous avons longtemps proposé l'accès mutualisé une instance partagée de Mailjet mais pour diverses raisons techniques ce dispositif s'avère trop pénible à opérer. Nous invitons les équipes à se doter de leur propre compte.
+
+Ces services de mailing ont une réputation à préserver pour ne pas être blacklistés par les outils anti-spam. Leur réputation est vitale pour ces services. La frontière entre newsletters envoyées en masse et spam est très mince. Pour la protéger, ils peuvent donc être amener à mettre en place des règles d'usage très strictes ([Politiques d'Usage Acceptables](https://fr.mailjet.com/sending-policy/)) et qui, si elles sont enfreints, peuvent les amener à vous exclure rapidement et définitivement de leur service. Afin de ne pas se faire évincer de leur service, il faut donc penser à prendre quelques précautions dans votre usage:
+
+* Pour éviter le dépassement de seuil sur la partie marketing et ainsi ne pas être bloqué dans l’envoi des mails transactionnels vitaux pour le service, pensez à créer tout de suite des sous-comptes afin de séparer les environnements marketing et transactionnel
+* Ajouter une case à cocher sur la page d’inscription à vos newsletter (mailing marketing) afin de recueillir l'indispensable consentement explicite des personnes visées
+* Purger régulièrement ses contacts (destinataires et abonnés des newsletters) en retirant des listes d’envoi les courriels des personnes qui se sont désabonnées
+
+
+
+
 
 ### Hébergement d'un site statique
 
@@ -140,8 +148,6 @@ Voici des recommandations d'hébergeur permettant de louer machine virtuel ou se
 Schéma - Choisir son hébergeur
 {% endfile %}
 
-
-
 ### Recommandation d'hébergement DNS et Emails pour un sous-domaine beta.gouv.fr
 
 > Le domaine principal beta.gouv.fr est géré sur OVH, il n'y a pas de garantie pour la modification DNS par un des admins volontaires. C'est pour ça que nous vous incitons à gérer vous mêmes vos DNS et EMAIL sur votre sous-domaine. Nous avons identifié peu de fournisseurs à recommander permettant de faire ça sur un domaine de second niveau.
@@ -150,4 +156,3 @@ Schéma - Choisir son hébergeur
 * PointDNS : US, hébergement DNS uniquement, à utiliser si vous pouvez prendre un service qui n'et pas en Europe.
 
 > Les services cloud Américains comme AWS permettent de gérer les DNS d'un domaine de second niveau (à vérifier pour les emails). A vérifier, si vous pouvez en faire usage pour des raisons réglementaires ou d'images.
-
