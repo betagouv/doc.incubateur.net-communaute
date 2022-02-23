@@ -34,6 +34,10 @@ Utiliser la barre de recherche, en haut à droite de l'écran **"Rechercher"**
 [gerer-son-incubateur.md](../decouvrir-les-guides-des-autres-incubateurs/gerer-son-incubateur.md)
 {% endcontent-ref %}
 
+{% content-ref url="organiser-une-formation-alpha.md" %}
+[organiser-une-formation-alpha.md](organiser-une-formation-alpha.md)
+{% endcontent-ref %}
+
 ## 4. Je suis journaliste
 
 On te laisse explorer ce guide et notre site internet.

@@ -8,7 +8,7 @@ description: >-
 
 ## **Quels sont les différents statuts d'indépendant ?**
 
-**Il existe deux grandes formes juridiques d'entreprise en France : l'ENTREPRISE INDIVIDUELLE et la SOCIÉTÉ.**&#x20;
+**Il existe deux grandes formes juridiques d'entreprise en France : l'ENTREPRISE INDIVIDUELLE et la SOCIÉTÉ.**
 
 **1 - L'ENTREPRISE INDIVIDUELLE**
 
@@ -16,23 +16,23 @@ L’entreprise individuelle (EI) s’adresse, comme son nom l’indique, aux cr�
 
 Dans la forme simple de l’entreprise individuelle (EI), l’entrepreneur individuel exerce ainsi en “nom propre” et les patrimoines personnel et professionnel du dirigeant de l'entreprise sont confondus. Cela signifie que vous pouvez piocher dans la trésorerie de votre entreprise sans limite mais également qu’en cas de créance, de faillite, votre responsabilité est totale et votre patrimoine personnel peut se retrouver engagé pour rembourser vos dettes professionnelles.
 
-Il y a deux statuts au sein des EI qui présentent de forts avantages :&#x20;
+Il y a deux statuts au sein des EI qui présentent de forts avantages :
 
 * **L’Entreprise Individuelle à Responsabilité Limitée (EIRL)** est un statut qui permet de protéger votre patrimoine personnel des risques financiers de votre activité. Il peut également être avantageux au niveau des impôts, car il vous est possible de payer non pas l'impôt sur le revenu comme toutes les entreprises individuelles mais l’impôt sur les sociétés... Et ce sans avoir à créer de société ! [Guide complet sur l'EIRL](https://www.shine.fr/blog/creer-une-eirl/)
 * **Le statut de micro-entrepreneur** est une version plus simplifiée du statut d’entreprise individuelle, c’est le mode le plus simple pour exercer une activité en tant qu’indépendant. Il est composé de deux volets : le régime micro-social (pour la protection sociale) et le régime fiscal de la micro-entreprise (pour le régime d’imposition), conçus pour simplifier les démarches administratives. Le travailleur indépendant peut bénéficier de ce statut jusqu’à un certain niveau de chiffre d’affaires hors taxes effectivement encaissé au cours de l’année civile : 170 000 euros pour des activités d’achat / vente ou de fourniture de logement, et 70 000 euros pour les prestations de service et les professions libérales.
 
 **2 - LA SOCIÉTÉ**
 
-La société est une personne morale\*\* distincte de son créateur alors que l’entrepreneur ne fait qu’un  juridiquement avec son entreprise individuelle.&#x20;
+La société est une personne morale\*\* distincte de son créateur alors que l’entrepreneur ne fait qu’un juridiquement avec son entreprise individuelle.
 
-Qu’est-ce que ça implique ?&#x20;
+Qu’est-ce que ça implique ?
 
 * On peut créer une société à plusieurs
 * Les démarches de création d’une société sont plus fastidieuses
 * La société doit disposer de son patrimoine propre, décorrélé du vôtre.
 * Vous devez suivre des règles établies pour la création de la société et devez rendre des comptes aux éventuels autres associés.
 
-Il existe différents statuts juridiques pour les sociétés. Voici un aperçu des plus répandus :&#x20;
+Il existe différents statuts juridiques pour les sociétés. Voici un aperçu des plus répandus :
 
 * **L’EURL (Entreprise Unipersonnelle à Responsabilité Limitée)** est une société unipersonnelle et non une entreprise individuelle. L’EURL étant une personne morale, il est nécessaire de rédiger des statuts. Ce statut permet à l’associé unique d’être protégé par la responsabilité limitée : sa responsabilité est limitée au mon- tant de ses apports. L’EURL permet d’accueillir de nouveaux associés et devient alors une SARL.
 *   Comme l’EURL, la **SASU (Société par Actions Simplifiée Unipersonnelle)** est une société unipersonnelle : c’est une personne morale et il convient donc de rédiger des statuts.
@@ -40,7 +40,7 @@ Il existe différents statuts juridiques pour les sociétés. Voici un aperçu d
     La SASU diffère de l’EURL dans l’encadrement de son activité par le code de commerce : important dans le cas de l’EURL, la SASU bénéficie à l’inverse d’une grande liberté dans son fonctionnement.
 
     À la différence de l’EURL, un président doit être nommé. S’il est rémunéré, celui-ci est assimilé salarié. Il est donc affilié au régime général de la sécurité sociale. Du point de vue fiscal, les bénéfices de la société sont imposés à l’impôt sur les sociétés (IS) et la rémunération du dirigeant est im- posée à l’impôt sur le revenu (IR). Cependant il est possible d’opter pour une durée de cinq exercices pour une imposition des bénéfices de la société à l’IR : le dirigeant est alors imposé personnellement sur les bénéfices de sa société.
-* Les **SAS** et **SARL** sont des statuts qui se prêtent aux entreprises comportant plusieurs associés.&#x20;
+* Les **SAS** et **SARL** sont des statuts qui se prêtent aux entreprises comportant plusieurs associés.
 
 ## Qu'est-ce qu'une auto-entreprise ?
 
@@ -56,19 +56,19 @@ Pour bénéficier du régime de la micro-entreprise, votre chiffre d’affaires 
 * **72 600 € pour les prestations de services relevant de la catégorie des bénéfices industriels et commerciaux (BIC) ou des bénéfices non commerciaux (BNC) ;**
 * En cas d’activité mixte (vente et prestations de services), le chiffre d’affaires global ne doit pas dépasser 176 200 € incluant un chiffre d’affaires maximal de 72 600 € pour les prestations de services.
 
-L'URSSAF est censé nous informer au moment du dépassement de plafond.&#x20;
+L'URSSAF est censé nous informer au moment du dépassement de plafond.
 
-Cependant, nous conseillons de bien suivre le cumul de ses revenus et faire le calcul soi-même pour repérer et anticiper ce dépassement. Suggestion : faire un tableur simple de suivi des recettes pour anticiper les différents plafonds.&#x20;
+Cependant, nous conseillons de bien suivre le cumul de ses revenus et faire le calcul soi-même pour repérer et anticiper ce dépassement. Suggestion : faire un tableur simple de suivi des recettes pour anticiper les différents plafonds.
 
 ## \[Auto-entreprise] Quel est le régime le plus avantageux quand on a dépassé le plafond de CA pour une auto-entreprise ?
 
-Tout dépend des situations personnelles. Ce qui est important c’est de connaître&#x20;
+Tout dépend des situations personnelles. Ce qui est important c’est de connaître
 
 * le % de charges en régime de croisière et donc le montant net touché
 * le niveau de sécurité qu'on l'on souhaite prévoir à l'issue de sa mission (chômage ou pas)
 * le niveau de cotisations retraite que l'on souhaite avoir
 
-Il s'agit vraiment d'un choix individuel.&#x20;
+Il s'agit vraiment d'un choix individuel.
 
 Note : Attention à ne pas se limiter en TJM "pour éviter de sortir du régime de l'auto-entreprise". Il faut prendre le temps d'explorer toutes les pistes : continuer en entreprise individuelle, créer une société (EURL, SAS, SASU etc).
 
@@ -77,7 +77,7 @@ Note : Attention à ne pas se limiter en TJM "pour éviter de sortir du régime 
 
 ## \[Auto-entreprise] Quand on a opté pour le versement libératoire de l'impôt sur le revenu, que faut-il déclarer aux impôts ?
 
-Il faut déclarer le chiffre d’affaires Hors Taxe, sans abattement dans la rubrique “Micro-entrepreneur (auto-entrepreneur) ayant opté pour le versement libératoire de l’impôt sur le revenu”. Si vous êtes profession libérale (développeur, coach, bizdev, à peu près toutes les professions de beta), la catégorie des revenus est “micro-BNC”[ \[source\]](https://www.impots.gouv.fr/portail/professionnel/questions/en-tant-que-micro-entrepreneur-quelles-sont-les-modalites-de-declaration-et). Le montant déclaré est non imposable (puisque déjà imposé au titre du prélèvement libératoire).&#x20;
+Il faut déclarer le chiffre d’affaires Hors Taxe, sans abattement dans la rubrique “Micro-entrepreneur (auto-entrepreneur) ayant opté pour le versement libératoire de l’impôt sur le revenu”. Si vous êtes profession libérale (développeur, coach, bizdev, à peu près toutes les professions de beta), la catégorie des revenus est “micro-BNC”[ \[source\]](https://www.impots.gouv.fr/portail/professionnel/questions/en-tant-que-micro-entrepreneur-quelles-sont-les-modalites-de-declaration-et). Le montant déclaré est non imposable (puisque déjà imposé au titre du prélèvement libératoire).
 
 ## \[Auto-entreprise] Versement libératoire ou non : comment choisir ?
 
@@ -86,17 +86,17 @@ Déjà, il faut [obéir aux conditions](https://www.impots.gouv.fr/portail/profe
 * [Simulation avec 50000€ de CA et versement libératoire](https://mon-entreprise.fr/simulateurs/auto-entrepreneur?dirigeant+.+auto-entrepreneur+.+chiffre+d%27affaires=50000%E2%82%AC%2Fan\&dirigeant+.+auto-entrepreneur+.+imp%C3%B4t+.+versement+lib%C3%A9ratoire=oui\&entreprise+.+ACRE=non\&entreprise+.+activit%C3%A9=%27lib%C3%A9rale%27\&entreprise+.+activit%C3%A9+.+lib%C3%A9rale+r%C3%A9glement%C3%A9e=non\&entreprise+.+date+de+cr%C3%A9ation=%2701%2F01%2F2021%27)
 * [Simulation avec 50000€ de CA, célibataire sans enfant](https://mon-entreprise.fr/simulateurs/auto-entrepreneur?dirigeant+.+auto-entrepreneur+.+chiffre+d%27affaires=50000%E2%82%AC%2Fan\&dirigeant+.+auto-entrepreneur+.+imp%C3%B4t+.+versement+lib%C3%A9ratoire=non\&entreprise+.+ACRE=non\&entreprise+.+activit%C3%A9=%27lib%C3%A9rale%27\&entreprise+.+activit%C3%A9+.+lib%C3%A9rale+r%C3%A9glement%C3%A9e=non\&entreprise+.+date+de+cr%C3%A9ation=%2701%2F01%2F2021%27\&imp%C3%B4t+.+m%C3%A9thode+de+calcul=%27bar%C3%A8me+standard%27)
 
-## Le régime micro-fiscal : kezako?&#x20;
+## Le régime micro-fiscal : kezako?
 
 Sur le plan fiscal, le micro entrepreneur a le choix entre le régime _classique_ et le régime optionnel de versement libératoire. L'objectif de ce régime est de lui permettre d'alléger ses déclarations fiscales et la comptabilité de son activité.
 
 C'est le régime classique qui s'applique automatiquement, sauf si le micro-entrepreneur fait le choix de l'option du versement libératoire.
 
-## Le régime micro-social : kezako?&#x20;
+## Le régime micro-social : kezako?
 
-Le régime micro-social simplifié permet au micro-entrepreneur de payer ses cotisations en fonction de son chiffre d'affaires. Il s'agit d'un taux de cotisations qui varie selon l'activité.&#x20;
+Le régime micro-social simplifié permet au micro-entrepreneur de payer ses cotisations en fonction de son chiffre d'affaires. Il s'agit d'un taux de cotisations qui varie selon l'activité.
 
-![](<../../.gitbook/assets/Capture d’écran 2021-07-19 à 16.37.05.png>)
+![](<../../.gitbook/assets/Capture d’écran 2021-07-19 à 16.37.05.png>)
 
 Le régime du micro-social permet au micro-entrepreneur de bénéficier :
 
@@ -112,9 +112,9 @@ Le régime du micro-social ne permet pas au micro-entrepreneur de percevoir des 
 
 **Jusqu’à un certain plafond annuel du chiffre d’affaires, les travailleurs indépendants ne sont pas redevables de la TVA et bénéficient de la « franchise en base de TVA ».** Pour une activité de prestation de services (le plus courant chez beta), ce plafond est de 35 200 € de chiffre d’affaires (à condition d’avoir un chiffre d’affaires inférieur à 33 200 € l’année précédente). Au-delà de ce niveau de chiffre d’affaires, le freelance devient redevable de la TVA, c’est-à-dire qu’il collecte de la TVA pour le compte de l’Etat et qu’en contrepartie, il peut déduire la TVA payée sur ses dépenses.
 
-De même que pour le dépassement de plafond de revenus en auto-entreprise, nous conseillons de bien suivre le cumul de ses revenus et faire le calcul soi-même.&#x20;
+De même que pour le dépassement de plafond de revenus en auto-entreprise, nous conseillons de bien suivre le cumul de ses revenus et faire le calcul soi-même.
 
-Attention, la **première** facture responsable du dépassement doit prendre en compte la TVA.&#x20;
+Attention, la **première** facture responsable du dépassement doit prendre en compte la TVA.
 
 ## **Quelle type d'assurance pour un indépendant chez beta ?**
 
@@ -124,18 +124,17 @@ Attention, la **première** facture responsable du dépassement doit prendre en 
 * soit **après la livraison** d’un produit ou article défectueux.
 
 Auto-entrepreneur : L'assurance Responsabilité Civile Pro n'est obligatoire que dans certains cas.\
-Lorsque que vous exercez une profession libérale non réglementée (le plus fréquent chez beta), ce n'est pas obligatoire.&#x20;
+Lorsque que vous exercez une profession libérale non réglementée (le plus fréquent chez beta), ce n'est pas obligatoire.
 
 Cependant, "Dans votre activité d’auto-entrepreneur, vous êtes tenu responsable personnellement en cas de dommage matériel ou corporel causé à autrui. Contrairement à d’autres types d’entreprises, **votre responsabilité est dite illimitée ce qui signifie que votre patrimoine personnel peut être saisi en cas de sinistre** ayant lieu pendant votre activité professionnelle." (source [https://www.portail-autoentrepreneur.fr/academie/creation-auto-entreprise/rc-pro](https://www.portail-autoentrepreneur.fr/academie/creation-auto-entreprise/rc-pro)) -> si tu perds le data de ton administration ou si tu casses l'imprimante, tu payes.
 
-## Pourquoi choisir le portage salarial ?&#x20;
+## Pourquoi choisir le portage salarial ?
 
-Le portage salarial est une relation contractuelle tripartite dans laquelle un salarié porté d'une entreprise de portage salarial effectue une prestation pour le compte d'entreprises clientes. D'une part, un contrat de travail est établi entre le salarié porté et l'entreprise de portage salarial. D'autre part, un contrat commercial est établi entre l'entreprise de portage salarial et l'entreprise cliente. Dans notre cas, **vous avez la possibilité d'opter pour le portage salarial et votre société de portage facturera à votre startup.**&#x20;
+Le portage salarial est une relation contractuelle tripartite dans laquelle un salarié porté d'une entreprise de portage salarial effectue une prestation pour le compte d'entreprises clientes. D'une part, un contrat de travail est établi entre le salarié porté et l'entreprise de portage salarial. D'autre part, un contrat commercial est établi entre l'entreprise de portage salarial et l'entreprise cliente. Dans notre cas, **vous avez la possibilité d'opter pour le portage salarial et votre société de portage facturera à votre startup.**
 
 **> Avantages :** assurance du travail, maladies professionnelles, chômage, congés maternité/paternité, avoir un statut de salarié (pour un prêt, un bail etc)… (se renseigner sur les avantages auprès de chacune des boîtes de portage)
 
-**> Inconvénients :** paiement de charges patronales et salariales + paiement d'une commission à la société de portage.\
-
+**> Inconvénients :** paiement de charges patronales et salariales + paiement d'une commission à la société de portage.\\
 
 ## Ressources utiles
 
@@ -148,4 +147,3 @@ Rapport Shine - Freelance VS Salariat
 {% embed url="https://www.shine.fr/blog/10-erreurs-courantes-commises-par-les-auto-entrepreneurs/" %}
 
 {% embed url="https://www.shine.fr/blog/" %}
-

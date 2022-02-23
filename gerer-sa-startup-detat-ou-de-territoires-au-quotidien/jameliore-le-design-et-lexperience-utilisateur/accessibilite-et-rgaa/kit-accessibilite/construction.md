@@ -50,11 +50,11 @@ Contacter l'équipe Designers Transverse pour organiser un atelier **« Vérifie
 
 Si la navigation au clavier est possible, les personnes utilisant des technologies d'assistances comme un lecteur d'écran pourront aussi utiliser votre service.
 
-* Toutes les sections du site et toutes les actions sont possibles grâce au clavier (`tab` pour naviguer d'une zone à un autre, `shift + tab` pour revenir en arrière et `Entrer` pour actionner un lien).&#x20;
-* Un effet focus permet de repérer facilement la zone sélectionnée.&#x20;
+* Toutes les sections du site et toutes les actions sont possibles grâce au clavier (`tab` pour naviguer d'une zone à un autre, `shift + tab` pour revenir en arrière et `Entrer` pour actionner un lien).
+* Un effet focus permet de repérer facilement la zone sélectionnée.
 * Il est toujours possible de sortir d'une zone au clavier.
 
-![Le focus est visible sur le site du Design System de l'État](<../../../../.gitbook/assets/Capture d’écran 2021-09-10 à 12.35.30.png>)
+![Le focus est visible sur le site du Design System de l'État](<../../../../.gitbook/assets/Capture d’écran 2021-09-10 à 12.35.30.png>)
 {% endtab %}
 
 {% tab title="Textes" %}
@@ -71,7 +71,7 @@ La balise titre est la première chose lue par un lecteur d'écran : elle doit d
 
 Les titres de la page sont cohérents : il n'y a pas de trous dans les niveaux (de h1 à h6).
 
-![Hiérarchie des titres en accueil d'api.gouv.fr dans l'extension HeadingsMap](<../../../../.gitbook/assets/Capture d%u2019écran 2020-05-25 à 15.52.31.png>)
+![Hiérarchie des titres en accueil d'api.gouv.fr dans l'extension HeadingsMap](<../../../../.gitbook/assets/Capture d%u2019écran 2020-05-25 à 15.52.31.png>)
 
 {% hint style="info" %}
 Je vérifie avec l'extension [HeadingsMap pour Firefox](https://addons.mozilla.org/fr/firefox/addon/headingsmap/)
@@ -130,7 +130,7 @@ Dans votre navigateur, vous pouvez désactiver la feuille de style appliquée à
 
 * Demander une formation [10 choses faciles à vérifier](https://doc.incubateur.net/design/nos-rendez-vous-design/formation/accessibilite) pour mon équipe
 * Utiliser [les ressources et outils Accessibilité de la DILA](https://pidila.gitlab.io).
-* Utiliser des outils dédiés :&#x20;
+* Utiliser des outils dédiés :
 
 {% tabs %}
 {% tab title="Bookmarklet" %}
@@ -146,7 +146,7 @@ Ces outils peuvent s'installer d'un simple `drag 'n drop` vers la barre des sign
 
 {% tab title="Firefox" %}
 * [**WAVE**](https://wave.webaim.org/extension/) **:** détecte automatiquement plusieurs types de problèmes d'accessibilités et donne des conseils pratiques pour les corriger.
-* [WCAG Constrast Checker](https://addons.mozilla.org/en-US/firefox/addon/wcag-contrast-checker/) : vérifie les contrates sur la page&#x20;
+* [WCAG Constrast Checker](https://addons.mozilla.org/en-US/firefox/addon/wcag-contrast-checker/) : vérifie les contrates sur la page
 {% endtab %}
 
 {% tab title="Outils en lignes" %}
@@ -156,5 +156,5 @@ Ces outils peuvent s'installer d'un simple `drag 'n drop` vers la barre des sign
 
 ### Checklist de la phase Construction
 
-* [ ] J'identifie ce que je peux faire à mon niveau, et comment mon équipe peut se répartir les responsabilités.&#x20;
+* [ ] J'identifie ce que je peux faire à mon niveau, et comment mon équipe peut se répartir les responsabilités.
 * [ ] Je m'assure que les règles élémentaires de l’accessibilité sont respectées.
