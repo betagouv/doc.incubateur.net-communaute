@@ -13,7 +13,7 @@ Les droits d'accès aux ressources beta.gouv.fr (dont l'email fait partie) sont 
 Si ta fiche n'est plus dans les membres actif, c'est que ta date doit être expirée. Voici les instructions :&#x20;
 
 1. [Mettre à jour ](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/outils/mise-a-jour-de-mes-informations)ta date de fin de mission (il faut ensuite attendre qu'un autre membre valide le changement sur github)
-2. [Renouveler le mot de passe](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/emails#retrouver-mon-mot-de-passe) de ta boite mail via le secrétariat
+2. [Renouveler le mot de passe](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/emails#retrouver-ou-renouveler-mon-mot-de-passe) de ta boite mail via le secrétariat
 3. Accéder à ta boite mail avec le nouveau mot de passe&#x20;
 
 #### J'ai besoin d'aide
