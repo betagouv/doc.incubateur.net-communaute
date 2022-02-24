@@ -12,6 +12,7 @@ Les mailing-lists suivantes sont disponibles. Toutes les adresses sont à _postf
 | `alumni`      | Nouvelles de l'incubateur, possibilités de retrouvailles.                                                       | Ex membres n'ayant plus de relation contractuelle.          | Membres.                                                         |
 | `coachs`      | Discussions, tips, infos sur le coaching de Startups d'Etat                                                     | Membres volontaires.                                        | Les membres de la NL.                                            |
 | `onboarding`  | Embarquement des nouvelles et des nouveaux                                                                      | Membres volontaires.                                        | Marrains. Parraines.                                             |
+| `newsletter`  | Membres externes à beta.gouv souhaitant recevoir l'infolettre hebdomadaire interne                              | Membres externes volontaires                                | Équipe d'animation                                               |
 | `partenaires` | Informations à destination des structures partenaires (incubateurs, fabriques, etc)                             | Responsables d'incubateurs, membres volontaires             | Membres                                                          |
 
 ## La commande Mattermost `/emails`
