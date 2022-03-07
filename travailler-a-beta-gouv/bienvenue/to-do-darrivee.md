@@ -10,7 +10,7 @@
 * [ ] Découvrir son équipe :
   * [ ] Rejoindre ses canaux sur Mattermost ;
   * [ ] S'imprégner de la mission sur la **fiche produit** disponible sur beta.gouv.fr/startups.
-* [ ] Découvrir s'il y a d'autres membres de la communauté près de chez toi sur la [carte des membres](https://doc.incubateur.net/communaute/dinum/locaux/ou-travailler#beta-gouv-fr-en-dehors-de-paris) ;
+* [ ] Découvrir s'il y a d'autres membres de la communauté près de chez toi sur la [carte des membres](https://doc.incubateur.net/communaute/decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/locaux/ou-travailler#beta.gouv.fr-en-province) ;
 * [ ] S'abonner à [l'agenda public de l'incubateur](https://calendar.google.com/calendar/embed?src=0ieonqap1r5jeal5ugeuhoovlg%40group.calendar.google.com\&ctz=Europe/Paris) pour suivre les événements de la communauté ;
 * [ ] Consulter les pages spécifiques à son corps de métier :
 
