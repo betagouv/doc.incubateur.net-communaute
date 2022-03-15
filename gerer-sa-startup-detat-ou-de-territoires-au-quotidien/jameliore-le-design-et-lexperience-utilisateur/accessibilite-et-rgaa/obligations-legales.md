@@ -18,16 +18,12 @@ Chaque service numérique doit être en conformité au **niveau double A** (AA) 
 * **publier une** [**déclaration de conformité**](https://betagouv.github.io/a11y-generateur-declaration/) après avoir audité le service ;
 * **expliquer la politique d’accessibilité** en publiant un schéma pluri-annuel.
 
-![SignalConso affiche son taux de conformité (partiel) en fin de page](<../../../.gitbook/assets/image (14) (2) (2) (1).png>)
+![SignalConso affiche son taux de conformité (partiel) en fin de page](<../../../.gitbook/assets/image (14) (2) (2).png>)
 
-
-
-Manquer aux obligations légales est passible de :&#x20;
+Manquer aux obligations légales est passible de :
 
 * une amende annuelle de 20 000 €
 * un procès pour discrimination à l'accès.
-
-
 
 **Pour aller plus loin**
 
@@ -55,4 +51,3 @@ Le programme Access vous accompagne dans les démarches officielles (audit RGAA)
 {% content-ref url="acces.md" %}
 [acces.md](acces.md)
 {% endcontent-ref %}
-

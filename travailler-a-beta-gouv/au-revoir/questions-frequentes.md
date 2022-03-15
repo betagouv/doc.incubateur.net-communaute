@@ -10,8 +10,7 @@ Si ta mission est prolongée, tu peux [mettre à jour ta date de fin de mission 
 
 ## Que va devenir mon email @beta.gouv.fr après mon départ ?
 
-Le jour suivant ton départ, tel qu'indiqué sur ta fiche de membre, tu perdras les accès à ta boîte mail.
-**Ton email sera supprimé automatiquement 30 jours après la date de fin de contrat.** 
+Le jour suivant ton départ, tel qu'indiqué sur ta fiche de membre, tu perdras les accès à ta boîte mail. **Ton email sera supprimé automatiquement 30 jours après la date de fin de contrat.**
 
 Tu recevras un rappel lorsque la date de fin de mission s'approche.
 
@@ -31,8 +30,6 @@ Les personnes écrivant à ton ancienne adresse @beta.gouv.fr recevront ce messa
 >
 > L'équipe beta.gouv.fr
 
-
-
 ## Que va devenir mon compte Mattermost ?
 
 Tu peux le désactiver :
@@ -40,7 +37,7 @@ Tu peux le désactiver :
 * Allez dans le menu, puis "Paramètres du compte" -> "Options avancées"
 * Dans "Désactiver mon compte", faite "Modifier" puis "Desactivate"
 
-![Désactiver mon compte](<../../.gitbook/assets/image (14) (2) (1) (1).png>)
+![Désactiver mon compte](<../../.gitbook/assets/image (14) (2) (1).png>)
 
 {% hint style="info" %}
 **Si tu souhaites garder accès à Mattermost, fais en la demande spécifiquement** sur #incubateur-secretariat ou à contact@beta.gouv.fr .

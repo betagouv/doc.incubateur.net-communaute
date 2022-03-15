@@ -16,16 +16,16 @@ _**Les personnes extérieures qui souhaitent nous découvrir sont les bienvenues
 À titre indicatif, la durée est généralement comprise entre 25 et 40 minutes.
 {% endhint %}
 
-Pour rejoindre l'hebdo beta.gouv.fr :&#x20;
+Pour rejoindre l'hebdo beta.gouv.fr :
 
 * Rends-toi sur [https://gather.town/app/jztgra1ioCseFdYL/beta.gouv](https://gather.town/app/jztgra1ioCseFdYL/beta.gouv)
 * Saisis ton prénom, choisis ton personnage
-* Configure ton microphone, ta caméra et ton audio&#x20;
+* Configure ton microphone, ta caméra et ton audio
 * Déplace toi avec les flèches de ton clavier en suivant les flèches pour rejoindre l'espace où se réunit l'hebdo beta.gouv.fr
 
-![L'hebdo beta.gouv sur Gather.Town](<../../../.gitbook/assets/image (14) (1) (1).png>)
+![L'hebdo beta.gouv sur Gather.Town](<../../../.gitbook/assets/image (14) (1).png>)
 
-## L'hebdo beta.gouv.fr :  « Comment »
+## L'hebdo beta.gouv.fr : « Comment »
 
 ### Avant
 
@@ -35,8 +35,8 @@ Pour rejoindre l'hebdo beta.gouv.fr :&#x20;
 
 ### Pendant
 
-* Désigner un·e volontaire pour :&#x20;
-  * La facilitation de l'hebdo :  animer l'hebdo, en rappeler les règles et les faire respecter ;
+* Désigner un·e volontaire pour :
+  * La facilitation de l'hebdo : animer l'hebdo, en rappeler les règles et les faire respecter ;
   * La gestion du temps : gérer le chronomètre.
 * Nouvelles, nouveaux, visiteuses, visiteurs : **présentez-vous** :).
 * C’est au maximum **1min** par **personne**, dont **5-10s** pour vous _présenter brièvement._ Evitez les **acronymes**. Si vous ne pouvez pas, traduisez-les. Si vous n’avez rien à dire, dites-le et passer votre tour. **Évitez le dialogue** pendant l'hebdo.
@@ -51,6 +51,4 @@ Diapo de l'hebdo
 * **Dialoguez**, si vous voulez, avec qui vous voulez, comme vous voulez ;
 * Va-t-on **déjeuner** ?
 
-
-
-![Avant mars 2020, nous organisions chaque semaine un Stand-up dans nos locaux](<../../../.gitbook/assets/image (14) (2) (2).png>)
+![Avant mars 2020, nous organisions chaque semaine un Stand-up dans nos locaux](<../../../.gitbook/assets/image (14) (2) (2) (1).png>)

@@ -8,14 +8,14 @@
 Dans tous les cas vous pouvez demander de l'aide sur Mattermost `#incubateur-help` ou par email sur `contact@beta.gouv.fr`
 
 {% hint style="info" %}
-:movie\_camera: Le replay de la dernière formation **Git et GitHub pour les non-Devs** est disponible [ici](https://bbb-dinum-scalelite.visio.education.fr/playback/presentation/2.3/8ee526fca9400cc6d29be8255d42a6f8b9d71ac9-1642668864964)&#x20;
+:movie\_camera: Le replay de la dernière formation **Git et GitHub pour les non-Devs** est disponible [ici](https://bbb-dinum-scalelite.visio.education.fr/playback/presentation/2.3/8ee526fca9400cc6d29be8255d42a6f8b9d71ac9-1642668864964)
 {% endhint %}
 
 ## Je créé un compte Github
 
 * Inscris-toi sur le site de Github : [https://github.com/join](https://github.com/join)
 
-![](<../../../.gitbook/assets/image (8) (2) (2) (2) (2) (2) (1).png>)
+![](<../../../.gitbook/assets/image (8) (2) (2) (2) (2) (2) (1) (1) (1).png>)
 
 * Valide ton compte Github en cliquant sur le lien reçu par email
 * Pour améliorer la sécurité, tu dois activer l'authentification double facteur
@@ -23,7 +23,7 @@ Dans tous les cas vous pouvez demander de l'aide sur Mattermost `#incubateur-hel
   * Dans la section "Two-factor authentication"
   * "Enable two-factor authentication"
 
-![](<../../../.gitbook/assets/image (14) (2) (2) (2) (2) (2) (2) (2) (2) (1).png>)
+![](<../../../.gitbook/assets/image (14) (2) (2) (2) (2) (2) (2) (2) (2) (1) (1).png>)
 
 * Si tu es familier avec les applications mobile de type "Google Authenticator", fais : "**Set up using an app**." et suis les étapes indiquées par Github.
 * Si tu ne comprends pas le point si dessus, fais "**Set up using SMS"** et entre ton numéro de mobile

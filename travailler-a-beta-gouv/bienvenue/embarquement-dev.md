@@ -7,6 +7,10 @@ description: >-
 
 # Embarquement dev
 
+## Inscris-toi à une session d'accueil pour les Devs
+
+Elle à lieu tous les premiers mardi du mois à 14h. Pour t'inscrire, c'est [ici](https://airtable.com/shrUCbUT72KtKefsu).
+
 ## Identifie tes contacts tech chez beta.gouv.fr
 
 ### L'équipe technique transverse
@@ -14,6 +18,7 @@ description: >-
 Une équipe tech transverse existe au sein de l'incubateur. Son rôle est de s'assurer que les devs de la communauté puissent travailler au mieux et développer des produits impactants et de qualité.
 
 * Anna-Livia Gomart (CPO)
+* Lucas Charrier (Dev transverse)
 * Philippe Libat (Référent DevOps)
 * Vincent Viers (Responsable Developer Experience)
 
@@ -21,12 +26,12 @@ Une équipe tech transverse existe au sein de l'incubateur. Son rôle est de s'a
 N'hésite pas a contacter Vincent ou un autre membre de l'équipe si tu rencontres une difficulté lors de l'une de tes missions.
 {% endhint %}
 
-### Le reste de la communauté
+### La communauté beta.gouv.fr
 
-La communauté beta.gouv est composée de près de 300 développeur/euses qui peuvent t'aider à monter à bord ! Assures-toi que tu as bien rejoins le canal [`~domaine-dev`](https://mattermost.incubateur.net/betagouv/channels/domaine-dev) sur Mattermost, et n'hésite pas à faire coucou quand tu arrives :wave:.
+La communauté beta.gouv est composée de **près de 300 développeur/euses qui peuvent t'aider à monter à bord** ! Assures-toi que tu as bien rejoins le canal [`~domaine-dev`](https://mattermost.incubateur.net/betagouv/channels/domaine-dev) sur Mattermost, et n'hésite pas à y faire coucou quand tu arrives :wave:.
 
 {% hint style="info" %}
-Tout membre de la communauté peut dédier jusqu'à 10% de son temps facturé à des actions transverses, par exemple pour donner un coup de main aux devs d'un autre projet que le sien.
+Tout membre de la communauté peut dédier jusqu'à 10% de son temps facturé à des actions transverses, par exemple pour donner un coup de main aux devs d'un autre projet que le sien ou proposer une task force sur un sujet qui l'intéresse.
 {% endhint %}
 
 ## Familiarise toi avec nos standards de qualité
@@ -42,12 +47,12 @@ Tout membre de la communauté peut dédier jusqu'à 10% de son temps facturé à
 * Utilise de la [**"Boring Tech"**](http://boringtechnology.club) **et base toi sur les conventions** des langages et technos que tu utilises. Cela rendra ton code plus facile à faire évoluer et à maintenir dans le temps.
 
 {% hint style="info" %}
-N'hésite pas à challenger ton équipe si tu considères que te lancer dans le code est prématuré. Un.e bon.ne dev sait aussi (et surtout) quand ne **pas** coder.
+N'hésite pas à challenger ton équipe si tu considères que te lancer dans le code est prématuré. Un.e bon.ne dev sait aussi (et surtout) quand ne **pas** coder et peut proposer des alternatives pour tester des hypothèses de solutions.
 {% endhint %}
 
 ### Standards produit
 
-Les produits développés par beta.gouv respectent les principes de :
+Les produits développés par beta.gouv.fr respectent les principes de :
 
 * 👂 proximité avec les utilisateurs et utilisatrices
 * 🪶 sobriété et simplicité — commencer en conciergerie
@@ -117,18 +122,18 @@ Plus de détails sur nos standards technologiques [ici](https://doc.incubateur.n
 
 La liste des services techs partagés est disponible [ici](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/infra#les-services-partages). Certains sont particulièrement important à connaitre :
 
-* ****[**Dashlord**](../jutilise-les-outils-de-la-communaute/dashlord/) - pour vous situer par rapport aux standards de la communauté
+* [**Dashlord**](../jutilise-les-outils-de-la-communaute/dashlord/) - pour vous situer par rapport aux standards de la communauté
 * [**GitGuardian**](https://gitguardian.com) - pour sécuriser les produits beta contre les fuites de données
-* ****[**Matomo**](https://stats.data.gouv.fr) - pour mesurer votre audience dans le respect du RGPD
+* [**Matomo**](https://stats.data.gouv.fr) - pour mesurer votre audience dans le respect du RGPD
 * [**Sentry**](https://sentry.io) - pour être alerté en cas de crash de votre app
-* le [**Design System de l'Etat**](broken-reference) - pour vous faciliter la vie
-* ****[**Dashlane**](https://dashlane.com) - pour gérer et partager vos mots de passes
+* le [**Design System de l'Etat**](broken-reference/) - pour vous faciliter la vie
+* [**Dashlane**](https://dashlane.com) - pour gérer et partager vos mots de passes
 
 ## Bonus : quelques conseils pour un début de construction :construction:
 
 * 📃 Consulter la documentation dédiée [Je Fais des Choix Technologiques](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique) et le [Kit de Démarrage](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/construction/kit-de-demarrage)
-* 💻 Choisir un langage / framework validé par l’incubateur
-* 🪶 Toujours garder la sobriété et la simplicité à l’esprit et je ne fonce pas tête baissée dans l’implémentation d’une solution technique complexe
+* 💻 Choisir un langage / framework validé par votre incubateur
+* 🪶 Toujours garder la sobriété et la simplicité à l’esprit et ne pas foncer tête baissée dans l’implémentation d’une solution technique complexe
 * 👋 Solliciter de l’aide et ne pas rester seul face à des choix technologiques
 * 🔐 Penser à la sécurisation de vos données et à vos tests dès le début du projet
 * :clock1: Appliquer les normes de qualité dès le début du projet et les inclure dans ta communication auprès de ton équipe. Le temps de dev d'une fonctionnalité doit prendre en compte le temps de créer des test, de la rendre accessible, et de t'assurer de la protection des données sensibles que tu manipules.
