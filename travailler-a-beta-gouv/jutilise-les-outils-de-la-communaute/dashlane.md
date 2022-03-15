@@ -35,7 +35,7 @@ Tu seras invité.e sur ton adresse @beta.gouv.
 
 :warning: il est absolument primordial que **le mot de passe que tu choisis à cette étape n'ait jamais été utilisé auparavant et que tu ne l'utilises jamais pour un autre service** (de toute façon, tu n'auras plus à choisir de mots de passe toi-même :wink:)
 
-Il faut aussi que ce mot de passe maître soit **robuste** tout en restant **mémorable**, nous te suggérons donc de choisir une phrase entière (par exemple tirée d'un roman ou de ton poème préféré).
+Il faut aussi que ce mot de passe maître soit **robuste** tout en restant **mémorable**, nous te suggérons donc de choisir une suite de 4 ou 5 mots tirés de manière aléatoire (comme illustré [ici](https://xkcd.lapin.org/index.php?number=936))
 
 {% hint style="warning" %}
 La procédure de récupération de ton compte en cas d'oubli de ton mot de passe maître est assez complexe (car ce mot de passe est très sensible, et par construction Dashlane ne pourra pas s'en rappeler à ta place).
