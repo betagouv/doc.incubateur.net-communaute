@@ -26,5 +26,7 @@ Pour contacter l'équipe qui le développe sur mattermost : #tmp-webinaire-numer
 {% hint style="info" %}
 Login : **contact@api.gouv.fr**
 
-Mot de passe : demander en message privé à [corine.waroquiers@data.gouv.fr](mailto:corine.waroquiers@data.gouv.fr) (présente sur mattermost) ou quelqu'un de l'équipe api (canal api-team)
+Demander le mot de passe sur la canal [incubateur-ops](https://mattermost.incubateur.net/betagouv/channels/incubateur-ops) de mattermost. \
+\
+Attention, le partage se fait via dashlane, le gestionnaire sécurisé de mot de passe beta. Si tu ne connais pas dashlane, [renseigne-toi d'abord](../dashlane.md).&#x20;
 {% endhint %}
