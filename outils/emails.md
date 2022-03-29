@@ -52,6 +52,16 @@ Pour les autres logiciels, la configuration se fait de manière suivante :
 | Nom d'utilisateur | ton adresse beta.gouv.fr |
 | Mot de passe | le mot de passe de ton email |
 
+* Paramétrer le compte **POP3** \(courrier entrant\) :
+
+| Paramètre | Valeur |
+| :--- | :--- |
+| Serveur | ssl0.ovh.net |
+| Port | 995 |
+| Méthode de chiffrement | SSL  |
+| Nom d'utilisateur | ton adresse beta.gouv.fr |
+| Mot de passe | le mot de passe de ton email |
+
 * Paramétrer le compte **SMTP** \(courrier sortant\) : 
 
 | Paramètre | Valeur |
