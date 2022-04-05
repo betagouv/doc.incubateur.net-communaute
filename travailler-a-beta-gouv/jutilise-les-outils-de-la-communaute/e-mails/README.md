@@ -72,6 +72,11 @@ Tous les dossiers mails (brouillons, envoyés, reçu, archivés, etc.) sont main
 Tu peux consulter tes mails directement sur [RoundCube](https://mail.ovh.net/roundcube/). L'interface n'est pas géniale, mais ça peut être une bonne solution pour dépanner, ou quand tu n'a pas accès à ton client web habituel.
 {% endhint %}
 
+##  Configurer un message d'absence
+Se connecter à https://secretariat.incubateur.net/
+S'identifier avec ses logins
+Puis se rendre dans Secrétarait_Mon Compte_Configurer mon client mail pour modifier son message  d'absence
+
 ## Envoyer des mails en masse
 
 {% hint style="danger" %}
