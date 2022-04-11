@@ -126,7 +126,7 @@ La liste des services techs partagés est disponible [ici](https://doc.incubateu
 * [**GitGuardian**](https://gitguardian.com) - pour sécuriser les produits beta contre les fuites de données
 * [**Matomo**](https://stats.data.gouv.fr) - pour mesurer votre audience dans le respect du RGPD
 * [**Sentry**](https://sentry.io) - pour être alerté en cas de crash de votre app
-* le [**Design System de l'Etat**](broken-reference/) - pour vous faciliter la vie
+* le [**Design System de l'Etat**](https://template.incubateur.net/) - pour vous faciliter la vie
 * [**Dashlane**](https://dashlane.com) - pour gérer et partager vos mots de passes
 
 ## Bonus : quelques conseils pour un début de construction :construction:
