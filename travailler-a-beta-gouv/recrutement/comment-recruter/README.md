@@ -9,9 +9,9 @@ Lorsque tu as cette vision, tu dois choisir entre recruter au sein de l'administ
 ## Contractualiser en externe (prestataire, freelances)
 
 ### Étape 1: Prise de contact avec l'attributaire, l'expression de besoin
-Regroupe ta vision de l'équipe cible, du problème à résoudre et de ton objectif dans une [expression de besoin](../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/budget-de-sa-se/faire-une-demande-de-devis#1.-transmettre-une-expression-de-besoin), puis, transmet-la au bon attributaire:
- - pour le marché de [interministériel (dev, design, ops, déploiement...](../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/marches-publics-beta.gouv.fr/marche-interministeriel-beta)
- - pour le marché de [coaching](../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/marches-publics-beta.gouv.fr/marche-coaching)
+Regroupe ta vision de l'équipe cible, du problème à résoudre et de ton objectif dans une [expression de besoin](../../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/budget-de-sa-se/faire-une-demande-de-devis#1.-transmettre-une-expression-de-besoin), puis, transmet-la au bon attributaire:
+ - pour le [marché interministériel (dev, design, ops, déploiement...](../../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/marches-publics-beta.gouv.fr/marche-interministeriel-beta)
+ - pour le [marché de coaching](../../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/marches-publics-beta.gouv.fr/marche-coaching)
 
 ### Étape 2: Discussion et rencontre des profils présentés par l'attributaire
 Si l'attributaire identifie des profils pouvant correspondre au besoin que tu lui as transmis, tu peux organiser des rencontres avec eux afin de voir s'ils correspondent à ta demande. 
