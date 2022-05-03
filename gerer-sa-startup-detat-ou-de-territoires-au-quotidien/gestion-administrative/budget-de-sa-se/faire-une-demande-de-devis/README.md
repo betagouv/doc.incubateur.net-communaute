@@ -38,10 +38,10 @@ _ATTENTION : TOUJOURS METTRE_ _**COMPTA@BETA.GOUV.FR**_ _EN COPIE DE VOS DEMANDE
 
 #### Demande de devis "dev/chargé de déploiment/design"
 
-* Pour La Zone : à venir
-* Pour OCTO : dinum@octo.com
-* Pour BENEXT : à venir
-* Pour INETUM/LBC : à venir
+* Pour La Zone : devis@la.zone; contact@la.zone
+* Pour OCTO : OCTO_MALT@octo.com
+* Pour BENEXT : betagouv@benextcompany.com
+* Pour INETUM/LBC : client.beta.gouv@inetum.com
 
 > Bonjour,
 >
@@ -52,11 +52,6 @@ _ATTENTION : TOUJOURS METTRE_ _**COMPTA@BETA.GOUV.FR**_ _EN COPIE DE VOS DEMANDE
 > **Missions** :
 >
 > * \[indiquer ici les éléments prévus dans la période visée]
->
-> _**A preciser si votre devis concerne la construction du produit**_ :
->
-> * Utiliserez-vous [France connect](https://franceconnect.gouv.fr) : Si votre solution est à destination du citoyen et quelle nécessitera une connexion avec un compte, vous pouvez utiliser France Connect.
-> * Utiliserez-vous [Vox usagers](https://observatoire.numerique.gouv.fr/observatoire/) : Permets aux utilisateurs de donner leur avis sur une démarche en ligne.
 >
 > **Livrable** : Documentation et code source de toutes les réalisations sur la période.
 >
@@ -76,7 +71,7 @@ _ATTENTION : TOUJOURS METTRE_ _**COMPTA@BETA.GOUV.FR**_ _EN COPIE DE VOS DEMANDE
 
 * Pour octo : dinum@octo.com
 * Pour Ippon : groupement@ippon.fr / sbouchet@ippon.tech
-* Pour Numa :
+* Pour Numa : thomas.l@numa.co
 
 Pour le marché de coaching tout part de "l'expression de besoin" transmise par email.
 
