@@ -1,35 +1,31 @@
 # Fonds d'accélération des Startups d'État
 
-Ce fonds, géré par l'équipe d'animation de beta.gouv.fr, permet à n'importe quel service numérique du réseau beta.gouv.fr de solliciter un cofinancement de la DINUM. Plus d'informations :&#x20;
+Le Fond d’accélération des Startups d’État et de Territoire (FAST), porté par la Direction interministérielle du numérique, est un programme d’accélération qui vise à favoriser l’émergence de services publics numériques à impact national conçus selon l’approche Startup d’État. Plus d'informations :&#x20;
 
 {% embed url="https://beta.gouv.fr/approche/fast" %}
 
 ## C'est quoi le FAST ?
 
-Le FAST est le Fonds d’accélération des Startups d’État et de Territoire. Il vise à soutenir les produits en accélération au sein des administrations.  &#x20;
+Ce programme est structuré autour d’un cofinancement de la Startup à hauteur de 50% et d’un accompagnement oppérationnel par une équipe d’experts de la DINUM.&#x20;
 
-Un appel à projets est lancé par trimestre. Cet appel à projets a pour objectif de recueillir les candidatures des équipes intéressées. Les dossiers sont ensuite sélectionnés par un jury, qui décidera de l'allocation des financements.&#x20;
+Depuis 2022, l’appel à candidatures est ouvert toute l’année. Les dossiers sont relevés au fil de l’eau et font l’objet d’une réponse sous 6 semaines maximum.&#x20;
 
-Le FAST est ouvert à tout agent public (dans une administration, une collectivité territoriale, un établissement public...) ayant constaté un irritant administratif ou un problème de politique publique, ayant commencé à construire une solution, et souhaitant passer à l'échelle. &#x20;
+Le FAST s’adresse aux Startup d’Etat en fin de construction ou en phase d’accélération qui ont déjà fait la preuve de leur impact et souhaitent passer à l’échelle.&#x20;
 
 **N'hésitez pas à en parler autour de vous et à relayer les appel à projets !**&#x20;
 
-En 2020, 3.5M€ ont été distribué à 22 lauréats :&#x20;
+En 2022, 3 lauréats ont déjà bénéficié d’un financement FAST et du programme d’accélération des experts DINUM :&#x20;
 
-* 20 services numériques pour accompagner leur déploiement et la croissance de leur impact, et
-* 2 incubateurs ministériels pour financer leur création et le lancement de leurs premiers produits.&#x20;
-
-👉 Une présentation rapide est disponible [ici](https://docs.google.com/presentation/d/1oErK\_vF044C2bKNby1gucuFf4Rdfyp04bdmnmYX37O0/edit#slide=id.gb974131f9f\_0\_116).&#x20;
+* [Estime](https://beta.gouv.fr/startups/estime.html), soutenir la reprise d'activité des demandeurs d'emploi en facilitant l'accès à l'information concernant les aides financières
+* [Ma Cantine](https://beta.gouv.fr/startups/ma-cantine-egalim.html), accompagner les acteurs de la restauration collective pour proposer une alimentation de qualité, saine et durable
+* [AccèsLibre](https://beta.gouv.fr/startups/acceslibre.html), collecter et partager les données d'accessibilité des établissements publics.&#x20;
 
 ### Comment est financé le FAST ?
 
 Le FAST est financé par le programme budgétaire 352 - Fonds pour l'accélération du financement des start-up d'État.&#x20;
 
-### C'est quoi le programme 352 ?
+### Candidater
 
-Pour l'exercice budgétaire 2020, voici les informations officielles sur ce programme 352 - Fonds pour l'accélération du financement des start-up d'État (2020).
+[Candidatez](https://www.demarches-simplifiees.fr/commencer/fast2022) dès maintenant en tant que Startup d’Etat 
 
-* [Présentation stratégique du projet annuel de performances](https://www.performance-publique.budget.gouv.fr/sites/performance\_publique/files/farandole/ressources/2020/pap/html/DBGPGMPRESSTRATPGM352.htm)
-* [Objectifs et indicateurs de performance](https://www.performance-publique.budget.gouv.fr/sites/performance\_publique/files/farandole/ressources/2020/pap/html/DBGPGMOBJINDPGM352.htm)
-* [Présentation des crédits et des dépenses fiscales](https://www.performance-publique.budget.gouv.fr/sites/performance\_publique/files/farandole/ressources/2020/pap/html/DBGPGMPRESCREDPGM352.htm)
-* [Justification au premier euro](https://www.performance-publique.budget.gouv.fr/sites/performance\_publique/files/farandole/ressources/2020/pap/html/DBGPGMJPEPGM352.htm)
+Si vous avez des questions supplémentaires n'hésitez pas à nous contacter à l'adresse suivante : fast@beta.gouv.fr
