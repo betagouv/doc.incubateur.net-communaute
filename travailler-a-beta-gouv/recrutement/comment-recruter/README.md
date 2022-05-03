@@ -1,28 +1,35 @@
 # Comment recruter ?
 
-## Préalable au recrutement
+## Comment se lancer dans le recrutement ?
 
-Avant de lancer un recrutement, tu dois disposer d'un budget suffisant, avoir réalisé [une demande de devis ](../../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/budget-de-sa-se/)et obtenir un bon de commande. Ton ou ta co-animatrice pourront t'aider si ce process est nouveau pour toi.
+Tu dois commencer par avoir une vision de l'équipe que tu souhaites constituer, des rôles et attentes de chaque membres clairement définis pour la durée de leur intervention. Une équipe commence souvent avec deux ou trois personnes plutôt polyvalentes, avant de recruter des profils beaucoup plus spécialisés sur un domaine métier.
 
-## Avant le recrutement
+Lorsque tu as cette vision, tu dois choisir entre recruter au sein de l'administration ou contractualiser en externe.
 
-* L'équipe Designer Transverse accompagne les équipes qui souhaite recruter un.e designer.
+## Contractualiser en externe (prestataire, freelances)
 
-{% content-ref url="../../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/design/" %}
-[design](../../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/design/)
+### Étape 1: Prise de contact avec l'attributaire, l'expression de besoin
+Regroupe ta vision de l'équipe cible, du problème à résoudre et de ton objectif dans une [expression de besoin](../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/budget-de-sa-se/faire-une-demande-de-devis#1.-transmettre-une-expression-de-besoin), puis, transmet-la au bon attributaire:
+ - pour le marché de [interministériel (dev, design, ops, déploiement...](../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/marches-publics-beta.gouv.fr/marche-interministeriel-beta)
+ - pour le marché de [coaching](../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/marches-publics-beta.gouv.fr/marche-coaching)
+
+### Étape 2: Discussion et rencontre des profils présentés par l'attributaire
+Si l'attributaire identifie des profils pouvant correspondre au besoin que tu lui as transmis, tu peux organiser des rencontres avec eux afin de voir s'ils correspondent à ta demande. 
+
+Tu peux suivre ce guide pour organiser ton entretien:
+{% content-ref url="entretiens-de-recrutement/" %}
+[entretiens-de-recrutement](entretiens-de-recrutement/)
 {% endcontent-ref %}
 
-## Pendant le recrutement
+Si aucun ne correspond, alors tu peux participer à la diffusion d'une offre pour attirer le profil correspondant.
 
-### Où recruter ?
-
-* **La page** [**`recrutement`**](https://beta.gouv.fr/recrutement/) vous permet de détailler les caractéristiques du poste, et facilite la clôture des postes une fois pourvus
+### Étape 3: Participer à la recherche de profils
+* **La page** [**`recrutement`**](https://beta.gouv.fr/recrutement/) permet de détailler les caractéristiques du poste, et facilite la clôture des postes une fois pourvus.
 
 {% content-ref url="publier-une-offre-dembauche.md" %}
 [publier-une-offre-dembauche.md](publier-une-offre-dembauche.md)
 {% endcontent-ref %}
 
-* **Les entreprises titulaire des** [**marchés publics beta.gouv.fr**](../../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/marches-publics-beta.gouv.fr/) peuvent répondre à vos besoins de recrutement (hors recrutement d'agents publics). A chaque fois que vous avez un projet de recrutement, il est important de tenir informée l'entreprise de prestation qui est affectée à votre Startup d'État au plus tôt pour qu'elle puisse s'organiser en interne avec ses [salariés](../../actions-transverses/sengager-dans-une-action-transverse/salaries-des-societes-de-prestation.md). Si l'entreprise ne dispose pas de la compétence, alors il est possible de recruter des personnes au statut [d'indépendant](../../actions-transverses/sengager-dans-une-action-transverse/independants-freelances.md)
 * **Twitter et LinkedIn** sont d'excellents relais pour diffuser l'annonce.
 * L'annonce peut aussi être relayée auprès de communautés dédiées
   * [DuchessFrance \[Women in tech\]](https://www.duchess-france.org/contact/)
@@ -34,35 +41,17 @@ Avant de lancer un recrutement, tu dois disposer d'un budget suffisant, avoir r�
 [annoncer-un-recrutement-sur-le-compte-linkedin-de-beta.gouv.md](annoncer-un-recrutement-sur-le-compte-linkedin-de-beta.gouv.md)
 {% endcontent-ref %}
 
-**Attention**, pour le recrutement sous le statut d'[agent public](../../actions-transverses/les-differents-statuts/fonctionnaires-et-contractuels-de-la-fonction-publique.md) (contractuel, vacataire, stagiaire), des procédures administratives sont à prévoir et encadrent notamment les démarches d'entretien: grille d'évaluation, compte-rendu d'entretien, dossier de recrutement…
+## Contractualiser en interne
 
-Une fois la fiche de poste publiée et les premières réponses obtenues, c'est le moment de faire passer des entretiens.
+Pour le recrutement sous le statut d'[agent public](../../actions-transverses/les-differents-statuts/fonctionnaires-et-contractuels-de-la-fonction-publique.md) (contractuel, vacataire, stagiaire), des procédures administratives sont à prévoir et encadrent notamment les démarches d'entretien: grille d'évaluation, compte-rendu d'entretien, dossier de recrutement…
 
-{% content-ref url="entretiens-de-recrutement/" %}
-[entretiens-de-recrutement](entretiens-de-recrutement/)
+## Aide au recrutement de métiers spécifiques
+
+* L'équipe Designer Transverse accompagne les équipes qui souhaite recruter un.e designer.
+
+{% content-ref url="../../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/design/" %}
+[design](../../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/design/)
 {% endcontent-ref %}
-
-### Quels sont les éléments à ne pas oublier lors des recrutements ?
-
-#### **Nos biais**
-
-Nous avons tous des biais lorsque nous lisons un CV ou faisons passer un entretien. L'une des premières étapes est d'en prendre conscience, la seconde est d'essayer de mettre en place des techniques pour les atténuer. Si tu n'as pas l'habitude de recruter ou si simplement tu souhaites de l'aide, n'hésite pas à te signaler sur [#incubateur-embauche](https://startups-detat.slack.com/archives/C1VLS5E80)
-
-#### L'engagement
-
-**Recruter quelqu'un ce n'est pas seulement l'intégrer dans sa Startup d'État mais aussi l'intégrer dans la communauté beta.gouv.fr.** C'est l'engagement de ses membres qui fait la force du réseau. Du reste, de nombreux candidats sont attirés par la possibilité de participer à la vie de cette communauté. Il est donc important de rappeler aux différentes étapes du recrutement (fiche de poste, entretien) qu'il est possible et souhaitable de s'engager dans la communauté, que cet engagement peut prendre différentes formes et qu'il peut être effectué sur des jours payés par la Startup d'État.
-
-Pour [en savoir plus sur l'engagement ](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/actions-transverses)ou sur Mattermost \~incubateur-engagement
-
-📝**Pour ta fiche de poste, nous ne te proposons d'introduire le texte suivant** :
-
-> En travaillant pour une Startup d’Etat et de Territoire, vous devenez membre de la communauté beta.gouv. Celle-ci se construit par l’investissement volontaire de ses membres ce qui veut dire que chaque membre peut proposer de nouvelles idées, les mettre en oeuvre ou rejoindre un travail en cours.
->
-> L’engagement dans la communauté peut prendre différentes formes, de faire le café à participer à une équipe transverse en passant par organiser une conférence.
->
-> L’objectif est de faire de beta.gouv une communauté vivante, riche des expériences et de l’engagement de chacun, et qui apporte un cadre de travail stimulant pour ces membres.
->
-> En tant que membre, vous pouvez et êtes invités à vous engager dans la communauté. Si vous avez des questions, n’hésitez pas à les poser lors de votre entretien.&#x20;
 
 ## Une fois le recrutement effectué
 
