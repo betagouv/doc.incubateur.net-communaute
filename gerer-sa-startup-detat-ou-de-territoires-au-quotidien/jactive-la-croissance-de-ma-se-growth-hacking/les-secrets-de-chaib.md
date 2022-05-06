@@ -80,6 +80,42 @@ Un CRM peut créer de bons automatismes s’il vous demande par exemple la date 
 
 {% embed url="https://bbb-dinum-scalelite.visio.education.fr/playback/presentation/2.3/586f2e4540205f07dc761bdec72ab600bbacc330-1639061915334" %}
 
+L’acquisition a pour but d’augmenter le nombre de visiteurs et d’utilisateurs de son produit.
+
+Voici une liste non-exhaustive de canaux d’acquisition que vous pouvez explorer :
+
+* Publicité (TV, radio, internet, affiches, ...)
+* Presse
+* Référencement sur les moteurs de recherche (SEO)
+* Marketing entrant (stratégies visant à faire venir le client à soi)
+* Réseaux sociaux
+* Démarchage par courriel
+* Démarchage téléphonique
+* Fax ou minitel ...
+
+#### Cherchez votre équilibre
+
+Lorsque vous développez un produit ou un service, il est très important de trouver un équilibre par rapport à la source de ses utilisateurs. Évitez de trop dépendre d’une seule source de trafic. Dans ce but, chercher à développer sa base d’utilisateurs peut être une étape important dans une start-up. Ce processus d’acquisition passe par des essais et des améliorations.​
+
+#### Changer de stratégie pour de meilleurs résultats
+
+L’esprit à cultiver est celui d’une acquisition qui part de questions plutôt que de la solution. Mettez votre jugement de côté et partez du point de vue de l’utilisateur. Augmentez la portée et la taille de votre filet aux questions pour améliorer votre acquisition.​
+
+{% hint style="info" %}
+Cherchez à référencer votre shampoing anti-pellicules sur des mots-clés comme “cheveux qui grattent” ou “démangeaisons cheveux” avant de le faire pour “shampoing anti-pellicules”.​
+{% endhint %}
+
+#### Deux astuces de pros
+
+1. Pensez à mesurer la prévalence d’un sujet ou de mots-clés avec des outils comme Google Trends ou Ubersubject.​
+2. Pensez à mesurer votre audience avec des métriques (Plausible.io, Google Analytics ...)​.
+
+#### Comment MesConseilsCovid a amélioré son acquisition
+
+Plateforme visant à donner des conseils par rapport aux situations précises (cas contact, vaccination, isolement ...) en partant d’un questionnaire, Mes Conseils Covid a amélioré son acquisition en changeant de méthode. ​
+
+En référençant les pages de conseils spécifiques plutôt qu’en les affichant à ceux terminant le questionnaire, le site a connu une meilleure croissance. Les internautes cherchant des conseils spécifiques par rapport au Covid-19 découvraient donc la solution MesConseilsCovid en partant de leur question plutôt que de la solution (site dont ils pouvaient ignorer l’existence).​
+
 Les outils partagés pendant la session :
 
 * Google trends : connaître les tendances des mots clefs et expressions sur Google
@@ -91,7 +127,3 @@ Les outils partagés pendant la session :
 ## Atelier 3 : Activation, comment convertir ses visiteurs en utilisateurs ?
 
 {% embed url="https://youtu.be/KOWkqejSkwY" %}
-
-## Atelier 4 : Rétention, comment transformer ses utilisateurs en usagers réguliers ?
-
-{% embed url="https://youtu.be/uypKnUF7rWc" %}
