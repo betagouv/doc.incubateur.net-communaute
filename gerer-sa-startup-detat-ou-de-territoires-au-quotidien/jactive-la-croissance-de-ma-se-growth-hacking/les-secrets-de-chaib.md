@@ -127,3 +127,7 @@ Les outils partagés pendant la session :
 ## Atelier 3 : Activation, comment convertir ses visiteurs en utilisateurs ?
 
 {% embed url="https://youtu.be/KOWkqejSkwY" %}
+
+## Atelier 4 : Rétention, comment transformer ses utilisateurs en usagers réguliers ?
+
+{% embed url="https://youtu.be/uypKnUF7rWc" %}
