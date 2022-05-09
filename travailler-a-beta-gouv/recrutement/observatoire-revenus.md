@@ -87,7 +87,7 @@ Si vous disposez de nouvelles sources de références pour améliorer notre gril
 
 ## La grille
 
-|**Profil| Junior (expérience < 2 ans)|Senior ( experience > 7ans)**|
+|**Profil**| **Junior (expérience < 2 ans)**|**Senior ( experience > 7ans)**|
 |------|----------------------------|---------------------------|
 |Chargé de déploiement|270|550|
 |Développeur|450|650|
