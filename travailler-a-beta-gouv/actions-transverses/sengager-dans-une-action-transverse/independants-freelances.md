@@ -20,8 +20,8 @@ Vous souhaiteriez rejoindre beta.gouv.fr et vous vous demandez si le statut d'in
 
 Afin d'assurer une transparence aux _freelances_, une grille avec des taux journaliers indicatifs a été publiée à la page suivante.
 
-{% content-ref url="../../recrutement/remuneration.md" %}
-[remuneration.md](../../recrutement/remuneration.md)
+{% content-ref url="../../recrutement/observatoire-revenus.md" %}
+[observatoire-revenus.md](../../recrutement/observatoire-revenus.md)
 {% endcontent-ref %}
 
 Une charte pour les _freelances_ a été adoptée afin de clarifier leurs droits et les obligations. En cas de problème majeur, un guide a été réalisé pour orienter les indépendantes et indépendants victimes de harcèlement ou de discrimination.
