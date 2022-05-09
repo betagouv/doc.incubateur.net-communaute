@@ -16,7 +16,7 @@ description: >-
 * Forme de la société
 * Numéro SIRET
 * Numéro de TVA (seulement si tu en as un)
-* [Ton taux journalier moyen HT](../../remuneration.md#grille-de-taux-journaliers) négocié lors de ton recrutement
+* [Ton taux journalier moyen HT](../../observatoire-revenus.md#grille-de-taux-journaliers) négocié lors de ton recrutement
 
 **Documents :**&#x20;
 
