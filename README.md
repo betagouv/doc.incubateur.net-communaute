@@ -48,8 +48,8 @@ Ce guide est un espace commun à [tous les incubateurs](https://beta.gouv.fr/com
 [comment-rejoindre-lespace-mattermost-de-beta.md](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/mattermost/comment-rejoindre-lespace-mattermost-de-beta.md)
 {% endcontent-ref %}
 
-{% content-ref url="travailler-a-beta-gouv/recrutement/remuneration.md" %}
-[remuneration.md](travailler-a-beta-gouv/recrutement/remuneration.md)
+{% content-ref url="travailler-a-beta-gouv/recrutement/observatoire-revenus.md" %}
+[observatoire-revenus.md](travailler-a-beta-gouv/recrutement/observatoire-revenus.md)
 {% endcontent-ref %}
 
 {% content-ref url="travailler-a-beta-gouv/culture/charte.md" %}
