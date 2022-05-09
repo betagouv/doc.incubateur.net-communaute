@@ -86,7 +86,7 @@
     * [Indépendants (freelances)](travailler-a-beta-gouv/actions-transverses/sengager-dans-une-action-transverse/independants-freelances.md)
 * [🎯 Recruter](travailler-a-beta-gouv/recrutement/README.md)
   * [Devenir freelance](travailler-a-beta-gouv/recrutement/devenir-freelance.md)
-  * [Rémunération des freelances](travailler-a-beta-gouv/recrutement/remuneration.md)
+  * [Rémunération des freelances](travailler-a-beta-gouv/recrutement/observatoire-revenus.md)
   * [Charte des freelances](travailler-a-beta-gouv/recrutement/charte-des-freelances.md)
   * [Comment recruter ?](travailler-a-beta-gouv/recrutement/comment-recruter/README.md)
     * [Publier une offre d'embauche](travailler-a-beta-gouv/recrutement/comment-recruter/publier-une-offre-dembauche.md)
