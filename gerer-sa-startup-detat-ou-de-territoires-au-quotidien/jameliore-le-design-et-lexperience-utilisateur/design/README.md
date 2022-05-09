@@ -71,7 +71,7 @@ Selon votre situation et votre budget, voici quelques exemples de formulation :
 
 * Lister les compétences nécessaires identifiées.
 * Expliquer quel type de produit vous développez, et quels sont les enjeux en terme d'UX.
-* Mentionner un TJM. Par exemple « Entre 500€ et 700€[ selon profil](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/recrutement/remuneration).
+* Mentionner un TJM. Par exemple « Entre 500€ et 700€[ selon profil](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/recrutement/observatoire-revenus).
 
 ### Contacter des candidats spontanés <a href="#docs-internal-guid-03ea9015-7fff-718c-31d0-bfae8488a867" id="docs-internal-guid-03ea9015-7fff-718c-31d0-bfae8488a867"></a>
 
