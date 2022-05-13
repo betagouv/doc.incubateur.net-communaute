@@ -48,7 +48,7 @@ Si aucun ne correspond, alors tu peux participer à la diffusion d'une offre pou
 
 ## Contractualiser en interne
 
-Pour le recrutement sous le statut d'[agent public](../../bienvenue/les-differents-statuts/fonctionnaires-et-contractuels-de-la-fonction-publique.md) (contractuel, vacataire, stagiaire), des procédures administratives sont à prévoir et encadrent notamment les démarches d'entretien: grille d'évaluation, compte-rendu d'entretien, dossier de recrutement…
+Pour le recrutement sous le statut d'[agent public](../../actions-transverses/les-differents-statuts/fonctionnaires-et-contractuels-de-la-fonction-publique.md) (contractuel, vacataire, stagiaire), des procédures administratives sont à prévoir et encadrent notamment les démarches d'entretien: grille d'évaluation, compte-rendu d'entretien, dossier de recrutement…
 
 ## Aide au recrutement de métiers spécifiques
 

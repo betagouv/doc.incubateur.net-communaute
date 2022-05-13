@@ -12,27 +12,19 @@ description: >-
 
 ## Pour bien démarrer, choisis ta situation :
 
-{% content-ref url="gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/marches-publics-beta.gouv.fr/marche-interministeriel-beta/je-travaille-dans-une-startup-detat.md" %}
-[je-travaille-dans-une-startup-detat.md](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/marches-publics-beta.gouv.fr/marche-interministeriel-beta/je-travaille-dans-une-startup-detat.md)
+{% content-ref url="je-travaille-ou-vais-travailler-chez-beta.gouv/" %}
+[je-travaille-ou-vais-travailler-chez-beta.gouv](je-travaille-ou-vais-travailler-chez-beta.gouv/)
 {% endcontent-ref %}
 
-{% content-ref url="je-ne-travaille-pas-chez-beta.gouv" %}
-[je-ne-travaille-pas-chez-beta.gouv](je-ne-travaille-pas-chez-beta.gouv)
+{% content-ref url="je-ne-travaille-pas-chez-beta.gouv/" %}
+[je-ne-travaille-pas-chez-beta.gouv](je-ne-travaille-pas-chez-beta.gouv/)
 {% endcontent-ref %}
 
-### \*\*\*\*
+### Tu as repéré une erreur dans ce guide ?&#x20;
 
-### **Pour aller plus loin**
-
-**Si tu es membre d'une équipe ou d'un incubateur du réseau beta.gouv.fr**, cet espace a été conçu pour toi. Tu peux utiliser la _**barre de recherche**_ en haut à droite de ton écran pour faciliter ta navigation. Si tu ne trouves pas la ressource que tu cherches, tu peux poser la question dans la _**chaîne \~incubateur-help**_ de [notre espace Mattermost](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/mattermost/). Si tu repères une erreur, tu peux [la corriger et contribuer à ce guide](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/gitbook/comment-contribuer-a-cette-documentation.md).
-
-**Si tu n'es pas (encore) membre de beta.gouv.fr**, tu peux profiter librement des ressources et des apprentissages que nous avons compilés ici, en gardant en tête que cette documentation est initialement à usage interne. Nous espérons cependant qu'elles pourra inspirer d'autres organisations. Si tu souhaites nous contacter pour en parler, transmets nous un message à _**contact@beta.gouv.fr**_ !
-
-{% hint style="warning" %}
-Ce guide est un espace commun à [tous les incubateurs](https://beta.gouv.fr/communaute/) du réseau beta.gouv.fr. Ses recommandations s'appliquent par défaut quel que soit ton incubateur, sauf mention contraire dans [la documentation spécifique de ton incubateur de rattachement](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/bienvenue/to-do-darrivee#decouvre-la-documentation-specifique-a-ton-incubateur).
-{% endhint %}
-
-###
+{% content-ref url="travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/gitbook/comment-contribuer-a-cette-documentation.md" %}
+[comment-contribuer-a-cette-documentation.md](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/gitbook/comment-contribuer-a-cette-documentation.md)
+{% endcontent-ref %}
 
 ### Ressources les plus consultées de ce guide
 
@@ -48,8 +40,8 @@ Ce guide est un espace commun à [tous les incubateurs](https://beta.gouv.fr/com
 [comment-rejoindre-lespace-mattermost-de-beta.md](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/mattermost/comment-rejoindre-lespace-mattermost-de-beta.md)
 {% endcontent-ref %}
 
-{% content-ref url="travailler-a-beta-gouv/recrutement/comment-recruter/observatoire-revenus.md" %}
-[observatoire-revenus.md](travailler-a-beta-gouv/recrutement/comment-recruter/observatoire-revenus.md)
+{% content-ref url="travailler-a-beta-gouv/recrutement/observatoire-revenus.md" %}
+[observatoire-revenus.md](travailler-a-beta-gouv/recrutement/observatoire-revenus.md)
 {% endcontent-ref %}
 
 {% content-ref url="travailler-a-beta-gouv/culture/charte.md" %}

@@ -1,18 +1,22 @@
 # Je souhaite découvrir beta.gouv
 
+**Si vous n'êtes pas (encore) membre de beta.gouv.fr**, vous pouvez profiter librement des ressources et des apprentissages que nous avons compilés ici, en gardant en tête que cette documentation est d'abord conçue pour un usage interne. Nous espérons cependant qu'elles pourra inspirer d'autres organisations.&#x20;
+
+Si vous souhaitez nous contacter pour en parler, transmettez nous un message à _**contact@beta.gouv.fr**_ !
+
 {% hint style="info" %}
 Utiliser la barre de recherche, en haut à droite de l'écran **"Rechercher"**
 {% endhint %}
 
 ## 1. Je suis une personne candidate ou intéressée pour travailler chez beta.gouv :
 
-{% content-ref url="../travailler-a-beta-gouv/recrutement/guide-pour-les-candidat-e-s.md" %}
-[guide-pour-les-candidat-e-s.md](../travailler-a-beta-gouv/recrutement/guide-pour-les-candidat-e-s.md)
+{% content-ref url="../travailler-a-beta-gouv/actions-transverses/guide-pour-les-candidat-e-s/" %}
+[guide-pour-les-candidat-e-s](../travailler-a-beta-gouv/actions-transverses/guide-pour-les-candidat-e-s/)
 {% endcontent-ref %}
 
 {% embed url="https://beta.gouv.fr/recrutement/" %}
 
-## 2. Je suis fonctionnaire et je souhaite comprendre beta.gouv
+## 2. Je suis agent public et je souhaite comprendre beta.gouv
 
 {% content-ref url="../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/" %}
 [la-vie-dune-se](../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/)
@@ -40,6 +44,6 @@ Utiliser la barre de recherche, en haut à droite de l'écran **"Rechercher"**
 
 ## 4. Je suis journaliste
 
-On te laisse explorer ce guide et notre site internet.
+On vous laisse explorer ce guide et notre site internet.
 
 {% embed url="https://beta.gouv.fr/" %}

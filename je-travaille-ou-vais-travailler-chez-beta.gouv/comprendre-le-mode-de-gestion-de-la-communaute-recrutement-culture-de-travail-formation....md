@@ -34,10 +34,6 @@
 [au-revoir](../travailler-a-beta-gouv/au-revoir/)
 {% endcontent-ref %}
 
-{% content-ref url="../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/marches-publics-beta.gouv.fr/" %}
-[marches-publics-beta.gouv.fr](../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/marches-publics-beta.gouv.fr/)
-{% endcontent-ref %}
-
 {% hint style="info" %}
 Utiliser la barre de recherche, en haut à droite de l'écran **"Rechercher"**
 {% endhint %}

@@ -52,7 +52,7 @@ En ayant un compte Github, tu gagneras en autonomie durant ta mission dans une �
 
 ## 2. Prendre connaissance des règles d'hygiène informatique et de sécurité (politique [BYOD](https://fr.wikipedia.org/wiki/Bring\_your\_own\_device))
 
-Chez beta.gouv.fr, que tu sois [salarié d'une société de prestation](les-differents-statuts/salaries-des-societes-de-prestation.md) ou au [statut d'indépendant](les-differents-statuts/independants-freelances/), on te demandera de venir avec ton propre équipement, que ce soit ton ordinateur ou ton téléphone. Tu as le droit de venir avec ton propre équipement quand tu es [agent public](les-differents-statuts/fonctionnaires-et-contractuels-de-la-fonction-publique.md) également. Nous acceptons tous les OS tant qu'ils sont à jour.
+Chez beta.gouv.fr, que tu sois [salarié d'une société de prestation](../actions-transverses/sengager-dans-une-action-transverse/salaries-des-societes-de-prestation.md) ou au [statut d'indépendant](../actions-transverses/sengager-dans-une-action-transverse/independants-freelances.md), on te demandera de venir avec ton propre équipement, que ce soit ton ordinateur ou ton téléphone. Tu as le droit de venir avec ton propre équipement quand tu es [agent public](../actions-transverses/les-differents-statuts/fonctionnaires-et-contractuels-de-la-fonction-publique.md) également. Nous acceptons tous les OS tant qu'ils sont à jour.
 
 Cela vient avec quelques **règles d'hygiène informatique** pour assurer un niveau convenable de sécurité. Les règles suivantes sont **obligatoires** lorsque tu interviens sur une mission pour beta.gouv.fr.
 

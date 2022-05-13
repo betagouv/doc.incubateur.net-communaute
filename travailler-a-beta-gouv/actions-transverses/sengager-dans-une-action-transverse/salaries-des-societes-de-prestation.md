@@ -8,6 +8,6 @@ Le programme beta.gouv.fr mobilise de nombreux intervenants via ses marchés pub
 
 Lorsque les entreprises titulaires de ces marchés ne disposent pas de profils en interne pour répondre aux besoins des équipes beta.gouv.fr, ils peuvent également proposer la mobilisation d'indépendants (freelances).
 
-{% content-ref url="independants-freelances/" %}
-[independants-freelances](independants-freelances/)
+{% content-ref url="independants-freelances.md" %}
+[independants-freelances.md](independants-freelances.md)
 {% endcontent-ref %}

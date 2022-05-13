@@ -38,12 +38,12 @@ La documentation Design qui était auparavant hébergée sur un autre Gitbook, e
 
 ### Nouvelles pages
 
-{% content-ref url="../travailler-a-beta-gouv/recrutement/guide-pour-les-candidat-e-s.md" %}
-[guide-pour-les-candidat-e-s.md](../travailler-a-beta-gouv/recrutement/guide-pour-les-candidat-e-s.md)
+{% content-ref url="../travailler-a-beta-gouv/actions-transverses/guide-pour-les-candidat-e-s/" %}
+[guide-pour-les-candidat-e-s](../travailler-a-beta-gouv/actions-transverses/guide-pour-les-candidat-e-s/)
 {% endcontent-ref %}
 
-{% content-ref url="../travailler-a-beta-gouv/bienvenue/les-differents-statuts/" %}
-[les-differents-statuts](../travailler-a-beta-gouv/bienvenue/les-differents-statuts/)
+{% content-ref url="../travailler-a-beta-gouv/actions-transverses/les-differents-statuts/" %}
+[les-differents-statuts](../travailler-a-beta-gouv/actions-transverses/les-differents-statuts/)
 {% endcontent-ref %}
 
 {% content-ref url="../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/standards-de-qualite-beta.gouv.fr.md" %}
