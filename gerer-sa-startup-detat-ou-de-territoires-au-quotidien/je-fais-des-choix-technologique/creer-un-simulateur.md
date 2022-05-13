@@ -8,21 +8,11 @@ En développant un simulateur on propose au contraire une interface interactive 
 
 Plusieurs produits beta.gouv proposent ainsi des simulateurs sur des thématiques variées :
 
+* [Datagir](https://datagir.ademe.fr) vous permet d'estimer votre impact sur le climat ;
+* [Mon-entreprise](https://mon-entreprise.fr) de calculer vos cotisations sociales ;
+* [Code du travail numérique](https://code.travail.gouv.fr) de déterminer la durée d'un préavis de départ à la retraite.
 
-
-Datagir
-
-vous permet d'estimer votre impact sur le climat ;
-
-Mon-entreprise
-
-de calculer vos cotisations sociales ;
-
-Code du travail numérique
-
-de déterminer la durée d'un préavis de départ à la retraite.
-
-Publicodes : une librairie commune pour créer des simulateurs
+### Publicodes : une librairie commune pour créer des simulateurs
 
 Tous ces simulateurs sont propulsés par la même brique technique appelée [Publicodes](https://publi.codes). Publicodes a initialement été conçu pour les besoins du simulateur de coût d’embauche (devenu ensuite mon-entreprise) avant d'en être extrait comme une librairie Javascript ré-utilisable par tous. [En savoir plus sur la genèse du projet](https://hackmd.io/@laem/genese-publicodes).
 
