@@ -4,26 +4,31 @@
 
 Tu dois commencer par avoir une vision de l'équipe que tu souhaites constituer, des rôles et attentes de chaque membres clairement définis pour la durée de leur intervention. Une équipe commence souvent avec deux ou trois personnes plutôt polyvalentes, avant de recruter des profils beaucoup plus spécialisés sur un domaine métier.
 
-Lorsque tu as cette vision, tu dois choisir entre recruter au sein de l'administration ou contractualiser en externe.
+Lorsque tu as cette vision, tu dois choisir entre contractualiser en externe ou recruter au sein de l'administration.
 
 ## Contractualiser en externe (prestataire, freelances)
 
 ### Étape 1: Prise de contact avec l'attributaire, l'expression de besoin
-Regroupe ta vision de l'équipe cible, du problème à résoudre et de ton objectif dans une [expression de besoin](../../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/budget-de-sa-se/faire-une-demande-de-devis#1.-transmettre-une-expression-de-besoin), puis, transmet-la au bon attributaire:
- - pour le [marché interministériel (dev, design, ops, déploiement...](../../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/marches-publics-beta.gouv.fr/marche-interministeriel-beta)
- - pour le [marché de coaching](../../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/marches-publics-beta.gouv.fr/marche-coaching)
 
-### Étape 2: Discussion et rencontre des profils présentés par l'attributaire
-Si l'attributaire identifie des profils pouvant correspondre au besoin que tu lui as transmis, tu peux organiser des rencontres avec eux afin de voir s'ils correspondent à ta demande. 
+Regroupe ta vision de l'équipe cible, du problème à résoudre et de ton objectif dans une [expression de besoin](../../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/budget-de-sa-se/faire-une-demande-de-devis/#1.-transmettre-une-expression-de-besoin), puis, transmet-la au bon attributaire:
+
+* pour le [marché interministériel (dev, design, ops, déploiement...](../../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/marches-publics-beta.gouv.fr/marche-interministeriel-beta/)
+* pour le [marché de coaching](../../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/marches-publics-beta.gouv.fr/marche-coaching/)
+
+### Étape 2 : Discussion et rencontre des profils présentés par l'attributaire
+
+Si l'attributaire identifie des profils pouvant correspondre au besoin que tu lui as transmis, tu peux organiser des rencontres avec eux afin de voir s'ils correspondent à ta demande.
 
 Tu peux suivre ce guide pour organiser ton entretien:
+
 {% content-ref url="entretiens-de-recrutement/" %}
 [entretiens-de-recrutement](entretiens-de-recrutement/)
 {% endcontent-ref %}
 
 Si aucun ne correspond, alors tu peux participer à la diffusion d'une offre pour attirer le profil correspondant.
 
-### Étape 3: Participer à la recherche de profils
+### Étape 3 : Participer à la recherche de profils
+
 * **La page** [**`recrutement`**](https://beta.gouv.fr/recrutement/) permet de détailler les caractéristiques du poste, et facilite la clôture des postes une fois pourvus.
 
 {% content-ref url="publier-une-offre-dembauche.md" %}
@@ -43,7 +48,7 @@ Si aucun ne correspond, alors tu peux participer à la diffusion d'une offre pou
 
 ## Contractualiser en interne
 
-Pour le recrutement sous le statut d'[agent public](../../actions-transverses/les-differents-statuts/fonctionnaires-et-contractuels-de-la-fonction-publique.md) (contractuel, vacataire, stagiaire), des procédures administratives sont à prévoir et encadrent notamment les démarches d'entretien: grille d'évaluation, compte-rendu d'entretien, dossier de recrutement…
+Pour le recrutement sous le statut d'[agent public](../../bienvenue/les-differents-statuts/fonctionnaires-et-contractuels-de-la-fonction-publique.md) (contractuel, vacataire, stagiaire), des procédures administratives sont à prévoir et encadrent notamment les démarches d'entretien: grille d'évaluation, compte-rendu d'entretien, dossier de recrutement…
 
 ## Aide au recrutement de métiers spécifiques
 

@@ -18,15 +18,9 @@ Pour contacter l'équipe qui le développe sur mattermost : #tmp-webinaire-numer
 **Bien suivre le tutoriel video ainsi que la checklist ci-dessous** (une erreur de personnalisation d'e-mail de suivi peut entrainer l'envoi d'une information hors sujet à des centaines de participants)
 {% endhint %}
 
+* [ ] Demander un accès animateur pour créer et lancer un webinaire
+* [ ] Faites une demande ici avec comme login l'email de contact de votre startup :[https://startupdetat.typeform.com/to/kk7dXULl](https://startupdetat.typeform.com/to/kk7dXULl) . Vous recevrez un mail pour vous connecter à livestorm
 * [ ] Bien s'assurer qu'un autre événement n'a pas déjà été programmé sur le même créneau ou un créneau proche.
-* [ ] Le jour J, **une seule personne doit se connecter en qualité d’administrateur** (c'est-à-dire avec le login contact@api.gouv.fr) pour pouvoir lancer et terminer la retransmission. Tous les intervenants doivent être ajoutés au moment de la création du webinaire, avant l'événement.
+* [ ] Le jour J, l'**animateur doit se connecter avec des accès speciaux** pour pouvoir lancer et terminer la retransmission. Tous les intervenants doivent être ajoutés au moment de la création du webinaire, avant l'événement.
 * [ ] **Une personne avec le statut membre sur le compte Livestorm ne pourra jamais s'inscrire à un webinaire** via la page d'inscription. Elle pourra en revanche rejoindre n'importe quel webinaire à partir de l'interface d'administration.
-* [ ] **Un export analytics** demandé après la fin d'un webinaire sera envoyé par défaut à l'adresse contact@api.gouv.fr. Contactez un membre de l'équipe (canal `api-team` sur mattermost) pour récupérer le fichier.
-
-{% hint style="info" %}
-Login : **contact@api.gouv.fr**
-
-Demander le mot de passe sur la canal [incubateur-ops](https://mattermost.incubateur.net/betagouv/channels/incubateur-ops) de mattermost. \
-\
-Attention, le partage se fait via dashlane, le gestionnaire sécurisé de mot de passe beta. Si tu ne connais pas dashlane, [renseigne-toi d'abord](../dashlane.md).&#x20;
-{% endhint %}
+* [ ] **Un export analytics** demandé après la fin d'un webinaire sera envoyé par défaut à l'adresse de email utilisé pour se connecter en tant qu'animateur (normalement, l'email de contact de votre startup) . Contactez un membre de l'équipe (canal `api-team` sur mattermost) pour récupérer le fichier.

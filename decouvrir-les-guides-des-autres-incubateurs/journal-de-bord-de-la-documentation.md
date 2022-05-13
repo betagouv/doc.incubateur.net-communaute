@@ -20,14 +20,14 @@ La page de Bienvenue a été augmentée d'une introduction présentant cet espac
 [..](../)
 {% endcontent-ref %}
 
-Les sections [Découvrir notre culture](../travailler-a-beta-gouv/culture/), [Participer à la vie de la communauté](../travailler-a-beta-gouv/actions-transverses/), [Recruter](../travailler-a-beta-gouv/recrutement/), [Solliciter de l'aide transverse](../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-sollicite-de-laide-transverse/) ont été actualisées et corrigées.&#x20;
+Les sections [Découvrir notre culture](../travailler-a-beta-gouv/culture/), [Participer à la vie de la communauté](../travailler-a-beta-gouv/actions-transverses/), [Recruter](../travailler-a-beta-gouv/recrutement/), [Solliciter de l'aide transverse](../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-sollicite-de-laide-transverse/) ont été actualisées et corrigées.
 
 ### Migrations
 
 La documentation sur la phase de Consolidation / Transfert, auparavant hébergée sur un autre Gitbook, est à présent intégrée au présent espace de documentation.
 
-{% content-ref url="../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/4.-consolidation-et-transfert/" %}
-[4.-consolidation-et-transfert](../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/4.-consolidation-et-transfert/)
+{% content-ref url="../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/4.-consolidation-et-transfert" %}
+[4.-consolidation-et-transfert](../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/4.-consolidation-et-transfert)
 {% endcontent-ref %}
 
 La documentation Design qui était auparavant hébergée sur un autre Gitbook, est à présent intégrée au présent espace de documentation
@@ -38,12 +38,12 @@ La documentation Design qui était auparavant hébergée sur un autre Gitbook, e
 
 ### Nouvelles pages
 
-{% content-ref url="../travailler-a-beta-gouv/actions-transverses/guide-pour-les-candidat-e-s/" %}
-[guide-pour-les-candidat-e-s](../travailler-a-beta-gouv/actions-transverses/guide-pour-les-candidat-e-s/)
+{% content-ref url="../travailler-a-beta-gouv/recrutement/guide-pour-les-candidat-e-s.md" %}
+[guide-pour-les-candidat-e-s.md](../travailler-a-beta-gouv/recrutement/guide-pour-les-candidat-e-s.md)
 {% endcontent-ref %}
 
-{% content-ref url="../travailler-a-beta-gouv/actions-transverses/les-differents-statuts/" %}
-[les-differents-statuts](../travailler-a-beta-gouv/actions-transverses/les-differents-statuts/)
+{% content-ref url="../travailler-a-beta-gouv/bienvenue/les-differents-statuts/" %}
+[les-differents-statuts](../travailler-a-beta-gouv/bienvenue/les-differents-statuts/)
 {% endcontent-ref %}
 
 {% content-ref url="../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/standards-de-qualite-beta.gouv.fr.md" %}

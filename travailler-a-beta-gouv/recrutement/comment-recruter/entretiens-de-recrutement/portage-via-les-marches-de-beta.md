@@ -8,7 +8,7 @@ description: >-
 
 ## Quels sont les informations et documents à fournir ?
 
-**Informations :**&#x20;
+**Informations :**
 
 * Identité : nom, prénom, adresse, téléphone du signature du contrat (toi!)
 * Nom de la société (si tu n'en as pas, tu peux indiquer ton prénom et ton nom)
@@ -16,20 +16,20 @@ description: >-
 * Forme de la société
 * Numéro SIRET
 * Numéro de TVA (seulement si tu en as un)
-* [Ton taux journalier moyen HT](../../observatoire-revenus.md#grille-de-taux-journaliers) négocié lors de ton recrutement
+* [Ton taux journalier moyen HT](../observatoire-revenus.md#grille-de-taux-journaliers) négocié lors de ton recrutement
 
-**Documents :**&#x20;
+**Documents :**
 
 * RIB
 * Attestation URSSAF (micro-entreprise) ou extrait KBIS (autres statuts)
 * Attestation de régularité fiscale (disponible depuis l'espace URSSAF)
 
-_Selon les entreprises de portage :_&#x20;
+_Selon les entreprises de portage :_
 
 * Assurance responsabilité civile professionnelle
 
 {% hint style="info" %}
-**Besoin d'aide :** [**#domaine-indeps**](https://mattermost.incubateur.net/betagouv/channels/domaine-indeps)****
+**Besoin d'aide :** [**#domaine-indeps**](https://mattermost.incubateur.net/betagouv/channels/domaine-indeps)\*\*\*\*
 {% endhint %}
 
 ### Suis-je obligé d'avoir une assurance responsabilité civile ?
@@ -38,7 +38,7 @@ Cette décision relève de tes propres choix. Tu peux demander les avis et retou
 
 ## Est-ce que je dois signer un contrat ?
 
-Les entreprises des marchés de beta te proposeront de signer soit :&#x20;
+Les entreprises des marchés de beta te proposeront de signer soit :
 
 * **un contrat cadre** qui te liera à l'entreprise. Ces entreprises t'adresseront dans un second temps un bon de commande pour la durée de la mission liée à ta Startup d'Etat.
 * **un contrat de mission** rattaché spécifiquement à la mission de ta Startup d'Etat.
@@ -53,7 +53,7 @@ Ces contrats ne doivent pas t'empêcher de continuité de travailler pour d'autr
 
 ## Quand vais-je recevoir ma première paie ?
 
-Théoriquement, tu recevras ta première paie dans les 30 jours suivant le dépôt de ta première facture.&#x20;
+Théoriquement, tu recevras ta première paie dans les 30 jours suivant le dépôt de ta première facture.
 
 Par exemple, si tu démarres le 1er octobre et que tu déposes ta facture le 30 octobre, tu sera payé le 30 novembre au plus tard.
 

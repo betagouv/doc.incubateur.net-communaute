@@ -6,8 +6,8 @@ Utiliser la barre de recherche, en haut à droite de l'écran **"Rechercher"**
 
 ## 1. Je suis une personne candidate ou intéressée pour travailler chez beta.gouv :
 
-{% content-ref url="../travailler-a-beta-gouv/actions-transverses/guide-pour-les-candidat-e-s/" %}
-[guide-pour-les-candidat-e-s](../travailler-a-beta-gouv/actions-transverses/guide-pour-les-candidat-e-s/)
+{% content-ref url="../travailler-a-beta-gouv/recrutement/guide-pour-les-candidat-e-s.md" %}
+[guide-pour-les-candidat-e-s.md](../travailler-a-beta-gouv/recrutement/guide-pour-les-candidat-e-s.md)
 {% endcontent-ref %}
 
 {% embed url="https://beta.gouv.fr/recrutement/" %}

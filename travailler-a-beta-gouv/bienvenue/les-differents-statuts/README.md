@@ -8,13 +8,10 @@ Cette section de la documentation explique les différences administratives lié
 [fonctionnaires-et-contractuels-de-la-fonction-publique.md](fonctionnaires-et-contractuels-de-la-fonction-publique.md)
 {% endcontent-ref %}
 
-{% content-ref url="../sengager-dans-une-action-transverse/salaries-des-societes-de-prestation.md" %}
-[salaries-des-societes-de-prestation.md](../sengager-dans-une-action-transverse/salaries-des-societes-de-prestation.md)
+{% content-ref url="salaries-des-societes-de-prestation.md" %}
+[salaries-des-societes-de-prestation.md](salaries-des-societes-de-prestation.md)
 {% endcontent-ref %}
 
-{% content-ref url="../sengager-dans-une-action-transverse/independants-freelances.md" %}
-[independants-freelances.md](../sengager-dans-une-action-transverse/independants-freelances.md)
+{% content-ref url="independants-freelances/" %}
+[independants-freelances](independants-freelances/)
 {% endcontent-ref %}
-
-
-

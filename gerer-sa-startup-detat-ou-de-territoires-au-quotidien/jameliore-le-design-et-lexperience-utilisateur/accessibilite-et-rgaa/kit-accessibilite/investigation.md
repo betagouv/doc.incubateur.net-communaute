@@ -10,7 +10,7 @@ description: >-
 
 _Concevoir un service numérique accessible, c'est comprendre que ce service est utilisé par des vrais gens._
 
-![Panorama de personnes concernées par l'accessibilité, de design-accessible.fr](<../../../../.gitbook/assets/image (22).png>)
+![Panorama de personnes concernées par l'accessibilité, de design-accessible.fr](<../../../../.gitbook/assets/image (22) (1).png>)
 
 Le W3C a réalisé cette courte vidéo (4 minutes) pour expliquer très simplement [les notions d’accessibilité web et de standards](https://www.w3.org/WAI/videos/standards-and-benefits/fr) :
 
@@ -40,7 +40,7 @@ L'accessibilité est une histoire de conception : **un handicap est causé par u
 * [Écouter des témoignages de personnes non voyantes](https://app.gitbook.com/emissions/place-de-la-toile/les-aveugles-face-au-numerique)
 * [Découvrir que les personnes handicapées peuvent être des cons comme les autres](https://www.youtube.com/watch?v=p8w60RPo7t4) (spot publicitaire réalisée par l’association belge pour le logement des handicapés).
 * Regarder [J’en crois pas mes yeux](http://www.jencroispasmesyeux.com), une initiative ayant pour ambition de créer du lien entre personnes valides et handicapées grâce à l’humour.
-* Admirer la langue des signes en chorégraphie avec [Shake it off de Taylor Swift en langue des signes américaine](https://www.youtube.com/watch?v=npEQattWkYc) ou [Formidable de Stromae en LSF](https://www.youtube.com/watch?v=5Qd6S37rasU).&#x20;
+* Admirer la langue des signes en chorégraphie avec [Shake it off de Taylor Swift en langue des signes américaine](https://www.youtube.com/watch?v=npEQattWkYc) ou [Formidable de Stromae en LSF](https://www.youtube.com/watch?v=5Qd6S37rasU).
 * [Découvrir comment un aveugle navigue sur le web ou sur mobile](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/08/30/demonstrations-accessibilite-numerique.html) avec Jamshid Kohandel.
 
 ## Comprendre l'impact sur mon service numérique
@@ -59,7 +59,7 @@ Une situation de handicap peut impacter la manière dont les utilisateurs utilis
 
 En identifiant les capacités nécessaires au fonctionnement du service, vous pourrez :
 
-* **identifier les obstacles** qui peuvent mettre certaines personnes  en situation de handicap ;
+* **identifier les obstacles** qui peuvent mettre certaines personnes en situation de handicap ;
 * **proposer des alternatives** accessibles.
 
 ### Identifier les obstacles
