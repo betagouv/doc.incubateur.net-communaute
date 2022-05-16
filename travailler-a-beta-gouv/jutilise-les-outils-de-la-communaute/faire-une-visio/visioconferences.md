@@ -30,5 +30,3 @@ Le compte Livestorm est partagé entre toutes les startups, avec une limite glob
 {% hint style="warning" %}
 Ne pas modifier le profil de l'espace de travail pour le personnaliser (nom, adresse de contact, icône, etc.) : il s'agit d'un espace partagé et tous les webinaires en dépendent.&#x20;
 {% endhint %}
-
-*
