@@ -22,7 +22,7 @@ En effet, bien que les simulateurs beta.gouv concernent des domaines différents
 * Générer un formulaire ou une liste de questions en fonction des réponses précédentes
 * Proposer automatiquement une documentation Web explorable du calcul
 
-Si vous rencontrez aussi ces besoins, Publicodes peut être une bonne solution. Il est développé par des membres de la communauté beta.gouv et pourra être amélioré selon vos cas d'usage. La documentation est disponible sur[https://publi.codes](https://publi.codes) et il existe un [canal dédié](https://mattermost.incubateur.net/betagouv/channels/domaine-dev-publicodes) sur le [mattermost](https://app.gitbook.com/o/-LrIsEqqjEjdRXwfHPAD/s/-M4-Pru\_Xyamh27tzw85/\~/diff/\~/changes/Ib8tvxSZ6nm7GAXLBjr2/travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/mattermost).
+Si vous rencontrez aussi ces besoins, Publicodes peut être une bonne solution. Il est développé par des membres de la communauté beta.gouv et pourra être amélioré selon vos cas d'usage. La documentation est disponible sur[https://publi.codes](https://publi.codes) et il existe un [canal dédié](https://mattermost.incubateur.net/betagouv/channels/domaine-dev-publicodes) sur le [mattermost](../../travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/mattermost/).
 
 Note : si vous trouvez publicodes intéressant, mais pensez que vos besoins nécessitent quand même un développement spécifique, n'hésitez pas à [passer une tête](https://mattermost.incubateur.net/betagouv/channels/domaine-dev-publicodes) pour nous en parler :)
 
