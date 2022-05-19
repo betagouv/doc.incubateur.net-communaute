@@ -20,13 +20,15 @@ Ne plus se connecter à Livestorm avec le login contact@api.gouv.fr. Chaque star
 Le compte Livestorm est partagé entre toutes les startups, avec une limite globale de 1 000 contacts actifs par mois (inscrits compris). Si vous avez un besoin récurrent d'organiser des webinaires, il convient de créer votre propre compte Livestorm.
 {% endhint %}
 
-1. Demander un accès animateur pour créer et lancer un webinaire, en complétant ce formulaire : [https://startupdetat.typeform.com/to/kk7dXULl](https://startupdetat.typeform.com/to/kk7dXULl) . Vous recevrez un mail de confirmation pour vous connecter à Livestorm.&#x20;
-2. Bien suivre le tutoriel video ainsi que les étapes ci-dessous (une erreur de personnalisation d'e-mail de suivi peut entrainer l'envoi d'une information hors-sujet à des centaines de participants).&#x20;
-3. Bien s'assurer qu'un autre événement n'a pas déjà été programmé sur le même créneau ou un créneau proche.&#x20;
+1. Demander un accès animateur pour créer et lancer un webinaire, en complétant ce formulaire : [https://startupdetat.typeform.com/to/kk7dXULl](https://startupdetat.typeform.com/to/kk7dXULl) . Vous recevrez un mail de confirmation pour vous connecter à Livestorm.
+2. Bien suivre le tutoriel video ainsi que les étapes ci-dessous (une erreur de personnalisation d'e-mail de suivi peut entrainer l'envoi d'une information hors-sujet à des centaines de participants).
+3. Bien s'assurer qu'un autre événement n'a pas déjà été programmé sur le même créneau ou un créneau proche.
 4. Le jour J, l'animateur doit se connecter pour pouvoir lancer et terminer la retransmission. Tous les intervenants doivent être ajoutés au moment de la création du webinaire, avant l'événement.
 5. Une personne avec le statut membre sur le compte Livestorm ne pourra jamais s'inscrire à un webinaire via la page d'inscription. Elle pourra en revanche rejoindre n'importe quel webinaire à partir de l'interface d'administration.
-6. Un export analytics demandé après la fin d'un webinaire sera envoyé par défaut à l'adresse email de l'animateur du webinaire (normalement, l'email de contact de votre startup).&#x20;
+6. Un export analytics demandé après la fin d'un webinaire sera envoyé par défaut à l'adresse email de l'animateur du webinaire (normalement, l'email de contact de votre startup).
 
 {% hint style="warning" %}
-Ne pas modifier le profil de l'espace de travail pour le personnaliser (nom, adresse de contact, icône, etc.) : il s'agit d'un espace partagé et tous les webinaires en dépendent.&#x20;
+Ne pas modifier le profil de l'espace de travail pour le personnaliser (nom, adresse de contact, icône, etc.) : il s'agit d'un espace partagé et tous les webinaires en dépendent.\
+\
+On discute de Livestorm sur un [canal Mattermost dédié](https://mattermost.incubateur.net/betagouv/channels/domaine-webinaire-livestorm).&#x20;
 {% endhint %}
