@@ -6,11 +6,11 @@ description: >-
 
 # Comment activer l'option thread/fil ?
 
-## Etape 1**. Clique sur les 3 bandes horizontales**&#x20;
+## Etape 1. Clique sur les 3 bandes horizontales
 
 ![](../../../../.gitbook/assets/capture-1.jpg)
 
-****
+***
 
 ## Etape 2. **Clique sur "Paramètres du compte"**
 
@@ -20,13 +20,9 @@ description: >-
 
 ![](../../../../.gitbook/assets/capture-3.jpg)
 
-****
-
 ## **Etape 4. Choisis "On" puis enregistrer.**
 
 ![](../../../../.gitbook/assets/capture-4.jpg)
-
-### ****
 
 ## Démo vidéo
 
