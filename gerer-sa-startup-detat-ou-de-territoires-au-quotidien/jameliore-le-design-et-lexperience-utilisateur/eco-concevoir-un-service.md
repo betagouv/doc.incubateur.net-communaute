@@ -34,7 +34,7 @@ Créer une sobriété numérique passe par plusieurs leviers :
 
 ## Les bonnes pratiques
 
-![Les bonnes pratiques de l'éco-conception](<../../.gitbook/assets/image (14).png>)
+![Les bonnes pratiques de l'éco-conception](../../.gitbook/assets/image.png)
 
 La première question à se poser est : **Quel impact à mon service ?** Faire un **audit** sur l’arborescence, les textes, la nomenclatures, les médias ou les technos utilisées permet de **se situer**.
 
