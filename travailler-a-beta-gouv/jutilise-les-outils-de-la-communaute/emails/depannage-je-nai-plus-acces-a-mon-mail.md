@@ -4,17 +4,17 @@ description: >-
   coup, plus rien. Cette section peut t'aider à trouver la solution.
 ---
 
-# Dépannage : je n'ai plus accès à mon mail
+# Je n'ai plus accès à mon mail
 
-#### As-tu dépassé ta date de fin de mission ?&#x20;
+#### As-tu dépassé ta date de fin de mission ?
 
-Les droits d'accès aux ressources beta.gouv.fr (dont l'email fait partie) sont liés à la date de fin de mission sur ta fiche membre. Pour savoir si celle-ci est dépassée, tu peux consulter [l'annuaire](https://beta.gouv.fr/communaute/annuaire).&#x20;
+Les droits d'accès aux ressources beta.gouv.fr (dont l'email fait partie) sont liés à la date de fin de mission sur ta fiche membre. Pour savoir si celle-ci est dépassée, tu peux consulter [l'annuaire](https://beta.gouv.fr/communaute/annuaire).
 
-Si ta fiche n'est plus dans les membres actif, c'est que ta date doit être expirée. Voici les instructions :&#x20;
+Si ta fiche n'est plus dans les membres actif, c'est que ta date doit être expirée. Voici les instructions :
 
 1. [Mettre à jour ](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/outils/mise-a-jour-de-mes-informations)ta date de fin de mission (il faut ensuite attendre qu'un autre membre valide le changement sur github)
-2. [Renouveler le mot de passe](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/emails#retrouver-ou-renouveler-mon-mot-de-passe) de ta boite mail via le secrétariat
-3. Accéder à ta boite mail avec le nouveau mot de passe&#x20;
+2. [Renouveler le mot de passe](definir-ou-renouveler-mon-mot-de-passe-beta.gouv.fr.md) de ta boite mail via le secrétariat
+3. Accéder à ta boite mail avec le nouveau mot de passe
 
 #### J'ai besoin d'aide
 
