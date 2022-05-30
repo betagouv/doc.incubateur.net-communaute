@@ -72,10 +72,9 @@ Tous les dossiers mails (brouillons, envoyés, reçu, archivés, etc.) sont main
 Tu peux consulter tes mails directement sur [RoundCube](https://mail.ovh.net/roundcube/). L'interface n'est pas géniale, mais ça peut être une bonne solution pour dépanner, ou quand tu n'a pas accès à ton client web habituel.
 {% endhint %}
 
-##  Configurer un message d'absence
-Se connecter à https://secretariat.incubateur.net/
-S'identifier avec ses logins
-Puis se rendre dans Secrétarait_Mon Compte_Configurer mon client mail pour modifier son message  d'absence
+## Configurer un message d'absence
+
+Se connecter à https://secretariat.incubateur.net/ S'identifier avec ses logins Puis se rendre dans Secrétarait\_Mon Compte\_Configurer mon client mail pour modifier son message d'absence
 
 ## Envoyer des mails en masse
 
@@ -103,7 +102,7 @@ Ta signature ne doit pas mentionner la DINUM, pour éviter de porter à confusio
 
 Si tu as perdu ton mot de passe, tu peux te connecter au [secretariat](https://secretariat.incubateur.net/account#password) avec ton adresse secondaire que tu as dû renseigner à ton arrivée. Tu pourras y changer ton mot de passe pour ton adresse @beta.gouv.fr en te rendant dans [l'admin de ton compte](https://secretariat.incubateur.net/account#password).
 
-Si tu n'as pas d'email secondaire, tu peux suivre la procédure : [demander l'ajout de mon email secondaire](./#Demander-lajout-de-mon-email-secondaire).
+Si tu n'as pas d'email secondaire, tu peux suivre la procédure : [demander l'ajout de mon email secondaire](./#demander-lajout-de-mon-email-secondaire).
 
 ## Demander l'ajout de mon email secondaire
 
@@ -115,11 +114,11 @@ Jusqu'ici, tu recevais tes mails beta.gouv sans (trop) de soucis. Tout d'un coup
 
 ### As-tu dépassé ta date de fin de mission ?
 
-Les droits d'accès aux ressources beta.gouv (dont l'email fait partie) sont liés à la date de fin de mission sur ta fiche membre. Pour savoir si celle-ci est dépassée, tu peux consulter https://beta.gouv.fr/communaute/annuaire. Si ta fiche n'est plus dans les membres actif, c'est que ta date doit être expirée. Voici les instructions :&#x20;
+Les droits d'accès aux ressources beta.gouv (dont l'email fait partie) sont liés à la date de fin de mission sur ta fiche membre. Pour savoir si celle-ci est dépassée, tu peux consulter https://beta.gouv.fr/communaute/annuaire. Si ta fiche n'est plus dans les membres actif, c'est que ta date doit être expirée. Voici les instructions :
 
 1. [Mettre à jour ](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/outils/mise-a-jour-de-mes-informations)ta date de fin de mission (il faut ensuite attendre qu'un autre membre valide le changement sur github)
 2. [Renouveler le mot de passe](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/emails#retrouver-ou-renouveler-mon-mot-de-passe) de ta boite mail via le secrétariat
-3. Accéder à ta boite mail avec le nouveau mot de passe&#x20;
+3. Accéder à ta boite mail avec le nouveau mot de passe
 
 #### J'ai besoin d'aide
 
