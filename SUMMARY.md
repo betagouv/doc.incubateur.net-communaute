@@ -20,6 +20,7 @@
     * [Indépendants (freelances)](travailler-a-beta-gouv/actions-transverses/sengager-dans-une-action-transverse/independants-freelances.md)
       * [Devenir freelance](travailler-a-beta-gouv/recrutement/devenir-freelance.md)
         * [Charte des freelances](travailler-a-beta-gouv/recrutement/charte-des-freelances.md)
+  * [Je reviens dans la communauté](travailler-a-beta-gouv/bienvenue/je-reviens-dans-la-communaute.md)
 * [💫 Découvrir notre culture](travailler-a-beta-gouv/culture/README.md)
   * [Notre charte](travailler-a-beta-gouv/culture/charte.md)
   * [Culture de travail](travailler-a-beta-gouv/culture/normes-de-conduite.md)
