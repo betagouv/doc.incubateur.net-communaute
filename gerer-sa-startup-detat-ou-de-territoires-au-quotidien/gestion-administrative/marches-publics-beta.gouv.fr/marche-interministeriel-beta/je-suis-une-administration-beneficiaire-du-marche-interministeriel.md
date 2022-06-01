@@ -9,7 +9,7 @@ Pour [demander un devis](../../budget-de-sa-se/faire-une-demande-de-devis/demand
 Une Startup d'Etat :
 
 * dispose systématiquement d'une fiche produit sur le site beta.gouv.fr, référencée sur [beta.gouv.fr/startups](https://beta.gouv.fr/startups/) ;
-* est obligatoirement rattachée à un des incubateurs du réseau beta.gouv qui dispose d'une convention de partenariat avec la DINUM, ou à défaut d'incubateur, est rattachée à l'[incubateur de la DINUM](../../../../decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/) (en général, cela se matérialise par une convention de partenariat entre l'administration porteuse et la DINUM) ; 
+* est obligatoirement rattachée à un des incubateurs du réseau beta.gouv qui dispose d'une convention de partenariat avec la DINUM, ou à défaut d'incubateur, est rattachée à l'[incubateur de la DINUM](../../../../decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/) (en général, cela se matérialise par une convention de partenariat entre l'administration porteuse et la DINUM) ;
 * est composée d'une équipe qui s'engage à suivre le manifeste beta.gouv ;
 * est en phase de construction, d'accélération ou de transfert/consolidation.
 
@@ -21,7 +21,7 @@ Chaque Startup d'Etat débute par une [phase d'investigation](https://beta.gouv.
 
 #### **Quelles sont les informations à fournir au titulaire à chaque nouveau besoin ?**
 
-Pour les besoins faisant suite à une phase d'investigation validant le passage en phase de construction, vous devez fournir une [fiche de fin d'invesgation](https://beta.gouv.fr/content/docs/grille_lancement.pdf). Pour les autres besoins en phase de construction, d'accélération ou de transfert, vous devez systématiquement fournir le lien vers la fiche produit disponible sur le site de beta.gouv.
+Pour les besoins faisant suite à une phase d'investigation validant le passage en phase de construction, vous devez fournir une [fiche de fin d'invesgation](https://beta.gouv.fr/content/docs/grille\_lancement.pdf). Pour les autres besoins en phase de construction, d'accélération ou de transfert, vous devez systématiquement fournir le lien vers la fiche produit disponible sur le site de beta.gouv.
 
 ### B. Mon besoin ne concerne pas une Startup d'Etat
 
@@ -45,3 +45,25 @@ Vous pouvez vous rapprocher de beta.gouv pour échanger à dinum@beta.gouv.fr. S
 #### Que puis-je faire si j'ai un doute ?
 
 Vous pouvez contacter l'équipe de beta.gouv sur dinum@beta.gouv.fr.
+
+
+
+## Qu'est-ce que le "markup" ?
+
+Le markup est le taux de marque. Chaque entreprise titulaire ajoute un taux de marque à ses prestations dans le cas où des sous-traitants sont mobilisés.
+
+### Pourquoi y-a-t-il un taux de marque ?
+
+Le taux de marque des entreprises titulaires s'explique pour plusieurs raisons :
+
+* l'investissement consenti pour répondre au marché public sans garantie d'être retenu ;
+* le gestion administrative des prestations réalisées dans le cadre du marché ;
+* l'avance de trésorerie pour payer les indépendants (souvent, les entreprises ne sont payés que 4 à 6 mois après la réalisation des missions alors qu'elles paient les indépendants dans les 30 jours suivant leur facturation)
+
+### Pourquoi y-a-t-il des différences entre les markups des entreprises titulaires ?
+
+Lors de la mise en concurrence des entreprises titulaires du marché, chacune a présenté une offre indiquant leur markup respectif.
+
+Ces entreprises ont été notées selon différents critères dont celui du prix.
+
+Ces markups peuvent donc être différents. Ils ne sont pas publics en raison du secret commercial.

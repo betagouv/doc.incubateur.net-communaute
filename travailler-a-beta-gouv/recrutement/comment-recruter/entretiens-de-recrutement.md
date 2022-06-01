@@ -2,15 +2,11 @@
 description: Proposition de guide d'entretiens pour recruter des membres dans son équipe.
 ---
 
-# Entretiens de recrutement
+# Guides d'entretiens par profil
 
 {% hint style="info" %}
-Cette section est en construction, nos équipes travaillent à enrichir ces guides d'entretien. Si vous êtes candidat·e et que votre corps de métier n'est pas documenté ici, nous vous invitons à solliciter la personne qui recrute pour plus d'informations sur le protocole d'entretien auquel vous serez soumis·e.&#x20;
+Cette section est en construction, nos équipes travaillent à enrichir ces guides d'entretien. Si vous êtes candidat·e et que votre corps de métier n'est pas documenté ici, nous vous invitons à solliciter la personne qui recrute pour plus d'informations sur le protocole d'entretien auquel vous serez soumis·e.
 {% endhint %}
-
-### **Mettre à l'aise les candidat·e·s**
-
-Tutoiement bienvenu, _dress code_ : comme on viendrait si on était déjà pris. En fait, dans l'idéal, ce qu'on aimerait c'est voir en deux heures ce que ça donnerait de bosser ensemble depuis deux mois.
 
 ### Coachs
 
@@ -18,17 +14,17 @@ Tutoiement bienvenu, _dress code_ : comme on viendrait si on était déjà pris.
 
 1. Connaissance de l'**environnement beta.gouv.fr, Startups d'État,** ou plus largement des **enjeux de la transformation numérique de l'État**
 2. **Motivations** à travailler dans le service public / sur le sujet de politique publique visé : volonté de faire bouger les lignes en sachant rester conciliant, intérêt pour la transformation numérique de l'administration, etc
-3. **Adéquation** [**culturelle**](../../../culture/) : culture entrepreneuriale + culture de l'intérêt général&#x20;
-4. Compétences en accompagnement d'équipe ou d'individus (**coaching**) : OKR, animations de formations, de rétros, capacité à savoir quand laisser faire ou prendre la main&#x20;
+3. **Adéquation** [**culturelle**](../../culture/) : culture entrepreneuriale + culture de l'intérêt général
+4. Compétences en accompagnement d'équipe ou d'individus (**coaching**) : OKR, animations de formations, de rétros, capacité à savoir quand laisser faire ou prendre la main
 5. Compétences **tech** : recrutement des développeurs, niveau technique, _product management_, _no code_
 6. Compétences **design** : connaissance de démarches UX, maquettage rapide (Sketch, Figma)
 7. Compétences **bizdev** : acquisition/conversion/rétention, deal-making
-8. Track-Record entrepreneurial : quels sont les succès et les échecs passés du candidat ?&#x20;
+8. Track-Record entrepreneurial : quels sont les succès et les échecs passés du candidat ?
 9. Posture et _soft skills_ : travail en autonomie, en équipe, en horizontalité, capacité à comprendre rapidement un contexte/jeu d'acteurs compliqué, focus problème, focus usagers, sortir de situation complexe pour tout faire pour la réussite du produit, acquérir la confiance des sponsors, capacité à fédérer autour d'une approche usager
 
-#### Guide d'entretien&#x20;
+#### Guide d'entretien
 
-45 minutes, dont :&#x20;
+45 minutes, dont :
 
 * 5 min de présentation
 * 5 min de présentation du contexte du recrutement
@@ -38,20 +34,18 @@ Tutoiement bienvenu, _dress code_ : comme on viendrait si on était déjà pris.
 
 ### Dev
 
-On prévoit environ 1h30, sur le canevas suivant :
+1h30, sur le canevas suivant :
 
-* (10 min) Qui nous sommes, quelle est la mission.
-* (20 min) Est-ce que tu penses pouvoir faire ce job ? As-tu des questions ?
-* (45 min) Tu peux nous montrer du code à toi, en prod, et expliquer ce qui te plaît et ce qui te déplaît dedans ?
-* (15 min) Quand et sous quelles conditions es-tu dispo ?
-
-Pour le point 3, **prévois donc de venir avec ta machine** (ou du code hébergé auquel on pourrait accéder) et d’avoir un peu réfléchi à ce que tu as envie d’en dire : une histoire à raconter sur pourquoi ce morceau de code ou son architecture te rend particulièrement fier·e, ou pourquoi celui-ci est vraiment très mauvais, pourquoi tu as décidé d'en arriver là, et comment tu aurais fait si les contraintes avaient été différentes.
+* 10 min : contexte
+* 20 min : présentation : "pourquoi penses-tu pouvoir réaliser cette mission ?"
+* 45 min : entretien technique : "tu peux nous montrer du code que tu as développé, en production, et expliquer ce qui te plaît et ce qui te déplaît dedans ?" (**prévoir  de venir avec sa machine,** ou du code hébergé auquel on pourrait accéder : une histoire à raconter sur pourquoi ce morceau de code ou son architecture te rend particulièrement fier·e, ou pourquoi celui-ci est vraiment très mauvais, pourquoi tu as décidé d'en arriver là, et comment tu aurais fait si les contraintes avaient été différentes)
+* 15 min : questions pratiques : disponibilité, conditions
 
 ### Gestionnaire de produit / Product Manager
 
 #### Environnement courant
 
-Parlons de ton poste actuel.
+Parlons de ta dernière mission
 
 * Quel est ton rôle au sein de l'équipe ? Avec qui travailles-tu ? Comment ?
 * Comment décides-tu quoi construire ?
@@ -86,7 +80,6 @@ Parlons d'un domaine qui te passionne. Quel produit voudrais-tu construire ?
 
 ### Designers
 
-{% content-ref url="../../../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/design/" %}
-[design](../../../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/design/)
+{% content-ref url="../../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/design/" %}
+[design](../../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/design/)
 {% endcontent-ref %}
-

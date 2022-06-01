@@ -21,8 +21,8 @@ Si l'attributaire identifie des profils pouvant correspondre au besoin que tu lu
 
 Tu peux suivre ce guide pour organiser ton entretien:
 
-{% content-ref url="entretiens-de-recrutement/" %}
-[entretiens-de-recrutement](entretiens-de-recrutement/)
+{% content-ref url="entretiens-de-recrutement.md" %}
+[entretiens-de-recrutement.md](entretiens-de-recrutement.md)
 {% endcontent-ref %}
 
 Si aucun ne correspond, alors tu peux participer à la diffusion d'une offre pour attirer le profil correspondant.

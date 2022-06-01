@@ -38,8 +38,8 @@ La documentation Design qui était auparavant hébergée sur un autre Gitbook, e
 
 ### Nouvelles pages
 
-{% content-ref url="../travailler-a-beta-gouv/actions-transverses/guide-pour-les-candidat-e-s/" %}
-[guide-pour-les-candidat-e-s](../travailler-a-beta-gouv/actions-transverses/guide-pour-les-candidat-e-s/)
+{% content-ref url="../je-ne-travaille-pas-chez-beta.gouv/guide-pour-les-candidat-e-s.md" %}
+[guide-pour-les-candidat-e-s.md](../je-ne-travaille-pas-chez-beta.gouv/guide-pour-les-candidat-e-s.md)
 {% endcontent-ref %}
 
 {% content-ref url="../travailler-a-beta-gouv/actions-transverses/les-differents-statuts/" %}
