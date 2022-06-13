@@ -6,9 +6,9 @@ description: Exploration > Persona
 
 ### Pourquoi ?
 
-| Pour le produit                                                                                                                                                             | Pour l'équipe                                                                                                                          |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| <p></p><ul><li>Répondre aux besoins des utilisateurs </li></ul><ul><li>Identifier des parcours d’usage </li></ul><ul><li>Trouver des opportunités d’amélioration </li></ul> | <p></p><ul><li>Aligner l’équipe </li></ul><ul><li>Aider à la prise de décison </li></ul><ul><li>Synthéthiser ses découvertes</li></ul> |
+| Pour le produit                                                                                                                                                      | Pour l'équipe                                                                                                                   |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>Répondre aux besoins des utilisateurs </li></ul><ul><li>Identifier des parcours d’usage </li></ul><ul><li>Trouver des opportunités d’amélioration </li></ul> | <ul><li>Aligner l’équipe </li></ul><ul><li>Aider à la prise de décison </li></ul><ul><li>Synthéthiser ses découvertes</li></ul> |
 
 ### Quand ?
 
@@ -32,11 +32,7 @@ Prévoir un atelier d'1h30 par persona avec les membres de l'équipe (dont un de
 
 ### Ressources
 
-Template d'atelier Persona pas à pas :&#x20;
-
-[\[ouvrir dans Mural\]](https://app.mural.co/t/betagouvfr2636/m/betagouvfr2636/1642602371535/9af4f0a3358211290c4bb6e4169bb24b29d904cf?sender=aurelie2105)&#x20;
-
-ou \[[télécharger le pdf](https://drive.google.com/file/d/1dKJ6IF2SRuYIg38KGz--YA57WDOVmVcK/view?usp=sharing)]
+Template d'atelier Persona pas à pas : [\[ouvrir dans Mural\]](https://app.mural.co/t/betagouvfr2636/m/betagouvfr2636/1642602371535/9af4f0a3358211290c4bb6e4169bb24b29d904cf?sender=aurelie2105)  ou \[[télécharger le pdf](https://drive.google.com/file/d/1dKJ6IF2SRuYIg38KGz--YA57WDOVmVcK/view?usp=sharing)]
 
 ### Pour aller plus loin
 
