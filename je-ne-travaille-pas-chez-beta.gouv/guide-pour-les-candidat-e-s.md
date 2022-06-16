@@ -38,6 +38,8 @@ Plusieurs recommandations sont diffusées aux équipes beta.gouv.fr ci-dessous. 
 
 ### Quelques ressources sur beta.gouv.fr
 
+Vous pouvez consulter la vidéo suivante ou, si vous avez plus de temps, écouter [ce podcast](https://yolocracy.org/publications/turbulents-5-ishan-bhojwani-beta-gouv/).
+
 {% embed url="https://www.youtube.com/watch?v=bqq5LevJESs" %}
 
 {% content-ref url="../travailler-a-beta-gouv/culture/" %}
