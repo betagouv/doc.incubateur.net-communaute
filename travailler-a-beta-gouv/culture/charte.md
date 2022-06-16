@@ -1,49 +1,74 @@
-# Notre charte
+# Nos valeurs
 
-![](../../.gitbook/assets/charte_beta_page-0001.jpg)
+_Si nous travaillons chez beta.gouv c’est que nous avons à cœur d’œuvrer pour l’intérêt général. Nous pensons que le service public est l’un des meilleurs moyens pour y arriver : nous le défendons fermement et voulons montrer qu’il est capable de faire aussi bien voir mieux que le privé, notamment dans le numérique._&#x20;
 
-{% hint style="info" %}
-[Télécharger en version PDF](https://raw.githubusercontent.com/betagouv/doc.incubateur.net-communaute/000e7150af3435ac934c78a836197b28a27a96cf/travailler-a-beta-gouv/culture/charte_beta.pdf)
-{% endhint %}
+_Le corollaire de cet engagement est notre exigence pour l’impact. Il s’agit de s’assurer que les actions que nous menons transforment vraiment les politiques publiques, la société et la vie des usagers. Pour ce faire, nous développons une nouvelle approche de l’administration reposant sur le faire, l’amélioration continue, l’autonomie et la transparence._&#x20;
 
-## Ici, on a le droit…
+_De même, pour réussir nous construisons une communauté d’entraide et de partage où les conditions de travail visent l’exemplarité. Ainsi, les valeurs de beta.gouv représentent cette triple dynamique : une volonté, une manière de faire, une communauté._
 
-* de dire « je ne sais pas »
-* de demander à ce que quelque chose soit clarifié
-* de rester chez soi quand on se sent malade
-* de dire qu'on n'a pas compris
-* de demander ce que signifient les sigles
-* d’oublier des trucs
-* de se présenter
-* de s’appuyer sur l’équipe
-* de demander de l'aide
-* de ne pas tout savoir
-* d’être silencieux certains jours
-* d’autres jours, de parler fort, de rire et de faire des vannes
-* de mettre son casque sur les oreilles
-* de dire « non » quand on n’a pas le temps
-* de faire des erreurs
-* de chanter
-* de soupirer
-* de ne pas consulter ses mails sur son temps libre
-* de ne pas consulter ses mails tout le temps au boulot
-* de demander sur Mattermost
-* de demander en personne aux collègues
-* de s’isoler pour se concentrer
-* de donner son avis sur le travail des autres
-* de critiquer ce qui nous met mal à l'aise
-* d'accepter quand quelqu'un propose du café
-* de préférer le thé
-* de grignoter
-* d'avoir un bureau en désordre
-* d'avoir un bureau bien rangé
-* de bosser comme on a envie de bosser
-* de demander à la hiérarchie de résoudre un problème
-* d'avoir un jour sans
-* de prendre sa journée
-* de saluer et d'être salué·e comme on le souhaite : avec ou [sans contact](http://romy.tetue.net/mille-milliards-de-mille-bises)
-* de dire "ce que tu viens de dire est déplacé" quand on est témoin ou victime d'une remarque sexiste, raciste ou plus généralement déplacée. Il est conseillé de ne pas en ajouter et notamment de ne pas sermonner. On parle aussi de "call-out" pour décrire ce protocole.
+### **Une volonté : défendre l’intérêt général par le service public**
+
+#### Défendre l’intérêt général par le service public
+
+Si nous travaillons chez beta.gouv c’est que nous avons à cœur d'œuvrer pour l’intérêt général et que nous pensons que le service public est l’un des meilleurs moyens pour y arriver. En ce sens, nous défendons fermement le service public car il est le seul à pouvoir répondre à certains enjeux - environnementaux et sociaux. Nous voulons montrer qu’il est capable de faire aussi bien que les entreprises privées notamment en terme de numérique.
+
+**L’obsession de l’impact**
+
+Le corollaire de notre engagement pour l'intérêt général via le service public est notre exigence pour l’impact. Il s’agit de s’assurer que les actions que nous menons aident réellement l’intérêt général, qu’elles ne sont pas seulement des plans, des réglementations mais qu’elles transforment vraiment la société. Pour ce faire, nous essayons d’avoir une action concrète, mesurable et mesurée. L’exigence de l’impact vient aussi du fait que nous sommes financés par des fonds publics dont nous sommes redevables en particulier via l’efficacité et la réalité de notre action.&#x20;
+
+Pour donner un exemple de l’impact, considérons la problématique de la vacance des logements. Il ne s’agit pas pour nous de faire un observatoire ou d’établir une stratégie contre la vacance - souvent commandé à un cabinet extérieur. Nous chercherons d’abord sur un périmètre restreint -partenariat avec quelques collectivités - à mobiliser les propriétaires de logements vacants et à les aider à remettre leur bien sur le marché. A partir de ces contacts et de ce travail, nous construisons une politique publique proactive que nous pourrons ensuite faire passer à l’échelle et qui nous permettra de récolter assez de données pour construire un observatoire.
+
+### Une manière de faire : Renforcer l’administration en faisant avec elle un pas de côté par rapport à l’organisation bureaucratique
+
+_Afin d’aider l'intérêt général et d’atteindre nos objectifs d’impacts, nous pensons qu’il faut faire un pas de côté par rapport à la bureaucratie traditionnelle. Si celle-ci a de nombreux succès à son actif et réussit un nombre important de missions, nous pensons qu’un autre modèle est possible et complémentaire notamment lorsqu’on touche aux services pour les usagers. L’objectif est de renforcer l'administration en donnant la capacité à des agents publics de créer de nouveaux services publics à impact en suivant une méthode inspirée du mode produit, de la recherche d’impact et de l'entreprenariat._
+
+**Horizontalité : ne plus séparer penseurs et faiseurs**
+
+Les décisions stratégiques sont prises non pas en fonction d’objectifs politiques, mais pour améliorer la réalité du terrain. Au sein d’une équipe beta.gouv.fr, il n’y pas d’un côté des personnes qui établissent des plans ou des stratégies et d’un autre côté, des personnes qui exécutent. Au contraire, une équipe beta.gouv.fr refuse la séparation des penseurs et des faiseurs. L’équipe est en charge de résoudre un problème, et pour cela, c’est à elle de penser à des solutions, de les tester et de développer ce qui fonctionne.
+
+**Démarrer vite  et frugalement puis s’améliorer en continu**
+
+Au lieu de passer beaucoup de temps à élaborer une feuille de route ou un cahier des charges détaillé, on va préférer rapidement identifier un problème actionnable et bricoler une première version - imparfaite ! - de la solution. On va regarder l’usage de cette première version de solution, et l’améliorer petit à petit. Par exemple, au lieu de sortir un projet numérique qui est censé tout révolutionner à sa sortie mais seulement dans dix ans, on développe une première version sans code - une feuille de calcul, un site en ligne pré-construit, un formulaire en ligne - sur un périmètre - territorial, d’usager – restreint. A partir des retours des usagers, on améliore peu à peu ce mode conciergerie et une fois qu’on a assez de connaissance et qu’on est sûr que des usagers l’utiliseront, on développe un produit en propre. Par la suite, on essaye de faire passer ce produit à l'échelle tout en continuant à le modifier pour qu’ils répondent mieux aux problèmes des usagers.
 
 {% hint style="info" %}
-Cette charte est librement inspirée de celle de [Gov.UK](https://twitter.com/gilest/status/735131901900521472).
+À ce sujet, vous pouvez utilement lire le billet de blog [_The strategy is delivery_](https://mikebracken.com/blog/the-strategy-is-delivery-again/)_,_ où **Mike Bracken**, co-fondateur du [Government Digital Service](https://fr.wikipedia.org/wiki/Government\_Digital\_Service), raconte pourquoi en matière de services numériques, il vaut mieux ne pas perdre de temps à élaborer une stratégie long-terme où tout a été pensé à l'avance.&#x20;
 {% endhint %}
+
+**Avoir le droit à l’erreur**
+
+Nous savons que nous commettons toutes et tous des erreurs, et savons aussi que ceux-ci permettent d'apprendre et de progresser. Trop de services numériques publics ne fonctionnent pas vraiment, sans que personne ne l'assume car classiquement, l'administration n'a pas le droit à l'erreur. Chez beta.gouv.fr, les équipes peuvent tester des solutions qui parfois ne trouveront pas leur public. Dans ces cas-là, nous les invitons à prendre acte et à documenter, via un [post-mortem](https://fr.wikipedia.org/wiki/Retour\_d'exp%C3%A9rience) (retour d'expérience).
+
+**Faire pour et avec  les usagers**
+
+Toujours faire pour et avec les usagers, co-construire les services avec eux et s’assurer de leur accessibilité. De cette manière on s’assure que le service développé est à la fois utile, utilisé et utilisable.
+
+**Autonomie et responsabilité**
+
+Les équipes sont autonomes c'est-à-dire que ce sont elles qui connaissent le mieux la problématique, le terrain et qui savent le mieux comment avoir de l’impact. Elles sont en charge de leurs produits dont elles choisissent les orientations stratégiques et fonctionnelles. Dans cette perspective, les équipes sont naturellement horizontales c'est-à-dire que chaque membre de l’équipe prend part au décision et que le budget et les rémunérations sont partagés. La responsabilité est le corollaire de l’autonomie et de l'horizontalité. En effet, les équipes sont autonomes et non indépendantes et si elles prennent leurs décisions, elles doivent être capable de les expliquer et de les justifier. De même, si les équipes sont horizontales, toutes les décisions et les actions ne sont pas collectives : un ou plusieurs membres endossent la responsabilité d’une tâche, rendent compte de sa réalisation et prennent les retours de l’équipe et des utilisateurs.
+
+**Transparence et redevabilité**
+
+La transparence et la redevabilité sont deux exigences du caractère public et autonome de notre action. Travaillant pour le secteur public avec de l’argent public, il est normal de rendre compte de son utilisation et d’être transparent sur nos actions. En étant redevable nous allons plus loin, cette mission et cet argent nous engagent en effet à tout faire pour rendre notre action la plus utile et efficace possible. Ces deux notions sont aussi des gardes fous à notre autonomie : dans la même perspective que la responsabilité , nous rendons compte de nos actions. Par exemple chaque équipe à une page statistiques indiquant son impact par rapport au budget qu’elle consomme.
+
+**Exigence de qualité**
+
+Si nous lançons rapidement des projets toujours imparfaits que nous améliorons par la suite en continu, nous n’oublions pas non plus la qualité. Paradoxal ? Non, juste pragmatique. Il s’agit d’avoir la qualité de ses moyens et ses enjeux. Par exemple, concernant la sécurité, dès le départ nos produits suivent des bonnes pratiques simples et basiques (https, etc.) dont le suivi est automatisé sur l’outil  Dashlord. En revanche, ils n’ont pas, à ce stade, la sécurité la plus élevée  car leur nombre d’usagers et leur périmètre représentent un risque faible alors même que l’adoption d’une  sur-sécurité aurait un coût extrêmement important. Au fur et à mesure qu’ils grandissent, la sécurité grandit aussi ! Ainsi, toutes les produits en accélération passent une homologation de sécurité. Autrement dit, les produits beta.gouv ont toujours la sécurité la plus élevée non en absolu mais relativement à leur phase de développement. Ceci vaut aussi pour le code (avoir un code simple, efficace et facilement réutilisable), la protection des données personnelles ou encore l’accessibilité.
+
+### **Une communauté d’entraide et de partage**
+
+_Beta.gouv n’est pas seulement une communauté de personnes qui ont la même volonté et la même manière de faire mais un collectif d’entraide et de partage. Ce collectif est essentiel à la réussite des produits car il permet de mutualiser nos efforts et constitue une ressource efficace pour trouver des solutions aux problèmes qui peuvent apparaître dans la vie d’un produit. C’est aussi une communauté qui cherche à créer un espace où l’on a envie d’être et s’efforce de proposer les meilleures conditions de travail possibles. Celles-ci s’expriment dans nos manières de faire - du sens, de l’impact, de l’autonomie - mais aussi dans des règles générales de la communauté - bienveillance et inclusion. Par ailleurs, cette communauté se construit de la même manière que ses produits et avec la même volonté : autonomie, responsabilité et transparence dans l’initiative, construction de manière organique par le faire, test et droit à l’erreur._
+
+**Bienveillance**
+
+Faire confiance aux membres de la communauté, supposer par défaut que chacun.e veut bien faire, et accepter le droit à l’erreur de chacun.e.
+
+**Inclusion**
+
+Une communauté où tous les genres, toutes les origines ethniques et sociales et tous les territoires de résidence sont bienvenus, représentés et travaillent ensemble.
+
+
+
+{% hint style="success" %}
+Ces valeurs influencent toute notre culture de travail. Si dans ton quotidien chez beta.gouv tu as une expérience différente, n’hésite pas à nous le signaler ici.
+{% endhint %}
+
