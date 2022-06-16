@@ -19,7 +19,15 @@ Les mailing-lists suivantes sont disponibles. Toutes les adresses sont à _postf
 
 ### Comment créer une nouvelle liste de diffusion pour la communauté
 
-Pour créer une nouvelle adresse de contact, il faut demander à un admin OVH sur 🔒[`#incubateur-ops`](https://mattermost.incubateur.net/betagouv/channels/incubateur-ops) de créer la mailinglist. Elle pourra être gérée sur Mattermost.
+Pour créer une nouvelle adresse de contact, il faut en exprimer la demande [via le formulaire de demande d'ops](https://airtable.com/shrJydj6dtrdSGmfq). Le mot de passe d'accès à l'interface est consultable depuis l'en-tête de la chaîne  🔒[`#incubateur-ops`](https://mattermost.incubateur.net/betagouv/channels/incubateur-ops).&#x20;
+
+{% hint style="warning" %}
+Attention de bien saisir votre identifiant Mattermost (ex : @jean.dupont) sous peine de voir votre demande ignorée.
+{% endhint %}
+
+![](<../../../.gitbook/assets/Capture d’écran 2022-06-15 à 19.50.40.png>)
+
+En cas de succès, votre demande est remontée dans le canal [#incubateur-demandes-ops](https://mattermost.incubateur.net/betagouv/channels/incubateur-demandes-ops).
 
 ### Détails de la commande
 
