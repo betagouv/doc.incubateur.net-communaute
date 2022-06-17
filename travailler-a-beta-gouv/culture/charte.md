@@ -12,7 +12,7 @@ _De même, pour réussir nous construisons une communauté d’entraide et de pa
 
 Si nous travaillons chez beta.gouv c’est que nous avons à cœur d'œuvrer pour l’intérêt général et que nous pensons que le service public est l’un des meilleurs moyens pour y arriver. En ce sens, nous défendons fermement le service public car il est le seul à pouvoir répondre à certains enjeux - environnementaux et sociaux. Nous voulons montrer qu’il est capable de faire aussi bien que les entreprises privées notamment en terme de numérique.
 
-**L’obsession de l’impact**
+**L’impact avant tout**
 
 Le corollaire de notre engagement pour l'intérêt général via le service public est notre exigence pour l’impact. Il s’agit de s’assurer que les actions que nous menons aident réellement l’intérêt général, qu’elles ne sont pas seulement des plans, des réglementations mais qu’elles transforment vraiment la société. Pour ce faire, nous essayons d’avoir une action concrète, mesurable et mesurée. L’exigence de l’impact vient aussi du fait que nous sommes financés par des fonds publics dont nous sommes redevables en particulier via l’efficacité et la réalité de notre action.&#x20;
 
