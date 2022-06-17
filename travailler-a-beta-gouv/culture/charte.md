@@ -69,6 +69,6 @@ Une communauté où tous les genres, toutes les origines ethniques et sociales e
 
 
 {% hint style="success" %}
-Ces valeurs influencent toute notre culture de travail. Si dans ton quotidien chez beta.gouv tu as une expérience différente, n’hésite pas à nous le signaler ici.
+Ces valeurs influencent toute notre culture de travail. Si dans ton quotidien chez beta.gouv tu as une expérience différente, n’hésite pas à [**nous le signaler ici**](https://airtable.com/shrIP7G).
 {% endhint %}
 
