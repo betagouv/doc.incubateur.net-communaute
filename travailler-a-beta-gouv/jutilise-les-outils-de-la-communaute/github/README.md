@@ -23,7 +23,7 @@ Dans tous les cas vous pouvez demander de l'aide sur Mattermost `#incubateur-hel
   * Dans la section "Two-factor authentication"
   * "Enable two-factor authentication"
 
-![](<../../../.gitbook/assets/image (14) (2) (2) (2) (2) (2) (2) (2) (2) (1) (1).png>)
+![](<../../../.gitbook/assets/image (14) (2) (2) (2) (2) (2) (2) (2) (2) (1) (1) (3).png>)
 
 * Si tu es familier avec les applications mobile de type "Google Authenticator", fais : "**Set up using an app**." et suis les étapes indiquées par Github.
 * Si tu ne comprends pas le point si dessus, fais "**Set up using SMS"** et entre ton numéro de mobile

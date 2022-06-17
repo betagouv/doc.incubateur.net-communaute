@@ -96,7 +96,7 @@
   * [S'engager dans une action transverse](travailler-a-beta-gouv/actions-transverses/sengager-dans-une-action-transverse/README.md)
     * [La prise de décision](travailler-a-beta-gouv/actions-transverses/sengager-dans-une-action-transverse/la-prise-de-decision.md)
   * [Parler de beta.gouv.fr à l'extérieur](travailler-a-beta-gouv/actions-transverses/guide-pour-les-candidat-e-s/presenter-de-beta.gouv.fr.md)
-  * [Organiser une formation Alpha](travailler-a-beta-gouv/actions-transverses/organiser-une-formation-alpha.md)
+  * [Organiser une formation Alpha](je-ne-travaille-pas-chez-beta.gouv/organiser-une-formation-alpha.md)
 * [🎯 Recrutement](travailler-a-beta-gouv/recrutement/README.md)
   * [Comment recruter ?](travailler-a-beta-gouv/recrutement/comment-recruter/README.md)
     * [Publier une mission](travailler-a-beta-gouv/recrutement/comment-recruter/publier-une-offre-dembauche.md)

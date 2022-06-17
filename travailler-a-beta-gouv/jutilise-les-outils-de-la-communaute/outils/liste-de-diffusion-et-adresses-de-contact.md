@@ -13,6 +13,8 @@ Les mailing-lists suivantes sont disponibles. Toutes les adresses sont à _postf
 | `coachs`      | Discussions, tips, infos sur le coaching de Startups d'Etat                                                     | Membres volontaires.                                        | Les membres de la NL.                                            |
 | `onboarding`  | Embarquement des nouvelles et des nouveaux                                                                      | Membres volontaires.                                        | Marrains. Parraines.                                             |
 | `newsletter`  | Membres externes à beta.gouv souhaitant recevoir l'infolettre hebdomadaire interne                              | Membres externes volontaires                                | Équipe d'animation                                               |
+| `Evenements`  | Suivi des contacts participant à des événements organisés par Beta                                              | Participants aux événements organisés par Beta              | Membres responsables de l'organisation d'événements              |
+| Animation     | Communications aux responsables de l'animation de la communauté                                                 | Responsables de l'animation de la communauté Beta           | Responsables de l'animation de la communauté Beta                |
 | `partenaires` | Informations à destination des structures partenaires (incubateurs, fabriques, etc)                             | Responsables d'incubateurs, membres volontaires             | Membres                                                          |
 
 ## La commande Mattermost `/emails`

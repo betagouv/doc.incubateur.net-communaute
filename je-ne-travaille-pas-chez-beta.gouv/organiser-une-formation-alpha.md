@@ -10,7 +10,7 @@ Si vous faites partie d’une administration, la formation Alpha est un bon moye
 
 ### Comment organiser un Alpha dans votre structure
 
-Deux options s’offrent à vous :&#x20;
+Deux options s’offrent à vous :
 
 * Reprendre le modèle et en faire votre propre version. Vous devenez autonomes et pérennisez cette démarche de formation au sein de votre structure. Vous trouverez dans cette documentation les éléments décrivant la structure, les éléments clés et les ressources nécessaires pour que vous puissiez vous approprier le contenu de la formation.
 * Demander d’organiser une édition ad hoc pour votre structure. La formation est organisée et animée par l’incubateur de la DINUM. Le contenu est moins modulable et il faut réunir au moins 12 participants.
@@ -30,7 +30,7 @@ Vous souhaitez en discuter ? Contactez `camille.garrigue@beta.gouv.fr`
 #### Une après-midi de pratique
 
 * **Ateliers de codev** : en sous-groupes de 5 personnes max les participants travaillent sur une problématique de politique publique. Accompagnés d’un coach, l’objectif est de définir un problème précis reprenant les 3 critères, d’envisager une produit minimum viable et une stratégie de déploiement à 6 mois. A la fin de l’atelier le groupe a monté un pitch qui sera présenté par une ou plusieurs personnes volontaires de l’équipe dans l’étape suivante. Une personne est aussi nommée pour challenger le pitch d’une autre équipe.
-* **Pitch & challenge** : Par round chaque équipe présente son pitch et est ensuite challengée par une autre équipe et par les coachs. L’objectif est de faire restituer le travail effectué en groupe, de découvrir l’exercice du pitch et de la posture de challenger.&#x20;
+* **Pitch & challenge** : Par round chaque équipe présente son pitch et est ensuite challengée par une autre équipe et par les coachs. L’objectif est de faire restituer le travail effectué en groupe, de découvrir l’exercice du pitch et de la posture de challenger.
 
 \*Pitch = Présentation succincte et percutante du problème, de la solution envisagée, des mesures d’impact choisies et de la stratégie de déploiement. 3 min max. En solo ou en duo.
 
@@ -38,7 +38,7 @@ Vous souhaitez en discuter ? Contactez `camille.garrigue@beta.gouv.fr`
 
 ### Le déroulé du programme
 
-* 09h15 : Introduction&#x20;
+* 09h15 : Introduction
 * 9h30-10h : Le quiz spécial beta.gouv.fr
 * 10h -10h15 : le cycle des startups et le réseau Beta
 
@@ -48,7 +48,7 @@ Pause 5’
 
 Pause 10'
 
-* 11h45-12h30 : Témoignage d’intrapreneur.se&#x20;
+* 11h45-12h30 : Témoignage d’intrapreneur.se
 
 Pause déjeuner
 
@@ -56,7 +56,7 @@ Pause déjeuner
 
 Pause 10’
 
-* 16h10 : Pitch et échanges sur les travaux des équipes&#x20;
+* 16h10 : Pitch et échanges sur les travaux des équipes
 * 17h25 : le feedback
 
 Fin à 17h30
@@ -67,7 +67,7 @@ La formation peut se dérouler en présentiel, plus vivante, ou en visio, plus i
 
 **Pour les deux** : Un outil de quiz en ligne pour pouvoir analyser facilement les résultats. Chez Beta on utilise Klaxoon
 
-**En visio** :&#x20;
+**En visio** :
 
 * Un outil de visio permettant de répartir les participants en sous-groupes et le partage d’écran (si en visio). Chez Beta on utilise Zoom ou le Webinaire de l’Etat.
 * Miro pour les ateliers (cf. les ressources pour le modèle)
@@ -89,4 +89,4 @@ Modèle de présentation de la formation Alpha
 {% endembed %}
 
 * **Modèle de Miro** : [https://miro.com/app/board/uXjVOQbP014=/?invite\_link\_id=462307876204](https://miro.com/app/board/uXjVOQbP014=/?invite\_link\_id=462307876204)
-
+* **Méthodologie pour coacher les ateliers :** [**https://docs.google.com/document/d/11ZZfvDWMuYPLgAHmJ04VxUBddu-Bv5Y2xhydYk5gYhI/edit?usp=sharing**](https://docs.google.com/document/d/11ZZfvDWMuYPLgAHmJ04VxUBddu-Bv5Y2xhydYk5gYhI/edit?usp=sharing)****
