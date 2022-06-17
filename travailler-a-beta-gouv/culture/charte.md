@@ -24,7 +24,7 @@ _Afin d’aider l'intérêt général et d’atteindre nos objectifs d’impacts
 
 **Horizontalité : ne plus séparer penseurs et faiseurs**
 
-Les décisions stratégiques sont prises non pas en fonction d’objectifs politiques, mais pour améliorer la réalité du terrain. Au sein d’une équipe beta.gouv.fr, il n’y pas d’un côté des personnes qui établissent des plans ou des stratégies et d’un autre côté, des personnes qui exécutent. Au contraire, une équipe beta.gouv.fr refuse la séparation des penseurs et des faiseurs. L’équipe est en charge de résoudre un problème, et pour cela, c’est à elle de penser à des solutions, de les tester et de développer ce qui fonctionne.
+Au sein d’une équipe beta.gouv.fr, il n’y pas d’un côté des personnes qui établissent des plans ou des stratégies et d’un autre côté, des personnes qui exécutent. Au contraire, une équipe beta.gouv.fr refuse la séparation des penseurs et des faiseurs. L’équipe est en charge de résoudre un problème, et pour cela, c’est à elle de penser à des solutions, de les tester et de développer ce qui fonctionne.
 
 **Démarrer vite  et frugalement puis s’améliorer en continu**
 
