@@ -20,7 +20,7 @@ La page de Bienvenue a été augmentée d'une introduction présentant cet espac
 [..](../)
 {% endcontent-ref %}
 
-Les sections [Découvrir notre culture](../travailler-a-beta-gouv/culture/), [Participer à la vie de la communauté](../travailler-a-beta-gouv/actions-transverses/), [Recruter](../travailler-a-beta-gouv/recrutement/), [Solliciter de l'aide transverse](../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-sollicite-de-laide-transverse/) ont été actualisées et corrigées.
+Les sections [Découvrir notre culture](../travailler-a-beta-gouv/culture/), [Participer à la vie de la communauté](../travailler-a-beta-gouv/actions-transverses/), [Recruter](../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/recrutement/), [Solliciter de l'aide transverse](../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-sollicite-de-laide-transverse/) ont été actualisées et corrigées.
 
 ### Migrations
 
@@ -96,10 +96,10 @@ La documentation Design qui était auparavant hébergée sur un autre Gitbook, e
 
 * Actualiser la partie sur le marché interministériel beta après sa notification. Adapter la section liée à la gestion du budget, et notamment aux devis
 
-{% content-ref url="../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/marches-publics-beta.gouv.fr/marche-interministeriel-beta/" %}
-[marche-interministeriel-beta](../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/marches-publics-beta.gouv.fr/marche-interministeriel-beta/)
+{% content-ref url="../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/utiliser-les-marches-publics-beta.gouv/marches-publics-beta.gouv.fr/marche-interministeriel-beta/" %}
+[marche-interministeriel-beta](../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/utiliser-les-marches-publics-beta.gouv/marches-publics-beta.gouv.fr/marche-interministeriel-beta/)
 {% endcontent-ref %}
 
-{% content-ref url="../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/budget-de-sa-se/" %}
-[budget-de-sa-se](../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/budget-de-sa-se/)
+{% content-ref url="../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/preparer-un-comite-dinvestissement/budget-de-sa-se/" %}
+[budget-de-sa-se](../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/preparer-un-comite-dinvestissement/budget-de-sa-se/)
 {% endcontent-ref %}

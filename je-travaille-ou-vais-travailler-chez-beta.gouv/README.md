@@ -1,4 +1,4 @@
-# Je suis membre d'une Startup d'Etat ou de Territoires
+# Je travaille dans le réseau beta.gouv
 
 {% hint style="info" %}
 **Gagne du temps** en utilisant la barre de recherche en haut à droite de l'écran **"Rechercher"** 🔎
@@ -14,20 +14,20 @@
 [comprendre-la-gestion-de-mon-produit-etapes-clefs-impact-design-securite-acquisition....md](comprendre-la-gestion-de-mon-produit-etapes-clefs-impact-design-securite-acquisition....md)
 {% endcontent-ref %}
 
-## Tu peux aussi trouver des ressources clefs par profil&#x20;
+## Tu peux aussi trouver des ressources clefs par profil
 
 {% tabs %}
 {% tab title="Intra" %}
-{% content-ref url="../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/intrapreneurs.md" %}
-[intrapreneurs.md](../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/intrapreneurs.md)
+{% content-ref url="../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/les-differents-metiers-dans-une-startup-detat/intrapreneurs.md" %}
+[intrapreneurs.md](../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/les-differents-metiers-dans-une-startup-detat/intrapreneurs.md)
 {% endcontent-ref %}
 
 {% content-ref url="../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/" %}
 [gestion-administrative](../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/)
 {% endcontent-ref %}
 
-{% content-ref url="../travailler-a-beta-gouv/recrutement/" %}
-[recrutement](../travailler-a-beta-gouv/recrutement/)
+{% content-ref url="../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/recrutement/" %}
+[recrutement](../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/recrutement/)
 {% endcontent-ref %}
 
 {% content-ref url="../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/" %}
@@ -37,13 +37,11 @@
 {% content-ref url="../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-gere-mon-produit-et-son-impact/" %}
 [je-gere-mon-produit-et-son-impact](../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-gere-mon-produit-et-son-impact/)
 {% endcontent-ref %}
-
-
 {% endtab %}
 
 {% tab title="Dev" %}
-{% content-ref url="../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/developpement.md" %}
-[developpement.md](../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/developpement.md)
+{% content-ref url="../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/les-differents-metiers-dans-une-startup-detat/developpement.md" %}
+[developpement.md](../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/les-differents-metiers-dans-une-startup-detat/developpement.md)
 {% endcontent-ref %}
 
 {% content-ref url="../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/construction/kit-de-demarrage.md" %}
@@ -65,13 +63,11 @@
 {% content-ref url="../travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/dashlord/" %}
 [dashlord](../travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/dashlord/)
 {% endcontent-ref %}
-
-
 {% endtab %}
 
 {% tab title="Bizdev" %}
-{% content-ref url="../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/le-metier-de-charge.e-de-deploiement-chez-beta.gouv/" %}
-[le-metier-de-charge.e-de-deploiement-chez-beta.gouv](../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/le-metier-de-charge.e-de-deploiement-chez-beta.gouv/)
+{% content-ref url="../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/le-metier-de-charge.e-de-deploiement-chez-beta.gouv" %}
+[le-metier-de-charge.e-de-deploiement-chez-beta.gouv](../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/le-metier-de-charge.e-de-deploiement-chez-beta.gouv)
 {% endcontent-ref %}
 
 {% content-ref url="../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-gere-mon-produit-et-son-impact/definir-et-mesurer-limpact/" %}
@@ -88,20 +84,18 @@
 {% endtab %}
 
 {% tab title="Design" %}
-{% content-ref url="../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/designers.md" %}
-[designers.md](../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/designers.md)
+{% content-ref url="../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/les-differents-metiers-dans-une-startup-detat/designers.md" %}
+[designers.md](../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/les-differents-metiers-dans-une-startup-detat/designers.md)
 {% endcontent-ref %}
 
 {% content-ref url="../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/" %}
 [jameliore-le-design-et-lexperience-utilisateur](../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/)
 {% endcontent-ref %}
-
-
 {% endtab %}
 
 {% tab title="Coach" %}
-{% content-ref url="../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/coacher-une-startup-detat.md" %}
-[coacher-une-startup-detat.md](../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/coacher-une-startup-detat.md)
+{% content-ref url="../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/les-differents-metiers-dans-une-startup-detat/coacher-une-startup-detat.md" %}
+[coacher-une-startup-detat.md](../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/les-differents-metiers-dans-une-startup-detat/coacher-une-startup-detat.md)
 {% endcontent-ref %}
 
 {% content-ref url="../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/" %}
@@ -115,17 +109,15 @@
 {% content-ref url="../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/construction/conseils-pour-les-coachs.md" %}
 [conseils-pour-les-coachs.md](../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/construction/conseils-pour-les-coachs.md)
 {% endcontent-ref %}
-
-
 {% endtab %}
 
 {% tab title="Co-anim" %}
-{% content-ref url="../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/responsables-dincubateur.md" %}
-[responsables-dincubateur.md](../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/responsables-dincubateur.md)
+{% content-ref url="../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/les-differents-metiers-dans-une-startup-detat/responsables-dincubateur.md" %}
+[responsables-dincubateur.md](../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/les-differents-metiers-dans-une-startup-detat/responsables-dincubateur.md)
 {% endcontent-ref %}
 
-{% content-ref url="../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/responsables-de-portefeuille.md" %}
-[responsables-de-portefeuille.md](../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/responsables-de-portefeuille.md)
+{% content-ref url="../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/les-differents-metiers-dans-une-startup-detat/responsables-de-portefeuille.md" %}
+[responsables-de-portefeuille.md](../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/les-differents-metiers-dans-une-startup-detat/responsables-de-portefeuille.md)
 {% endcontent-ref %}
 
 {% content-ref url="../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/" %}
@@ -139,7 +131,5 @@
 {% content-ref url="../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-gere-mon-produit-et-son-impact/situation-dysfonctionnelle.md" %}
 [situation-dysfonctionnelle.md](../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-gere-mon-produit-et-son-impact/situation-dysfonctionnelle.md)
 {% endcontent-ref %}
-
-
 {% endtab %}
 {% endtabs %}

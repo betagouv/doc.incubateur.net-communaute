@@ -2,7 +2,7 @@
 description: Tu viens d'arriver ? Bienvenue, et laisse toi guider.
 ---
 
-# 🛫 Ton embarquement
+# 👋 Arriver chez beta.gouv
 
 ## Bienvenue dans la communauté beta.gouv.fr !
 

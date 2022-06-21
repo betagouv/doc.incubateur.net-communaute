@@ -2,7 +2,7 @@
 description: Des informations utiles
 ---
 
-# 👩⚖ Cadrer juridiquement son produit
+# 🧑⚖ Cadrer juridiquement son produit
 
 ## RGPD
 
@@ -18,11 +18,11 @@ description: Des informations utiles
 
 ## Conventions
 
-{% content-ref url="../gestion-administrative/etablir-une-convention-avenant/foire-aux-questions-juridiques-sur-les-conventions.md" %}
-[foire-aux-questions-juridiques-sur-les-conventions.md](../gestion-administrative/etablir-une-convention-avenant/foire-aux-questions-juridiques-sur-les-conventions.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-## Fiches synthétiques&#x20;
+## Fiches synthétiques
 
 {% content-ref url="../jactive-la-croissance-de-ma-se-growth-hacking/organiser-un-jeu-concours.md" %}
 [organiser-un-jeu-concours.md](../jactive-la-croissance-de-ma-se-growth-hacking/organiser-un-jeu-concours.md)

@@ -16,10 +16,6 @@
 [acceleration](acceleration/)
 {% endcontent-ref %}
 
-{% content-ref url="4.-consolidation-et-transfert" %}
-[4.-consolidation-et-transfert](4.-consolidation-et-transfert)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="4.-consolidation-et-transfert/" %}
+[4.-consolidation-et-transfert](4.-consolidation-et-transfert/)
 {% endcontent-ref %}

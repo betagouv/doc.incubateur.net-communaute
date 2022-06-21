@@ -3,7 +3,7 @@
 Chez beta.gouv.fr, les fonctionnaires et les contractuels de la fonction publique sont en général :
 
 * des agents publics intrapreneurs de Startups d'Etat ;
-* des membres en charge du pilotage, de la gestion et de l'animation des incubateurs ministériels (par exemple, les responsables d'incubateurs ou les [responsables de portefeuille](../../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/responsables-de-portefeuille.md)) ;
+* des membres en charge du pilotage, de la gestion et de l'animation des incubateurs ministériels (par exemple, les responsables d'incubateurs ou les [responsables de portefeuille](../../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/les-differents-metiers-dans-une-startup-detat/responsables-de-portefeuille.md)) ;
 * plus rarement, des membres des équipes de Startups d'État (développeuses ou développeurs, chargés de déploiement, etc).
 
 ## Types de contrats pour les agents publics

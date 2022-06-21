@@ -20,6 +20,10 @@ En tant qu'espace d'innovation et d'expérimentation au sein de l'État, beta.go
 
 Depuis 2016, beta.gouv.fr a adopté une charte inspirée de [celle de nos homologues anglais ](https://twitter.com/gilest/status/735131901900521472)et qui résume les conditions de travail auxquelles vous pouvez vous attendre.
 
+{% content-ref url="normes-de-conduite/notre-charte.md" %}
+[notre-charte.md](normes-de-conduite/notre-charte.md)
+{% endcontent-ref %}
+
 {% content-ref url="charte.md" %}
 [charte.md](charte.md)
 {% endcontent-ref %}

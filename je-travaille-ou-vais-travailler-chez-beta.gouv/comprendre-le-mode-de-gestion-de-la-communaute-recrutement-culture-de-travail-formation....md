@@ -22,8 +22,8 @@
 [actions-transverses](../travailler-a-beta-gouv/actions-transverses/)
 {% endcontent-ref %}
 
-{% content-ref url="../travailler-a-beta-gouv/recrutement/" %}
-[recrutement](../travailler-a-beta-gouv/recrutement/)
+{% content-ref url="../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/recrutement/" %}
+[recrutement](../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/recrutement/)
 {% endcontent-ref %}
 
 {% content-ref url="../travailler-a-beta-gouv/se-former/" %}

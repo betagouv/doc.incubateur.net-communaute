@@ -29,14 +29,14 @@ Cette transparence continue de s'appliquer en phase de construction.
   * Après un mois, un point d'étape avec une personne connaissant bien beta.gouv.fr, par exemple coach, responsable d'incubateur, ou co-animateur, pour recueillir du feedback
   * Proposer un atelier "retrospective" à l'équipe.
 * **Première version d’un service en ligne** (facultatif mais très recommandé, T + 9 semaines)
-  * Il est attendu de l’équipe de délivrer de la valeur ajoutée pour ses utilisateurs dès le premier jour. Durant les premières semaines,  il ne s’agit que d’une dizaine de personnes. Néanmoins, il est attendu un premier service utile, utilisable et imparfait dès le 2 ou 3 ème mois. Il est donc important de lancer les recrutements le plus tôt possible.
+  * Il est attendu de l’équipe de délivrer de la valeur ajoutée pour ses utilisateurs dès le premier jour. Durant les premières semaines, il ne s’agit que d’une dizaine de personnes. Néanmoins, il est attendu un premier service utile, utilisable et imparfait dès le 2 ou 3 ème mois. Il est donc important de lancer les recrutements le plus tôt possible.
 * **Répétition du comité d’investissement** (facultatif mais très recommandé, T + 8 mois)
   * Prévoir une répétition du comité d'investissement où inviter la communauté beta.gouv.fr, en publiant le créneau sur l'agenda public de l'incubateur et en communiquant via Mattermost (le responsable d'incubateur ou un/e ancien/ne de beta.gouv.fr peuvent t'aider pour cela)
 * **Comité d'investissement** (obligatoire, T + 6 mois)
   * Prévoir le comité d'investissement à la fin de la phase de construction en y invitant toutes les parties prenantes nécessaires, et notamment un membre de l'équipe d'animation de beta.gouv.fr.
 
-{% content-ref url="../../gestion-administrative/preparer-un-comite-dinvestissement.md" %}
-[preparer-un-comite-dinvestissement.md](../../gestion-administrative/preparer-un-comite-dinvestissement.md)
+{% content-ref url="../../gestion-administrative/preparer-un-comite-dinvestissement/" %}
+[preparer-un-comite-dinvestissement](../../gestion-administrative/preparer-un-comite-dinvestissement/)
 {% endcontent-ref %}
 
 ## **Comment puis-je trouver de l'aide durant la phase de construction ? :**
@@ -56,7 +56,7 @@ Cette transparence continue de s'appliquer en phase de construction.
 ### **Où demander de l'aide**
 
 * demander de l'aide ou des informations sur l'un de ses deux canaux Mattermost : [#incubateur-coaching](https://mattermost.incubateur.net/betagouv/channels/incubateur-coaching)​
-* club des coachs : 1er mercredi de chaque mois, au format co-développement : on échange des suggestions à une problématique de coaching d’un des participants. [agenda](https://calendar.google.com/calendar/u/0/r/eventedit/N3RjMTVyMm9oaHUzdGZ0YmJmcjdqcTBobmJfMjAyMTA5MDFUMDkwMDAwWiAwaWVvbnFhcDFyNWplYWw1dWdldWhvb3ZsZ0Bn), [notes](https://pad.incubateur.net/Yw3D8qeyQb6GtMLFzLgNWg#) partagées.&#x20;
+* club des coachs : 1er mercredi de chaque mois, au format co-développement : on échange des suggestions à une problématique de coaching d’un des participants. [agenda](https://calendar.google.com/calendar/u/0/r/eventedit/N3RjMTVyMm9oaHUzdGZ0YmJmcjdqcTBobmJfMjAyMTA5MDFUMDkwMDAwWiAwaWVvbnFhcDFyNWplYWw1dWdldWhvb3ZsZ0Bn), [notes](https://pad.incubateur.net/Yw3D8qeyQb6GtMLFzLgNWg) partagées.
 
 ### **Le RGPD et l'investigation**
 

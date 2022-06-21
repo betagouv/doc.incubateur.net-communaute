@@ -11,7 +11,7 @@ Un incubateur du réseau beta.gouv :
 * lance, accompagne et opère des services publics numériques qui visent à résoudre des problèmes usagers et qui sont développés selon l'approche Startup d'EÉtat, c'est à dire :
   * autonomie de l'équipe
   * amélioration continue
-  * pilotage par l'impact, avec l'organisation d'un [comité d'investissement](../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/preparer-un-comite-dinvestissement.md) régulier pour chaque produit selon les phases du programme beta.gouv : investigation, construction, accélération, pérennisation
+  * pilotage par l'impact, avec l'organisation d'un [comité d'investissement](../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/preparer-un-comite-dinvestissement/) régulier pour chaque produit selon les phases du programme beta.gouv : investigation, construction, accélération, pérennisation
 * proposent un appui aux différents services publics numériques incubés (coaching produit, gouvernance, sécurité/rgpd, RH, UX, impact etc)
 * disposent d'un haut niveau de sponsorship dans l'administration (direction numérique, secrétariat général, direction générale etc)
 
@@ -71,10 +71,10 @@ Pour en savoir plus : contacter dinum@beta.gouv.fr
 
 ## Ressources pour la gestion d'un incubateur
 
-{% content-ref url="../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/responsables-de-portefeuille.md" %}
-[responsables-de-portefeuille.md](../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/responsables-de-portefeuille.md)
+{% content-ref url="../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/les-differents-metiers-dans-une-startup-detat/responsables-de-portefeuille.md" %}
+[responsables-de-portefeuille.md](../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/les-differents-metiers-dans-une-startup-detat/responsables-de-portefeuille.md)
 {% endcontent-ref %}
 
-{% content-ref url="../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/preparer-un-comite-dinvestissement.md" %}
-[preparer-un-comite-dinvestissement.md](../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/preparer-un-comite-dinvestissement.md)
+{% content-ref url="../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/preparer-un-comite-dinvestissement/" %}
+[preparer-un-comite-dinvestissement](../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/preparer-un-comite-dinvestissement/)
 {% endcontent-ref %}

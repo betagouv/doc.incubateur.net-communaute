@@ -32,8 +32,8 @@ Enfin, tu peux également parcourir notre documentation sur les différents mét
 
 Plusieurs recommandations sont diffusées aux équipes beta.gouv.fr ci-dessous. Attention, nos équipes sont assez indépendantes et elles peuvent choisir des procédures de recrutement différentes de ce qui est recommandé dans la documentation ci-dessous.
 
-{% content-ref url="../travailler-a-beta-gouv/recrutement/comment-recruter/entretiens-de-recrutement.md" %}
-[entretiens-de-recrutement.md](../travailler-a-beta-gouv/recrutement/comment-recruter/entretiens-de-recrutement.md)
+{% content-ref url="../travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/ressources-supplementaires/entretiens-de-recrutement.md" %}
+[entretiens-de-recrutement.md](../travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/ressources-supplementaires/entretiens-de-recrutement.md)
 {% endcontent-ref %}
 
 ### Quelques ressources sur beta.gouv.fr
