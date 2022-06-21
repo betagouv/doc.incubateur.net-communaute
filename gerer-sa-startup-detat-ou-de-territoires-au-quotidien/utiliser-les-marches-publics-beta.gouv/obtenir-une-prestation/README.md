@@ -100,7 +100,7 @@ Pour identifier les profils qui réaliseront la prestation :&#x20;
 Nous conseillons d’effectuer ces deux actions en même temps, afin de réduire le temps de sélection et ne pas immobiliser trop longtemps les profils.&#x20;
 
 {% hint style="info" %}
-Si tu n'as pas l’habitude de juger des profils techniques, tu peux te faire aider par la personne qui te coach ou les responsables de ton incubateur. La section "[Guides d'entretien par profil](../../../travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/ressources-supplementaires/entretiens-de-recrutement.md)" peut également t'aider à poser les bonnes questions.
+Si tu n'as pas l’habitude de juger des profils techniques, tu peux te faire aider par la personne qui te coach ou les responsables de ton incubateur. La section "[Guides d'entretien par profil](../../decouvrir-les-differents-metiers-dune-startup-detat/recrutement/entretiens-de-recrutement.md)" peut également t'aider à poser les bonnes questions.
 {% endhint %}
 
 ### Etape 4 : obtenir le devis final auprès de l'entreprise titulaire&#x20;

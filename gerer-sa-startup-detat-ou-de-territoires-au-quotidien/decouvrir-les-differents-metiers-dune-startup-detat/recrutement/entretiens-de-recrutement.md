@@ -14,7 +14,7 @@ Cette section est en construction, nos équipes travaillent à enrichir ces guid
 
 1. Connaissance de l'**environnement beta.gouv.fr, Startups d'État,** ou plus largement des **enjeux de la transformation numérique de l'État**
 2. **Motivations** à travailler dans le service public / sur le sujet de politique publique visé : volonté de faire bouger les lignes en sachant rester conciliant, intérêt pour la transformation numérique de l'administration, etc
-3. **Adéquation** [**culturelle**](../../culture/) : culture entrepreneuriale + culture de l'intérêt général
+3. **Adéquation** [**culturelle**](../../../travailler-a-beta-gouv/culture/) : culture entrepreneuriale + culture de l'intérêt général
 4. Compétences en accompagnement d'équipe ou d'individus (**coaching**) : OKR, animations de formations, de rétros, capacité à savoir quand laisser faire ou prendre la main
 5. Compétences **tech** : recrutement des développeurs, niveau technique, _product management_, _no code_
 6. Compétences **design** : connaissance de démarches UX, maquettage rapide (Sketch, Figma)
@@ -80,6 +80,6 @@ Parlons d'un domaine qui te passionne. Quel produit voudrais-tu construire ?
 
 ### Designers
 
-{% content-ref url="../../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/design/" %}
-[design](../../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/design/)
+{% content-ref url="../../jameliore-le-design-et-lexperience-utilisateur/design/" %}
+[design](../../jameliore-le-design-et-lexperience-utilisateur/design/)
 {% endcontent-ref %}
