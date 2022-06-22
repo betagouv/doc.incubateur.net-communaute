@@ -109,7 +109,7 @@ Une fois les profils identifiés en lien avec l'entreprise titulaire, celle-ci p
 
 Si les profils identifiés ne sont pas salariés de l'entreprise titulaire, ils deviennent sous-traitants et devront donc contractualiser avec celle-ci.&#x20;
 
-### Etape 5 : démarrer la prestation seulement lorsque le bon de commande est validée&#x20;
+### Etape 5 : démarrer la prestation seulement lorsque le bon de commande est émis par l'administration&#x20;
 
 Vous ne pouvez démarrer la prestation que lorsque l'entreprise titulaire aura reçu le _ **bon de commande**._ Une fois le devis final transmis au responsable de l'incubateur, le process d'émission du bon de commande prend de quelques jours à 3 semaines (exemple : [process de la Fabrique numérique du ministère de la Transition écologique](https://miro.com/app/board/uXjVO-zTnXY=/)).&#x20;
 

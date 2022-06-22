@@ -4,5 +4,5 @@ description: >-
   Startups d'état. Elle est vouée à être étoffée avec le temps.
 ---
 
-# 📦 Boîtes à outils UX
+# Boîtes à outils UX
 
