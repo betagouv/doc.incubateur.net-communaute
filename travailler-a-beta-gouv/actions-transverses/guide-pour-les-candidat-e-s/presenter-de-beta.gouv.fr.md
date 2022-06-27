@@ -1,23 +1,16 @@
 ---
 description: >-
-  Les membres de la communauté beta.gouv.fr sont ses meilleurs ambassadeurs ! 
+  Les membres de la communauté beta.gouv.fr sont ses meilleurs ambassadeurs !
   Voici quelques ressources pour vous aider
 ---
 
 # Parler de beta.gouv.fr à l'extérieur
 
-La présentation la plus à jour de beta.gouv.fr est lisible sur la [page Approche](https://beta.gouv.fr/approche/) de notre site internet.
+### Présentation beta.gouv.fr
 
-### Présentations beta.gouv.fr
+{% embed url="https://docs.google.com/presentation/d/19WkJQatZyEHi3mKixjr4dsKMNCJ4Ii7SKyamNDoF2ms/edit?usp=sharing" %}
 
-* [**Lien vers la présentation publique beta.gouv.fr**](https://docs.google.com/presentation/d/1u6YdQphMdfFcA2sHIm3Pr7EcCb\_n6IrSCDJJs6O7ynE/edit?usp=sharing) \*\*\*\* (mise à jour : juin 2020)
-* \*\*\*\*[**Lien vers la présentation lorsqu'une administration veut travailler avec nous**](https://docs.google.com/presentation/d/1ltHiKpjmKkvrXUT4R0CTIt6C0pb-HNpANStKBzHVjFs/edit?usp=sharing)
-
-**Historique**
-
-* [Présentation d'Ishan à Vivatech en mai 2019 : "Quand l'État s'inspire des startups pour améliorer le service public de l'intérieur"](https://docs.google.com/presentation/d/1wGj-IWlYam-2b1mFtFqqFeqpgSi3gcULU3LocXXxkWQ/edit?usp=sharing)
-* [Présentation d'Amandine en octobre 2019 : "être designer à BetaGouv"](https://docs.google.com/presentation/d/1P65GIzwzabKMBZHyEfi4jgL2hjLQiKwY0NAHHZDNIJI/edit?usp=sharing)
-* [Présentation Hela - conférence numérique en janvier 2019](https://docs.google.com/presentation/d/1ie8O-aVy-mGDb8vzOQxS2oniHwhLWIzwr9QoCcH06y8/edit#slide=id.p3)
+[**Clique ici**](https://docs.google.com/presentation/d/19WkJQatZyEHi3mKixjr4dsKMNCJ4Ii7SKyamNDoF2ms/edit?usp=sharing) pour accéder au lien de cette présentation.
 
 ### Qu'est-ce que beta.gouv.fr ?
 
