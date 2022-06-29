@@ -14,7 +14,7 @@ Le temps d'une journée, nous avons rassemblé une quinzaine d'intervenant·es e
 
 ## Les enjeux de l'éco-conception
 
-![Les enjeux de l'éco-conception](<../../.gitbook/assets/image (23).png>)
+![Les enjeux de l'éco-conception](<../../.gitbook/assets/image (23) (1).png>)
 
 Le numérique est au cœur du dérèglement climatique. Il produit 4 % des gaz à effets de serre, mais il **connecte 60 % de la population mondiale** ! Par ailleurs, le numérique a un impact sur les ressources, mais aussi sur l'activité humaine.
 
@@ -61,7 +61,7 @@ Et surtout se souvenir que les **contraintes libèrent la créativité**. On peu
 
 ## **Comment convaincre en interne ?**
 
-![Comment convaincre de mener une démarche d'éco-conception ? sa marge de manœuvre](<../../.gitbook/assets/image (24).png>)
+![Comment convaincre de mener une démarche d'éco-conception ? sa marge de manœuvre](<../../.gitbook/assets/image (24) (1).png>)
 
 L’enjeu est de **savoir transformer les peurs en opportunités** :
 

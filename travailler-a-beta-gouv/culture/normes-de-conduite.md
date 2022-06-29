@@ -12,9 +12,61 @@ Cette page liste les **normes de conduite** diffusées et constatées chez beta.
 Une "**norme**" n'est ni plus ni moins qu'une façon de parler, de se comporter ou de penser que l'on souhaite promouvoir comme "normale". Si tu vois un cas où on se comporte différemment, c'est une "exception". On parle de "normes" et non de "règles". Dans chaque situation, il peut y avoir de bonnes raisons de déroger à la norme en vigueur.
 {% endhint %}
 
+### Charte beta.gouv
+
+L'équipe beta.gouv a adopté une charte qui donne des exemples concrets de nos valeurs et comment nous pouvons travailler ensemble.
+
+<details>
+
+<summary>Dérouler pour lire la charte</summary>
+
+Ici, on a le droit…
+
+* de dire « je ne sais pas »
+* de demander à ce que quelque chose soit clarifié
+* de rester chez soi quand on se sent malade
+* de dire qu'on n'a pas compris
+* de demander ce que signifient les sigles
+* d’oublier des trucs
+* de se présenter
+* de s’appuyer sur l’équipe
+* de demander de l'aide
+* de ne pas tout savoir
+* d’être silencieux certains jours
+* d’autres jours, de parler fort, de rire et de faire des vannes
+* de mettre son casque sur les oreilles
+* de dire « non » quand on n’a pas le temps
+* de faire des erreurs
+* de chanter
+* de soupirer
+* de ne pas consulter ses mails sur son temps libre
+* de ne pas consulter ses mails tout le temps au boulot
+* de demander sur Mattermost
+* de demander en personne aux collègues
+* de s’isoler pour se concentrer
+* de donner son avis sur le travail des autres
+* de critiquer ce qui nous met mal à l'aise
+* d'accepter quand quelqu'un propose du café
+* de préférer le thé
+* de grignoter
+* d'avoir un bureau en désordre
+* d'avoir un bureau bien rangé
+* de bosser comme on a envie de bosser
+* de demander à la hiérarchie de résoudre un problème
+* d'avoir un jour sans
+* de prendre sa journée
+* de saluer et d'être salué·e comme on le souhaite : avec ou [sans contact](http://romy.tetue.net/mille-milliards-de-mille-bises)
+* de dire "ce que tu viens de dire est déplacé" quand on est témoin ou victime d'une remarque sexiste, raciste ou plus généralement déplacée. Il est conseillé de ne pas en ajouter et notamment de ne pas sermonner. On parle aussi de "call-out" pour décrire ce protocole.
+
+_Cette charte est librement inspirée de celle de_ [_Gov.UK_](https://twitter.com/gilest/status/735131901900521472)_._
+
+![](<../../.gitbook/assets/image (23).png>)
+
+</details>
+
 ### **Se méfier** [**des réunions**](https://blog.alan.com/bien-etre-au-travail/no-meeting-policy) **et du temps morcelé**
 
-Privilégier autant que possible [la communication asynchrone](https://basecamp.com/guides/how-we-communicate) avec les mails ou les discussions à l'écrit sur Mattermost. N'oublions pas qu'une heure de réunion à 5 ne correspond pas à une heure de travail mais à 5 heures travaillées. Bref, une réunion, c'est l'option du dernier recours, quand tout le reste n'a pas fonctionné. (Bien sûr, une réunion peut parfois être nécessaire, que ce soit pour acter une décision importante ou pour créer des relations interpersonnelles).
+Privilégier autant que possible [la communication asynchrone](https://basecamp.com/guides/how-we-communicate) avec les mails ou les discussions à l'écrit sur Mattermost. N'oublions pas qu'une heure de réunion à 5 ne correspond pas à une heure de travail mais à 5 heures travaillées. Une réunion, c'est l'option du dernier recours, quand tout le reste n'a pas fonctionné. (Bien sûr, une réunion peut parfois être nécessaire, que ce soit pour acter une décision importante ou pour créer des relations interpersonnelles).
 
 ### **Refuser le** [**"présentéisme"**](https://www.linkedin.com/pulse/prendre-son-temps-cest-de-largent-pr%C3%A9sent%C3%A9isme-remi-rommelard/)
 
@@ -28,8 +80,8 @@ Lorsque les réunions s'avèrent nécessaires, les personnes présentes et motiv
 
 Le temps passé à faire du reporting à sa hiérarchie est autant de temps passé à ne pas s'occuper des problèmes de ses utilisateurs. Si la hiérarchie a besoin d'information, transmettez l'information à la source (page de statistiques publique, code source, backlog produit). Adopter des pratiques de transparence permet souvent de limiter les demandes de reporting (voir paragraphe suivant).
 
-{% content-ref url="../../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-gere-mon-produit-et-son-impact/comment-repondre-a-un-sponsor-qui-demande-une-roadmap-produit.md" %}
-[comment-repondre-a-un-sponsor-qui-demande-une-roadmap-produit.md](../../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-gere-mon-produit-et-son-impact/comment-repondre-a-un-sponsor-qui-demande-une-roadmap-produit.md)
+{% content-ref url="../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-gere-mon-produit-et-son-impact/comment-repondre-a-un-sponsor-qui-demande-une-roadmap-produit.md" %}
+[comment-repondre-a-un-sponsor-qui-demande-une-roadmap-produit.md](../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-gere-mon-produit-et-son-impact/comment-repondre-a-un-sponsor-qui-demande-une-roadmap-produit.md)
 {% endcontent-ref %}
 
 D'une manière générale, **tenir compte des coûts de coordination** (une personne à temps complet est souvent bien plus efficace que cinq personnes à 20% de leur temps) et **limiter le nombre de personnes impliquées dans chaque sujet**.
@@ -39,7 +91,7 @@ D'une manière générale, **tenir compte des coûts de coordination** (une pers
 **En interne, communiquer avec son équipe sur des canaux publics. Eviter les messages privés.** La circulation de l'information permet de mieux faire fonctionner l'organisation, d'éviter les frustrations, les prises de pouvoir individuelles non désirables, les rumeurs infondées, les fantasmes. La transparence est la contrepartie de l'autonomie concédée aux équipes : elle empêche les gens de faire n'importe quoi, parce que tout le monde voit. Ce qui est visible est plus facilement améliorable.
 
 {% hint style="success" %}
-Lorsque vous travaillez avec votre équipe sur un outil de messagerie collaborative comme [Mattermost](../../jutilise-les-outils-de-la-communaute/mattermost/), la norme chez beta.gouv.fr consiste à **partager toutes les chaînes de discussion concernant votre produit avec toute votre équipe dont le ou la coach et à limiter au maximum les échanges bilatéraux en messages privés**, mais aussi avec toutes les personnes qui interviennent régulièrement en soutien (responsables d'incubateur, responsables techniques de l'incubateur, responsables techniques). Cela permet notamment d'assurer la circulation de l'information et de limiter les demandes de reporting.
+Lorsque vous travaillez avec votre équipe sur un outil de messagerie collaborative comme [Mattermost](../jutilise-les-outils-de-la-communaute/mattermost/), la norme chez beta.gouv.fr consiste à **partager toutes les chaînes de discussion concernant votre produit avec toute votre équipe dont le ou la coach et à limiter au maximum les échanges bilatéraux en messages privés**, mais aussi avec toutes les personnes qui interviennent régulièrement en soutien (responsables d'incubateur, responsables techniques de l'incubateur, responsables techniques). Cela permet notamment d'assurer la circulation de l'information et de limiter les demandes de reporting.
 {% endhint %}
 
 **En externe, partager le maximum d'apprentissages, en transparence**. Les codes sources, pages de statistiques, apprentissages et budgets de vos produits numériques devraient être publiques. Lorsque vous êtes responsable d'une tâche, documentez votre action, le protocole que vous avez choisi, les apprentissages dont vous avez bénéficié, et partagez le lien de cette documentation dans l'espace de votre équipe : cela lui permettra de prendre le relai si vous êtes en congés ou si vous êtes absent.
@@ -124,9 +176,5 @@ Tentez d'éviter tout ce qui relève de l’injonction:
 ```
 
 Mais aussi, toutes les paroles qui parasitent une communication claire et bienveillante, par exemple: Les petites piques. Le passif-agressif. Les expressions d’impatience, d’agacement.
-{% endtab %}
-
-{% tab title="Demander de l" %}
-Vous pouvez vous référer à la [méthode SSCCE](http://sscce.org).
 {% endtab %}
 {% endtabs %}

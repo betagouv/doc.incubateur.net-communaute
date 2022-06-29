@@ -16,24 +16,12 @@ En tant qu'espace d'innovation et d'expérimentation au sein de l'État, beta.go
 
 {% embed url="https://beta.gouv.fr/approche/manifeste" %}
 
-## Une charte pour expliquer ce que vous avez le droit de faire quand vous travaillez chez beta.gouv.fr
-
-Depuis 2016, beta.gouv.fr a adopté une charte inspirée de [celle de nos homologues anglais ](https://twitter.com/gilest/status/735131901900521472)et qui résume les conditions de travail auxquelles vous pouvez vous attendre.
-
-{% content-ref url="normes-de-conduite/notre-charte.md" %}
-[notre-charte.md](normes-de-conduite/notre-charte.md)
-{% endcontent-ref %}
-
-{% content-ref url="charte.md" %}
-[charte.md](charte.md)
-{% endcontent-ref %}
-
 ## Des normes de conduite pour clarifier nos habitudes de travail
 
 Laisser tout le monde prendre des initiatives, limiter au maximum le nombre de réunions, mettre trop de gens dans la boucle plutôt que pas assez... tous ces comportements sont valorisés chez beta.gouv.fr, car nous y voyons à chaque fois un intérêt pour améliorer collectivement notre action en faveur d'un meilleur service public. Parce qu'elles n'étaient pas évidentes pour tout le monde, notamment pour les nouvelles recrues, nous avons documenté ces normes de conduite.
 
-{% content-ref url="normes-de-conduite/" %}
-[normes-de-conduite](normes-de-conduite/)
+{% content-ref url="normes-de-conduite.md" %}
+[normes-de-conduite.md](normes-de-conduite.md)
 {% endcontent-ref %}
 
 ## Découvrez l'histoire de beta.gouv.fr
