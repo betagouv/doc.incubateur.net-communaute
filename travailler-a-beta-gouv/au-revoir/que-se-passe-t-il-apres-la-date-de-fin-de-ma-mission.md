@@ -7,10 +7,10 @@ description: Découvre les étapes qui suivront ton départ de beta.gouv.
 ## Dès la date de fin de ta mission, nous lançons les démarches pour désactiver ton email et tes différents accès.
 
 {% hint style="info" %}
-L'équipe de dev transverse améliore ces alertes au fil des semaines. **Seules celles en gras sont opérationnelles.** Les autres sont en cours de test ou de développement.
+L'équipe dev transverse améliore ces alertes au fil des semaines. **Seules celles en gras sont opérationnelles.** Les autres sont en cours de test ou de développement..
 {% endhint %}
 
-### Au lendemain de ta date de fin de mission :&#x20;
+### Au lendemain de ta date de fin de mission :
 
 * [x] **\[OVH] Mise à jour de ton mot de passe email**
 * [ ] \[OVH] Suppression des redirections de l’email @beta.gouv.fr vers des adresses externes
@@ -20,8 +20,8 @@ L'équipe de dev transverse améliore ces alertes au fil des semaines. **Seules 
 
 ### Trois jours après ta date de fin de mission <a href="#date-de-fin-j3-job-tous-les-jours" id="date-de-fin-j3-job-tous-les-jours"></a>
 
-* [x] **\[Mattermost] Ton mattermost est retiré de l'espace général et est transféré dans l'espace Alumni**
-* [x] **\[email] Ajouter une redirection de l’email vers** [**departs@beta.gouv.fr**](mailto:departs@beta.gouv.fr)****
+* [x] **\[Mattermost] Ton accès à l'espace "Communauté" est supprimé et transféré dans l'espace Alumni**
+* [x] **\[email] Ajouter une redirection de l’email vers** [**departs@beta.gouv.fr**](mailto:departs@beta.gouv.fr)
 
 ### un mois après ta date de fin de mission <a href="#date-de-fin-j30-job-tous-les-jours" id="date-de-fin-j30-job-tous-les-jours"></a>
 
