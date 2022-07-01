@@ -7,7 +7,7 @@ description: Découvre les étapes qui suivront ton départ de beta.gouv.
 ## Dès la date de fin de ta mission, nous lançons les démarches pour désactiver ton email et tes différents accès.
 
 {% hint style="info" %}
-L'équipe dev transverse améliore ces alertes au fil des semaines. **Seules celles en gras sont opérationnelles.** Les autres sont en cours de test ou de développement..
+L'équipe dev transverse améliore ces alertes au fil des semaines. **Seules celles en gras sont opérationnelles.** Les autres sont en cours de test ou de développement.
 {% endhint %}
 
 ### Au lendemain de ta date de fin de mission :
