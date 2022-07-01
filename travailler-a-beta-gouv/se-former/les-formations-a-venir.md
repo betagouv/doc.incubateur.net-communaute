@@ -11,11 +11,10 @@ Depuis cette vue, tu pourras t'inscrire aux formations auxquelles tu souhaites a
 
 ### Je souhaite animer une formation
 
-Si tu souhaites proposer une formation :
+{% content-ref url="travailler-a-beta-gouv/se-former/animer-une-formation.md" %}
+[animer-une-formation.md](travailler-a-beta-gouv/se-former/animer-une-formation.md)
+{% endcontent-ref %}
 
-{% embed url="https://airtable.com/shr3sH68gDOjFaLT7" %}
-
-La vue optimisée, c'est par ici "[Je propose une formation](https://airtable.com/shr3sH68gDOjFaLT7)".
 
 ### Je souhaite être formé•e sur un sujet qui n'est pas dans la liste
 
