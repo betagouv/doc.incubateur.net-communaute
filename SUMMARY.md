@@ -28,7 +28,6 @@
     * [Références bibliographiques](travailler-a-beta-gouv/culture/histoire-de-beta.gouv.fr/references-bibliographiques.md)
   * [Conflits, mal-être, souffrance, violence ou harcèlement](travailler-a-beta-gouv/culture/conseils/README.md)
     * [Indépendant victime de harcèlement ou de discrimination](travailler-a-beta-gouv/culture/conseils/independant-victime-de-harcelement-ou-discrimination.md)
-* [Page 1](travailler-a-beta-gouv/page-1.md)
 * [🔧 Utiliser les outils de la communauté](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/README.md)
   * [Dashlane](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/dashlane.md)
   * [Mattermost - Messagerie de la communauté](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/mattermost/README.md)
