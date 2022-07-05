@@ -11,3 +11,7 @@
 {% content-ref url="emails/definir-ou-renouveler-mon-mot-de-passe-beta.gouv.fr.md" %}
 [definir-ou-renouveler-mon-mot-de-passe-beta.gouv.fr.md](emails/definir-ou-renouveler-mon-mot-de-passe-beta.gouv.fr.md)
 {% endcontent-ref %}
+
+{% content-ref url="emails/recreer-un-compte-email-pour-un-ancien-membre.md" %}
+[recreer-un-compte-email-pour-un-ancien-membre.md](emails/recreer-un-compte-email-pour-un-ancien-membre.md)
+{% endcontent-ref %}

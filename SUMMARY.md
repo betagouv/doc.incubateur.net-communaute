@@ -62,6 +62,7 @@
     * [Mettre à jour mes informations](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/outils/mise-a-jour-de-mes-informations.md)
     * [Liste de diffusion interne à la communauté](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/outils/liste-de-diffusion-et-adresses-de-contact.md)
   * [Emails](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/emails/README.md)
+    * [Recréer un compte email pour un ancien membre](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/emails/recreer-un-compte-email-pour-un-ancien-membre.md)
     * [Créer un compte email à un nouveau membre](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/emails/creer-un-compte-email-a-un-nouveau-membre.md)
     * [Envoyer et recevoir des mails @beta.gouv.fr](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/emails/envoyer-et-recevoir-des-mails-beta.gouv.fr.md)
     * [Je n'ai plus accès à mon mail](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/emails/depannage-je-nai-plus-acces-a-mon-mail.md)

@@ -7,6 +7,7 @@ Il est important de mettre ses dates de mission à jour pour conserver l'accès 
 {% endhint %}
 
 Toutes ces méthodes se déroulent en 3 étapes :
+
 1. Vous indiquez, avec l'une des méthodes ci-dessous votre nouvelle date de fin de mission. Ceci créera une PR (demande de modification) sur le [code du site de betagouv sur Github](https://github.com/betagouv/beta.gouv.fr/).
 2. Un des membres de votre équipe (idéalement l'intra) valide la PR avec vos nouvelles dates. Pour faciliter cela, tu peut leur envoyer le lien vers la PR.
 3. Le site, ainsi que nos systèmes, sont mis à jour automatiquement.
@@ -31,7 +32,7 @@ Tu as besoin de créer un compte github ? Retrouve les [explications ici.](../gi
 
 ### Github
 
-Tu peux enfin modifier directement ta fiche personnelle sur [github](https://github.com/betagouv/beta.gouv.fr/tree/master/content/\_authors) : voir la section [« Prolonger la durée d'activation d'un membre…»](./README.md) de cette documentation.
+Tu peux enfin modifier directement ta fiche personnelle sur [github](https://github.com/betagouv/beta.gouv.fr/tree/master/content/\_authors) : voir la section [« Prolonger la durée d'activation d'un membre…»](./) de cette documentation.
 
 Tu as besoin de créer un compte github ? Retrouve les [explications ici.](../github/)
 
@@ -43,4 +44,4 @@ Demande à cette personne d'effectuer la modification de ta fiche sur github à 
 
 Une fois la modification effectuée, tu pourras réactiver ton adresse @beta.gouv.fr depuis le site du [secrétariat](https://secretariat.incubateur.net/). Tu devrais recevoir un mail dans les 30 minutes avec tes nouveaux accès.
 
-Si la procédure décrite ne fonctionne pas, demande de l'aide sur le canal mattermost [~incubateur-secretaria](https://mattermost.incubateur.net/betagouv/channels/incubateur-secretaria).
+Si la procédure décrite ne fonctionne pas, demande de l'aide sur le canal mattermost [\~incubateur-help](https://mattermost.incubateur.net/betagouv/channels/incubateur-secretaria).
