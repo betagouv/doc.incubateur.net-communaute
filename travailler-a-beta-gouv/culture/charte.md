@@ -1,6 +1,12 @@
 # Nos valeurs
 
-_Si nous travaillons chez beta.gouv c’est que nous avons à cœur d’œuvrer pour l’intérêt général. Nous pensons que le service public est l’un des meilleurs moyens pour y arriver : nous le défendons fermement et voulons montrer qu’il est capable de faire aussi bien voir mieux que le privé, notamment dans le numérique._&#x20;
+
+
+{% hint style="info" %}
+Nos valeurs sont le reflet de l'idéal de notre communauté, le but à atteindre. Elles sont immuables, cependant nous sommes conscients que la communauté est, elle, en perpétuelle évolution. Par conséquent, il nous incombe de régulièrement nous évaluer et d'entreprendre des actions pour nous approcher toujours plus de cet idéal.
+{% endhint %}
+
+_Si nous travaillons chez beta.gouv c’est que nous avons à cœur d’œuvrer pour l’intérêt général. Nous pensons que le service public est l’un des meilleurs moyens pour y arriver : nous le défendons fermement et voulons montrer qu’il est capable de faire aussi bien voire mieux que le privé, notamment dans le numérique._&#x20;
 
 _Le corollaire de cet engagement est notre exigence pour l’impact. Il s’agit de s’assurer que les actions que nous menons transforment vraiment les politiques publiques, la société et la vie des usagers. Pour ce faire, nous développons une nouvelle approche de l’administration reposant sur le faire, l’amélioration continue, l’autonomie et la transparence._&#x20;
 
@@ -64,11 +70,13 @@ Faire confiance aux membres de la communauté, supposer par défaut que chacun.e
 
 **Inclusion**
 
-Une communauté où tous les genres, toutes les origines ethniques et sociales et tous les territoires de résidence sont bienvenus, représentés et travaillent ensemble.
+La communauté Beta.gouv défend l'inclusion de tou·te·s quels que soient leur âge, leur sexe, leur orientation sexuelle, leur identité de genre, classe sociale, nationalité, origine ou religion.
+
+Tou·te·s y sont representé·e·s et participent à la vie de la communauté.
 
 
 
 {% hint style="success" %}
-Ces valeurs influencent toute notre culture de travail. Si dans ton quotidien chez beta.gouv tu as une expérience différente, n’hésite pas à [**nous le signaler ici**](https://airtable.com/shrIP7G).
+Ces valeurs influencent toute notre culture de travail. Si dans ton quotidien chez beta.gouv tu as une expérience différente, n’hésite pas à [**nous le signaler ici**](https://airtable.com/shrIP7G9xTk4HubtN).
 {% endhint %}
 
