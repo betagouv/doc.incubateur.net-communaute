@@ -9,7 +9,7 @@ Pour demander un devis à un titulaire, votre besoin doit impérativement et san
 Une Startup d'Etat :
 
 * dispose systématiquement d'une fiche produit sur le site beta.gouv.fr, référencée sur [beta.gouv.fr/startups](https://beta.gouv.fr/startups/) ;
-* est obligatoirement rattachée à un des incubateurs du réseau beta.gouv qui dispose d'une convention de partenariat avec la DINUM, ou à défaut d'incubateur, est rattachée à l'[incubateur de la DINUM](../../../../decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/) (en général, cela se matérialise par une convention de partenariat entre l'administration porteuse et la DINUM) ;
+* est obligatoirement rattachée à un des incubateurs du réseau beta.gouv qui dispose d'une convention de partenariat avec la DINUM, ou à défaut d'incubateur, est rattachée à l'[incubateur de la DINUM](../../../../../decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/) (en général, cela se matérialise par une convention de partenariat entre l'administration porteuse et la DINUM) ;
 * est composée d'une équipe qui s'engage à suivre le manifeste beta.gouv ;
 * est en phase de construction, d'accélération ou de transfert/consolidation.
 

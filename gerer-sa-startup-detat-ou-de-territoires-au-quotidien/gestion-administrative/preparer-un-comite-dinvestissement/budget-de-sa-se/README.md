@@ -6,12 +6,12 @@
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="../../../utiliser-les-marches-publics-beta.gouv/la-facturation-de-a-a-z/livrable-et-service-fait.md" %}
-[livrable-et-service-fait.md](../../../utiliser-les-marches-publics-beta.gouv/la-facturation-de-a-a-z/livrable-et-service-fait.md)
+{% content-ref url="../../../decouvrir-les-differents-metiers-dune-startup-detat/obtenir-une-prestation/la-facturation-de-a-a-z/livrable-et-service-fait.md" %}
+[livrable-et-service-fait.md](../../../decouvrir-les-differents-metiers-dune-startup-detat/obtenir-une-prestation/la-facturation-de-a-a-z/livrable-et-service-fait.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../../utiliser-les-marches-publics-beta.gouv/la-facturation-de-a-a-z/" %}
-[la-facturation-de-a-a-z](../../../utiliser-les-marches-publics-beta.gouv/la-facturation-de-a-a-z/)
+{% content-ref url="../../../decouvrir-les-differents-metiers-dune-startup-detat/obtenir-une-prestation/la-facturation-de-a-a-z/" %}
+[la-facturation-de-a-a-z](../../../decouvrir-les-differents-metiers-dune-startup-detat/obtenir-une-prestation/la-facturation-de-a-a-z/)
 {% endcontent-ref %}
 
 {% content-ref url="../" %}

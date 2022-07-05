@@ -4,7 +4,7 @@ Le programme beta.gouv.fr [dispose d’une page sur la plateforme “Welcome to 
 
 ![](<../../.gitbook/assets/image (14).png>)
 
-Cet outil est mis à disposition de l’ensemble du réseau beta.gouv. En particulier, les entreprises titulaires de [nos marchés publics](../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/utiliser-les-marches-publics-beta.gouv/marches-publics-beta.gouv.fr/) peuvent utiliser cet outil afin de faciliter leur sourcing de profils pour le compte des produits conçus selon l’approche Startup d’État, en profitant du rayonnement du label “beta.gouv.fr”.
+Cet outil est mis à disposition de l’ensemble du réseau beta.gouv. En particulier, les entreprises titulaires de [nos marchés publics](../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/obtenir-une-prestation/marches-publics-beta.gouv.fr/) peuvent utiliser cet outil afin de faciliter leur sourcing de profils pour le compte des produits conçus selon l’approche Startup d’État, en profitant du rayonnement du label “beta.gouv.fr”.
 
 ## Obtenir un accès au Welcome to the Jungle
 
@@ -28,6 +28,9 @@ _****_Indiquer dans “process de recrutement” : “Ecrivez-nous un paragraphe
 
 _**Tu/Vous**_ \
 _****_A vous de choisir entre le tutoiement et le vouvoiement, assurez-vous simplement que toute l’offre est cohérente.
+
+_**Candidatures spontanées**_\
+_****_Le site vitrine du welcome to the jungle permet les candidatures spontanées, n’hésitez pas à consulter le vivier. Pour ce faire se rendre dans la rubrique “candidature spontanée”.
 
 _**Diffusion**  **sur le site Welcome de beta.gouv.fr** _ \
 __Assurez-vous que la case Welcome est bien cochée pour que votre offre soit diffusée.
