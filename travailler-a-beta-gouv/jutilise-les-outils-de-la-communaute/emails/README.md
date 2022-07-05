@@ -8,6 +8,10 @@ description: Comment envoyer et recevoir des emails avec son adresse @beta.gouv
 [creer-un-compte-email-a-un-nouveau-membre.md](creer-un-compte-email-a-un-nouveau-membre.md)
 {% endcontent-ref %}
 
+{% content-ref url="recreer-un-compte-email-pour-un-ancien-membre.md" %}
+[recreer-un-compte-email-pour-un-ancien-membre.md](recreer-un-compte-email-pour-un-ancien-membre.md)
+{% endcontent-ref %}
+
 {% content-ref url="depannage-je-nai-plus-acces-a-mon-mail.md" %}
 [depannage-je-nai-plus-acces-a-mon-mail.md](depannage-je-nai-plus-acces-a-mon-mail.md)
 {% endcontent-ref %}
