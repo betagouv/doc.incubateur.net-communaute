@@ -46,4 +46,4 @@ Au début du séminaire, chaque atelier est présenté rapidement et affiché su
 
 ![Un séminaire (ancêtre du Forum beta.gouv) dans les anciens locaux du SGMAP en 2017](<../../../.gitbook/assets/image (1).png>)
 
-![Le séminaire beta.gouv.fr sur Gather.Town pendant la période du Covid (2020-2021)](<../../../.gitbook/assets/image (14) (1) (1).png>)
+![Le séminaire beta.gouv.fr sur Gather.Town pendant la période du Covid (2020-2021)](<../../../.gitbook/assets/image (14) (1).png>)
