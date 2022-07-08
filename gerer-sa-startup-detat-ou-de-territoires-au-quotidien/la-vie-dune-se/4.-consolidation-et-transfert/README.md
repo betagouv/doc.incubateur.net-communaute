@@ -17,9 +17,11 @@ Un **guide** a été publié en avril 2021. Si vous vous lancez dans la prépara
 
 {% embed url="https://docs.google.com/presentation/d/1Rgc6PEuDzsfEmLL8Qk60GW-zBN9neHg32Q0nbuPGXd0/edit?usp=sharing" %}
 
+{% hint style="danger" %}
+Attention à ne pas vouloir sortir d'incubation votre Startup d'État trop vite. C'est l'écueil le plus souvent constaté lors des phases de consolidation. Une sortie d'incubation trop rapide peut ralentir le déploiement d'une solution numérique, ou risque de déstabiliser l'équipe en charge du produit.&#x20;
+{% endhint %}
+
 ### Guide pas à pas
-
-
 
 {% content-ref url="trajectoires-de-perennisation/" %}
 [trajectoires-de-perennisation](trajectoires-de-perennisation/)

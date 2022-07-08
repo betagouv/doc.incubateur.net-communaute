@@ -1,7 +1,3 @@
----
-description: Des informations utiles
----
-
 # 🧑⚖ Cadrer juridiquement son produit
 
 ## RGPD
