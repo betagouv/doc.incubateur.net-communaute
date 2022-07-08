@@ -2,7 +2,7 @@
 
 **“Je me suis mis à la place de mon utilisateur”** est une phrase que l’on entend trop souvent dans les équipes. Et pour cause, on ne peut pas se mettre à la place des autres.&#x20;
 
-* Personne ne peut **ressentir la douleur**, notamment la honte, rencontrés par une personne qui est a des difficultés à lire.&#x20;
+* Personne ne peut **ressentir la douleur**, notamment la honte, rencontrés par une personne qui a des difficultés à lire.&#x20;
 * Personne ne peut **imaginer les difficultés** auxquelles une personne trans doit faire face quotidiennement. Parce qu'au-delà de nos services, elle peut se faire insulter voire pire, agresser parce qu’elle est qui elle est.
 
 La bonne approche consiste à **avoir l’attitude d’une chercheuse ou d’un chercheur** pour rencontrer et prendre en compte d’autres perspectives que la vôtre. On ne voit le monde que d’un seul point de vue : le sien. On peut aussi le  voir à travers celui de son entourage, celui de son équipe ou de son environnement immédiat. On voit aussi le monde à travers sa ou ses cultures. Il est extrêmement difficile de prendre conscience de ses propres biais.
