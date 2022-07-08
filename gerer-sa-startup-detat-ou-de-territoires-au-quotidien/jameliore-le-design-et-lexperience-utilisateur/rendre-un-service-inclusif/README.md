@@ -1,7 +1,3 @@
----
-description: 'Dossier : Caroline Lawson et Gladys Diandoki'
----
-
 # Rendre un service inclusif
 
 **Tous les jours, des milliers de personnes utilisent les services de l’état.**&#x20;

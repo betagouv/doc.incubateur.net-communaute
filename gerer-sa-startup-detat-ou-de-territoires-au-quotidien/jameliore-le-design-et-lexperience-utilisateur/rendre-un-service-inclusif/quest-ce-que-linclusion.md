@@ -19,9 +19,24 @@ Nous proposons ci-après une liste de discriminations possible, cependant cette 
 
 ## Critères de discrimination
 
-Les personnes peuvent être discriminées pour leur ge Capacités physiques ou mentales Genre État-civil
+Les personnes peuvent être discriminées pour leur&#x20;
 
-Origine et nationalité Croyances et religion Orientation sexuelle Couleur de peau Langue Education Illettrisme Illectronisme Classe sociale Revenus Santé mentale Lieu de résidence Situation bancaire, etc.
+* Genre
+* Capacités physiques ou mentales&#x20;
+* État-civil
+* Origine et nationalité&#x20;
+* Croyances et religion&#x20;
+* Orientation sexuelle&#x20;
+* Couleur de peau&#x20;
+* Langue&#x20;
+* Éducation&#x20;
+* Illettrisme&#x20;
+* Illectronisme&#x20;
+* Classe sociale&#x20;
+* Revenus&#x20;
+* Santé mentale&#x20;
+* Lieu de résidence&#x20;
+* Situation bancaire, etc.
 
 
 
@@ -34,10 +49,10 @@ Origine et nationalité Croyances et religion Orientation sexuelle Couleur de pe
 ### Quelques questions à se poser :
 
 * [ ] Qui sont les personnes qui peuvent avoir des difficultés dans le dispositif ?&#x20;
-* [ ] Qui sont les personnes que nous pouvons exclure ?&#x20;
-* [ ] Dans le contexte de mon service, y a-t-il des personnes qui pourraient être oubliées ?&#x20;
-* [ ] Avez-vous réalisé des personas basés sur de la recherche sur ces personnes ou groupes ?&#x20;
-* [ ] Avez-vous dans votre équipe des personnes ou experts appartenant à certains de ces groupes ?
+* [ ] Qui sont les personnes que nous avons tendance à exclure ?&#x20;
+* [ ] Dans le contexte de notre service, y a-t-il des personnes qui pourraient être oubliées ?&#x20;
+* [ ] Avons-nous réalisé des personas (basés sur de la recherche) sur ces personnes ou groupes ?&#x20;
+* [ ] Avons-nous dans notre équipe des personnes ou experts appartenant à certains de ces groupes ?
 
 ### Pour aller plus loin :
 
