@@ -21,7 +21,7 @@ Exemples :&#x20;
 * &#x20;Si vous connaissez déjà votre cible et que vous avez besoin de données plus quantitatives, pour connaître leurs priorités par exemple, alors un **questionnaire** apporte une quantification qui vous aidera à prendre des décisions.
 
 {% embed url="https://vimeo.com/727557840" %}
-Charlotte Moore, UX Researcher au UK Home Office nous présente son travail pour le Ministère de l'intérieur britannique. [charlotte-moore-transcription-et-traduction.md](charlotte-moore-transcription-et-traduction.md "mention")
+"Comment rendre l'expérience de création de passeport plus inclusive ?" par Charlotte Moore, UX Researcher (UK Home Office)
 {% endembed %}
 
 {% content-ref url="preparer-sa-recherche.md" %}
