@@ -1,10 +1,6 @@
-# Gitbook
+# Gitbook - Editeur de documentations en ligne
 
 Pour lancer un guide en ligne, vous pouvez vous renseigner sur le salon Mattermost : #incubateur-documentation.
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
 
 {% content-ref url="comment-contribuer-a-cette-documentation.md" %}
 [comment-contribuer-a-cette-documentation.md](comment-contribuer-a-cette-documentation.md)
@@ -17,4 +13,3 @@ Pour lancer un guide en ligne, vous pouvez vous renseigner sur le salon Mattermo
 {% content-ref url="recommandations.md" %}
 [recommandations.md](recommandations.md)
 {% endcontent-ref %}
-
