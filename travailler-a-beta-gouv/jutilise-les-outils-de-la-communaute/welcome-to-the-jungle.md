@@ -4,7 +4,7 @@ Le programme beta.gouv.fr [dispose d’une page sur la plateforme “Welcome to 
 
 ![](<../../.gitbook/assets/image (14).png>)
 
-Cet outil est mis à disposition de l’ensemble du réseau beta.gouv. En particulier, les entreprises titulaires de [nos marchés publics](../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/recrutement/marches-publics-beta.gouv.fr/) peuvent utiliser cet outil afin de faciliter leur sourcing de profils pour le compte des produits conçus selon l’approche Startup d’État, en profitant du rayonnement du label “beta.gouv.fr”.
+Cet outil est mis à disposition de l’ensemble du réseau beta.gouv. En particulier, les entreprises titulaires de [nos marchés publics](../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/obtenir-une-prestation/marches-publics-beta.gouv.fr/) peuvent utiliser cet outil afin de faciliter leur sourcing de profils pour le compte des produits conçus selon l’approche Startup d’État, en profitant du rayonnement du label “beta.gouv.fr”.
 
 ## Obtenir un accès au Welcome to the Jungle
 

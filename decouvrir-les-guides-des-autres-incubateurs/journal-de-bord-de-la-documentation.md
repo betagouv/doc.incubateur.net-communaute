@@ -96,8 +96,8 @@ La documentation Design qui était auparavant hébergée sur un autre Gitbook, e
 
 * Actualiser la partie sur le marché interministériel beta après sa notification. Adapter la section liée à la gestion du budget, et notamment aux devis
 
-{% content-ref url="../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/recrutement/marches-publics-beta.gouv.fr/marche-interministeriel-beta/" %}
-[marche-interministeriel-beta](../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/recrutement/marches-publics-beta.gouv.fr/marche-interministeriel-beta/)
+{% content-ref url="../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/obtenir-une-prestation/marches-publics-beta.gouv.fr/marche-interministeriel-beta/" %}
+[marche-interministeriel-beta](../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/obtenir-une-prestation/marches-publics-beta.gouv.fr/marche-interministeriel-beta/)
 {% endcontent-ref %}
 
 {% content-ref url="../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/preparer-un-comite-dinvestissement/budget-de-sa-se/" %}
