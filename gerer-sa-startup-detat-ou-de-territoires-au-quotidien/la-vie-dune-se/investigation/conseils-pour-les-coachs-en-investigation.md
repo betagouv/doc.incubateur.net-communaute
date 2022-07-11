@@ -16,7 +16,7 @@ Cette transparence s'applique dès la phase d'investigation.
 
 ## Qu'est-ce qu'on attend de moi la première semaine ? <a href="#quest-ce-quon-attend-de-moi-la-premiere-semaine" id="quest-ce-quon-attend-de-moi-la-premiere-semaine"></a>
 
-* **créer une fiche membre pour toi (si ce n'est pas déjà fait) et l'intra**. Tu as juste à renseigner ce [court formulaire (version beta)](https://secretariat.incubateur.net/onboarding). Un membre de beta pourra alors te créer un email @beta.gouv.fr puis te donner accès au Mattermost de la communauté.
+* **créer une fiche membre pour toi (si ce n'est pas déjà fait) et l'intra**. Tu as juste à renseigner ce [court formulaire (version beta)](https://espace-membre.incubateur.net/onboarding). Un membre de beta pourra alors te créer un email @beta.gouv.fr puis te donner accès au Mattermost de la communauté.
 * **créer un canal de discussion** en ligne spécifiquement sur ton investigation en invitant l'intra
 * la norme c'est d'avoir un canal public sur le Mattermost de beta :
   * Avantage : Vous pourrez facilement demander de l'aide ou de l'expertise à un membre de la communauté.
