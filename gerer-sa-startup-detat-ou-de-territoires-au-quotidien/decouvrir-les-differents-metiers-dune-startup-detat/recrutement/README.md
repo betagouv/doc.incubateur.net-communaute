@@ -1,6 +1,7 @@
 # Comment renforcer son équipe ?
 
-Vous souhaitez renforcer votre équipe ? 2 options s'offrent à vous :&#x20;
+Vous souhaitez renforcer votre équipe ? \
+2 options s'offrent à vous :&#x20;
 
 * Si possible, ouvrir un poste d'agent public (recrutement en interne). Pour le recrutement sous le statut d'[agent public](../../../travailler-a-beta-gouv/actions-transverses/les-differents-statuts/fonctionnaires-et-contractuels-de-la-fonction-publique.md) (contractuel, vacataire, stagiaire), des procédures administratives sont prévues par chaque administration et encadrent notamment les démarches d'entretien : grille d'évaluation, compte-rendu d'entretien, dossier de recrutement… Ces procédures ne sont pas détaillées dans ce guide.&#x20;
 * Contractualiser en externe, c'est-à-dire faire appel à de la prestation en passant par des marchés publics. Pour cela, consulter la section suivante.
