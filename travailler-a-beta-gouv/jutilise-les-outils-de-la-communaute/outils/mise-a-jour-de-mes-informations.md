@@ -16,7 +16,7 @@ Voici différentes méthodes permettant de modifier ses dates de missions.
 
 ### Secrétariat
 
-Si ta date de fin de mission n'est pas déjà expirée de plus de 5 jours, tu peux la modifier sur le site [secrétariat](https://secretariat.incubateur.net/account#update-end-date).
+Si ta date de fin de mission n'est pas déjà expirée de plus de 5 jours, tu peux la modifier sur le site [secrétariat](https://espace-membre.incubateur.net/account#update-end-date).
 
 ### L'admin du CMS
 

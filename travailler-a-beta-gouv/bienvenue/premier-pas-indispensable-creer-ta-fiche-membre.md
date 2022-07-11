@@ -11,7 +11,7 @@ description: >-
 
 Chaque nouvel arrivant est autonome pour créer sa fiche membre. Une fois créée, son nom apparaîtra dans [l'annuaire beta.gouv](https://beta.gouv.fr/communaute/annuaire). Tu as juste à te laisser guider :
 
-👉 [**Créer sa fiche membre**](https://secretariat.incubateur.net/onboarding) \*\*\*\* 👈
+👉 [**Créer sa fiche membre**](https://espace-membre.incubateur.net/onboarding) \*\*\*\* 👈
 
 ### Pourquoi créer une fiche membre ?
 
@@ -23,7 +23,7 @@ Une fiche membre permet aux nouveaux arrivants :
 
 ### Comment ça se déroule concrètement ?
 
-1. Tu renseignes le[ formulaire](https://secretariat.incubateur.net/onboarding) ;
+1. Tu renseignes le[ formulaire](https://espace-membre.incubateur.net/onboarding) ;
 2. Ton référent (un membre de ton équipe ou un co-animateur) recevra un email lui demandant de confirmer ton arrivée au sein d'une équipe du réseau beta.gouv ;
 3. Tu reçois un email de bienvenue dans ta boite email personnel qui te permet d'activer ton email @beta.gouv.fr ;
 4. Notre "bot" recherchera automatiquement [un ou une marraine ](../actions-transverses/marrainage/)au sein de la communauté, qui pourra être ton point de références durant tes premiers mois au cas où tu rencontres des problèmes ;
@@ -34,7 +34,7 @@ Tu auras donc accès à ta boite email @beta.gouv, à la messagerie de ton équi
 
 #### Que faire si tu n'as pas activé ton email beta.gouv.fr et que le lien d'activation est expiré ?
 
-1. Rends toi sur [https://secretariat.incubateur.net](http://secretariat.incubateur.net)
+1. Rends toi sur [https://espace-membre.incubateur.net/](https://espace-membre.incubateur.net/)
 2. Utilise ton email secondaire (celui renseigné dans le formulaire) pour te connecter à ta fiche
 3. Demande un renouvellement du mot de passe de ta boîte mail
 
