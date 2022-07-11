@@ -4,7 +4,7 @@ Le programme beta.gouv.fr [dispose d’une page sur la plateforme “Welcome to 
 
 ![](<../../.gitbook/assets/image (14).png>)
 
-Cet outil est mis à disposition de l’ensemble du réseau beta.gouv. En particulier, les entreprises titulaires de [nos marchés publics](../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/obtenir-une-prestation/marches-publics-beta.gouv.fr/) peuvent utiliser cet outil afin de faciliter leur sourcing de profils pour le compte des produits conçus selon l’approche Startup d’État, en profitant du rayonnement du label “beta.gouv.fr”.
+Cet outil est mis à disposition de l’ensemble du réseau beta.gouv. En particulier, les entreprises titulaires de [nos marchés publics](../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/recrutement/marches-publics-beta.gouv.fr/) peuvent utiliser cet outil afin de faciliter leur sourcing de profils pour le compte des produits conçus selon l’approche Startup d’État, en profitant du rayonnement du label “beta.gouv.fr”.
 
 ## Obtenir un accès au Welcome to the Jungle
 
@@ -76,10 +76,19 @@ _**En cas de diffusion d’une offre en prestation liée aux marchés beta.gouv 
 ****La plateforme Welcome to the Jungle est un outil supplémentaire qui permet d’augmenter les chances de mobiliser les meilleurs profils en prestations, via les marchés publics du réseau beta.gouv.fr.
 
 _**Rappeler les valeurs de beta**_\
-_****_Rappeler lors des échanges, l’importance des valeurs de beta et de notre culture de travail. S’assurer que le candidat les a lu et s'y reconnait.
+_****_Rappeler lors des échanges, l’importance des valeurs de beta et de notre culture de travail. S’assurer que le candidat les a lues et s'y reconnait.\
+\
+_**Aller voir les candidatures spontanées**_\
+_****_Le site vitrine du welcom to the jungle permet les candidatures spontanées, n’hésitez pas à regarder si des profils peuvent vous intéresser. Pour ce faire se rendre dans l’offre “candidature spontanée”.
 
 _**Mettre à jour le Welcome Kit**_\
-_****_Mettre à jour la carte des candidats tout au long du process de sélection.
+_****_Mettre à jour la carte des candidats tout au long du process de sélection.\
+\
+_**Faire attention aux biais**_\
+_****_Nous sommes tous biaisés, ce [petit guide](https://app.gitbook.com/o/-LrIsEqqjEjdRXwfHPAD/s/-M4-Pru\_Xyamh27tzw85/\~/changes/QZ4g2C5jXpmV9zUJH5O1/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/recrutement/conseils-pour-le-recrutement/faire-attention-aux-biais) pour éviter de l'être moins.\
+\
+_**Rester respectueux dans ses commentaires**_\
+_****_Les commentaires que vous laisseraient sur la fiche d'un candidat seront accessibles à toute la communauté, rester donc professionnel et respectueux. Par ailleurs, la loi condamne tout propos discriminant ou haineux. Enfin, un candidat peut vous demander d'avoir accès aux informations que vous avez sur lui dont les commentaires.
 
 </details>
 

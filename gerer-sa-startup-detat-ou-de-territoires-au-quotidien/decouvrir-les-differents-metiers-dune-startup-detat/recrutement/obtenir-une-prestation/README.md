@@ -8,7 +8,7 @@ description: >-
 # Obtenir une prestation
 
 {% hint style="info" %}
-Ce process concerne les [marchés de coaching de la DINUM](marches-publics-beta.gouv.fr/marche-coaching.md) et du MTE ainsi que le [marché interministériel beta.gouv](marches-publics-beta.gouv.fr/marche-interministeriel-beta/). Il s'applique donc si tu souhaites faire appel à des prestations de développement, design, déploiement (_business development_), design, coaching.&#x20;
+Ce process concerne les [marchés de coaching de la DINUM](../marches-publics-beta.gouv.fr/marche-coaching.md) et du MTE ainsi que le [marché interministériel beta.gouv](../marches-publics-beta.gouv.fr/marche-interministeriel-beta/). Il s'applique donc si tu souhaites faire appel à des prestations de développement, design, déploiement (_business development_), design, coaching.&#x20;
 
 _Ce process ne s'applique donc pas pour les Startups d'État incubées à Pôle emploi ou au ministère des Affaires sociales, qui disposent de leurs propres marchés._
 {% endhint %}
@@ -23,7 +23,7 @@ Pour comprendre l’ensemble du circuit d’un bon de commande, de l’expressio
 
 ### Étape 1 : s'assurer que la Startup d'État dispose d'un budget suffisant
 
-Avant toute demande, vérifier la disponibilité d'une enveloppe budgétaire suffisante pour engager les montants nécessaires à la prestation souhaitée. Si tu ne sais pas comment t'y prendre, consulte la rubrique "[Suivre son budget](../../gestion-administrative/)" ou demande à l'équipe de ton incubateur.&#x20;
+Avant toute demande, vérifier la disponibilité d'une enveloppe budgétaire suffisante pour engager les montants nécessaires à la prestation souhaitée. Si tu ne sais pas comment t'y prendre, consulte la rubrique "[Suivre son budget](../../../gestion-administrative/)" ou demande à l'équipe de ton incubateur.&#x20;
 
 <details>
 
@@ -39,7 +39,7 @@ Bien vérifier que le fichier de suivi est bien à jour, en particulier que ton 
 
 Cette étape s'appelle l'_**expression de besoins**_** ** et permet de **demander un devis**.&#x20;
 
-Pour trouver les contacts de l'entreprise titulaire du marché affectée à ton produit, consulte la rubrique "[Marchés publics](marches-publics-beta.gouv.fr/)" ou demande à l'équipe de ton incubateur. Nous conseillons de mettre tes responsables d'incubateur en copie du mail de demande de devis.
+Pour trouver les contacts de l'entreprise titulaire du marché affectée à ton produit, consulte la rubrique "[Marchés publics](../marches-publics-beta.gouv.fr/)" ou demande à l'équipe de ton incubateur. Nous conseillons de mettre tes responsables d'incubateur en copie du mail de demande de devis.
 
 <details>
 
@@ -99,8 +99,8 @@ Pour identifier les profils qui réaliseront la prestation :&#x20;
   * diffuser l'annonce au sein du réseau beta.gouv, via le Mattermost ou l'infolettre interne ;&#x20;
   * poster une annonce sur la plateforme _Welcome to the Jungle_. Dans ce cas-là, il est nécessaire de gérer les candidatures en lien avec l'entreprise titulaire. Pour en savoir plus, consulter la page suivante :&#x20;
 
-{% content-ref url="../../../travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/welcome-to-the-jungle.md" %}
-[welcome-to-the-jungle.md](../../../travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/welcome-to-the-jungle.md)
+{% content-ref url="../../../../travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/welcome-to-the-jungle.md" %}
+[welcome-to-the-jungle.md](../../../../travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/welcome-to-the-jungle.md)
 {% endcontent-ref %}
 
 {% hint style="success" %}
@@ -110,7 +110,7 @@ N'oublie pas de prévenir l'entreprise titulaire de ton besoin _**avant**_ de di
 Nous conseillons d’effectuer ces deux actions en même temps, afin de réduire le temps de sélection et ne pas immobiliser trop longtemps les profils.&#x20;
 
 {% hint style="info" %}
-Si tu n'as pas l’habitude de juger des profils techniques, tu peux te faire aider par la personne qui te coach ou les responsables de ton incubateur. La section "[Guides d'entretien par profil](../recrutement/entretiens-de-recrutement.md)" peut également t'aider à poser les bonnes questions.
+Si tu n'as pas l’habitude de juger des profils techniques, tu peux te faire aider par la personne qui te coach ou les responsables de ton incubateur. La section "[Guides d'entretien par profil](../conseils-pour-le-recrutement/entretiens-de-recrutement.md)" peut également t'aider à poser les bonnes questions.
 {% endhint %}
 
 ### Etape 4 : obtenir le devis final auprès de l'entreprise titulaire&#x20;
@@ -123,7 +123,7 @@ Si les profils identifiés ne sont pas salariés de l'entreprise titulaire, ils 
 
 Vous ne pouvez démarrer la prestation que lorsque l'entreprise titulaire aura reçu le _ **bon de commande**._ Une fois le devis final transmis au responsable de l'incubateur, le process d'émission du bon de commande prend de quelques jours à 3 semaines (exemple : [process de la Fabrique numérique du ministère de la Transition écologique](https://miro.com/app/board/uXjVO-zTnXY=/)).&#x20;
 
-L'entreprise titulaire ne sera payée pour la prestation qu'après la certification par l'administration du service fait (partiel ou total). Pour en savoir plus sur les paiements, [consulte cette section](la-facturation-de-a-a-z/).&#x20;
+L'entreprise titulaire ne sera payée pour la prestation qu'après la certification par l'administration du service fait (partiel ou total). Pour en savoir plus sur les paiements, [consulte cette section](../la-facturation-de-a-a-z/).&#x20;
 
 {% hint style="info" %}
 En cas de problème, contacte tes responsables d'incubateurs ou utilise la chaîne _\~incubateur-help_ du Mattermost.
