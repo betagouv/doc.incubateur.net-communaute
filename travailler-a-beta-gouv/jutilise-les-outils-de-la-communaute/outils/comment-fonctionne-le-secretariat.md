@@ -1,6 +1,6 @@
 ---
 description: >-
-  Le secrétariat est un ensemble de processus automatisés qui gère les membres
+  L'espace membre est un ensemble de processus automatisés qui gère les membres
   de la communauté Betagouv. Ils comprennent :
 ---
 
@@ -8,7 +8,7 @@ description: >-
 
 ## Comment fonctionne l'espace membre (secretariat)
 
-Le secrétariat est un ensemble de processus automatisés qui gère les membres de la communauté Betagouv. Ils comprennent :
+L'espace membre est un ensemble de processus automatisés qui gère les membres de la communauté Betagouv. Ils comprennent :
 
 * Le repo github du site beta.gouv.fr
 * L'app [`espace-membre.incubateur.net`](https://espace-membre.incubateur.net/)``
@@ -31,7 +31,7 @@ Une fois la PR sur Github validée
 
 * On affiche les informations de cette PR sur https://beta.gouv.fr/communaute/annuaire
 * On créé une adresse mail @beta.gouv.fr pour cet utilisateur sauf si son adresse principale est une adresse de l'administration.
-* On te créé des accès dans secretariat.incubateur.net
+* On te créé des accès dans espace-membre.incubateur.net
 * On créé un compte Mattermost avec cette adresse
 * On lance un processus pour te trouver une marraine ou un parrain
 * On met à jour l'API betagouv (https://beta.gouv.fr/api/v2.3/authors.json) utilisée pour réaliser des statistiques sur la communauté
@@ -47,7 +47,7 @@ Via l'espace membre, tu pourras :
 * Configurer une réponse automatique sur ton mail en cas d'absence
 * Changer tes dates de mission ou les informations concernant ta mission en cours (Attention : Il faudra qu'un membre de ton équipe valide la PR sur github)
 
-Plus généralement, tu trouveras dans le secretariat :
+Plus généralement, tu trouveras dans l'espace membre :
 
 * L'historique des infolettres de la communauté
 * Retrouver la fiche d'un membre
@@ -68,7 +68,7 @@ Si tu n'utilises pas ton email @beta.gouv.fr tu peux sur [https://espace-membre.
 
 C'est le cas notamment pour Mattermost pour lequel la mise à jour de l'email est obligatoire avant de pouvoir effectuer le changement (voir [mettre à jour l'email mattermost](comment-fonctionne-le-secretariat.md#mettre-a-jour-lemail-dans-mattermost)).
 
-Tu peux retrouver cette fonctionnalité en te rendant dans [Secretariat > Mon Compte > Configurer mon email principal](https://espace-membre.incubateur.net/account#change-primary-email).
+Tu peux retrouver cette fonctionnalité en te rendant dans [Mon Compte > Configurer mon email principal](https://espace-membre.incubateur.net/account#change-primary-email).
 
 #### Mettre à jour l'email dans mattermost
 
@@ -78,6 +78,6 @@ Pour changer l'adresse sur mattermost il faut aller en haut a droite sur sa phot
 
 L'email secondaire permet de se connecter à l'espace membre en cas d'oublie ou changement du mot de passe de votre adresse @beta.gouv.fr.
 
-Il est utile notamment dans ce cas afin d'accéder au secretariat pour y redéfinir un nouveau mot de passe ainsi que pour diverse communication au moment de la fin de mission.
+Il est utile notamment dans ce cas afin d'accéder à l'espace membre  pour y redéfinir un nouveau mot de passe ainsi que pour diverse communication au moment de la fin de mission.
 
 Tu peux retrouver cette fonctionnalité en te rendant dans [Mon Compte > Configurer mon email secondaire](https://espace-membre.incubateur.net/account#change-secondary-email).
