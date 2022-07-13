@@ -16,21 +16,31 @@ Pour publier une offre sur le Welcome il suffit de cliquer sur “ajouter une of
 
 ![](https://lh6.googleusercontent.com/ZX3WwWHVbXDR8CYLSSs0owHH93HHMCm3qmsIaaGYRd05LKGz\_TAfieFTZ4khgfWTK3oLP1oYrwmz0nbtf8RUsK63tO2of\_dDfgj7MVCoGvxmZehzmEkxoyD6ioO8HHhk24FSz59WabPDmtldDg)
 
+{% hint style="info" %}
+**L'offre sera automatiquement dépubliée au bout de 2 mois**, sauf prolongement manuel.  Si tu as trouvé la ou les bonnes personnes, bravo et pense à archiver l'annonce avant cette date, afin de garder une page de recrutement à jour et attractive. Sinon tu peux toujours réactiver l'annonce en allant dans les archives.
+{% endhint %}
+
 <details>
 
 <summary>Bonnes pratiques (dérouler pour lire)</summary>
 
+_**Indiquer le nom de sa Startup d'État dans le titre de l'offre**_\
+_****_Afin de faciliter la recherche d'une offre
+
+_**Indiquer le nom de l'entreprise titulaire en cas d'offre de mission "freelance"**_\
+_****_En concertation avec l'entreprise titulaire du marché public utilisé par votre Startup d'État, indiquez le nom de l'entreprise titulaire et détailler le process de contractualisation que devra suivre la personne qui sera éventuellement retenue.
+
 _**Localisation** _ \
-__Pour le bureau, indiquer là où l’équipe se réunit le plus fréquemment. Si c’est le cas, indiquer télétravail total possible.
+__Pour le bureau, indiquer là où l’équipe se réunit le plus fréquemment. Si c’est le cas, indiquer que le télétravail total est possible.
 
 _**Lettre de motivation**_ \
-_****_Indiquer dans “process de recrutement” : “Ecrivez-nous un paragraphe sur votre motivation (5 - 10 lignes) et télécharger le dans “lettre de motivation””. En effet, moins le candidat devra vous élaborer de long document, plus il sera prêt à candidater.
+_****_Indiquer dans “process de recrutement” : “Ecrivez-nous un paragraphe sur votre motivation (5 - 10 lignes) et téléchargez-le dans “lettre de motivation””. En effet, moins le candidat devra vous élaborer de long document, plus il sera prêt à candidater.
 
 _**Tu/Vous**_ \
 _****_A vous de choisir entre le tutoiement et le vouvoiement, assurez-vous simplement que toute l’offre est cohérente.
 
 _**Candidatures spontanées**_\
-_****_Le site vitrine du welcome to the jungle permet les candidatures spontanées, n’hésitez pas à consulter le vivier. Pour ce faire se rendre dans la rubrique “candidature spontanée”.
+_****_Le site vitrine du Welcome to the jungle permet les candidatures spontanées, n’hésitez pas à consulter le vivier. Pour ce faire se rendre dans la rubrique “candidature spontanée”.
 
 _**Diffusion**  **sur le site Welcome de beta.gouv.fr** _ \
 __Assurez-vous que la case Welcome est bien cochée pour que votre offre soit diffusée.
@@ -38,6 +48,12 @@ __Assurez-vous que la case Welcome est bien cochée pour que votre offre soit di
 ![](https://lh3.googleusercontent.com/s8LOLLhIXQnW9vAOFoSXOFqRdCKJ0LBgV55D7zK1db1eG-Qbdt6Jx1Nubbdrn7OXV6k4TLTEXVfKMH63nJqpLSZn5mhTbTuucnt-VsNxqz89zAJe-tZKyH8zn09nVDnV3U6tOeH\_rLHxe9SB4Q)
 
 </details>
+
+En cas de diffusion d'une offre en prestation (ex : freelance), suivre le process détaillé ici :&#x20;
+
+{% content-ref url="../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/obtenir-une-prestation/" %}
+[obtenir-une-prestation](../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/obtenir-une-prestation/)
+{% endcontent-ref %}
 
 ## Diffuser une offre
 
