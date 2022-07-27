@@ -12,8 +12,8 @@
 [pourquoi-le-recrutement-des-charges-de-deploiement-est-il-important.md](pourquoi-le-recrutement-des-charges-de-deploiement-est-il-important.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../decouvrir-les-differents-metiers-dune-startup-detat/les-differents-metiers-dans-une-startup-detat/le-charge-de-deploiement-dans-le-programme-beta.gouv.md" %}
-[le-charge-de-deploiement-dans-le-programme-beta.gouv.md](../../decouvrir-les-differents-metiers-dune-startup-detat/les-differents-metiers-dans-une-startup-detat/le-charge-de-deploiement-dans-le-programme-beta.gouv.md)
+{% content-ref url="le-charge-de-deploiement-dans-le-programme-beta.gouv.md" %}
+[le-charge-de-deploiement-dans-le-programme-beta.gouv.md](le-charge-de-deploiement-dans-le-programme-beta.gouv.md)
 {% endcontent-ref %}
 
 {% content-ref url="les-metiers-sales-and-marketing-dans-le-prive.md" %}
