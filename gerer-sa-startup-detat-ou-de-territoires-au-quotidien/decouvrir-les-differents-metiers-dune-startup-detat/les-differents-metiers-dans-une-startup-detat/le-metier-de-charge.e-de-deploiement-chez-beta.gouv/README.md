@@ -12,9 +12,9 @@ Dans les startups privées, ce sont les commerciaux, business developers ou ing�
 Selon les équipes, les chargés de déploiement peuvent également assurer des missions de **support utilisateur** (_customer success_ dans le privé).
 {% endhint %}
 
-Les chargés et chargées de déploiement chez beta.gouv ont selon la taille et le stade d’avancement de la startup diverses missions et casquettes (trouver les usagers, support, responsable produit,  animateur de communauté, ...)
+Les chargés et chargées de déploiement chez beta.gouv ont selon la taille et le stade d’avancement de la startup diverses missions et casquettes. Bien que charger de trouver des utilisateurs ils et elles peuvent aussi selon les startups participer au support, être responsable produit, d'animation de communauté, et autres.&#x20;
 
-voir : [Le chargé de déploiement dans le programme beta.gouv](introduction/le-charge-de-deploiement-dans-le-programme-beta.gouv.md)
+Voir : [Le chargé de déploiement dans le programme beta.gouv](introduction/le-charge-de-deploiement-dans-le-programme-beta.gouv.md)
 
 {% content-ref url="introduction/" %}
 [introduction](introduction/)
