@@ -5,16 +5,14 @@ description: >-
   enrichie.
 ---
 
-# Déploiement
+# 🧲 Faire du déploiement
 
 {% hint style="info" %}
 Dans les startups privées, ce sont les commerciaux, business developers ou ingénieurs d'affaires. Chez beta.gouv.fr, on les appelle les chargé·e·s de déploiement. Dans les deux cas, il s'agit de **trouver des utilisateurs** pour son service numérique ; dans le privé, le but est souvent de maximiser le revenu de l'entreprise, alors que dans le public, l'objectif est de **maximiser l'impact** (social, environnemental, etc) du service numérique.\
 Selon les équipes, les chargés de déploiement peuvent également assurer des missions de **support utilisateur** (_customer success_ dans le privé).
 {% endhint %}
 
-Les chargés et chargées de déploiement chez beta.gouv ont selon la taille et le stade d’avancement de la startup diverses missions et casquettes. Bien que charger de trouver des utilisateurs ils et elles peuvent aussi selon les startups participer au support, être responsable produit, d'animation de communauté, et autres.&#x20;
 
-Voir : [Le chargé de déploiement dans le programme beta.gouv](introduction/le-charge-de-deploiement-dans-le-programme-beta.gouv.md)
 
 {% content-ref url="introduction/" %}
 [introduction](introduction/)
