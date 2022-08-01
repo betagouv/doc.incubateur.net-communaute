@@ -123,7 +123,7 @@ Si les profils identifiés ne sont pas salariés de l'entreprise titulaire, ils 
 
 Vous ne pouvez démarrer la prestation que lorsque l'entreprise titulaire aura reçu le _ **bon de commande**._ Une fois le devis final transmis au responsable de l'incubateur, le process d'émission du bon de commande prend de quelques jours à 3 semaines (exemple : [process de la Fabrique numérique du ministère de la Transition écologique](https://miro.com/app/board/uXjVO-zTnXY=/)).&#x20;
 
-L'entreprise titulaire ne sera payée pour la prestation qu'après la certification par l'administration du service fait (partiel ou total). Pour en savoir plus sur les paiements, [consulte cette section](../obtenir-une-prestation/la-facturation-de-a-a-z/).&#x20;
+L'entreprise titulaire ne sera payée pour la prestation qu'après la certification par l'administration du service fait (partiel ou total). Pour en savoir plus sur les paiements, [consulte cette section](la-facturation-de-a-a-z.md).&#x20;
 
 {% hint style="info" %}
 En cas de problème, contacte tes responsables d'incubateurs ou utilise la chaîne _\~incubateur-help_ du Mattermost.
