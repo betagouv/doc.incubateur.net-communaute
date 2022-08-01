@@ -15,3 +15,7 @@
 {% content-ref url="emails/recreer-un-compte-email-pour-un-ancien-membre.md" %}
 [recreer-un-compte-email-pour-un-ancien-membre.md](emails/recreer-un-compte-email-pour-un-ancien-membre.md)
 {% endcontent-ref %}
+
+{% content-ref url="mattermost/je-ne-recois-pas-les-messages-pour-reset-mon-mdp-mattermost.md" %}
+[je-ne-recois-pas-les-messages-pour-reset-mon-mdp-mattermost.md](mattermost/je-ne-recois-pas-les-messages-pour-reset-mon-mdp-mattermost.md)
+{% endcontent-ref %}
