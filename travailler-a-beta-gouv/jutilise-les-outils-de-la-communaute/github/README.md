@@ -59,14 +59,17 @@ Dans tous les cas vous pouvez demander de l'aide sur Mattermost `#incubateur-hel
 
 * Voilà ! Un autre membre de beta.gouv.fr va pouvoir accepter ta modification
 
-> Si tu as ajouté ton compte Github, tu seras automatiquement ajouté à l'organisation Github dans les 24h. Si ce n'est pas le cas, demande à ton·ta marrain·e une invitation pour rejoindre l'organisation [betagouv](https://github.com/orgs/betagouv/teams) et sur la team [beta.gouv.fr](https://github.com/orgs/betagouv/teams/beta-gouv-fr).
+> Si tu as ajouté ton compte Github, tu seras automatiquement ajouté à l'organisation Github dans les 24h.
 
-## Rentrer dans l'organisation Github betagouv
 
-* Notre robotisé tourne toute les 15 minutes une fois un compte github ajouté sur une fiche. Tu recevras l'invitation au maximun au bout de 15 minutes.
-* Pour accepter l'invitation :
-  * Soit tu cliques sur l'email reçu par email
-  * Soit aller sur la page [https://github.com/betagouv](https://github.com/betagouv) et accepter l'invitation visible en haut
+
+{% content-ref url="rentrer-dans-lorganisation-github-betagouv.md" %}
+[rentrer-dans-lorganisation-github-betagouv.md](rentrer-dans-lorganisation-github-betagouv.md)
+{% endcontent-ref %}
+
+{% content-ref url="jai-ete-supprime-de-lorganisation-betagouv-sur-github.md" %}
+[jai-ete-supprime-de-lorganisation-betagouv-sur-github.md](jai-ete-supprime-de-lorganisation-betagouv-sur-github.md)
+{% endcontent-ref %}
 
 {% content-ref url="../../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-gere-mon-produit-et-son-impact/gerer-sa-fiche-produit.md" %}
 [gerer-sa-fiche-produit.md](../../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-gere-mon-produit-et-son-impact/gerer-sa-fiche-produit.md)

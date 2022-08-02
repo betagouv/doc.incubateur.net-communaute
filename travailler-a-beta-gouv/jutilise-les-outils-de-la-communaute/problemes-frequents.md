@@ -19,3 +19,11 @@
 {% content-ref url="mattermost/je-ne-recois-pas-les-messages-pour-reset-mon-mdp-mattermost.md" %}
 [je-ne-recois-pas-les-messages-pour-reset-mon-mdp-mattermost.md](mattermost/je-ne-recois-pas-les-messages-pour-reset-mon-mdp-mattermost.md)
 {% endcontent-ref %}
+
+{% content-ref url="github/jai-ete-supprime-de-lorganisation-betagouv-sur-github.md" %}
+[jai-ete-supprime-de-lorganisation-betagouv-sur-github.md](github/jai-ete-supprime-de-lorganisation-betagouv-sur-github.md)
+{% endcontent-ref %}
+
+{% content-ref url="github/rentrer-dans-lorganisation-github-betagouv.md" %}
+[rentrer-dans-lorganisation-github-betagouv.md](github/rentrer-dans-lorganisation-github-betagouv.md)
+{% endcontent-ref %}

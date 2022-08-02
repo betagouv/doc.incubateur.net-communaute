@@ -52,6 +52,8 @@
     * [Organiser un webinaire](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/faire-une-visio/visioconferences.md)
   * [Github](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/github/README.md)
     * [Plus de pas sur Github](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/github/plus-de-pas-sur-github.md)
+    * [Rentrer dans l'organisation Github betagouv](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/github/rentrer-dans-lorganisation-github-betagouv.md)
+    * [J'ai été supprimé de l'organisation betagouv sur github](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/github/jai-ete-supprime-de-lorganisation-betagouv-sur-github.md)
   * [Gitbook - Editeur de documentations en ligne](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/gitbook/README.md)
     * [Statistiques d'usage de ce guide](https://datastudio.google.com/u/0/reporting/1016657e-1ee3-4013-919d-0e0fb284e352/page/1M)
     * [Je veux modifier ce guide](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/gitbook/comment-contribuer-a-cette-documentation.md)
