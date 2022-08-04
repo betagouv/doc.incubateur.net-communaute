@@ -29,8 +29,8 @@ Si tu es intéressé par l'action de beta.gouv.fr en général, nous t'invitons 
 
 Une bonne manière de commencer à contribuer est de participer à l'embarquement des nouvelles recrues chez beta.gouv.fr en devenant marrain·e, ou de partager tes apprentissages à l'extérieur de ton équipe.
 
-{% content-ref url="marrainage/" %}
-[marrainage](marrainage/)
+{% content-ref url="marrainage.md" %}
+[marrainage.md](marrainage.md)
 {% endcontent-ref %}
 
 {% content-ref url="partager-ses-apprentissages/" %}

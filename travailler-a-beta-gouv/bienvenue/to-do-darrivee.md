@@ -46,7 +46,7 @@ A l'exception des cas où ton administration publique de rattachement ne dispose
 
 ## Le premier mois
 
-* [ ] Rencontrer [ton parrain ou ta marraine](../actions-transverses/marrainage/)
+* [ ] Rencontrer [ton parrain ou ta marraine](../actions-transverses/marrainage.md)
 * [ ] Ajouter ton expérience chez [beta.gouv ](https://www.linkedin.com/company/betagouv/?originalSubdomain=fr)dans ton profil LinkedIn
 * [ ] Participer à [l'hebdo beta.gouv](../actions-transverses/rituels/standup.md), le rassemblement hebdomadaire du réseau beta.gouv tous les jeudis à midi
 * [ ] Venir à un point de rencontre régulier :
@@ -67,4 +67,4 @@ A l'exception des cas où ton administration publique de rattachement ne dispose
 
 > Attention à ne pas tout faire en simultanée, il y a risque d'overdose 😄
 
-Si tu as la moindre question, utilise 🔒`#incubateur-help`, demande à [ton parrain ou à ta marraine](../actions-transverses/marrainage/), ou envoie un mail à `contact@beta.gouv.fr.`
+Si tu as la moindre question, utilise 🔒`#incubateur-help`, demande à [ton parrain ou à ta marraine](../actions-transverses/marrainage.md), ou envoie un mail à `contact@beta.gouv.fr.`

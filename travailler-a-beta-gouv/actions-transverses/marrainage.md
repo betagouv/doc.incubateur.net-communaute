@@ -34,6 +34,6 @@ En tant que marrain·e, tu t'engages à :
 
 **Si ce n'est pas déjà fait, tu peux gérer l'embarquement de ton ou ta filleul·e en suivant le lien suivant :**
 
-{% content-ref url="embarquement-par-le-recruteur.md" %}
-[embarquement-par-le-recruteur.md](embarquement-par-le-recruteur.md)
+{% content-ref url="../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/embarquement-par-le-recruteur.md" %}
+[embarquement-par-le-recruteur.md](../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/embarquement-par-le-recruteur.md)
 {% endcontent-ref %}
