@@ -5,7 +5,7 @@ description: Comprendre les grandes étapes de la facturation, du livrable au pa
 # Payer une prestation
 
 {% hint style="info" %}
-Ce process concerne le [marchés de coaching de la DINUM](../obtenir-une-prestation/marches-publics-beta.gouv.fr/marche-coaching.md) ainsi que le [marché interministériel beta.gouv](../obtenir-une-prestation/marches-publics-beta.gouv.fr/marche-interministeriel-beta/).&#x20;
+Ce process concerne le [marchés de coaching de la DINUM](../marches-publics-beta.gouv.fr/marche-coaching.md) ainsi que le [marché interministériel beta.gouv](../marches-publics-beta.gouv.fr/marche-interministeriel-beta/).&#x20;
 {% endhint %}
 
 ### Étape 1 : l'équipe qui intervient en prestations établit un résumé des livrables et l'adresse à l'entreprise titulaire du marché <a href="#1-lequipe-de-la-startup-detat-ou-de-territoire-etabli-un-resume-des-livrables-et-ladresse-au-titulai" id="1-lequipe-de-la-startup-detat-ou-de-territoire-etabli-un-resume-des-livrables-et-ladresse-au-titulai"></a>

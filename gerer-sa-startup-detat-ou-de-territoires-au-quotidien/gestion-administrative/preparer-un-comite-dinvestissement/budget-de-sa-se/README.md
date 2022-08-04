@@ -10,8 +10,8 @@
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="../../../decouvrir-les-differents-metiers-dune-startup-detat/recrutement/la-facturation-de-a-a-z.md" %}
-[la-facturation-de-a-a-z.md](../../../decouvrir-les-differents-metiers-dune-startup-detat/recrutement/la-facturation-de-a-a-z.md)
+{% content-ref url="../../../decouvrir-les-differents-metiers-dune-startup-detat/obtenir-une-prestation/la-facturation-de-a-a-z/" %}
+[la-facturation-de-a-a-z](../../../decouvrir-les-differents-metiers-dune-startup-detat/obtenir-une-prestation/la-facturation-de-a-a-z/)
 {% endcontent-ref %}
 
 {% content-ref url="../" %}

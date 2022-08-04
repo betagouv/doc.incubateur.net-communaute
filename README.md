@@ -4,7 +4,7 @@ description: >-
   retrouver dans l'organisation beta.gouv.fr.
 ---
 
-# Bienvenue sur le guide de la communauté beta.gouv
+# Bienvenue sur le guide de la communauté beta.gouv.fr
 
 {% hint style="info" %}
 **Gagne du temps** en utilisant le moteur de recherche en haut à droite de l'écran **"Rechercher"** 🔎
@@ -40,8 +40,8 @@ description: >-
 [comment-rejoindre-lespace-mattermost-de-beta.md](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/mattermost/comment-rejoindre-lespace-mattermost-de-beta.md)
 {% endcontent-ref %}
 
-{% content-ref url="gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/recrutement/conseils-pour-le-recrutement/observatoire-revenus.md" %}
-[observatoire-revenus.md](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/recrutement/conseils-pour-le-recrutement/observatoire-revenus.md)
+{% content-ref url="gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/obtenir-une-prestation/observatoire-revenus.md" %}
+[observatoire-revenus.md](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/obtenir-une-prestation/observatoire-revenus.md)
 {% endcontent-ref %}
 
 {% content-ref url="travailler-a-beta-gouv/culture/charte.md" %}

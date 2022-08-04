@@ -15,6 +15,7 @@
 Pour améliorer la découvrabilité, chaque canal est préfixé d'une catégorie.
 
 * `startup-` : canaux liés à des produits.
+* `investigation-` : canaux liés à des investigations.
 * `api-` : canaux liés à des API.
 * `incubateur-` : canaux d'organisation interne à l'Incubateur.
 * `etalab-` : canaux d'organisation interne à Étalab.

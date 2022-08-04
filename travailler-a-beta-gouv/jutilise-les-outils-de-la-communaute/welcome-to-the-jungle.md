@@ -51,8 +51,8 @@ __Assurez-vous que la case Welcome est bien cochée pour que votre offre soit di
 
 En cas de diffusion d'une offre en prestation (ex : freelance), suivre le process détaillé ici :&#x20;
 
-{% content-ref url="../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/recrutement/obtenir-une-prestation.md" %}
-[obtenir-une-prestation.md](../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/recrutement/obtenir-une-prestation.md)
+{% content-ref url="../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/obtenir-une-prestation/" %}
+[obtenir-une-prestation](../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/obtenir-une-prestation/)
 {% endcontent-ref %}
 
 ## Diffuser une offre
