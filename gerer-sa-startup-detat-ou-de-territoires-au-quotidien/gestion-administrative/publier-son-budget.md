@@ -28,13 +28,21 @@ Modifier la page : [https://pad.incubateur.net/3hxhbOuaSyapxRUg\_PnA5g](https://
 
 Chaque Startup d'État peut rajouter de la contextualisation comme elle le souhaite, par exemple sur les marges pratiquées et le fonctionnement du marché public.
 
+### Page dédiée
+
+Les équipes de Startups d'État peuvent choisir d'avoir une page budget dédiée.
+
+Une telle page peut être générée à partir de la commande sur Mattermost. `\budget page [startupId] [budgetTotal]`. Par exemple `\budget page aides.jeunes 800000` génère [la page suivante](https://beta-gouv-fr-budget.netlify.app/?budget=800000\&date=2022-07-13\&start=2021-03-15\&startup=Aides+Jeunes\&startupId=aides.jeunes).
+
 ### Rajouter le lien vers le budget sur la fiche de la Startup d'État sur beta.gouv.fr
 
 Rajouter l'URL du budget sur votre fiche beta le fera apparaître dans le bandeau du haut :
 
 ![](<../../.gitbook/assets/Screenshot 2022-07-07 at 16.02.06.png>)
 
-Pour le faire, rendez-vous sur l'interface d'édition des fiches produits sur [https://beta.gouv.fr/admin/](https://beta.gouv.fr/admin/#/). Il faudra vous connecter avec votre compte GitHub au préalable relié à votre fiche beta ([voir cette page de documentation](../../travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/github/)). Vous pouvez ensuite rajouter l'URL à cet endroit :
+Pour ce faire, vous pouvez utiliser la commande `/budget url [startupId] [url]` sur Mattermost. Si vous avez ajouté les informations de budget à la page commune, vous pouvez utiliser la commande suivante `/budget url [startupId] https://pad.incubateur.net/s/qeT5bzHUM#` en remplaçant `[startupId]` par l'identifiant beta.gouv.fr de votre Startup d'État. En cas de question ou de problème, n'hésitez pas à venir sur le canal dédié [\~domaine-transparence-budget](https://mattermost.incubateur.net/betagouv/channels/domaine-transparence-budget).
+
+Une alternative est d'aller sur l'interface d'édition des fiches produits sur [https://beta.gouv.fr/admin/](https://beta.gouv.fr/admin/#/). Il faudra vous connecter avec votre compte GitHub au préalable relié à votre fiche beta ([voir cette page de documentation](../../travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/github/)). Vous pouvez ensuite rajouter l'URL à cet endroit :
 
 ![](<../../.gitbook/assets/Screenshot 2022-07-07 at 16.00.41.png>)
 
