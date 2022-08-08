@@ -121,49 +121,6 @@ Rituels d’équipe (mise en place d’outils partagés (Trello, Airtable, etc),
 
 Aide pour acquérir cette compétence : participer aux rituels et événements de la communauté en tant qu’animateur.
 
-## **Comment devenir coach chez Beta ?**
-
-Il n’y a pas de secret, pour devenir coach il faut coacher. \*\*\*\*
-
-**Comment faire un premier coaching chez Beta ?**
-
-Avant de te lancer dans le grand bain, le premier pas est de binômer avec un coach expérimenté sur une investigation. Il te faut donc trouver une investigation qui débute, sur laquelle le coach et l’intrapreneur sont d’accord pour que tu sois binôme dans une démarche d’apprentissage. A l’issue de cette première expérience et si elle s’avère un succès, alors tu pourras prétendre à coacher une investigation en solo.
-
-**Comment trouver une première investigation ?**
-
-👉 Manifestes ton intérêt ici : [https://airtable.com/shrFflOyc7QcVO1u6](https://airtable.com/shrFflOyc7QcVO1u6)
-
-Tu peux aussi en discuter avec les responsables de portefeuille. Ensuite un entretien permettra d'évaluer tes compétences selon les critères présentés ci-dessous et si tu es sélectionné tu seras placé sur une prochaine investigation. Le délai de placement sur une investigation est variable selon les appels à candidatures lancés dans les administrations partenaires et selon la volonté des intrapreneurs et coachs d’accepter un binôme.
-
-**Quels sont les critères de sélection ?**
-
-Les deux critères majeurs sont l’expérience et la motivation. Un échange sera prévu pour évaluer ces critères.
-
-* Expérience chez Beta :
-  * depuis combien de temps
-  * dans combien de startups
-  * Comment ça se passe ?
-  * Implication sur des actions transverses
-* Expérience hors Beta :
-  * Expérience entrepreneuriale, quand, combien ?
-  * Autre expérience dans le domaine ?
-  * Quelle position/posture dans ces expériences ?
-  * Quelles compétences à valoriser ?
-* Motivation :
-  * Pourquoi devenir coach ?
-  * Quelle conciliation avec la mission actuelle ?
-
-**Quel engagement hebdomadaire ?**
-
-Le coaching en investigation demande une charge de travail de 2 jours par semaine sur une durée de 3 mois.
-
-**Quelle rémunération pour le temps investi sur le coaching en investigation?**
-
-Le coaching en binôme est rémunéré à un TJM de 325€ HT.
-
-**Quel suivi de mon parcours ?**
-
-Au cours de votre coaching des temps d’échanges seront prévus avec les autres apprentis et vos co-animateurs référents afin de suivre votre évolution et partager tes apprentissages.\
-\*\*\*\*\\
+****
 
 ***
