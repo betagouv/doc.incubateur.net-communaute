@@ -134,6 +134,7 @@
       * [5. Sélection des meilleures candidatures pour participer au jury final](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/je-souhaite-lancer-une-startup-detat/chronologie-dune-appel-a-innovateur/5.-selection-des-meilleures-candidatures-pour-participer-au-jury-final.md)
       * [6. Choix des investigations retenues](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/je-souhaite-lancer-une-startup-detat/chronologie-dune-appel-a-innovateur/6.-choix-des-investigations-retenues.md)
       * [De l'appel aux choix finaux](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/je-souhaite-lancer-une-startup-detat/chronologie-dune-appel-a-innovateur/journee-de-selection.md)
+    * [Embarquer les intras en investigation](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/je-souhaite-lancer-une-startup-detat/embarquer-les-intras-en-investigation.md)
   * [1. Investigation](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/investigation/README.md)
     * ["C'est quoi concrètement ?"](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/investigation/cest-quoi-concretement.md)
     * [Process d'embarquement d'un coach en investigation](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/investigation/process-dembarquement-dun-coach-en-investigation.md)
