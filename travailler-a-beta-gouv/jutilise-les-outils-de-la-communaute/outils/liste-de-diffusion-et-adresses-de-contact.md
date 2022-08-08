@@ -27,7 +27,7 @@ Pour créer une nouvelle adresse de contact, il faut en exprimer la demande [via
 Attention de bien saisir votre identifiant Mattermost (ex : @jean.dupont) sous peine de voir votre demande ignorée.
 {% endhint %}
 
-![](<../../../.gitbook/assets/Capture d’écran 2022-06-15 à 19.50.40.png>)
+![](<../../../.gitbook/assets/Capture d’écran 2022-06-15 à 19.50.40.png>)
 
 En cas de succès, votre demande est remontée dans le canal [#incubateur-demandes-ops](https://mattermost.incubateur.net/betagouv/channels/incubateur-demandes-ops).
 
