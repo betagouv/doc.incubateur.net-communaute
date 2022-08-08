@@ -221,7 +221,6 @@
   * [Gérer sa fiche produit](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-gere-mon-produit-et-son-impact/gerer-sa-fiche-produit.md)
   * [Repérer une situation dysfonctionnelle](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-gere-mon-produit-et-son-impact/situation-dysfonctionnelle.md)
 * [💎 Améliorer le design et l'expérience utilisateur](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/README.md)
-  * [Docteur Design - Échangez avec des designers](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/docteur-design-echangez-avec-des-designers.md)
   * [Rendre un service inclusif](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/rendre-un-service-inclusif/README.md)
     * [Qu’est-ce que l’inclusion ?](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/rendre-un-service-inclusif/quest-ce-que-linclusion.md)
     * [Les biais](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/rendre-un-service-inclusif/les-biais.md)

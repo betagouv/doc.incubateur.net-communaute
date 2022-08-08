@@ -64,7 +64,7 @@ Objectifs :&#x20;
 * Présentation du fonctionnement de l'incubateur et de son environnement
 * Mise en place du mentorat (voir le point n°6 ci-dessous)
 
-## 5. Proposer un mentor au coach
+## 6. Proposer un mentor au coach
 
 Pour les coachs débutant avec l'approche beta.gouv, il est recommandé de lui proposer un mentor. Ce mentor est un ou une coach ayant déjà réalisé plusieurs investigations.
 
