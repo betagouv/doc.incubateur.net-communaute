@@ -98,10 +98,6 @@ Ces services de mailing ont une réputation à préserver pour ne pas être blac
 * Ajouter une case à cocher sur la page d’inscription à vos newsletter (mailing marketing) afin de recueillir l'indispensable consentement explicite des personnes visées
 * Purger régulièrement ses contacts (destinataires et abonnés des newsletters) en retirant des listes d’envoi les courriels des personnes qui se sont désabonnées
 
-
-
-
-
 ### Hébergement d'un site statique
 
 Voici des hébergements simple pour un site statique :
@@ -130,7 +126,7 @@ Il existe des hébergeurs qui automatisent la mise en prod de votre application 
 >
 > On ne cite pas ici les offres comme AWS Elastic Beanstalk ou Kubernetes managé par OVH, car ces 2 hébergeurs ont des offres plus avancées mais cela inclut plus de complexité.
 
-### Recommandations d'hébergement d'un application en mode IaaS
+### Recommandations d'hébergement d'une application en mode IaaS
 
 Voici des recommandations d'hébergeur permettant de louer machine virtuel ou serveur.
 
@@ -148,7 +144,7 @@ Voici des recommandations d'hébergeur permettant de louer machine virtuel ou se
 Schéma - Choisir son hébergeur
 {% endfile %}
 
-### Recommandation d'hébergement DNS et Emails pour un sous-domaine beta.gouv.fr
+### Recommandations d'hébergement DNS et Emails pour un sous-domaine beta.gouv.fr
 
 > Le domaine principal beta.gouv.fr est géré sur OVH, il n'y a pas de garantie pour la modification DNS par un des admins volontaires. C'est pour ça que nous vous incitons à gérer vous mêmes vos DNS et EMAIL sur votre sous-domaine. Nous avons identifié peu de fournisseurs à recommander permettant de faire ça sur un domaine de second niveau.
 
@@ -156,3 +152,13 @@ Schéma - Choisir son hébergeur
 * PointDNS : US, hébergement DNS uniquement, à utiliser si vous pouvez prendre un service qui n'et pas en Europe.
 
 > Les services cloud Américains comme AWS permettent de gérer les DNS d'un domaine de second niveau (à vérifier pour les emails). A vérifier, si vous pouvez en faire usage pour des raisons réglementaires ou d'images.
+
+### Recommandations d'hébergements d'images et de fichiers
+
+Vos utilisateurs ont besoin de téléverser (uploader) des images ou des fichiers vers votre application, et vous ne savez pas où stocker ce contenu ? Voici une liste (non exhaustive) d'hébergeurs régulièrement utilisés.&#x20;
+
+* Scaleway : Object Storage (compatible S3 ; [lien](https://www.scaleway.com/fr/object-storage/))
+* Clever Cloud : Cellar (compatible S3 ; [lien](https://www.clever-cloud.com/cellar-s3-hosting/))
+* OVH : Object Storage (compatible S3 ; il existe une version "High Performance")
+* Outscale : Object Storage (compatible S3 ; Secnum ??)
+* Scalingo ? pas encore...
