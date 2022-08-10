@@ -22,22 +22,6 @@ L'embarquement proposé ci-dessous à la communauté n'est pas un processus fig�
 
 ### Lors de la journée de lancement
 
-##
-
-#### 1 - Avant ou pendant la journée de sélection (T - ? 12 semaines)
-
-* Publication d’une Landing Page qui explique ce qu’est une Start-up d’Etat (SE) et comme se déroule une investigation avec l’appel à candidature.
-* Lors de la journée de sélection :
-  * [Présentation de 15min](https://docs.google.com/presentation/d/1xV1yzqX9jCPnZ-bnKjOBKRZdd0hqmokGAvmRTpfHO28/edit?usp=sharing) sur ce qu’est beta, une SE, la phase d’investigation et le calendrier.
-  * Demi-journée de formation de tous les candidats par 1 coach pour apprendre à pitcher et à questionner le problème ainsi que l’environnement de travail (ici le ministère de la justice), comment il fonctionne, etc.
-
-#### 2 - En amont de la journée de lancement (T - 4 semaines)
-
-* Signature d’une [fiche d’engagement](https://beta.gouv.fr/content/docs/engagement.docx) des intrapreneurs auprès de leur hiérarchie (sponsor) pour valider leur disponibilité pour travailler sur investigation au moins 1 jour par semaine. Si des complications se présentent, le responsable de l’incubateur, un co-animateur beta ou les “marraines/parrains” intrapreneurs s’ils existent peuvent discuter avec la hiérarchie pour expliquer la démarche.
-* Envoi d’un support pour créer sa fiche membre avant la journée de lancement.
-
-### Lors de la journée de lancement
-
 L'embarquement peut se faire via 4 thématiques :
 
 * **La méthodologie beta** : explication détaillée de ce qu’est beta, ce qu’est un bon problème, les 4 phases d’une SE et ses enjeux.

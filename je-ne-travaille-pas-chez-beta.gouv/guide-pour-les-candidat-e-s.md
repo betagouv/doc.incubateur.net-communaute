@@ -32,8 +32,8 @@ Enfin, tu peux également parcourir notre documentation sur les différents mét
 
 Plusieurs recommandations sont diffusées aux équipes beta.gouv.fr ci-dessous. Attention, nos équipes sont assez indépendantes et elles peuvent choisir des procédures de recrutement différentes de ce qui est recommandé dans la documentation ci-dessous.
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/recrutement/conseils-pour-le-recrutement/guide-dentretiens-par-profil.md" %}
+[guide-dentretiens-par-profil.md](../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/recrutement/conseils-pour-le-recrutement/guide-dentretiens-par-profil.md)
 {% endcontent-ref %}
 
 ### Quelques ressources sur beta.gouv.fr

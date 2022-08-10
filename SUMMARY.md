@@ -191,6 +191,7 @@
   * [Comment renforcer son équipe ?](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/recrutement/README.md)
     * [Obtenir une prestation](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/obtenir-une-prestation/README.md)
     * [Les bonnes pratiques pour intégrer quelqu'un à son équipe](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/recrutement/conseils-pour-le-recrutement.md)
+      * [Guide d'entretiens par profil](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/recrutement/conseils-pour-le-recrutement/guide-dentretiens-par-profil.md)
       * [Observatoire des revenus de la communauté beta.gouv.fr](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/obtenir-une-prestation/observatoire-revenus.md)
     * [Payer une prestation](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/obtenir-une-prestation/la-facturation-de-a-a-z/README.md)
     * [En savoir sur les marchés publics beta.gouv.fr](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/obtenir-une-prestation/marches-publics-beta.gouv.fr/README.md)
