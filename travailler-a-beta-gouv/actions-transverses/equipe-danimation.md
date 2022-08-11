@@ -31,7 +31,7 @@ Elle est constituée de 9 agents.
 * **Inès Hijazi** : Territoires, Education nationale, Enseignement supérieur, Culture
 * **Ishan Bhojwani** : Transition écologique, Transports, Logement, Mer, Agriculture, Armées
 * **Jihane Herizi** : Transformation publique
-* **Léry Jicquel** : Justice, Intérieur, Santé et Solidarités
+* **Paul Burgun** : Justice, Intérieur, Santé et Solidarités
 
 ### Soutiens à l'équipe d'animation
 
