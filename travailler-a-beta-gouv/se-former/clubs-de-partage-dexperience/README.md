@@ -6,9 +6,10 @@ description: >-
 
 # Clubs de partage d'expérience
 
-{% page-ref page="../../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/nos-rendezous-design/cafe-design.md" %}
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
 
-{% page-ref page="le-club-des-intrapreneurs.md" %}
-
-
-
+{% content-ref url="le-club-des-intrapreneurs.md" %}
+[le-club-des-intrapreneurs.md](le-club-des-intrapreneurs.md)
+{% endcontent-ref %}
