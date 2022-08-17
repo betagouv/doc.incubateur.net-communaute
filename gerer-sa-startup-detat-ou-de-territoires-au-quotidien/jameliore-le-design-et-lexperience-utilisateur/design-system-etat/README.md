@@ -7,16 +7,16 @@ description: Utiliser le système de design de l'État
 ## Utiliser le Design System de l'État
 
 {% hint style="success" %}
-****[**Documentation officielle**](https://gouvfr.atlassian.net/wiki/spaces/DB/overview?homepageId=145359476) **contient :**&#x20;
+\*\*\*\*[**Documentation officielle**](https://www.systeme-de-design.gouv.fr) **contient :**
 
-* &#x20;des **librairies** pour les designers (Sketch et Figma)
+* des **librairies** pour les designers (Sketch et Figma)
 * un **package** NPM pour les devs
 * une documentation sur les **fondamentaux** et chaque **composant**
 * la **typographie** Marianne
 {% endhint %}
 
 {% hint style="success" %}
-**La documentation de l'incubateur** [**template.incubateur.net**](https://template.incubateur.net) **contient :**&#x20;
+**La documentation de l'incubateur** [**template.incubateur.net**](https://template.incubateur.net) **contient :**
 
 * une démonstration du DSFR et de ses composants
 * des sites utilisant le DSFR pour **inspiration**
@@ -47,23 +47,23 @@ Les applications métiers, intranets, applications mobiles ne sont **pas encore*
 
 ### Contribuer au DSFR
 
-En rejoignant la [communauté ](https://gouvfr.slack.com)du DSFR vous pourrez :&#x20;
+En rejoignant la [communauté ](https://gouvfr.slack.com)du DSFR vous pourrez :
 
 * obtenir de l’aide et de l’assistance du SIG ou des personnes utilisant le DSFR
 * partager avec d’autres designers et d’autres développeurs
 * être tenu au courant des dernières nouveautés et des prochaines livraisons
 * contribuer aux évolutions du système de design de l’État
 
-[Rejoignez la communauté DSFR](https://gouvfr.slack.com) ou [inscrivez-vous](https://gouvfr.atlassian.net/servicedesk/customer/portal/1/group/1/create/9) avec votre adresse @beta.gouv.fr
+[Rejoignez la communauté DSFR](https://gouvfr.slack.com) avec votre adresse @beta.gouv.fr
 
 ## À propos de la marque État
 
-Depuis 2020, un travail d'uniformisation de l'identité de l'Etat est déployée. La [marque Etat](https://www.gouvernement.fr/charte/charte-graphique-les-fondamentaux/le-bloc-marque) correspond à une charte graphique qui s'applique aux supports imprimés et aux supports web.&#x20;
+Depuis 2020, un travail d'uniformisation de l'identité de l'Etat est déployée. La [marque Etat](https://www.gouvernement.fr/charte/charte-graphique-les-fondamentaux/le-bloc-marque) correspond à une charte graphique qui s'applique aux supports imprimés et aux supports web.
 
-Chaque ministère ou opérateurs possède son "bloc marque" utilisant une icône de Marianne, la typographie Marianne et 3 couleurs définies.&#x20;
+Chaque ministère ou opérateurs possède son "bloc marque" utilisant une icône de Marianne, la typographie Marianne et 3 couleurs définies.
 
 {% hint style="info" %}
-**Ressources utiles**&#x20;
+**Ressources utiles**
 
 Créer votre bloc-marque sur [Figma](https://www.figma.com/file/bmvyxz0oPAu4pl4FZ9URNW/Charte-graphique-BetaGouv?node-id=8%3A310) (export svg ou png)
 
@@ -71,4 +71,3 @@ Créer votre bloc-marque sur [Figma](https://www.figma.com/file/bmvyxz0oPAu4pl4F
 
 Trouver les typographies officielles pour le print ainsi que de gabarits (kakémono, poster, etc.) sur le [Kiosque du SIG](https://www.kiosque-sig.gouv.fr/connexion).
 {% endhint %}
-
