@@ -12,7 +12,7 @@ Il s'agit d'une journée régulière de rencontres et d'échanges en présentiel
 
 ### Informations pratiques
 
-Les informations pratiques sont disponibles sur l'[agenda public](https://calendar.google.com/calendar/u/0?cid=MGllb25xYXAxcjVqZWFsNXVnZXVob292bGdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) de beta.gouv.
+**👉 Les informations pratiques, date, heure et lieu sont disponibles sur l'**[**agenda public**](https://calendar.google.com/calendar/embed?src=0ieonqap1r5jeal5ugeuhoovlg%40group.calendar.google.com\&ctz=Europe%2FParis) **de beta.gouv.**
 
 ### Présence
 
@@ -47,3 +47,5 @@ Au début du séminaire, chaque atelier est présenté rapidement et affiché su
 ![Un séminaire (ancêtre du Forum beta.gouv) dans les anciens locaux du SGMAP en 2017](<../../../.gitbook/assets/image (1).png>)
 
 ![Le séminaire beta.gouv.fr sur Gather.Town pendant la période du Covid (2020-2021)](<../../../.gitbook/assets/image (14) (1) (1).png>)
+
+![Le forum beta.gouv en juillet 2022, au Lieu de la DITP](../../../.gitbook/assets/IMG\_8811.jpg)
