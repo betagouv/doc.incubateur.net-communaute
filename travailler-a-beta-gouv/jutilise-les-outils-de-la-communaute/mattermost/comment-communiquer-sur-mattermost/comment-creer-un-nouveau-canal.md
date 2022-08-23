@@ -19,7 +19,8 @@ Pour améliorer la découvrabilité, chaque canal est préfixé d'une catégorie
 * `api-` : canaux liés à des API.
 * `incubateur-` : canaux d'organisation interne à l'Incubateur.
 * `etalab-` : canaux d'organisation interne à Étalab.
-* `bureaux-` : canaux liés à des espaces physiques.
+* `bureaux-` : canaux liés à des espaces physiques ou communautés physiques.
+* `echange-` : canaux liés à des échanges entre partenaires de la communauté utilisant des espaces Mattermost différents.
 * `bruit-` : canaux de discussion sans but productif.
 * `domaine-` : canaux de discussion liés à des pratiques / compétences.
 * `tmp-` : canaux liés à un événement ponctuel et destinés à être archivés rapidement.
