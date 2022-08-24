@@ -101,7 +101,7 @@ _**Mettre à jour le Welcome Kit**_\
 _****_Mettre à jour la carte des candidats tout au long du process de sélection.\
 \
 _**Faire attention aux biais**_\
-_****_Nous sommes tous biaisés, ce [petit guide](https://app.gitbook.com/o/-LrIsEqqjEjdRXwfHPAD/s/-M4-Pru\_Xyamh27tzw85/\~/changes/QZ4g2C5jXpmV9zUJH5O1/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/recrutement/conseils-pour-le-recrutement/faire-attention-aux-biais) pour éviter de l'être moins.\
+_****_Nous sommes tous biaisés, y faire attention et [se sensibiliser](https://mozaikrh.com/11-biais-cognitifs-a-connaitre-pour-mieux-recruter/) si ce n'est pas déjà fait ! \
 \
 _**Rester respectueux dans ses commentaires**_\
 _****_Les commentaires que vous laisseraient sur la fiche d'un candidat seront accessibles à toute la communauté, rester donc professionnel et respectueux. Par ailleurs, la loi condamne tout propos discriminant ou haineux. Enfin, un candidat peut vous demander d'avoir accès aux informations que vous avez sur lui dont les commentaires.
