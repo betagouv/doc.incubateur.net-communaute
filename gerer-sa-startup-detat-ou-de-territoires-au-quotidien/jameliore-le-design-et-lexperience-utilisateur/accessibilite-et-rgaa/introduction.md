@@ -11,7 +11,7 @@ L’accessibilité numérique est un **droit** pour toutes et tous d’utiliser 
 Aujourd'hui, **un français sur 5** est ou sera confronté à une situation de handicap temporaire ou permanente. Ces handicaps \(auditifs, cognitifs, neurologiques, physiques, verbaux ou encore visuels\) peuvent affecter la manière dont une personne accède et contribue au Web.
 
 {% hint style="danger" %}
-_« Oui, mais nous, on est pas concernés, nos utilisateurs ne sont pas handicaptés »_ : c'est faux ! **80 % des handicaps sont invisibles**. Les personnes qui utilisent votre service numérique peuvent être dyslexiques, migraineux ou daltonien, sans que vous n'en sachiez rien.
+_« Oui, mais nous, on est pas concernés, nos utilisateurs ne sont pas handicapés »_ : c'est faux ! **80 % des handicaps sont invisibles**. Les personnes qui utilisent votre service numérique peuvent être dyslexiques, migraineux ou daltonien, sans que vous n'en sachiez rien.
 {% endhint %}
 
 **Un service accessible est un service qu'une personne handicapée peut utiliser, sans obstacle.**
