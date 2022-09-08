@@ -25,7 +25,7 @@ Dashlane vous permet également :
 
 ### :ballot\_box\_with\_check: Te faire ajouter sur le compte Dashlane de beta
 
-Tu trouveras un formulaire pour en faire la demande dans l'en-tête du canal `~incubateur-dashlane`
+Tu trouveras un formulaire pour en faire la demande dans l'en-tête du canal `~incubateur-ops-dashlane`
 
 ### :ballot\_box\_with\_check: Accepter l'invitation reçue par mail
 
