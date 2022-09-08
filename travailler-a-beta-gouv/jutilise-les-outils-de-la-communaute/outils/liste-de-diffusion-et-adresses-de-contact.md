@@ -15,6 +15,8 @@ Les mailing-lists suivantes sont disponibles. Toutes les adresses sont à _postf
 | `newsletter`  | Membres externes à beta.gouv souhaitant recevoir l'infolettre hebdomadaire interne                        | Membres externes volontaires                                     | Équipe d'animation                                               |
 | `évenements`  | Suivi des contacts participant à des événements organisés par Beta                                        | Participants aux événements organisés par Beta                   | Membres responsables de l'organisation d'événementsa             |
 | `animation`   | Communications aux responsables de l'animation de la communauté                                           | Responsables de l'animation de la communauté Beta                | Responsables de l'animation de la communauté Beta                |
+| `fast`        | Gestion du Fonds d'accélération des Startups d'Etat                                                       | Responsables du FAST                                             | Candidats au FAST                                                |
+| `brigade`     | Équipe Brigade d'intervention numérique                                                                   | Membres de la Brigade d'intervention numérique                   | Interlocuteurs de la Brigade                                     |
 | `partenaires` | Informations à destination des structures partenaires (incubateurs, fabriques, etc)                       | Responsables d'incubateurs partenaires                           | Membres                                                          |
 
 ## La commande Mattermost `/emails`
