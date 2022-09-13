@@ -72,7 +72,7 @@ Remarque : il est impossible pour des raisons de sécurité d'obtenir le Wifi da
 
 ### Accès local velo avec son badge
 
-Aller voir M. Delplace au 1.507 pour qu'il active les accès pour votre badge \(il doit pouvoir faire ça au téléphone mais pas sûr\). L'accès se fait rue d'Estrées, il faut passer par la petite porte à droite du portail voiture. Il faut descendre et le local velo est en bas à gauche, la porte de l'accès est rouge. Il y a un petit ascenseur, en sortant au bout du local à velo puis sur la gauche. Cet ascenseur permet d'accès au niveau de l'accueil et au 1er étage.
+Aller voir M. Delplace au 1.607 pour qu'il active les accès pour votre badge \(il doit pouvoir faire ça au téléphone mais pas sûr\). L'accès se fait rue d'Estrées, il faut passer par la petite porte à droite du portail voiture. Il faut descendre et le local velo est en bas à gauche, la porte de l'accès est rouge. Il y a un petit ascenseur, en sortant au bout du local à velo puis sur la gauche. Cet ascenseur permet d'accès au niveau de l'accueil et au 1er étage.
 
 ### Imprimer
 
