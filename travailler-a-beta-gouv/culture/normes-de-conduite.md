@@ -60,7 +60,7 @@ Ici, on a le droit…
 
 _Cette charte est librement inspirée de celle de_ [_Gov.UK_](https://twitter.com/gilest/status/735131901900521472)_._
 
-![](<../../.gitbook/assets/image (22) (2) (1) (1).png>)
+![](<../../.gitbook/assets/image (22) (2) (1) (1) (2).png>)
 
 </details>
 

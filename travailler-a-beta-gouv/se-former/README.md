@@ -2,7 +2,7 @@
 description: Comment se former chez beta.gouv ?
 ---
 
-# 🎓 Se former
+# 🎓 Se former et évoluer
 
 Au sein de la communauté, nous essayons de permettre à tous de se former et/ou de former ses collègues.
 
@@ -24,4 +24,26 @@ Certaines formations ponctuelles sont référencées dans les sections suivantes
 
 {% content-ref url="les-formations-passees/" %}
 [les-formations-passees](les-formations-passees/)
+{% endcontent-ref %}
+
+Retrouvez aussi les autres sections qui concernent la rubrique "Se former et évoluer" :&#x20;
+
+{% content-ref url="animer-une-formation.md" %}
+[animer-une-formation.md](animer-une-formation.md)
+{% endcontent-ref %}
+
+{% content-ref url="clubs-de-partage-dexperience/" %}
+[clubs-de-partage-dexperience](clubs-de-partage-dexperience/)
+{% endcontent-ref %}
+
+{% content-ref url="partage-de-ressources.md" %}
+[partage-de-ressources.md](partage-de-ressources.md)
+{% endcontent-ref %}
+
+{% content-ref url="certification-des-intrapreneurs/" %}
+[certification-des-intrapreneurs](certification-des-intrapreneurs/)
+{% endcontent-ref %}
+
+{% content-ref url="changer-de-startup-changer-de-type-de-poste.md" %}
+[changer-de-startup-changer-de-type-de-poste.md](changer-de-startup-changer-de-type-de-poste.md)
 {% endcontent-ref %}
