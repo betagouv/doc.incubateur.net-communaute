@@ -8,14 +8,14 @@ Nous sommes une communauté formée en grande partie d'indépendant·e·s, c'est
 
 * Surveiller les offres sur [\~incubateur-embauche,](https://mattermost.incubateur.net/betagouv/channels/incubateur-embauche) sur le [welcome to the jungle](https://www.welcometothejungle.com/fr/companies/communaute-beta-gouv), et sur la page [recrutement de beta](https://beta.gouv.fr/recrutement/).
 * Si vous allez être disponible, faites en mention sur [\~incubateur-embauche](https://mattermost.incubateur.net/betagouv/channels/incubateur-embauche).
-* Contacter les équipes avec qui vous souhaitez travailler : n'hésitez pas à proposer de travailler un nombre restreint de jour (1-2j) dans un premier temps pour voir si la collaboration se passe bien ou selon vos disponibilités. Vous pouvez très bien avoir 2 missions en parallèle (le temps de faire, ou non, une transition).
+* Contacter les équipes avec qui vous souhaitez travailler : n'hésitez pas à proposer de travailler un nombre restreint de jour (1-2j) dans un premier temps pour voir si la collaboration se passe bien ou selon vos disponibilités. Vous pouvez très bien avoir 2 missions en parallèle.
 * [Participer à des activités transverses ](../actions-transverses/sengager-dans-une-action-transverse/): en plus de contribuer à la communauté, elles vous permettront de rencontrer davantage de membres, ce qui pourra toujours vous servir pour de futures opportunités (et puis c'est sympa !)
 
 ### Changer de type de poste :
 
 Vous pouvez changer de type de poste à Beta.gouv, mais Beta.gouv n'est pas là pour vous y former. Les formations qui vous sont proposées visent plutôt à vous aider à gagner en séniorité sur votre poste et à découvrir de nouveaux outils et méthodes.
 
-#### Que faire si je veux changer de type de poste :
+#### Que faire si je veux changer de type de poste ?
 
 Selon vos expériences précédentes, associées à votre expérience Beta.gouv, vous pouvez peut-être prétendre à d'autres types de postes. N'hésitez pas à en discuter avec l'équipe qui vous intéresse et à postuler si vous vous sentez légitime.\
 \
