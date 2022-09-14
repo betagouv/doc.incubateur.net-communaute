@@ -76,27 +76,13 @@ Cela vient avec quelques **règles d'hygiène informatique** pour assurer un niv
 
 Ces règles s'appliquent à tous les membres de la communauté, quelque soit votre accès à des informations sensibles.
 
-## 3 - S'inscrire au prochain atelier d'embarquement
 
-Cet atelier a lieu toutes les 6 semaines pour accueillir les nouveaux membres de beta.gouv.fr.
-
-{% embed url="https://airtable.com/embed/shrXupnR9BG7xFUtT?" %}
-
-Si tu ne vois pas l'image : [https://airtable.com/shrXupnR9BG7xFUtT](https://airtable.com/shrXupnR9BG7xFUtT)
-
-Tu peux aussi parcourir le support de cet atelier d'embarquement :
-
-{% embed url="https://docs.google.com/presentation/d/1ded7iFFFaPuw9tKcj6g-xLBggAox-QNDjsMamECPqHU/edit?usp=sharing" %}
-
-Si tu nous rejoins en tant que développeur ou développeuse, nous t'invitons aussi à t'inscrire au prochain atelier d'embarquement spécial devs tenu par les responsables technique et produit de beta.gouv.fr. 👉[Je m'inscris à l'embarquement dev](https://airtable.com/shrUCbUT72KtKefsu)
-
-{% embed url="https://airtable.com/shrUCbUT72KtKefsu" %}
 
 {% content-ref url="embarquement-dev.md" %}
 [embarquement-dev.md](embarquement-dev.md)
 {% endcontent-ref %}
 
-## 4 - Et ensuite ?
+## 3 - Et ensuite ?
 
 Tu peux lire nos recommandations pour tes premières semaines et tes premiers mois de mission.
 
