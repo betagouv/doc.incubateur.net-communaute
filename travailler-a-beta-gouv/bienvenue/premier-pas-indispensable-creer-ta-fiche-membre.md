@@ -11,7 +11,7 @@ description: >-
 
 Chaque nouvel arrivant est autonome pour créer sa fiche membre. Une fois créée, son nom apparaîtra dans [l'annuaire beta.gouv](https://beta.gouv.fr/communaute/annuaire). Tu as juste à te laisser guider :
 
-👉 [**Créer sa fiche membre**](https://espace-membre.incubateur.net/onboarding) \*\*\*\* 👈
+👉 [**Créer sa fiche membre**](https://espace-membre.incubateur.net/onboarding) 👈
 
 ### Pourquoi créer une fiche membre ?
 
