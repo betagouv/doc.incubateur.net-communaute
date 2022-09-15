@@ -20,3 +20,14 @@ Vous pouvez changer de type de poste à Beta.gouv, mais Beta.gouv n'est pas là 
 Selon vos expériences précédentes, associées à votre expérience Beta.gouv, vous pouvez peut-être prétendre à d'autres types de postes. N'hésitez pas à en discuter avec l'équipe qui vous intéresse et à postuler si vous vous sentez légitime.\
 \
 Sinon nous vous encourageons à suivre des formations externes.
+
+### Des exemple de parcours :
+
+Voici 3 entretiens réalisés avec des membres de beta.gouv qui raconte leur évolution et les mobilités qu'ils et elle ont pu faire au sein de l'écosystème. En espérant que ces entretiens puissent inspirer et apporter les clés pour évoluer au sein de la communauté.
+
+En espérant que ces entretiens vous inspireront et vous apporteront des clés pour évoluer au sein de la communauté.
+
+\
+[Parcours à Beta.gouv #1 : Amaury Dubot](https://blog.beta.gouv.fr/general/2022/09/15/parcours-a-beta-gouv-fr-1-amaury-dubot/) \
+[Parcours à Beta.gouv #2 : Thomas Guillet](https://blog.beta.gouv.fr/general/2022/09/15/parcours-a-beta-gouv-fr-2-thomas-guillet/)\
+[Parcours à Beta.gouv #3 : Anna-Livia Gomart](https://blog.beta.gouv.fr/general/2022/09/15/parcours-a-beta-gouv-fr-3-anna-livia-gomart/)
