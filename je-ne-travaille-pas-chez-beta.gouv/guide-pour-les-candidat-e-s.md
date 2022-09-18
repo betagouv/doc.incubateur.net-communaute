@@ -12,9 +12,11 @@ Cette section de notre documentation interne a été conçue pour t'aider à pr�
 
 ## Comprendre l'offre
 
-Tu as sûrement dû découvrir l'offre qui t'intéresse sur notre _**page Recrutement**_ :
+Tu as sûrement dû découvrir l'offre qui t'intéresse sur notre _**page Recrutement**_** ou sur notre page Welcome to the Jungle** :
 
 {% embed url="https://beta.gouv.fr/recrutement/" %}
+
+{% embed url="https://www.welcometothejungle.com/fr/companies/communaute-beta-gouv" %}
 
 Il faut noter que le réseau beta.gouv.fr comprend de nombreuses administrations partenaires et de nombreuses structures d'innovation publique (les "incubateurs"). Pour chaque offre, identifies bien à quelle Startup d'État elle se rattache ([liste ici](https://beta.gouv.fr/startups/)) et dans quel incubateur public travaille son équipe ([liste ici](https://beta.gouv.fr/communaute/)).
 
@@ -38,9 +40,11 @@ Plusieurs recommandations sont diffusées aux équipes beta.gouv.fr ci-dessous. 
 
 ### Quelques ressources sur beta.gouv.fr
 
-Vous pouvez consulter la vidéo suivante ou, si vous avez plus de temps, écouter [ce podcast](https://yolocracy.org/publications/turbulents-5-ishan-bhojwani-beta-gouv/).
+Tu peux consulter la vidéo suivante ou, si tu as plus de temps, écouter [ce podcast](https://yolocracy.org/publications/turbulents-5-ishan-bhojwani-beta-gouv/).
 
 {% embed url="https://www.youtube.com/watch?v=bqq5LevJESs" %}
+
+D'autres sections de notre documentation interne pourraient également t'intéresser :&#x20;
 
 {% content-ref url="../travailler-a-beta-gouv/culture/" %}
 [culture](../travailler-a-beta-gouv/culture/)
