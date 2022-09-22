@@ -23,7 +23,7 @@ Sinon nous vous encourageons à suivre des formations externes.
 
 ### Des exemple de parcours :
 
-Voici 3 entretiens réalisés avec des membres de beta.gouv qui raconte leur évolution et les mobilités qu'ils et elle ont pu faire au sein de l'écosystème. En espérant que ces entretiens puissent inspirer et apporter les clés pour évoluer au sein de la communauté.
+Voici 3 entretiens réalisés avec des membres de beta.gouv qui raconte leur évolution et les mobilités qu'ils et elle ont pu faire au sein de l'écosystème.
 
 En espérant que ces entretiens vous inspireront et vous apporteront des clés pour évoluer au sein de la communauté.
 
