@@ -16,6 +16,10 @@ description: Ressources pour concevoir des services accessibles à toutes et tou
 [obligations-legales.md](obligations-legales.md)
 {% endcontent-ref %}
 
+{% content-ref url="temoignages-et-retours-dexperience.md" %}
+[temoignages-et-retours-dexperience.md](temoignages-et-retours-dexperience.md)
+{% endcontent-ref %}
+
 ## Guide pour un service accessible <a href="#guide-pour-un-service-accessible" id="guide-pour-un-service-accessible"></a>
 
 **L’accessibilité est une démarche sur le long terme.** Elle se pense dès la phase d'investigation, et est régulièrement évalue tout au long de la construction et durée d’exploitation du service.
@@ -38,7 +42,7 @@ La conformité ne s'atteint pas en un jour et ça n'est pas grave : c'est **l'en
 [consolidation.md](kit-accessibilite/consolidation.md)
 {% endcontent-ref %}
 
-## Accompagnement&#x20;
+## Accompagnement
 
 {% content-ref url="formation-a-laccessibilite/sensibilisation-a-laccessibilite.md" %}
 [sensibilisation-a-laccessibilite.md](formation-a-laccessibilite/sensibilisation-a-laccessibilite.md)
@@ -47,4 +51,3 @@ La conformité ne s'atteint pas en un jour et ça n'est pas grave : c'est **l'en
 {% content-ref url="acces.md" %}
 [acces.md](acces.md)
 {% endcontent-ref %}
-
