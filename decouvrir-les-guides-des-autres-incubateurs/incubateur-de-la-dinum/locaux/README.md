@@ -18,9 +18,7 @@ description: >-
 [ou-travailler.md](ou-travailler.md)
 {% endcontent-ref %}
 
-
-
-L'appartenance à la communauté beta.gouv.fr te donne la possibilité de venir travailler dans les locaux du 20 Avenue de Ségur au  à Paris, en plus de tes espaces de travail habituels (ton espace de coworking, ton administration, chez toi…).
+L'appartenance à la communauté beta.gouv.fr te donne la possibilité de venir travailler dans les locaux du 20 Avenue de Ségur au à Paris, en plus de tes espaces de travail habituels (ton espace de coworking, ton administration, chez toi…).
 
 ## **Le 20 avenue de Ségur**
 
@@ -54,20 +52,6 @@ Il est préférable que vous ayez le numéro de téléphone de votre contact pou
 Les réservations de salles de réunion ne peuvent se faire que par les agents de la DINUM. Si vous souhaitez organiser une réunion à Ségur, [contactez l'équipe d'animation de beta.gouv.fr](../../../travailler-a-beta-gouv/actions-transverses/equipe-danimation.md).
 {% endhint %}
 
-Faire la demande au CAS (Centre d’Appel et de Suivi) :
-
-* Par téléphone - Composer le 01.42.75.51.11 (ou le 11 en interne).
-* Par mail - dsaf.resa@pm.gouv.fr
-
-Il convient de fournir à l’opérateur du CAS les indications suivantes :
-
-* Jour et heure de la réunion
-* Nombre de participants
-* Organisateur de l'événement
-* Objet de la réunion
-* Nom et n° de téléphone de l’interlocuteur
-* Besoin logistique, (micro, projection...)
-
 #### Restauration
 
 S'il y a des besoins en termes de restauration, toutes les demandes doivent être centralisées et obligatoirement validées par le pôle des affaires générales de la DINUM, il convient alors de contacter un membre de [l'équipe d'animation de beta.gouv.fr](../../../travailler-a-beta-gouv/actions-transverses/equipe-danimation.md).
@@ -79,4 +63,3 @@ Aller voir M. Delplace au 1.507 pour qu'il active les accès pour votre badge (i
 ### Imprimer
 
 Une imprimante est disponible physiquement au fond de la salle de droite, et sur le réseau imprimante.segur.beta.gouv.fr
-

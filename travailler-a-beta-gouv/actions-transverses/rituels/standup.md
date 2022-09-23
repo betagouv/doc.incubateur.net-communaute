@@ -23,7 +23,7 @@ Pour rejoindre l'hebdo beta.gouv.fr :
 * Configure ton microphone, ta caméra et ton audio
 * Déplace toi avec les flèches de ton clavier en suivant les flèches pour rejoindre l'espace où se réunit l'hebdo beta.gouv.fr
 
-![L'hebdo beta.gouv sur Gather.Town](<../../../.gitbook/assets/image (14) (1).png>)
+![L'hebdo beta.gouv sur Gather.Town](<../../../.gitbook/assets/image (14) (1) (1).png>)
 
 ## L'hebdo beta.gouv.fr : « Comment »
 
@@ -51,4 +51,4 @@ Diapo de l'hebdo
 * **Dialoguez**, si vous voulez, avec qui vous voulez, comme vous voulez ;
 * Va-t-on **déjeuner** ?
 
-![Avant mars 2020, nous organisions chaque semaine un Stand-up dans nos locaux](<../../../.gitbook/assets/image (14) (2) (2) (1).png>)
+![Avant mars 2020, nous organisions chaque semaine un Stand-up dans nos locaux](<../../../.gitbook/assets/image (14) (2) (2).png>)
