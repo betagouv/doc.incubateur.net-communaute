@@ -17,7 +17,7 @@ _Les équipes en investigation conduisent des entretiens et sont donc amenées �
 
 {% tabs %}
 {% tab title="Les standards ☝️" %}
-* [ ] je sais ou sont stockées les données collectées lors de l'investigation
+* [ ] je sais où sont stockées les données collectées lors de l'investigation
 * [ ] je sais supprimer ou anonymiser les notes d'entretien à l'issue de l'investigation
 * [ ] j'anonymise le rapport d'investigation
 * [ ] je respecte les règles éthiques et de confidentialité des entretiens (anonymes, éclairés, bienveillants)
