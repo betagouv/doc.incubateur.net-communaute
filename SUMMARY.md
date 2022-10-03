@@ -47,7 +47,7 @@
     * [\[Archive\] Migration Slack -> Mattermost](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/mattermost/migration-slack-greater-than-mattermost/README.md)
       * [Archives - Slack](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/mattermost/migration-slack-greater-than-mattermost/slack.md)
     * [J'ai perdu mes accès mattermost](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/mattermost/jai-perdu-mes-acces-mattermost.md)
-    * [Recommandation de canaux](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/mattermost/recommandation-de-canaux.md)
+    * [Canaux recommandés](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/mattermost/canaux-recommandes.md)
     * [Je ne reçois pas les messages pour reset mon mdp mattermost](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/mattermost/je-ne-recois-pas-les-messages-pour-reset-mon-mdp-mattermost.md)
   * [Audio/Visio](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/faire-une-visio/README.md)
     * [Organiser un webinaire](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/faire-une-visio/visioconferences.md)
