@@ -12,6 +12,7 @@
 
 * [👋 Arriver chez beta.gouv](travailler-a-beta-gouv/bienvenue/README.md)
   * [Le premier jour chez beta.gouv](travailler-a-beta-gouv/bienvenue/premier-pas-indispensable-creer-ta-fiche-membre.md)
+  * [Embarquement dans la communauté](travailler-a-beta-gouv/bienvenue/embarquement-dans-la-communaute.md)
   * [Que faire durant les premières semaines et premiers mois ?](travailler-a-beta-gouv/bienvenue/to-do-darrivee.md)
   * [Embarquement dev](travailler-a-beta-gouv/bienvenue/embarquement-dev.md)
   * [Les différents statuts](travailler-a-beta-gouv/actions-transverses/les-differents-statuts/README.md)
