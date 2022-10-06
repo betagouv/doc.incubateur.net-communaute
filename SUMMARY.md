@@ -335,6 +335,13 @@
 ## Découvrir les guides des incubateurs <a href="#decouvrir-les-guides-des-autres-incubateurs" id="decouvrir-les-guides-des-autres-incubateurs"></a>
 
 * [Gérer son incubateur](decouvrir-les-guides-des-autres-incubateurs/gerer-son-incubateur.md)
+* [🌍 Fabrique Numérique du MTE - MCT](decouvrir-les-guides-des-autres-incubateurs/fabrique-numerique-du-mte-mct/README.md)
+  * [Utiliser et suivre son budget](decouvrir-les-guides-des-autres-incubateurs/fabrique-numerique-du-mte-mct/utiliser-et-suivre-son-budget/README.md)
+    * [Utiliser son budget : obtenir une prestation](decouvrir-les-guides-des-autres-incubateurs/fabrique-numerique-du-mte-mct/utiliser-et-suivre-son-budget/utiliser-son-budget-obtenir-une-prestation/README.md)
+      * [Processus pour passer une commande (coté équipe produit)](decouvrir-les-guides-des-autres-incubateurs/fabrique-numerique-du-mte-mct/utiliser-et-suivre-son-budget/utiliser-son-budget-obtenir-une-prestation/processus-pour-passer-une-commande-cote-equipe-produit.md)
+      * [Processus pour passer une commande (coté titulaire)](decouvrir-les-guides-des-autres-incubateurs/fabrique-numerique-du-mte-mct/utiliser-et-suivre-son-budget/utiliser-son-budget-obtenir-une-prestation/processus-pour-passer-une-commande-cote-titulaire.md)
+      * [Processus pour passer une commande (coté fabrique numérique)](decouvrir-les-guides-des-autres-incubateurs/fabrique-numerique-du-mte-mct/utiliser-et-suivre-son-budget/utiliser-son-budget-obtenir-une-prestation/processus-pour-passer-une-commande-cote-fabrique-numerique.md)
+    * [Suivre son budget](decouvrir-les-guides-des-autres-incubateurs/fabrique-numerique-du-mte-mct/utiliser-et-suivre-son-budget/suivre-son-budget.md)
 * [🌍 Fabrique numérique du MTE-MCT](https://doc.mte.incubateur.net)
 * [🏥 Fabrique numérique des Ministères sociaux](https://github.com/SocialGouv/www/wiki)
 * [🗻 Incubateur de la DINUM](decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/README.md)
