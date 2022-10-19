@@ -37,7 +37,8 @@ Elle est constituée de 9 agents.
 
 Plusieurs indépendants et prestataires soutiennent l'équipe d'animation dans leurs travaux :
 
-* **Camille Garrigue**, en charge des formations de beta.gouv.fr (notamment la formation Alpha)
+* **Camille Garrigue**, en charge de la communauté beta.gouv
+* **Lucas Charrier**,&#x20;
 * **Chaïb Martinez**, en charge de l'animation des rencontres entre chargés de déploiement (club bizdev)
 
 {% hint style="info" %}
@@ -52,6 +53,7 @@ Plusieurs indépendants et prestataires soutiennent l'équipe d'animation dans l
 * Parce que j'ai une question d'ordre administratif ou concernant un des marchés publics de la DINUM
 * Parce que j'ai besoin du soutien de la DINUM (Fonds d'accélération des Startups d'Etat, Programme Gamma, aide transverse, négociation des conditions d’autonomie de mon équipe, refinancements, déblocages de freins)
 * Parce que je me sens mal dans mon équipe
+* Parce que je souhaites m'investir sur un sujet de la communauté
 
 ## Engagements envers la communauté
 
