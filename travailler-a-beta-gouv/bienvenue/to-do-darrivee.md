@@ -4,6 +4,14 @@ description: Attention à ne pas tout faire en simultanée, il y a risque d'over
 
 # Que faire durant les premières semaines et premiers mois ?
 
+## La règle des 10%
+
+La communauté beta.gouv vit grâce à ses membres. C'est pourquoi chaque membre de la communauté peut utiliser jusqu’à **10% du temps consacré à sa Startup d’État** pour participer à des **activités transverses en facturant sur sa mission**.
+
+Les activités transverses permettent de prendre un peu de recul sur la mission, de connaître d’autres personnes, d’apprendre des choses et éventuellement de sortir de son métier. Cela permet de **participer à la communauté dans une autre forme que celle de son travail quotidien**.
+
+Par exemple, une développeuse travaillant 10 jours par mois pour sa Startup d’Etat peut consacrer 1 journée à une action transverse comme _« Participer au forum beta.gouv »_, _« Animer une formation pour partager ses apprentissages à la communauté »_ ou encore _« Participer à une rencontre de partage d’expériences entre développeuses et développeurs »_.
+
 ## La première semaine
 
 #### Quelque soit ton profil
@@ -67,8 +75,12 @@ A l'exception des cas où ton administration publique de rattachement ne dispose
 ## Au cours des 6 premiers mois
 
 * [ ] Aider à ton tour quelqu'un en galère, par exemple en répondant à une demande d'aide sur la chaîne _\~incubateur-help_ du Mattermost.
-* [ ] Participer à une activité transverse : participer/créer/animer une formation, participer à un groupe de travail transverse, participer/organiser un événement pour la communauté, etc.
-
-
+* [ ] Participer à une activité transverse :&#x20;
+  * [ ] Participer à des **ateliers** du forum mensuel,
+  * [ ] Participer à une **formation** proposée par la communauté,
+  * [ ] Proposer et/ou participer à l’**organisation d’un événement**. Ex : séminaire international, aller travailler dans un autre lieu, séminaire thématique, inviter une personnalité extérieure pour un Talk, etc.
+  * [ ] Proposer et **animer une formation**,
+  * [ ] Participer à des **actions transverses sur une problématique spécifique** de la communauté. Ex : refonte de l’embarquement, donner plus de visibilité à la mobilité interne, définir les valeurs de Beta, etc.
+  * [ ] **Contribuer à la documentation** en la mettant à jour ou en l’enrichissant
 
 Si tu as la moindre question, utilise 🔒`#incubateur-help`, demande à [ton parrain ou à ta marraine](../actions-transverses/marrainage/), ou envoie un mail à `contact@beta.gouv.fr.`
