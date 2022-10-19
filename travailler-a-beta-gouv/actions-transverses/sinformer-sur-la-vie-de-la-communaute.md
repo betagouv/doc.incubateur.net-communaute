@@ -1,6 +1,6 @@
 # S'informer sur la vie de la communauté
 
-Si vous êtes membres du réseau beta.gouv.fr, vous devriez recevoir en fin de chaque semaine l'infolettre interne \(à laquelle vous pouvez également contribuer\).
+Si vous êtes membres du réseau beta.gouv.fr, vous devriez recevoir un jeudi sur deux l'infolettre interne (à laquelle vous pouvez également contribuer). Le pad de l'infolettre est publié le lundi de la semaine d'envoi sur le canal [#général](https://mattermost.incubateur.net/betagouv/channels/town-square)
 
 N'oubliez pas de vous inscrire à l'agenda public de beta.gouv.fr pour ne pas rater les événements proposés dans le réseau !
 
@@ -14,7 +14,6 @@ N'oubliez pas de vous inscrire à l'agenda public de beta.gouv.fr pour ne pas ra
 
 Vous pouvez également participer aux rendez-vous réguliers du réseau beta.gouv.fr
 
-{% page-ref page="rituels/" %}
-
-
-
+{% content-ref url="rituels/" %}
+[rituels](rituels/)
+{% endcontent-ref %}

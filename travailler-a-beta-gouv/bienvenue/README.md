@@ -18,6 +18,10 @@ Pour te permettre de démarrer dans les meilleures conditions et dès que tu app
 
 Dès que tu auras un email @beta.gouv.fr et un accès à notre messagerie collaborative, nous te recommandons de poursuivre ton embarquement avec ces quelques conseils :
 
+{% content-ref url="embarquement-dans-la-communaute.md" %}
+[embarquement-dans-la-communaute.md](embarquement-dans-la-communaute.md)
+{% endcontent-ref %}
+
 {% content-ref url="to-do-darrivee.md" %}
 [to-do-darrivee.md](to-do-darrivee.md)
 {% endcontent-ref %}

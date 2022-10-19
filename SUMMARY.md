@@ -92,7 +92,6 @@
   * [Équipe d'animation beta.gouv.fr](travailler-a-beta-gouv/actions-transverses/equipe-danimation.md)
   * [S'informer sur la vie de la communauté](travailler-a-beta-gouv/actions-transverses/sinformer-sur-la-vie-de-la-communaute.md)
   * [Les rendez-vous du réseau beta.gouv.fr](travailler-a-beta-gouv/actions-transverses/rituels/README.md)
-    * [L'hebdo beta.gouv.fr](travailler-a-beta-gouv/actions-transverses/rituels/standup.md)
     * [Le forum beta.gouv.fr](travailler-a-beta-gouv/actions-transverses/rituels/seminaire.md)
     * [Le grand séminaire](travailler-a-beta-gouv/actions-transverses/rituels/grand-seminaire-1.md)
   * [Devenir marrain·e d'une nouvelle recrue](travailler-a-beta-gouv/actions-transverses/marrainage/README.md)
