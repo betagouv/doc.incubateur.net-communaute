@@ -47,7 +47,13 @@ Tu peux consulter les dates des prochains clubs dans l'agenda public.
 
 #### ⭐️ Participer à ou organiser une formation pour la communauté
 
+Tous les membres de la communauté sont légitimes à organiser et animer des formations pour partager ses connaissances.
+
+Tu peux consulter les formations à venir et proposer une formation [sur cette page](../se-former/les-formations-a-venir.md).&#x20;
+
 #### ⭐️ Aider à **résoudre une problématique** de la communauté
+
+Tu as un irritant au sein de la communauté et tu souhaites participer à améliorer la situation ? Contacte&#x20;
 
 Ex : refonte de l’embarquement, donner plus de visibilité à la mobilité interne, définir les valeurs de Beta, etc.
 
