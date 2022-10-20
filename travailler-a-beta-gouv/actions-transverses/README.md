@@ -61,7 +61,7 @@ Exemples d'actions : refonte de l’embarquement, donner plus de visibilité à 
 
 ⭐️ **Participer à ou organiser un événement pour la communauté**
 
-Sens toi libre d'organiser un événement. Toutefois si c'est un événement externe pour le compte de beta.gouv (et non de ton équipe), il te faudra contacter l'équipe d'animation envoyant un mail à _**dinum@beta.gouv.fr**_ ou en mettant un message sur le canal [\~incubateur-communauté](https://mattermost.incubateur.net/betagouv/channels/incubateur-communautexp).
+Sens toi libre d'organiser un événement pour la communauté ou pour contribuer au rayonnement de beta.gouv à l'extérieur. Toutefois si c'est un événement externe pour le compte de beta.gouv (et non de ton équipe), il te faudra contacter l'équipe d'animation envoyant un mail à _**dinum@beta.gouv.fr**_ ou en mettant un message sur le canal [\~incubateur-communauté](https://mattermost.incubateur.net/betagouv/channels/incubateur-communautexp).
 
 Exemples d'événement déjà organisés : séminaire international, aller travailler dans un autre lieu, séminaire thématique, inviter une personnalité extérieure pour un Talk, etc.
 
@@ -88,3 +88,14 @@ Et si tu n'as que quelques minutes ou du temps uniquement ponctuel, voilà quelq
 * Lire ou relire la documentation et le site beta.gouv et [corriger les coquilles ou informations obsolètes sur lesquelles tu tombes](../jutilise-les-outils-de-la-communaute/gitbook/comment-contribuer-a-cette-documentation.md)
 * Tester un produit d'une startup, consulter une page stat et éventuellement faire un retour à l'équipe concernée
 
+## S'informer sur la vie de la communauté
+
+{% content-ref url="sinformer-sur-la-vie-de-la-communaute.md" %}
+[sinformer-sur-la-vie-de-la-communaute.md](sinformer-sur-la-vie-de-la-communaute.md)
+{% endcontent-ref %}
+
+## Parler de beta.gouv à l'extérieur
+
+{% content-ref url="guide-pour-les-candidat-e-s/presenter-de-beta.gouv.fr.md" %}
+[presenter-de-beta.gouv.fr.md](guide-pour-les-candidat-e-s/presenter-de-beta.gouv.fr.md)
+{% endcontent-ref %}
