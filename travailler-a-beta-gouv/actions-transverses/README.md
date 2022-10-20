@@ -1,15 +1,14 @@
 # 🖖 Participer à la vie de la communauté
 
-En travaillant dans un incubateur du réseau ou pour une Startup d’État et de Territoire, tu deviens membre de la communauté beta.gouv.fr. Celle-ci se construit à la fois par le travail des responsables d'incubateurs et de l'équipe de la mission beta.gouv.fr à la DINUM, mais aussi par l’investissement volontaire de ses membres. **Chaque membre est encouragé à proposer de nouvelles idées** (événements, processus, outils etc), **les mettre en oeuvre ou rejoindre un travail en cours.**
+## La règle des 10%
 
-La participation à la vie de la communauté peut prendre différentes formes, par exemple :
+La communauté beta.gouv vit grâce à ses membres. C’est pourquoi chaque membre de la communauté peut utiliser jusqu’à 10% du temps consacré à sa Startup d’État pour participer à des activités transverses en facturant sur sa mission.
 
-* organiser un apéro ;
-* organiser une conférence / faire venir une connaissance pour présenter un sujet ;
-* proposer/mettre en place des nouveaux processus ou outils ;
-* participer à un groupe de travail sur le fonctionnement de la communauté (égalité homme/femme, intégration des nouveaux membres, relation entre les incubateurs etc…)
+\
+Les activités transverses permettent de prendre un peu de recul sur la mission, de connaître d’autres personnes, d’apprendre des choses et éventuellement de sortir de son métier. Cela permet de participer à la communauté dans une autre forme que celle de son travail quotidien.\
+Par exemple, une développeuse travaillant 10 jours par mois pour sa Startup d’Etat peut consacrer 1 journée à une action transverse.
 
-### J'ai envie de participer à la vie de la communauté !
+## Les actions pour la communauté
 
 Si tu es intéressé par des sujets en particulier et que tu souhaites t'y engager, contacte l'équipe d'animation.
 

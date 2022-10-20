@@ -38,7 +38,7 @@ Elle est constituée de 9 agents.
 Plusieurs indépendants et prestataires soutiennent l'équipe d'animation dans leurs travaux :
 
 * **Camille Garrigue**, en charge de la communauté beta.gouv
-* **Lucas Charrier**,&#x20;
+* **Lucas Charrier**, en charge des outils techs de la communauté beta.gouv
 * **Chaïb Martinez**, en charge de l'animation des rencontres entre chargés de déploiement (club bizdev)
 
 {% hint style="info" %}
