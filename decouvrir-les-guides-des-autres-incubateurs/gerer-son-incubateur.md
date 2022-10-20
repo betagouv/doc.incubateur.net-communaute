@@ -45,7 +45,7 @@ En tant qu'incubateur du réseau beta.gouv, les équipes qui suivent l'approche 
 * accès au [Mattermost](../travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/mattermost/) beta.gouv.fr ;
 * relai des campagnes de recrutement sur les réseaux beta.gouv.fr (site internet, réseaux sociaux) ;
 * invitation des membres des équipes aux “[clubs](../travailler-a-beta-gouv/se-former/clubs-de-partage-dexperience/)” beta.gouv.fr et réflexions transverses (séminaires, réseaux de partage d’expérience entre coachs, intrapreneurs ou chefs de produit, développeurs, designers, chargés de déploiement, etc) ;
-* rencontres de la communauté : [forum beta.gouv](../travailler-a-beta-gouv/actions-transverses/rituels/seminaire.md) et événements de socialisation  ;
+* invitation au [grand séminaire beta.gouv](broken-reference) ;
 * possibilité d’accueillir ponctuellement l’équipe dans les [locaux](incubateur-de-la-dinum/locaux/) de l’incubateur de la DINUM (échanges, revues de portefeuille, ateliers) ;
 * accès aux [formations](../travailler-a-beta-gouv/se-former/) organisées par la communauté et aux ressources communes, notamment la formation Alpha
 

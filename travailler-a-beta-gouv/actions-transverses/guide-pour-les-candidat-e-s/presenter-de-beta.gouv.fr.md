@@ -18,7 +18,7 @@ L'expression "beta.gouv.fr", parfois abrégé "beta.gouv", peut désigner plusie
 
 * La **communauté beta.gouv.fr**, à savoir toutes les personnes qui travaillent selon l'approche Startup d'État et, quel que soit leur rôle, leur statut, leur incubateur, leur rattachement : ses membres sont en général référencés sur la [page Communauté](https://beta.gouv.fr/communaute/), et sont disponibles sur notre espace Mattersmost ; on parle parfois aussi de **réseau beta.gouv.fr** pour désigner le [réseau de structures, incubateurs et fabriques partenaires](https://beta.gouv.fr/approche/incubateurs) ;
 * Le **programme beta.gouv.fr** : en 4 phases, il commence par une _investigation_ préalable à la _construction_ d'un service numérique ; on passe ensuite en phase d'accélération si l'utilité du produit est avérée, et enfin en phase de _transfert_ ou de _consolidation_ \*\*\*\* ;
-* La **mission BETA** : c'est le nom de la mission de la Direction intérministérielle du numérique (DINUM) à laquelle sont rattachés les membres de [l'équipe d'animation de beta.gouv.fr](../../../decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/lequipe-danimation-beta.gouv.fr.md). Son objectif est d'accompagner la croissance et de soutenir le programme, la communauté et le réseau beta.gouv.fr.
+* La **mission BETA** : c'est le nom de la mission de la Direction intérministérielle du numérique (DINUM) à laquelle sont rattachés les membres de l'[équipe d'animation de beta.gouv.fr](broken-reference). Son objectif est d'accompagner la croissance et de soutenir le programme, la communauté et le réseau beta.gouv.fr.
 
 ### "Startup d'État" ?
 
