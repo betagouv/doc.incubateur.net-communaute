@@ -77,53 +77,12 @@ La documentation est maintenue à jour par toute la communauté. Tu trouveras ci
 [proposer-un-nouvel-outil-a-la-communaute.md](proposer-un-nouvel-outil-a-la-communaute.md)
 {% endcontent-ref %}
 
-
-
-Si tu es intéressé par des sujets en particulier et que tu souhaites t'y engager, contacte l'équipe d'animation.
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-Si tu es intéressé par l'action de beta.gouv.fr en général, nous t'invitons à t'informer sur les actions en cours ou à participer à nos rendez-vous réguliers.
-
-{% content-ref url="sinformer-sur-la-vie-de-la-communaute.md" %}
-[sinformer-sur-la-vie-de-la-communaute.md](sinformer-sur-la-vie-de-la-communaute.md)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-Une bonne manière de commencer à contribuer est de participer à l'embarquement des nouvelles recrues chez beta.gouv.fr en devenant marrain·e, ou de partager tes apprentissages à l'extérieur de ton équipe.
-
-{% content-ref url="marrainage/" %}
-[marrainage](marrainage/)
-{% endcontent-ref %}
-
-{% content-ref url="partager-ses-apprentissages/" %}
-[partager-ses-apprentissages](partager-ses-apprentissages/)
-{% endcontent-ref %}
-
-Des clubs de partage d'expérience entre équipes, mais aussi de nombreuses formations sont régulièrement organisées. Tu peux même proposer d'animer une formation sur un sujet qui t'es cher, si tu le souhaites !
-
-{% content-ref url="../se-former/clubs-de-partage-dexperience/" %}
-[clubs-de-partage-dexperience](../se-former/clubs-de-partage-dexperience/)
-{% endcontent-ref %}
-
-{% content-ref url="../se-former/les-formations-a-venir.md" %}
-[les-formations-a-venir.md](../se-former/les-formations-a-venir.md)
-{% endcontent-ref %}
+#### ⭐️ Si tu n'as que quelques minutes
 
 Et si tu n'as que quelques minutes ou du temps uniquement ponctuel, voilà quelques idées d'actions pour contribuer à la vie de la communauté :
 
 * Faire un tour [sur GitHub](https://github.com/betagouv/beta.gouv.fr/pulls) pour participer à la revue ou valider des pull requests en attente
-* Faire un tour sur le canal incubateur-help sur Mattermost pour éventuellement répondre à des questions posées
-* Lire ou relire la documentation et le site beta.gouv et corriger les coquilles ou informations obsolètes sur lesquelles tu tombes
+* Faire un tour sur le canal [\~incubateur-help](https://mattermost.incubateur.net/betagouv/channels/incubateur-help) sur Mattermost pour éventuellement répondre à des questions posées
+* Lire ou relire la documentation et le site beta.gouv et [corriger les coquilles ou informations obsolètes sur lesquelles tu tombes](../jutilise-les-outils-de-la-communaute/gitbook/comment-contribuer-a-cette-documentation.md)
 * Tester un produit d'une startup, consulter une page stat et éventuellement faire un retour à l'équipe concernée
-* Faire un audit rapide d'accessibilité de ton produit ou de n'importe quel autre produit ou site en utilisant [cette ressource](https://accessibilite-beta.alwaysdata.net/) ou encore [celle-là](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/accessibilite-et-rgaa/kit-accessibilite)
-* Organiser un événement (talk, partage d'expérience, formation...) ou proposer ton aide pour l'organisation d'un événement dont tu as entendu parler ou vu passer sur Mattermost ou pour l'onboarding d'un nouveau membre
-* Ecrire un article (post mortem, retour d'expérience...) sur n'importe quel support et le partager à la communauté sur Mattermost
-* Contribuer à un produit open source de cette [liste non exhaustive](https://github.com/betagouv/awesome-betagouv)
-* Ajouter d'autres items à cette liste !
-* Organiser ta propre rencontre sur un sujet qui te botte !
+
