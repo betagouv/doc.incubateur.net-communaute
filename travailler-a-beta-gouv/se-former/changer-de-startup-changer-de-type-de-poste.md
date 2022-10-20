@@ -9,7 +9,7 @@ Nous sommes une communauté formée en grande partie d'indépendant·e·s, c'est
 * Surveiller les offres sur [\~incubateur-embauche,](https://mattermost.incubateur.net/betagouv/channels/incubateur-embauche) sur le [welcome to the jungle](https://www.welcometothejungle.com/fr/companies/communaute-beta-gouv), et sur la page [recrutement de beta](https://beta.gouv.fr/recrutement/).
 * Si vous allez être disponible, faites en mention sur [\~incubateur-embauche](https://mattermost.incubateur.net/betagouv/channels/incubateur-embauche).
 * Contacter les équipes avec qui vous souhaitez travailler : n'hésitez pas à proposer de travailler un nombre restreint de jour (1-2j) dans un premier temps pour voir si la collaboration se passe bien ou selon vos disponibilités. Vous pouvez très bien avoir 2 missions en parallèle.
-* [Participer à des activités transverses ](../actions-transverses/sengager-dans-une-action-transverse/): en plus de contribuer à la communauté, elles vous permettront de rencontrer davantage de membres, ce qui pourra toujours vous servir pour de futures opportunités (et puis c'est sympa !)
+* [Participer à des activités transverses](../actions-transverses/) : en plus de contribuer à la communauté, elles vous permettront de rencontrer davantage de membres, ce qui pourra toujours vous servir pour de futures opportunités (et puis c'est sympa !)
 
 ### Changer de type de poste :
 
@@ -28,6 +28,6 @@ Voici 3 entretiens réalisés avec des membres de beta.gouv qui raconte leur év
 En espérant que ces entretiens vous inspireront et vous apporteront des clés pour évoluer au sein de la communauté.
 
 \
-[Parcours à Beta.gouv #1 : Amaury Dubot](https://blog.beta.gouv.fr/general/2022/09/15/parcours-a-beta-gouv-fr-1-amaury-dubot/) \
+[Parcours à Beta.gouv #1 : Amaury Dubot](https://blog.beta.gouv.fr/general/2022/09/15/parcours-a-beta-gouv-fr-1-amaury-dubot/)\
 [Parcours à Beta.gouv #2 : Thomas Guillet](https://blog.beta.gouv.fr/general/2022/09/15/parcours-a-beta-gouv-fr-2-thomas-guillet/)\
 [Parcours à Beta.gouv #3 : Anna-Livia Gomart](https://blog.beta.gouv.fr/general/2022/09/15/parcours-a-beta-gouv-fr-3-anna-livia-gomart/)
