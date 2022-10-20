@@ -53,15 +53,23 @@ Tu peux consulter les formations à venir et proposer une formation [sur cette p
 
 #### ⭐️ Aider à **résoudre une problématique** de la communauté
 
-Tu as un irritant au sein de la communauté et tu souhaites participer à améliorer la situation ? Contacte&#x20;
+Tu as un irritant au sein de la communauté et tu souhaites participer à améliorer la situation ? Contacte l'équipe d'animation envoyant un mail à _**dinum@beta.gouv.fr**_ ou en mettant un message sur le canal [\~incubateur-communauté](https://mattermost.incubateur.net/betagouv/channels/incubateur-communautexp). L'équipe pourra t'aider à rejoindre une initiative en cours ou à créer un groupe de travail.&#x20;
 
-Ex : refonte de l’embarquement, donner plus de visibilité à la mobilité interne, définir les valeurs de Beta, etc.
+Exemples d'actions : refonte de l’embarquement, donner plus de visibilité à la mobilité interne, définir les valeurs de Beta, etc.
 
 ⭐️ **Participer à ou organiser un événement pour la communauté**
 
+Sens toi libre d'organiser un événement. Toutefois si c'est un événement externe pour le compte de beta.gouv (et non de ton équipe), il te faudra contacter l'équipe d'animation envoyant un mail à _**dinum@beta.gouv.fr**_ ou en mettant un message sur le canal [\~incubateur-communauté](https://mattermost.incubateur.net/betagouv/channels/incubateur-communautexp).
+
+Exemples d'événement déjà organisés : séminaire international, aller travailler dans un autre lieu, séminaire thématique, inviter une personnalité extérieure pour un Talk, etc.
+
 ⭐️ **Contribuer à la documentation**&#x20;
 
-en la mettant à jour ou en l’enrichissant
+La documentation est maintenue à jour par toute la communauté. Tu trouveras ci-dessous la page expliquant comment y contribuer.&#x20;
+
+{% content-ref url="../jutilise-les-outils-de-la-communaute/gitbook/comment-contribuer-a-cette-documentation.md" %}
+[comment-contribuer-a-cette-documentation.md](../jutilise-les-outils-de-la-communaute/gitbook/comment-contribuer-a-cette-documentation.md)
+{% endcontent-ref %}
 
 #### ⭐️ Proposer un nouvel outil à la communauté
 
