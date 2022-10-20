@@ -10,11 +10,11 @@ Habituellement, les administrations publiques ont une [culture bureaucratique](h
 En tant qu'espace d'innovation et d'expérimentation au sein de l'État, beta.gouv.fr a instauré en son sein une **culture plus horizontale fondée sur la recherche de l'impact, la rapidité d'exécution, l'amélioration continue, la transparence et l'autonomie des équipes**, qui permet notamment la prise d'initiative d'agents publics sur le terrain.
 {% endhint %}
 
-## Un manifeste pour décrire notre conception de l'action publique numérique
+## Des valeurs pour garder le cap
 
-**beta.gouv.fr** introduit [une nouvelle manière de concevoir l’action publique](https://beta.gouv.fr/approche/) ; son approche permet de garantir que les services numériques que nous produirons seront toujours utiles à quelqu’un, utilisables et utilisés, parce qu’ils répondent à un vrai problème. En particulier, elle repose sur trois piliers (**l'impact** ou le **sens**, **l'amélioration** **continue** et **l'autonomie**) décrits dans le manifeste accessible ci-dessous que les partenaires de beta.gouv.fr s’engagent à respecter.
-
-{% embed url="https://beta.gouv.fr/approche/manifeste" %}
+{% content-ref url="charte.md" %}
+[charte.md](charte.md)
+{% endcontent-ref %}
 
 ## Des normes de conduite pour clarifier nos habitudes de travail
 
@@ -26,8 +26,8 @@ Laisser tout le monde prendre des initiatives, limiter au maximum le nombre de r
 
 ## Découvrez l'histoire de beta.gouv.fr
 
-{% content-ref url="histoire-de-beta.gouv.fr" %}
-[histoire-de-beta.gouv.fr](histoire-de-beta.gouv.fr)
+{% content-ref url="histoire-de-beta.gouv.fr/" %}
+[histoire-de-beta.gouv.fr](histoire-de-beta.gouv.fr/)
 {% endcontent-ref %}
 
 ## Quelques ressources pour aider les membres à s'en sortir en cas de problème
