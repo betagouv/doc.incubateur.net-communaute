@@ -12,7 +12,7 @@ L'organisation de la DINUM est décrite sur le site numerique.gouv.fr.
 
 {% embed url="https://www.numerique.gouv.fr/dinum/" %}
 
-L'incubateur de la DINUM est opéré par l'[équipe d'animation de beta.gouv.fr](broken-reference), appelée dans l'organigramme la "mission BETA".
+L'incubateur de la DINUM est opéré par l'[équipe d'animation de beta.gouv.fr](lequipe-danimation-beta.gouv.fr.md), appelée dans l'organigramme la "mission BETA".
 
 Certains services de la DINUM intéragissent souvent avec la communauté beta.gouv.fr :
 
