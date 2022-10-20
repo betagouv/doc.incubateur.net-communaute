@@ -12,19 +12,19 @@ Par exemple, une développeuse travaillant 10 jours par mois pour sa Startup d�
 
 N'hésite pas à t'investir dans les actions suivantes, c'est ouvert à tout le monde !
 
-#### Participer au rdv de mensuel de la communauté : le forum beta.gouv
+#### ⭐️ Participer au rdv mensuel de la communauté : le forum beta.gouv
 
-{% content-ref url="seminaire.md" %}
-[seminaire.md](seminaire.md)
+{% content-ref url="rituels/seminaire.md" %}
+[seminaire.md](rituels/seminaire.md)
 {% endcontent-ref %}
 
-#### Devenir marraine/parrain d'une nouvelle recrue
+#### ⭐️ Devenir marraine/parrain d'une nouvelle recrue
 
 {% content-ref url="marrainage/" %}
 [marrainage](marrainage/)
 {% endcontent-ref %}
 
-#### Participer à un club de partage d'expérience
+#### ⭐️ Participer à un club de partage d'expérience
 
 L'incubateur de la DINUM propose plusieurs rencontres de partage d'expérience entre personnes ayant des rôles similaires : c'est ce que nous appelons les **clubs**.
 
@@ -34,6 +34,36 @@ L'incubateur de la DINUM propose plusieurs rencontres de partage d'expérience e
 * Club intra : comment les agents publiques créent leurs startups 🔒`#domaine-intrapreneurs`
 
 Tu peux consulter les dates des prochains clubs dans l'agenda public.
+
+#### ⭐️ Partager ses apprentissages avec la communauté et le grand public
+
+{% content-ref url="partager-ses-apprentissages/retours-dexperience.md" %}
+[retours-dexperience.md](partager-ses-apprentissages/retours-dexperience.md)
+{% endcontent-ref %}
+
+{% content-ref url="partager-ses-apprentissages/mardi-demo.md" %}
+[mardi-demo.md](partager-ses-apprentissages/mardi-demo.md)
+{% endcontent-ref %}
+
+#### ⭐️ Participer à ou organiser une formation pour la communauté
+
+#### ⭐️ Aider à **résoudre une problématique** de la communauté
+
+Ex : refonte de l’embarquement, donner plus de visibilité à la mobilité interne, définir les valeurs de Beta, etc.
+
+⭐️ **Participer à ou organiser un événement pour la communauté**
+
+⭐️ **Contribuer à la documentation**&#x20;
+
+en la mettant à jour ou en l’enrichissant
+
+#### ⭐️ Proposer un nouvel outil à la communauté
+
+{% content-ref url="proposer-un-nouvel-outil-a-la-communaute.md" %}
+[proposer-un-nouvel-outil-a-la-communaute.md](proposer-un-nouvel-outil-a-la-communaute.md)
+{% endcontent-ref %}
+
+
 
 Si tu es intéressé par des sujets en particulier et que tu souhaites t'y engager, contacte l'équipe d'animation.
 

@@ -30,7 +30,7 @@ Tout sujet d'intérêt transverse est bienvenu. Les sujets sont proposés sur un
 #### Rôles nécessaires
 
 * **Facilitation** : fournir le matériel, rappeler les règles du forum, tenir la liste des sujets, s'assurer de la gestion du temps ;
-* **Rédaction** : nous encourageons la nomination d'un·e scribe volontaire dans chacune des équipes, qui peut prendre des notes dans un [pad](../jutilise-les-outils-de-la-communaute/pad.md) et les partager, par exemple, dans l'espace Mattermost le plus adéquat.
+* **Rédaction** : nous encourageons la nomination d'un·e scribe volontaire dans chacune des équipes, qui peut prendre des notes dans un [pad](../../jutilise-les-outils-de-la-communaute/pad.md) et les partager, par exemple, dans l'espace Mattermost le plus adéquat.
 
 {% hint style="info" %}
 Si vous facilitez le forum, vous serez probablement contraint·e de ne pas pouvoir participer aux ateliers
@@ -44,8 +44,8 @@ Au début du séminaire, chaque atelier est présenté rapidement et affiché su
 
 ## Petite histoire des forums et séminaires beta.gouv
 
-![Un séminaire (ancêtre du Forum beta.gouv) dans les anciens locaux du SGMAP en 2017](<../../.gitbook/assets/image (1).png>)
+![Un séminaire (ancêtre du Forum beta.gouv) dans les anciens locaux du SGMAP en 2017](<../../../.gitbook/assets/image (1).png>)
 
-![Le séminaire beta.gouv.fr sur Gather.Town pendant la période du Covid (2020-2021)](<../../.gitbook/assets/image (14) (1).png>)
+![Le séminaire beta.gouv.fr sur Gather.Town pendant la période du Covid (2020-2021)](<../../../.gitbook/assets/image (14) (1).png>)
 
-![Le forum beta.gouv en juillet 2022, au Lieu de la DITP](../../.gitbook/assets/IMG\_8811.jpg)
+![Le forum beta.gouv en juillet 2022, au Lieu de la DITP](../../../.gitbook/assets/IMG\_8811.jpg)

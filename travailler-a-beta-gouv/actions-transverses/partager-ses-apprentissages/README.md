@@ -14,8 +14,8 @@ Il y a plusieurs moyens de partager vos apprentissages aux autres équipes :
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="proposer-un-nouvel-outil-a-la-communaute.md" %}
-[proposer-un-nouvel-outil-a-la-communaute.md](proposer-un-nouvel-outil-a-la-communaute.md)
+{% content-ref url="../proposer-un-nouvel-outil-a-la-communaute.md" %}
+[proposer-un-nouvel-outil-a-la-communaute.md](../proposer-un-nouvel-outil-a-la-communaute.md)
 {% endcontent-ref %}
 
 Il arrive aussi que des membres de beta.gouv.fr interviennent à l'extérieur. Nous avons compilé certains conseils pour vous aider à expliquer ce que fait beta.gouv.fr.
