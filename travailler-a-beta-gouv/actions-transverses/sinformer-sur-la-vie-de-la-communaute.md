@@ -14,6 +14,6 @@ N'oubliez pas de vous inscrire à l'agenda public de beta.gouv.fr pour ne pas ra
 
 Vous pouvez également participer aux rendez-vous réguliers du réseau beta.gouv.fr
 
-{% content-ref url="rituels/" %}
-[rituels](rituels/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}

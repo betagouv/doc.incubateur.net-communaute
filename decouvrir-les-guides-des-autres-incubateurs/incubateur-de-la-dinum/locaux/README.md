@@ -49,12 +49,12 @@ Il est préférable que vous ayez le numéro de téléphone de votre contact pou
 ### Réserver une salle de réunion à Ségur
 
 {% hint style="info" %}
-Les réservations de salles de réunion ne peuvent se faire que par les agents de la DINUM. Si vous souhaitez organiser une réunion à Ségur, [contactez l'équipe d'animation de beta.gouv.fr](../../../travailler-a-beta-gouv/actions-transverses/equipe-danimation.md).
+Les réservations de salles de réunion ne peuvent se faire que par les agents de la DINUM. Si vous souhaitez organiser une réunion à Ségur, [contactez l'équipe d'animation de beta.gouv.fr](broken-reference).
 {% endhint %}
 
 #### Restauration
 
-S'il y a des besoins en termes de restauration, toutes les demandes doivent être centralisées et obligatoirement validées par le pôle des affaires générales de la DINUM, il convient alors de contacter un membre de [l'équipe d'animation de beta.gouv.fr](../../../travailler-a-beta-gouv/actions-transverses/equipe-danimation.md).
+S'il y a des besoins en termes de restauration, toutes les demandes doivent être centralisées et obligatoirement validées par le pôle des affaires générales de la DINUM, il convient alors de contacter un membre de [l'équipe d'animation de beta.gouv.fr](broken-reference).
 
 ### Accès local velo avec son badge
 

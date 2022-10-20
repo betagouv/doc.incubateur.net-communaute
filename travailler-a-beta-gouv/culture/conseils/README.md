@@ -13,7 +13,7 @@ Le conflit, surtout ponctuel, est tout à fait normal au sein d'équipes qui tra
 
 Le conflit prolongé, ou des expressions verbales jugées violentes, peuvent être un signe avant-coureur de choses plus sérieuses. **Ne pas hésiter à en parler à la personne qui coache l'équipe.**
 
-Si c'est le ou la coach avec qui une situation conflictuelle s'installe, il est possible d'**en parler avec une autre personne dans ma chaîne d'accompagnement** (son équipe, son coach, la personne référente de son coach éventuellement, la direction de son incubateur, un·e membre de [l'équipe d'animation de beta](../../actions-transverses/equipe-danimation.md)). **On a le droit, de sa propre initiative, "d'escalader" la chaîne si la réponse apportée ne satisfait pas.** C'est évidemment sans exclusivité, et on peut parler de ma situation avec qui bon me semble dans la communauté.
+Si c'est le ou la coach avec qui une situation conflictuelle s'installe, il est possible d'**en parler avec une autre personne dans ma chaîne d'accompagnement** (son équipe, son coach, la personne référente de son coach éventuellement, la direction de son incubateur, un·e membre de [l'équipe d'animation de beta](broken-reference)). **On a le droit, de sa propre initiative, "d'escalader" la chaîne si la réponse apportée ne satisfait pas.** C'est évidemment sans exclusivité, et on peut parler de ma situation avec qui bon me semble dans la communauté.
 
 ## Mal-être ou souffrance
 

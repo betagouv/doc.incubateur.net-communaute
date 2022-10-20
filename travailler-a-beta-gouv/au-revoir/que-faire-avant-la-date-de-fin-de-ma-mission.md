@@ -5,6 +5,7 @@ description: Nous te prévenons avant la date de fin de ta mission
 # Que faire avant la date de fin de ma mission ?
 
 ## Si ta mission est prolongée
+
 Tu peux [mettre à jour tes dates de mission](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/outils/mise-a-jour-de-mes-informations#comment-mettre-a-jour-mes-dates-de-mission)
 
 ## Si ta mission se finit, que faire avant mon départ de beta.gouv ?
@@ -16,8 +17,8 @@ Tu peux [mettre à jour tes dates de mission](https://doc.incubateur.net/communa
 
 ### C'est optionnel
 
-* [ ] Rediriger ton adresse `@beta.gouv.fr` vers `departs@beta.gouv.fr` en le demandant  sur [#incubateur-secretaria](https://mattermost.incubateur.net/betagouv/channels/incubateur-secretaria)
-* [ ] Faire un debrief d'une demi-heure de ton passage à l'Incubateur avec [un·e permanent·e](../actions-transverses/equipe-danimation.md), pour qu'on puisse s'améliorer.
+* [ ] Rediriger ton adresse `@beta.gouv.fr` vers `departs@beta.gouv.fr` en le demandant sur [#incubateur-secretaria](https://mattermost.incubateur.net/betagouv/channels/incubateur-secretaria)
+* [ ] Faire un debrief d'une demi-heure de ton passage à l'Incubateur avec [un·e permanent·e](broken-reference), pour qu'on puisse s'améliorer.
 * [ ] Annoncer la date de ton pot de départ sur [#general](https://mattermost.incubateur.net/betagouv/channels/town-square)
 * [ ] [Désactiver ton compte Mattermost](./#que-va-devenir-ton-compte-mattermost)
 

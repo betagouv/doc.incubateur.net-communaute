@@ -10,8 +10,8 @@ Il y a plusieurs moyens de partager vos apprentissages aux autres équipes :
 [retours-dexperience.md](retours-dexperience.md)
 {% endcontent-ref %}
 
-{% content-ref url="annoncer-un-evenement.md" %}
-[annoncer-un-evenement.md](annoncer-un-evenement.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="proposer-un-nouvel-outil-a-la-communaute.md" %}

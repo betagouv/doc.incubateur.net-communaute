@@ -1,20 +1,44 @@
 # 🖖 Participer à la vie de la communauté
 
-En travaillant dans un incubateur du réseau ou pour une Startup d’État et de Territoire, tu deviens membre de la communauté beta.gouv.fr. Celle-ci se construit à la fois par le travail des responsables d'incubateurs et de l'équipe de la mission beta.gouv.fr à la DINUM, mais aussi par l’investissement volontaire de ses membres. **Chaque membre est encouragé à proposer de nouvelles idées** (événements, processus, outils etc), **les mettre en oeuvre ou rejoindre un travail en cours.**
+## La règle des 10%
 
-La participation à la vie de la communauté peut prendre différentes formes, par exemple :
+La communauté beta.gouv vit grâce à ses membres. C’est pourquoi chaque membre de la communauté peut utiliser jusqu’à 10% du temps consacré à sa Startup d’État pour participer à des activités transverses en facturant sur sa mission.
 
-* organiser un apéro ;
-* organiser une conférence / faire venir une connaissance pour présenter un sujet ;
-* proposer/mettre en place des nouveaux processus ou outils ;
-* participer à un groupe de travail sur le fonctionnement de la communauté (égalité homme/femme, intégration des nouveaux membres, relation entre les incubateurs etc…)
+\
+Les activités transverses permettent de prendre un peu de recul sur la mission, de connaître d’autres personnes, d’apprendre des choses et éventuellement de sortir de son métier. Cela permet de participer à la communauté dans une autre forme que celle de son travail quotidien.\
+Par exemple, une développeuse travaillant 10 jours par mois pour sa Startup d’Etat peut consacrer 1 journée à une action transverse.
 
-### J'ai envie de participer à la vie de la communauté !
+## Les actions pour la communauté
+
+N'hésite pas à t'investir dans les actions suivantes, c'est ouvert à tout le monde !
+
+#### Participer au rdv de mensuel de la communauté : le forum beta.gouv
+
+{% content-ref url="seminaire.md" %}
+[seminaire.md](seminaire.md)
+{% endcontent-ref %}
+
+#### Devenir marraine/parrain d'une nouvelle recrue
+
+{% content-ref url="marrainage/" %}
+[marrainage](marrainage/)
+{% endcontent-ref %}
+
+#### Participer à un club de partage d'expérience
+
+L'incubateur de la DINUM propose plusieurs rencontres de partage d'expérience entre personnes ayant des rôles similaires : c'est ce que nous appelons les **clubs**.
+
+* Club dev : partage sur les pratiques de développement informatiques 🔒`#domaine-dev` - 2ème mercredi du mois de 10h30 à 12h
+* Club coach : comment accompagner une startup d'état 🔒`#incubateur-coaching` - 1ème mercredi du mois de 10h30 à 12h)
+* Club bizdev : comment déployer les startups 🔒`#incubateur-bizdev`
+* Club intra : comment les agents publiques créent leurs startups 🔒`#domaine-intrapreneurs`
+
+Tu peux consulter les dates des prochains clubs dans l'agenda public.
 
 Si tu es intéressé par des sujets en particulier et que tu souhaites t'y engager, contacte l'équipe d'animation.
 
-{% content-ref url="equipe-danimation.md" %}
-[equipe-danimation.md](equipe-danimation.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 Si tu es intéressé par l'action de beta.gouv.fr en général, nous t'invitons à t'informer sur les actions en cours ou à participer à nos rendez-vous réguliers.
@@ -23,8 +47,8 @@ Si tu es intéressé par l'action de beta.gouv.fr en général, nous t'invitons 
 [sinformer-sur-la-vie-de-la-communaute.md](sinformer-sur-la-vie-de-la-communaute.md)
 {% endcontent-ref %}
 
-{% content-ref url="rituels/" %}
-[rituels](rituels/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 Une bonne manière de commencer à contribuer est de participer à l'embarquement des nouvelles recrues chez beta.gouv.fr en devenant marrain·e, ou de partager tes apprentissages à l'extérieur de ton équipe.
@@ -58,3 +82,4 @@ Et si tu n'as que quelques minutes ou du temps uniquement ponctuel, voilà quelq
 * Ecrire un article (post mortem, retour d'expérience...) sur n'importe quel support et le partager à la communauté sur Mattermost
 * Contribuer à un produit open source de cette [liste non exhaustive](https://github.com/betagouv/awesome-betagouv)
 * Ajouter d'autres items à cette liste !
+* Organiser ta propre rencontre sur un sujet qui te botte !
