@@ -12,8 +12,3 @@ N'oubliez pas de vous inscrire à l'agenda public de beta.gouv.fr pour ne pas ra
 [Mettre à jour l'agenda de beta](https://airtable.com/shrWvcUAOJqllVqtj)
 {% endhint %}
 
-Vous pouvez également participer aux rendez-vous réguliers du réseau beta.gouv.fr
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}

@@ -20,6 +20,6 @@ Il y a plusieurs moyens de partager vos apprentissages aux autres équipes :
 
 Il arrive aussi que des membres de beta.gouv.fr interviennent à l'extérieur. Nous avons compilé certains conseils pour vous aider à expliquer ce que fait beta.gouv.fr.
 
-{% content-ref url="../guide-pour-les-candidat-e-s/presenter-de-beta.gouv.fr.md" %}
-[presenter-de-beta.gouv.fr.md](../guide-pour-les-candidat-e-s/presenter-de-beta.gouv.fr.md)
+{% content-ref url="../presenter-de-beta.gouv.fr/" %}
+[presenter-de-beta.gouv.fr](../presenter-de-beta.gouv.fr/)
 {% endcontent-ref %}

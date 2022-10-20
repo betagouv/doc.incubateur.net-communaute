@@ -51,6 +51,8 @@ Tous les membres de la communauté sont légitimes à organiser et animer des fo
 
 Tu peux consulter les formations à venir et proposer une formation [sur cette page](../se-former/les-formations-a-venir.md).&#x20;
 
+Si tu as une question sur une formation ou si tu veux faire la communication d'une formation que tu organises 👉 poste un message sur le canal Mattermost [\~incubateur-formations](https://mattermost.incubateur.net/betagouv/channels/incubateur-formations).
+
 #### ⭐️ Aider à **résoudre une problématique** de la communauté
 
 Tu as un irritant au sein de la communauté et tu souhaites participer à améliorer la situation ? Contacte l'équipe d'animation envoyant un mail à _**dinum@beta.gouv.fr**_ ou en mettant un message sur le canal [\~incubateur-communauté](https://mattermost.incubateur.net/betagouv/channels/incubateur-communautexp). L'équipe pourra t'aider à rejoindre une initiative en cours ou à créer un groupe de travail.&#x20;
