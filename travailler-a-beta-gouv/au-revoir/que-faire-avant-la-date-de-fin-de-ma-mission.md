@@ -18,7 +18,7 @@ Tu peux [mettre à jour tes dates de mission](https://doc.incubateur.net/communa
 ### C'est optionnel
 
 * [ ] Rediriger ton adresse `@beta.gouv.fr` vers `departs@beta.gouv.fr` en le demandant sur [#incubateur-secretaria](https://mattermost.incubateur.net/betagouv/channels/incubateur-secretaria)
-* [ ] Faire un debrief d'une demi-heure de ton passage à l'Incubateur avec [un·e permanent·e](broken-reference), pour qu'on puisse s'améliorer.
+* [ ] Faire un debrief d'une demi-heure de ton passage à l'Incubateur avec [un·e permanent·e](../../decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/lequipe-danimation-beta.gouv.fr.md), pour qu'on puisse s'améliorer.
 * [ ] Annoncer la date de ton pot de départ sur [#general](https://mattermost.incubateur.net/betagouv/channels/town-square)
 * [ ] [Désactiver ton compte Mattermost](./#que-va-devenir-ton-compte-mattermost)
 

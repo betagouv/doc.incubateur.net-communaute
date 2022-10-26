@@ -29,4 +29,4 @@ Note : Pôle Emploi, les ministères sociaux et de la transition écologique dis
 
 ## Comment bénéficier de ce marché ?
 
-Contactez [l'équipe beta.gouv.fr de la DINUM](broken-reference).
+Contactez [l'équipe beta.gouv.fr de la DINUM](../../../../decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/lequipe-danimation-beta.gouv.fr.md).

@@ -18,7 +18,7 @@ En tant qu'indépendante ou indépendant, il n'y a pas de lien de subordination,
 
 ### Bien-être
 
-* Les sociétés de prestations donnent la possibilité aux _freelances_ de remonter des situations inconfortables. De la même manière, il est possible de remonter une situation inconfortable à [l'équipe d'animation de beta.gouv.fr](broken-reference) ;
+* Les sociétés de prestations donnent la possibilité aux _freelances_ de remonter des situations inconfortables. De la même manière, il est possible de remonter une situation inconfortable à [l'équipe d'animation de beta.gouv.fr](../../decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/lequipe-danimation-beta.gouv.fr.md) ;
 * Les _freelances_ respectent les individus des équipes des sociétés de prestation (politesse, humanité, respect mutuel de la valeur apportée par les jobs de chacun) et inversement.
 
 ### Suivi des missions
