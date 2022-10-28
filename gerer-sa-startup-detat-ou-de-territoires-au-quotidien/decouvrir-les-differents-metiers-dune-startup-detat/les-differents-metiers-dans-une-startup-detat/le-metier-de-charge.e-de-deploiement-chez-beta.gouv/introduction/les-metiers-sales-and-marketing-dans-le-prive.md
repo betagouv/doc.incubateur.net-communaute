@@ -4,6 +4,12 @@ En se référant aux startups privées, il existe au moins 9 métiers qui s’ap
 
 ![](https://lh4.googleusercontent.com/kZ2IifEps-y0I1BentHbMAVBJ84k9N0hQm-JBqkQ2ak6jhYRsfIKAmOwBj-0Poo23HX6XmoKeQ4Gwe3ZupzlpUsJ8aLIEenhaN2VEg0xFrnOSCRaBU-ZzewfKZPxLugt5pVjKa51)
 
+## Webinaire : Comment recruter le bon chargé.e de déploiement / Bizdev
+
+{% embed url="https://youtu.be/6ScoOBIki9A" %}
+
+****[**Slides disponibles ici** ](https://docs.google.com/presentation/d/1C7plE4uDKzLWeIdoF82zvFtaua0uAnB1xtQmstwnAc8/edit?usp=sharing)****
+
 ## **Vendre un produit gratuit**
 
 Il n’y a pas de transaction financière. On propose des services qui sont souvent gratuits pour nos utilisateurs directs.
