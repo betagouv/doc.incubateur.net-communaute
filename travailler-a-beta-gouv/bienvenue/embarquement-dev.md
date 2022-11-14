@@ -7,10 +7,6 @@ description: >-
 
 # Embarquement dev
 
-## Inscris-toi à une session d'accueil pour les Devs
-
-Elle à lieu tous les premiers mardi du mois à 14h. Pour t'inscrire, c'est [ici](https://airtable.com/shrUCbUT72KtKefsu).
-
 ## Identifie tes contacts tech chez beta.gouv.fr
 
 ### L'équipe technique transverse
@@ -18,7 +14,7 @@ Elle à lieu tous les premiers mardi du mois à 14h. Pour t'inscrire, c'est [ici
 Une équipe tech transverse existe au sein de l'incubateur. Son rôle est de s'assurer que les devs de la communauté puissent travailler au mieux et développer des produits impactants et de qualité.
 
 * Anna-Livia Gomart (CPO)
-* Lucas Charrier (Dev transverse)
+* Lucas Charrier (Dev)
 * Philippe Libat (Référent DevOps)
 * Vincent Viers (Responsable Developer Experience)
 
