@@ -112,6 +112,7 @@
     * [Vidéos de révisions](travailler-a-beta-gouv/se-former/certification-des-intrapreneurs/videos-de-revisions.md)
   * [Changer de startup / changer de type de poste](travailler-a-beta-gouv/se-former/changer-de-startup-changer-de-type-de-poste.md)
 * [🙋 Quitter beta.gouv](travailler-a-beta-gouv/au-revoir/README.md)
+  * [Le désembarquement de la communauté](travailler-a-beta-gouv/au-revoir/le-desembarquement-de-la-communaute.md)
   * [Que faire avant la date de fin de ma mission ?](travailler-a-beta-gouv/au-revoir/que-faire-avant-la-date-de-fin-de-ma-mission.md)
   * [Que se passe-t-il après la date de fin de ma mission ?](travailler-a-beta-gouv/au-revoir/que-se-passe-t-il-apres-la-date-de-fin-de-ma-mission.md)
   * [Questions fréquentes](travailler-a-beta-gouv/au-revoir/questions-frequentes.md)
