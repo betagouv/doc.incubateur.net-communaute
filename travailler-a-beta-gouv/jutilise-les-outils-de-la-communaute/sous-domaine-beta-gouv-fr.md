@@ -45,7 +45,7 @@ En cas de problème, vous pouvez trouver de l'aide sur le channel Mattermost `~i
 
 ## Migration hors des noms de domaine \*.beta.gouv.fr
 
-Lorsque ton produit n'est plus en version bêta ou que ta période d'incubation dans le réseau beta.gouv.fr est terminé, il est nécessaire de prévoir une migration vers un sous-domaine plus pérenne. Cette migration concerne les environnements de production, de développement, de tests, staging, etc.
+Lorsque ton produit n'est plus en version bêta ou que ta période d'incubation dans le réseau beta.gouv.fr est terminée, il est nécessaire de prévoir une migration vers un sous-domaine plus pérenne. Cette migration concerne les environnements de production, de développement, de tests, staging, etc.
 
 Si l'administration d'accueil du produit numérique est un ministère, le Service d'information du gouvernement (SIG) recommande d'utiliser le sous-domaine _.ministere.gouv.fr_. Par exemple, ma-cantine.beta.gouv.fr est devenu ma-cantine.agriculture.gouv.fr en septembre 2022.
 
