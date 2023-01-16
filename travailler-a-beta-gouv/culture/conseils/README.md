@@ -37,10 +37,14 @@ Le harcèlement moral ou sexuel est interdit et constitue un délit pénal. A ti
 
 Dès lors que je me sens victime de fait graves, je peux utiliser les recours décrits ci-dessus. Si mes recours à l'équipe ou à la chaîne d'accompagnement n'aboutissent pas, voire **en parallèle si je me sens menacé·e, je fais appel à la cellule d'écoute psychologique ainsi qu'aux services d'assistance juridique proposés par la DINUM à travers Allo Discrim**. Si je suis salarié·e de la DINUM ou d'une autre administration, je peux également me tourner vers les fonctions Ressources Humaines. Dans tous les cas, je suis protégé·e en la matière par la loi, et en cas de harcèlement avéré je dispose de recours de nature civile et pénale.
 
-Coordonnées de la cellule:
+Coordonnées de la cellule :
 
 * numéro non surtaxé 0 800 200 286 - **pour une écoute par des psychologues**
 * site Web [https://allodiscrim.wethics.eu/](https://allodiscrim.wethics.eu/) - code 2018 - **pour un conseil juridique par des avocats**
+
+**Mise en place d'un groupe de soutien interne à beta.gouv.fr :**
+
+Pour rappel un groupe de soutien s'est constitué au sein de la communauté beta.gouv.fr. Les membres du groupes sont disponibles pour vous écouter en cas conflit, mal-être ou souffrance, violence ou harcèlement. Nous sommes joignables à l'adresse mail soutien@beta.gouv.fr.&#x20;
 
 {% content-ref url="independant-victime-de-harcelement-ou-discrimination.md" %}
 [independant-victime-de-harcelement-ou-discrimination.md](independant-victime-de-harcelement-ou-discrimination.md)

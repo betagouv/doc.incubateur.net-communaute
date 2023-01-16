@@ -10,6 +10,8 @@ Cette note vise à aider les équipes à anticiper la présence de dysfonctionne
 
 Si vous vous reconnaissez dans plusieurs éléments mentionnés ci-dessous et que vous avez besoin d’aide, vous pouvez contacter l’[équipe d'animation de beta.gouv.fr](../../decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/lequipe-danimation-beta.gouv.fr.md).
 
+Un groupe de soutien au sein de beta.gouv.fr s'est constitué fin 2022. Nous proposons des écoutes en cas de mal-être au travail. A la suite d'une écoute nous pouvons mettre en place des médiations. Vous pouvez nous contacter directement sur notre boite mail soutien@beta.gouv.fr.&#x20;
+
 ## Liste des signaux faibles <a href="#liste-des-signaux-faibles" id="liste-des-signaux-faibles"></a>
 
 ### Transparence et horizontalité <a href="#transparence-et-horizontalite" id="transparence-et-horizontalite"></a>
