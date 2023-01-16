@@ -25,7 +25,7 @@ Une fiche membre permet aux nouveaux arrivants :
 
 1. Tu renseignes le[ formulaire](https://espace-membre.incubateur.net/onboarding) ;
 2. Ton référent (un membre de ton équipe ou un co-animateur) recevra un email lui demandant de confirmer ton arrivée au sein d'une équipe du réseau beta.gouv ;
-3. Tu reçois un email de bienvenue dans ta boite email personnel qui te permet d'activer ton email @beta.gouv.fr ;
+3. Tu reçois un email de bienvenue dans ta boite email personnel qui te permet d'activer ton email @beta.gouv.fr (le temps de faire passer les tests, cela peut prendre 1/2 heure après l'étape précédente) ;
 4. Notre "bot" recherchera automatiquement [un ou une marraine ](../actions-transverses/marrainage/)au sein de la communauté, qui pourra être ton point de références durant tes premiers mois au cas où tu rencontres des problèmes ;
 5. Si tu as renseigné ton compte Github, tu seras automatiquement ajouté à l'organisation beta.gouv sur Github ;
 6. Tu reçois une invitation pour accéder à notre messagerie collaborative (Mattermost) dans ta boite e-mail @beta.gouv.fr.
