@@ -4,11 +4,15 @@ description: Séminaire en ligne.
 
 # Organiser un webinaire
 
-{% hint style="success" %}
+{% hint style="danger" %}
+Ne pas créer de nouveaux webinaires sur le compte Livestorm (problème de capacité et de financement)
+{% endhint %}
+
+{% hint style="warning" %}
 En priorité, utiliser [**https://webinaire.numerique.gouv.fr/welcome**](https://webinaire.numerique.gouv.fr/welcome) qui a l'avantage de permettre la connexion par téléphone et de tenir la charge pour de nombreuses personnes, sans quota ni facturation.
 {% endhint %}
 
-## **Pas-à-pas pour utiliser Livestorm**
+## ~~**Pas-à-pas pour utiliser Livestorm**~~
 
 {% embed url="https://www.youtube.com/watch?v=SUDu3BHAfpc&list=PLlCxkt1J864bo3kODkJbpc6mPjQCFmZlh&index=2" %}
 
@@ -17,10 +21,10 @@ Ne plus se connecter à Livestorm avec le login contact@api.gouv.fr. Chaque star
 {% endhint %}
 
 {% hint style="success" %}
-Le compte Livestorm est partagé entre toutes les startups, avec une limite globale de 1 000 contacts actifs par mois (inscrits compris). Si vous avez un besoin récurrent d'organiser des webinaires, il convient de créer votre propre compte Livestorm.
+~~Le compte Livestorm est partagé entre toutes les startups, avec une limite globale de 1 000 contacts actifs par mois (inscrits compris). Si vous avez un besoin récurrent d'organiser des webinaires, il convient de créer votre propre compte Livestorm.~~
 {% endhint %}
 
-1. Demander un accès animateur pour créer et lancer un webinaire, en complétant ce formulaire : [https://startupdetat.typeform.com/to/kk7dXULl](https://startupdetat.typeform.com/to/kk7dXULl) . Vous recevrez un mail de confirmation pour vous connecter à Livestorm.
+1. ~~Demander un accès animateur pour créer et lancer un webinaire, en complétant ce formulaire :~~ [~~https://startupdetat.typeform.com/to/kk7dXULl~~](https://startupdetat.typeform.com/to/kk7dXULl) ~~. Vous recevrez un mail de confirmation pour vous connecter à Livestorm.~~
 2. Bien suivre le tutoriel video ainsi que les étapes ci-dessous (une erreur de personnalisation d'e-mail de suivi peut entrainer l'envoi d'une information hors-sujet à des centaines de participants).
 3. Bien s'assurer qu'un autre événement n'a pas déjà été programmé sur le même créneau ou un créneau proche.
 4. Le jour J, l'animateur doit se connecter pour pouvoir lancer et terminer la retransmission. Tous les intervenants doivent être ajoutés au moment de la création du webinaire, avant l'événement.
@@ -30,5 +34,5 @@ Le compte Livestorm est partagé entre toutes les startups, avec une limite glob
 {% hint style="warning" %}
 Ne pas modifier le profil de l'espace de travail pour le personnaliser (nom, adresse de contact, icône, etc.) : il s'agit d'un espace partagé et tous les webinaires en dépendent.\
 \
-On discute de Livestorm sur un [canal Mattermost dédié](https://mattermost.incubateur.net/betagouv/channels/domaine-webinaire-livestorm).&#x20;
+On discute de Livestorm sur un [canal Mattermost dédié](https://mattermost.incubateur.net/betagouv/channels/domaine-webinaire-livestorm).
 {% endhint %}
