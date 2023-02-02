@@ -1,7 +1,7 @@
 # Ressources utiles pour l'investigation
 
 {% hint style="success" %}
-**Modèles vierges** **pour une présentation au comité de fin d'investigation :** [**beta.gouv**](https://docs.google.com/presentation/d/1GckBe4pJrmXxIOCDFVk-\_flMpd0m3iiO7eDsp89FPC8/edit#slide=id.g53cae8ed9a\_0\_110) **/**[ **Atelier numérique culture**](https://drive.google.com/file/d/1pc8DpQ0xTvdRD47uy6oDv6AE2Xa8NDj7/view)\*\*\*\*
+**Modèles vierges** **pour une présentation au comité de fin d'investigation :** [**beta.gouv**](https://docs.google.com/presentation/d/1GckBe4pJrmXxIOCDFVk-\_flMpd0m3iiO7eDsp89FPC8/edit#slide=id.g53cae8ed9a\_0\_110) **/**[ **Atelier numérique culture**](https://docs.google.com/presentation/d/1ox2mgP-NZ5Q6NFTU0JgE_Op0LjciLWZreCuZvtfrVc8/edit?usp=sharing)\*\*\*\*
 {% endhint %}
 
 **Club investigation** [https://pad.incubateur.net/ipUH9oEoRymIEn9Yp\_Xv9g?view](https://pad.incubateur.net/ipUH9oEoRymIEn9Yp\_Xv9g?view)
