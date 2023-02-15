@@ -11,9 +11,7 @@ description: >-
 
 Le conflit, surtout ponctuel, est tout à fait normal au sein d'équipes qui traitent de sujets complexes. Dans une équipe tout le monde n'est pas tout le temps d'accord, et c'est tant mieux. Si l'on recrute des personnes diverses, c'est parce que leur point de vue a de la valeur.
 
-Le conflit prolongé, ou des expressions verbales jugées violentes, peuvent être un signe avant-coureur de choses plus sérieuses. **Ne pas hésiter à en parler à la personne qui coache l'équipe.**
-
-Si c'est le ou la coach avec qui une situation conflictuelle s'installe, il est possible d'**en parler avec une autre personne dans ma chaîne d'accompagnement** (son équipe, son coach, la personne référente de son coach éventuellement, la direction de son incubateur, un·e membre de [l'équipe d'animation de beta](../../../decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/lequipe-danimation-beta.gouv.fr.md)). **On a le droit, de sa propre initiative, "d'escalader" la chaîne si la réponse apportée ne satisfait pas.** C'est évidemment sans exclusivité, et on peut parler de ma situation avec qui bon me semble dans la communauté.
+Le conflit prolongé, ou des expressions verbales jugées violentes, peuvent être un signe avant-coureur de choses plus sérieuses.&#x20;
 
 ## Mal-être ou souffrance
 
@@ -25,8 +23,6 @@ Si par exemple je me suis investi·e émotionnellement dans un produit auquel je
 
 Je ne suis pas seul·e responsable de mes conditions de succès ; si je suis recruté·e c'est sur décision d'autres personnes, qui y ont une part de responsabilité, et j'ai quoi qu'il en soit droit à une expérience de travail sereine et dans de bonnes conditions.
 
-**J'en parle à mon équipe dès les premiers signes ; je fais appel à ma chaîne d'accompagnement ; je dispose d'un droit de retrait.**
-
 ## Violence ou harcèlement
 
 Le mal-être ou la souffrance exigent une réponse rapide, et peuvent être pris en charge dans le cadre de confiance qu'est l'équipe. C'est plus difficile lorsqu'il s'agit de faits relevant de diverses formes de violence : propos sexistes ou dégradants, faits pouvant relever du harcèlement moral, discrimination, etc.
@@ -35,16 +31,31 @@ Les comportements abusifs ne sont pas tolérés. Est notamment estimée abusive 
 
 Le harcèlement moral ou sexuel est interdit et constitue un délit pénal. A titre de référence, nous renvoyons à la politique anti-harcèlement formulée dans le [Geek Feminism wiki](https://geekfeminism.wikia.org/wiki/Conference\_anti-harassment/Policy).
 
-Dès lors que je me sens victime de fait graves, je peux utiliser les recours décrits ci-dessus. Si mes recours à l'équipe ou à la chaîne d'accompagnement n'aboutissent pas, voire **en parallèle si je me sens menacé·e, je fais appel à la cellule d'écoute psychologique ainsi qu'aux services d'assistance juridique proposés par la DINUM à travers Allo Discrim**. Si je suis salarié·e de la DINUM ou d'une autre administration, je peux également me tourner vers les fonctions Ressources Humaines. Dans tous les cas, je suis protégé·e en la matière par la loi, et en cas de harcèlement avéré je dispose de recours de nature civile et pénale.
+## Les actions possibles
 
-Coordonnées de la cellule :
+*   **Discuter avec les personnes de sa chaîne d'accompagnement :**
 
-* numéro non surtaxé 0 800 200 286 - **pour une écoute par des psychologues**
-* site Web [https://allodiscrim.wethics.eu/](https://allodiscrim.wethics.eu/) - code 2018 - **pour un conseil juridique par des avocats**
+    * Membre de son équipe
+    * Coach de l'équipe
+    * direction de l'incubateur
+    * un·e membre de [l'équipe d'animation de beta](../../../decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/lequipe-danimation-beta.gouv.fr.md)
 
-**Mise en place d'un groupe de soutien interne à beta.gouv.fr :**
+    On a le droit, de sa propre initiative, "d'escalader" la chaîne si la réponse apportée ne satisfait pas.
+*   **Contacter le groupe de soutien :** constitué de membres de la communauté, ses membres sont disponibles pour vous écouter en respectant la confidentialité de votre situation en cas de conflit, mal-être ou souffrance, violence ou harcèlement.
 
-Pour rappel un groupe de soutien s'est constitué au sein de la communauté beta.gouv.fr. Les membres du groupes sont disponibles pour vous écouter en cas conflit, mal-être ou souffrance, violence ou harcèlement. Nous sommes joignables à l'adresse mail soutien@beta.gouv.fr.&#x20;
+    Ils sont joignables à l'adresse mail **soutien@beta.gouv.fr** ou individuellement.
+
+    Les membres du groupe de soutien sont : Anne Poirot, Bréanne Mallat, Camille Garrigue, Caroline Lawson, Clémence Lopez, Denis Baudot, Florian Briand, Mélodie Dahi, Rebecca Dumazert.
+* **Contacter les fonctions Ressources Humaines** si je suis salarié·e de la DINUM ou d'une autre administration.
+* **Faire appel à la ligne d'écoute psychologique** proposée par la DINUM : numéro non-surtaxé 0 800 200 286
+* **Contacter les** **services d'assistance juridique proposés par la DINUM à travers Allo Discrim :** site Web [https://allodiscrim.wethics.eu/](https://allodiscrim.wethics.eu/) - code 2018
+
+Dans tous les cas :&#x20;
+
+* je suis protégé·e en la matière par la loi, et en cas de harcèlement avéré je dispose de recours de nature civile et pénale.
+* je dispose d'un droit de retrait.
+
+
 
 {% content-ref url="independant-victime-de-harcelement-ou-discrimination.md" %}
 [independant-victime-de-harcelement-ou-discrimination.md](independant-victime-de-harcelement-ou-discrimination.md)
