@@ -27,7 +27,7 @@
 
 ### Comment orienter l’équipe pour lui permettre d’aller plus vite en restant zen ?
 
-* Renvoyer vers cette documentation :&#x20;
+* Renvoyer vers cette documentation :
 
 {% content-ref url="./" %}
 [.](./)
@@ -39,10 +39,33 @@
 
 ### Qui prévenir à la DINUM ?
 
-* En cas d’alerte rouge (et après un diagnostic avec l’équipe de la Startup d'Etat concernée), l’équipe d’Ops transverse doit prévenir :&#x20;
+* En cas d’alerte rouge (et après un diagnostic avec l’équipe de la Startup d'Etat concernée), l’équipe d’Ops transverse doit prévenir :
   * Le responsable Sécurité de la DINUM
   * Le correspondant DPO
 
 {% hint style="info" %}
 Leurs coordonnées sont épinglés dans le canal de discussion privé de l'équipe d'Ops transverse
 {% endhint %}
+
+### Comment puis-je contribuer au dépilage du backlog Git Guardian ?
+
+#### Qu'est-ce que Git Guardian ?
+
+Git Guardian est un outil permettant d'être alerté lors d'une fuite de données (clefs d'API, token, variables d'environnement...).
+
+Si vous souhaitez contribuer activement à la veille sur les fuites de données et être ajouté·e au tableau de bord Git Guardian de beta, contactez Anna-Livia Gomart ou Julien Dauphant.
+
+#### Comment traiter un ticket Git Guardian ?
+
+* Seuls les tickets dont le statut est à Triggered sont à traiter. Les tickets de sévérité élevée (de critical à unknown) doivent être traités en premier, puis les plus récents en premier.
+* &#x20;Une fois le ticket choisi, vérifier que personne n'a déjà traité le sujet : parcourez les messages postés sur le channel Mattermost \~domaine-secu depuis la date de la fuite, et vérifiez que personne n'a encore prévenu l'équipe concernée.
+* Si personne n'a prévenu l'équipe, copiez le lien de partage de votre alerte sur GitGuardian (cliquer sur le rapport de l'incident > aller à "Collect feedback" dans le menu de droite, paragraphe Sharing > activer le Incident is not shared)
+* Rejoignez le canal de l'équipe sur Mattermost, et postez ce lien de feedback, avec un message comme celui-ci :
+
+> :wave: Gestion du backlog Git Guardian:wave:
+>
+> Il y a un certain nombre d'alertes gitguardian sur votre repo qui datent un peu mais j'aimerais qu'elle soient traitées. :) Est-ce que vous pouvez investiguer et remplir le formulaire sur chacune d'ici le \{{aujourd'hui + 1 semaine\}} ?
+>
+> \{{Liens vers les alertes Git Guardian\}}
+
+* Prévenez sur \~domaine-secu que vous avez informé l'équipe, en précisant la date butoir à laquelle l'équipe doit avoir rempli le feedback.
