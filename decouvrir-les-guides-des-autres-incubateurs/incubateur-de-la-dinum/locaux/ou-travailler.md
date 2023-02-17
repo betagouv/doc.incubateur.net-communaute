@@ -21,7 +21,7 @@ ETAP est le 1er espace de coworking entièrement dédié aux agents publics, mai
 
 Lien d'inscription / réservation : [https://etap-prefecture-idf.cosoft.fr/LogOn#register](https://etap-prefecture-idf.cosoft.fr/LogOn#register)
 
-<figure><img src="../../../.gitbook/assets/spaces_-M4-Pru_Xyamh27tzw85_uploads_git-blob-ee751e6b19dd184a22e7abf44c8b737e435fc884_Capture d’écran 2021-11-03 à 12.33.38.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/spaces_-M4-Pru_Xyamh27tzw85_uploads_git-blob-ee751e6b19dd184a22e7abf44c8b737e435fc884_Capture d’écran 2021-11-03 à 12.33.38.png" alt=""><figcaption></figcaption></figure>
 
 ### Le lieu de la DITP
 
