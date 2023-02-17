@@ -1,4 +1,4 @@
-# 🧑⚖ Cadrer juridiquement son produit
+# 🧑⚖ 🧑⚖ 🧑⚖ Cadrer juridiquement son produit
 
 ## RGPD
 
@@ -12,10 +12,10 @@
 [foire-aux-questions-sur-la-mise-en-conformite-des-services-numeriques](../je-securise-mon-produit/foire-aux-questions-sur-la-mise-en-conformite-des-services-numeriques/)
 {% endcontent-ref %}
 
-## Conventions
+## Expérimentation & Startup d’État
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="lexperimentation-difference-entre-le-sens-commun-et-la-definition-juridique.md" %}
+[lexperimentation-difference-entre-le-sens-commun-et-la-definition-juridique.md](lexperimentation-difference-entre-le-sens-commun-et-la-definition-juridique.md)
 {% endcontent-ref %}
 
 ## Fiches synthétiques
