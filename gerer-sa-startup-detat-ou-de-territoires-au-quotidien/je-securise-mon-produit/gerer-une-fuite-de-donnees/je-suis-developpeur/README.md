@@ -19,13 +19,14 @@ Reste concentré sur les actions à prendre, ne reste pas isolé, demande de l'a
 ## 1. Immédiatement - Résoudre la fuite
 
 1. **Faire l'inventaire des données disponibles en ligne**
-2. **Couper l'accès aux données en ligne en priorisant vos actions sur les données personnelles**&#x20;
-3. **Couper les autres accès**&#x20;
+2. **Couper l'accès aux données en ligne en priorisant vos actions sur les données personnelles**
+3. **Couper les autres accès**
 4. **Supprimer les données ou les accès de github/gitlab**
+   * lien utile : [supprimer les données de github](supprimer-des-donnees-sensibles-accidentellement-pushees-dans-github.md)
 
 ### Quels sont les bons réflexes à adopter (et parfois négligés) ?
 
-Vérifier les risques associés à chaque service (liste non exhaustive) :&#x20;
+Vérifier les risques associés à chaque service (liste non exhaustive) :
 
 * Mailjet
   * La liste des emails, les noms sont disponible à partir de la clé API
@@ -40,8 +41,8 @@ Vérifier les risques associés à chaque service (liste non exhaustive) :&#x20;
 
 ### La forme du rapport d'incident
 
-{% content-ref url="modele-de-rapport-dincident.md" %}
-[modele-de-rapport-dincident.md](modele-de-rapport-dincident.md)
+{% content-ref url="../modele-de-rapport-dincident.md" %}
+[modele-de-rapport-dincident.md](../modele-de-rapport-dincident.md)
 {% endcontent-ref %}
 
 * Il existe un modèle de rapport conçu pour ces situations. Il n'a pas vocation à être technique car il s’adresse à un public non-technique. Ce rapport vise à informer des risques.
@@ -51,10 +52,10 @@ Vérifier les risques associés à chaque service (liste non exhaustive) :&#x20;
 
 ### Les destinataires du rapport d'incident
 
-S'il y a fuite de donnée personnelle (soupçonnée ou avérée)&#x20;
+S'il y a fuite de donnée personnelle (soupçonnée ou avérée)
 
 {% hint style="info" %}
-**Le DPO à 72h pour déclarer une fuite ou une suspicion de fuite** de données personnelles auprès de la CNIL.
+**Le DPO a 72h pour déclarer une fuite ou une suspicion de fuite** de données personnelles auprès de la CNIL.
 {% endhint %}
 
 ## Mesurer les conséquences

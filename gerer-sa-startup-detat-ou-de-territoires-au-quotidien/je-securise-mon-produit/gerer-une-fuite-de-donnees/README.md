@@ -9,8 +9,8 @@ description: >-
 
 ## Quel est ton profil ?
 
-{% content-ref url="je-suis-developpeur.md" %}
-[je-suis-developpeur.md](je-suis-developpeur.md)
+{% content-ref url="je-suis-developpeur/" %}
+[je-suis-developpeur](je-suis-developpeur/)
 {% endcontent-ref %}
 
 {% content-ref url="je-ne-suis-pas-developpeur.md" %}
