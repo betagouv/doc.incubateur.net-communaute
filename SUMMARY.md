@@ -90,7 +90,7 @@
   * [Problèmes fréquents](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/problemes-frequents.md)
 * [🖖 Participer à la vie de la communauté](travailler-a-beta-gouv/actions-transverses/README.md)
   * [Le forum beta.gouv.fr](travailler-a-beta-gouv/actions-transverses/rituels/seminaire.md)
-  * [Devenir marrain·e d'une nouvelle recrue](travailler-a-beta-gouv/actions-transverses/marrainage/README.md)
+  * [Accueillir de nouvelles recrues](travailler-a-beta-gouv/actions-transverses/marrainage/README.md)
   * [Partager ses apprentissages](travailler-a-beta-gouv/actions-transverses/partager-ses-apprentissages/README.md)
     * [Ecrire un article sur le blog de beta.gouv.fr](travailler-a-beta-gouv/actions-transverses/partager-ses-apprentissages/retours-dexperience.md)
     * [Proposer une démonstration de son produit](travailler-a-beta-gouv/actions-transverses/partager-ses-apprentissages/mardi-demo.md)

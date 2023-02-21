@@ -5,10 +5,8 @@
 La communauté beta.gouv vit grâce à ses membres. C’est pourquoi chaque membre de la communauté peut utiliser jusqu’à 10% du temps consacré à sa Startup d’État pour participer à des activités transverses en facturant sur sa mission.
 
 \
-Les activités transverses permettent de prendre un peu de recul sur la mission, de connaître d’autres personnes, d’apprendre des choses et de partager son expérience.&#x20;
-
-\
-Par exemple, une développeuse travaillant 10 jours par mois pour sa Startup d’Etat peut consacrer 1 journée à une action transverse en facturant sur sa mission actuelle.
+Les activités transverses permettent de prendre un peu de recul sur la mission, de connaître d’autres personnes, d’apprendre des choses et éventuellement de sortir de son métier. Cela permet de participer à la communauté dans une autre forme que celle de son travail quotidien.\
+Par exemple, une développeuse travaillant 10 jours par mois pour sa Startup d’Etat peut consacrer 1 journée à une action transverse.
 
 ## Les actions pour la communauté
 
@@ -20,8 +18,6 @@ N'hésite pas à t'investir dans les actions suivantes, c'est ouvert à tout le 
 [seminaire.md](rituels/seminaire.md)
 {% endcontent-ref %}
 
-Tu peux consulter les dates des prochains forums dans l'agenda public.
-
 #### ⭐️ Devenir marraine/parrain d'une nouvelle recrue
 
 {% content-ref url="marrainage/" %}
@@ -30,12 +26,14 @@ Tu peux consulter les dates des prochains forums dans l'agenda public.
 
 #### ⭐️ Participer à un club de partage d'expérience
 
-L'incubateur de la DINUM propose plusieurs rencontres de partage d'expérience entre personnes ayant des rôles similaires : c'est ce que nous appelons les **clubs**. Ils ont lieu lors du forum mensuel, tous les premiers jeudi du mois à 16h.
+L'incubateur de la DINUM propose plusieurs rencontres de partage d'expérience entre personnes ayant des rôles similaires : c'est ce que nous appelons les **clubs**.
 
-* Club dev : partage sur les pratiques de développement informatiques 🔒`#domaine-dev`&#x20;
-* Club coach : comment accompagner une startup d'état 🔒`#incubateur-coaching`&#x20;
+* Club dev : partage sur les pratiques de développement informatiques 🔒`#domaine-dev` - 2ème mercredi du mois de 10h30 à 12h
+* Club coach : comment accompagner une startup d'état 🔒`#incubateur-coaching` - 1ème mercredi du mois de 10h30 à 12h)
 * Club bizdev : comment déployer les startups 🔒`#incubateur-bizdev`
 * Club intra : comment les agents publiques créent leurs startups 🔒`#domaine-intrapreneurs`
+
+Tu peux consulter les dates des prochains clubs dans l'agenda public.
 
 #### ⭐️ Partager ses apprentissages avec la communauté et le grand public
 

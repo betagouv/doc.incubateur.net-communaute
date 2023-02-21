@@ -1,39 +1,38 @@
 ---
 description: >-
-  Toute personne membre de beta.gouv depuis plus de six mois peut marrainer un
-  ou plusieurs nouveaux arrivants.
+  Toute personne membre de beta.gouv depuis plus de six mois peut participer à
+  l'embarquement de nouveaux arrivants.
 ---
 
-# Devenir marrain·e d'une nouvelle recrue
+# Accueillir de nouvelles recrues
 
-## Je suis une nouvelle recrue
+### Je suis une nouvelle recrue
 
-Le site de l'espace membre ([https://espace-membre.incubateur.net/](https://espace-membre.incubateur.net)) va te trouver automatiquement une marraine ou un marrain, tu recevras un mail lorsque l'appariement sera fait.
+Le site de l'espace membre ([https://espace-membre.incubateur.net/](https://espace-membre.incubateur.net)) va t'affecter à un groupe de nouvelles recrues et un membre de la communauté qui vous accueillera dans la communauté beta.gouv. Tu recevras un mail lorsque l'appariement sera fait.
 
-## Je suis la personne qui a recruté la nouvelle recrue
+### Je suis la personne ayant recruté&#x20;
 
-A chaque personne embarquée, le site de l'espace membre ([https://espace-membre.incubateur.net/](https://espace-membre.incubateur.net)) va trouver automatiquement une marraine ou un marrain. Tu peux suivre sur la fiche de la personne l'état en cours des recherches.
+En plus de l'embarquement au sein de son équipe, nous recommandons de laisser la nouvelle recrue participer à l'embarquement au sein de la communauté afin qu'elle puisse découvrir ses ressources et rencontrer de nouvelles personnes.
 
-Même si en tant que personne recruteuse, tu as déjà pu guider la nouvelle recrue, nous recommandons de laisser cette-dernière rencontrer un·e marrain·e qui ne fait pas partie de son équipe directe afin qu'elle puisse découvrir d'autres facettes de beta.gouv.fr.
+## Je souhaite accueillir de nouvelles recrues au sein de la communauté beta
 
-## Je suis marrain·e
+Pour devenir volontaire il te suffit de le faire savoir dans le canal mattermost [\~incubateur-embarquement](https://mattermost.incubateur.net/betagouv/channels/incubateur-marraine-parrain) ou par mail à animation@beta.gouv.fr.&#x20;
 
-En tant que marrain·e, tu t'engages à :
+* En tant que volontaire, tu t'engages à organiser une visio d'1 heure avec ta cohorte de nouvelles recrues pour :&#x20;
+  * présenter l’écosystème de beta.gouv
+  * présenter les personnes ressources
+  * présenter les outils de la communauté
 
-* Présenter à la nouvelle recrue d'autres équipes et produits.
+{% hint style="success" %}
+Voici [le guide des volontaires](https://docs.google.com/presentation/d/1h1gIAkghpSUpNWZZxCgvDLlKTnPJIzFV\_pcX2WGtR\_I/edit?usp=sharing) pour embarquer de nouvelles personnes dans la communauté ✨
+{% endhint %}
 
-> N'hésite pas à faire le tour des équipes sur place pour faire connaissance en chair et en os. Vous pouvez faire le tour de Mattermost
-
-* Présenter le réseau beta.gouv, son histoire et son mode de fonctionnement.
+* Si tu le souhaites, tu peux aussi :
+  * Présenter à la nouvelle recrue d'autres équipes et produits.
+  * Présenter le réseau beta.gouv, son histoire et son mode de fonctionnement.
 
 > En attendant la sortie d'un ouvrage collectif officiel 📖, n'hésite pas à raconter ta propre histoire au sein de beta.gouv.fr.\
 > Si tu ne connais pas l'histoire de beta.gouv, c'est le moment de l'apprendre avec ton ou ta filleul·e !
 
 * Rester dispo pour répondre à toutes les questions de la nouvelle recrue
 * Proposer à la nouvelle recrue de faire le point un mois après son arrivée
-
-**Si ce n'est pas déjà fait, tu peux gérer l'embarquement de ton ou ta filleul·e en suivant le lien suivant :**
-
-{% content-ref url="../../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/embarquement-par-le-recruteur.md" %}
-[embarquement-par-le-recruteur.md](../../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/embarquement-par-le-recruteur.md)
-{% endcontent-ref %}
