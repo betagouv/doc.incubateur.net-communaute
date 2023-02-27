@@ -24,7 +24,7 @@ Le programme _beta.gouv.fr_ en 2022, en quelques chiffres :
 #### &#x20;:handshake: Une communauté qui grandit&#x20;
 
 > * 2 nouvelles administrations ont rejoint le réseau et diffusent la méthode [beta.gouv.fr](http://beta.gouv.fr/) au cœur des ministères et opérateurs de l’État
-> * de 1000 membres sont actifs dans la communauté, qui poursuit sa décentralisation avec de nouveaux locaux Lyon
+> * \+ de 1000 membres sont actifs dans la communauté, qui poursuit sa décentralisation avec de nouveaux locaux Lyon
 
 #### :moneybag: Un fonds revisité&#x20;
 
