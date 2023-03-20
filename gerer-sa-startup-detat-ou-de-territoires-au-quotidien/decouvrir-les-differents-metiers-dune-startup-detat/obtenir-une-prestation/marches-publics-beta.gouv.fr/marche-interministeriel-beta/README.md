@@ -9,7 +9,7 @@ description: >-
 
 ## Où trouver le cahier des charges de ce marché ?
 
-{% embed url="https://www.data.gouv.fr/fr/datasets/realisation-de-services-publics-numeriques-en-mode-produit-coordonnes-par-le-programme-interministeriel-beta-gouv/" %}
+Le cahier des charges est accessible sur [data.gouv.fr.](https://www.data.gouv.fr/fr/datasets/realisation-de-services-publics-numeriques-en-mode-produit-coordonnes-par-le-programme-interministeriel-beta-gouv/)&#x20;
 
 ## Qui peut bénéficier de ce marché ?
 
