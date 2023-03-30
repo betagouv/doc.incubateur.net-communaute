@@ -88,11 +88,11 @@ Plus de détails sur nos standards technologiques [ici](https://doc.incubateur.n
 
 ### Standards d'Accessibilité
 
-{% content-ref url="../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/accessibilite-et-rgaa/kit-accessibilite/" %}
-[kit-accessibilite](../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/accessibilite-et-rgaa/kit-accessibilite/)
+{% content-ref url="../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/construire-un-service-accessible-et-inclusif/accessibilite-et-rgaa/kit-accessibilite/" %}
+[kit-accessibilite](../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/construire-un-service-accessible-et-inclusif/accessibilite-et-rgaa/kit-accessibilite/)
 {% endcontent-ref %}
 
-:student: Plusieurs [formations](../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/accessibilite-et-rgaa/formation-a-laccessibilite/) sont à ta disposition, n'hésite pas à t'y inscrire ! Nous auditons aussi régulièrement les produits de la communauté.
+:student: Plusieurs [formations](../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/construire-un-service-accessible-et-inclusif/accessibilite-et-rgaa/formation-a-laccessibilite/) sont à ta disposition, n'hésite pas à t'y inscrire ! Nous auditons aussi régulièrement les produits de la communauté.
 
 ### Standards Sécurité
 

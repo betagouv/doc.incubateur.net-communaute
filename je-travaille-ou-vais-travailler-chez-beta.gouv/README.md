@@ -52,8 +52,8 @@
 [guide-rgpd-et-securite.md](../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-securise-mon-produit/guide-rgpd-et-securite.md)
 {% endcontent-ref %}
 
-{% content-ref url="../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/accessibilite-et-rgaa/" %}
-[accessibilite-et-rgaa](../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/accessibilite-et-rgaa/)
+{% content-ref url="../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/construire-un-service-accessible-et-inclusif/accessibilite-et-rgaa/" %}
+[accessibilite-et-rgaa](../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/construire-un-service-accessible-et-inclusif/accessibilite-et-rgaa/)
 {% endcontent-ref %}
 
 {% content-ref url="../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/" %}

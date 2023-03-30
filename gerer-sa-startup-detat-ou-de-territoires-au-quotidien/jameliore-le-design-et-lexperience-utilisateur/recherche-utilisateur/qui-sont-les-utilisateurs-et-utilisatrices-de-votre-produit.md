@@ -1,8 +1,4 @@
----
-description: Exploration > Persona
----
-
-# Qui sont les utilisateurs et utilisatrices de votre produit ?
+# Identifier les utilisateurs et utilisatrices de son service
 
 ### Pourquoi ?
 

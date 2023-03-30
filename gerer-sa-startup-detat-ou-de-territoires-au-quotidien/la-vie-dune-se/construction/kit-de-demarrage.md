@@ -28,18 +28,18 @@ Si tu viens de rejoindre la communauté, pense aussi à t'inscrire [à la procha
 
     * Ces langages sont flexibles, sécurisés et faciles à prendre en main lors de l'accélération ou du transfert du produit.
     * Il est facile de trouver des personnes compétentes pour aider.
-    * Des templates et librairies intégrant le [Design System de l'État](broken-reference) existent déjà : [template Express](https://github.com/betagouv/template-design-system-de-l-etat), [librairie Django](https://github.com/entrepreneur-interet-general/django-dsfr)
+    * Des templates et librairies intégrant le [Design System de l'État](broken-reference/) existent déjà : [template Express](https://github.com/betagouv/template-design-system-de-l-etat), [librairie Django](https://github.com/entrepreneur-interet-general/django-dsfr)
 
-    Si vous avez des besoins qui ne sont pas couverts par ces langages, discutez-en avec l'équipe technique de BetaGouv.&#x20;
+    Si vous avez des besoins qui ne sont pas couverts par ces langages, discutez-en avec l'équipe technique de BetaGouv.
 * **Gestionnaire de versions** : _Git_ avec [le compte github de beta.gouv.fr](https://github.com/betagouv).
 * **Design System** : le Design System de l'État dont les composants sont accessibles nativement.
-  * Documentation du [design system](https://gouvfr.atlassian.net/wiki/spaces/DB/pages/223019574/D+veloppeurs)&#x20;
+  * Documentation du [design system](https://gouvfr.atlassian.net/wiki/spaces/DB/pages/223019574/D+veloppeurs)
   * Démo sur [template.incubateur.net](https://template.incubateur.net)
   * [Librairies](https://template.incubateur.net/ressources) (Django...)
-* **Hébergement** : ce choix dépend du type de données hébergées.&#x20;
+* **Hébergement** : ce choix dépend du type de données hébergées.
   * Plusieurs options disponibles sont décrites dans la section dédiée à l'[infra](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/infra#services-pratiques-pour-lancer-un-site-web)
-* **Intégration et déploiement continus (CI / CD)** :&#x20;
-  * _Circle CI_ lié à l'organisation betagouv sur github.&#x20;
+* **Intégration et déploiement continus (CI / CD)** :
+  * _Circle CI_ lié à l'organisation betagouv sur github.
   * _Github Actions_, utilisées par de plus en plus d'équipes.
 * **Suivi des erreurs** : _Sentry_
   * Un compte est à disposition des équipes (invitation sur [#incubateur-ops](https://mattermost.incubateur.net/login?redirect\_to=%2Fbetagouv%2Fchannels%2Fincubateur-ops))
@@ -48,7 +48,7 @@ Si tu viens de rejoindre la communauté, pense aussi à t'inscrire [à la procha
 
 ## Standards de qualité beta.gouv.fr
 
-Les standards de qualité beta.gouv.fr sont référencés à la page ci-dessous.&#x20;
+Les standards de qualité beta.gouv.fr sont référencés à la page ci-dessous.
 
 {% hint style="warning" %}
 Ne pas respecter les standards de qualité devra être justifié.
@@ -72,15 +72,15 @@ Dans le cadre du travail avec l'administration, il est important de connaitre le
 [guide-rgpd-et-securite.md](../../je-securise-mon-produit/guide-rgpd-et-securite.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../jameliore-le-design-et-lexperience-utilisateur/accessibilite-et-rgaa/" %}
-[accessibilite-et-rgaa](../../jameliore-le-design-et-lexperience-utilisateur/accessibilite-et-rgaa/)
+{% content-ref url="../../construire-un-service-accessible-et-inclusif/accessibilite-et-rgaa/" %}
+[accessibilite-et-rgaa](../../construire-un-service-accessible-et-inclusif/accessibilite-et-rgaa/)
 {% endcontent-ref %}
 
 Nous proposons aussi des formations dédiée : contactez l'équipe technique de beta pour plus d'informations.
 
 ## Demander de l'aide
 
-Il est crucial de ne pas rester seul face à des choix technologiques potentiellement structurants pour la suite du produit — surtout lorsqu'on est le premier profil technique recruté sur une Startup d'Etat. Tu peux t'appuyer sur de multiples ressources au sein de la communauté :
+Il est crucial de ne pas rester seul face à des choix technologiques potentiellement structurants pour la suite du produit — surtout lorsqu'on est le premier profil technique recruté sur une Startup d'Etat. Tu peux t'appuyer sur de multiples ressources au sein de la communauté :
 
 ### L'équipe technique de beta
 
