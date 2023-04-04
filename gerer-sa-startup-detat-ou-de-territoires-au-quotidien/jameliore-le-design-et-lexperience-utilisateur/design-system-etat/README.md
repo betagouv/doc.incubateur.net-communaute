@@ -1,43 +1,29 @@
 ---
-description: Utiliser le système de design de l'État
+description: Utiliser l'identité graphique de l'État
 ---
 
-# Utiliser l'identité graphique de l'État
+# Utiliser le Design System de l'État
 
 ## Utiliser le Design System de l'État
 
-{% hint style="success" %}
-\*\*\*\*[**Documentation officielle**](https://www.systeme-de-design.gouv.fr) **contient :**
+Le [DSFR](https://www.systeme-de-design.gouv.fr/), ou encore [Système de Design de l'État](https://www.systeme-de-design.gouv.fr/) est développé et maintenu par le SIG (Service d’Information du Gouvernement). Il se compose de :
 
-* des **librairies** pour les designers (Sketch et Figma)
-* un **package** NPM pour les devs
-* une documentation sur les **fondamentaux** et chaque **composant**
-* la **typographie** Marianne
-{% endhint %}
+* **composants** HTML, CSS et JS
+* **librairies** Figma et Sketch
+* une **documentation**
+* des **typographies** (Marianne et Spectral)
 
-{% hint style="success" %}
-**La documentation de l'incubateur** [**template.incubateur.net**](https://template.incubateur.net) **contient :**
-
-* une démonstration du DSFR et de ses composants
-* des sites utilisant le DSFR pour **inspiration**
-* un annuaire de **librairies** (Django, VueJS...) portant le DSFR
+{% hint style="info" %}
+[Documentation officielle](https://www.systeme-de-design.gouv.fr/)
 {% endhint %}
 
 ### Pourquoi utiliser le Design System de l'État ?
 
-> Un _Design System_ (DS) est un ensemble de composants réutilisables, guidé par une gouvernance et des standards, pouvant être assemblés pour construire plusieurs sites internet.
-
 Le Design System de l'État permet de :
 
-* Proposer **des** **éléments prêts à l’emploi** pour les designers et les développeurs.
+* Faciliter et accélérer le développement de services numériques, grâce à **des** **éléments prêts à l’emploi** pour les designers et les développeurs.
+* Améliorer l'accessibilité des services numériques de l'État, grâce à des composants nativement accessibles.
 * Améliorer la relation de confiance entre l'État et citoyen grâce à **une identité "officielle" et rassurante**.
-
-Concrètement, ça permet aussi de :
-
-* Ne pas se prendre la tête si vous n’avez pas commencé les devs.
-* Ne pas réinventer la roue.
-* Développer des services plus accessibles.
-* Se concentrer sur les parcours utilisateurs !
 
 ### Quelles obligations ?
 
@@ -47,14 +33,16 @@ Les applications métiers, intranets, applications mobiles ne sont **pas encore*
 
 ### Contribuer au DSFR
 
-En rejoignant la [communauté ](https://gouvfr.slack.com)du DSFR vous pourrez :
+En rejoignant la [communauté ](https://gouvfr.slack.com)du DSFR sur le **Slack** **officiel**, vous pourrez :
 
 * obtenir de l’aide et de l’assistance du SIG ou des personnes utilisant le DSFR
 * partager avec d’autres designers et d’autres développeurs
 * être tenu au courant des dernières nouveautés et des prochaines livraisons
 * contribuer aux évolutions du système de design de l’État
 
-[Rejoignez la communauté DSFR](https://gouvfr.slack.com) avec votre adresse @beta.gouv.fr
+Pour rejoindre le Slack du DSFR, [faire une demande](https://gouvfr.atlassian.net/servicedesk/customer/portal/1/group/1/create/9) auprès du SIG.&#x20;
+
+
 
 ## À propos de la marque État
 

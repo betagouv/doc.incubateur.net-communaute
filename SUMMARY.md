@@ -220,8 +220,9 @@
   * [Gérer sa fiche produit](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-gere-mon-produit-et-son-impact/gerer-sa-fiche-produit.md)
   * [Repérer une situation dysfonctionnelle](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-gere-mon-produit-et-son-impact/situation-dysfonctionnelle.md)
 * [💎 Améliorer le design et l'expérience utilisateur](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/README.md)
-  * [Utiliser l'identité graphique de l'État](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/design-system-etat/README.md)
-    * [Le Bloc Marque](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/design-system-etat/le-bloc-marque.md)
+  * [Utiliser le Design System de l'État](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/design-system-etat/README.md)
+    * [Faire un service accessible avec le DSFR](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/design-system-etat/faire-un-service-accessible-avec-le-dsfr.md)
+    * [L'entête du DSFR](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/design-system-etat/le-bloc-marque.md)
   * [Mener la recherche utilisateur](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/recherche-utilisateur/README.md)
     * [Identifier les utilisateurs et utilisatrices de son service](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/recherche-utilisateur/qui-sont-les-utilisateurs-et-utilisatrices-de-votre-produit.md)
     * [Auditer l'expérience utilisateur de son service](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/recherche-utilisateur/auditer-lexperience-utilisateur-de-son-service.md)
@@ -324,6 +325,7 @@
   * [Mise en conformité RGPD et coaching juridique](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-sollicite-de-laide-transverse/mise-en-conformite-rgpd-et-conseil-juridique.md)
   * [Aide transverse - Growth Hacking](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-sollicite-de-laide-transverse/growth-hacking-acquisition.md)
   * [Aide transverse - Data Science](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-sollicite-de-laide-transverse/data-science.md)
+  * [Aide transverse - Pole Numérique Inclusif](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-sollicite-de-laide-transverse/aide-transverse-pole-numerique-inclusif.md)
   * [Demander de l’aide](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-sollicite-de-laide-transverse/demander-de-laide.md)
 
 ## Découvrir les guides des incubateurs <a href="#decouvrir-les-guides-des-autres-incubateurs" id="decouvrir-les-guides-des-autres-incubateurs"></a>

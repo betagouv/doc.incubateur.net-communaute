@@ -20,12 +20,7 @@ Si votre service numérique fait partie du réseau beta.gouv.fr, vous avez accè
 
 * **Accompagnement sécurité** : atelier homologation de sécurité, aide ponctuelle. Pour déclencher cet accompagnement, contactez un membre de [l'équipe d'animation de beta.gouv.fr](../../decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/lequipe-danimation-beta.gouv.fr.md).
 * **Entrainement aux comités d'investissement, démos , accompagnement stratégique sur des sujets complexes** (blocages administratifs ou politiques, structuration d'un incubateur, montée d'une gouvernance complexe pour une Startup d'Etat). Pour déclencher cet accompagnement, contactez un membre de l'[équipe d'animation de beta.gouv.fr](../../decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/lequipe-danimation-beta.gouv.fr.md).
-* **Intervention UX / accessibilité** : 2 mois max par produit
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
+* **Intervention Accessibilité** :&#x20;
 * **Accompagnement à l'accélération de son produit** : le programme Gamma sélectionne tous les 3 mois des produits à haut potentiel pour les aider à maximiser leur impact.
 
 {% content-ref url="../la-vie-dune-se/acceleration/programme-gamma.md" %}
