@@ -42,7 +42,7 @@ Si un composant n’existe pas, il est possible de créer ses propres composants
 Les différents états (survol, focus, cliqué, intéractions…) doivent être documentés.
 
 {% hint style="info" %}
-👉 [**Documenter l’accessibilité en phase de design**](https://pad.incubateur.net/) **** par Stéphanie Walter
+👉 [**Documenter l’accessibilité en phase de design**](https://pad.incubateur.net/) par Stéphanie Walter
 {% endhint %}
 
 #### Coder un composant accessible <a href="#coder-un-composant-accessible" id="coder-un-composant-accessible"></a>
@@ -52,6 +52,7 @@ Les différents états (survol, focus, cliqué, intéractions…) doivent être 
   * [Patterns du WAI (W3C)](https://www.w3.org/WAI/ARIA/apg/patterns)
   * [Design System de GOV.UK](https://design-system.service.gov.uk/components/)
   * [Inclusive Components](https://inclusive-components.design/)
+  * [A Complete Guide To Accessible Front-End Component](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/)
 * Est-ce que mon composant est utilisable au clavier ?
 * Est-ce que l’état de mon composant est disponible à l’API d’accessibilité ?
 * Est-ce que je peux utiliser mon composant avec un lecteur d’écran ?
@@ -65,5 +66,5 @@ La majorité des critères qui relèvent du design ou du code sont pris en compt
 * La navigation est possible de plusieurs manière (menu, moteur de recherche, plan du site)
 
 {% hint style="info" %}
-👉 La [**Notice d’accessibilité éditoriale**](https://www.accede-web.com/notices/editoriale-modele/) **** vous guidera sur toutes les bonnes pratiques en terme de contenu
+👉 La [**Notice d’accessibilité éditoriale**](https://www.accede-web.com/notices/editoriale-modele/) vous guidera sur toutes les bonnes pratiques en terme de contenu
 {% endhint %}
