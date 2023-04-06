@@ -27,7 +27,7 @@ Si un composant n’existe pas, il est possible de créer ses propres composants
 
 #### Designer un composant accessible <a href="#designer-un-composant-accessible" id="designer-un-composant-accessible"></a>
 
-**Choisir les couleurs avec soin**
+Choisir les couleurs avec soin :&#x20;
 
 * Respecter les tokens de couleurs
 * Ne pas communiquer des informations uniquement par la couleur
@@ -37,9 +37,7 @@ Si un composant n’existe pas, il est possible de créer ses propres composants
 👉 [**Tester les combinaisons du DSFR**](https://combinaison.herokuapp.com) _par David Massiani (REVA)_
 {% endhint %}
 
-**Documenter les intéractions du composant**
-
-Les différents états (survol, focus, cliqué, intéractions…) doivent être documentés.
+Documenter les intéractions du composant : survol, focus, cliqué, intéractions…
 
 {% hint style="info" %}
 👉 [**Documenter l’accessibilité en phase de design**](https://pad.incubateur.net/) par Stéphanie Walter
@@ -59,11 +57,12 @@ Les différents états (survol, focus, cliqué, intéractions…) doivent être 
 
 ### Produire des contenus accessibles <a href="#produire-des-contenus-accessibles" id="produire-des-contenus-accessibles"></a>
 
-La majorité des critères qui relèvent du design ou du code sont pris en compte dans le DSFR. Mais reste globalemnt tous les critères **liés aux contenus**. Par exemple :
+La majorité des critères qui relèvent du design ou du code sont pris en compte dans le DSFR. Mais reste globalement tous les critères **liés aux contenus**. Par exemple :
 
-* Soigner les tites des pages (Chaque titre est pertinent, unique et bref).
+* Soigner les titres des pages (Chaque titre est pertinent, unique et bref).
 * Soigner la hiérarchie des titres (Le plan est pertinent, logique, et à l’image du design).
 * La navigation est possible de plusieurs manière (menu, moteur de recherche, plan du site)
+* etc etc.
 
 {% hint style="info" %}
 👉 La [**Notice d’accessibilité éditoriale**](https://www.accede-web.com/notices/editoriale-modele/) vous guidera sur toutes les bonnes pratiques en terme de contenu
