@@ -20,7 +20,7 @@ Si votre service numérique fait partie du réseau beta.gouv.fr, vous avez accè
 
 * **Accompagnement sécurité** : atelier homologation de sécurité, aide ponctuelle. Pour déclencher cet accompagnement, contactez un membre de [l'équipe d'animation de beta.gouv.fr](../../decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/lequipe-danimation-beta.gouv.fr.md).
 * **Entrainement aux comités d'investissement, démos , accompagnement stratégique sur des sujets complexes** (blocages administratifs ou politiques, structuration d'un incubateur, montée d'une gouvernance complexe pour une Startup d'Etat). Pour déclencher cet accompagnement, contactez un membre de l'[équipe d'animation de beta.gouv.fr](../../decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/lequipe-danimation-beta.gouv.fr.md).
-* **Intervention Accessibilité** :&#x20;
+* **Accompagnement en accessibilité** : audit d'accessibilité ou de contenu, aide à la mise en place de tests techniques avec le [pôle Numérique Inclusif](aide-transverse-pole-numerique-inclusif.md)
 * **Accompagnement à l'accélération de son produit** : le programme Gamma sélectionne tous les 3 mois des produits à haut potentiel pour les aider à maximiser leur impact.
 
 {% content-ref url="../la-vie-dune-se/acceleration/programme-gamma.md" %}
@@ -35,6 +35,10 @@ Si votre service numérique fait partie du réseau beta.gouv.fr, vous avez accè
 
 {% content-ref url="data-science.md" %}
 [data-science.md](data-science.md)
+{% endcontent-ref %}
+
+{% content-ref url="aide-transverse-pole-numerique-inclusif.md" %}
+[aide-transverse-pole-numerique-inclusif.md](aide-transverse-pole-numerique-inclusif.md)
 {% endcontent-ref %}
 
 {% content-ref url="../je-gere-mon-produit-et-son-impact/definir-et-mesurer-limpact/cauchemar-a-beta-la-mesure-dimpact.md" %}
