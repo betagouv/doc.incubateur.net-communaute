@@ -4,12 +4,12 @@ description: >-
   produit
 ---
 
-# Ecriture Inclusive
+# Écriture Inclusive
 
-{% embed url="https://vimeo.com/536388165" caption="" %}
+{% embed url="https://vimeo.com/536388165" %}
 
 {% hint style="success" %}
-Voir le [support de présentation](https://docs.google.com/presentation/d/17q4qwcNZ2L5eYTnrxGxgWNciMi8txENP4Am84kqfQEY/edit#slide=id.gc96a127e91_0_210).
+Voir le [support de présentation](https://docs.google.com/presentation/d/17q4qwcNZ2L5eYTnrxGxgWNciMi8txENP4Am84kqfQEY/edit#slide=id.gc96a127e91\_0\_210).
 {% endhint %}
 
 ## L'écriture inclusive, c'est quoi ?
@@ -21,21 +21,40 @@ Le but de l'écriture inclusive est de faire changer les mentalités par le lang
 * faire apparaître une **égalité entre les femmes et les hommes**
 * adopter un **langage non discriminant** par rapport aux femmes
 
-Mais c'est compliqué à mettre en place :
+Mais c'est compliqué à mettre en place car l'écriture inclusive est trop souvent directement associé au point médian qui génère beaucoup de débats et de polémiques.
 
-* Dans les administrations, le point médian est interdit dans les textes officiels. De nombreuses Startups d'État ont des consignes strictes de la part de leur sponsor : pas de point médian.
+## Le cadre officiel
+
+Il existe des documents officiels qui essayent de cadrer l'usage de l'écriture inclusive et celui du point médian :
+
+* [La circulaire du 21 novembre 2017 relative aux règles de féminisation et de rédaction des **textes publiés au Journal officiel**](https://www.legifrance.gouv.fr/eli/circulaire/2017/11/21/PRMX1732742C/jo/texte) d'Édouard Philippe, en tant que premier Ministre
+* [La circulaire du 5 mai 2021 relative aux règles de féminisation dans **les actes administratifs** du ministère de l'Éducation nationale, de la Jeunesse et des Sports et les pratiques d'enseignement](https://www.education.gouv.fr/bo/21/Hebdo18/MENB2114203C.htm) de Jean-Michel Blanquer, ministre de l'Éducation nationale, de la Jeunesse et des Sports.
+
+La circulaire de 2017 a été attaquée devant le juge en 2019 et [le Conseil d’État a confirmé sa validité](https://www.legifrance.gouv.fr/ceta/id/CETATEXT000038186296/) pour l'ensemble des administrations de l’État.
+
+{% hint style="info" %}
+Dans ces circulaires, il n'y a rien sur la communication au public ou les autres modes d'expression de l'administration. Donc « le point médian est interdit » est une surinterprétation, c'est interdit dans les textes juridiques.
+{% endhint %}
+
+* Ce sujet génère des débats assez intenses, il y a eu [une question au Sénat](https://www.senat.fr/questions/base/2021/qSEQ21051672S.html) sur le sujet.
+* De nombreuses Startups d'État ont des consignes strictes de la part de leur sponsor : pas de point médian.
 * Pour les utilisateurs : certains sont très réfractaires, et le font savoir.
 
-Effectivement, le point médian pose plusieurs problèmes :
+## Le point médian et autres abréviations inclusives
 
-* Difficultés de lecture \(développ·eurs·euses = développeureuses ?\)
-* Difficulté de saisie \(ami.es est plus facile à écrire que ami·e·s\)
-* Pas de norme d’usage \(combien de points ? lequel ? où ?\)
-* etc.
+Cela pose plusieurs problèmes :
+
+* Difficultés de lecture (développ·eurs·euses = développeureuses ?)
+* Difficulté de saisie (ami.es est plus facile à écrire que ami·e·s)
+* Pas de norme d’usage (combien de points ? lequel ? où ?)
+
+En réalité toutes les formes d'abréviations inclusives ont des problèmes (l'utilisation de tirets ou de parenthèses)
+
+* La parenthèse n'est pas une méthode recommandée : elle envoie un message contraire à celui qu’on veut faire passer.
 
 Heureusement, il existe de nombreuses autres méthodes, plus subtiles.
 
-## 7 techniques sans point médian
+## 6 techniques sans point médian
 
 ### Les formules englobantes
 
@@ -45,14 +64,14 @@ Heureusement, il existe de nombreuses autres méthodes, plus subtiles.
 
 Exemples :
 
-* **L’équipe de développement** plutôt que _les développeurs et développeuses_ 
-* **La population française** plutôt que _les Français et Françaises_ 
-* **Les êtres humains** plutôt que _les hommes et les femmes_ 
+* **L’équipe de développement** plutôt que _les développeurs et développeuses_
+* **La population française** plutôt que _les Français et Françaises_
+* **Les êtres humains** plutôt que _les hommes et les femmes_
 
 Inconvénients :
 
-* Difficile de trouver des équivalents pour tous les termes. 
-* Que devient les utilisateurs et utilisatrices ? Internautes ? Personnes utilisatrices ? 
+* Difficile de trouver des équivalents pour tous les termes.
+* Que devient les utilisateurs et utilisatrices ? Internautes ? Personnes utilisatrices ?
 * Et pour expérience utilisateur ?
 
 ### Les mots épicènes
@@ -101,22 +120,6 @@ Inconvénients :
 * Outil encore en expérimentation.
 * Pas encore compris du grand public.
 
-### Les abréviations inclusives
-
-{% hint style="info" %}
-**Mixer les terminaisons masculines et féminines grâce à un séparateur.**
-{% endhint %}
-
-Exemples :
-
-* Les parenthèses : **né\(e\)** pour née ou né
-* La barre oblique : **il/elle** pour il ou elle
-
-Inconvénients :
-
-* La parenthèse n'est pas une méthode recommandée : elle envoie un message contraire à celui qu’on veut faire passer. Mais c'est une méthoque utilisée depuis longtemps \(sur nos papiers d'identités par exemple\) et que les gens connaissent bien.
-* La barre oblique coupe les phrases \(mais fonctionne bien sur un libellé court\).
-
 ### L’accord de majorité
 
 {% hint style="info" %}
@@ -144,55 +147,47 @@ Exemple :
 
 Inconvénients :
 
-* Il s’agit surtout de \(re\)prendre l’habitude.
+* Il s’agit surtout de (re)prendre l’habitude.
 
 ## En résumé
 
-1. **Utiliser des termes épicènes/neutres \(qui n'ont pas de marque de genre\).**
+1.  **Utiliser des termes épicènes/neutres (qui n'ont pas de marque de genre).**
 
-   _spécialiste_ au lieu de _expert_.
+    _spécialiste_ au lieu de _expert_.
+2.  **Utiliser des formules englobantes.**
 
-2. **Utiliser des formules englobantes.**
+    _l’équipe de développement_ plutôt que _les développeurs et les développeuses_.
+3.  **Décomposer les termes quand ils sont genrés.**
 
-   _l’équipe de développement_ plutôt que _les développeurs et les développeuses_.
+    _entrepreneuses et entrepreneurs_ ou _développeuses et développeurs_.
+4.  **Faire des périphrases.**
 
-3. **Décomposer les termes quand ils sont genrés.**
+    _Si votre candidature est retenue_ au lieu de _Si vous êtes sélectionné·e._
+5.  **Choisir l'ordre alphabétique pour l'énumération des deux genres.**
 
-   _entrepreneuses et entrepreneurs_ ou _développeuses et développeurs_.
+    _Les Français et les Françaises_, _elles et ils_ au lieu de _ils et elles_.
+6.  **Utiliser l'accord de proximité.**
 
-4. **Faire des périphrases.**
-
-   _Si votre candidature est retenue_ au lieu de _Si vous êtes sélectionné·e._
-
-5. **Choisir l'ordre alphabétique pour l'énumération des deux genres.**
-
-   _Les Français et les Françaises_, _elles et ils_ au lieu de _ils et elles_.
-
-6. **Utiliser l'accord de proximité.**
-
-   _Chères toutes et tous_ ou _les développeurs et développeuses investies_.
+    _Chères toutes et tous_ ou _les développeurs et développeuses investies_.
 
 ## Dans la vraie vie
 
-* Sur nos papiers d'identités : utilisation d’un séparateur : _Né\(e\) le_ ou de périphrase : _Date de naissance_
-* Chez Twitter : utilisation de néologisme \(iel\) mais pas partout \(à certains endroits de l'interface, l'utilisatrice @MichelleObama sera genrée "il" par exemple\).
+* Sur nos papiers d'identités : utilisation d’un séparateur : _Né(e) le_ ou de périphrase : _Date de naissance_
+* Chez Twitter : utilisation de néologisme (iel) mais pas partout (à certains endroits de l'interface, l'utilisatrice @MichelleObama sera genrée "il" par exemple).
 * Chez Wordpress : gros travail de l'équipe de traduction française pour rendre l'intégralité de l'application inclusive. Leur retour d'expérience est sur leur blog.
-* Dans d'autres pays : apparition de pronoms neutres au fil des années \(Angleterre, Suède, Allemagne\), usage de techniques variées. Lire [ À quoi ressemble l'écriture inclusive à travers le monde](https://www.buzzfeed.com/fr/julesdarmanin/voici-a-quoi-ressemble-lecriture-inclusive-dans-dautres)
+* Dans d'autres pays : apparition de pronoms neutres au fil des années (Angleterre, Suède, Allemagne), usage de techniques variées. Lire [À quoi ressemble l'écriture inclusive à travers le monde](https://www.buzzfeed.com/fr/julesdarmanin/voici-a-quoi-ressemble-lecriture-inclusive-dans-dautres)
 
 ## Pour aller plus loin
 
 Le langage inclusif va au delà du genre. Le langage peut être raciste, ou effacer l'existence de peuples :
 
-* Github a renommé sa branche par défaut "main" \(principal\) plutôt que "master" \(qui fait référence à l'esclavagisme\)
-* Aujourd'hui, de nombreux peuples indigènes sont oubliés, et leur noms font références à des marques/produits \(Apache, Cherokee...\)
+* Github a renommé sa branche par défaut "main" (principal) plutôt que "master" (qui fait référence à l'esclavagisme)
+* Aujourd'hui, de nombreux peuples indigènes sont oubliés, et leur noms font références à des marques/produits (Apache, Cherokee...)
 
 ## Ressources
 
 * [Préconisations pour un langage inclusif](http://www.elianeviennot.fr/Langue-prec.html) : boîte à outils par une chercheuse historienne.
 * [Écriture inclusive et accessibilité numérique](https://www.lalutineduweb.fr/ecriture-inclusive-accessibilite-numerique-jetdv2020/#j-abreviations-inclusives) : ressource très complète sur accessibilité et écriture inclusive.
 * [Écriture inclusive : pourquoi tant de haine ?](https://www.binge.audio/podcast/parler-comme-jamais/ecriture-inclusive-pourquoi-tant-de-haine) : podcast pour comprendre les enjeux autour de l'écriture inclusive.
-* [Inclusive Style Guides](https://airtable.com/shr5YnHqwLA3dF7Mo/tblzFbGo4oPNxcOWG) : des guides de rédaction de contenus inclusifs \(sur la race, le genre, la transidentité...\)
-* \[Écrire en écriture inclusive sans point médian\]\([https://doc.eig-forever.org/ecriture-inclusive.html](https://doc.eig-forever.org/ecriture-inclusive.html)
-
-  \) : guide du programme EIG
-
+* [Inclusive Style Guides](https://airtable.com/shr5YnHqwLA3dF7Mo/tblzFbGo4oPNxcOWG) : des guides de rédaction de contenus inclusifs (sur la race, le genre, la transidentité...)
+* [Notes de la table ronde sur l'écriture inclusive et l'accessibilité numérique lors des Journées d’étude technologies et déficience visuelle en 2020](https://www.lalutineduweb.fr/ecriture-inclusive-accessibilite-numerique-jetdv2020/#j-problemes-accessibilite) : retour sur les problèmes d'accessibilité associés aux abréviations inclusives

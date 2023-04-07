@@ -72,8 +72,8 @@ Dans le cadre du travail avec l'administration, il est important de connaitre le
 [guide-rgpd-et-securite.md](../../je-securise-mon-produit/guide-rgpd-et-securite.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../construire-un-service-accessible-et-inclusif/accessibilite-et-rgaa/" %}
-[accessibilite-et-rgaa](../../construire-un-service-accessible-et-inclusif/accessibilite-et-rgaa/)
+{% content-ref url="../../jameliore-le-design-et-lexperience-utilisateur/accessibilite-et-rgaa/" %}
+[accessibilite-et-rgaa](../../jameliore-le-design-et-lexperience-utilisateur/accessibilite-et-rgaa/)
 {% endcontent-ref %}
 
 Nous proposons aussi des formations dédiée : contactez l'équipe technique de beta pour plus d'informations.

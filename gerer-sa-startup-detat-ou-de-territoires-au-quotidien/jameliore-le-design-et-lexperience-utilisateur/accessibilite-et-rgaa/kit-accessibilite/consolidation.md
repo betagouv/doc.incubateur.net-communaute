@@ -16,7 +16,7 @@ Ainsi, à l'issue d'un audit de conformité, on est capable d'établir si le sit
 
 * **totalement** **conforme** : 100 % des critères sont respectés
 * **partiellement conforme :** au moins 50 % des critères sont respectés
-* **non conforme :** moins de 50 % de critères respectés.&#x20;
+* **non conforme :** moins de 50 % de critères respectés.
 
 {% hint style="info" %}
 Contacter l'équipe Designers Transverse pour organiser une formation **« RGAA et obligations légales »**
@@ -47,7 +47,7 @@ Notre [générateur de déclaration d'accessibilité](https://betagouv.github.io
 
 Vous êtes prêt à vous confronter à des vrais utilisateurs. Ces tests vous permettrons d'identifier des nouveaux axes d'amélioration.
 
-Le pole Design de la DINUM propose un panel d'utilisateurs en situation de handicap. Vous pouvez les solliciter, à condition de respecter quelques bonnes pratiques :&#x20;
+Le pole Design de la DINUM propose un panel d'utilisateurs en situation de handicap. Vous pouvez les solliciter, à condition de respecter quelques bonnes pratiques :
 
 * Créer des identifiants destinés aux testeurs et de les transmettre avec la demande pour que le testeur ne se trouve pas contraint d’utiliser ses propres identifiants ou de créer un compte. Il pourra ainsi préserver la confidentialité de ses propres données à caractère personnel.
 * Communiquer aux testeurs les mesures qu’il entend prendre en réponse à leurs observations.
@@ -74,7 +74,7 @@ Pôle Design des services numériques / jamshid.kohandel@modernisation.gouv.fr /
 
 ### Créer son propre panel
 
-Vous pouvez recrutez vous-même des personnes en situation de handicap. Voici quelques bonnes pratiques :&#x20;
+Vous pouvez recrutez vous-même des personnes en situation de handicap. Voici quelques bonnes pratiques :
 
 * **Informer sur la confidentialité des données** : « Ces données seront stockées et consultables uniquement par les personnes qui réalisent des tests utilisateurs »
 * **Collecter seulement ce dont on a besoin** : ne pas demander le handicap / la maladie mais plutôt si un sens/une compétence est affecté par exemple.

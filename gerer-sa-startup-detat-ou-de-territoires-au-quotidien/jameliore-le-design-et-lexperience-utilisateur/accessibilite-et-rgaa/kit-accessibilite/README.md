@@ -27,4 +27,3 @@ La conformité ne s'atteint pas en un jour et ça n'est pas grave : c'est **l'en
 {% content-ref url="consolidation.md" %}
 [consolidation.md](consolidation.md)
 {% endcontent-ref %}
-

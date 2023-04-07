@@ -26,7 +26,7 @@ Un "**standard**" c’est un critère d’évaluation explicite de quelque chose
   * répondre à chaque demande d'un utilisateur ;
   * adopter une posture humble au service des utilisateurs ;
   * permettre aux utilisateurs de faire des retours facilement (par exemple avec le bouton ["Je Donne mon Avis"](../je-gere-mon-produit-et-son-impact/definir-et-mesurer-limpact/comment-integrer-le-bouton.md))
-* Les services sont, à terme, accessibles pour tous et toutes : [**kit d'accessibilité**](../construire-un-service-accessible-et-inclusif/accessibilite-et-rgaa/kit-accessibilite/)
+* Les services sont, à terme, accessibles pour tous et toutes : [**kit d'accessibilité**](../jameliore-le-design-et-lexperience-utilisateur/accessibilite-et-rgaa/kit-accessibilite/)
 * Une **page /stats** rend compte des mesures d'impact.
 * Le **langage** utilisé sur les interfaces est **clair, direct et sans jargon**.
 * L'équipe développe le produit dans un **esprit de sobriété**, en priorisant les fonctionnalités les plus simple possible pour prouver l'impact sur les utilisateurs (par exemple : [prioriser un parcours bien conçu plutôt qu'une Foire aux questions](https://alistapart.com/article/no-more-faqs-create-purposeful-information-for-a-more-effective-user-experi/), prioriser une FAQ bien documentée à un _chatbot_)

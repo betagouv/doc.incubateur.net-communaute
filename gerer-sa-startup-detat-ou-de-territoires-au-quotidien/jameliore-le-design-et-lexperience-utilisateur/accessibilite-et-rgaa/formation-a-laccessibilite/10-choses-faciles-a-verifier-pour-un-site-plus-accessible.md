@@ -8,9 +8,11 @@ description: >-
 
 ### Support de présentation
 
-Retrouvez les 10 choses faciles à tester avec des exemples concrets \(des vrais bouts de SE dedans !\) dans le support de présentation.
+Retrouvez les 10 choses faciles à tester avec des exemples concrets (des vrais bouts de SE dedans !) dans le support de présentation.
 
-{% file src="../../../../.gitbook/assets/accessibilite-easy-checks-1- \(1\).pdf" caption="Support de présentation" %}
+{% file src="../../../../.gitbook/assets/accessibilite-easy-checks-1- (1).pdf" %}
+Support de présentation
+{% endfile %}
 
 ### Les outils
 
@@ -18,22 +20,22 @@ Ces tests peuvent se faire facilement, sans compétences techniques :
 
 * directement dans le navigateur
 * avec[ le bookmarklet ANDI](https://www.ssa.gov/accessibility/andi/help/install.html) qui s'installe sur tout les navigateurs, via un drag and drop dans la barre de raccourci
-* avec [le service en ligne WAVE](http://wave.webaim.org/) 
+* avec [le service en ligne WAVE](http://wave.webaim.org/)
 
 Il existe de nombreux autres outils spécifiques, selon les préférences de chacun, mais ces 3 là permettent d'évaluer déjà un bon nombre de chose 🙂.
 
-| Test | Via le navigateur | Avec ANDI | Avec WAVE |
-| :--- | :--- | :--- | :--- |
-| 📄 Le titre des pages | ✅ | ✅ |  |
-| 🖼 Les alternatives aux images |  | ✅ | ✅ |
-| 📰 La hiérarchie de l’information |  | ✅ | ✅ |
-| 🌓 Les contraste des couleurs |  | ✅ | ✅ |
-| ✨ La personnalisation du texte | ✅ |  |  |
-| 🎹 La navigation au clavier | ✅ |  |  |
-| 📄 Les formulaires | ✅ | ✅ |  |
-| ▶️ Les contenus animés | ✅ |  |  |
-| 🎬 Les alternative aux médias | ✅ |  |  |
-| 📃 La structure des pages |  | ✅ | ✅ |
+| Test                              | Via le navigateur | Avec ANDI | Avec WAVE |
+| --------------------------------- | ----------------- | --------- | --------- |
+| 📄 Le titre des pages             | ✅                 | ✅         |           |
+| 🖼 Les alternatives aux images    |                   | ✅         | ✅         |
+| 📰 La hiérarchie de l’information |                   | ✅         | ✅         |
+| 🌓 Les contraste des couleurs     |                   | ✅         | ✅         |
+| ✨ La personnalisation du texte    | ✅                 |           |           |
+| 🎹 La navigation au clavier       | ✅                 |           |           |
+| 📄 Les formulaires                | ✅                 | ✅         |           |
+| ▶️ Les contenus animés            | ✅                 |           |           |
+| 🎬 Les alternative aux médias     | ✅                 |           |           |
+| 📃 La structure des pages         |                   | ✅         | ✅         |
 
 **Pour aller plus loin** : [Easy Checks – A First Review of Web Accessibility](https://www.w3.org/WAI/test-evaluate/preliminary/)
 
@@ -59,9 +61,9 @@ Il existe de nombreux autres outils spécifiques, selon les préférences de cha
 Un bon titre commence généralement par les informations importantes et uniques.
 {% endhint %}
 
-### Les alternatives aux images 
+### Les alternatives aux images
 
-**Les alternatives transmettent l'objectif de l’image :** ils sont lus par les lecteurs d’écrans \(ou ressenti sur une plage braille\). Parfois, ils sont affichés à la place de l'image quand la connexion est mauvaise.
+**Les alternatives transmettent l'objectif de l’image :** ils sont lus par les lecteurs d’écrans (ou ressenti sur une plage braille). Parfois, ils sont affichés à la place de l'image quand la connexion est mauvaise.
 
 {% hint style="info" %}
 **Elles te remercieront :** les personnes utilisant un lecteur d’écran et celles ayant une connexion restreinte.
@@ -77,7 +79,7 @@ Un bon titre commence généralement par les informations importantes et uniques
 * ✅ Les images décoratives qui n’apportent pas de sens n’ont pas d’alternative.
 
 {% hint style="success" %}
-Un bon texte alternatif est ce que tu dirais à quelqu’un qui interagit avec une page web mais ne la voit pas \(par exemple, “recherche” plutôt que “loupe”\).
+Un bon texte alternatif est ce que tu dirais à quelqu’un qui interagit avec une page web mais ne la voit pas (par exemple, “recherche” plutôt que “loupe”).
 
 Un texte alternatif approprié n'est pas une science exacte. Certaines personnes préfèrent les descriptions détaillées ; d'autres des descriptions concises.
 {% endhint %}
@@ -100,9 +102,9 @@ Un texte alternatif approprié n'est pas une science exacte. Certaines personnes
 * ✅ Les textes mis en valeur visuellement sont bien marqués comme des titres.
 * ✅ La hiérarchie des titres a du sens.
 
-### Les contraste des couleurs 
+### Les contraste des couleurs
 
-**Les couleurs du site n’entravent pas la lecture :** certaines personnes ont besoin d'un contraste suffisant pour lire \(trouble de vision lié à la vieillesse par exemple\). D’autres ont besoin d’une faible luminance \(certains types de dyslexie\) ou… d’une luminance élevée.
+**Les couleurs du site n’entravent pas la lecture :** certaines personnes ont besoin d'un contraste suffisant pour lire (trouble de vision lié à la vieillesse par exemple). D’autres ont besoin d’une faible luminance (certains types de dyslexie) ou… d’une luminance élevée.
 
 Chaque personne a des besoins différents : le site doit permettre à l’utilisateur de s’adapter.
 
@@ -143,12 +145,12 @@ Si le site est mal conçu, il devient inutilisable, ou le contenu illisible.
 
 ### La navigation au clavier
 
-**L'interface est utilisable sans souris :** certaines personnes utilisent le clavier ou la saisie vocale \(qui utilise des commandes clavier\).
+**L'interface est utilisable sans souris :** certaines personnes utilisent le clavier ou la saisie vocale (qui utilise des commandes clavier).
 
 L’ensemble du contenu et des fonctionnalités doit donc être accessible via le clavier : liens, formulaires, pause/play sur les lecteurs médias, menus...
 
 {% hint style="info" %}
-**Elles te remercieront :** les personnes qui n’utilisent pas la souris \(aveugles, malvoyants, personnes souffrant de troubles moteurs…\)
+**Elles te remercieront :** les personnes qui n’utilisent pas la souris (aveugles, malvoyants, personnes souffrant de troubles moteurs…)
 {% endhint %}
 
 #### **Le test de la souris perdue**
@@ -159,14 +161,14 @@ Ce qu'il faut vérifier
 
 * ✅ Le focus du clavier est visible.
 * ✅ L’ordre de navigation est logique.
-* ✅ L’accès à tous les éléments \(liens, champs de formulaire, boutons et commandes du lecteur multimédia…\) est possible.
-* ✅ Le focus ne reste pas coincé \(on peut sortir d’une vidéo par exemple\).
+* ✅ L’accès à tous les éléments (liens, champs de formulaire, boutons et commandes du lecteur multimédia…) est possible.
+* ✅ Le focus ne reste pas coincé (on peut sortir d’une vidéo par exemple).
 
 ### Les formulaires
 
 **Les formulaires sont balisés correctement :** un formulaire est composé de champs, qui doivent être correctement balisés pour pouvoir être rempli au clavier, par commande vocale ou via un lecteur d'écran.
 
-Les aides à la saisie et messages d’erreurs doivent être placés de manière pertinentes pour être visible \(et utile\) pour tous.
+Les aides à la saisie et messages d’erreurs doivent être placés de manière pertinentes pour être visible (et utile) pour tous.
 
 C’est l’un des tests le plus compliqué mais aussi celui qui a le plus d’impact 💪.
 
@@ -176,22 +178,22 @@ C’est l’un des tests le plus compliqué mais aussi celui qui a le plus d’i
 
 #### **Le test des formulaires**
 
-**Ce qu'il faut faire** : identifier tous les formulaires du site \(même les petits, comme un formulaire de recherche ou d'inscription à une newsletter\).
+**Ce qu'il faut faire** : identifier tous les formulaires du site (même les petits, comme un formulaire de recherche ou d'inscription à une newsletter).
 
 **Ce qu'il faut vérifier**
 
-* ✅ Les formulaires sont accessibles au clavier \(et toutes les options d'un menu déroulant sont accessibles\).
-* ✅ Les champs ont un label \(et un clic sur le label active le champ\).
-* ✅ Les champs obligatoires sont indiqués \(pas seulement par la couleur rouge\).
+* ✅ Les formulaires sont accessibles au clavier (et toutes les options d'un menu déroulant sont accessibles).
+* ✅ Les champs ont un label (et un clic sur le label active le champ).
+* ✅ Les champs obligatoires sont indiqués (pas seulement par la couleur rouge).
 * ✅ Les instructions d'aide sont avant le champ concerné.
-* ✅ Les formats spécifiques \(par exemple les dates\) sont explicitées dans le label.
-* ✅ Les erreurs sont explicites \(quel champ est concerné, comment corriger\).
+* ✅ Les formats spécifiques (par exemple les dates) sont explicitées dans le label.
+* ✅ Les erreurs sont explicites (quel champ est concerné, comment corriger).
 
 ### Les contenus animés
 
 **Les animations ne perturbent pas la lecture :** les utilisateurs doivent pouvoir contrôler le contenu en mouvement :
 
-* Pour avoir le temps de traiter une information \(vidéo, carousel\)
+* Pour avoir le temps de traiter une information (vidéo, carousel)
 * Pour pouvoir se concentrer sur le contenu sans être distrait par un élément.
 
 Plus spécifiquement, certains contenus clignotants peuvent déclencher une crise d’épilepsie chez certains personnes.
@@ -214,7 +216,7 @@ Plus spécifiquement, certains contenus clignotants peuvent déclencher une cris
 
 ### Les alternatives aux médias
 
-**Les médias ont des alternatives :** les podcasts ou formats audios ne sont pas accessibles aux personnes sourdes ou malentendantes, sauf si fournies dans un format alternatif \(transcription par ex\).
+**Les médias ont des alternatives :** les podcasts ou formats audios ne sont pas accessibles aux personnes sourdes ou malentendantes, sauf si fournies dans un format alternatif (transcription par ex).
 
 Les informations visuelles d’une vidéo ne sont pas accessibles aux personnes aveugles ou malvoyantes, sauf si elles sont fournies dans un format alternatif tel que l'audio ou le texte.
 
@@ -224,18 +226,18 @@ Les informations visuelles d’une vidéo ne sont pas accessibles aux personnes 
 
 #### **Le test des médias**
 
-**Ce qu'il faut faire** : identifier les médias \(vidéos et audio\) du service.
+**Ce qu'il faut faire** : identifier les médias (vidéos et audio) du service.
 
 **Ce qu'il faut vérifier :**
 
 * ✅ Les contrôles du lecteurs vidéo/audio sont accessible au clavier.
 * ✅ Le son ne démarre pas seul.
-* ✅ Les informations audios sont accessible au format texte \(sous-titres, transcript\).
-* ✅ Les informations visuelles sont accessibles au format texte ou au format audio \(audio description ou transcript\).
+* ✅ Les informations audios sont accessible au format texte (sous-titres, transcript).
+* ✅ Les informations visuelles sont accessibles au format texte ou au format audio (audio description ou transcript).
 
 ### La structure des pages
 
-**La page est linéaire** : tout le monde ne « voit » pas une page de la même manière. Un site a souvent une structure complexe visuellement \(sidebar, éléments graphiques...\) mais pour certains utilisateurs, il sera perçu de manière linéaire.
+**La page est linéaire** : tout le monde ne « voit » pas une page de la même manière. Un site a souvent une structure complexe visuellement (sidebar, éléments graphiques...) mais pour certains utilisateurs, il sera perçu de manière linéaire.
 
 {% hint style="info" %}
 **Elles te remercieront :** les personnes utilisant un lecteur d’écran, une feuille de style personnalisée ou utilisant le site sur mobile.
@@ -255,6 +257,5 @@ Les informations visuelles d’une vidéo ne sont pas accessibles aux personnes 
 [Easy Checks – A First Review of Web Accessibility](https://www.w3.org/WAI/test-evaluate/preliminary/)
 
 {% hint style="success" %}
-Envie d'être accompagné ? Faisons cet atelier ensemble avec votre équipe ! Contactez-nous sur \#domaine-accessibilité
+Envie d'être accompagné ? Faisons cet atelier ensemble avec votre équipe ! Contactez-nous sur #domaine-accessibilité
 {% endhint %}
-

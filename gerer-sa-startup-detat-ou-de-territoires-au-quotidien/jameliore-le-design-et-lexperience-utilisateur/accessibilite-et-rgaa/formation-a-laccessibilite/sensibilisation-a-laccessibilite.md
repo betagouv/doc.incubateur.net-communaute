@@ -7,14 +7,12 @@ description: >-
 # Sensibilisation à l'accessibilité
 
 {% hint style="success" %}
-Cette sensibilisation peut être **fait à la demande** à votre équipe \(minimum 5 personnes\). Contactez [Anne-Sophie Tranchet](mailto:anne-sophie.tranchet@beta.gouv.fr).
+Cette sensibilisation peut être **fait à la demande** à votre équipe (minimum 5 personnes). Contactez [Anne-Sophie Tranchet](mailto:anne-sophie.tranchet@beta.gouv.fr).
 {% endhint %}
-
-{% file src="../../../../.gitbook/assets/sensibilisation-a-l-u2019accessibilite.pdf" caption="Support de présentation" %}
 
 ## Pourquoi concevoir un service accessible ?
 
-À votre avis, pourquoi veut-on concevoir un service accessible ? Pour ne pas payer une amende ? Pour faire une bonne action annuelle ? Pour la gloire peut-être ? Ou pour la beauté du code ? Et bien non, rien de tout ça \(ou plutôt un peu de tout ça\) mais surtout **parce qu'on travaille pour des vrais gens.**
+À votre avis, pourquoi veut-on concevoir un service accessible ? Pour ne pas payer une amende ? Pour faire une bonne action annuelle ? Pour la gloire peut-être ? Ou pour la beauté du code ? Et bien non, rien de tout ça (ou plutôt un peu de tout ça) mais surtout **parce qu'on travaille pour des vrais gens.**
 
 Et d'ailleurs, l'accessibilité ça concerne qui ? Les aveugles ? Les personnes en fauteuil roulant ? Oh, deux ou trois utilisateurs tout au plus ? Nope nope nope, l'accessibilité, **c'est pour tout le monde.**
 
@@ -40,17 +38,17 @@ Au final, **24 % de la population active est en situation de handicap "au sens l
 
 **Le handicap est directement lié au contexte.** Le handicap est une perte ou restriction pour un individu de participer à la vie collective à égalité avec les autres. C'est différent d'une déficience, un insuffisance physique, physiologique ou mentale.
 
-On peut être atteint d'une déficience \(la surdité\) sans être en situation de handicap \(à l'écrit\) ; tout comme l'inverse peut se produire : une personne entendante peut se retrouver en situation de handicap \(incapacité à entendre une vidéo\) car dans un environnement bruyant.
+On peut être atteint d'une déficience (la surdité) sans être en situation de handicap (à l'écrit) ; tout comme l'inverse peut se produire : une personne entendante peut se retrouver en situation de handicap (incapacité à entendre une vidéo) car dans un environnement bruyant.
 
-Ainsi, une situation de handicap peut être permanente \(la cécité par exemple\), temporaire \(après une opération des yeux\) ou situationnelle \(trop de soleil\).
+Ainsi, une situation de handicap peut être permanente (la cécité par exemple), temporaire (après une opération des yeux) ou situationnelle (trop de soleil).
 
 Il existe une variété de handicaps :
 
-* Les troubles auditifs \(surdité, perte partielle de l’audition…\) sont les plus fréquents \(13,2 % de la population active en souffrent\).
-* Les troubles moteurs \(faiblesse musculaire, douleurs chroniques, arthrite, rhumatisme, fibromyalgie, tremblements, spasmes...\) atteignent 5,8 % de la population active.
-* Les troubles visuels \(malvoyance, cécité, daltonisme…\) concernent 5,8 % de la population active.
-* Les troubles cognitif et d'apprentissage \(troubles de l’attention - TDAH, troubles du spectre de l’autisme - TSA, sclérose en plaques qui cause des troubles de la mémoire, dyslexie…\) pour 1,8 % de la population.
-* Les troubles du langage \(bégaiement, mutisme, apraxie de la parole…\)
+* Les troubles auditifs (surdité, perte partielle de l’audition…) sont les plus fréquents (13,2 % de la population active en souffrent).
+* Les troubles moteurs (faiblesse musculaire, douleurs chroniques, arthrite, rhumatisme, fibromyalgie, tremblements, spasmes...) atteignent 5,8 % de la population active.
+* Les troubles visuels (malvoyance, cécité, daltonisme…) concernent 5,8 % de la population active.
+* Les troubles cognitif et d'apprentissage (troubles de l’attention - TDAH, troubles du spectre de l’autisme - TSA, sclérose en plaques qui cause des troubles de la mémoire, dyslexie…) pour 1,8 % de la population.
+* Les troubles du langage (bégaiement, mutisme, apraxie de la parole…)
 
 Et donc une variété de points bloquants :
 
@@ -65,7 +63,7 @@ Et donc une variété de points bloquants :
 Finalement, il existe une variété d'usage du Web et donc d'outils et de techniques
 
 * Plusieurs manières de **percevoir l'information** : certains préfère la lire, d'autre l'entendre via un lecteur d'écran ou encore la sentir via une plage braille.
-* Des préférences différentes pour **présenter le contenu** \(bloqueurs d'animations, loupe d'écran...\)
+* Des préférences différentes pour **présenter le contenu** (bloqueurs d'animations, loupe d'écran...)
 * Des techniques différentes pour les **interactions** : navigation au clavier, à la souris, liens d'évitement, recherche...
 * Des préférences variées pour la **saisie** : clavier et souris alternatifs, reconnaissance vocale, correction orthographique...
 
@@ -76,14 +74,14 @@ Finalement, il existe une variété d'usage du Web et donc d'outils et de techni
 Plusieurs textes réglementent l’accessibilité numérique en France :
 
 * l’article 47 de la loi Handicap du 11 février 2005 ;
-* le décret d’application du 14 mai 2009, relatif au Référentiel Général d’Accessibilité pour les Administrations \(RGAA\) ;
+* le décret d’application du 14 mai 2009, relatif au Référentiel Général d’Accessibilité pour les Administrations (RGAA) ;
 * l’arrêté du 29 avril 2015, approuvant la version 3 du RGAA ;
 * l’article 106 de la loi du 7 octobre 2016 pour une République Numérique ;
 * le décret du 24 juillet 2019 relatif à l’accessibilité aux personnes handicapées des services de communication au public en ligne.
 
-Je ne vais pas rentrer dans les détails de chacun. En résumé, depuis le 23 septembre 2020, les sites ou services publics \(de l’État ou des collectivités territoriales\) doivent :
+Je ne vais pas rentrer dans les détails de chacun. En résumé, depuis le 23 septembre 2020, les sites ou services publics (de l’État ou des collectivités territoriales) doivent :
 
-* Afficher dès la page d’accueil l’état d’accessibilité du site ou service \(il peut être totalement conforme, partiellement conforme ou non conforme\).
+* Afficher dès la page d’accueil l’état d’accessibilité du site ou service (il peut être totalement conforme, partiellement conforme ou non conforme).
 * Publier une déclaration d’accessibilité indiquant en détail l’état d’accessibilité du site ou service.
 
 Les applications mobiles et les progiciels ont jusqu'au 23 septembre 2021.
@@ -94,15 +92,15 @@ Si ces obligations ne sont pas respectées, chaque administration encoure 20 000
 
 Avant d'expliquer comment connaître la conformité de son site, il est nécessaire de faire une petite parenthèse de définitions d'acronymes :
 
-* Au niveau international, le **W3C** \(World Wide Web Consortium\) est l’organisme de standardisation international chargé de promouvoir la compatibilité des technologies \(comme HTML, CSS ou PNG par exemple\).
-* Parmi les travaux du W3C, on trouve notamment les **WCAG** \(Web Content Accessibility Guidelines\), les recommandations du W3C en terme d’accessibilité numérique.
-* Chaque pays construit ensuite sa législation basée sur les règles internationales du WCAG. En France, il s'agit du **RGAA** \(pour Référentiel Général d’Accessibilité pour les Administrations\) qui est un ensemble de règles administratives et techniques.
+* Au niveau international, le **W3C** (World Wide Web Consortium) est l’organisme de standardisation international chargé de promouvoir la compatibilité des technologies (comme HTML, CSS ou PNG par exemple).
+* Parmi les travaux du W3C, on trouve notamment les **WCAG** (Web Content Accessibility Guidelines), les recommandations du W3C en terme d’accessibilité numérique.
+* Chaque pays construit ensuite sa législation basée sur les règles internationales du WCAG. En France, il s'agit du **RGAA** (pour Référentiel Général d’Accessibilité pour les Administrations) qui est un ensemble de règles administratives et techniques.
 
 ### **Définir la conformité de son service**
 
-Le RGAA \(actuellement dans sa version 4\) recense 106 critères classés par thématiques \(comment afficher les images, quelles règles concernant les couleurs, comment structurer l'information, quelles sont les éléments obligatoire d'une page, etc\).
+Le RGAA (actuellement dans sa version 4) recense 106 critères classés par thématiques (comment afficher les images, quelles règles concernant les couleurs, comment structurer l'information, quelles sont les éléments obligatoire d'une page, etc).
 
-Chacun de ses critères a en moyenne 2 ou 3 tests qui sont testés sur une sélection de pages \(la page d'accueil, la page de contact et toute page "pertinente" du service\). Si le teste échoue sur l'une d'elle, il est compté comme “non conforme”.
+Chacun de ses critères a en moyenne 2 ou 3 tests qui sont testés sur une sélection de pages (la page d'accueil, la page de contact et toute page "pertinente" du service). Si le teste échoue sur l'une d'elle, il est compté comme “non conforme”.
 
 La conformité est relative au taux d’accessibilité ainsi obtenu :
 
@@ -118,16 +116,16 @@ La conformité est relative au taux d’accessibilité ainsi obtenu :
 
 Vous voulez vous mettre en conformité ?
 
-1. **Se fixer un objectif** : partiellement conforme par exemple ? \(un objectif de conformité totale se prépare généralement en amont...\)
+1. **Se fixer un objectif** : partiellement conforme par exemple ? (un objectif de conformité totale se prépare généralement en amont...)
 2. **Prendre contact avec des experts en accessibilité** qui vont vous accompagner dans l'audit et les corrections d'erreurs trouvées. Voir [l'accord du marché public de la DINUM](https://design.numerique.gouv.fr/accessibilite-numerique/accord-cadre-dae/) pour trouver une entreprise compétente.
 
 ### **Pour rendre son service accessible à toutes et tous**
 
 Pour aller au delà des obligations légales :
 
-1. Se sensibiliser \(bravo, vous venez de le faire !\)
+1. Se sensibiliser (bravo, vous venez de le faire !)
 2. Faire les corrections les plus basiques : [Easy Checks – A First Review of Web Accessibility](https://www.w3.org/WAI/test-evaluate/preliminary/) décrit en anglais 10 vérifiations à faire sans compétence techniques.
-3. Se former \(voir [l'accord du marché public de la DINUM](https://design.numerique.gouv.fr/accessibilite-numerique/accord-cadre-dae/) pour trouver une entreprise formatrice\).
+3. Se former (voir [l'accord du marché public de la DINUM](https://design.numerique.gouv.fr/accessibilite-numerique/accord-cadre-dae/) pour trouver une entreprise formatrice).
 
 ### **Pour agir à son niveau**
 
@@ -140,7 +138,6 @@ L'accessibilité est un domaine qui s'apprend ! N'hésitez pas à vous faire acc
 
 * par des professionnels, via l'[accord du marché public](https://design.numerique.gouv.fr/accessibilite-numerique/accord-cadre-dae/)
 * en contactant le référent accessibilité du porteur de votre Startup d'État
-* en posant des questions sur le chan \#domaine-accessibilité du Mattermost de Beta.
+* en posant des questions sur le chan #domaine-accessibilité du Mattermost de Beta.
 
-Merci de votre lecture et bonne chance dans votre chemin vers un service accessible à toutes et tous :\)
-
+Merci de votre lecture et bonne chance dans votre chemin vers un service accessible à toutes et tous :)

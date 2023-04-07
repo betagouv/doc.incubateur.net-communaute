@@ -48,8 +48,8 @@ description: >-
 [charte.md](travailler-a-beta-gouv/culture/charte.md)
 {% endcontent-ref %}
 
-{% content-ref url="gerer-sa-startup-detat-ou-de-territoires-au-quotidien/construire-un-service-accessible-et-inclusif/accessibilite-et-rgaa/" %}
-[accessibilite-et-rgaa](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/construire-un-service-accessible-et-inclusif/accessibilite-et-rgaa/)
+{% content-ref url="gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/accessibilite-et-rgaa/" %}
+[accessibilite-et-rgaa](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/accessibilite-et-rgaa/)
 {% endcontent-ref %}
 
 {% content-ref url="gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/recrutement/" %}

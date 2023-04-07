@@ -25,7 +25,7 @@ Les tests manuels permettent d'aller un peu plus loin que les tests automatiques
 
 Tanaguru permet de faire des [audits automatisés](https://my.tanaguru.com/home/contract/audit-page-set-up.html?cr=943) gratuitement.
 
-![Score du site solidarite-numerique.com](<../../../../.gitbook/assets/Screenshot\_2020-05-26 Résultat de l'audit pour la page https solidarite-numerique fr .png>)
+![Score du site solidarite-numerique.com](../../../../.gitbook/assets/Screenshot\_2020-05-26%20Re%CC%81sultat%20de%20l'audit%20pour%20la%20page%20https%20solidarite-numerique%20fr%20.png)
 
 ### Wave
 
