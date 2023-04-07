@@ -121,6 +121,6 @@ Rituels d’équipe (mise en place d’outils partagés (Trello, Airtable, etc),
 
 Aide pour acquérir cette compétence : participer aux rituels et événements de la communauté en tant qu’animateur.
 
-****
+
 
 ***

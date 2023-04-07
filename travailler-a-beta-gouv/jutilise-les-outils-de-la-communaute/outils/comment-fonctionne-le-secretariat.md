@@ -11,7 +11,7 @@ description: >-
 L'espace membre est un ensemble de processus automatisés qui gère les membres de la communauté Betagouv. Ils comprennent :
 
 * Le repo github du site beta.gouv.fr
-* L'app [`espace-membre.incubateur.net`](https://espace-membre.incubateur.net/)``
+* L'app [`espace-membre.incubateur.net`](https://espace-membre.incubateur.net/)
 * Les cron de mise à jour des droits sur github, mattermost, boite mail
 * Gestion de l'abonnement/desabonnement des mailing list
 * API du site, API de l'infra

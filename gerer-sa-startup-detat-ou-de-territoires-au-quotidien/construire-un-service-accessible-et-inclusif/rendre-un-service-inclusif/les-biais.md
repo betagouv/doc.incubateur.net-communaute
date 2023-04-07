@@ -38,4 +38,3 @@ Les **biais cognitifs** sont aussi à prendre en compte, parce qu’ils nous inf
 
 ![Atelier sur les biais (Source : Stéphanie Walter)](../../../.gitbook/assets/atelier-cartes-biais-UX-01.jpeg)
 
-****

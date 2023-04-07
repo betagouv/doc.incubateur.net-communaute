@@ -43,7 +43,7 @@ Contact : [**octo\_malt@octo.com**](mailto:octo\_malt@octo.com)
 
 #### ~~3e titulaire : Benext~~
 
-* ~~~~[~~Benext~~](https://www.benextcompany.com/) ~~: Full Stack Product Company~~
+* [~~Benext~~](https://www.benextcompany.com/) ~~: Full Stack Product Company~~
 
 (Au 1er avril 2022, la société Benext a fusionné avec OCTO).&#x20;
 

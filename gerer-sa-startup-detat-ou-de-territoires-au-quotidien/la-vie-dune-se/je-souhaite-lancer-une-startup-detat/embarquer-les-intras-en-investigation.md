@@ -36,7 +36,7 @@ Vous trouverez la présentation utilisée par l'incubateur de la justice pendant
 
 En parallèle, cette journée permet aux intrapreneurs de rencontrer leurs coachs. Ils reçoivent également les supports et les enregistrements vidéos.
 
-__
+
 
 _Proposition de format type pour la journée de lancement :_
 

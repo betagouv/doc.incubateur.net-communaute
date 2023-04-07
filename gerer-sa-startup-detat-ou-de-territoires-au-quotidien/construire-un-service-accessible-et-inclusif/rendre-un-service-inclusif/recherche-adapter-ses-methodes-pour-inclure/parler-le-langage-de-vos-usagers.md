@@ -27,7 +27,7 @@ Liste :&#x20;
 * Personne non blanche
 * Personne de couleur…
 
-****
+
 
 **Prise de notes.**
 

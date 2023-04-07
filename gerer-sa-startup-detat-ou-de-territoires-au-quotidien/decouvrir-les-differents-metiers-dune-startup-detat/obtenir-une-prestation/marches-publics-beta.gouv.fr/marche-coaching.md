@@ -23,7 +23,7 @@ Note : Pôle Emploi, les ministères sociaux et de la transition écologique dis
 
 3 entreprises ou groupement d'entreprises ont remporté le marché :
 
-1. [NUMA](https://fr.numa.co/) (contact **** [**thomas.l@numa.co**](mailto:thomas.l@numa.co))
+1. [NUMA](https://fr.numa.co/) (contact [**thomas.l@numa.co**](mailto:thomas.l@numa.co))
 2. [IPPON Technologies](https://fr.ippon.tech/) - [Liberté Living Lab](https://www.liberte.paris/) - [Sopra Steria](https://www.soprasteria.com/fr) (contact groupement@ippon.fr)&#x20;
 3. [OCTO Technology](https://www.octo.com/) (contact dinum@octo.com)
 

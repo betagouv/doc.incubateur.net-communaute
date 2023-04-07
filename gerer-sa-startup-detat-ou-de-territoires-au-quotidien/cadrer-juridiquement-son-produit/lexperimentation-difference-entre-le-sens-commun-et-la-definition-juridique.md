@@ -65,7 +65,6 @@ Pour éviter de vous trouver dans une situation où, sur la base d’un quiproqu
 D’autant plus que la philosophie expérimentale est reconnue particulièrement dans le domaine du numérique pour :&#x20;
 
 > _"tester de nouveaux outils numériques, destinés aux usagers du service public ou aux services administratifs dès lors qu’ils nécessitent d’être développés de manière séquencée, en lien avec leurs utilisateurs, et l’objet d’une évaluation régulière"._ \
-> __\
-> __[_Conseil d’État - Les expérimentations, rapport 2019_](https://www.conseil-etat.fr/actualites/ameliorer-et-developper-les-experimentations-pour-des-politiques-publiques-plus-efficaces-et-innovantes) _page 32_
+> \
+> [_Conseil d’État - Les expérimentations, rapport 2019_](https://www.conseil-etat.fr/actualites/ameliorer-et-developper-les-experimentations-pour-des-politiques-publiques-plus-efficaces-et-innovantes) _page 32_
 
-__

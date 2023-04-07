@@ -67,7 +67,7 @@ ds-transfolab@sports.gouv.fr&#x20;
 
 01 45 55 97 09
 
-### ****[**Le Ground Control**](https://www.groundcontrolparis.com/)****
+### [**Le Ground Control**](https://www.groundcontrolparis.com/)
 
 Il s'agit d'anciens locaux de la SNCF qui ont été réhabilités, et aujourd'hui abritent un large espace avec des tables, des événements et plusieurs stands de restauration. Il est possible d'y travailler ou d'y organiser une rencontre. La connexion wifi est de qualité discutable (il vaut mieux travailler en créant une partage de connexion depuis son portable).
 
@@ -215,4 +215,3 @@ christophe.trouillard@jscs.gouv.fr
 
 Contact : Jérôme Desboeufs - [jerome.desboeufs@data.gouv.fr](mailto:jerome.desboeufs@data.gouv.fr)
 
-****

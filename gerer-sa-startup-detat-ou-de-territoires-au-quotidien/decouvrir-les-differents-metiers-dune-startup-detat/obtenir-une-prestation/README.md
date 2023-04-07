@@ -37,7 +37,7 @@ Bien vérifier que le fichier de suivi est bien à jour, en particulier que ton 
 
 ### Étape 2 : contacter **l'entreprise titulaire du marché pour exprimer son besoin en prestation**
 
-Cette étape s'appelle l'_**expression de besoins**_** ** et permet de **demander un devis**.&#x20;
+Cette étape s'appelle l'_**expression de besoins**_ et permet de **demander un devis**.&#x20;
 
 Pour trouver les contacts de l'entreprise titulaire du marché affectée à ton produit, consulte la rubrique "[Marchés publics](marches-publics-beta.gouv.fr/)" ou demande à l'équipe de ton incubateur. Nous conseillons de mettre tes responsables d'incubateur en copie du mail de demande de devis.
 
@@ -121,7 +121,7 @@ Si les profils identifiés ne sont pas salariés de l'entreprise titulaire, ils 
 
 ### Etape 5 : démarrer la prestation seulement lorsque le bon de commande est émis par l'administration&#x20;
 
-Vous ne pouvez démarrer la prestation que lorsque l'entreprise titulaire aura reçu le _ **bon de commande**._ Une fois le devis final transmis au responsable de l'incubateur, le process d'émission du bon de commande prend de quelques jours à 3 semaines (exemple : [process de la Fabrique numérique du ministère de la Transition écologique](https://miro.com/app/board/uXjVO-zTnXY=/)).&#x20;
+Vous ne pouvez démarrer la prestation que lorsque l'entreprise titulaire aura reçu le _**bon de commande**._ Une fois le devis final transmis au responsable de l'incubateur, le process d'émission du bon de commande prend de quelques jours à 3 semaines (exemple : [process de la Fabrique numérique du ministère de la Transition écologique](https://miro.com/app/board/uXjVO-zTnXY=/)).&#x20;
 
 L'entreprise titulaire ne sera payée pour la prestation qu'après la certification par l'administration du service fait (partiel ou total). Pour en savoir plus sur les paiements, [consulte cette section](la-facturation-de-a-a-z/).&#x20;
 

@@ -30,7 +30,7 @@ Avant toute demande, vérifier la disponibilité d'une enveloppe budgétaire suf
 
 ### Étape 2 : contacter **l'entreprise titulaire du marché pour exprimer son besoin en prestation**
 
-Cette étape s'appelle l'_**expression de besoins**_** ** et permet de **demander un devis**.
+Cette étape s'appelle l'_**expression de besoins**_ et permet de **demander un devis**.
 
 Voici le modèle de demande à suivre :&#x20;
 
@@ -113,21 +113,21 @@ Si tu n'as pas l’habitude de juger des profils techniques, tu peux te faire ai
 <summary>Déroulez pour des bonnes pratiques et des conseils sur cette étape</summary>
 
 _**Répondre à tous les candidats**_\
-_****_Vous devez répondre à tous les candidats : \
+Vous devez répondre à tous les candidats : \
 \- pour indiquer que vous avez bien reçu la candidature (sous 48h, si possible) \
 \- pour indiquer votre décision même si celle-ci est négative
 
 _**Donner une visibilité aux candidats**_\
-_****_Ne bloquez pas les candidats et indiquer dès le départ à quelle date vous rendrez votre décision et le processus de recrutement prévu
+Ne bloquez pas les candidats et indiquer dès le départ à quelle date vous rendrez votre décision et le processus de recrutement prévu
 
 _**Rappeler les valeurs de beta**_\
-_****_Rappeler lors des échanges, l’importance des valeurs de beta et de notre culture de travail. S’assurer que le candidat les a lues et s'y reconnait.\
+Rappeler lors des échanges, l’importance des valeurs de beta et de notre culture de travail. S’assurer que le candidat les a lues et s'y reconnait.\
 \
 _**Aller voir les candidatures spontanées**_\
-_****_Le site vitrine du welcom to the jungle permet les candidatures spontanées, n’hésitez pas à regarder si des profils peuvent vous intéresser. Pour ce faire se rendre dans l’offre “candidature spontanée”.
+Le site vitrine du welcom to the jungle permet les candidatures spontanées, n’hésitez pas à regarder si des profils peuvent vous intéresser. Pour ce faire se rendre dans l’offre “candidature spontanée”.
 
 _**Faire attention aux biais**_\
-_****_Nous sommes tous biaisés, y faire attention et [se sensibiliser](https://mozaikrh.com/11-biais-cognitifs-a-connaitre-pour-mieux-recruter/) si ce n'est pas déjà fait !&#x20;
+Nous sommes tous biaisés, y faire attention et [se sensibiliser](https://mozaikrh.com/11-biais-cognitifs-a-connaitre-pour-mieux-recruter/) si ce n'est pas déjà fait !&#x20;
 
 _**Faire un bilan avec son titulaire des profils retenus**_
 
@@ -146,8 +146,8 @@ Si les profils identifiés ne sont pas salariés de l'entreprise titulaire, ils 
 ### Étape 5 : créer une demande d'achat&#x20;
 
 Afin que l'Etat passe réellement la commande correspondant au devis, il faut créer une demande d'achat (DA) dans le logiciel Chorus. Après validation des différents services budgétaires et financiers, celle-ci se transforme en bon de commande. (cf [schéma](https://miro.com/app/board/uXjVO-zTnXY=/?share\_link\_id=77873642122)) **Une prestation ne peut démarrer qu'après l'obtention du bon de commande.**\
-****\
-****Pour créer la demande d'achat, Benjamin ou Samuel créent une carte sur [le tableau de suivi des commandes](https://www.notion.so/lafabnum/Suivi-des-bons-de-commande-BC-9e2e7dae11c740ce99a2e9e87cb3873c) (souvent appelé notion) à partir du devis validé et transmis  à COMMANDE-FAB-NUM@DEVELOPPEMENT-DURABLE.GOUV.FR. Ils tagguent Cathie afin qu'elle intègre le devis dans chorus pour le transformer en demande d'achat. \
+\
+Pour créer la demande d'achat, Benjamin ou Samuel créent une carte sur [le tableau de suivi des commandes](https://www.notion.so/lafabnum/Suivi-des-bons-de-commande-BC-9e2e7dae11c740ce99a2e9e87cb3873c) (souvent appelé notion) à partir du devis validé et transmis  à COMMANDE-FAB-NUM@DEVELOPPEMENT-DURABLE.GOUV.FR. Ils tagguent Cathie afin qu'elle intègre le devis dans chorus pour le transformer en demande d'achat. \
 La demande d'achat a été crée lorsque tu trouves sur le le tableau de suivi des commandes : le numéro de la DA, une capture d'écran de cette DA et que la carte est dans la colonne "demande d'achat rentrée dans chorus".\
 \
 _Demande l'accès au notion à ton responsable de portefeuille. Attention, par défaut l'adresse mail utilisée est celle de beta.gouv. Précise le si tu utilises une autre adresse mail._

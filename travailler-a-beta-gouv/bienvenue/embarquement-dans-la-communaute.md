@@ -23,7 +23,7 @@ Une marraine ou un parrain sera désigné pour t'accueillir avec 4 autres nouvel
   * Rencontrer les co-animateurs de l'incubateur de la DINUM et les autres merveilleuses personnes présentes ce jour ;
   *   Déjeuner ensemble et prendre un verre le soir (si vous le souhaitez).
 
-      __
+
 
 ### **🙋 1 atelier pour les nouveaux membres le matin du forum mensuel de beta**
 

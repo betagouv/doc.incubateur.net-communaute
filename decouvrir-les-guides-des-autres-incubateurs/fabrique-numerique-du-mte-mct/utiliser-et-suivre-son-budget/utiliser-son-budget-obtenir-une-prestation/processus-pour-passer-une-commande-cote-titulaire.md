@@ -38,7 +38,7 @@ Une fois le profil sélectionné ou lorsqu'il s'agit d'un profil qui travaille d
 <summary>Déroulez pour des bonnes pratiques et des conseils sur cette étape</summary>
 
 **Avoir des dates de validité et de réalisation de la prestations larges**\
-****Les dates doivent toujours être utlétrieurs à la transmission du devis. Comme le circuit budgétaire est long, en mettant un mois plutôt qu'un jour précis vous évitez que les dates soient dépassées à la fin de la procédure (et le devis rejeté).
+Les dates doivent toujours être utlétrieurs à la transmission du devis. Comme le circuit budgétaire est long, en mettant un mois plutôt qu'un jour précis vous évitez que les dates soient dépassées à la fin de la procédure (et le devis rejeté).
 
 **Indiquer la fabrique numérique comme commanditaire.**
 
@@ -58,7 +58,7 @@ L’intra valide le devis par retour de mail, Benjamin/Samuel créé une carte s
 
 <summary>Déroulez pour des bonnes pratiques et des conseils sur cette étape</summary>
 
-**Toujours se référer au** [**tableau de suivi des commandes**](https://www.notion.so/lafabnum/Suivi-des-bons-de-commande-BC-9e2e7dae11c740ce99a2e9e87cb3873c)****
+**Toujours se référer au** [**tableau de suivi des commandes**](https://www.notion.so/lafabnum/Suivi-des-bons-de-commande-BC-9e2e7dae11c740ce99a2e9e87cb3873c)
 
 L'ensemble des documents concernant une commande sont regroupés sur la carte correspondante dans ce tableau. Si vous cherchez un bon de commande, un sf ou l'état d'avancement d'une commande, rendez-vous d'abord là !
 
@@ -70,7 +70,7 @@ Tant que la DA n'est pas faite, aucune commande n'est demandée. N'hésitez pas 
 
 ### Etape 3 : Validation de la prestation réalisée
 
-Pour valider une prestation partiellement ou totalement, le titulaire dépose un PV de livraison en utilisant [**le modèle suivant**](https://docs.google.com/document/d/1LrcOaots1WCRLdTA3\_cCOv2hg8av17mV9K1WpL-2yec/edit?usp=sharing) **** et **déplace la carte dans la colonne" PV à signer** "en taguant Benjamin/Samuel et l’intra. Une fois que les deux ont signés, Benjamin/Samuel décale la carte dans la colonne "PV à intégrer à chorus", Cathie l'intégre et créé un service fait.
+Pour valider une prestation partiellement ou totalement, le titulaire dépose un PV de livraison en utilisant [**le modèle suivant**](https://docs.google.com/document/d/1LrcOaots1WCRLdTA3\_cCOv2hg8av17mV9K1WpL-2yec/edit?usp=sharing) et **déplace la carte dans la colonne" PV à signer** "en taguant Benjamin/Samuel et l’intra. Une fois que les deux ont signés, Benjamin/Samuel décale la carte dans la colonne "PV à intégrer à chorus", Cathie l'intégre et créé un service fait.
 
 <details>
 

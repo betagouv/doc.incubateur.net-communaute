@@ -32,7 +32,7 @@ A la publication et notification du marché en XXX, était prévu un préavis de
 
 {% hint style="info" %}
 **Rôle de l'entreprise attributaire :** \
-****\
+\
 **Nota bene :** ledit marché des startups d'Etat implique une relation contractuelle tripartite entre : une administration sponsor et financeuse / une équipe d'indépendant / une entreprise attributaire du marché. \
 Il n'existe donc pas à proprement parler de contrat de travail entre l'attributaire et les prestataires; i.e. l'attributaire ne saurait fournir un contrat de travail à un indépendant. \
 \

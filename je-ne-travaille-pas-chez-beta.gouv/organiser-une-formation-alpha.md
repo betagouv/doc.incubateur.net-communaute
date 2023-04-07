@@ -89,4 +89,4 @@ Modèle de présentation de la formation Alpha
 {% endembed %}
 
 * **Modèle de Miro** : [https://miro.com/app/board/uXjVOQbP014=/?invite\_link\_id=462307876204](https://miro.com/app/board/uXjVOQbP014=/?invite\_link\_id=462307876204)
-* **Méthodologie pour coacher les ateliers :** [**https://docs.google.com/document/d/11ZZfvDWMuYPLgAHmJ04VxUBddu-Bv5Y2xhydYk5gYhI/edit?usp=sharing**](https://docs.google.com/document/d/11ZZfvDWMuYPLgAHmJ04VxUBddu-Bv5Y2xhydYk5gYhI/edit?usp=sharing)****
+* **Méthodologie pour coacher les ateliers :** [**https://docs.google.com/document/d/11ZZfvDWMuYPLgAHmJ04VxUBddu-Bv5Y2xhydYk5gYhI/edit?usp=sharing**](https://docs.google.com/document/d/11ZZfvDWMuYPLgAHmJ04VxUBddu-Bv5Y2xhydYk5gYhI/edit?usp=sharing)

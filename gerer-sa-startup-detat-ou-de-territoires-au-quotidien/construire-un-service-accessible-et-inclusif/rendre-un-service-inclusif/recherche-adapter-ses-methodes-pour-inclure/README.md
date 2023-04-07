@@ -11,7 +11,7 @@ Les méthodes dont nous allons parler peuvent vous paraître familières. Cepend
 
 **Il n’est pas question de tester un produit. Vous tentez de comprendre un groupe de personnes, leurs vécus, mais surtout l’impact de votre produit ou service sur ces usagers.**
 
-****
+
 
 Exemples :&#x20;
 

@@ -10,7 +10,7 @@ description: >-
 
 Le programme _beta.gouv.fr_ en 2022, en quelques chiffres :
 
-****:heartpulse: **De l’impact pour des millions de Français**&#x20;
+:heartpulse: **De l’impact pour des millions de Français**&#x20;
 
 > * 6 nouveaux services lancés avec le programme beta.gouv.fr, déployés à l’échelle nationale, ont fait la preuve de leur impact significatif sur la vie des Français !&#x20;
 > * 18 services à impact national au total&#x20;
@@ -47,7 +47,7 @@ En **2021**, la mission beta.gouv a lancé **50 nouvelles startups d’État** e
 
 La mission beta.gouv débute **2022** avec **145 services en portefeuille**, dont 12 sont devenus des services publics à impact national. **16 incubateurs** sont dorénavant partenaires de la mission tandis que la communauté beta.gouv s’élève maintenant à **777 membres actifs.**
 
-****
+
 
 {% file src="../.gitbook/assets/Bilan 2021 beta.gouv.fr.pdf" %}
 

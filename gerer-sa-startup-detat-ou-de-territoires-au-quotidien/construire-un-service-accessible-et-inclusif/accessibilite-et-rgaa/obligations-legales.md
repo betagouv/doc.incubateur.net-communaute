@@ -48,6 +48,6 @@ Le Kit Accessibilité est là pour vous accompagner dans cette démarche, petit 
 
 Le programme Access vous accompagne dans les démarches officielles (audit RGAA)
 
-{% content-ref url="acces.md" %}
-[acces.md](acces.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
