@@ -4,7 +4,8 @@
 
 La communauté beta.gouv vit grâce à ses membres. C’est pourquoi chaque membre de la communauté peut utiliser jusqu’à 10% du temps consacré à sa Startup d’État pour participer à des activités transverses en facturant sur sa mission.
 
-\
+Ce temps peut être utilisé dans le cadre des formations, des évènements (comme le Forum mensuel) ou de l'entraide à la communauté (aide sur un outil, l'animation d'un groupe d'échange...).
+
 Les activités transverses permettent de prendre un peu de recul sur la mission, de connaître d’autres personnes, d’apprendre des choses et de partager son expérience.&#x20;
 
 \
