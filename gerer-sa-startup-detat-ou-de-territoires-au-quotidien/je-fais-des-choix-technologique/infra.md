@@ -29,7 +29,7 @@ Ont les accès:
 
 ### Matomo (ex Piwik)
 
-Une instance Matomo est disponible [ici](http://stats.data.gouv.fr). Tu peux demander un compte pour ta Startup en suivant la procédure : [demande ops](infra.md#comment-faire-une-demande-dops)
+Une instance Matomo est disponible [ici](https://stats.beta.gouv.fr/). Tu peux demander un compte pour ta Startup en suivant la procédure : [demande ops](infra.md#comment-faire-une-demande-dops)
 
 Ont les accès:
 
@@ -37,6 +37,7 @@ Ont les accès:
 * @julien.dauphant
 * @pli
 * @lucas.charrier
+* [amel.alili](http://localhost:5000/u/9S8oFAW1qCcGzLuz0J8BFUylTsd2 "mention")
 
 ### Mattermost
 
