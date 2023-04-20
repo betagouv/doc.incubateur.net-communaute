@@ -75,4 +75,8 @@ APRÈS LE DÉPART
 
 ### D'autres personnes et options de ressources dans la communauté&#x20;
 
-Contact de la cellule psy
+**Contacter le groupe de soutien :** constitué de membres de la communauté, ses membres sont disponibles pour vous écouter en respectant la confidentialité de votre situation en cas de conflit, mal-être ou souffrance, violence ou harcèlement.
+
+Ils sont joignables à l'adresse mail **soutien@beta.gouv.fr** ou individuellement.
+
+Les membres du groupe de soutien sont : Anne Poirot, Bréanne Mallat, Camille Garrigue, Caroline Lawson, Clémence Lopez, Denis Baudot, Florian Briand, Mélodie Dahi, Rebecca Dumazert.
