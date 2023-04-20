@@ -9,15 +9,18 @@ description: >-
 
 L'embarquement se passe en 3 étapes. Ces étapes sont décrites dans l'email que tu reçois 1 jour après la création de ta fiche membre (cf. la rubrique "Le premier jour chez beta.gouv).
 
-### **🧚🏼 2 rdv organisés par  ta marraine ou ton parrain**
+### **🧚🏼 2 rdv organisés avec les membres de l'équipe communauté de beta.gouv**
 
-Une marraine ou un parrain sera désigné pour t'accueillir avec 4 autres nouvelles recrues. Ielle vous contactera dans les 15 premiers jours de votre arrivée.&#x20;
+Grâce au 1er mail d'embarquement, tu pourras prendre rendez-vous librement avec un membre de l'équipe communauté beta.gouv afin de mieux connaitre ton nouvel environnement.
 
-* **Une rencontre en visio** pour :&#x20;
-  * se présenter tous ensemble ;
-  * répondre à vos questions notamment suite aux vidéos visionnées ;
-  * présenter les outils de la communauté : mattermost, l'espace membre, l'observatoire, la documentation.
-* **Une journée de travail à Ségur** pour :&#x20;
+*   Cet échange sera le moment de :&#x20;
+
+    * se présenter tous ensemble ;
+    * répondre à vos questions  ;
+    * présenter les outils de la communauté : mattermost, l'espace membre, l'observatoire, la documentation.
+
+
+* Nous te proposerons **une journée de travail à Ségur** pour :&#x20;
   * Se rencontrer en chair et en os ;
   * Travailler dans les bureaux de l'incubateur de la DINUM (20 avenue de Ségur, Paris) ;
   * Rencontrer les co-animateurs de l'incubateur de la DINUM et les autres merveilleuses personnes présentes ce jour ;
