@@ -43,9 +43,16 @@ Le harcèlement moral ou sexuel est interdit et constitue un délit pénal. A ti
     On a le droit, de sa propre initiative, "d'escalader" la chaîne si la réponse apportée ne satisfait pas.
 *   **Contacter le groupe de soutien :** constitué de membres de la communauté, ses membres sont disponibles pour vous écouter en respectant la confidentialité de votre situation en cas de conflit, mal-être ou souffrance, violence ou harcèlement.
 
-    Ils sont joignables à l'adresse mail **soutien@beta.gouv.fr** ou individuellement.
+    Pour les joindre :&#x20;
 
-    Les membres du groupe de soutien sont : Anne Poirot, Bréanne Mallat, Camille Garrigue, Caroline Lawson, Clémence Lopez, Denis Baudot, Florian Briand, Mélodie Dahi, Rebecca Dumazert.
+    👉 [Choisir un créneau pour échanger](https://app.calendso.incubateur.net/team/soutien/prise-de-contact-avec-l--quipe-de-soutien) avec un·e des membres (attribution aléatoire)
+
+    👉 Contacter l'équipe par email : soutien@beta.gouv.fr
+
+    👉 Contacter un·e membre individuellement sur Mattermost, par email ou en personne.
+
+_Les membres du groupe de soutien sont : Anne Poirot, Bréanne Mallat, Camille Garrigue, Caroline Lawson, Clémence Lopez, Denis Baudot, Florian Briand, Mélodie Dahi, Rebecca Dumazert._
+
 * **Contacter les fonctions Ressources Humaines** si je suis salarié·e de la DINUM ou d'une autre administration.
 * **Faire appel à la ligne d'écoute psychologique** proposée par la DINUM : numéro non-surtaxé 0 800 200 286
 * **Contacter les** **services d'assistance juridique proposés par la DINUM à travers Allo Discrim :** site Web [https://allodiscrim.wethics.eu/](https://allodiscrim.wethics.eu/) - code 2018
