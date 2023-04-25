@@ -15,7 +15,7 @@ Dans tous les cas vous pouvez demander de l'aide sur Mattermost `#incubateur-hel
 
 * Inscris-toi sur le site de Github : [https://github.com/join](https://github.com/join)
 
-![](<../../../.gitbook/assets/image (8) (2) (2) (2) (2) (2) (1) (1) (1) (1) (1) (2) (1) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (8) (2) (2) (2) (2) (2) (1) (1) (1) (1) (1) (2) (1) (1) (1) (1).png>)
 
 * Valide ton compte Github en cliquant sur le lien reçu par email
 * Pour améliorer la sécurité, tu dois activer l'authentification double facteur
