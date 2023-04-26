@@ -24,7 +24,7 @@ N'hésite pas à passer du temps à explorer la documentation de l'incubateur, e
 Si tu viens de rejoindre la communauté, pense aussi à t'inscrire [à la prochaine session d'embarquement dédiée aux devs](https://airtable.com/shrUCbUT72KtKefsu) si ça n'est pas déjà fait.
 {% endhint %}
 
-*   **Langages/Frameworks de référence** : _Javascript_ (NodeJS/Express) et _Python_ (Django) :
+*   **Langages/Frameworks de référence** : _Javascript/Typescript_ (NodeJS/Express) et _Python_ (Django) :
 
     * Ces langages sont flexibles, sécurisés et faciles à prendre en main lors de l'accélération ou du transfert du produit.
     * Il est facile de trouver des personnes compétentes pour aider.
