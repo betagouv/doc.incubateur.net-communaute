@@ -24,7 +24,7 @@ Pour créer une nouvelle adresse de contact, il faut demander à un admin OVH su
 ### Détails de la commande
 
 {% hint style="info" %}
-Attention : ces commandes fonctionnent uniquement dans le canal 🔒[`#incubateur-secretaria`](https://mattermost.incubateur.net/betagouv/channels/incubateur-secretaria)sur Mattermost.
+Attention : ces commandes fonctionnent uniquement dans le canal 🔒[`#incubateur-secretaria`](https://mattermost.incubateur.net/betagouv/channels/incubateur-secretariat)sur Mattermost.
 {% endhint %}
 
 * `/emails list` : affiche les listes de diffusions existantes

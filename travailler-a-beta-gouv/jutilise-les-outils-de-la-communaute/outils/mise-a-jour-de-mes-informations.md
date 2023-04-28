@@ -43,4 +43,4 @@ Demande à cette personne d'effectuer la modification de ta fiche sur github à 
 
 Une fois la modification effectuée, tu pourras réactiver ton adresse @beta.gouv.fr depuis le site du [secrétariat](https://secretariat.incubateur.net/). Tu devrais recevoir un mail dans les 30 minutes avec tes nouveaux accès.
 
-Si la procédure décrite ne fonctionne pas, demande de l'aide sur le canal mattermost [~incubateur-secretaria](https://mattermost.incubateur.net/betagouv/channels/incubateur-secretaria).
+Si la procédure décrite ne fonctionne pas, demande de l'aide sur le canal mattermost [~incubateur-secretaria](https://mattermost.incubateur.net/betagouv/channels/incubateur-secretariat).
