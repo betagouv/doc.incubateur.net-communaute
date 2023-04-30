@@ -10,7 +10,7 @@ description: "Tu nous quittes ? On espère que tu as passé un moment positif av
 
 > C'est important, c'est là que se fait le suivi RH !
 
-* [ ] Demander sur [\#incubateur-secretaria](https://startups-detat.slack.com/archives/C0KUBLJG4) de rediriger ton adresse `@beta.gouv.fr` vers `departs@beta.gouv.fr` pour que les personnes écrivant à cette adresse reçoivent un répondeur les informant de ton départ :
+* [ ] Demander sur [\#incubateur-secretariat](https://startups-detat.slack.com/archives/C0KUBLJG4) de rediriger ton adresse `@beta.gouv.fr` vers `departs@beta.gouv.fr` pour que les personnes écrivant à cette adresse reçoivent un répondeur les informant de ton départ :
 
 > Bonjour !
 >
@@ -34,4 +34,3 @@ description: "Tu nous quittes ? On espère que tu as passé un moment positif av
 ### Slack
 
 * Ton compte Slack sera désactivé s'il devient inactif \(14 jours d'inactivité\).
-

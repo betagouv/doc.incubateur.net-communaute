@@ -20,7 +20,7 @@ L'incubateur utilisait Slack comme service de messagerie instantanée. Nous util
 * Compléter ton profil Slack, avec ton mail et ton rôle dans la communauté beta.gouv.fr et chez Etalab, afin que celles et ceux qui ne te connaissent pas puissent facilement t'identifier. Sans que cela soit obligatoire, nous t'encourageons également à rajouter une photo où tu es reconnaissable et renseigner ton numéro de téléphone pro.
 * Prendre connaissance de la liste des canaux publics pour choisir ceux qui t'intéressent.&#x20;
 * Prendre connaissance des conventions de nommage des canaux de discussion si tu souhaitent en créer de nouveaux(ici plus bas).
-* Pour tout problème ou toute question concernant une des étapes de ton intégration, tu es invité à envoyer un message sur [🔒`#incubateur-secretaria`](https://startups-detat.slack.com/messages/incubateur-secretaria/) ou [🔒`#incubateur-help`](https://startups-detat.slack.com/messages/incubateur-help/).
+* Pour tout problème ou toute question concernant une des étapes de ton intégration, tu es invité à envoyer un message sur [🔒`#incubateur-secretariat`](https://startups-detat.slack.com/messages/incubateur-secretariat/) ou [🔒`#incubateur-help`](https://startups-detat.slack.com/messages/incubateur-help/).
 * Découvrir et s'inscrire aux [listes de diffusion](https://github.com/betagouv/beta.gouv.fr/wiki/listes-de-diffusion) qui t'intéressent.
 
 > Il existe une commande [/email](https://github.com/betagouv/beta.gouv.fr/wiki/Slack#emails) qui te permet de lister et de t'inscrire toi-même aux listes qui t'intéressent. N'hésite pas !
@@ -39,7 +39,7 @@ Si c'est pour créer un espace de discussion restreint, par exemple une équipe 
 
 ### La vie administrative
 
-[🔒`#incubateur-compta`](https://startups-detat.slack.com/messages/incubateur-compta/) [🔒`#incubateur-indép-octo`](https://startups-detat.slack.com/messages/incubateur-ind%C3%A9p-octo/) [🔒`#incubateur-secretaria`](https://startups-detat.slack.com/messages/incubateur-secretaria/)
+[🔒`#incubateur-compta`](https://startups-detat.slack.com/messages/incubateur-compta/) [🔒`#incubateur-indép-octo`](https://startups-detat.slack.com/messages/incubateur-ind%C3%A9p-octo/) [🔒`#incubateur-secretariat`](https://startups-detat.slack.com/messages/incubateur-secretariat/)
 
 ### La vie, la vraie
 

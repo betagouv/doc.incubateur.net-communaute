@@ -10,9 +10,9 @@ L'incubateur utilise [Slack](http://startups-detat.slack.com/) comme service de 
   * Avec une adresse email en `@beta.gouv.fr`: aller sur [https://startups-detat.slack.com/](https://startups-detat.slack.com/) et se créer un compte, ça devrait rouler tout seul. Sinon, demande à t·on.a marrain·e, par exemple.
   * Avec n'importe quel autre email : n'importe qui peut faire une demande d'invitation à l'espace de travail Slack de beta.gouv.fr \("Invite People"\) ; la demande sera transmise à un administrateur qui pourra l'approuver ou non.
 * Compléter ton profil Slack, avec ton mail et ton rôle dans la communauté beta.gouv.fr et chez Etalab, afin que celles et ceux qui ne te connaissent pas puissent facilement t'identifier. Sans que cela soit obligatoire, nous t'encourageons également à rajouter une photo où tu es reconnaissable et renseigner ton numéro de téléphone pro.
-* Prendre connaissance de la liste des canaux publics pour choisir ceux qui t'intéressent. 
+* Prendre connaissance de la liste des canaux publics pour choisir ceux qui t'intéressent.
 * Prendre connaissance des conventions de nommage des canaux de discussion si tu souhaitent en créer de nouveaux\(ici plus bas\).
-* Pour tout problème ou toute question concernant une des étapes de ton intégration, tu es invité à envoyer un message sur [🔒`#incubateur-secretaria`](https://startups-detat.slack.com/messages/incubateur-secretaria/) ou [🔒`#incubateur-help`](https://startups-detat.slack.com/messages/incubateur-help/).
+* Pour tout problème ou toute question concernant une des étapes de ton intégration, tu es invité à envoyer un message sur [🔒`#incubateur-secretariat`](https://startups-detat.slack.com/messages/incubateur-secretariat/) ou [🔒`#incubateur-help`](https://startups-detat.slack.com/messages/incubateur-help/).
 * Découvrir et s'inscrire aux [listes de diffusion](https://github.com/betagouv/beta.gouv.fr/wiki/listes-de-diffusion) qui t'intéressent.
 
 > Il existe une commande [/email](https://github.com/betagouv/beta.gouv.fr/wiki/Slack#emails) qui te permet de lister et de t'inscrire toi-même aux listes qui t'intéressent. N'hésite pas !
@@ -31,7 +31,7 @@ Si c'est pour créer un espace de discussion restreint, par exemple une équipe 
 
 ### La vie administrative
 
-[🔒`#incubateur-compta`](https://startups-detat.slack.com/messages/incubateur-compta/) [🔒`#incubateur-indép-octo`](https://startups-detat.slack.com/messages/incubateur-indép-octo/) [🔒`#incubateur-secretaria`](https://startups-detat.slack.com/messages/incubateur-secretaria/)
+[🔒`#incubateur-compta`](https://startups-detat.slack.com/messages/incubateur-compta/) [🔒`#incubateur-indép-octo`](https://startups-detat.slack.com/messages/incubateur-indép-octo/) [🔒`#incubateur-secretariat`](https://startups-detat.slack.com/messages/incubateur-secretariat/)
 
 ### La vie, la vraie
 
@@ -103,7 +103,7 @@ Par exemple :
 
 Pour recevoir une notification de Slack à chaque "🚀", vous pouvez également rajouter `:rocket:` dans votre [liste des mots-clefs](https://get.slack.help/hc/fr-fr/articles/201398467-Notifications-des-mots-cl%C3%A9s).
 
-_Cette convention est encore neuve, et en cours d'expérimentation \(avril 2017\)._  
+_Cette convention est encore neuve, et en cours d'expérimentation \(avril 2017\)._
 _Plus de détails_ [_par ici_](http://kemenaran.winosx.com/posts/partager-les-succes/)_._
 
 ### 💩 : négativité inutile.
@@ -133,4 +133,3 @@ Par exemple :
 ### Enregistrer des messages
 
 Vous avez la possibilité de en taguer "Enregistrer" certains messages \(le logo ressemble à un marque-page\_ ![:marque-page:](https://a.slack-edge.com/production-standard-emoji-assets/10.2/google-medium/1f516@2x.png) \_quand vous passez la souris sur un message\) Une fois tagués ces messages sont disponibles dans la rubrique "éléments enregistrés" sans date de péremption. Cette fonctionnalité était particulièrement pertinente lorsque nous disposions d'une licence "gratuite" qui supprimait les messages au fur et à mesure.
-

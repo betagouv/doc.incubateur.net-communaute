@@ -1,6 +1,6 @@
 # 👨🏽 Agents de la DINUM
 
-_Les adresses mail personnelles sont marquées comme du `code` et sont masquées sur ce document public. Demander les adresses réelles dans_ [_🔒`#incubateur-secretaria`_](https://startups-detat.slack.com/messages/incubateur-secretaria/) _sur Slack._
+_Les adresses mail personnelles sont marquées comme du `code` et sont masquées sur ce document public. Demander les adresses réelles dans_ [_🔒`#incubateur-secretariat`_](https://startups-detat.slack.com/messages/incubateur-secretariat/) _sur Slack._
 
 ## Notes de frais
 
@@ -74,4 +74,3 @@ Apparition des jours de récupération sur eTemptation dans les 7 jours suivant 
 En tant qu'agent contractuels de la fonction publiques, plusieurs rituels régissent notre relation RH à l'administration \(évaluations annuelles, formation continue, renouvellement…\).
 
 * La revue des cadres : Exercice annuel visant à prévoir d'éventuelles évolutions RH \(renouvellement, promotion, CDIsation, départ anticipé…\). Format = réunion avec la direction et la cellule Soutien de la DINUM + tableau des perspectives RH de chaque membre de l'équipe.
-

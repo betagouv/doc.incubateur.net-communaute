@@ -16,11 +16,11 @@ Les mailing-lists suivantes sont disponibles. Toutes les adresses sont à postfi
 
 ### La commande Slack `/emails`
 
-**Attention : commande à utiliser dans le channel** [**🔒`#incubateur-secretaria`**](https://startups-detat.slack.com/messages/incubateur-secretaria)
+**Attention : commande à utiliser dans le channel** [**🔒`#incubateur-secretariat`**](https://startups-detat.slack.com/messages/incubateur-secretariat)
 
 #### Comment créer une nouvelle liste de diffusion pour la communauté
 
-Pour créer une nouvelle adresse de contact, il faut demander un admin OVH sur [🔒`#incubateur-secretaria`](https://startups-detat.slack.com/messages/incubateur-secretaria)\*\* de créer la mailinglist. Elle pourra être géré sur slack.
+Pour créer une nouvelle adresse de contact, il faut demander un admin OVH sur [🔒`#incubateur-secretariat`](https://startups-detat.slack.com/messages/incubateur-secretariat)\*\* de créer la mailinglist. Elle pourra être géré sur slack.
 
 #### Détails de la commande
 
@@ -59,4 +59,3 @@ Pour créer une nouvelle adresse de contact, utilisez un hébergeur de mailing-l
 | Gestion par `/emails` dans Slack | Automatique | Si c'est configurer dans le bot [slack-ovh](https://github.com/betagouv/slack-ovh) | Non |
 | Création | Par un Admin sur OVH \(Florian,Julien,Laurent,Thomas\) | Par une PR sur le bot [slack-ovh](https://github.com/betagouv/slack-ovh) | Par vous après la délégation DNS |
 | Plus d'infos | [Doc MailingList OVH](https://docs.ovh.com/fr/emails/guide-dutilisation-mailing-list/) | [Doc redirection OVH](https://docs.ovh.com/fr/emails/guide-des-redirections-emails/) | L'article [Infra](Infra) qui par la délégation DNS |
-
