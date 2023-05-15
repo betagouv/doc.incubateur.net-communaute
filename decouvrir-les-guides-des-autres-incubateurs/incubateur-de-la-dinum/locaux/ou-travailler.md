@@ -49,7 +49,7 @@ lelab.00174@pole-emploi.fr
 
 ### [Fabrique à Projets](http://www.ipec.developpement-durable.gouv.fr/fabrique-a-projets-r183.html)
 
-La Grande Arche Paroi sud 92055 LA DÉFENSE CEDEX
+La Grande Arche Paroie sud 92055 LA DÉFENSE CEDEX
 
 fabrique.projets@developpement-durable.gouv.fr
 

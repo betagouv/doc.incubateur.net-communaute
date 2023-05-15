@@ -46,7 +46,9 @@ Benjamin/Samuel/Tristan tag cathie.&#x20;
 
 ### Etape 3 Intégration dans chorus
 
-Cathie intègre dans chorus le devis pour le transformer en demande d’achat. Cathie indique sur[ le tableau de suivi des commandes](https://www.notion.so/lafabnum/Suivi-des-bons-de-commande-BC-9e2e7dae11c740ce99a2e9e87cb3873c) le numéro de la DA + en met une impression + fait passer la carte dans “demande d’achat rentrée dans chorus”. Cathie intègre les éléments de la DA/devis dans [le tableau de suivi macro](https://docs.google.com/spreadsheets/d/1\_3BN-avzUNgh-DCD\_95VL0didj8QSv4CNnASsIHnwPw/edit#gid=530195431) onglet “bons de commande 2022-2021 et avant” (besoin d’être connecté avec l’adresse cathpailot@gmail.com).&#x20;
+Cathie intègre dans chorus le devis pour le transformer en demande d’achat. Cathie indique sur[ le tableau de suivi des commandes](https://www.notion.so/lafabnum/Suivi-des-bons-de-commande-BC-9e2e7dae11c740ce99a2e9e87cb3873c) le numéro de la DA + en met une impression + fait passer la carte dans “demande d’achat rentrée dans chorus”. \
+Cathie intègre les éléments de la DA/devis dans [le tableau de suivi macro](https://docs.google.com/spreadsheets/d/1\_3BN-avzUNgh-DCD\_95VL0didj8QSv4CNnASsIHnwPw/edit#gid=530195431) onglet “bons de commande 2022-2021 et avant” (besoin d’être connecté avec l’adresse cathpailot@gmail.com). \
+Cathie intègre les éléments de la DA dans la maquette DG de suivi de BAB correspondante.
 
 ### Etape 4 Validation de la DA
 

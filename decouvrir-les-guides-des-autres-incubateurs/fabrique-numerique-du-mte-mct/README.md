@@ -5,3 +5,4 @@ Vous trouverez ici l'ensemble des éléments et processus spécifiques à la Fab
 Les notions / processus :&#x20;
 
 * Utiliser et suivre son budget
+* Pour les autres informations, vous pouvez [les retrouver dans notre ancien espace ](https://doc.mte.incubateur.net/)que nous n'avons pas fini de décommissionner.&#x20;
