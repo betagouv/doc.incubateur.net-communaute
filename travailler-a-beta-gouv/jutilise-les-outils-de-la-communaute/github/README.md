@@ -15,7 +15,7 @@ Dans tous les cas vous pouvez demander de l'aide sur Mattermost `#incubateur-hel
 
 * Inscris-toi sur le site de Github : [https://github.com/join](https://github.com/join)
 
-![](<../../../.gitbook/assets/image (8) (2) (2) (2) (2) (2) (1) (1) (1) (1) (1) (2) (1) (1) (1) (1) (1) (5).png>)
+![](<../../../.gitbook/assets/image (8) (2) (2) (2) (2) (2) (1) (1) (1) (1) (1) (2) (1) (1) (1) (1) (1) (1).png>)
 
 * Valide ton compte Github en cliquant sur le lien reçu par email
 * Pour améliorer la sécurité, tu dois activer l'authentification double facteur
@@ -23,7 +23,7 @@ Dans tous les cas vous pouvez demander de l'aide sur Mattermost `#incubateur-hel
   * Dans la section "Two-factor authentication"
   * "Enable two-factor authentication"
 
-![](<../../../.gitbook/assets/image (14) (2) (2) (2) (2) (2) (2) (2) (2) (1) (1) (1) (1) (1) (3) (1) (1) (1) (1) (1) (7).png>)
+![](<../../../.gitbook/assets/image (14) (2) (2) (2) (2) (2) (2) (2) (2) (1) (1) (1) (1) (1) (3) (1) (1) (1) (1) (1) (4).png>)
 
 * Si tu es familier avec les applications mobile de type "Google Authenticator", fais : "**Set up using an app**." et suis les étapes indiquées par Github.
 * Si tu ne comprends pas le point si dessus, fais "**Set up using SMS"** et entre ton numéro de mobile
