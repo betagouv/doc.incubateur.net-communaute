@@ -6,7 +6,7 @@ description: >-
 
 # Certification des intrapreneur·se·s
 
-{% file src="../../../.gitbook/assets/methodologies-dentrepreneuriat-appliquees-aux-projets-dinnovation-competences-attestees-1-.pdf" %}
+{% file src="../../../.gitbook/assets/Méthodologies d’entrepreneuriat appliquées aux projets numériques - Compétences attestées.pdf" %}
 Fiche récapitulative de la certification
 {% endfile %}
 
@@ -25,7 +25,7 @@ Le déroulé de cette certification pour les intras vise à évaluer ces 8 comp�
 * Pitch
 * Investigation du problème que ta Startup cherche à résoudre
 * Conception/Priorisation
-* Stratégie produit
+* Prototypage
 * Test&#x20;
 * Déploiement
 * Financement
