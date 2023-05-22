@@ -23,12 +23,6 @@ N'hésite pas à t'investir dans les actions suivantes, c'est ouvert à tout le 
 
 Tu peux consulter les dates des prochains forums dans l'agenda public.
 
-#### ⭐️ Devenir marraine/parrain d'une nouvelle recrue
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
 #### ⭐️ Participer à un club de partage d'expérience
 
 L'incubateur de la DINUM propose plusieurs rencontres de partage d'expérience entre personnes ayant des rôles similaires : c'est ce que nous appelons les **clubs**. Ils ont lieu lors du forum mensuel, tous les premiers jeudi du mois à 16h.
