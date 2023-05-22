@@ -25,8 +25,8 @@ Tu peux consulter les dates des prochains forums dans l'agenda public.
 
 #### ⭐️ Devenir marraine/parrain d'une nouvelle recrue
 
-{% content-ref url="marrainage/" %}
-[marrainage](marrainage/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 #### ⭐️ Participer à un club de partage d'expérience

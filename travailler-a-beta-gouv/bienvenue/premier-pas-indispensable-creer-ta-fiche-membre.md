@@ -26,7 +26,7 @@ Une fiche membre permet aux nouveaux arrivants :
 1. Tu renseignes le[ formulaire](https://espace-membre.incubateur.net/onboarding) ;
 2. Ton référent (un membre de ton équipe ou un co-animateur) recevra un email lui demandant de confirmer ton arrivée au sein d'une équipe du réseau beta.gouv ;
 3. Tu reçois un email de bienvenue dans ta boite email personnel qui te permet d'activer ton email @beta.gouv.fr (le temps de faire passer les tests, cela peut prendre 1/2 heure après l'étape précédente) ;
-4. Notre "bot" recherchera automatiquement [un ou une marraine ](../actions-transverses/marrainage/)au sein de la communauté, qui pourra être ton point de références durant tes premiers mois au cas où tu rencontres des problèmes ;
+4. Notre "bot" recherchera automatiquement [un ou une marraine ](broken-reference)au sein de la communauté, qui pourra être ton point de références durant tes premiers mois au cas où tu rencontres des problèmes ;
 5. Si tu as renseigné ton compte Github, tu seras automatiquement ajouté à l'organisation beta.gouv sur Github ;
 6. Tu reçois une invitation pour accéder à notre messagerie collaborative (Mattermost) dans ta boite e-mail @beta.gouv.fr.
 
@@ -75,8 +75,6 @@ Cela vient avec quelques **règles d'hygiène informatique** pour assurer un niv
 8. Si quelqu'un vous demande un mot de passe, **vérifiez que c'est en effet la bonne personne qui a fait la demande**. Il est possible de voler les accès Mattermost d'une personne et se faire passer pour elle sur le réseau. Il est possible qu'une personne se fasse voler son numéro de téléphone. Pour vous assurer que c'est la bonne personne, vous pouvez demander à déclencher une visio.
 
 Ces règles s'appliquent à tous les membres de la communauté, quelque soit votre accès à des informations sensibles.
-
-
 
 {% content-ref url="embarquement-dev.md" %}
 [embarquement-dev.md](embarquement-dev.md)
