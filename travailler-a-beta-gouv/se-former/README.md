@@ -12,7 +12,7 @@ Nous ne disposons pas d'une "stratégie" de formation. Néanmoins nous avons ini
   * Le MOOC de la [formation Alpha](https://beta.gouv.fr/alpha/mooc)
   * [Les replays des formations ](https://www.youtube.com/playlist?list=PL1x4mOvpkEHopyiZHZdqXO8ageS6BYSu8)
 * [des formations récurrentes](les-formations-a-venir/)
-* des [groupes de partage d'expérience](clubs-de-partage-dexperience/) sous forme de co-développement professionnels.
+* des [groupes de partage d'expérience](clubs-de-partage-dexperience.md) sous forme de co-développement professionnels.
 * une [certification pour les intrapreneurs](certification-des-intrapreneurs/).
 
 Au sein de chaque incubateur ou Fabrique numérique membre du réseau beta.gouv, il existe également des actions de formation.
@@ -33,8 +33,8 @@ Retrouvez aussi les autres sections qui concernent la rubrique "Se former et év
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="clubs-de-partage-dexperience/" %}
-[clubs-de-partage-dexperience](clubs-de-partage-dexperience/)
+{% content-ref url="clubs-de-partage-dexperience.md" %}
+[clubs-de-partage-dexperience.md](clubs-de-partage-dexperience.md)
 {% endcontent-ref %}
 
 {% content-ref url="les-formations-a-venir/partage-de-ressources.md" %}
