@@ -107,7 +107,7 @@
     * [C'est quoi une certification de compétences?](travailler-a-beta-gouv/se-former/certification-des-intrapreneurs/cest-quoi-une-certification-de-competences.md)
     * [Pourquoi une certification des compétences des intras ?](travailler-a-beta-gouv/se-former/certification-des-intrapreneurs/pourquoi-une-certification-des-competences-des-intras.md)
     * [Vidéos de révisions](travailler-a-beta-gouv/se-former/certification-des-intrapreneurs/videos-de-revisions.md)
-  * [Changer de startup / changer de type de mission](travailler-a-beta-gouv/se-former/changer-de-startup-changer-de-type-de-poste.md)
+  * [🪜 Changer de startup / changer de type de mission](travailler-a-beta-gouv/se-former/changer-de-startup-changer-de-type-de-poste.md)
 * [🙋 Quitter beta.gouv](travailler-a-beta-gouv/au-revoir/README.md)
   * [Le désembarquement de la communauté](travailler-a-beta-gouv/au-revoir/le-desembarquement-de-la-communaute.md)
   * [Que faire avant la date de fin de ma mission ?](travailler-a-beta-gouv/au-revoir/que-faire-avant-la-date-de-fin-de-ma-mission.md)
