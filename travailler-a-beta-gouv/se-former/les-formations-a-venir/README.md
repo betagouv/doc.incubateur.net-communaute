@@ -1,17 +1,25 @@
-# Les formations à venir
+---
+description: >-
+  Cette page présente les formations à venir, les demandes de formations et
+  comment proposer une formation.
+---
 
-### Je souhaite voir quelles formations arrivent
+# 🧑🎓 Les formations
+
+## ⏭️ Les formations à venir
 
 Tu trouveras ici une vue d'ensemble des formations à venir.\
 Depuis cette vue, tu pourras t'inscrire aux formations auxquelles tu souhaites assister.
 
 {% embed url="https://airtable.com/shrjchWYvVihQzic6" %}
 
-[👉Les formations à venir](https://airtable.com/shrjchWYvVihQzic6)
+### 👉 [S'inscrire à une formation](https://airtable.com/shr5Uaqje8eV9BabU)
 
-### Je souhaite animer une formation
+&#x20;
 
-Si tu souhaites proposer une formation :
+## 🧑‍🏫 Je souhaite animer une formation
+
+Il te suffit de remplir ce formulaire et de suivre les recommandations pour l'organisation des sessions. Il est aussi recommandé de contacter l'équipe d'animation de la communauté via Mattermost [\~incubateur-formations](https://mattermost.incubateur.net/betagouv/channels/incubateur-formations) ou mail à communaute@beta.gouv.fr.
 
 {% embed url="https://airtable.com/shr3sH68gDOjFaLT7" %}
 
@@ -23,7 +31,7 @@ Pour plus d'informations concernant l'animation de formations à Beta, c'est ici
 [animer-une-formation.md](animer-une-formation.md)
 {% endcontent-ref %}
 
-### Je souhaite être formé•e sur un sujet qui n'est pas dans la liste
+## 👀 Je souhaite être formé•e sur un sujet qui n'est pas dans la liste
 
 Si tu as une envie d'être formé•e sur un sujet en particulier, absent de cette liste, nous t'invitons à la faire remonter ici [💡Je veux me former.](https://airtable.com/shrVVAEGVNBK2Uwdr)
 
@@ -44,7 +52,6 @@ Les différents besoins remontés sont visibles ici 👉[Les besoins en formatio
 Depuis cette vue tu peux :
 
 * appuyer la demande si ce sujet de formation t'intéresse aussi. Pour cela, clique sur le bouton **👍Ça m'intéresse**
-* proposer une formation sur ce sujet. Pour cela, renseigne le formulaire 🧑‍🏫[Je propose une formation](https://airtable.com/shr3sH68gDOjFaLT7)
 * conseiller une formation ou un support externe à beta.gouv sur le sujet.
 
 {% embed url="https://airtable.com/shrqQxk0lOugFcr6S" %}

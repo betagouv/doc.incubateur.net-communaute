@@ -46,7 +46,7 @@ L'incubateur de la DINUM propose plusieurs rencontres de partage d'expérience e
 
 Tous les membres de la communauté sont légitimes à organiser et animer des formations pour partager ses connaissances.
 
-Tu peux consulter les formations à venir et proposer une formation [sur cette page](../se-former/les-formations-a-venir.md).&#x20;
+Tu peux consulter les formations à venir et proposer une formation [sur cette page](../se-former/les-formations-a-venir/).&#x20;
 
 Si tu as une question sur une formation ou si tu veux faire la communication d'une formation que tu organises 👉 poste un message sur le canal Mattermost [\~incubateur-formations](https://mattermost.incubateur.net/betagouv/channels/incubateur-formations).
 

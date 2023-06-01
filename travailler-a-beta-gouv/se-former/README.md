@@ -8,36 +8,37 @@ Au sein de la communauté, nous essayons de permettre à tous de se former et/ou
 
 Nous ne disposons pas d'une "stratégie" de formation. Néanmoins nous avons initié certaines actions :
 
-* des **sessions d'embarquement** de deux heures pour les nouveaux arrivants (plus d'informations sur [cette page](../bienvenue/embarquement-dev.md))
-* le **cours en ligne** (MOOC) de la [formation Alpha](https://beta.gouv.fr/alpha/mooc).
-* des **conférences courtes** d'une heure sur des sujets, des outils ou des méthodes. Elles sont le plus souvent proposés par des membres de la communauté. Suivez le [calendrier de beta.gouv](https://calendar.google.com/calendar/embed?src=0ieonqap1r5jeal5ugeuhoovlg%40group.calendar.google.com\&ctz=Europe%2FParis) pour ne pas passer à côté.
-* des [**groupes de partage d'expérience**](clubs-de-partage-dexperience/) sous forme de co-développement professionnels.
-* un [certification pour les intrapreneurs](certification-des-intrapreneurs/).
+* des formations en ligne : &#x20;
+  * Le MOOC de la [formation Alpha](https://beta.gouv.fr/alpha/mooc)
+  * [Les replays des formations ](https://www.youtube.com/playlist?list=PL1x4mOvpkEHopyiZHZdqXO8ageS6BYSu8)
+* [des formations récurrentes](les-formations-a-venir/)
+* des [groupes de partage d'expérience](clubs-de-partage-dexperience/) sous forme de co-développement professionnels.
+* une [certification pour les intrapreneurs](certification-des-intrapreneurs/).
 
 Au sein de chaque incubateur ou Fabrique numérique membre du réseau beta.gouv, il existe également des actions de formation.
 
 Certaines formations ponctuelles sont référencées dans les sections suivantes :
 
-{% content-ref url="les-formations-a-venir.md" %}
-[les-formations-a-venir.md](les-formations-a-venir.md)
+{% content-ref url="les-formations-a-venir/" %}
+[les-formations-a-venir](les-formations-a-venir/)
 {% endcontent-ref %}
 
-{% content-ref url="les-formations-passees/" %}
-[les-formations-passees](les-formations-passees/)
+{% content-ref url="les-formations-a-venir/les-formations-passees.md" %}
+[les-formations-passees.md](les-formations-a-venir/les-formations-passees.md)
 {% endcontent-ref %}
 
 Retrouvez aussi les autres sections qui concernent la rubrique "Se former et évoluer" :&#x20;
 
-{% content-ref url="animer-une-formation.md" %}
-[animer-une-formation.md](animer-une-formation.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="clubs-de-partage-dexperience/" %}
 [clubs-de-partage-dexperience](clubs-de-partage-dexperience/)
 {% endcontent-ref %}
 
-{% content-ref url="partage-de-ressources.md" %}
-[partage-de-ressources.md](partage-de-ressources.md)
+{% content-ref url="les-formations-a-venir/partage-de-ressources.md" %}
+[partage-de-ressources.md](les-formations-a-venir/partage-de-ressources.md)
 {% endcontent-ref %}
 
 {% content-ref url="certification-des-intrapreneurs/" %}
