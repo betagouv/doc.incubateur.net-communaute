@@ -20,7 +20,7 @@ Tu as sûrement dû découvrir l'offre qui t'intéresse sur notre _**page Recrut
 
 Il faut noter que le réseau beta.gouv.fr comprend de nombreuses administrations partenaires et de nombreuses structures d'innovation publique (les "incubateurs"). Pour chaque offre, identifies bien à quelle Startup d'État elle se rattache ([liste ici](https://beta.gouv.fr/startups/)) et dans quel incubateur public travaille son équipe ([liste ici](https://beta.gouv.fr/communaute/)).
 
-Tu peux également en lire davantage sur les différents statuts qui existent chez beta.gouv.fr : [agents publics](../travailler-a-beta-gouv/actions-transverses/les-differents-statuts/fonctionnaires-et-contractuels-de-la-fonction-publique.md) (dont CDD, alternances et stages), [prestation](../travailler-a-beta-gouv/actions-transverses/sengager-dans-une-action-transverse/salaries-des-societes-de-prestation.md) et [freelance](../travailler-a-beta-gouv/recrutement/devenir-freelance.md).
+Tu peux également en lire davantage sur les différents statuts qui existent chez beta.gouv.fr : [agents publics](../travailler-a-beta-gouv/actions-transverses/les-differents-statuts/fonctionnaires-et-contractuels-de-la-fonction-publique.md) (dont CDD, alternances et stages), [prestation](../travailler-a-beta-gouv/actions-transverses/sengager-dans-une-action-transverse/salaries-des-societes-de-prestation.md) et [freelance](../travailler-a-beta-gouv/bienvenue/les-differents-statuts/independants-freelances/devenir-freelance.md).
 
 Enfin, tu peux également parcourir notre documentation sur les différents métiers qui existent dans le réseau beta.gouv.fr en suivant le lien ci-dessous.
 

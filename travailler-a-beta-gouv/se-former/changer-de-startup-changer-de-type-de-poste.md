@@ -1,4 +1,4 @@
-# Changer de startup / changer de type de mission
+# 🪜 Changer de startup / changer de type de mission
 
 A Beta.gouv, on valorise la connaissance de l’écosystème des membres de la communauté : on encourage les membres à rester au sein de la communauté si leur mission s'arrête, ou s'ielles souhaitent voir autre chose en poursuivant dans une autre startup ou en transverse.
 
