@@ -36,9 +36,8 @@ La mission de freelance peut être arrêtée à tout moment par décision de l�
 * mauvaise exécution de la mission
 * comportement intolérable (violence verbale, psychologique, physique, comportements inappropriés)
 
-Dans le cas où l'équipe produit (l’administration) décide de mettre fin à votre mission, voici les bonnes pratiques que nous vous invitons à suivre :&#x20;
+Dans le cas où l'équipe produit (l’administration) demande au titulaire de mettre fin à votre mission, voici les bonnes pratiques que nous vous invitons à suivre :&#x20;
 
 * Demander un feedback oral et écrit à l'équipe produit sur la collaboration et les raisons pour lesquelles la mission prend fin.&#x20;
 * Faire un feedback aux membres de l'équipe produit sur votre collaboration.
 * Prévoir avec l'équipe produit une période de passation afin de restituer l'ensemble de vos travaux. &#x20;
-* Prévenir votre titulaire et, si vous en avez un, regarder dans votre contrat s'il y a des conditions spécifiques concernant la fin de mission.
