@@ -1,8 +1,6 @@
 # 📜 Charte des freelances
 
-### Rappel : les droits des _freelances_
-
-En tant qu'indépendante ou indépendant, il n'y a pas de lien de subordination, ni avec un quelconque membre de l'équipe, ni avec l'entreprise titulaire du marché, ni avec [beta.gouv.fr](http://beta.gouv.fr) :
+En tant qu'indépendante ou indépendant, il n'y a pas de lien de subordination, ni avec un quelconque membre de l'équipe, ni avec l'entreprise titulaire du marché, ni avec [beta.gouv.fr](http://beta.gouv.fr). Il est toutefois possible que vous ayez signé un contrat avec votre titulaire précisant des conditions spécifiques. Si ce n'est pas le cas, les éléments ci-dessous s'appliquent :&#x20;
 
 * Vous êtes **libres** de chercher des missions ailleurs et d'avoir d'autres clients ;
 * Vous **choisissez** les jours où vous ne travaillez pas. Afin d'assurer le bon fonctionnement de l'équipe, il est bienvenu de communiquer au maximum sur ses jours de présence et d'absence ;
