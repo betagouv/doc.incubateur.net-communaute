@@ -78,6 +78,7 @@
     * [Configurer un message d'absence](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/emails/configurer-un-message-dabsence.md)
     * [Demander l'ajout de mon email secondaire](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/emails/demander-lajout-de-mon-email-secondaire.md)
   * [Sous-domaine beta.gouv.fr](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/sous-domaine-beta-gouv-fr.md)
+  * [Matomo - Analytics](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/matomo.md)
   * [Dashlord](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/dashlord/README.md)
     * [FAQ DashLord](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/dashlord/questions-reponses.md)
   * [Metabase](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/metabase.md)
