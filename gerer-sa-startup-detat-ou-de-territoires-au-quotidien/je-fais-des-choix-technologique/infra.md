@@ -46,6 +46,7 @@ Ont les accès:
 * @florian.delezenne
 * @julien.dauphant
 * @tristan.robert
+* [amel.alili](http://localhost:5000/u/9S8oFAW1qCcGzLuz0J8BFUylTsd2 "mention")
 
 ### Docker Hub
 
