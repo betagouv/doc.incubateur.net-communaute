@@ -34,7 +34,7 @@ Slides : [https://docs.google.com/presentation/d/1MT3xbM0j23Xwl5s55sss6cEKNEhSUF
 
 ## E-Mailing <a href="#mailing-en-masse" id="mailing-en-masse"></a>
 
-#### Utiliser un outil comme Sendinblue <a href="#utiliser-mailjet" id="utiliser-mailjet"></a>
+#### Utiliser un outil comme ~~Sendinblue~~ Brevo <a href="#utiliser-mailjet" id="utiliser-mailjet"></a>
 
 Il existe un compte partagé beta.gouv pour envoyer des e-mailings rapidement. Pour savoir comment l'utiliser et comment envoyer des emails :
 
