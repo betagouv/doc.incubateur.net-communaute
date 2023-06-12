@@ -1,4 +1,4 @@
-# Outils de secrétariat
+# Outils de l'espace membre (anciennement secrétariat)
 
 ## Boîtes mail
 
@@ -9,8 +9,6 @@ Une fois que tu as ton identifiant et ton mot de passe, configure ta boite mail 
 ## Mattermost
 
 Le Mattermost de l'incubateur est accessible via [https://mattermost.incubateur.net/](https://mattermost.incubateur.net). Nous utilisons la version gratuite du service. Les administrateurs et _owners_ du service sont signalés sur la liste des membres du chat.
-
-~~Le bot glossaire de Slack (`/trad`) est une instance de~~ [~~`glossary-bot`~~](https://github.com/codeforamerica/glossary-bot) ~~hébergée sur Heroku (id : glossaire-betagouvfr) sur le compte de @MattiSG.~~
 
 _Plus d'informations sur_ [_notre usage de Mattermost_](../mattermost/)_._
 
