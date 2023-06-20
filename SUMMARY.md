@@ -233,6 +233,7 @@
   * [Produire des contenus](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/boite-a-outils/README.md)
     * [Écriture Inclusive](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/boite-a-outils/ecriture-inclusive.md)
     * [Introduction à l'ux writing](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/boite-a-outils/introduction-a-lux-writing.md)
+    * [Simplifier ses contenus](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/boite-a-outils/simplifier-ses-contenus.md)
     * [Comment produire une documentation utile et utilisable ?](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/boite-a-outils/comment-produire-une-documentation-utile-et-utilisable/README.md)
       * [Les bases de la documentation](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/boite-a-outils/comment-produire-une-documentation-utile-et-utilisable/les-bases-de-la-documentation.md)
       * [Les 4 types de documentation](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/boite-a-outils/comment-produire-une-documentation-utile-et-utilisable/les-4-types-de-documentation.md)
