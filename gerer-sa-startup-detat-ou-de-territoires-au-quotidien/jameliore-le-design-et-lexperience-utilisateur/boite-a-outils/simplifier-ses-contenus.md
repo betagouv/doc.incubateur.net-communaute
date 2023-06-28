@@ -88,7 +88,7 @@ La démarche est la suivante
 2. Rendre le texte plus **concis**
 3. Rendre le texte plus **conversationnel**
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>La quantité de texte varie selon les différentes phases d'édition d'un texte (Source : Strategic Writing for UX de Torrey Podmajersky)</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (2).png" alt=""><figcaption><p>La quantité de texte varie selon les différentes phases d'édition d'un texte (Source : Strategic Writing for UX de Torrey Podmajersky)</p></figcaption></figure>
 
 Choisir ses mots avec soin :&#x20;
 
