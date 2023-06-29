@@ -8,21 +8,31 @@ En France, plusieurs lois viennent encadrer l'accessibilité numérique.&#x20;
 
 ## **Obligations légales**
 
-### **Obligations déclaratives**
-
-{% hint style="success" %}
-Cette obligation s'applique à **tous sites web**, applications mobiles et applications métiers **du service public**, depuis juin 2021.
-{% endhint %}
+### **Obligation de transparence**
 
 Chaque site conçu chez beta.gouv.fr doit :&#x20;
 
-* **afficher l’état de conformité du site** sur la page d’accueil (idéalement dans le [pied de page](https://www.systeme-de-design.gouv.fr/elements-d-interface/composants/pied-de-page), comme préconisé par le [Design Système de l'État](https://www.systeme-de-design.gouv.fr/))
-* **publier une** [**déclaration de conformité**](https://betagouv.github.io/a11y-generateur-declaration/) (même si le service n'a pas encore été audité)
-* **expliquer la politique d’accessibilité** en publiant un schéma pluri-annuel.
+* **afficher l’état de conformité du site** sur la page d’accueil&#x20;
+* **publier une** [**déclaration de conformité**](https://betagouv.github.io/a11y-generateur-declaration/)&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Démarche Simplifiées affiche sa mention de conformité (partiellement conforme) en fin de page</p></figcaption></figure>
 
-Manquer aux obligations déclaratives est passible d'une amende annuelle de 20 000 € pour chaque nom de domaine.
+
+
+Ces obligations sont valables dès la mise en ligne du site, même si le service n'a pas encore été audité (on indiquera alors la mention "Accessibilité : non conforme")
+
+Manquer aux obligations déclaratives est passible d'une amende de 20 000 €, pour chaque année de manquement (l'obligation étant en vigueur depuis 2021).
+
+### **Obligation d'engagement**
+
+Chaque équipe doit aussi **expliquer sa politique d’accessibilité** en publiant un schéma pluri-annuel. Ce document doit contenir entre autres :&#x20;
+
+* des informations sur la **personne référente accessibilité numérique**
+* les **formations** et **sensibilisations** à l'accessibilité prévues&#x20;
+* l**'organisation interne** prévue pour **mettre en œuvre** l'accessibilité&#x20;
+* etc
+
+Les informations obligatoires sont décrites sur la page [Schéma pluriannuel de mise en accessibilité](https://accessibilite.numerique.gouv.fr/obligations/schema-pluriannuel/).
 
 ### Obligations d'accessibilité
 
@@ -30,7 +40,7 @@ Manquer aux obligations déclaratives est passible d'une amende annuelle de 20 0
 Les produits des Startup d’État **doivent être accessibles**, qu'ils soient grand public, ou outils professionnels.
 {% endhint %}
 
-En parallèle d'être transparent sur l'accessibilité du site, les services numériques publics doivent avant tout être accessible. Dans le cadre légal, cela signifie être en conformité avec le RGAA (Référentiel Général d’Accessibilité des Administrations). En cas de manquement d'accessibilité, il existe un risque pénal ou financier pour la personne responsable du produit.&#x20;
+En parallèle, les services numériques publics doivent avant tout être accessible. Dans le cadre légal, cela signifie être en conformité avec le RGAA (Référentiel Général d’Accessibilité des Administrations). En cas de manquement d'accessibilité, il existe un risque pénal ou financier pour la personne responsable du produit.&#x20;
 
 Pour qualifier la conformité RGAA d'un site web, il n'existe qu'une seule méthode : faire un audit RGAA.
 
@@ -38,21 +48,14 @@ Pour qualifier la conformité RGAA d'un site web, il n'existe qu'une seule méth
 
 Les audits RGAA sont fait par des expertes et des experts en accessibilité. Actuellement, il n'y a pas de marché public. Il faut donc contacter au moins 2 prestataires et choisir celui qui convient le mieux.&#x20;
 
-Voici quelques prestataires reconnus dans le secteur :&#x20;
-
-* Access42
-* Atalan
-* Idéance
-* Koena
-* Tanaguru
-* Temesis
+Voici quelques prestataires reconnus dans le secteur : Access42, Atalan, Idéance, Koena, Tanaguru, Temesis...
 
 À titre indicatif, voici quelques informations :&#x20;
 
 * Un audit de conformité ne dure que quelques jours, mais les cabinets d'experts peuvent avoir plusieurs semaines ou mois de délais. (Ce sont les corrections suite à l'audit qui sont plus longues en temps !)
 * En terme de budget, il faut compter environ 5000 € (mais cela peut être plus selon la complexité du site).
 
-_Note : il est aussi possible de faire un audit en interne. Cependant, cet exercice étant très technique et chronophage, il est recommandé de le déléguer à une personne étant formée._&#x20;
+_Note : il est aussi possible de faire un audit en interne. Cependant, cet exercice étant très technique et chronophage, il est recommandé de le déléguer à des personnes formées, par exemple s'étant engagée dans la_ [_charte d’engagement du CNCPH pour les audits de conformités RGAA_](https://cncph.fr/charte-rgaa/)_._
 
 ## Préparer un audit RGAA
 
@@ -64,5 +67,7 @@ Le [Pôle Numérique Inclusif](../../je-sollicite-de-laide-transverse/aide-trans
 
 ## **Pour aller plus loin**
 
-* [**Accessibilité et RGAA : quelles sont les obligations légales ?**](https://access42.net/accessibilite-RGAA-obligations-legales) par Access42
+* [**Le site du RGAA**](https://accessibilite.numerique.gouv.fr/)
+* [**Les obligations légales d’accessibilité numérique en France**](https://ideance.net/blog/293/loi-accessibilite-numerique-france/), par Idéance
 * [**Les ressources sur l'accessibilité numérique**](https://design.numerique.gouv.fr/accessibilite-numerique/) par le pole Design de la DINUM
+* L'[**Observatoire du respect des obligations d'accessibilités numériques** ](https://observatoire-access-num.aveuglesdefrance.org/)
