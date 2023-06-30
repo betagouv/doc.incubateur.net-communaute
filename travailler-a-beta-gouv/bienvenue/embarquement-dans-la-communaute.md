@@ -11,7 +11,7 @@ L'embarquement se passe en 2 étapes. Ces étapes sont décrites dans l'email qu
 
 ### **1️⃣ Une visio organisée avec les membres de l'équipe communauté de beta.gouv**
 
-Nous t'invitons à [prendre rendez-vous avec un·e membre de l'équipe communauté beta.gouv](https://app.calendso.incubateur.net/team/embarquement/embarquement-beta-gouv?duration=40\&month=2023-06) afin de mieux connaitre ton nouvel environnement de travail.
+Nous t'invitons à [prendre rendez-vous avec un·e membre de l'équipe communauté beta.gouv](https://airtable.com/shr5Uaqje8eV9BabU) afin de mieux connaitre ton nouvel environnement de travail.
 
 Cet échange sera le moment de :&#x20;
 

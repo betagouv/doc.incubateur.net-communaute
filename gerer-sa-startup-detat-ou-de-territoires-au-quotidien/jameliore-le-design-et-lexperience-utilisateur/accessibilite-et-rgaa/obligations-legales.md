@@ -15,7 +15,7 @@ Chaque site conçu chez beta.gouv.fr doit :&#x20;
 * **afficher l’état de conformité du site** sur la page d’accueil&#x20;
 * **publier une** [**déclaration de conformité**](https://betagouv.github.io/a11y-generateur-declaration/)&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Démarche Simplifiées affiche sa mention de conformité (partiellement conforme) en fin de page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Démarche Simplifiées affiche sa mention de conformité (partiellement conforme) en fin de page</p></figcaption></figure>
 
 
 
