@@ -31,7 +31,9 @@ Tél : 01 79 84 33 00&#x20;
 
 Mail : lelieu.ditp@modernisation.gouv.fr&#x20;
 
-Pourquoi ? événement --> réserver
+Pourquoi ? événement --> uniquement sur réservation
+
+Ce lieu ne permet pas le coworking.
 
 ### [Le LAB National de Pôle emploi](https://www.lelab.pole-emploi.fr/)
 
