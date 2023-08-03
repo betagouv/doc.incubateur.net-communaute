@@ -29,3 +29,22 @@ Besoin d'aide : [#incubateur-help](https://mattermost.incubateur.net/betagouv/ch
 ## Ajouter un membre de son équipe à sa fiche produit
 
 {% embed url="https://www.loom.com/share/a85f4dc7ddaa43b98dde69d7b21b5723" %}
+
+
+
+## Ajouter un logo à sa fiche produit
+
+
+
+De nombreuses fiches produits se retrouvent sur le site de beta.gouv sans logo ou image d'illustration.\
+Pour ajouter une image, il vous faudra suivre ces quelques indications:
+
+* Vous rendre sur [https://github.com/betagouv/beta.gouv.fr/tree/master/img/startups](https://github.com/betagouv/beta.gouv.fr/tree/master/img/startups)
+* Cliquer sur "Add File" en haut à droite puis "Upload files"
+* Ajouter l'image souhaitée (au format jpg ou png)
+*   N'oubliez pas de merger !\
+    \
+    Attention, le nom du fichier à ajouter doit correspondre exactement au nom de la startup comme elle apparait sur son github (et sans majuscule) afin que l'ajout se passe correctement.
+
+    [\
+    ](https://github.com/betagouv/beta.gouv.fr/tree/master/img/startups)Vous n'avez plus qu'à vous rendre sur votre fiche produit pour vous assurer de l'ajout de votre image.
