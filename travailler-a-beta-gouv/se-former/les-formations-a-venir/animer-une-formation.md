@@ -1,8 +1,10 @@
+---
+description: >-
+  Tu trouveras ici un guide des éléments récurrents dans l'animation d'une
+  formation.
+---
+
 # Animer une formation
-
-## Animer une formation
-
-Tu trouveras ici un guide des éléments récurrents dans l'animation d'une formation.
 
 ### Comment proposer un sujet
 

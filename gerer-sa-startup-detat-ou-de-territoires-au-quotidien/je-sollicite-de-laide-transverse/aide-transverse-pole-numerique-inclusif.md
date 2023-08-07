@@ -33,5 +33,8 @@ Le pole est une équipe pluridisciplinaire d’expertes en accessibilité :
 
 ### Comment nous contacter ? <a href="#comment-nous-contacter" id="comment-nous-contacter"></a>
 
-* Par email : [accessibilite@beta.gouv.fr](mailto:accessibilite@beta.gouv.fr) ou [via formulaire](https://docs.google.com/forms/d/1L4DOpBS9ibJWmWyypOOyB86ExGPLz-IwUuunazugsBU/edit?usp=mail\_response\_notification\&urp=gmail\_link)
-* Sur Mattermost, dans le canal [#domaine-accessibilité](https://mattermost.incubateur.net/betagouv/channels/c015lnmttj9)
+{% hint style="info" %}
+* Par **email** : [accessibilite@beta.gouv.fr](mailto:accessibilite@beta.gouv.fr)&#x20;
+* Par [**formulaire**](https://docs.google.com/forms/d/1L4DOpBS9ibJWmWyypOOyB86ExGPLz-IwUuunazugsBU/edit?usp=mail\_response\_notification\&urp=gmail\_link)
+* Sur **Mattermost**, dans le canal [#domaine-accessibilité](https://mattermost.incubateur.net/betagouv/channels/c015lnmttj9)
+{% endhint %}

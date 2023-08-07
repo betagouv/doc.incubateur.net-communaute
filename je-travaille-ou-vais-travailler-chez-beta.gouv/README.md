@@ -18,8 +18,8 @@
 
 {% tabs %}
 {% tab title="Intra" %}
-{% content-ref url="../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/les-differents-metiers-dans-une-startup-detat/intrapreneurs.md" %}
-[intrapreneurs.md](../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/les-differents-metiers-dans-une-startup-detat/intrapreneurs.md)
+{% content-ref url="../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/les-differents-metiers-dans-une-startup-detat/intrapreneurs/" %}
+[intrapreneurs](../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/les-differents-metiers-dans-une-startup-detat/intrapreneurs/)
 {% endcontent-ref %}
 
 {% content-ref url="../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/" %}

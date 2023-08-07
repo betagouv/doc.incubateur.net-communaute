@@ -10,7 +10,7 @@ Son aboutissement formel est la commission d’homologation, présidée par l’
 
 ## Comment sécuriser et homologuer votre service avec MonServiceSécurisé ?
 
-L'ANSSI a développé un service de cybersécurité gratuit et 100% en ligne pour aider les entités publiques à sécuriser et à homologuer rapidement leurs sites web, applications mobiles et API : [**MonServiceSécurisé**](https://www.monservicesecurise.beta.gouv.fr/)
+L'ANSSI a développé un service de cybersécurité gratuit et 100% en ligne pour aider les entités publiques à sécuriser et à homologuer rapidement leurs sites web, applications mobiles et API : [**MonServiceSécurisé**](https://www.monservicesecurise.ssi.gouv.fr/)
 
 MonServiceSécurisé permet de référencer un service dès la phase d'investigation, en cours de développement ou déjà en ligne puis de le décrire afin de :
 

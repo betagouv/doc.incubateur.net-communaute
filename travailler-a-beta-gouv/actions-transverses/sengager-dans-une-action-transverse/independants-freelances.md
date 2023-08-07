@@ -1,4 +1,4 @@
-# Indépendants (freelances)
+# 🆓 Indépendants (freelances)
 
 Une grande partie de la communauté beta.gouv.fr est composée de personnes au statut d'**indépendants** (freelances). A titre d'exemple, à l'été 2021, sur une communauté d'environ 600 personnes, 14% est [salariée d'une société de prestation](salaries-des-societes-de-prestation.md), 35% est [agent publics](../les-differents-statuts/fonctionnaires-et-contractuels-de-la-fonction-publique.md) et 51% est indépendante.
 
@@ -14,8 +14,8 @@ Une grande partie de la communauté beta.gouv.fr est composée de personnes au s
 
 Vous souhaiteriez rejoindre beta.gouv.fr et vous vous demandez si le statut d'indépendant vous correspond ? Nous avons compilé quelques informations pour vous aider à comprendre ce que cela impliquerait
 
-{% content-ref url="../../recrutement/devenir-freelance.md" %}
-[devenir-freelance.md](../../recrutement/devenir-freelance.md)
+{% content-ref url="../../bienvenue/les-differents-statuts/independants-freelances/devenir-freelance.md" %}
+[devenir-freelance.md](../../bienvenue/les-differents-statuts/independants-freelances/devenir-freelance.md)
 {% endcontent-ref %}
 
 Afin d'assurer une transparence aux _freelances_, une grille avec des taux journaliers indicatifs a été publiée à la page suivante.
@@ -26,8 +26,8 @@ Afin d'assurer une transparence aux _freelances_, une grille avec des taux journ
 
 Une charte pour les _freelances_ a été adoptée afin de clarifier leurs droits et les obligations. En cas de problème majeur, un guide a été réalisé pour orienter les indépendantes et indépendants victimes de harcèlement ou de discrimination.
 
-{% content-ref url="../../recrutement/charte-des-freelances.md" %}
-[charte-des-freelances.md](../../recrutement/charte-des-freelances.md)
+{% content-ref url="../../bienvenue/les-differents-statuts/independants-freelances/charte-des-freelances.md" %}
+[charte-des-freelances.md](../../bienvenue/les-differents-statuts/independants-freelances/charte-des-freelances.md)
 {% endcontent-ref %}
 
 {% content-ref url="../../culture/conseils/independant-victime-de-harcelement-ou-discrimination.md" %}

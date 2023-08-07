@@ -2,52 +2,72 @@
 description: Respecter ses obligations légales à l'aide de ressources et d'outils.
 ---
 
-# Vos obligations légales
+# Obligations légales d'accessibilité
 
-En France, plusieurs lois viennent encadrer l'accessibilité numérique rendant obligatoire l'accessibilité à tous les sites publics des services de l'État et des collectivités territoriales.
+En France, plusieurs lois viennent encadrer l'accessibilité numérique.&#x20;
 
-## **Ce que ma Startup d'État doit faire**
+## **Obligations légales**
+
+### **Obligation de transparence**
+
+Chaque site conçu chez beta.gouv.fr doit :&#x20;
+
+* **afficher l’état de conformité du site** sur la page d’accueil&#x20;
+* **publier une** [**déclaration de conformité**](https://betagouv.github.io/a11y-generateur-declaration/)&#x20;
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Démarche Simplifiées affiche sa mention de conformité (partiellement conforme) en fin de page</p></figcaption></figure>
+
+
+
+Ces obligations sont valables dès la mise en ligne du site, même si le service n'a pas encore été audité (on indiquera alors la mention "Accessibilité : non conforme")
+
+Manquer aux obligations déclaratives est passible d'une amende de 20 000 €, pour chaque année de manquement (l'obligation étant en vigueur depuis 2021).
+
+### **Obligation d'engagement**
+
+Chaque équipe doit aussi **expliquer sa politique d’accessibilité** en publiant un schéma pluri-annuel. Ce document doit contenir entre autres :&#x20;
+
+* des informations sur la **personne référente accessibilité numérique**
+* les **formations** et **sensibilisations** à l'accessibilité prévues&#x20;
+* l**'organisation interne** prévue pour **mettre en œuvre** l'accessibilité&#x20;
+* etc
+
+Les informations obligatoires sont décrites sur la page [Schéma pluriannuel de mise en accessibilité](https://accessibilite.numerique.gouv.fr/obligations/schema-pluriannuel/).
+
+### Obligations d'accessibilité
 
 {% hint style="success" %}
-Les produits des Startup d’État **doivent être accessibles.**
+Les produits des Startup d’État **doivent être accessibles**, qu'ils soient grand public, ou outils professionnels.
 {% endhint %}
 
-Chaque service numérique doit être en conformité au **niveau double A** (AA) du Référentiel Général d’Accessibilité des Administrations. Concrètement :
+En parallèle, les services numériques publics doivent avant tout être accessible. Dans le cadre légal, cela signifie être en conformité avec le RGAA (Référentiel Général d’Accessibilité des Administrations). En cas de manquement d'accessibilité, il existe un risque pénal ou financier pour la personne responsable du produit.&#x20;
 
-* **afficher l’état de conformité du site** sur la page d’accueil, par exemple en utilisant le Design System (et son composant [Footer](obligations-legales.md#ce-que-ma-startup-detat-doit-faire)) ;
-* **publier une** [**déclaration de conformité**](https://betagouv.github.io/a11y-generateur-declaration/) après avoir audité le service ;
-* **expliquer la politique d’accessibilité** en publiant un schéma pluri-annuel.
+Pour qualifier la conformité RGAA d'un site web, il n'existe qu'une seule méthode : faire un audit RGAA.
 
-![SignalConso affiche son taux de conformité (partiel) en fin de page](<../../../.gitbook/assets/image (14) (2) (2) (1).png>)
+## Faire (faire) un audit RGAA&#x20;
 
-Manquer aux obligations légales est passible de :
+Les audits RGAA sont fait par des expertes et des experts en accessibilité. Actuellement, il n'y a pas de marché public. Il faut donc contacter au moins 2 prestataires et choisir celui qui convient le mieux.&#x20;
 
-* une amende annuelle de 20 000 €
-* un procès pour discrimination à l'accès.
+Voici quelques prestataires reconnus dans le secteur : Access42, Atalan, Idéance, Koena, Tanaguru, Temesis...
 
-**Pour aller plus loin**
+À titre indicatif, voici quelques informations :&#x20;
 
-* [**Accessibilité et RGAA : quelles sont les obligations légales ?**](https://access42.net/accessibilite-RGAA-obligations-legales) par Access42
-* [**Les ressources sur l'accessibilité numérique**](https://design.numerique.gouv.fr/accessibilite-numerique/) par le pole Design de la DINUM
+* Un audit de conformité ne dure que quelques jours, mais les cabinets d'experts peuvent avoir plusieurs semaines ou mois de délais. (Ce sont les corrections suite à l'audit qui sont plus longues en temps !)
+* En terme de budget, il faut compter environ 5000 € (mais cela peut être plus selon la complexité du site).
+
+_Note : il est aussi possible de faire un audit en interne. Cependant, cet exercice étant très technique et chronophage, il est recommandé de le déléguer à des personnes formées, par exemple s'étant engagée dans la_ [_charte d’engagement du CNCPH pour les audits de conformités RGAA_](https://cncph.fr/charte-rgaa/)_._
+
+## Préparer un audit RGAA
+
+Le [Pôle Numérique Inclusif](../../je-sollicite-de-laide-transverse/aide-transverse-pole-numerique-inclusif.md) peut vous aider à préparer un audit RGAA. Faire un **audit flash** en amont du l'audit RGAA vous permettra d'identifier les points d'accessibilité les points les plus bloquants. L'équipe pourra ainsi se préparer, corriger les erreurs les plus évidents et faciliter l'audit RGAA à venir.
 
 {% hint style="info" %}
-Contactez l'équipe Designers Transverses pour une présentation sur les obligations légales à votre équipe ou votre incubateur.
+**👉** [**Demander un audit par le Pole Numérique Inclusif**](https://docs.google.com/forms/d/1L4DOpBS9ibJWmWyypOOyB86ExGPLz-IwUuunazugsBU/edit)
 {% endhint %}
 
-## **Comment faire ?**
+## **Pour aller plus loin**
 
-### En autonomie
-
-Le Kit Accessibilité est là pour vous accompagner dans cette démarche, petit à petit, tout au long de la vie de votre startup : se sensibiliser à l'accessibilité en phase d'investigation, mettre en place les bases les plus simples en phase de construction jusqu'à passer l'audit de conformité en phase de consolidation !
-
-{% content-ref url="kit-accessibilite/" %}
-[kit-accessibilite](kit-accessibilite/)
-{% endcontent-ref %}
-
-### Avec accompagnement
-
-Le programme Access vous accompagne dans les démarches officielles (audit RGAA)
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
+* [**Le site du RGAA**](https://accessibilite.numerique.gouv.fr/)
+* [**Les obligations légales d’accessibilité numérique en France**](https://ideance.net/blog/293/loi-accessibilite-numerique-france/), par Idéance
+* [**Les ressources sur l'accessibilité numérique**](https://design.numerique.gouv.fr/accessibilite-numerique/) par le pole Design de la DINUM
+* L'[**Observatoire du respect des obligations d'accessibilités numériques** ](https://observatoire-access-num.aveuglesdefrance.org/)

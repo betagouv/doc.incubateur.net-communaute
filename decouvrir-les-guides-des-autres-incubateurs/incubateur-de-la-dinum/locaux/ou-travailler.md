@@ -31,7 +31,9 @@ Tél : 01 79 84 33 00&#x20;
 
 Mail : lelieu.ditp@modernisation.gouv.fr&#x20;
 
-Pourquoi ? événement --> réserver
+Pourquoi ? événement --> uniquement sur réservation
+
+Ce lieu ne permet pas le coworking.
 
 ### [Le LAB National de Pôle emploi](https://www.lelab.pole-emploi.fr/)
 
@@ -49,7 +51,7 @@ lelab.00174@pole-emploi.fr
 
 ### [Fabrique à Projets](http://www.ipec.developpement-durable.gouv.fr/fabrique-a-projets-r183.html)
 
-La Grande Arche Paroi sud 92055 LA DÉFENSE CEDEX
+La Grande Arche Paroie sud 92055 LA DÉFENSE CEDEX
 
 fabrique.projets@developpement-durable.gouv.fr
 

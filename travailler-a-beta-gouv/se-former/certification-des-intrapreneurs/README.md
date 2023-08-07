@@ -4,9 +4,9 @@ description: >-
   et de Territoires.
 ---
 
-# Certification des intrapreneur·se·s
+# 🎖 Certification des intrapreneur·se·s
 
-{% file src="../../../.gitbook/assets/methodologies-dentrepreneuriat-appliquees-aux-projets-dinnovation-competences-attestees-1-.pdf" %}
+{% file src="../../../.gitbook/assets/Méthodologies d’entrepreneuriat appliquées aux projets numériques - Compétences attestées.pdf" %}
 Fiche récapitulative de la certification
 {% endfile %}
 
@@ -25,7 +25,7 @@ Le déroulé de cette certification pour les intras vise à évaluer ces 8 comp�
 * Pitch
 * Investigation du problème que ta Startup cherche à résoudre
 * Conception/Priorisation
-* Stratégie produit
+* Prototypage
 * Test&#x20;
 * Déploiement
 * Financement
@@ -94,5 +94,5 @@ Beta.gouv propose d'officialiser cette certification aux administrations des lau
 En informant le DRH et la hiérarchie de l'intra, ces compétences seront valorisées dans le dossier personnel et lors de l'entretien d'évaluation annuel.
 
 {% hint style="info" %}
-Tu peux poser toutes tes questions sur [le salon Mattermost dédié aux intras ](https://mattermost.incubateur.net/betagouv/channels/domaine-intrapreneurs)ou à dinum@beta.gouv.fr .
+Tu peux poser toutes tes questions sur [le salon Mattermost dédié aux intras ](https://mattermost.incubateur.net/betagouv/channels/domaine-intrapreneurs)ou à animation@beta.gouv.fr .
 {% endhint %}

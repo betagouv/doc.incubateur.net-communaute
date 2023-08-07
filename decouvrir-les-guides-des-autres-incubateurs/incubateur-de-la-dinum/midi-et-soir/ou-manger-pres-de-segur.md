@@ -7,7 +7,7 @@ Une fois que tu auras obtenu ton badge, tu peux déjeuner à la cantine du 20 av
 Les tarifs varient en fonction de ton statut: pour le menu de base \( un plat + périphérique, c'est à dire soit une entrée ou un dessert au choix\) il faut compter environ 8euros si tu as un badge "prestataire", 3,80 euros si tu as un statut contractuel, et 2euros et quelques si tu as un statut de stagiaire.  
 Relatifs aux prix pratiqués dans le quartier, la cantine est souvent l'option la plus économique.
 
-Plus d'infos sur la cantine de Ségur : [https://github.com/etalab/etalab/blob/master/dejeuner.md](https://github.com/etalab/etalab/blob/master/dejeuner.md)
+Plus d'infos sur la cantine de Ségur : [https://github.com/etalab/etalab/blob/main/travailler-chez-etalab/ou-dejeuner.md](https://github.com/etalab/etalab/blob/main/travailler-chez-etalab/ou-dejeuner.md)
 
 **Apporter son propre déjeuner**:
 

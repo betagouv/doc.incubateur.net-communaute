@@ -52,11 +52,10 @@ Pour un cas particulier de liste rattachée à un sous domaine beta comme _conta
 
 * `/emails join contact@covoiturage.beta.gouv.fr jean.louis@beta.gouv.fr` : ajouter jean.louis@beta.gouv.fr à la liste contact@covoiturage.beta.gouv.fr
 
-_Commande implémentée par_ [_`slack-ovh`_](https://github.com/betagouv/slack-ovh) _et hébergée sur le Heroku de l'Incubateur._
+_Commande implémentée par_ [_`slack-ovh`_](https://github.com/betagouv/slack-ovh) _et hébergée sur le Scalingo de l'Incubateur._
 
 **Fonctionnements contre-intuitif** :
 
-* La commande `/emails` échoue souvent la première fois qu'elle est lancée : il faut le temps que la dyno Heroku se réveille.
 * La commande `/emails leave` affiche un message d'erreur même quand la désinscription a bien eu lieu. Ce problème vient du retour que fait ovh.
 
 ## Comment créer une nouvelle liste de diffusion pour sa startup

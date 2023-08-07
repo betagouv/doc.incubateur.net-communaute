@@ -46,6 +46,7 @@ Ont les accès:
 * @florian.delezenne
 * @julien.dauphant
 * @tristan.robert
+* [amel.alili](http://localhost:5000/u/9S8oFAW1qCcGzLuz0J8BFUylTsd2 "mention")
 
 ### Docker Hub
 
@@ -89,7 +90,7 @@ Un certain nombre de startups utilisent des services de déploiement facile de s
 ### Envoi de courriels en masse ou transactionnels
 
 * Mailjet (entreprise française passée sous le contrôle de Mailgun, basé aux US)
-* Sendinblue
+* ~~Sendinblue~~  Brevo&#x20;
 
 Nous avons longtemps proposé l'accès mutualisé une instance partagée de Mailjet mais pour diverses raisons techniques ce dispositif s'avère trop pénible à opérer. Nous invitons les équipes à se doter de leur propre compte.
 

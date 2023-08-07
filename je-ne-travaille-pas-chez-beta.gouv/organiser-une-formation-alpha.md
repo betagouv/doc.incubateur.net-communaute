@@ -88,5 +88,7 @@ La formation peut se dérouler en présentiel, plus vivante, ou en visio, plus i
 Modèle de présentation de la formation Alpha
 {% endembed %}
 
-* **Modèle de Miro** : [https://miro.com/app/board/uXjVOQbP014=/?invite\_link\_id=462307876204](https://miro.com/app/board/uXjVOQbP014=/?invite\_link\_id=462307876204)
+* **Modèle de Miro** **pour les ateliers en visio :** [https://miro.com/app/board/uXjVOQbP014=/?invite\_link\_id=462307876204](https://miro.com/app/board/uXjVOQbP014=/?invite\_link\_id=462307876204)
+* **Trame pour les ateliers en présentiel :** [https://docs.google.com/document/d/1NhHWySqjS9nB-az6z7I--ksb9RmahRaPjK3AbwPs3RM/edit?usp=sharing](https://docs.google.com/document/d/1NhHWySqjS9nB-az6z7I--ksb9RmahRaPjK3AbwPs3RM/edit?usp=sharing)
+* **Exemples de sujets pour les ateliers** : [https://pad.incubateur.net/s/tdZRFcPtE](https://pad.incubateur.net/s/tdZRFcPtE)
 * **Méthodologie pour coacher les ateliers :** [**https://docs.google.com/document/d/11ZZfvDWMuYPLgAHmJ04VxUBddu-Bv5Y2xhydYk5gYhI/edit?usp=sharing**](https://docs.google.com/document/d/11ZZfvDWMuYPLgAHmJ04VxUBddu-Bv5Y2xhydYk5gYhI/edit?usp=sharing)

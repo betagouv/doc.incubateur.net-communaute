@@ -29,6 +29,10 @@ description: Attention à ne pas tout faire en simultanée, il y a risque d'over
 * [ ] Bien prendre le temps de lire notre [kit de démarrage](../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/construction/kit-de-demarrage.md) et nos [standards de qualité](../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/standards-de-qualite-beta.gouv.fr.md) ;
 * [ ] T'inscrire à l'[embarquement dev](https://airtable.com/shrUCbUT72KtKefsu) spécifique.
 
+#### Si tu es chargé.e de déploiement/bizdev
+
+* [ ] T'inscrire à l'[embarquement bizdev](https://tally.so/r/w4Q5pb) spécifique
+
 #### Si tu es coach
 
 * [ ] Bien prendre le temps de lire notre [kit de démarrage](../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/construction/kit-de-demarrage.md) et nos [standards de qualité](../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/standards-de-qualite-beta.gouv.fr.md) ;
@@ -70,4 +74,4 @@ A l'exception des cas où ton administration publique de rattachement ne dispose
 * [ ] Aider à ton tour quelqu'un en galère, par exemple en répondant à une demande d'aide sur la chaîne _\~incubateur-help_ du Mattermost.
 * [ ] S'investir dans la communauté en participant à une activité transverse --> [c'est par ici](../actions-transverses/)
 
-Si tu as la moindre question, utilise 🔒`#incubateur-help`, demande à [ton parrain ou à ta marraine](../actions-transverses/marrainage/), ou envoie un mail à `contact@beta.gouv.fr.`
+Si tu as la moindre question, utilise 🔒`#incubateur-help`, demande à [ton parrain ou à ta marraine](broken-reference), ou envoie un mail à `contact@beta.gouv.fr.`

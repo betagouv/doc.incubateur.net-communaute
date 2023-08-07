@@ -1,4 +1,4 @@
-# Changer de startup / changer de type de poste
+# 🪜 Changer de startup / changer de type de mission
 
 A Beta.gouv, on valorise la connaissance de l’écosystème des membres de la communauté : on encourage les membres à rester au sein de la communauté si leur mission s'arrête, ou s'ielles souhaitent voir autre chose en poursuivant dans une autre startup ou en transverse.
 
@@ -11,13 +11,13 @@ Nous sommes une communauté formée en grande partie d'indépendant·e·s, c'est
 * Contacter les équipes avec qui vous souhaitez travailler : n'hésitez pas à proposer de travailler un nombre restreint de jour (1-2j) dans un premier temps pour voir si la collaboration se passe bien ou selon vos disponibilités. Vous pouvez très bien avoir 2 missions en parallèle.
 * [Participer à des activités transverses](../actions-transverses/) : en plus de contribuer à la communauté, elles vous permettront de rencontrer davantage de membres, ce qui pourra toujours vous servir pour de futures opportunités (et puis c'est sympa !)
 
-### Changer de type de poste :
+### Changer de type de mission :
 
 Vous pouvez changer de type de poste à Beta.gouv, mais Beta.gouv n'est pas là pour vous y former. Les formations qui vous sont proposées visent plutôt à vous aider à gagner en séniorité sur votre poste et à découvrir de nouveaux outils et méthodes.
 
-#### Que faire si je veux changer de type de poste ?
+#### Que faire si je veux changer de type de mission ?
 
-Selon vos expériences précédentes, associées à votre expérience Beta.gouv, vous pouvez peut-être prétendre à d'autres types de postes. N'hésitez pas à en discuter avec l'équipe qui vous intéresse et à postuler si vous vous sentez légitime.\
+Selon vos expériences précédentes, associées à votre expérience Beta.gouv, vous pouvez peut-être prétendre à d'autres types de missions. N'hésitez pas à en discuter avec l'équipe qui vous intéresse et à postuler si vous vous sentez légitime.\
 \
 Sinon nous vous encourageons à suivre des formations externes.
 
