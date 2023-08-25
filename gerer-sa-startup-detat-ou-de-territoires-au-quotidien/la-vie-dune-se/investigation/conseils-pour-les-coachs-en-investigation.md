@@ -24,7 +24,7 @@ Cette transparence s'applique dès la phase d'investigation.
 * Tu pourras utiliser d'autres canaux de discussion comme Tchap, Resana ou un autre Slack :
   * Avantage : Il y aura moins de "bruits" que sur le Mattermost de Beta.
   * Inconvénient : L'accès à la communauté et aux ressources seront plus difficiles. Il conviendra que le coach à minima soit présent sur le Mattermost de Beta pour faciliter les échanges avec les autres coachs, les co-animateurs et la communauté?
-* **Solliciter un mentorat** d'un membre de beta ayant déjà réalisé une investigation (1h par semaine d'échange pour aide) sur le canal Mattermost #incubateur-coach
+* **Solliciter un mentorat** d'un membre de beta ayant déjà réalisé une investigation (1h par semaine d'échange pour aide) sur le canal Mattermost [#domaine-coaching](https://mattermost.incubateur.net/betagouv/channels/incubateur-coaching)
 
 **Pourquoi un canal de discussion public ?**
 
@@ -65,7 +65,7 @@ L'objectif est de rendre votre travail découvrable facilement pour toute person
 
 ### Où demander de l'aide <a href="#ou-demander-de-laide" id="ou-demander-de-laide"></a>
 
-* demander de l'aide ou des informations sur l'un de ses deux canaux Mattermost :[ #incubateur-investigation](https://mattermost.incubateur.net/betagouv/channels/incubateur-investigation) et [#incubateur-coaching](https://mattermost.incubateur.net/betagouv/channels/incubateur-coaching)​
+* demander de l'aide ou des informations sur l'un de ses deux canaux Mattermost :[ #incubateur-investigation](https://mattermost.incubateur.net/betagouv/channels/incubateur-investigation) et [#domaine-coaching](https://mattermost.incubateur.net/betagouv/channels/incubateur-coaching)​
 
 ### Le RGPD et l'investigation <a href="#le-rgpd-et-linvestigation" id="le-rgpd-et-linvestigation"></a>
 
