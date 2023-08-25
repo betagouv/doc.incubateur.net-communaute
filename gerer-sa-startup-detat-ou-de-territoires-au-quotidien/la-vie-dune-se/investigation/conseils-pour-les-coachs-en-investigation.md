@@ -10,7 +10,7 @@ description: >-
 
 Cette fiche pratique a été conçue sur la base du retour d'expérience de plusieurs coachs ayant accompagné des investigations.
 
-Le [manifeste de beta.gouv](https://beta.gouv.fr/approche/manifeste) prévoit que "l’équipe assure une transparence la plus large possible sur son travail (code source ouvert, mesure de l’impact publique, démonstrations fréquentes, documentation facilement accessible)".
+Le [manifeste de beta.gouv](https://beta.gouv.fr/manifeste) prévoit que "l’équipe assure une transparence la plus large possible sur son travail (code source ouvert, mesure de l’impact publique, démonstrations fréquentes, documentation facilement accessible)".
 
 Cette transparence s'applique dès la phase d'investigation.
 
