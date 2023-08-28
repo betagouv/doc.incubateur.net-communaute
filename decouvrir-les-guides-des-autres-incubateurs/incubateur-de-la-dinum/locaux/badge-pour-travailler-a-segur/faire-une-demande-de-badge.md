@@ -9,7 +9,7 @@ description: >-
 ## 1. Quelles sont les informations à préparer ?
 
 * **Période durant laquelle tu vas demander un accès à Segur**. Elle correspond à celle de ta mission dans une Startup d'Etat.\
-  N'oublie pas de réaliser un renouvellement de badge si ta mission est prolongée.
+  N'oublie pas de [prolonger la durée de validité de ton badge](https://doc.incubateur.net/communaute/decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/locaux/badge-pour-travailler-a-segur/prolonger-la-duree-de-validite-de-mon-badge) si ta mission est renouvelée.
 * **Ton email @beta.gouv.fr** ([Comment avoir un email @beta.gouv.fr](../../../../travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/emails/));
 * Un **photo ou un scan, recto-verso, de ta carte d'identité** ou de ton passeport en cours de validité au format JPEG (\*.jpg) ou PDF ;
 * Une **photo d'identité couleur** prise de face sur un fond neutre au format JPEG (\*.jpg).
