@@ -99,7 +99,7 @@
   * [Parler de beta.gouv.fr à l'extérieur](travailler-a-beta-gouv/actions-transverses/guide-pour-les-candidat-e-s/presenter-de-beta.gouv.fr.md)
     * [Organiser une formation Alpha](je-ne-travaille-pas-chez-beta.gouv/organiser-une-formation-alpha.md)
 * [🎓 Se former et évoluer](travailler-a-beta-gouv/se-former/README.md)
-  * [🧑🎓 🧑🎓 🧑🎓 🧑🎓 🧑🎓 Les formations](travailler-a-beta-gouv/se-former/les-formations-a-venir/README.md)
+  * [🧑🎓 Les formations](travailler-a-beta-gouv/se-former/les-formations-a-venir/README.md)
     * [Animer une formation](travailler-a-beta-gouv/se-former/les-formations-a-venir/animer-une-formation.md)
     * [Les formations passées](travailler-a-beta-gouv/se-former/les-formations-a-venir/les-formations-passees.md)
     * [Partage de ressources](travailler-a-beta-gouv/se-former/les-formations-a-venir/partage-de-ressources.md)
