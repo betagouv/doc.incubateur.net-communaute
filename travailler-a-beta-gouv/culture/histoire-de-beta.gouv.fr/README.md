@@ -30,9 +30,13 @@ En 2019, l'incubateur des services numériques devient le **programme interminis
 
 Depuis 2019, grâce au [**Fonds d'accélération des Startups d'Etat**](https://beta.gouv.fr/approche/fast) (FAST), beta.gouv.fr soutient les produits numériques les plus prometteurs portés par les ministères et autres administrations publiques ; de 2021 à 2023, la [**Brigade numérique** ](https://www.acteurspublics.fr/articles/la-dsi-de-letat-muscle-ses-equipes-beta-gouv-en-creant-une-brigade-dintervention-numerique)permet à la fois de lancer des produits numériques interministériels et d'apporter un soutien humain aux équipes qui en ont besoin.
 
+### beta.gouv.fr au cœur de la nouvelle stratégie numérique de l'État
+
 À partir de 2023, le programme beta.gouv.fr continue à monter en puissance et est piloté par l'incubateur de services numériques de la DINUM dans le cadre d'une [**nouvelle stratégie du numérique de l'État**](https://www.numerique.gouv.fr/actualites/feuille-de-route-de-la-dinum-une-strategie-numerique-au-service-de-lefficacite-de-laction-publique/).&#x20;
 
-_Pour en savoir plus sur beta.gouv.fr, vous pouvez également consulter quelques références bibliographiques qui parlent de notre action._
+{% embed url="https://docs.google.com/presentation/d/1XmPLJNKFmQnC9Ucpf-eE5SiK8BJqHihHx9K7TQ7AIKk/edit?usp=sharing" %}
+
+_Pour en savoir plus sur beta.gouv.fr, vous pouvez également consulter quelques références bibliographiques qui évoquent  notre action._
 
 {% content-ref url="references-bibliographiques.md" %}
 [references-bibliographiques.md](references-bibliographiques.md)
