@@ -31,7 +31,7 @@ description: Attention à ne pas tout faire en simultanée, il y a risque d'over
 
 #### Si tu es chargé.e de déploiement/bizdev
 
-* [ ] T'inscrire à l'[embarquement bizdev](https://tally.so/r/w4Q5pb) spécifique
+* [ ] T'inscrire à [l'embarquement bizdev](https://airtable.com/appebTa6XsY6fDixm/shr5Uaqje8eV9BabU) spécifique
 
 #### Si tu es coach
 
