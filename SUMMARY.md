@@ -150,6 +150,7 @@
     * [Services numériques à impact national](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/acceleration/services-numeriques-a-impact-national.md)
     * [✅ La checklist de la phase d'accélération](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/acceleration/la-checklist-de-la-phase-dacceleration.md)
   * [4. Consolidation, transfert et pérennisation](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/4.-consolidation-et-transfert/README.md)
+    * [Ce qu'il faut vérifier pour une sortie d'incubation réussie](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/4.-consolidation-et-transfert/ce-quil-faut-verifier-pour-une-sortie-dincubation-reussie.md)
     * [Préparer la pérennisation](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/4.-consolidation-et-transfert/preparer-la-perennisation/README.md)
       * [Déterminer le niveau de service souhaité](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/4.-consolidation-et-transfert/preparer-la-perennisation/determiner-le-niveau-de-service-souhaite.md)
       * [Déterminer le niveau de ressources annuelles](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/4.-consolidation-et-transfert/preparer-la-perennisation/determiner-le-niveau-de-ressources-annuelles.md)
