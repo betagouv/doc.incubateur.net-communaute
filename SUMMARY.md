@@ -285,6 +285,7 @@
   * [Standards de qualité beta.gouv.fr](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/standards-de-qualite-beta.gouv.fr.md)
   * [Licences](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/licences.md)
   * [Choisir son nom de domaine](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/choisir-son-nom-de-domaine.md)
+  * [Solutions d'authentification](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/authentication.md)
   * [Choisir des technologies](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/choisir-des-technologies.md)
   * [Infra](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/infra.md)
   * [Créer un simulateur](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/creer-un-simulateur.md)
