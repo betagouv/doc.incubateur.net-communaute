@@ -34,7 +34,9 @@ Depuis 2019, grâce au [**Fonds d'accélération des Startups d'Etat**](https://
 
 À partir de 2023, le programme beta.gouv.fr continue à monter en puissance et est piloté par l'incubateur de services numériques de la DINUM dans le cadre d'une [**nouvelle stratégie du numérique de l'État**](https://www.numerique.gouv.fr/actualites/feuille-de-route-de-la-dinum-une-strategie-numerique-au-service-de-lefficacite-de-laction-publique/).&#x20;
 
-{% embed url="https://docs.google.com/presentation/d/1XmPLJNKFmQnC9Ucpf-eE5SiK8BJqHihHx9K7TQ7AIKk/edit?usp=sharing" %}
+Un webinaire de présentation de cette nouvelle stratégie a eu lieu le 2 octobre 2023 : le replay est disponible [**ici**](https://bbb-dinum-scalelite.visio.education.fr/playback/presentation/2.3/a08711a719bbf6bc9ae9f56e2881c2b389889433-1696238861552) (cela dure une vingtaine de minutes).&#x20;
+
+{% embed url="https://docs.google.com/presentation/d/1kjQaORnJLpWwK0iMllT8BvkUTOKvDN_5fXzbiE_XVXU/edit#slide=id.g21344f99820_1_74" %}
 
 _Pour en savoir plus sur beta.gouv.fr, vous pouvez également consulter quelques références bibliographiques qui évoquent  notre action._
 
