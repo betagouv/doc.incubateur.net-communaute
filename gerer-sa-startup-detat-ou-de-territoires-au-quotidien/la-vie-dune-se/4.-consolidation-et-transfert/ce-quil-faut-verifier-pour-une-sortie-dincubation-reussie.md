@@ -20,7 +20,7 @@ La sortie d'incubation s'anticipe ! Il faut prévoir environ 6 mois pour passer 
 * Le produit est **conforme au** [**Système de Design de l'État**](https://www.systeme-de-design.gouv.fr/).
 * L'**hébergement** est conforme à la [doctrine Cloud de l'État](https://www.numerique.gouv.fr/services/cloud/doctrine/).
   * Si les recommandations beta.gouv.fr ont été suivies, ce point est en général une formalité.
-  * Sinon, un changement d'hébergeur doit se planifier et nécessite parfois une interruption temporaire de service.
+  * Sinon, un changement d'hébergeur doit se planifier et nécessite parfois une interruption temporaire de service. Il se peut que l'administration souhaite un transfert de l'hébergement vers les serveurs ses propres serveurs - bien que la DINUM ne recommande pas cette option si elle n'est pas absolument nécessaire. Cela peut prendre 4/6 mois... (documentation à compléter, étude des risques, procédures de transfert...)
 * Les **statistiques d'usage du produit sont publiques et automatisées**, elles présentent des statistiques donnant une idée de l'impact du service. Dans l'idéal, le budget du service est également publié à des fins de transparence de l'action publique.
 * Les données publiques produites par le service sont **ouvertes sur data.gouv.fr** et mises à jour régulièrement. Des API documentées permettent l'interfaçage avec le service et sont référencées le cas échéant sur api.gouv.fr
 * Le produit est **accessible** pour ses utilisateurs et a fait l'objet d'un audit RGAA. Le langage utilisé est simple, clair et sans jargon.
@@ -38,7 +38,7 @@ La sortie d'incubation s'anticipe ! Il faut prévoir environ 6 mois pour passer 
 * Le **pilotage de l'équipe** est internalisé.
   * La doctrine de l'État est de viser au maximum 60% d'externalisation sur les services publics numériques.
   * Selon la DINUM, les prestataires de longue durée (développement, maintenance, déploiement, gestion de produit etc) coûtent de 25 à 40% plus cher à l'État qu'en internalisant la compétence.
-  * Depuis 2023, il est plus facile d'obtenir des ETP pour la réinternalisation de compétences numériques. Pour en savoir plus, contacter l'équipe de l'incubateur de la DINUM.
+  * Depuis 2023, l'obtention d'ETP est facilitée pour la réinternalisation de compétences numériques. Pour en savoir plus, contacter l'équipe de l'incubateur de la DINUM.
   * Documentation : [circulaire n°6391-SG de février 2023 relative au pilotage et encadrement du recours aux prestations intellectuelles informatique](https://www.legifrance.gouv.fr/circulaire/id/45407?origin=list)
 * Un **support contractuel** est disponible pour les prestations nécessaires à l'amélioration continue du service.
   * À titre d'exemple, le [marché interministériel de réalisation de produits beta.gouv.fr](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/recrutement/marches-publics-beta.gouv.fr/marche-interministeriel-beta) qui court au maximum jusqu'à septembre 2025 peut être utilisé par des produits pérennisés, même après leur sortie d'incubation, sous réserve que l'administration porteuse y ait adhéré.
