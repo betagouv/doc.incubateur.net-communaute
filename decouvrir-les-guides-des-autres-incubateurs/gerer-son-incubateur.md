@@ -13,7 +13,8 @@ Un incubateur du réseau beta.gouv :
   * amélioration continue ;
   * pilotage par l'impact, avec l'organisation d'un [comité d'investissement](../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/preparer-un-comite-dinvestissement/) régulier pour chaque produit selon les phases du programme beta.gouv : investigation, construction, accélération, pérennisation.
 * propose un appui aux différents services publics numériques incubés (coaching produit, gouvernance, sécurité/rgpd, RH, UX, impact etc) ;
-* dispose d'un haut niveau de sponsorship dans l'administration (direction numérique, secrétariat général, direction générale etc).
+* dispose d'un haut niveau de sponsorship dans l'administration (direction numérique, secrétariat général, direction générale etc) ;&#x20;
+* s'engage à publier en transparence ses réalisations et ses résultats, et notamment à mettre à jour régulièrement le site beta.gouv.fr.&#x20;
 
 ## L'organisation type d'un incubateur
 
