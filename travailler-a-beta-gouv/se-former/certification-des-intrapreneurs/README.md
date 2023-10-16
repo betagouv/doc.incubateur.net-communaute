@@ -37,14 +37,14 @@ Le déroulé de cette certification pour les intras vise à évaluer ces 8 comp�
 
 ## Déroulé d'une certification
 
-| Étapes                         | Délais    | Durées       |
-| ------------------------------ | --------- | ------------ |
-| 1. Inscription                 | Jour 1    |              |
-| 2. Complétion du dossier       |           | \~60 minutes |
-| 3. Prise de rendez-vous        |           |              |
-| 4. Oral d'évaluation           |           | 45 minutes   |
-| 5. Résultat                    |           |              |
-| 6. Courrier à l'administration | \~Jour 40 |              |
+| Étapes                         | Délais    | Durées  |
+| ------------------------------ | --------- | ------- |
+| 1. Inscription                 | Jour 1    |         |
+| 2. Complétion du dossier       |           | \~ 4-5h |
+| 3. Prise de rendez-vous        |           |         |
+| 4. Oral d'évaluation           |           | 1h/1h30 |
+| 5. Résultat                    |           |         |
+| 6. Courrier à l'administration | \~Jour 40 |         |
 
 {% hint style="info" %}
 Cette certification est entièrement financée par beta.gouv.fr pour tous les intrapreneurs membres du réseau des incubateurs de Startup d'Etat et de Territoires.
