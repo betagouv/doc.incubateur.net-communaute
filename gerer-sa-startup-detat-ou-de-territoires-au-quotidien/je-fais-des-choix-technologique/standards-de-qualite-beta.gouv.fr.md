@@ -45,6 +45,7 @@ L'outil [**`dashlord`**](../../travailler-a-beta-gouv/jutilise-les-outils-de-la-
 * Le code est instrumenté par des **tests automatisés**.
 * Le code est **déployé fréquemment**, idéalement en continu.
 * Le code est écrit en utilisant les **standards** du langage (ex : pep8 en python) et du framework.
+* Afin de ne pas réinventer la roue, la **contribution à des communs numériques ou à des briques techniques libres et open source** existantes est privilégié à l'utilisation de briques propriétaires
 
 {% hint style="info" %}
 **Quelle langue utiliser dans le développement de mon produit ?** :flag\_fr: \*\*\*\* :flag\_gb:\*\*\*\*
