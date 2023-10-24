@@ -8,8 +8,8 @@ description: Comment envoyer et recevoir des emails avec son adresse @beta.gouv
 [creer-un-compte-email-a-un-nouveau-membre.md](creer-un-compte-email-a-un-nouveau-membre.md)
 {% endcontent-ref %}
 
-{% content-ref url="envoyer-et-recevoir-des-mails-beta.gouv.fr.md" %}
-[envoyer-et-recevoir-des-mails-beta.gouv.fr.md](envoyer-et-recevoir-des-mails-beta.gouv.fr.md)
+{% content-ref url="envoyer-et-recevoir-des-mails-beta.gouv.fr/" %}
+[envoyer-et-recevoir-des-mails-beta.gouv.fr](envoyer-et-recevoir-des-mails-beta.gouv.fr/)
 {% endcontent-ref %}
 
 {% content-ref url="recreer-un-compte-email-pour-un-ancien-membre.md" %}
@@ -32,8 +32,8 @@ description: Comment envoyer et recevoir des emails avec son adresse @beta.gouv
 [configurer-sa-signature-de-mail-beta.gouv.fr.md](configurer-sa-signature-de-mail-beta.gouv.fr.md)
 {% endcontent-ref %}
 
-{% content-ref url="envoyer-et-recevoir-des-mails-beta.gouv.fr.md" %}
-[envoyer-et-recevoir-des-mails-beta.gouv.fr.md](envoyer-et-recevoir-des-mails-beta.gouv.fr.md)
+{% content-ref url="envoyer-et-recevoir-des-mails-beta.gouv.fr/" %}
+[envoyer-et-recevoir-des-mails-beta.gouv.fr](envoyer-et-recevoir-des-mails-beta.gouv.fr/)
 {% endcontent-ref %}
 
 {% content-ref url="configurer-un-message-dabsence.md" %}

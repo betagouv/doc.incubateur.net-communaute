@@ -1,26 +1,8 @@
-# Envoyer et recevoir des mails @beta.gouv.fr
+# Envoyer et recevoir des emails @beta.gouv.fr avec l'offre OVH MX Plan
 
-### 0. Prérequis
+### **La configuration MXPlan et différente de la conf OVH Pro. Si tu es arrivé avant le 24/10/2023 ton compte est sur l'offre MX Plan dont voici la configuration :**
 
-Munis-toi de :
 
-* ton adresse `prenom.nom@beta.gouv.fr`
-* le mot de passe
-
-### 1. Choisir son client de messagerie
-
-Choisis sur quel logiciel de messagerie tu veux recevoir et envoyer tes emails. Par exemple :
-
-* [Mail](https://support.apple.com/fr-fr/mail) (OS X / iOS) : le client mail par défaut d'Apple
-* [Thunderbird](https://www.thunderbird.net/fr/) (OS X / Windows / Linux) : le client libre de Mozilla qu'on ne présente plus
-* [Mailspring](https://getmailspring.com) (OS X / Windows / Linux) : un client gratuit et open-source, avec une interface moderne
-* [Microsoft Courier](https://www.microsoft.com/fr-fr/p/courrier-et-calendrier/9wzdncrfhvqm?activetab=pivot:overviewtab) : le client mail par défaut de Windows
-* [Microsoft Outlook](https://www.microsoft.com/fr-fr/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook) : client mail souvent déjà installé sur les ordinateurs professionnels
-* [Gmail](https://play.google.com/store/apps/details?id=com.google.android.gm\&hl=fr) : l'application mail par défaut sur Android (Attention vos données sont exporté aux états unis, vous ne pourrez pas faire de manipulation de données personnelles avec cette méthode)
-* [AquaMail](https://www.aqua-mail.com) (Android) : une application mail fluide qui respecte la vie privée
-* [ou beaucoup d'autres](https://duckduckgo.com/?q=meilleurs+clients+mails)
-
-### **2. Configurer la réception et l'envoi d'emails**
 
 Il existe des tutoriels détaillés pour certains clients mails :
 
@@ -59,6 +41,3 @@ Tous les dossiers mails (brouillons, envoyés, reçu, archivés, etc.) sont main
 {% hint style="info" %}
 Tu peux consulter tes mails directement sur [RoundCube](https://mail.ovh.net/roundcube/). L'interface n'est pas géniale, mais ça peut être une bonne solution pour dépanner, ou quand tu n'a pas accès à ton client web habituel.
 {% endhint %}
-
-
-

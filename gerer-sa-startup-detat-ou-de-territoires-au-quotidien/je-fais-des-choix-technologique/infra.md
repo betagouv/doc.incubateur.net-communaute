@@ -37,7 +37,7 @@ Ont les accès:
 * @julien.dauphant
 * @pli
 * @lucas.charrier
-* [amel.alili](http://localhost:5000/u/9S8oFAW1qCcGzLuz0J8BFUylTsd2 "mention")
+* [amel.alili](http://127.0.0.1:5000/u/9S8oFAW1qCcGzLuz0J8BFUylTsd2 "mention")
 
 ### Mattermost
 
@@ -46,7 +46,7 @@ Ont les accès:
 * @florian.delezenne
 * @julien.dauphant
 * @tristan.robert
-* [amel.alili](http://localhost:5000/u/9S8oFAW1qCcGzLuz0J8BFUylTsd2 "mention")
+* [amel.alili](http://127.0.0.1:5000/u/9S8oFAW1qCcGzLuz0J8BFUylTsd2 "mention")
 
 ### Docker Hub
 
