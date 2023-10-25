@@ -52,7 +52,7 @@ Cette certification est entièrement financée par beta.gouv.fr pour tous les in
 
 ### 1- Inscription
 
-Tous les 3 ou 4 mois, nous lançons une nouvelle session de certification. Le lien d'inscription est renseigné sur le Mattermost de Beta ou dans l'infolettre interne de beta.
+Tous les 6 mois, nous lançons une nouvelle session de certification. Le lien d'inscription est renseigné sur le Mattermost de Beta ou dans l'infolettre interne de beta.
 
 ### 2- Complétion du dossier
 
@@ -69,7 +69,7 @@ Ce dossier sera adressé par email à l'[équipe animation](../../../decouvrir-l
 
 ### 3- Prise de rendez-vous
 
-L'intra reçoit un mail pour fixer la date de son entretien d’évaluation une fois le dossier complet et envoyé. Cet entretien durera environ 45 minutes par téléphone ou en visio.
+L'intra reçoit un mail pour fixer la date de son entretien d’évaluation une fois le dossier complet et envoyé. Cet entretien durera environ 1h/ 1h30 par téléphone ou en visio.
 
 {% hint style="info" %}
 Pour préparer au mieux son oral, l'intra a accès à 12 vidéos reprenant les éléments standards attendus.
@@ -81,7 +81,7 @@ Pour préparer au mieux son oral, l'intra a accès à 12 vidéos reprenant les �
 
 ### 4- Oral d'évaluation
 
-Le coach certificateur et l'intra réalisent l’entretien d’évaluation de 45 minutes.
+Le coach certificateur et l'intra réalisent l’entretien d’évaluation de 60-90 minutes.
 
 ### 5- Résultat
 
