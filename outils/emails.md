@@ -57,7 +57,7 @@ Pour les autres logiciels, la configuration se fait de manière suivante :
 | Paramètre | Valeur |
 | :--- | :--- |
 | Serveur | ssl0.ovh.net |
-| Port | 995 |
+| Port | 993 |
 | Méthode de chiffrement | SSL  |
 | Nom d'utilisateur | ton adresse beta.gouv.fr |
 | Mot de passe | le mot de passe de ton email |
@@ -67,7 +67,7 @@ Pour les autres logiciels, la configuration se fait de manière suivante :
 | Paramètre | Valeur |
 | :--- | :--- |
 | Serveur | ssl0.ovh.net |
-| Port | 587 |
+| Port | 465 |
 | Méthode de chiffrement | TLS |
 | Nom d'utilisateur | ton adresse beta.gouv.fr |
 | Mot de passe | le mot de passe de ton email |
