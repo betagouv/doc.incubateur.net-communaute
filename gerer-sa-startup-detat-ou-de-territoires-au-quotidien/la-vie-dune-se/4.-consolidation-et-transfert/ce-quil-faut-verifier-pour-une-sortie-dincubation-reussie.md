@@ -15,8 +15,8 @@ La sortie d'incubation s'anticipe ! Il faut prévoir environ 6 mois pour passer 
 
 * L'URL du service n'est [plus adossée à beta.gouv.fr](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/sous-domaine-beta-gouv-fr#migration-hors-des-noms-de-domaine-.beta.gouv.fr). Un [agrément du service d'information du gouvernement (SIG)](https://www.systeme-de-design.gouv.fr/utilisation-et-organisation/procedure-des-agrements/) est obtenu pour le nouveau sous-domaine choisi.
   * Un transfert hors des services / outils mutualisés offerts par beta.gouv.fr est opéré (ex : Matomo, Sentry, etc)
-  * La procédure d'agrément peut parfois prendre du temps (plusieurs mois) car elle suppose des discussions avec le SIG et est conditionnée la mise à niveau sur certains critères exposés ci-dessous (système de Design de l'État, accessibilité). Il faut donc anticiper ce changement de sous-domaine.
-  * Consultez à ce sujet la [circulaire n°6411-SG relative à la lisibilité des sites internet de l'État et de la qualité des démarches numériques](https://www.systeme-de-design.gouv.fr/a-propos/articles/circulaire-d-application/) du 7 juillet 2023
+  * La procédure d'agrément peut parfois prendre du temps (plusieurs mois) car elle est conditionnée la mise à niveau sur certains critères exposés ci-dessous (système de Design de l'État, accessibilité). Il faut donc anticiper ce changement de sous-domaine.
+  * Consultez à ce sujet la [circulaire n°6411-SG relative à la lisibilité des sites internet de l'État et de la qualité des démarches numériques](https://www.systeme-de-design.gouv.fr/a-propos/articles/circulaire-d-application/) du 7 juillet 2023 qui aborde notamment les règles en matière d'URL
 * Le produit est **conforme au** [**Système de Design de l'État**](https://www.systeme-de-design.gouv.fr/).
 * L'**hébergement** est conforme à la [doctrine Cloud de l'État](https://www.numerique.gouv.fr/services/cloud/doctrine/).
   * Si les recommandations beta.gouv.fr ont été suivies, ce point est en général une formalité.
