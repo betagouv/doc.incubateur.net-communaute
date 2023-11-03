@@ -7,7 +7,7 @@ Chez Beta Gouv, les équipes sont libres de choisir les technologies de leurs ch
 
 ## Outils et services de référence
 
-Certains outils sont régulièrement utilisés dans l'écosysème, et bénéficient donc d'un support privilégié:
+Certains outils sont régulièrement utilisés dans l'écosystème, et bénéficient donc d'un support privilégié:
 
 | outil                                                | usage           | Notes                                  |
 | ---------------------------------------------------- | --------------- | -------------------------------------- |
