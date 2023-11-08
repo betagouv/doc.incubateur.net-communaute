@@ -14,7 +14,7 @@ Cette transparence continue de s'appliquer en phase de construction.
 
 ## **Qu'est-ce qu'on attend de moi la première semaine ?**
 
-* créer une fiche membre pour toi (si ce n'est pas déjà fait). Tu as juste à renseigner ce[ court formulaire (version beta)](https://secretariat.incubateur.net/onboarding). Il te permettra d’avoir un email @beta.gouv.fr et de te donner accès au mattermost de la communauté.
+* créer une fiche membre pour toi (si ce n'est pas déjà fait). Tu as juste à renseigner ce[ court formulaire (version beta)](https://espace-membre.incubateur.net/onboarding). Il te permettra d’avoir un email @beta.gouv.fr et de te donner accès au mattermost de la communauté.
 * rejoindre le canal de discussion de ta Startup d’Etat (si ce n’est pas déjà fait). Pour en savoir plus, tu peux consulter [ces explications.](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/investigation/conseils-pour-les-coachs-en-investigation#quest-ce-quon-attend-de-moi-la-premiere-semaine)
 * Solliciter un mentorat d'un membre de beta ayant déjà réalisé une phase de construction (1h par semaine d'échange pour aide) sur le canal Mattermost #incubateur-coach
 * Lancer les recrutements des autres membres de l’équipe. Il arrive souvent que le ou la coach soit la première personne à rejoindre l’intra. Le coach aidera l’intra dans ce [processus de recrutement](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/recrutement).

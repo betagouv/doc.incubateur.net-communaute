@@ -4,7 +4,7 @@
 
 * [ ] Tu lui as demandé de lire la[ page de bienvenue](../)
 * [ ] _\(Optionnel\) La nouvelle recrue a un compte Github sur lequelle elle a activé l'_[_authentification double facteur_](https://github.com/settings/security)
-* [ ] Demander à la nouvelle recrue de créer une fiche sur [https://secretariat.incubateur.net/onboarding](https://secretariat.incubateur.net/onboarding).
+* [ ] Demander à la nouvelle recrue de créer une fiche sur [https://espace-membre.incubateur.net/onboarding](https://espace-membre.incubateur.net/onboarding).
 * [ ] Valider sur Github la création de la fiche [https://github.com/betagouv/beta.gouv.fr/pulls](https://github.com/betagouv/beta.gouv.fr/pulls)
 * [ ] Inviter la nouvelle recrue sur le [Mattermost avec son adresse @beta.gouv.fr ](https://mattermost.incubateur.net/)et s'assurer qu'elle s'est présenté·e sur \#general
 * [ ] Tu as invité la nouvelle recrue à la réunion [hebdo beta.gouv ](../../actions-transverses/rituels/standup.md)
