@@ -8,7 +8,7 @@ description: >-
 
 ## Je suis recruteur
 
-Si tu recrutes quelqu'un, tu dois lui trouver un marrain. Pour en trouver un, va sur le site du secretariat \([https://secretariat.incubateur.net](https://secretariat.incubateur.net)\), recherche la fiche du membre à marrainer et clique sur "Cherche un·e marrain·e".
+Si tu recrutes quelqu'un, tu dois lui trouver un marrain. Pour en trouver un, va sur le site du secretariat \([https://espace-membre.incubateur.net](https://espace-membre.incubateur.net)\), recherche la fiche du membre à marrainer et clique sur "Cherche un·e marrain·e".
 
 ## Je suis marrain·e
 

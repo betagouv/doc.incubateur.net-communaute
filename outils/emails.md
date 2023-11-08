@@ -6,7 +6,7 @@ description: Comment envoyer et recevoir des emails avec son adresse @beta.gouv
 
 ## Créer un compte email à un nouveau membre
 
-Pour obtenir leur email, les nouveaux membres doivent créer leur fiche sur le [Secrétariat](https://secretariat.incubateur.net/login). Le compte email sera automatiquement créé une fois que la fiche sera validée par un membre de la communauté.
+Pour obtenir leur email, les nouveaux membres doivent créer leur fiche sur le [Secrétariat](https://espace-membre.incubateur.net/login). Le compte email sera automatiquement créé une fois que la fiche sera validée par un membre de la communauté.
 
 ## Envoyer et recevoir des mails @beta.gouv.fr
 

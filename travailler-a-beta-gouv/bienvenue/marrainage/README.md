@@ -8,7 +8,7 @@ description: >-
 
 ## Je suis recruteur
 
-A chaque personne embarqué, le site du secretariat \([https://secretariat.incubateur.net](https://secretariat.incubateur.net)\) va trouvé automatiquement une marraine ou un marrain. Tu peux suivre sur la fiche de la personne, l'état en cours des recherches.
+A chaque personne embarqué, le site de l'espace membre \([https://espace-membre.incubateur.net](https://espace-membre.incubateur.net)\) va trouvé automatiquement une marraine ou un marrain. Tu peux suivre sur la fiche de la personne, l'état en cours des recherches.
 
 ## Je suis marrain·e
 
