@@ -155,11 +155,15 @@ insolab@tvt.fr
 
 ## Bordeaux
 
+Une question ? 👉 [\~bureaux-bordeaux](https://mattermost.incubateur.net/betagouv/channels/bureaux-bordeaux)
+
 ### [La Base](https://www.labase-na.fr/)
 
 Conseil départemental de la Gironde Cours du Maréchal Juin, 33000 Bordeaux&#x20;
 
 contact@labase-na.fr
+
+(Pour organiser des réunions et ateliers - ce n'est pas un espace de coworking. Penser à résérver bien en avance.)
 
 ### Le bon plan du bordelais
 
