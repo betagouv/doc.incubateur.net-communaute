@@ -42,7 +42,7 @@ Consulter l’atelier SEO :
 
 **Attention, une stratégie d’acquisition basé sur le SEO prend du temps**, il faut souvent attendre plusieurs mois pour en voir les effets. Il est souvent plus rapide et plus simple de commencer par une campagne Adwords. \\
 
-***
+
 
 ![](https://lh5.googleusercontent.com/RRW4LCrXcEyzm-1EhtbB2JHYJMFFNjngffczrU76sgvyZV9OjMC1IjmU--Ynz1sN7WM5glAMwzRGpUM1N2P-3yCB7IlONmQo0VfLusiszcxCeuMi25XZKlY5WsSeRznOUb9rjtI9)
 
@@ -72,7 +72,7 @@ Ainsi avant d’opter pour la mise en place d’un outil de CRM payant on établ
 
 C’est lorsque le déploiement est lancé et que le nombre d’utilisateurs augmente substantiellement qu’il devient complexe d’effectuer le suivi des prospects et utilisateurs que l’on choisit un outil de CRM. Cette étape est décrite dans la phase suivante. \\
 
-***
+
 
 ### **📖 Les histoires vraies**
 

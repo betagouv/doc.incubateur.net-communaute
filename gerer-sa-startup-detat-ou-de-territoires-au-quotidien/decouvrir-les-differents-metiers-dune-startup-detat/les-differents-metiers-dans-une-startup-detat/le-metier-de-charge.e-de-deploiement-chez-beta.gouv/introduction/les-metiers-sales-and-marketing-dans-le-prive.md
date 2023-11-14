@@ -8,7 +8,7 @@ En se référant aux startups privées, il existe au moins 9 métiers qui s’ap
 
 {% embed url="https://youtu.be/6ScoOBIki9A" %}
 
-****[**Slides disponibles ici** ](https://docs.google.com/presentation/d/1C7plE4uDKzLWeIdoF82zvFtaua0uAnB1xtQmstwnAc8/edit?usp=sharing)****
+[**Slides disponibles ici** ](https://docs.google.com/presentation/d/1C7plE4uDKzLWeIdoF82zvFtaua0uAnB1xtQmstwnAc8/edit?usp=sharing)
 
 ## **Vendre un produit gratuit**
 
@@ -20,7 +20,7 @@ Contrairement à un commercial, vous n'êtes pas là pour convaincre d’utilise
 
 Vos stratégies de déploiement et de ventes seront pilotées par vos mesures d’impact. \\
 
-***
+
 
 ## **L’interaction forte avec les institutions publiques**
 

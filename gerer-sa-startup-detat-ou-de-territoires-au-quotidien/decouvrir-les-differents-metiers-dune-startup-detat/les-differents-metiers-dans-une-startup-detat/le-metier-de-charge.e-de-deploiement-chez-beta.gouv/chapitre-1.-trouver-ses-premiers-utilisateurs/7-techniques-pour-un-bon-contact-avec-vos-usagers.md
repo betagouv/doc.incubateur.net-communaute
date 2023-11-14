@@ -134,7 +134,7 @@ Les objectifs d’un premier OpenLab sont :
 
 Les modalités de réalisation sont décrites sur cette page : [https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/realiser-un-openlab](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/realiser-un-openlab)\*\*\*\*\\
 
-***
+
 
 ## **7. Trouver ces 1er usagers avec des Ads**
 
