@@ -1,10 +1,14 @@
 # Envoyer et recevoir des mails @beta.gouv.fr
 
-###
+{% hint style="info" %}
+Si tu es arrivé après le 24/10/2023 ton compte est sur cette configuration (Conf OVH Pro), si tu es arrivé avant le 24/20/2023 regarde cette configuration :&#x20;
 
-Si tu es arrivé après le 24/10/2023 ton compte est sur cette configuration (Conf OVH Pro), si tu es arrivé avant le 24/20/2023 regarde cette configuration : [envoyer-et-recevoir-des-emails-beta.gouv.fr-avec-loffre-ovh-mx-plan.md](envoyer-et-recevoir-des-emails-beta.gouv.fr-avec-loffre-ovh-mx-plan.md "mention")
+[envoyer-et-recevoir-des-emails-beta.gouv.fr-avec-loffre-ovh-mx-plan.md](envoyer-et-recevoir-des-emails-beta.gouv.fr-avec-loffre-ovh-mx-plan.md "mention")
+{% endhint %}
 
-### 0. Prérequis
+
+
+### [0. Prérequis](#user-content-fn-1)[^1]
 
 Munis-toi de :
 
@@ -40,7 +44,11 @@ Pour les autres logiciels, la configuration se fait de manière suivante :
 
 * **Ajouter un nouveau compte**
 * Sélectionner l'option **IMAP / SMTP**
-* Paramétrer le compte **IMAP** (courrier entrant) :
+* Paramétrer le compte **IMAP** (courrier entrant) :&#x20;
+
+{% hint style="info" %}
+Attention si tu es arrivé avant le 24/10/2023 ton email est sur l'offre OVH MXPlan et le serveur à indiqué est : ssl0.ovh.net pour l'IMAP et le SMTP.&#x20;
+{% endhint %}
 
 | Paramètre              | Valeur                       |
 | ---------------------- | ---------------------------- |
@@ -68,3 +76,6 @@ Tu peux consulter tes mails directement sur le [webmail ovh](https://pro1.mail.o
 
 
 
+
+
+[^1]: 
