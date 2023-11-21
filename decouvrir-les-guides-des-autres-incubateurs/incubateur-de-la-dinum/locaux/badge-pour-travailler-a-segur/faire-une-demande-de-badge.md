@@ -1,10 +1,19 @@
 ---
 description: >-
-  Tu souhaites venir travailler au moins deux jours par semaine dans les  locaux
-  beta.gouv à Ségur, voici les étapes à suivre pour obtenir un badge permanent.
+  Si tu envisages de travailler au moins deux jours par semaine dans les locaux
+  de Beta.gouv situés à Ségur, suis les étapes ci-dessous pour obtenir un badge
+  permanent d’accès.
 ---
 
 # 🪪 Faire une demande de badge
+
+{% hint style="info" %}
+
+
+1. **Éligibilité :** Ce processus s'applique uniquement si tu prévois d'être présent(e) dans nos locaux au moins deux jours par semaine.
+2. **Politique de Fréquence :** Les demandes de badge pour une fréquence de présence inférieure à deux jours par semaine seront refusées. De plus, sois conscient(e) que les services de la DINUM désactivent automatiquement les badges qui ne sont pas utilisés régulièrement.
+3. **Accès Occasionnel :** Si tu prévois de venir moins de deux fois par semaine, consulte la dernière partie de cette documentation pour connaître la procédure relative aux accès ponctuels : [#que-faire-tant-que-je-nai-pas-de-badge](faire-une-demande-de-badge.md#que-faire-tant-que-je-nai-pas-de-badge "mention")
+{% endhint %}
 
 ## 🗃️ Quelles sont les informations à préparer ?
 
@@ -34,7 +43,7 @@ Une fois ta demande de badge effectuée, il te faudra attendre quelques jours, v
 Les badges sont produits à Ségur mais **inutile d'aller le chercher toi-même.**\
 Tu peux te rapprocher de l'Equipe Communauté (communaute@beta.gouv.fr) en cas de besoin.
 
-## ✨ Et en attendant ?
+## ✨ Que faire tant que je n'ai pas de badge ?
 
 Sur [le canal mattermost Bureaux-Ségur](https://mattermost.incubateur.net/betagouv/channels/bureaux-segur), tu peux demander à un membre de la communauté de transmettre un mail à l'accueil de Ségur afin que l'on te laisse monter tous les matins sans avoir à appeler quelqu'un.&#x20;
 
