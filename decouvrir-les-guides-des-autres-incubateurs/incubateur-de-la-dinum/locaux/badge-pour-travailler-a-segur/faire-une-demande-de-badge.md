@@ -11,7 +11,7 @@ description: >-
 
 
 1. **Éligibilité :** Ce processus s'applique uniquement si tu prévois d'être présent(e) dans nos locaux au moins deux jours par semaine.
-2. **Politique de Fréquence :** Les demandes de badge pour une fréquence de présence inférieure à deux jours par semaine seront refusées. De plus, sois conscient(e) que les services de la DINUM désactivent automatiquement les badges qui ne sont pas utilisés régulièrement.
+2. **Politique de Fréquence :** Les demandes de badge pour une fréquence inférieure à deux jours par semaine seront refusées. De plus, sois conscient(e) que les services de la DINUM désactivent automatiquement les badges qui ne sont pas utilisés régulièrement.
 3. **Accès Occasionnel :** Si tu prévois de venir moins de deux fois par semaine, consulte la dernière partie de cette documentation pour connaître la procédure relative aux accès ponctuels : [#que-faire-tant-que-je-nai-pas-de-badge](faire-une-demande-de-badge.md#que-faire-tant-que-je-nai-pas-de-badge "mention")
 {% endhint %}
 
