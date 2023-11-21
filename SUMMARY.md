@@ -350,7 +350,7 @@
   * [Locaux (Ségur)](decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/locaux/README.md)
     * [Venir ponctuellement](decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/locaux/focus-segur.md)
     * [Badge pour travailler à Ségur](decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/locaux/badge-pour-travailler-a-segur/README.md)
-      * [Faire une demande de badge](decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/locaux/badge-pour-travailler-a-segur/faire-une-demande-de-badge.md)
+      * [🪪 Faire une demande de badge](decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/locaux/badge-pour-travailler-a-segur/faire-une-demande-de-badge.md)
       * [Prolonger la durée de validité de mon badge](decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/locaux/badge-pour-travailler-a-segur/prolonger-la-duree-de-validite-de-mon-badge.md)
     * [D'autres endroits où travailler](decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/locaux/ou-travailler.md)
   * [Midi et soir](decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/midi-et-soir/README.md)
