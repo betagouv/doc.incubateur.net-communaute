@@ -31,7 +31,7 @@ Les demandes de badge pour des fréquences de passage de moins de 2 jours par se
 
 Une fois ta demande de badge effectuée, il te faudra attendre quelques jours, voire quelques semaines avant l'émission du badge.
 
-Les badges sont produits à Ségur mais inutile **d'aller le chercher toi-même.**\
+Les badges sont produits à Ségur mais **inutile d'aller le chercher toi-même.**\
 Tu peux te rapprocher de l'Equipe Communauté (communaute@beta.gouv.fr) en cas de besoin.
 
 ## ✨ Et en attendant ?
