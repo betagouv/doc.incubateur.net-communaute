@@ -1,7 +1,7 @@
 ---
 description: >-
-  Les étapes à suivre pour obtenir un badge permettant de travailler dans les
-  locaux de beta.gouv à Segur
+  Tu souhaites venir travailler au moins deux jours par semaine dans les  locaux
+  beta.gouv à Ségur, voici les étapes à suivre pour obtenir un badge permanent.
 ---
 
 # Faire une demande de badge
@@ -13,37 +13,32 @@ description: >-
 * **Ton email @beta.gouv.fr** ([Comment avoir un email @beta.gouv.fr](../../../../travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/emails/));
 * Un **photo ou un scan, recto-verso, de ta carte d'identité** ou de ton passeport en cours de validité au format JPEG (\*.jpg) ou PDF ;
 * Une **photo d'identité couleur** prise de face sur un fond neutre au format JPEG (\*.jpg).
-* **Le formulaire de demande de badge** est épinglé dans le canal [#bureaux-segur](https://mattermost.incubateur.net/betagouv/channels/bureaux-segur). Ce ficher XLS est jugé comme confidentiel par l'administration, nous ne pouvons pas le rendre public.
 
-### Aide pour remplir le formulaire
+## 2. Comment réaliser ta demande ?
 
-| Champs                     | Informations à renseigner                                                                                                             |
-| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| _Au sein de_               | BETA                                                                                                                                  |
-| _Accès à SEGUR_            | Locaux SEGUR 5.413, 5.416, 5.420, 5.425, 5.424, 5.428 et cantine                                                                      |
-| _Entreprise_               | <p>Pour les indépendants/salariés : le nom du titulaire qui te porte</p><p>Pour les agents publics : le nom de ton administration</p> |
-| _Fourniture d'une adresse_ | \[Laisser vide]                                                                                                                       |
-| _Numéro commande Chorus_   | \[Laisser vide]                                                                                                                       |
+{% hint style="info" %}
+Les demandes de badge pour des fréquences de passage de moins de 2 jours par semaine seront systématiquement refusées.
+{% endhint %}
 
-## 2. Quel est l'email à envoyer pour obtenir son badge ?
+* Connecte toi sur [ton espace membre](https://espace-membre.incubateur.net/)
+* Remplis le formulaire dans la partie "Badge"
 
-| Champs             | A remplir                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Destinataire**   | logistique-dinum@pm.gouv.fr                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| **En copie**       | <p>Ishan Bhojwani : prenom.nom@beta.gouv.fr</p><p>Secrétariat de la Dinum : sec.dinum@modernisation.gouv.fr</p>                                                                                                                                                                                                                                                                                                                                                                    |
-| **Objet**          | Demande de badge - Externe DINUM                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| **Pièces jointes** | <p>Photo de la carte d'identité ou passeport</p><p>Photo d'identité</p><p>Formulaire renseigné</p>                                                                                                                                                                                                                                                                                                                                                                                 |
-| **Message**        | <p>Bonjour,</p><p>Je sollicite un badge d'accès à Segur dans les locaux <strong>5.413</strong>, <strong>5.416</strong>, <strong>5.420</strong>, <strong>5.425, 5.424</strong>, <strong>5.428</strong> ainsi qu'à la <strong>cantine</strong>.<br>Je souhaite y travailler (X>=2) fois par semaine.</p><p>J'ai rejoins récemment beta.gouv au sein de la DINUM.<br>Ishan Bhojwani, responsable de beta.gouv, est en copie de cet email.<br><br>Bonne journée,<br><br>Prénom Nom</p> |
+<figure><img src="../../../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
-À noter que les demandes de badge pour des fréquences de passage de moins de 2 jours par semaine sont systématiquement refusées.
+* Tu recevras des mails concernant la prise en charge de ta demande
 
-### Combien de temps pour obtenir son badge ?
+## Combien de temps pour obtenir ton badge ?
 
-Une fois la demande de badge effectuée, il faudra attendre quelques jours, voir quelques semaines avant l'émission du badge.
+Une fois ta demande de badge effectuée, il te faudra attendre quelques jours, voire quelques semaines avant l'émission du badge.
 
-Les badges sont produits à Ségur. **N'essaie pas d'aller le chercher toi-même avant d'avoir contacté le service de proximité à l'adresse logistique-dinum@pm.gouv.fr**. Tu peux également demander à cette adresse où en est la production du badge.
+Les badges sont produits à Ségur mais inutile **d'aller le chercher toi-même.**\
+Tu peux te rapprocher de l'Equipe Communauté (communaute@beta.gouv.fr) en cas de besoin.
 
-En attendant, n'hésite pas à demander à un membre de la communauté de transmettre un mail à l'accueil de Ségur afin que l'on te laisse monter tous les matins sans avoir à appeler quelqu'un. Exemple de mail :
+## Et en attendant ?
+
+Sur [le canal mattermost Bureaux-Ségur](https://mattermost.incubateur.net/betagouv/channels/bureaux-segur), tu peux demander à un membre de la communauté de transmettre un mail à l'accueil de Ségur afin que l'on te laisse monter tous les matins sans avoir à appeler quelqu'un.&#x20;
+
+Exemple de mail :
 
 > Bonjour, Pourriez-vous s'il vous plaît laisser monter xxxxxx tous les matins des prochains jours en salle 5.515 ? Il s'agit d'une nouvelle personne collaborant avec l'incubateur de services numériques de la DINUM. Nous avons effectué sa demande de badge il y a quelques jours, mais ce-dernier n'est pas encore arrivé. Merci beaucoup !
 
