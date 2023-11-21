@@ -10,9 +10,17 @@ description: >-
 
 Retrouvez les 10 choses faciles à tester avec des exemples concrets (des vrais bouts de SE dedans !) dans le support de présentation.
 
-{% file src="../../../../.gitbook/assets/accessibilite-easy-checks-1- (1).pdf" %}
+{% file src="../../../../.gitbook/assets/accessibilite-easy-checks-1-.pdf" %}
 Support de présentation
 {% endfile %}
+
+###
+
+### La grille d'évaluation
+
+Dupliquer le fichier source ci-dessous
+
+{% embed url="https://docs.google.com/spreadsheets/d/1nJxWgodGilWs5k9DOuYVwJi-CysSllgHImCTHOrH5hE/edit#gid=1758993411" %}
 
 ### Les outils
 
@@ -251,6 +259,13 @@ Les informations visuelles d’une vidéo ne sont pas accessibles aux personnes 
 
 * ✅ Les informations sont affichées dans le bon sens.
 * ✅ Les textes alternatifs fournissent des informations pertinentes.
+
+### Et après ?
+
+Intégrer l'accessibilité dans votre équipe :&#x20;
+
+* **Auto-diagnostic régulier** pour chaque nouveau composant / fonctionnalité / sprint…
+* **Prise en compte en amont** : faire sa propre checkliste, selon son métier)
 
 #### Pour aller plus loin
 
