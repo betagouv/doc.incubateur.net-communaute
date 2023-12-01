@@ -28,6 +28,6 @@ Voici 3 entretiens réalisés avec des membres de beta.gouv qui raconte leur év
 En espérant que ces entretiens vous inspireront et vous apporteront des clés pour évoluer au sein de la communauté.
 
 \
-[Parcours à Beta.gouv #1 : Amaury Dubot](https://blog.beta.gouv.fr/general/2022/09/15/parcours-a-beta-gouv-fr-1-amaury-dubot/)\
-[Parcours à Beta.gouv #2 : Thomas Guillet](https://blog.beta.gouv.fr/general/2022/09/15/parcours-a-beta-gouv-fr-2-thomas-guillet/)\
-[Parcours à Beta.gouv #3 : Anna-Livia Gomart](https://blog.beta.gouv.fr/general/2022/09/15/parcours-a-beta-gouv-fr-3-anna-livia-gomart/)
+[Parcours à Beta.gouv #1 : Amaury Dubot](https://blog.beta.gouv.fr/parcours/2022/09/15/parcours-a-beta-gouv-fr-1-amaury-dubot/)\
+[Parcours à Beta.gouv #2 : Thomas Guillet](https://blog.beta.gouv.fr/parcours/2022/09/15/parcours-a-beta-gouv-fr-2-thomas-guillet/)\
+[Parcours à Beta.gouv #3 : Anna-Livia Gomart](https://blog.beta.gouv.fr/parcours/2022/09/15/parcours-a-beta-gouv-fr-3-anna-livia-gomart/)
