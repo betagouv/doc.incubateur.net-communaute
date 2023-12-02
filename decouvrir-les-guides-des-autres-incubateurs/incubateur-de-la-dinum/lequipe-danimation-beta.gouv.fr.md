@@ -18,11 +18,12 @@ _L'animation de la communauté beta.gouv.fr n'est pas l'exclusivité des agents 
 
 ### L'Equipe Transverse de Direction
 
-Elle est constituée de  3 agents :&#x20;
+Elle est constituée de  4 agents :&#x20;
 
 * **Ishan Bhojwani**, Responsable de beta.gouv
 * **Arthur Hatchuel**, Adjoint au Responsable de beta.gouv
 * **Julien Dauphant**, Directeur Technique et Produits
+* **Emmanuelle Graff**, Responsable des opérations et de coordination de projets (PMO)
 
 ### 💼 Les Responsables de Portefeuille Ministériels
 
