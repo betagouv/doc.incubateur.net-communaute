@@ -20,13 +20,13 @@ _L'animation de la communauté beta.gouv.fr n'est pas l'exclusivité des agents 
 
 Elle est constituée de  3 agents :&#x20;
 
-* Ishan Bhojwani, Responsable de beta.gouv
-* Arthur Hatchuel, Adjoint au Responsable de beta.gouv
-* Julien Dauphant, Directeur Technique et Produits
+* **Ishan Bhojwani**, Responsable de beta.gouv
+* **Arthur Hatchuel**, Adjoint au Responsable de beta.gouv
+* **Julien Dauphant**, Directeur Technique et Produits
 
-### Les Responsables de Portefeuille Ministériels
+### 💼 Les Responsables de Portefeuille Ministériels
 
-&#x20;10 [**responsables de portefeuille**](../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/les-differents-metiers-dans-une-startup-detat/responsables-de-portefeuille.md) s'occupent de soutenir les équipes produit et les incubateurs dans leurs travaux en fonction de leur périmètre ministériel :&#x20;
+10 [**responsables de portefeuille**](../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/les-differents-metiers-dans-une-startup-detat/responsables-de-portefeuille.md) s'occupent de soutenir les équipes produit et les incubateurs dans leurs travaux en fonction de leur périmètre ministériel :&#x20;
 
 * **Yowa Muzadi** : Travail, Insertion et Armées
 * **Paul Burgun** : Justice
@@ -39,7 +39,23 @@ Elle est constituée de  3 agents :&#x20;
 * **Breanne Mallat** : Agriculture
 * **Anne Poirot** : Intérieur&#x20;
 
-### Soutien à l'équipe d'animation
+### 🚀 Le Pôle Accélération
+
+Ce pôle est en charge du Fond d'Accélération des Startups d'Etat et de Territoires (FAST).
+
+Il propose un accompagnement humain et financier.
+
+L'équipe est composée de :&#x20;
+
+* **Paul Burgun**, Responsable du pôle
+* **Arnaud Robin**, Chargé d'accélération
+* **Claire Duizabo**, Experte accélération
+* **Gauthier Naud**, Expert accélération
+* **Chaïb Martinez**, Expert accélération
+* **John Labuzan**, Expert accélération
+* **Octave Bory**, Expert accélération
+
+### ✨🛠️ Le Pôle Animation, Expertise et Outillage
 
 Plusieurs indépendants et prestataires soutiennent l'équipe d'animation dans leurs travaux :
 
@@ -50,6 +66,10 @@ Plusieurs indépendants et prestataires soutiennent l'équipe d'animation dans l
 * **Thomas Ramé**, Développeur en charge des outils techs de la communauté
 
 {% hint style="info" %}
+Pour nous contacter : animation@beta.gouv.fr ou directement sur Mattermost ou Tchap
+{% endhint %}
+
+{% hint style="success" %}
 [Découvrir **le tableau listant les responsabilités transverses** de l'équipe d'animation](https://betagouv-dinum.notion.site/Responsabilit-s-transverses-1772ece2c2124265aeb74466114aa411)
 {% endhint %}
 
