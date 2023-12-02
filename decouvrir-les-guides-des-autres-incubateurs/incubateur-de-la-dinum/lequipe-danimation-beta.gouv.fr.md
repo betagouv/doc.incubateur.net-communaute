@@ -16,21 +16,38 @@ _L'animation de la communauté beta.gouv.fr n'est pas l'exclusivité des agents 
 
 ## Qui fait quoi ?
 
-###
+### L'Equipe Transverse de Direction
 
-Elle est constituée de  agents
+Elle est constituée de  3 agents :&#x20;
 
-&#x20;"[**responsables de portefeuille**](../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/les-differents-metiers-dans-une-startup-detat/responsables-de-portefeuille.md)" s'occupent de soutenir les équipes produit et les incubateurs dans leurs travaux en fonction de leur périmètre ministériel :
+* Ishan Bhojwani, Responsable de beta.gouv
+* Arthur Hatchuel, Adjoint au Responsable de beta.gouv
+* Julien Dauphant, Directeur Technique et Produits
+
+### Les Responsables de Portefeuille Ministériels
+
+&#x20;10 [**responsables de portefeuille**](../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/les-differents-metiers-dans-une-startup-detat/responsables-de-portefeuille.md) s'occupent de soutenir les équipes produit et les incubateurs dans leurs travaux en fonction de leur périmètre ministériel :&#x20;
+
+* **Yowa Muzadi** : Travail, Insertion et Armées
+* **Paul Burgun** : Justice
+* **Elsa Le Duigou** : Santé, Solidarités, Cybersécurité et IA
+* **Clémence Lopez** : Education Nationale, Enseignement, Sports et Vie Associative
+* **Maël Inizan** : Logement
+* **Margot Sanchez** : Transition Ecologique
+* **Adrien Zemour** : Territoire, Affaires Etrangères et Culture
+* **Magalie Marcel-Garreau** : Economie
+* **Breanne Mallat** : Agriculture
+* **Anne Poirot** : Intérieur&#x20;
 
 ### Soutien à l'équipe d'animation
 
 Plusieurs indépendants et prestataires soutiennent l'équipe d'animation dans leurs travaux :
 
-* **Camille Garrigue**, en charge de la communauté beta.gouv
-* **Lucas Charrier**, en charge des outils techs de la communauté
-* **Chaïb Martinez**, en charge de l'animation des rencontres entre chargés de déploiement (club bizdev)
+* **Lucas Charrier**, Développeur en charge des outils techs de la communauté
 * **Fanny Blanc**, en charge de la communauté beta.gouv
 * **Amel Alili**, chargée d'assistance et du support à  la communauté
+* **Anne-Sophie Tranchet**, en charge des sujets d'Accessibilité et Design
+* **Thomas Ramé**, Développeur en charge des outils techs de la communauté
 
 {% hint style="info" %}
 [Découvrir **le tableau listant les responsabilités transverses** de l'équipe d'animation](https://betagouv-dinum.notion.site/Responsabilit-s-transverses-1772ece2c2124265aeb74466114aa411)
