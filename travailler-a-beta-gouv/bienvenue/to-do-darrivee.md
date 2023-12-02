@@ -57,21 +57,21 @@ A l'exception des cas où ton administration publique de rattachement ne dispose
 ## Le premier mois
 
 * [ ] Participer à [l'embarquement dans la communauté](embarquement-dans-la-communaute.md)
-  * [ ] Participer à la visio de rencontre avec ta marraine ou ton parrain et ta cohorte
-  * [ ] Travailler une journée dans les bureaux de l'incubateur de la DINUM avec ta cohorte
+  * [ ] Travailler une journée dans les bureaux de l'incubateur de la DINUM
   * [ ] Participer à l'atelier dédié aux nouveaux membres lors du forum mensuel de beta.gouv
 * [ ] Ajouter ton expérience chez [beta.gouv ](https://www.linkedin.com/company/betagouv/?originalSubdomain=fr)dans ton profil LinkedIn
 * [ ] Venir à un point de rencontre régulier :
-  * [ ] Rencontre dev : partage sur les pratiques de développement informatiques 🔒`#domaine-dev` - 2ème mercredi du mois de 10h30 à 12h
-  * [ ] Rencontre coach : comment accompagner une startup d'état 🔒`#incubateur-coaching` - 1ème mercredi du mois de 10h30 à 12h)
+  * [ ] Rencontre dev : partage sur les pratiques de développement informatiques 🔒`#domaine-dev`&#x20;
+  * [ ] Rencontre coach : comment accompagner une startup d'état 🔒`#incubateur-coaching`&#x20;
   * [ ] Rencontre bizdev : comment déployer les startups 🔒`#incubateur-bizdev`
   * [ ] Rencontre intra : comment les agents publiques créent leurs startups 🔒`#domaine-intrapreneurs`
   * [ ] Organiser ta propre rencontre sur un sujet qui te botte !
-* [ ] \[Si tu rejoins une nouvelle startup], créer avec ton équipe une **fiche produit** sur beta.gouv.fr, [directement sur Github](https://github.com/betagouv/beta.gouv.fr/tree/master/content/\_startups), ou alors en passant par l'interface de gestion de contenu [Netlify](https://beta.gouv.fr/admin/#/collections/startups). Tu peux t'inspirer [des autres produits](https://beta.gouv.fr/startups/) pour le format et contenu.
+* [ ] \[Si tu rejoins une nouvelle startup], créer avec ton équipe une **fiche produit** sur beta.gouv.fr, [directement sur Github](https://github.com/betagouv/beta.gouv.fr/tree/master/content/\_startups), ou alors en passant par l'interface de gestion des fiches produits sur l'espace membre.\
+  &#x20;Tu peux t'inspirer [des autres produits](https://beta.gouv.fr/startups/) pour le format et contenu.
 
 ## Au cours des 6 premiers mois
 
 * [ ] Aider à ton tour quelqu'un en galère, par exemple en répondant à une demande d'aide sur la chaîne _\~incubateur-help_ du Mattermost.
 * [ ] S'investir dans la communauté en participant à une activité transverse --> [c'est par ici](../actions-transverses/)
 
-Si tu as la moindre question, utilise 🔒`#incubateur-help`, demande à [ton parrain ou à ta marraine](broken-reference), ou envoie un mail à `contact@beta.gouv.fr.`
+Si tu as la moindre question, utilise 🔒`#incubateur-help`, ou envoie un mail à `contact@beta.gouv.fr.`
