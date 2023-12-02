@@ -10,7 +10,7 @@ description: >-
 Pour contacter facilement l'équipe d'animation de la DINUM, transmet un mail à _**dinum@beta.gouv.fr**_ ou utilise la chaîne [_**\~incubateur-animation**_](https://mattermost.incubateur.net/betagouv/channels/incubateur-animation) sur Mattermost.
 {% endhint %}
 
-L’équipe d’animation de beta.gouv.fr est constituée d’une dizaine de personnes dites _**co-animatrices**_ au statut de fonctionnaire ou contractuel, ayant pour mission de garantir que les opérations du programme se passent correctement, de faire grandir le programme beta.gouv.fr et de diffuser l'approche dans l'ensemble des ministères. Cette équipe fait partie de la **mission BETA** de la Direction interministérielle du numérique (DINUM), mais interagit avec l'ensemble des administrations publiques membres du réseau beta.gouv.fr.
+L’équipe d’animation de beta.gouv.fr est constituée d’une trentaine de personnes dites _**co-animatrices**_ au statut de fonctionnaire, contractuel ou indépendants, ayant pour mission de garantir que les opérations du programme se passent correctement, de faire grandir le programme beta.gouv.fr et de diffuser l'approche dans l'ensemble des ministères. Cette équipe fait partie de la **mission BETA** de la Direction interministérielle du numérique (DINUM), mais interagit avec l'ensemble des administrations publiques membres du réseau beta.gouv.fr.
 
 _L'animation de la communauté beta.gouv.fr n'est pas l'exclusivité des agents DINUM : d'autres personnes peuvent et sont invitées à contribuer à la réussite du collectif (agents des incubateurs ministériels, freelances, etc)._
 
@@ -72,6 +72,20 @@ Pour nous contacter : animation@beta.gouv.fr ou directement sur Mattermost ou Tc
 {% hint style="success" %}
 [Découvrir **le tableau listant les responsabilités transverses** de l'équipe d'animation](https://betagouv-dinum.notion.site/Responsabilit-s-transverses-1772ece2c2124265aeb74466114aa411)
 {% endhint %}
+
+### 🧑🏽‍🤝‍👩🏼🫱🏾‍🫲🏽L'Accélérateur d'Initiatives Citoyennes (AIC)
+
+L'équipe est composée de 3 personnes :&#x20;
+
+* **Emma Ghariani**, Directrice de l'AIC
+* **Juliette Langlet**, Coach AIC
+* **Virgile Deville**, Coach AIC
+
+### 🧑🏽‍💻Le Programme d'Entrepreneurs d'intérêt général (EIG)
+
+Ce programme est porté par **Thomas Parisot**, Coach  et Responsable de l'accompagnement des EIG.
+
+##
 
 ## Pourquoi faire appel à l'équipe d'animation ?
 
