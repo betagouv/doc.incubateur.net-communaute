@@ -16,22 +16,11 @@ _L'animation de la communauté beta.gouv.fr n'est pas l'exclusivité des agents 
 
 ## Qui fait quoi ?
 
-### Mission BETA de la DINUM
+###
 
-Elle est constituée de 9 agents.
+Elle est constituée de  agents
 
-**Florian Delezenne** est responsable de la mission BETA (pour ainsi dire, c'est le CEO de beta.gouv.fr).
-
-**Anna-Livia Gomart** et **Julien Dauphant** se partagent les responsabilités techniques transverses.
-
-6 "[**responsables de portefeuille**](../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/les-differents-metiers-dans-une-startup-detat/responsables-de-portefeuille.md)" s'occupent de soutenir les équipes produit et les incubateurs dans leurs travaux en fonction de leur périmètre ministériel :
-
-* **Arnaud Denoix** : Travail, Formation professionnelle
-* **Béatrice Mercier** : Economie et finances, Europe et affaires étrangères, Outre-mers
-* **Inès Hijazi** : Territoires, Education nationale, Enseignement supérieur, Culture
-* **Ishan Bhojwani** : Transition écologique, Transports, Logement, Mer, Agriculture, Armées
-* **Jihane Herizi** : Transformation publique
-* **Paul Burgun** : Justice, Intérieur, Santé et Solidarités
+&#x20;"[**responsables de portefeuille**](../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/les-differents-metiers-dans-une-startup-detat/responsables-de-portefeuille.md)" s'occupent de soutenir les équipes produit et les incubateurs dans leurs travaux en fonction de leur périmètre ministériel :
 
 ### Soutien à l'équipe d'animation
 
