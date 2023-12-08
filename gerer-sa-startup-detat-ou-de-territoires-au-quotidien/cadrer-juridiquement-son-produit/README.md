@@ -45,7 +45,7 @@ Encore plus de fiches synthétiques disponibles sur [le site de Green Data for H
 * 📊 [Le secret statistique](https://gd4h-prod.s3.fr-par.scw.cloud/gd4h-prod/api\_gd4h/files/Fiche\_13\_Le\_secret\_statistique.pdf)
 * 👤 [Les données à caractère personnel](https://gd4h-prod.s3.fr-par.scw.cloud/gd4h-prod/api\_gd4h/files/Fiche\_12\_Les\_donn%C3%A9es\_%C3%A0\_caract%C3%A8re\_personnel.pdf)
 * 🌍 [Le régime des informations relatives à l'environnement](https://gd4h-prod.s3.fr-par.scw.cloud/gd4h-prod/api\_gd4h/files/Fiche\_11\_Le\_r%C3%A9gime\_des\_informations\_relatives\_%C3%A0\_lenvironnement.pdf)
-* ♻️ [Le régime de réutilsiation des documents administratifs](https://gd4h-prod.s3.fr-par.scw.cloud/gd4h-prod/api\_gd4h/files/Fiche\_10\_Le\_r%C3%A9gime\_de\_r%C3%A9utilisation\_des\_documents\_administratifs.pdf)
+* ♻️ [Le régime de réutilisation des documents administratifs](https://gd4h-prod.s3.fr-par.scw.cloud/gd4h-prod/api\_gd4h/files/Fiche\_10\_Le\_r%C3%A9gime\_de\_r%C3%A9utilisation\_des\_documents\_administratifs.pdf)
 * 📂 [Le régime d'accès aux documents administratifs](https://gd4h-prod.s3.fr-par.scw.cloud/gd4h-prod/api\_gd4h/files/Fiche\_9\_Le\_r%C3%A9gime\_dacc%C3%A8s\_aux\_documents\_administratifs.pdf)
 * 🏢 [La notion de document administratif](https://gd4h-prod.s3.fr-par.scw.cloud/gd4h-prod/api\_gd4h/files/Fiche\_8\_La\_notion\_de\_document\_administratif.pdf)
 * 🔑 [L'accès par dérogation aux documents protégés](https://gd4h-prod.s3.fr-par.scw.cloud/gd4h-prod/api\_gd4h/files/06\_Fiche\_6\_Lacc%C3%A8s\_par\_d%C3%A9rogation\_aux\_documents\_prot%C3%A9g%C3%A9s\_DESIGN.pdf)
