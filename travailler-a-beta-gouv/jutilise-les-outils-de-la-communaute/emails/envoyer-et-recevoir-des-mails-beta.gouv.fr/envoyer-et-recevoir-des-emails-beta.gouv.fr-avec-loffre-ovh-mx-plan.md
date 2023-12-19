@@ -1,8 +1,8 @@
 # Envoyer et recevoir des emails @beta.gouv.fr avec l'offre OVH MX Plan
 
-### **La configuration MXPlan et différente de la conf OVH Pro. Si tu es arrivé avant le 24/10/2023 ton compte est sur l'offre MX Plan dont voici la configuration :**
-
-
+{% hint style="info" %}
+La configuration MXPlan est différente de la configuration OVH Pro. Si tu es arrivé après le 24/10/2023, ton compte est sur l'offre OVH Pro, tu peux te rendre à  la page suivant pour avoir la configuration :  [.](./ "mention")
+{% endhint %}
 
 Il existe des tutoriels détaillés pour certains clients mails :
 
