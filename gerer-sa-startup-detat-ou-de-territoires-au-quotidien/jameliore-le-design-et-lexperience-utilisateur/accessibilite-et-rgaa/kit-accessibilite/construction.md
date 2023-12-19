@@ -20,7 +20,7 @@ Les développeurs et développeuses ont la responsabilité de coder des composan
 
 * La [Notice d’accessibilité HTML et CSS](https://www.accede-web.com/notices/html-et-css/) d'AccedeWeb liste les règles à respecter pour un site accessible (structure générale, titre, liens, boutons, formulaires, liste...)
 * La [Notice d’accessibilité des principaux composants d’interface riche](https://www.accede-web.com/notices/interface-riche/) présente les principaux motifs de conception qu’il est recommandé de respecter lors du développement des composants d’interface riches (accordéons, modales, menu déroulant....)
-* Le [Design System de l'État](https://gouvfr.atlassian.net/wiki/spaces/DB/overview?homepageId=145359476) propose une documentation et des composants nativement accessible.
+* Le [Design System de l'État](https://www.systeme-de-design.gouv.fr/) propose une documentation et des composants nativement accessible. Le webinaire [Faire un service accessible avec le DSFR](../../design-system-etat/faire-un-service-accessible-avec-le-dsfr.md) peut guider sur les bonnes pratiques à appliquer.
 {% endtab %}
 
 {% tab title="Intra, chargé de déploiement, product owner, etc" %}
@@ -35,10 +35,12 @@ L'accessibilité du service peut être pensée dès les premières phases de con
 Il existe quelques bonnes pratiques facile à vérifier, pour lever les obstacles les plus évidents. Ces vérifications ne demandent aucune connaissances techniques : n'importe qui peut s'en assurer !
 
 {% hint style="success" %}
-Contacter l'équipe Designers Transverse pour organiser un atelier **« Vérifier l'accessibilité de mon service »**
+Formez vous grâce à l'atelier **« Vérifier l'accessibilité de mon service »** mené une à 2 fois par mois, sur [inscription](https://airtable.com/shr5Uaqje8eV9BabU).
 {% endhint %}
 
 ### 10 choses faciles à vérifier
+
+En attendant l'atelier, vous pouvez déjà faire un petit tour d'horizon de votre service pour vérifier que :&#x20;
 
 {% tabs %}
 {% tab title="Navigation" %}
@@ -128,8 +130,6 @@ Dans votre navigateur, vous pouvez désactiver la feuille de style appliquée à
 
 ### Pour aller plus loin
 
-* Demander une formation [10 choses faciles à vérifier](https://doc.incubateur.net/design/nos-rendez-vous-design/formation/accessibilite) pour mon équipe
-* Utiliser [les ressources et outils Accessibilité de la DILA](https://pidila.gitlab.io).
 * Utiliser des outils dédiés :
 
 {% tabs %}
@@ -156,5 +156,6 @@ Ces outils peuvent s'installer d'un simple `drag 'n drop` vers la barre des sign
 
 ### Checklist de la phase Construction
 
-* [ ] J'identifie ce que je peux faire à mon niveau, et comment mon équipe peut se répartir les responsabilités.
-* [ ] Je m'assure que les règles élémentaires de l’accessibilité sont respectées.
+* [ ] Mon équipe et moi nous formons aux premiers gestes de l'accessibilité.
+* [ ] Notre équipe se réparti les responsabilités.
+* [ ] Nous nous assurons régulièrement que les règles élémentaires de l’accessibilité sont respectées.

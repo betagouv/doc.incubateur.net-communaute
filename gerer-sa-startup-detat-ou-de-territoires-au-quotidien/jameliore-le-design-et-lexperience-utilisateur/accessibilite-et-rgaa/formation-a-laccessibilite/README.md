@@ -2,7 +2,7 @@
 
 L'équipe du [Pôle Numérique Inclusif](../../../je-sollicite-de-laide-transverse/aide-transverse-pole-numerique-inclusif.md) propose plusieurs formations pour les startups d'État, ou les incubateurs :&#x20;
 
-<table><thead><tr><th width="301">Sujet de la formation</th><th width="263.3333333333333">Durée</th></tr></thead><tbody><tr><td>Sensibilisation à l'accessibilité</td><td>2 heures</td></tr><tr><td>Atelier d'auto-diagnostic (10 choses faciles à vérifier)</td><td>1/2 journée</td></tr><tr><td>Simplifier ses contenus</td><td>1 h</td></tr></tbody></table>
+<table><thead><tr><th width="301">Sujet de la formation</th><th width="263.3333333333333">Durée</th></tr></thead><tbody><tr><td>Sensibilisation à l'accessibilité</td><td>2 heures</td></tr><tr><td>Atelier d'auto-diagnostic (10 choses faciles à vérifier)</td><td>2 heures</td></tr><tr><td>Simplifier ses contenus</td><td>1 h</td></tr></tbody></table>
 
 D'autres thématiques sont disponibles à la demande.
 

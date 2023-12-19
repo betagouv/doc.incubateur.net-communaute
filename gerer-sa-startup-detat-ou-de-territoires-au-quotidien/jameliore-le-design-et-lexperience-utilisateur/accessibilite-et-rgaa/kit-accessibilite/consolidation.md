@@ -1,8 +1,8 @@
 ---
-description: Concrétiser ses efforts par un audit en phase de consolidation.
+description: Concrétiser ses efforts par un audit en phase de transfert.
 ---
 
-# Kit accessibilité - Consolidation
+# Kit accessibilité - Transfert
 
 ## **Évaluer l'accessibilité de son service**
 
@@ -19,14 +19,12 @@ Ainsi, à l'issue d'un audit de conformité, on est capable d'établir si le sit
 * **non conforme :** moins de 50 % de critères respectés.
 
 {% hint style="info" %}
-Contacter l'équipe Designers Transverse pour organiser une formation **« RGAA et obligations légales »**
+La formation **« Sensibilisation à l'accessibilité numérique »** détaille la démarche, sur [inscription](https://airtable.com/appebTa6XsY6fDixm/shr5Uaqje8eV9BabU).&#x20;
 {% endhint %}
 
 ## **Rédiger la déclaration d’accessibilité**
 
-La **déclaration d’accessibilité** est le document final qui témoigne de l'engagement et de la responsabilité de l'équipe envers l'accessibilité du service.
-
-Souvent sous la forme d'une page web, ce document est à l’usage des utilisateurs : il doit donc être rédigée dans un langage compréhensible et simple. On y retrouve à minima :
+La **déclaration d’accessibilité** est le document qui témoigne de l'engagement et de la responsabilité de l'équipe envers l'accessibilité du service. Ce document est à l’usage des utilisateurs. On y retrouve à minima :
 
 * le niveau d’accessibilité atteint par le site
 * des informations de contact
@@ -58,9 +56,9 @@ Le pole Design de la DINUM propose un panel d'utilisateurs en situation de handi
   * S’assurer selon les cas, de l’acceptation des chiens guides dans les locaux indiqués ou de l’accessibilité aux fauteuils roulants.
 
 {% hint style="info" %}
-**Contact**
+**Contact du panel**
 
-Pôle Design des services numériques / jamshid.kohandel@modernisation.gouv.fr / Tél : 06 34 26 00 97
+👉 Pôle Design des services numériques / jamshid.kohandel@modernisation.gouv.fr / Tél : 06 34 26 00 97
 
 **Informations requises**
 

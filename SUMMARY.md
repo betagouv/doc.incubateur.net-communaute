@@ -266,7 +266,7 @@
       * [Kit accessibilité - Investigation](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/accessibilite-et-rgaa/kit-accessibilite/investigation.md)
       * [Kit accessibilité - Construction](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/accessibilite-et-rgaa/kit-accessibilite/construction.md)
       * [Kit accessibilité - Accélération](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/accessibilite-et-rgaa/kit-accessibilite/acceleration.md)
-      * [Kit accessibilité - Consolidation](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/accessibilite-et-rgaa/kit-accessibilite/consolidation.md)
+      * [Kit accessibilité - Transfert](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/accessibilite-et-rgaa/kit-accessibilite/consolidation.md)
     * [Formations à l'accessibilité](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/accessibilite-et-rgaa/formation-a-laccessibilite/README.md)
       * [Sensibilisation à l'accessibilité](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/accessibilite-et-rgaa/formation-a-laccessibilite/sensibilisation-a-laccessibilite.md)
       * [10 choses faciles à vérifier pour un site plus accessible](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/accessibilite-et-rgaa/formation-a-laccessibilite/10-choses-faciles-a-verifier-pour-un-site-plus-accessible.md)

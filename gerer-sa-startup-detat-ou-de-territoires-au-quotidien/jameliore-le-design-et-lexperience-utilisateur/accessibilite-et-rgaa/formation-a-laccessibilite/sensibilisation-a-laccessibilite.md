@@ -7,7 +7,7 @@ description: >-
 # Sensibilisation à l'accessibilité
 
 {% hint style="success" %}
-Cette sensibilisation peut être **fait à la demande** à votre équipe (minimum 5 personnes). Contactez [Anne-Sophie Tranchet](mailto:anne-sophie.tranchet@beta.gouv.fr).
+Cette sensibilisation peut être **fait à la demande** à votre équipe (minimum 5 personnes). Contactez le [Pôle Numérique Inclusif](https://docs.google.com/forms/d/1L4DOpBS9ibJWmWyypOOyB86ExGPLz-IwUuunazugsBU/edit).
 {% endhint %}
 
 ## Pourquoi concevoir un service accessible ?

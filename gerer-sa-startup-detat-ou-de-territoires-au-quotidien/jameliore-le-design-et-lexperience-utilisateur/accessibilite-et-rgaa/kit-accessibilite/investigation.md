@@ -68,15 +68,15 @@ En identifiant les capacités nécessaires au fonctionnement du service, vous po
 {% tab title="Troubles moteurs" %}
 Voici des exemples de points bloquants pour des personnes ayant des troubles moteurs :
 
-* des limites de temps insuffisantes pour accomplir une tâche.
-* des actions irréversibles sans demande de confirmation (_“Êtes-vous sûr de vouloir supprimer votre demande ?”_)
+* des limites de temps, qui ne permettent pas d'accomplir la démarche dans les temps.
+* des actions irréversibles sans demande de confirmation (_“Êtes-vous sûr de vouloir supprimer votre demande ?”_) car un « misclick » est vite arrivé.
 {% endtab %}
 
 {% tab title="Troubles visuels" %}
 Voici des exemples de points bloquants pour des personnes ayant des troubles visuels :
 
-* des images sans équivalent textuel.
-* du contenu vidéo sans équivalent textuel ou audio.
+* des images, sans équivalent textuel.
+* du contenu vidéo, sans équivalent textuel ou audio.
 * des liens dont l’intitulé n’est pas explicite (_« Cliquez ici »_)
 * des informations véhiculées uniquement par la couleur (par exemple une pastille rouge pour dire « Refusé »)
 {% endtab %}
@@ -99,5 +99,5 @@ Voici des exemples de points bloquants pour des personnes ayant des troubles du 
 
 ## Checklist d'investigation
 
-* [ ] Je comprends comment des usagers à besoins spécifiques utilisent Internet.
+* [ ] Je comprends comment des personnes handicapée utilisent Internet.
 * [ ] Je comprends les obstacles que pourraient rencontrer mes usagers en utilisant mon service.
