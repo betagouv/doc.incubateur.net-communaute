@@ -62,7 +62,7 @@ Le coach doit s’adapter à la configuration de l’équipe qui dépend de l’
 
 Lecture conseillée pour approfondir cette discussion : l’excellente “[cartographie de pratiques de coaching à beta.gouv.fr](https://docs.google.com/presentation/d/12aEGovHBZYH-xeskRalvhPhGhDG971hibddiGj5f\_AU/edit#slide=id.p)” de Raphael.\\
 
-
+***
 
 ## **Quelles compétences pour être coach ?**
 
@@ -113,7 +113,7 @@ C’est un rôle transverse qui demande de coordonner l’ensemble des métiers 
 
 Rituels d’équipe (mise en place d’outils partagés (Trello, Airtable, etc), animations d’ateliers OKRs, de rétros, de post-mortem, de codev)\\
 
-
+***
 
 **Connaître la culture Beta.gouv**
 
@@ -123,3 +123,4 @@ Aide pour acquérir cette compétence : participer aux rituels et événements d
 
 
 
+***

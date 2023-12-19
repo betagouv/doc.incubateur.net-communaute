@@ -48,25 +48,25 @@ Afin de vous aider à préparer cette candidature, vous pouvez regarder la forma
 
 L'incubateur XYZ est un laboratoire d'expérimentation dédié aux agents qui souhaitent développer de nouveaux services publics numériques. Notre mission est d’améliorer le service public de l’intérieur en favorisant le passage à l’action d’agents publics. \\
 
-
+***
 
 ### **Qui peut déposer un projet en réponse à l’appel à problèmes ?**
 
 Tous les agents quel que soit leur service ou leur poste. Aucune compétence informatique n'est requise. \\
 
-
+***
 
 ### **Une même personne peut-elle déposer plusieurs projets ?**
 
 Oui, une même personne peut déposer plusieurs projets sur ce formulaire. \\
 
-
+***
 
 ### **Combien de projets seront sélectionnés à l'issue de cet appel à candidatures ?**
 
 Tous les agents concernés auront deux semaines pour postuler. Mi-novembre, un jury de pré-sélection se réunira pour retenir les dix candidatures les plus prometteuses. \\
 
-
+***
 
 ### **En quoi consiste l'accompagnement proposé par l'incubateur ?**
 

@@ -10,7 +10,7 @@ description: >-
 
 ![](../../../../.gitbook/assets/capture-1.jpg)
 
-
+***
 
 ## Etape 2. **Clique sur "Paramètres du compte"**
 

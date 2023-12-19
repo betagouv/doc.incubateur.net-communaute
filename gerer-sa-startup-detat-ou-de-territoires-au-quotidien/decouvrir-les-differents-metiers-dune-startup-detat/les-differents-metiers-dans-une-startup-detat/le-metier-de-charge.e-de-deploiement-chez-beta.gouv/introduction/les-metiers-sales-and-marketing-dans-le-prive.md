@@ -20,7 +20,7 @@ Contrairement à un commercial, vous n'êtes pas là pour convaincre d’utilise
 
 Vos stratégies de déploiement et de ventes seront pilotées par vos mesures d’impact. \\
 
-
+***
 
 ## **L’interaction forte avec les institutions publiques**
 
