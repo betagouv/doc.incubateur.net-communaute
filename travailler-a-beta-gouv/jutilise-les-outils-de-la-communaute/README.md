@@ -18,6 +18,10 @@ description: >-
 [faire-une-visio](faire-une-visio/)
 {% endcontent-ref %}
 
+{% content-ref url="tally.md" %}
+[tally.md](tally.md)
+{% endcontent-ref %}
+
 ### Gestion du site internet beta.gouv.fr
 
 {% content-ref url="github/" %}
@@ -64,4 +68,8 @@ description: >-
 
 {% content-ref url="dashlane.md" %}
 [dashlane.md](dashlane.md)
+{% endcontent-ref %}
+
+{% content-ref url="welcome-to-the-jungle.md" %}
+[welcome-to-the-jungle.md](welcome-to-the-jungle.md)
 {% endcontent-ref %}
