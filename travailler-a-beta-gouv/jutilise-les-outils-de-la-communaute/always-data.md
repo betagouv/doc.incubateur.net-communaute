@@ -10,7 +10,7 @@ Préalable 2 : Avoir une application déployée sur un hébergeur Saas. On prend
 
 1. Créer un compte sur [Always Data](https://admin.alwaysdata.com/) avec votre adresse mail `@beta.gouv.fr`.
 2. Ajouter le nouveau domaine. Dans l'interface, trouver le menu `domains`, puis le bouton `Add a domain` et suivre les instructions pour ajouter le domaine `ma-super-startup.incubateur.net`.
-3. Aller prévenir le channel `~incubateur-ops` que vous avez réalisé les étapes précédentes, en précisant l'adresse mail utilisée à l'étape 1. Cela permettra à l'équipe ops de vous déléguer la gestion des DNS pour ce nouveau domaine.
+3. Remplir le [formulaire](https://airtable.com/appmmy7DR3T8jqsTx/shrJydj6dtrdSGmfq) de demande d'ops. Le mot de passe est indiqué dans l'entête du channel `~incubateur-ops`. Cela permettra à l'équipe ops de vous déléguer la gestion des DNS pour ce nouveau domaine.
 4. Ajouter les entrées DNS
    * Dans le menu `domains`, en face du nom de votre domaine cliquez sur le picto dans la colonne `details`, puis sur l'onglet `DNS Records`.
    * Cliquez sur `Add DNS record`, et ajouter une entrée de type `ALIAS`, avec `ma-super-startup-staging.osc-fr1.scalingo.io` comme `value`.
