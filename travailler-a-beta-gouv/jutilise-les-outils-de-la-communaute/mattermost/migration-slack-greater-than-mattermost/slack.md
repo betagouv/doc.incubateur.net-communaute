@@ -10,15 +10,13 @@ L'incubateur utilisait Slack comme service de messagerie instantanée. Nous util
 [..](../)
 {% endcontent-ref %}
 
-
-
 ## Premiers pas
 
 * Se [créer un compte](https://startups-detat.slack.com/signup) sur notre Slack.
   * Avec une adresse email en `@beta.gouv.fr`: aller sur [https://startups-detat.slack.com/](https://startups-detat.slack.com) et se créer un compte, ça devrait rouler tout seul. Sinon, demande à t·on.a marrain·e, par exemple.
   * Avec n'importe quel autre email : n'importe qui peut faire une demande d'invitation à l'espace de travail Slack de beta.gouv.fr ("Invite People") ; la demande sera transmise à un administrateur qui pourra l'approuver ou non.
 * Compléter ton profil Slack, avec ton mail et ton rôle dans la communauté beta.gouv.fr et chez Etalab, afin que celles et ceux qui ne te connaissent pas puissent facilement t'identifier. Sans que cela soit obligatoire, nous t'encourageons également à rajouter une photo où tu es reconnaissable et renseigner ton numéro de téléphone pro.
-* Prendre connaissance de la liste des canaux publics pour choisir ceux qui t'intéressent.&#x20;
+* Prendre connaissance de la liste des canaux publics pour choisir ceux qui t'intéressent.
 * Prendre connaissance des conventions de nommage des canaux de discussion si tu souhaitent en créer de nouveaux(ici plus bas).
 * Pour tout problème ou toute question concernant une des étapes de ton intégration, tu es invité à envoyer un message sur [🔒`#incubateur-secretaria`](https://startups-detat.slack.com/messages/incubateur-secretaria/) ou [🔒`#incubateur-help`](https://startups-detat.slack.com/messages/incubateur-help/).
 * Découvrir et s'inscrire aux [listes de diffusion](https://github.com/betagouv/beta.gouv.fr/wiki/listes-de-diffusion) qui t'intéressent.
@@ -35,7 +33,7 @@ Si c'est pour créer un espace de discussion restreint, par exemple une équipe 
 
 ### La vie de l'incubateur
 
-[🔒`#incubateur-annonces`](https://startups-detat.slack.com/messages/incubateur-annonces/) [🔒`#incubateur-veille`](https://startups-detat.slack.com/messages/incubateur-veille/) [🔒`#incubateur-strategie`](https://startups-detat.slack.com/messages/incubateur-strategie/) [🔒`#incubateur-live`](https://startups-detat.slack.com/messages/incubateur-live/) [🔒`#incubateur-animation`](https://startups-detat.slack.com/messages/incubateur-animation/) [🔒`#incubateur-formations`](https://startups-detat.slack.com/messages/incubateur-formations/) [🔒`#incubateur-help`](https://startups-detat.slack.com/messages/incubateur-help/) [🔒`#bureaux-segur`](https://startups-detat.slack.com/messages/bureaux-segur/) [🔒`#incubateur-twitter`](https://startups-detat.slack.com/messages/incubateur-twitter/) [🔒`#incubateur-com`](https://startups-detat.slack.com/messages/incubateur-com/) [🔒`#incubateur-investigation`](https://startups-detat.slack.com/messages/incubateur-investigation/) [🔒`#etalab-general`](https://startups-detat.slack.com/messages/etalab-general/)
+[🔒`#incubateur-annonces`](https://startups-detat.slack.com/messages/incubateur-annonces/) [🔒`#incubateur-veille`](https://startups-detat.slack.com/messages/incubateur-veille/) [🔒`#incubateur-strategie`](https://startups-detat.slack.com/messages/incubateur-strategie/) [🔒`#incubateur-live`](https://startups-detat.slack.com/messages/incubateur-live/) [🔒`#incubateur-animation`](https://startups-detat.slack.com/messages/incubateur-animation/) [🔒`#incubateur-formations`](https://startups-detat.slack.com/messages/incubateur-formations/) [🔒](https://startups-detat.slack.com/messages/incubateur-help/)[#incubateur-entraide-communauté](https://mattermost.incubateur.net/betagouv/channels/incubateur-help)[🔒`#bureaux-segur`](https://startups-detat.slack.com/messages/bureaux-segur/) [🔒`#incubateur-twitter`](https://startups-detat.slack.com/messages/incubateur-twitter/) [🔒`#incubateur-com`](https://startups-detat.slack.com/messages/incubateur-com/) [🔒`#incubateur-investigation`](https://startups-detat.slack.com/messages/incubateur-investigation/) [🔒`#etalab-general`](https://startups-detat.slack.com/messages/etalab-general/)
 
 ### La vie administrative
 
