@@ -5,7 +5,7 @@ description: >-
   sur votre espace membre rubrique ressources!
 ---
 
-# Recommandation de canaux
+# Canaux recommandés
 
 ### Les canaux métiers
 
@@ -25,7 +25,7 @@ description: >-
 
 **Pour ne pas rester coincé.e présentiel ou en ligne**
 
-[\~incubateur-help](https://mattermost.incubateur.net/betagouv/channels/incubateur-help) _Pose toutes les questions que tu n’oserais pas poser ailleurs et pour lesquelles tu n'as pas trouvé de réponse dans la documentation. Fais une bonne action en aidant quelqu'un. 👼_
+[\~incubateur-entraide-communauté ](https://mattermost.incubateur.net/betagouv/channels/incubateur-help)_Pose toutes les questions que tu n’oserais pas poser ailleurs et pour lesquelles tu n'as pas trouvé de réponse dans la documentation. Fais une bonne action en aidant quelqu'un. 👼_
 
 [\~bureaux-segur](https://mattermost.incubateur.net/betagouv/channels/bureaux-segur) _Questions relatives à l'accès aux bureaux de la DINUM et au cadre de travail_
 
