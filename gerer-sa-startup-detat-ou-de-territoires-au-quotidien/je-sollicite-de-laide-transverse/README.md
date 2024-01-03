@@ -69,7 +69,7 @@ Risque : oublier de se demander si ça marche, si l'aide transverse est utile et
 
 ## Demander de l'aide
 
-D'une manière générale, la chaine 🔒[_**\~incubateur-help**_](https://mattermost.incubateur.net/betagouv/channels/incubateur-help) du Mattermost est là pour vous aider !
+D'une manière générale, la chaine 🔒[_**\~incubateur-**_](https://mattermost.incubateur.net/betagouv/channels/incubateur-help)[_**entraide-communauté**_ ](https://mattermost.incubateur.net/betagouv/channels/incubateur-help)du Mattermost est là pour vous aider !
 
 ### Développement
 
