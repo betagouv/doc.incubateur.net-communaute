@@ -71,7 +71,7 @@ Attention si tu es arrivé avant le 24/10/2023 ton email est sur l'offre OVH MXP
 Tous les dossiers mails (brouillons, envoyés, reçu, archivés, etc.) sont maintenant automatiquement synchronisés entre les différents clients.
 
 {% hint style="info" %}
-Tu peux consulter tes mails directement sur le [webmail ovh](https://pro1.mail.ovh.net/). L'interface n'est pas géniale, mais ça peut être une bonne solution pour dépanner, ou quand tu n'a pas accès à ton client web habituel.
+Tu peux consulter tes mails directement sur le [webmail ovh](https://mail.ovh.net/roundcube). L'interface n'est pas géniale, mais ça peut être une bonne solution pour dépanner, ou quand tu n'a pas accès à ton client web habituel.
 {% endhint %}
 
 
