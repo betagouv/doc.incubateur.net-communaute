@@ -19,7 +19,7 @@ Une fiche membre permet aux nouveaux arrivants :
 
 * d'obtenir un email @beta.gouv.fr ;
 * d'accéder aux outils de travail des équipes : messagerie collaborative [Mattermost](../jutilise-les-outils-de-la-communaute/mattermost/), [outil de visio](../jutilise-les-outils-de-la-communaute/faire-une-visio/), accès au [Github](../jutilise-les-outils-de-la-communaute/github/), etc. ;
-* de bénéficier de services : [accès aux locaux](../../decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/locaux/badge-pour-travailler-a-segur/) de l'incubateur de la DINUM, recevoir l'infolettre, accéder aux [formations](../se-former/) proposées par la communauté, bénéficier d'aides pour son équipe et son produit (UX, juridique, sécurité, accessibilité, etc.).
+* de bénéficier de services : [accès aux locaux](../../decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/badge-pour-travailler-a-segur/) de l'incubateur de la DINUM, recevoir l'infolettre, accéder aux [formations](../se-former/) proposées par la communauté, bénéficier d'aides pour son équipe et son produit (UX, juridique, sécurité, accessibilité, etc.).
 
 ### Comment ça se déroule concrètement ?
 

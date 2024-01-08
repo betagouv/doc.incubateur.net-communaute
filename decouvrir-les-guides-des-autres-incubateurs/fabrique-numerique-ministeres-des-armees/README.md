@@ -1,2 +1,2 @@
-# 🏭 Fabrique numérique \(Ministères des armées\)
+# ⚔ Fabrique numérique (Ministères des armées)
 

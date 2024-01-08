@@ -32,8 +32,8 @@ description: >-
 [depannage-je-nai-plus-acces-a-mon-mail.md](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/emails/depannage-je-nai-plus-acces-a-mon-mail.md)
 {% endcontent-ref %}
 
-{% content-ref url="decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/locaux/badge-pour-travailler-a-segur/" %}
-[badge-pour-travailler-a-segur](decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/locaux/badge-pour-travailler-a-segur/)
+{% content-ref url="decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/badge-pour-travailler-a-segur/" %}
+[badge-pour-travailler-a-segur](decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/badge-pour-travailler-a-segur/)
 {% endcontent-ref %}
 
 {% content-ref url="travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/mattermost/comment-rejoindre-lespace-mattermost-de-beta.md" %}

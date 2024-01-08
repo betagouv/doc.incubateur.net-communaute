@@ -52,6 +52,7 @@ _Peu importe le résultat de l'investigation, il est crucial de communiquer de m
 * [ ] un atelier de lancement (avec l'intra et le sponsor) pour définir les "règles du jeu" de l’investigation
 * [ ] un point de mi-parcours (avec l'équipe et le sponsor) pour restituer les apprentissages concernant les problèmes et besoins des usagers
 * [ ] un point de restitution (avec l'équipe et le sponsor) pour émettre des recommandations pour la suite et proposer (si pertinent) des hypothèses de solutions
+* [ ] un point avec la direction de la communication (DICOM) de mon administration afin d'inscrire la place du produit dans l'écosystème numérique ministériel, et notamment le choix de l'URL
 {% endtab %}
 
 {% tab title="Les bonnes pratiques 👌" %}

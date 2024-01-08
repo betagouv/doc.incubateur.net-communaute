@@ -16,7 +16,7 @@
 <!---->
 
 * [ ] Tu as invité la nouvelle recrue à la réunion [hebdo beta.gouv](broken-reference)
-* [ ] Si besoin tu as fait une demande de badge pour accéder à nos locaux (La procédure pour les locaux de Ségur est disponible [ici](../../decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/locaux/badge-pour-travailler-a-segur/))
+* [ ] Si besoin tu as fait une demande de badge pour accéder à nos locaux (La procédure pour les locaux de Ségur est disponible [ici](../../decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/badge-pour-travailler-a-segur/))
 * [ ] Si elle est au statut d'indépendant, elle sait à qui adresser sa facture et comment
 * [ ] Si elle est contractuelle DINUM, elle s'est présentée au secrétariat de la DINUM
 * [ ] Tu as envoyé un mail de bienvenue à la nouvelle recrue

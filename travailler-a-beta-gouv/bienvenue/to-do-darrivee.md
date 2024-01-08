@@ -19,7 +19,7 @@ description: Attention à ne pas tout faire en simultanée, il y a risque d'over
 * [ ] Découvrir [l'observatoire de beta.gouv](https://metabase.incubateur.net/public/dashboard/753b9685-f801-4b1a-8e09-6cefed729e2e?date\_d%27arriv%25C3%25A9=past3years\~)
 * [ ] Trouver l'observatoire trop cool et [y contribuer](https://espace-membre.incubateur.net/) via ton espace membre
 * [ ] Découvrir s'il y a d'autres membres de la communauté près de chez toi sur la [carte des membres](https://espace-membre.incubateur.net/map)&#x20;
-* [ ] Découvrir [tous les lieux où travailler ou organiser des événements](../../decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/locaux/ou-travailler.md)
+* [ ] Découvrir [tous les lieux où travailler ou organiser des événements](../../decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/ou-travailler.md)
 * [ ] S'abonner à [l'agenda public de l'incubateur](https://calendar.google.com/calendar/embed?src=0ieonqap1r5jeal5ugeuhoovlg%40group.calendar.google.com\&ctz=Europe/Paris) pour suivre les événements de la communauté ;
 * [ ] Consulter [les pages spécifiques à son corps de métier](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/les-differents-metiers-dans-une-startup-detat).
 * [ ] Découvrir la documentation de ton incubateur (cf.plus bas)

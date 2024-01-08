@@ -9,35 +9,42 @@ description: >-
 
 Des membres de la communauté Beta.gouv.fr travaillent un peu partout en France. Il existe une carte qui les recense. Tous les membres qui le souhaitent peuvent la [consulter](http://umap.openstreetmap.fr/fr/map/la-communaute-betagouv\_498937) ou la [mettre à jour](http://umap.openstreetmap.fr/fr/map/anonymous-edit/498937:rNZ9vgD45VPxZlCh2TPIJoO6K0A) (pour ajouter une position, cliquez en haut à droite sur le stylo puis sur Ajouter un marqueur. Dans le marqueur, saisi ton nom-prénom, pour pouvoir être contacté·e sur Mattermost). Tu pourras ainsi peut-être trouver un membre près de chez toi pour télétravailler ensemble, partager un coworking ou tout simplement un ☕️.
 
-[![Carte de la communauté](../../../.gitbook/assets/carte\_communaute.png)](http://umap.openstreetmap.fr/fr/map/la-communaute-betagouv\_498937)
+[![Carte de la communauté](../../.gitbook/assets/carte\_communaute.png)](http://umap.openstreetmap.fr/fr/map/la-communaute-betagouv\_498937)
 
 ## Paris
 
-### L'ETAP
+### L'ETAP&#x20;
 
-ETAP est le 1er espace de coworking entièrement dédié aux agents publics, mais en fait à tous ceux qui ont un email en .gouv.fr , comme la vôtre qui est en @beta.gouv.fr . Il est **gratuit** et ouvert **du Mardi au Jeudi**.
+L'ETAP (Espace de Travail de l'Agent Public) est le 1er espace de coworking entièrement dédié aux agents publics, mais en fait à tous ceux qui ont un email en .gouv.fr , comme la vôtre qui est en @beta.gouv.fr . Il est **gratuit** et ouvert **du Mardi au Jeudi**.
 
-📍47, rue Le Peletier, Paris 9è
+* ETAP 75 - 47 rue Le Peletier, 75009 Paris
+* ETAP 91 - Bd de France, 91919 Evry-Courcouronnes
+* ETAP 94 - 21-29 Av du Général de Gaulle, 94000 Créteil
+* ETAP 95, 5 Av. Ber,ard Hirsch, 95000 Cergy
 
-Lien d'inscription / réservation : [https://etap-prefecture-idf.cosoft.fr/LogOn#register](https://etap-prefecture-idf.cosoft.fr/LogOn#register)
-
-<figure><img src="../../../.gitbook/assets/Capture d’écran 2021-11-03 à 12.33.38.png" alt=""><figcaption></figcaption></figure>
+Lien d'inscription / réservation : [https://etap-prefecture.fr/reserver-un-etap/](https://etap-prefecture.fr/reserver-un-etap/)&#x20;
 
 ### Le lieu de la DITP
 
-📍77 avenue de Ségur, 75015&#x20;
+77 avenue de Ségur, 75015
 
-Tél : 01 79 84 33 00&#x20;
+Tél : 01 79 84 33 00
 
-Mail : lelieu.ditp@modernisation.gouv.fr&#x20;
+Mail : lelieu.ditp@modernisation.gouv.fr
 
-Pourquoi ? événement --> uniquement sur réservation
+Pourquoi ? événement -> uniquement sur réservation
 
 Ce lieu ne permet pas le coworking.
 
+### Le GIP Inclusion
+
+6 Boulevard St Denis, 75010 Paris
+
+Faire une demande sur le canal Mattermost [\~gip-inclusion-locaux](https://mattermost.incubateur.net/betagouv/channels/gip-inclusion-locaux)
+
 ### [Le LAB National de Pôle emploi](https://www.lelab.pole-emploi.fr/)
 
-22 allée Darius Milhaud, 75019 Paris&#x20;
+22 allée Darius Milhaud, 75019 Paris
 
 lelab.00174@pole-emploi.fr
 
@@ -45,47 +52,53 @@ lelab.00174@pole-emploi.fr
 
 14 avenue Duquesne, 75007 Paris
 
-07 62 93 81 43&#x20;
+07 62 93 81 43
 
-6-LAB@sg.social.gouv.fr Pourquoi:événements
+6-LAB@sg.social.gouv.fr&#x20;
 
-### [Fabrique à Projets](http://www.ipec.developpement-durable.gouv.fr/fabrique-a-projets-r183.html)
+Pourquoi : événements
 
-La Grande Arche Paroie sud 92055 LA DÉFENSE CEDEX
+### La Fabrique Numérique
+
+La Grande Arche Paroi sud 92055 LA DÉFENSE CEDEX
 
 fabrique.projets@developpement-durable.gouv.fr
 
-### [La Fabrique RH](https://la-fabrique-rh.wixsite.com/fabriquerh)
+Pour les startups du MTE.
 
-55 boulevard Vincent Auriol, 75013 Paris&#x20;
+### La Fabrique RH
+
+55 boulevard Vincent Auriol, 75013 Paris
 
 pref-fabriqueRH@paris.gouv.fr
 
+[https://la-fabrique-rh.wixsite.com/fabriquerh](https://la-fabrique-rh.wixsite.com/fabriquerh)
+
 ### SportLab
 
-95, avenue de France 6ème étage - ascenseur est 75013 PARIS&#x20;
+95, avenue de France 6ème étage - ascenseur est 75013 PARIS
 
-ds-transfolab@sports.gouv.fr&#x20;
+ds-transfolab@sports.gouv.fr
 
 01 45 55 97 09
 
-### [**Le Ground Control**](https://www.groundcontrolparis.com/)
-
-Il s'agit d'anciens locaux de la SNCF qui ont été réhabilités, et aujourd'hui abritent un large espace avec des tables, des événements et plusieurs stands de restauration. Il est possible d'y travailler ou d'y organiser une rencontre. La connexion wifi est de qualité discutable (il vaut mieux travailler en créant une partage de connexion depuis son portable).
+### **Le Ground Control**
 
 81 Rue du Charolais, 75012 Paris.
 
-Horaires : 12h-minuit. Fermé le lundi.
+Horaires : 12h-minuit. Fermé le lundi
 
+Il s'agit d'anciens locaux de la SNCF qui ont été réhabilités, et aujourd'hui abritent un large espace avec des tables, des événements et plusieurs stands de restauration. Il est possible d'y travailler ou d'y organiser une rencontre. La connexion wifi est de qualité discutable (il vaut mieux travailler en créant une partage de connexion depuis son portable).
 
+[https://www.groundcontrolparis.com/](https://www.groundcontrolparis.com/)
 
-## ![](https://i.imgur.com/DjyFR0ps.jpg)Rennes
+## Rennes
 
 Une question ? 👉 [\~bureaux-bretagne](https://mattermost.incubateur.net/betagouv/channels/bureaux-bretagne)
 
 ### [La Cordée](https://www.la-cordee.net/cordee/rennes/rennes-lices/?utm\_source=google\&utm\_medium=cpc\&gclid=Cj0KCQjwkt6aBhDKARIsAAyeLJ0CY3JIdbyvCtTvptDjI3Pw0Jtln16y1pwkmcTSsHaw6xEvFmErhiMaArykEALw\_wcB)
 
-📍1 Carrefour Jouaust 35000 Rennes\
+1 Carrefour Jouaust 35000 Rennes\
 Pourquoi : travailler Pré-requis :
 
 * venir travailler seul à la journée :
@@ -105,21 +118,15 @@ Espace de la région Bretagne 5 Rue Martenot, 35000 Rennes tilab@bretagne.bzh
 
 Une question ? 👉 [\~bureaux-betalyon](https://mattermost.incubateur.net/betagouv/channels/bureaux-betalyon)
 
-### Tuba
-
-Espace gratuit accessible à tous et toutes au rez-de chaussée. A l'étage 3 postes de travail réservés pour Beta.gouv (premier arrivé, premier servi) avec possibilité de réserver des salles pour passer des coups de fil.
-
-📍 227 Cr Lafayette, 69006 Lyon&#x20;
-
-Pourquoi : travailler&#x20;
-
-Access : de 9H00 à 17H00 du lundi au vendredi.&#x20;
-
-Contact : Margot Sanchez - margot.sanchez@beta.gouv.fr
-
 ### Grenier d'abondance - DRAC
 
-📍 6 Quai Saint-Vincent, 69001 Lyon Pourquoi : travailler Accessible de 9H00 à 17H00 du lundi au vendredi. Accueil en place. Se présenter comme DINUM (RIE ou Beta). Au rez-de-chaussée à gauche, 1 salle est ouverte à la communauté beta (espace en cours d'aménagement).
+📍 6 Quai Saint-Vincent, 69001 Lyon Pourquoi : travailler Accessible de 9H00 à 17H00 du lundi au vendredi. Accueil en place. Se présenter comme DINUM (Beta).&#x20;
+
+Espaces accessibles :&#x20;
+
+* Au rez-de-chaussée à gauche, 1 salle est ouverte à la communauté beta&#x20;
+* Au rez-de-chaussée à droite, la bibliothèque en tant qu'espace de coworking
+* Au rez-de-chaussée à droite, le bureau "bulle" (disponible uniquement si l'équipe du Pass Culture n'est pas sur site). &#x20;
 
 ### Le Lab Pôle Emploi
 
@@ -139,9 +146,9 @@ Contact : Margot Sanchez - margot.sanchez@beta.gouv.fr
 
 ### Innov’Mandie
 
-7 place de la Madeleine, 76000 Rouen&#x20;
+7 place de la Madeleine, 76000 Rouen
 
-02 32 76 50 90&#x20;
+02 32 76 50 90
 
 innovmandie@normandie.gouv.fr
 
@@ -149,7 +156,7 @@ innovmandie@normandie.gouv.fr
 
 ### Insolab
 
-Place Georges Pompidou 83000 Toulon&#x20;
+Place Georges Pompidou 83000 Toulon
 
 insolab@tvt.fr
 
@@ -159,7 +166,7 @@ Une question ? 👉 [\~bureaux-bordeaux](https://mattermost.incubateur.net/betag
 
 ### [La Base](https://www.labase-na.fr/)
 
-Conseil départemental de la Gironde Cours du Maréchal Juin, 33000 Bordeaux&#x20;
+Conseil départemental de la Gironde Cours du Maréchal Juin, 33000 Bordeaux
 
 contact@labase-na.fr
 
@@ -175,7 +182,7 @@ Contact : francis.chabouis@beta.gouv.fr
 
 ### Lab d'innovations de l'Etat en BFC
 
-55 rue de la Préfecture, 21000 DIJON&#x20;
+55 rue de la Préfecture, 21000 DIJON
 
 innovation-bfc@bfc.gouv.fr
 
@@ -183,7 +190,7 @@ innovation-bfc@bfc.gouv.fr
 
 ### Lab'EST
 
-5, place de la République, 67000 STRASBOURG&#x20;
+5, place de la République, 67000 STRASBOURG
 
 modernisation@grand-est.gouv.fr
 
@@ -191,7 +198,7 @@ modernisation@grand-est.gouv.fr
 
 ### [LabO](https://www.prefectures-regions.gouv.fr/occitanie/Region-et-institutions/L-action-de-l-Etat/Transition-numerique-de-l-Etat-et-modernisation-de-l-action-publique/Laboratoire-d-innovations/Laboratoire-d-innovations)
 
-32 rue Pierre Paul Riquet, 31000 Toulouse&#x20;
+32 rue Pierre Paul Riquet, 31000 Toulouse
 
 toulouse@citedelarse.fr
 
@@ -199,9 +206,9 @@ toulouse@citedelarse.fr
 
 ### [Laboratoire numérique de l'ASP (Agence de Services et de Paiement)](https://www.asp-public.fr)
 
-2 rue du Maupas, 87000 LIMOGES&#x20;
+2 rue du Maupas, 87000 LIMOGES
 
-laboratoire-numerique@asp-public.fr&#x20;
+laboratoire-numerique@asp-public.fr
 
 05 55 12 04 94
 
@@ -209,7 +216,7 @@ laboratoire-numerique@asp-public.fr&#x20;
 
 ### Siilab
 
-35 Rue Boucher de Perthes 59000 Lille&#x20;
+35 Rue Boucher de Perthes 59000 Lille
 
 christophe.trouillard@jscs.gouv.fr
 
@@ -217,7 +224,6 @@ christophe.trouillard@jscs.gouv.fr
 
 ### Le bon plan du messin
 
-À **Metz** les membres de la communauté beta seront toujours les bienvenus au tiers lieu + coworking BLIIIDA/Le Poulailler.&#x20;
+À **Metz** les membres de la communauté beta seront toujours les bienvenus au tiers lieu + coworking BLIIIDA/Le Poulailler.
 
 Contact : Jérôme Desboeufs - [jerome.desboeufs@data.gouv.fr](mailto:jerome.desboeufs@data.gouv.fr)
-
