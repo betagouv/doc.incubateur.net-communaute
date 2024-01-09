@@ -5,7 +5,7 @@ description: >-
   permanent d’accès.
 ---
 
-# 🪪 Faire une demande de badge
+# 📇 Faire une demande de badge
 
 {% hint style="info" %}
 
@@ -19,7 +19,7 @@ description: >-
 
 * **Période durant laquelle tu vas demander un accès à Segur**. Elle correspond à celle de ta mission dans une Startup d'Etat.\
   N'oublie pas de [prolonger la durée de validité de ton badge](https://doc.incubateur.net/communaute/decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/locaux/badge-pour-travailler-a-segur/prolonger-la-duree-de-validite-de-mon-badge) si ta mission est renouvelée.
-* **Ton email @beta.gouv.fr** ([Comment avoir un email @beta.gouv.fr](../../../../travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/emails/));
+* **Ton email @beta.gouv.fr** ([Comment avoir un email @beta.gouv.fr](../../../travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/emails/));
 * Un **photo ou un scan, recto-verso, de ta carte d'identité** ou de ton passeport en cours de validité au format JPEG (\*.jpg) ou PDF ;
 * Une **photo d'identité couleur** prise de face sur un fond neutre au format JPEG (\*.jpg).
 
@@ -32,7 +32,7 @@ Les demandes de badge pour des fréquences de passage de moins de 2 jours par se
 * Connecte toi sur [ton espace membre](https://espace-membre.incubateur.net/)
 * Remplis le formulaire dans la partie "Badge"
 
-<figure><img src="../../../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 * Tu recevras des mails concernant la prise en charge de ta demande
 

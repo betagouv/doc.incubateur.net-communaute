@@ -2,7 +2,9 @@
 
 Le programme beta.gouv.fr [dispose d’une page sur la plateforme “Welcome to the Jungle”](https://www.welcometothejungle.com/fr/companies/communaute-beta-gouv) qui permet d’attirer des profils pertinents pour le réseau beta.gouv.fr. L’offre Welcome permet de publier son offre sur le site vitrine de beta.gouv et de recevoir et gérer les candidatures ("Welcome Kit").
 
-![](<../../.gitbook/assets/image (14).png>)
+
+
+<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
 Cet outil est mis à disposition de l’ensemble du réseau beta.gouv. En particulier, les entreprises titulaires de [nos marchés publics](../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/obtenir-une-prestation/marches-publics-beta.gouv.fr/) peuvent utiliser cet outil afin de faciliter leur sourcing de profils pour le compte des produits conçus selon l’approche Startup d’État, en profitant du rayonnement du label “beta.gouv.fr”.
 
@@ -12,12 +14,13 @@ Pour avoir accès au Welcome et publier une offre, faire la demande à animation
 
 ## Publier une offre
 
-Pour publier une offre sur le Welcome il suffit de cliquer sur “ajouter une offre”
+Pour publier une offre sur le Welcome il suffit de cliquer sur “Nouvelle offre d'emploi”.
 
-![](https://lh6.googleusercontent.com/ZX3WwWHVbXDR8CYLSSs0owHH93HHMCm3qmsIaaGYRd05LKGz\_TAfieFTZ4khgfWTK3oLP1oYrwmz0nbtf8RUsK63tO2of\_dDfgj7MVCoGvxmZehzmEkxoyD6ioO8HHhk24FSz59WabPDmtldDg)
+<figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-**L'offre sera automatiquement dépubliée au bout de 2 mois**, sauf prolongement manuel.  Si tu as trouvé la ou les bonnes personnes, bravo et pense à archiver l'annonce avant cette date, afin de garder une page de recrutement à jour et attractive. Sinon tu peux toujours réactiver l'annonce en allant dans les archives.
+**L'offre sera automatiquement dépubliée au bout de 2 mois**, sauf prolongement manuel. \
+Si tu as trouvé la ou les bonnes personnes, bravo ! Pense à archiver l'annonce avant cette date pour maintenir une page de recrutement à jour et attrayante. Sinon, tu peux toujours réactiver l'annonce depuis les archives.
 {% endhint %}
 
 <details>
@@ -57,7 +60,7 @@ En cas de diffusion d'une offre en prestation (ex : freelance), suivre le proces
 
 ## Diffuser une offre
 
-Les comptes Twitter et [LinkedIn](reseaux-sociaux/annoncer-un-recrutement-sur-le-compte-linkedin-de-beta.gouv.md) de beta.gouv.fr sont d'excellents relais pour diffuser l'annonce.
+Le compte [LinkedIn](reseaux-sociaux/annoncer-un-recrutement-sur-le-compte-linkedin-de-beta.gouv.md) de beta.gouv.fr est un excellent relais pour diffuser l'annonce.
 
 {% content-ref url="reseaux-sociaux/annoncer-un-recrutement-sur-le-compte-linkedin-de-beta.gouv.md" %}
 [annoncer-un-recrutement-sur-le-compte-linkedin-de-beta.gouv.md](reseaux-sociaux/annoncer-un-recrutement-sur-le-compte-linkedin-de-beta.gouv.md)
