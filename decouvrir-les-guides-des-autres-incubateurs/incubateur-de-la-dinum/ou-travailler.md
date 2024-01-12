@@ -32,7 +32,8 @@ Tél : 01 79 84 33 00
 
 Mail : lelieu.ditp@modernisation.gouv.fr
 
-Pourquoi ? événement -> uniquement sur réservation
+Pourquoi ? uniquement sur réservation.\
+Le Lieu de la Transformation Publique est un espace commun dédié aux travaux des laboratoires d’innovation et des équipes de transformation publique des administrations. Les espaces du Lieu sont exclusivement proposés aux travaux d’intelligence collective (Design sprints, Idéathons, Hackathons, Co-Dev, Ateliers de formation…) et ne sont pas destinés à accueillir de simples réunions, ou des séminaires."
 
 Ce lieu ne permet pas le coworking.
 
@@ -140,7 +141,8 @@ Espaces accessibles :&#x20;
 
 ### [Etat’LIN](https://www.prefectures-regions.gouv.fr/pays-de-la-loire/Region-et-institutions/Organisation-administrative-de-la-region/Secretariat-General-pour-les-Affaires-Regionales-SGAR/Etat-LIN-le-Laboratoire-d-innovation-territoriale-de-l-Etat-en-region-Pays-de-la-Loire/Etat-LIN-c-est-quoi/#titre)
 
-6 quai Ceineray, 44000 Nantes - Pays de la Loire etatlin@pays-de-la-loire.gouv.fr
+6 quai Ceineray, 44000 Nantes - Pays de la Loire etatlin@pays-de-la-loire.gouv.fr\
+Plus d'informations sur le canal "[Bureaux-Nantes](https://mattermost.incubateur.net/betagouv/channels/nantes-coworking)"
 
 ## Rouen
 
