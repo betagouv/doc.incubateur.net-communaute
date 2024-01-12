@@ -1,4 +1,4 @@
-# 🙋‍♀️ Chapitre 1. Trouver ses premiers utilisateurs
+# 🙋♀ Chapitre 1. Trouver ses premiers utilisateurs
 
 {% embed url="https://www.youtube.com/watch?v=O5uzA15EyfQ" %}
 

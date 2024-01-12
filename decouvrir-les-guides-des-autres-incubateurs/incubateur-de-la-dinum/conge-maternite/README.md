@@ -15,13 +15,23 @@ Ce qu'on ne va pas traiter ici :
 * congés maladies de longue durée.
 * la PMA
 
-On a décortiqué ce guide en 5 étapes. Les questions qui se posent :
+On a décortiqué ce guide en 4 étapes. Les questions qui se posent :&#x20;
 
-1. [Avant d'être enceinte](avant-detre-enceinte.md)
-2. [Quand on l'est et qu'on n'est pas encore en congé maternité](avant-le-conge-maternite.md)
-3. [Pendant le congé maternité](pendant-le-conge-maternite.md)
-4. [Au retour du congé maternité](apres-le-conge-maternite.md)
-5. [A plus long terme après son retour](broken-reference)
+{% content-ref url="avant-detre-enceinte.md" %}
+[avant-detre-enceinte.md](avant-detre-enceinte.md)
+{% endcontent-ref %}
+
+{% content-ref url="avant-le-conge-maternite.md" %}
+[avant-le-conge-maternite.md](avant-le-conge-maternite.md)
+{% endcontent-ref %}
+
+{% content-ref url="pendant-le-conge-maternite.md" %}
+[pendant-le-conge-maternite.md](pendant-le-conge-maternite.md)
+{% endcontent-ref %}
+
+{% content-ref url="apres-le-conge-maternite.md" %}
+[apres-le-conge-maternite.md](apres-le-conge-maternite.md)
+{% endcontent-ref %}
 
 Pour chaque étape, nous avons essayé d'indiquer :
 
@@ -34,8 +44,8 @@ Enfin, il s'agit d'un guide en amélioration continue. Il peut comporter des que
 
 * Nous soutenons le principe (et non la règle car les équipes sont autonomes) selon lequel une collègue pourra retrouver sa mission après son congé maternité ;
 * Le taux journalier d'un indépendant doit comprendre la compensation de la perte de salaire lié à un congé maternité ou un congé paternité.
-* le télétravail est un mode "par défaut" de Betagouv.
-* Nous proposons de transformer la "grotte" (salle à Segur) comme salle d'allaitement si besoin, de réserver un espace dans le frigo pour le lait maternel et disposer d'un casier sécurisé pour les collègues dans la "grotte" pour stocker la matériel associé.
+* Le télétravail est un mode "par défaut" de Betagouv.
+* Nous proposons de transformer la "grotte" (salle à Ségur) comme salle d'allaitement si besoin, de réserver un espace dans le frigo pour le lait maternel et disposer d'un casier sécurisé pour les collègues dans la "grotte" pour stocker la matériel associé.
 * Il est possible, avec le consentement de la personne concernée, de mettre en place un lien au moment ou pendant le congé maternité:
   * Prendre contact une fois par semaine ;
   * Déterminer des rituels au sein de la SE auxquels on veut toujours être associés ;

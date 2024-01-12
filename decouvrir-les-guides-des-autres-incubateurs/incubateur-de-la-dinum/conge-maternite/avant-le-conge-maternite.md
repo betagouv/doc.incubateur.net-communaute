@@ -1,10 +1,10 @@
-# Avant le congé maternité
+# 🤰 Avant le congé maternité
 
 #### Pourquoi attendre 3 mois avant d'annoncer la grossesse ?
 
-* Si les couples ne partagent pas leur joie d'attendre un enfant avant trois mois de grossesse, c'est notamment parce que le risque de fausse couche est important pendant cette période \(20%\)
+* Si les couples ne partagent pas leur joie d'attendre un enfant avant trois mois de grossesse, c'est notamment parce que le risque de fausse couche est important pendant cette période (20%)
 
-#### Comment gérer les RDV médicaux avant l'accouchement \(avant le congès mater\) qui sont nombreux et souvent à des horaires imposés ?
+#### Comment gérer les RDV médicaux avant l'accouchement (avant le congès mater) qui sont nombreux et souvent à des horaires imposés ?
 
 * Les RDV médicaux sont fixes et ne peuvent pas être déplacés facilement.
 * Les RDV médicaux créés des charges mentales/impact émotionnel pouvant impliquer des difficultés pour travailler.
@@ -26,9 +26,8 @@
 * Il n'est pas possible d'indiquer une fourchette de temps passer en rdv médicaux.
 * En parler au sein de l'équipe pour définir une gestion adaptée de l'activité :
   * calendrier partagé
-  * en parler en réunion de lancement de sprint ou rétrospective / stand-up quotidien 
+  * en parler en réunion de lancement de sprint ou rétrospective / stand-up quotidien
 
 #### Je suis conjoint.e d'une personne en enceinte, comment je peux accompager les RDV médicaux...?
 
 * En parler au sein de l'équipe pour trouver des solutions ensemble.
-

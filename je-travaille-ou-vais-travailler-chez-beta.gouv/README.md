@@ -66,10 +66,6 @@
 {% endtab %}
 
 {% tab title="Bizdev" %}
-{% content-ref url="../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/le-metier-de-charge.e-de-deploiement-chez-beta.gouv" %}
-[le-metier-de-charge.e-de-deploiement-chez-beta.gouv](../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/le-metier-de-charge.e-de-deploiement-chez-beta.gouv)
-{% endcontent-ref %}
-
 {% content-ref url="../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-gere-mon-produit-et-son-impact/definir-et-mesurer-limpact/" %}
 [definir-et-mesurer-limpact](../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-gere-mon-produit-et-son-impact/definir-et-mesurer-limpact/)
 {% endcontent-ref %}

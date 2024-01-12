@@ -5,7 +5,7 @@ description: >-
   le meilleur de cette communauté d'entraide.
 ---
 
-# 🚢 Embarquement dans la communauté
+# Embarquement dans la communauté
 
 L'embarquement se passe en 2 étapes. Ces étapes sont décrites dans l'email que tu reçois 1 jour après la création de ta fiche membre (cf. la rubrique "Le premier jour chez beta.gouv).
 

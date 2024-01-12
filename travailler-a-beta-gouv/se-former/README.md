@@ -4,7 +4,7 @@ description: Comment se former chez beta.gouv ?
 
 # 🎓 Se former et évoluer
 
-Au sein de la communauté, nous essayons de permettre à tous de se former et/ou de former ses collègues.
+Au sein de la communauté, nous essayons de permettre à toutes et tous de se former et/ou de former ses collègues.
 
 Nous ne disposons pas d'une "stratégie" de formation. Néanmoins nous avons initié certaines actions :
 
@@ -28,10 +28,6 @@ Certaines formations ponctuelles sont référencées dans les sections suivantes
 {% endcontent-ref %}
 
 Retrouvez aussi les autres sections qui concernent la rubrique "Se former et évoluer" :&#x20;
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
 
 {% content-ref url="clubs-de-partage-dexperience.md" %}
 [clubs-de-partage-dexperience.md](clubs-de-partage-dexperience.md)

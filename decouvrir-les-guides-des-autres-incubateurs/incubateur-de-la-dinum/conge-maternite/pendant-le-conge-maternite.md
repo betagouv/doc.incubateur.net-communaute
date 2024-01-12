@@ -1,4 +1,4 @@
-# Pendant le congé maternité
+# 🧑🍼 Pendant le congé maternité
 
 #### Quid du congés second parent ?
 
@@ -7,9 +7,8 @@
 
 #### Je suis conjoint.e d'une personne enceinte, congé pat ? comment diminuer la pression sociale pour encourager la prise de congés pour accompagner leur compagne?
 
-* Proposition : passer de 10 jours calendaires facultatifs rémunérés \(SYNTEC si 1,5 ans d'ancienneté\) à 3 mois.
+* Proposition : passer de 10 jours calendaires facultatifs rémunérés (SYNTEC si 1,5 ans d'ancienneté) à 3 mois.
 
 #### Comment soutenir les collègues pendant leur post-partum ?
 
 * A compléter
-

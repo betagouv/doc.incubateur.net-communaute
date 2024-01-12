@@ -1,4 +1,4 @@
-# 🕵️‍♂️ Pourquoi le recrutement des chargés de déploiement est-il important ?
+# 🕵♂ Pourquoi le recrutement des chargés de déploiement est-il important ?
 
 Le recrutement des chargés de déploiement est essentiel dès le départ, pour s’assurer que son produit a un potentiel d’usage.
 

@@ -23,7 +23,7 @@ Elle est constituée de  4 agents :&#x20;
 * **Julien Dauphant**, Directeur Technique et Produits (CTO)
 * **Emmanuelle Graff**, Responsable des opérations et de coordination de projets (PMO)
 
-### 💼 Le Pôle Partenariats / Responsables de Portefeuille Ministériel
+### :briefcase: Le Pôle Partenariats / Responsables de Portefeuille Ministériel
 
 Les [**responsables de portefeuille**](../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/les-differents-metiers-dans-une-startup-detat/responsables-de-portefeuille.md) s'occupent de soutenir les équipes produit et les incubateurs dans leurs travaux en fonction de leur périmètre ministériel :&#x20;
 
@@ -93,7 +93,7 @@ Le pôle AIC accompagne l'émergence de communs numériques issus de la sociét�
 * **Juliette Langlet**, Coach AIC
 * **Virgile Deville**, Coach AIC
 
-### 🧑🏽‍💻 Le Programme Entrepreneurs d'Intérêt Général (EIG)
+### :small\_red\_triangle: Le Programme Entrepreneurs d'Intérêt Général (EIG)
 
 Le pôle EIG recrute et accompagne des entrepreneur·e·s du numériques pour diriger des services numériques à impact. Il est porté par :&#x20;
 
