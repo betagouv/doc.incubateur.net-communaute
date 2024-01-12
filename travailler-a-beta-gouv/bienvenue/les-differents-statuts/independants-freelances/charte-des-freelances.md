@@ -1,4 +1,4 @@
-# 📜 Charte des freelances
+# Charte des freelances
 
 En tant qu'indépendante ou indépendant, il n'y a pas de lien de subordination, ni avec un quelconque membre de l'équipe, ni avec l'entreprise titulaire du marché, ni avec [beta.gouv.fr](http://beta.gouv.fr). Il est toutefois possible que vous ayez signé un contrat avec votre titulaire précisant des conditions spécifiques. Si ce n'est pas le cas, les éléments ci-dessous s'appliquent :&#x20;
 

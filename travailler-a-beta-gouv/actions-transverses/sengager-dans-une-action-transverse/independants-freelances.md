@@ -1,4 +1,4 @@
-# 🆓 Indépendants (freelances)
+# Indépendants (freelances)
 
 Une grande partie de la communauté beta.gouv.fr est composée de personnes au statut d'**indépendants** (freelances). A titre d'exemple, à l'été 2021, sur une communauté d'environ 600 personnes, 14% est [salariée d'une société de prestation](salaries-des-societes-de-prestation.md), 35% est [agent publics](../les-differents-statuts/fonctionnaires-et-contractuels-de-la-fonction-publique.md) et 51% est indépendante.
 
