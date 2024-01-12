@@ -35,7 +35,7 @@ Les [**responsables de portefeuille**](../../gerer-sa-startup-detat-ou-de-territ
 * **Maël Inizan** : Logement
 * **Margot Sanchez** : Transition Ecologique
 * **Adrien Zemour** : Territoire, Affaires Etrangères et Culture
-* **Magalie Marcel-Garreau** : Economie, Agriculture
+* **Magali Marcel-Garreau** : Economie, Agriculture
 * **Thibault Desjardins** : Intérieur&#x20;
 
 ### :bullettrain\_front: Le Pôle Accélération
