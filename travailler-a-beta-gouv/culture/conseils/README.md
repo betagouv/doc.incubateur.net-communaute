@@ -51,7 +51,7 @@ Le harcèlement moral ou sexuel est interdit et constitue un délit pénal. A ti
 
     👉 Contacter un·e membre individuellement sur Mattermost, par email ou en personne.
 
-_Les membres du groupe de soutien sont : Anne Poirot, Bréanne Mallat, Camille Garrigue, Caroline Lawson, Clémence Lopez, Denis Baudot, Florian Briand, Mélodie Dahi, Rebecca Dumazert._
+_Les membres du groupe de soutien sont : Anne Poirot, Caroline Lawson, Clémence Lopez, Denis Baudot, Florian Briand, Mélodie Dahi, Fanny Blanc, Amel Alili._
 
 * **Contacter les fonctions Ressources Humaines** si je suis salarié·e de la DINUM ou d'une autre administration.
 * **Faire appel à la ligne d'écoute psychologique** proposée par la DINUM : numéro non-surtaxé 0 800 200 286
