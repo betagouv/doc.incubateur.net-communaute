@@ -21,7 +21,7 @@ Fiche récapitulative de la certification
 
 
 {% hint style="info" %}
-La certification est intras est proposée 2 fois dans l'année.\
+La certification des intras est proposée 2 fois dans l'année.\
 Une première session a lieu en Mai et une seconde au mois de Décembre.
 {% endhint %}
 
