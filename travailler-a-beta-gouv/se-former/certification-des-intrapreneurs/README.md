@@ -18,6 +18,13 @@ Fiche récapitulative de la certification
 [cest-quoi-une-certification-de-competences.md](cest-quoi-une-certification-de-competences.md)
 {% endcontent-ref %}
 
+
+
+{% hint style="info" %}
+La certification est intras est proposée 2 fois dans l'année.\
+Une première session a lieu en Mai et une seconde au mois de Décembre.
+{% endhint %}
+
 ## Préparer sa certification
 
 Le déroulé de cette certification pour les intras vise à évaluer ces 8 compétences :
