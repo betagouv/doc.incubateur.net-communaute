@@ -5,7 +5,7 @@ description: >-
   dans chaque cas ce qu'on peut faire pour y réagir.
 ---
 
-# Conflits, mal-être, souffrance, violence ou harcèlement
+# 😖 Conflits, mal-être, souffrance, violence ou harcèlement
 
 ## Conflit
 
@@ -33,10 +33,10 @@ Le harcèlement moral ou sexuel est interdit et constitue un délit pénal. A ti
 
 ## Les actions possibles
 
-*   **Discuter avec les personnes de sa chaîne d'accompagnement :**
+*   **Discuter avec une personne de confiance au sein du réseau :**
 
-    * Membre de son équipe
-    * Coach de l'équipe
+    * membre de son équipe
+    * coach de l'équipe
     * direction de l'incubateur
     * un·e membre de [l'équipe d'animation de beta](../../../decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/lequipe-danimation-beta.gouv.fr.md)
 
@@ -51,16 +51,24 @@ Le harcèlement moral ou sexuel est interdit et constitue un délit pénal. A ti
 
     👉 Contacter un·e membre individuellement sur Mattermost, par email ou en personne.
 
-_Les membres du groupe de soutien sont : Anne Poirot, Caroline Lawson, Clémence Lopez, Denis Baudot, Florian Briand, Mélodie Dahi, Fanny Blanc, Amel Alili._
+_**Les membres du groupe de soutien sont : Anne Poirot, Caroline Lawson, Clémence Lopez, Denis Baudot, Florian Briand, Mélodie Dahi, Fanny Blanc, Amel Alili.**_
 
-* **Contacter les fonctions Ressources Humaines** si je suis salarié·e de la DINUM ou d'une autre administration.
+
+
+{% hint style="info" %}
+_Si vous êtes agents publics, vous pouvez également :_&#x20;
+
+* **Contacter les fonctions Ressources Humaines**
 * **Faire appel à la ligne d'écoute psychologique** proposée par la DINUM : numéro non-surtaxé 0 800 200 286
 * **Contacter les** **services d'assistance juridique proposés par la DINUM à travers Allo Discrim :** site Web [https://allodiscrim.wethics.eu/](https://allodiscrim.wethics.eu/) - code 2018
+{% endhint %}
 
 Dans tous les cas :&#x20;
 
-* je suis protégé·e en la matière par la loi, et en cas de harcèlement avéré je dispose de recours de nature civile et pénale.
+* je suis protégé·e par la loi, et en cas de harcèlement avéré je dispose de recours de nature civile et pénale.
 * je dispose d'un droit de retrait.
+* je peux prendre contact avec le [Défenseur des droits](https://orientation.defenseurdesdroits.fr/?) si je ne sais pas à qui m'adresser.
+* Je contacte [AlloDiscrim, AlloSexism ou AlloEthic](https://allodiscrim.com/nos-dispositifs/)
 
 
 

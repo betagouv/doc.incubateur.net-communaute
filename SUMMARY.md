@@ -28,7 +28,7 @@
   * [Travailler ensemble](travailler-a-beta-gouv/culture/normes-de-conduite.md)
   * [Histoire de beta.gouv.fr](travailler-a-beta-gouv/culture/histoire-de-beta.gouv.fr/README.md)
     * [Références bibliographiques](travailler-a-beta-gouv/culture/histoire-de-beta.gouv.fr/references-bibliographiques.md)
-  * [Conflits, mal-être, souffrance, violence ou harcèlement](travailler-a-beta-gouv/culture/conseils/README.md)
+  * [😖 Conflits, mal-être, souffrance, violence ou harcèlement](travailler-a-beta-gouv/culture/conseils/README.md)
     * [Indépendant victime de harcèlement ou de discrimination](travailler-a-beta-gouv/culture/conseils/independant-victime-de-harcelement-ou-discrimination.md)
 * [🔧 Utiliser les outils de la communauté](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/README.md)
   * [Emails](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/emails/README.md)
