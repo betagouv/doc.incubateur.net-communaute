@@ -22,10 +22,10 @@ Le local de l'incubateur est au 5e étage, salles 5.428 et 5.413, accessible par
 
 ### Internet
 
-* Un accès wifi est disponible, demande le mot de passe sur [🔒`#bureaux-segur`](https://startups-detat.slack.com/messages/bureaux-segur/).
-* Un fallback 4G est également disponible, demande le mot de passe sur [🔒`#bureaux-segur`](https://startups-detat.slack.com/messages/bureaux-segur/) en cas de besoin.
+* Un accès wifi est disponible, demande le mot de passe sur [\~bureaux-ségur](https://mattermost.incubateur.net/betagouv/channels/bureaux-segur)
+* Un fallback 4G est également disponible, demande le mot de passe sur [\~bureaux-ségur](https://mattermost.incubateur.net/betagouv/channels/bureaux-segur) en cas de besoin.
 * Les câbles rouges sont connectés à internet.
-* Attention, seules les salles de l'incubateur sont équipés avec la wifi beta.gouv.fr. Depuis les salles 5.7XX il est souvent nécéssaire d'utiliser la fonction " partage de connexion" depuis un smartphone pour se connecter à Internet.
+* Attention, seules les salles de l'incubateur sont équipés avec la wifi beta.gouv.fr. Depuis les salles 5.7XX il est souvent nécéssaire d'utiliser la fonction " partage de connexion" depuis un smartphone pour se connecter à Internet, ou de se connecter à SEGUR FONTENOY Visiteurs.
 
 ### Accès visiteur à la journée à Ségur
 
