@@ -1,4 +1,4 @@
-# ⁉ Tally
+# Tally
 
 [Tally ](https://tally.so/)est un outil qui permet la création de formulaires et de sondages en ligne.\
 Son utilisation est simple et peut s'adapter à toutes vos envies.\
@@ -19,4 +19,4 @@ Seuls les mails d'agents publics ou les mails beta.gouv.fr sont autorisés à re
 Chaque compte ajouté ne respectant pas cette règle sera supprimé.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>

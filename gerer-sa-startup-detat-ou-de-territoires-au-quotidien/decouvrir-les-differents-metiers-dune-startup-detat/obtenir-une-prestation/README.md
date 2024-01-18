@@ -99,8 +99,8 @@ Pour identifier les profils qui réaliseront la prestation :&#x20;
   * diffuser l'annonce au sein du réseau beta.gouv, via le Mattermost ou l'infolettre interne ;&#x20;
   * poster une annonce sur la plateforme _Welcome to the Jungle_. Dans ce cas-là, il est nécessaire de gérer les candidatures en lien avec l'entreprise titulaire. Pour en savoir plus, consulter la page suivante :&#x20;
 
-{% content-ref url="../../../travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/welcome-to-the-jungle.md" %}
-[welcome-to-the-jungle.md](../../../travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/welcome-to-the-jungle.md)
+{% content-ref url="../../../travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/welcome-to-the-jungle/" %}
+[welcome-to-the-jungle](../../../travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/welcome-to-the-jungle/)
 {% endcontent-ref %}
 
 {% hint style="success" %}

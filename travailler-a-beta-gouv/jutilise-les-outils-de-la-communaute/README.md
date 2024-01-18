@@ -70,6 +70,6 @@ description: >-
 [dashlane.md](dashlane.md)
 {% endcontent-ref %}
 
-{% content-ref url="welcome-to-the-jungle.md" %}
-[welcome-to-the-jungle.md](welcome-to-the-jungle.md)
+{% content-ref url="welcome-to-the-jungle/" %}
+[welcome-to-the-jungle](welcome-to-the-jungle/)
 {% endcontent-ref %}
