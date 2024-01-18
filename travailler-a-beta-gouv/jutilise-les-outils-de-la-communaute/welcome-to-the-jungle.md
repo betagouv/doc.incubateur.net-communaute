@@ -4,23 +4,23 @@ Le programme beta.gouv.fr [dispose d’une page sur la plateforme “Welcome to 
 
 
 
-<figure><img src="../../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
-Cet outil est mis à disposition de l’ensemble du réseau beta.gouv. En particulier, les entreprises titulaires de [nos marchés publics](../../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/obtenir-une-prestation/marches-publics-beta.gouv.fr/) peuvent utiliser cet outil afin de faciliter leur sourcing de profils pour le compte des produits conçus selon l’approche Startup d’État, en profitant du rayonnement du label “beta.gouv.fr”.
+Cet outil est mis à disposition de l’ensemble du réseau beta.gouv. En particulier, les entreprises titulaires de [nos marchés publics](../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/obtenir-une-prestation/marches-publics-beta.gouv.fr/) peuvent utiliser cet outil afin de faciliter leur sourcing de profils pour le compte des produits conçus selon l’approche Startup d’État, en profitant du rayonnement du label “beta.gouv.fr”.
 
 ## Obtenir un accès au Welcome to the Jungle
 
 Pour avoir accès au Welcome et publier une offre, faire la demande à animation@beta.gouv.fr. Une fois que vous avez accès à la plateforme, vous pouvez ouvrir un profil avec accès restreint aux autres membres de l’équipe. Les profils avec accès restreints n’ont accès qu’aux candidatures sur l’offre sur laquelle ils ont été nommés.
 
-Merci de prendre connaissance de la Charte de bonne utilisation de Welcome to The Jungle.
-
-
+{% hint style="info" %}
+Merci de prendre connaissance de la [Charte de bonne utilisation de Welcome to The Jungle.](welcome-to-the-jungle/charte-de-bonne-utilisation-de-welcome-to-the-jungle.md)
+{% endhint %}
 
 ## Publier une offre
 
 Pour publier une offre sur le Welcome il suffit de cliquer sur “Nouvelle offre d'emploi”.
 
-<figure><img src="../../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **L'offre sera automatiquement dépubliée au bout de 2 mois**, sauf prolongement manuel. \
@@ -58,16 +58,16 @@ Assurez-vous que la case Welcome est bien cochée pour que votre offre soit diff
 
 En cas de diffusion d'une offre en prestation (ex : freelance), suivre le process détaillé ici :&#x20;
 
-{% content-ref url="../../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/obtenir-une-prestation/" %}
-[obtenir-une-prestation](../../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/obtenir-une-prestation/)
+{% content-ref url="../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/obtenir-une-prestation/" %}
+[obtenir-une-prestation](../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/obtenir-une-prestation/)
 {% endcontent-ref %}
 
 ## Diffuser une offre
 
-Le compte [LinkedIn](../reseaux-sociaux/annoncer-un-recrutement-sur-le-compte-linkedin-de-beta.gouv.md) de beta.gouv.fr est un excellent relais pour diffuser l'annonce.
+Le compte [LinkedIn](reseaux-sociaux/annoncer-un-recrutement-sur-le-compte-linkedin-de-beta.gouv.md) de beta.gouv.fr est un excellent relais pour diffuser l'annonce.
 
-{% content-ref url="../reseaux-sociaux/annoncer-un-recrutement-sur-le-compte-linkedin-de-beta.gouv.md" %}
-[annoncer-un-recrutement-sur-le-compte-linkedin-de-beta.gouv.md](../reseaux-sociaux/annoncer-un-recrutement-sur-le-compte-linkedin-de-beta.gouv.md)
+{% content-ref url="reseaux-sociaux/annoncer-un-recrutement-sur-le-compte-linkedin-de-beta.gouv.md" %}
+[annoncer-un-recrutement-sur-le-compte-linkedin-de-beta.gouv.md](reseaux-sociaux/annoncer-un-recrutement-sur-le-compte-linkedin-de-beta.gouv.md)
 {% endcontent-ref %}
 
 Les annonces peuvent aussi être relayées auprès de communautés spécifiques, par exemple :&#x20;
@@ -75,7 +75,7 @@ Les annonces peuvent aussi être relayées auprès de communautés spécifiques,
 * [DuchessFrance \[Women in tech\]](https://www.duchess-france.org/contact/)
 * [Ladies of code Paris](https://www.meetup.com/fr-FR/Ladies-of-Code-Paris/)
 * [PyLadies Paris](https://www.meetup.com/fr-FR/pyladiesparis/)
-* [WomenOnRails](./#aider-les-autres-a-recruter)
+* [WomenOnRails](welcome-to-the-jungle.md#aider-les-autres-a-recruter)
 
 ## Gérer les candidatures
 

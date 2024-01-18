@@ -83,7 +83,7 @@
   * [Dashlord](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/dashlord/README.md)
     * [FAQ DashLord](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/dashlord/questions-reponses.md)
   * [Metabase](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/metabase.md)
-  * [Welcome to the Jungle](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/welcome-to-the-jungle/README.md)
+  * [Welcome to the Jungle](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/welcome-to-the-jungle.md)
     * [Charte de bonne utilisation de Welcome to the Jungle 📖](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/welcome-to-the-jungle/charte-de-bonne-utilisation-de-welcome-to-the-jungle.md)
   * [Tally](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/tally.md)
   * [Réseaux sociaux](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/reseaux-sociaux/README.md)
