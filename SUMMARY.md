@@ -325,7 +325,7 @@
     * [Pilotage du coût d’un produit numérique et contraintes liées à la comptabilité publique](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/guide-de-financement-des-startups-detat/3.-pilotage-du-cout-dun-produit-numerique-et-contraintes-liees-a-la-comptabilite-publique.md)
     * [L’enjeu du pilotage par l’impact](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/guide-de-financement-des-startups-detat/4.-lenjeu-du-pilotage-par-limpact.md)
   * [Publier son budget](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/publier-son-budget.md)
-  * [Lever des fonds (en construction)](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/lever-des-fonds-en-construction.md)
+  * [Lever des fonds (en construction 🏗️)](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/lever-des-fonds-en-construction.md)
 * [🎀 Solliciter de l'aide transverse](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-sollicite-de-laide-transverse/README.md)
   * [Mise en conformité RGPD et coaching juridique](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-sollicite-de-laide-transverse/mise-en-conformite-rgpd-et-conseil-juridique.md)
   * [Aide transverse - Growth Hacking](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-sollicite-de-laide-transverse/growth-hacking-acquisition.md)
