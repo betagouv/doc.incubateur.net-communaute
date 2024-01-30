@@ -49,7 +49,8 @@ Le harcèlement moral ou sexuel est interdit et constitue un délit pénal. A ti
 
     👉 Contacter l'équipe par email : soutien@beta.gouv.fr
 
-    👉 Contacter un·e membre individuellement sur Mattermost, par email ou en personne.
+    👉 Contacter un·e membre individuellement sur Mattermost, par email ou en personne.\
+    👉Tu préfères rester anonyme mais déclarer une situation problématique,[ utilise ce formulaire.](https://tally.so/r/w8xAgr)
 
 _**Les membres du groupe de soutien sont : Anne Poirot, Caroline Lawson, Clémence Lopez, Denis Baudot, Florian Briand, Mélodie Dahi, Fanny Blanc, Amel Alili.**_
 
@@ -63,12 +64,13 @@ _Si vous êtes agents publics, vous pouvez également :_&#x20;
 * **Contacter les** **services d'assistance juridique proposés par la DINUM à travers Allo Discrim :** site Web [https://allodiscrim.wethics.eu/](https://allodiscrim.wethics.eu/) - code 2018
 {% endhint %}
 
-Dans tous les cas :&#x20;
+**Dans tous les cas :**&#x20;
 
 * je suis protégé·e par la loi, et en cas de harcèlement avéré je dispose de recours de nature civile et pénale.
 * je dispose d'un droit de retrait.
 * je peux prendre contact avec le [Défenseur des droits](https://orientation.defenseurdesdroits.fr/?) si je ne sais pas à qui m'adresser.
 * Je contacte [AlloDiscrim, AlloSexism ou AlloEthic](https://allodiscrim.com/nos-dispositifs/)
+* En tant que freelance, vous devez en alerter votre titulaire de marché (Octo, Malt, Scopyleft...)
 
 
 
