@@ -10,7 +10,12 @@ Cet outil est mis à disposition de l’ensemble du réseau beta.gouv. En partic
 
 ## Obtenir un accès au Welcome to the Jungle
 
-Pour avoir accès au Welcome et publier une offre, faire la demande à animation@beta.gouv.fr. Une fois que vous avez accès à la plateforme, vous pouvez ouvrir un profil avec accès restreint aux autres membres de l’équipe. Les profils avec accès restreints n’ont accès qu’aux candidatures sur l’offre sur laquelle ils ont été nommés.
+Une fois que vous avez accès à la plateforme, vous pouvez ouvrir un profil avec accès restreint aux autres membres de l’équipe. Les profils avec accès restreints n’ont accès qu’aux candidatures sur l’offre sur laquelle ils ont été nommés.
+
+\
+**Si tu fais partie de la Fabrique Numérique du MTE, demande directement tes accès à** [**fabrique.numerique@developpement-durable.gouv.fr**](mailto:fabrique.numerique@developpement-durable.gouv.fr)\
+**Pour toutes les autres demandes,** envoie un mail  à [animation@beta.gouv.fr](mailto:animation@beta.gouv.fr). \
+
 
 {% hint style="info" %}
 Merci de prendre connaissance de la [Charte de bonne utilisation de Welcome to The Jungle.](welcome-to-the-jungle/charte-de-bonne-utilisation-de-welcome-to-the-jungle.md)
