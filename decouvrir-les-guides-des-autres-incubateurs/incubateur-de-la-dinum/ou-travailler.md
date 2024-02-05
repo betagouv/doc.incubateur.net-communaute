@@ -174,12 +174,6 @@ contact@labase-na.fr
 
 (Pour organiser des réunions et ateliers - ce n'est pas un espace de coworking. Penser à résérver bien en avance.)
 
-### Le bon plan du bordelais
-
-Francis Chabouis loue un bureau fermé et met à disposition des membres de la communauté 2 places de travail.
-
-Contact : francis.chabouis@beta.gouv.fr
-
 ## Dijon
 
 ### Lab d'innovations de l'Etat en BFC
