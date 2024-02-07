@@ -83,8 +83,8 @@ Attention, la loi ne s'applique pas dans les cas de collecte, enregistrement ou 
   * 💡 [Une AIPD, c'est quoi ?](https://www.cnil.fr/sites/default/files/atoms/files/infographie\_aipd.pdf)
   * 💡 [Exemple d'AIPD](https://docs.google.com/document/d/1j\_1EESLdOHIa6bsYo3VSp-AJhPNPbQJKNRJnpJpRhKU/edit) pour la startup Itou.
 * [ ] Je sensibilise très tôt les membres de mon équipe aux bonnes pratiques individuelles de sécurité informatique, en particulier les personnes appelées à administer le service.
-* [ ] J'ajoute mon service numérique sur [MonServiceSécurisé, un service de l'ANSSI](https://wwww.monservicesecurise.ssi.gouv.fr), pour générer une liste personnalisée de mesures pour sécuriser mon service, découvrir son "indice cyber" et constituer facilement mon premier dossier d'homologation.
-* [ ] * [ ] J'organise, en complément, un atelier d'analyse de risques en suivant le guide agile de l'ANSSI \[1 demi-journée en équipe complète].
+* [ ] J'ajoute mon service numérique sur [MonServiceSécurisé, un service de l'ANSSI](https://www.monservicesecurise.ssi.gouv.fr), pour générer une liste personnalisée de mesures pour sécuriser mon service, découvrir son "indice cyber" et constituer facilement mon premier dossier d'homologation.
+* [ ] J'organise, en complément, un atelier d'analyse de risques en suivant le guide agile de l'ANSSI \[1 demi-journée en équipe complète].
   * 💡 Exemple de [résultat d'un atelier](https://github.com/openmaraude/le.taxi/wiki/Analyse-des-risques) pour Le.taxi
   * 💡 [Guide de sécurité Agile le l'ANSSI](https://www.ssi.gouv.fr/uploads/2018/11/guide-securite-numerique-agile-anssi-pa-v1.pdf)
 * [ ] J'ajoute ma startup à [dashlord](https://github.com/betagouv/dashlord/blob/main/dashlord.yml) et je vérifie que [tous les voyants sont au vert](https://dashlord.incubateur.net/#/).
@@ -109,7 +109,7 @@ _Mon produit a rencontré ses utilisateurs et démontré sa valeur en phase d'ex
 {% tab title="A faire " %}
 * [ ] Je reviens sur les actions des phases précédentes, en répète certaines (atelier risques) et mets à jour les documents correspondants.
 * [ ] \[Si AIPD] Je finalise l'analyse et sa validation avec le responsable de traitement.
-* [ ] Je continue de piloter la sécurité de ma startup sur [MonServiceSécurisé, un service de l'ANSSI](https://wwww.monservicesecurise.ssi.gouv.fr) et je renouvèle son homologation, en cas d'évolutions significatives de mon produit ou de son infrastructure.
+* [ ] Je continue de piloter la sécurité de ma startup sur [MonServiceSécurisé](https://www.monservicesecurise.ssi.gouv.fr) et je renouvèle son homologation, en cas d'évolutions significatives de mon produit ou de son infrastructure.
 * [ ] Je renouvèle de besoin l'atelier risques, si les enjeux de sécurité de mon produit ont évolué et j'utilise les résultats de l'analyse de risques pour étoffer la liste des mesures de sécurité sur [MonServiceSécurisé](https://wwww.monservicesecurise.ssi.gouv.fr).
 * [ ] Je partage le dossier avec le RSSI de mon administration, prends en compte ses retours et me renseigne sur l'autorité d'homologation.
   * 💡 Pour connaître le RSSI de la DINUM, tu peux interroger l'équipe de co-animation de beta.gouv.fr
