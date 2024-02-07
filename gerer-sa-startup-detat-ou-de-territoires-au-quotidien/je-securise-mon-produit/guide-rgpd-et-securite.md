@@ -83,7 +83,7 @@ Attention, la loi ne s'applique pas dans les cas de collecte, enregistrement ou 
   * 💡 [Une AIPD, c'est quoi ?](https://www.cnil.fr/sites/default/files/atoms/files/infographie\_aipd.pdf)
   * 💡 [Exemple d'AIPD](https://docs.google.com/document/d/1j\_1EESLdOHIa6bsYo3VSp-AJhPNPbQJKNRJnpJpRhKU/edit) pour la startup Itou.
 * [ ] Je sensibilise très tôt les membres de mon équipe aux bonnes pratiques individuelles de sécurité informatique, en particulier les personnes appelées à administer le service.
-* [ ] J'ajoute mon service numérique sur [MonServiceSécurisé, un service de l'ANSSI](https://www.monservicesecurise.ssi.gouv.fr), pour générer une liste personnalisée de mesures pour sécuriser mon service, découvrir son "indice cyber" et constituer facilement mon premier dossier d'homologation.
+* [ ] J'ajoute ma startup sur [MonServiceSécurisé, un service de l'ANSSI](https://www.monservicesecurise.ssi.gouv.fr), pour générer une liste personnalisée de mesures pour sécuriser mon service, découvrir son "indice cyber" et constituer facilement mon premier dossier d'homologation.
 * [ ] J'organise, en complément, un atelier d'analyse de risques en suivant le guide agile de l'ANSSI \[1 demi-journée en équipe complète].
   * 💡 Exemple de [résultat d'un atelier](https://github.com/openmaraude/le.taxi/wiki/Analyse-des-risques) pour Le.taxi
   * 💡 [Guide de sécurité Agile le l'ANSSI](https://www.ssi.gouv.fr/uploads/2018/11/guide-securite-numerique-agile-anssi-pa-v1.pdf)
