@@ -97,7 +97,7 @@ Il s'agit d'anciens locaux de la SNCF qui ont été réhabilités, et aujourd'hu
 
 [18 Rue Godot de Mauroy, 75009 Paris](https://maps.app.goo.gl/2EeJPGVq3eo1uBxQ7)
 
-Malt met à disposition un espace de coaworking dans ses locaux à destination des équipes de la communauté beta.gouv. C'est ouvert aux agents et aux freelances qui sont référencés sur la plateforme Malt.
+Malt met à disposition un espace de coworking dans ses locaux à destination des équipes de la communauté beta.gouv. C'est ouvert aux agents et aux freelances qui sont référencés sur la plateforme Malt.
 
 Infos et réservation : [https://www.malt.fr/c/freelancers/coworking-space](https://www.malt.fr/c/freelancers/coworking-space)
 
