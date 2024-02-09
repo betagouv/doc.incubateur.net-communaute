@@ -85,13 +85,23 @@ ds-transfolab@sports.gouv.fr
 
 ### **Le Ground Control**
 
-81 Rue du Charolais, 75012 Paris.
+[81 Rue du Charolais, 75012 Paris](https://maps.app.goo.gl/TQKV4pbyoq9RCNda6)
 
 Horaires : 12h-minuit. Fermé le lundi
 
 Il s'agit d'anciens locaux de la SNCF qui ont été réhabilités, et aujourd'hui abritent un large espace avec des tables, des événements et plusieurs stands de restauration. Il est possible d'y travailler ou d'y organiser une rencontre. La connexion wifi est de qualité discutable (il vaut mieux travailler en créant une partage de connexion depuis son portable).
 
 [https://www.groundcontrolparis.com/](https://www.groundcontrolparis.com/)
+
+### Malt
+
+[18 Rue Godot de Mauroy, 75009 Paris](https://maps.app.goo.gl/2EeJPGVq3eo1uBxQ7)
+
+Malt met à disposition un espace de coaworking dans ses locaux à destination des équipes de la communauté beta.gouv. C'est ouvert aux agents et aux freelances qui sont référencés sur la plateforme Malt.
+
+Infos et réservation : [https://www.malt.fr/c/freelancers/coworking-space](https://www.malt.fr/c/freelancers/coworking-space)
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ## Rennes
 

@@ -23,7 +23,7 @@ L’étude menée par [Avec les mots](https://www.avecdesmots.com/les-francais-c
 
 Il est important de réaliser que les producteurs de contenus n'écrivent pas consciemment compliqué. On a tendance à estimer nos propres contenus plus simples que ceux des autres.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Enquête menée par la DITP (2020-2022) auprès de 700 agents publics</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Enquête menée par la DITP (2020-2022) auprès de 700 agents publics</p></figcaption></figure>
 
 D'autres biais peuvent complexifier nos contenus :&#x20;
 
