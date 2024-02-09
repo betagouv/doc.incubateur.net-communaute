@@ -2,13 +2,26 @@
 description: >-
   🧭 Toutes les ressources pour aider les membres de la communauté à s'y
   retrouver dans l'organisation beta.gouv.fr.
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Bienvenue sur le guide de la communauté beta.gouv.fr
 
 {% hint style="info" %}
-**Gagne du temps** en utilisant le moteur de recherche en haut à droite de l'écran **"Rechercher"** 🔎
+**Gagne du temps** en utilisant le moteur de recherche en haut à droite de l'écran **"Recherch**
 {% endhint %}
+
+
 
 ## Pour bien démarrer, choisis ta situation :
 
@@ -63,3 +76,6 @@ description: >-
 {% content-ref url="travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/faire-une-visio/" %}
 [faire-une-visio](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/faire-une-visio/)
 {% endcontent-ref %}
+
+
+

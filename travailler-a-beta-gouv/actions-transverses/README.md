@@ -1,5 +1,35 @@
 # 🖖 Participer à la vie de la communauté
 
+## **🎉 Viens découvrir les prochains événements de la communauté !🎉**
+
+Il est temps de te mettre à jour sur les événements qui se dérouleront prochainement. 🚀 \
+Mais avant tout, as-tu rejoint notre agenda public ? \
+En rejoignant notre agenda, tu auras accès à toutes les informations concernant ces événements, ainsi que des rappels utiles pour ne manquer aucune occasion de partager avec les autres membres des incubateurs. 📅
+
+[👉 Rejoignez notre agenda public ici !](https://calendar.google.com/calendar/u/0/embed?src=0ieonqap1r5jeal5ugeuhoovlg@group.calendar.google.com\&ctz=Europe/Paris)
+
+\
+Maintenant, voici un aperçu des événements que vous pouvez anticiper dans les semaines à venir :
+
+*   **Evénement Numérique et intrapreneuriat le 26 février à Ségur** :calendar:
+
+    **Rendez-vous le 26 février** à l'auditorium Marceau Long du 20 avenue de Ségur pour la démonstration des produits lauréats du FAST 13 !
+
+    Au programme également : **présentation de l'offre de services de la DINUM** par Stéphanie Schaer, **keynote d'Annabelle Bignon,** co-fondatrice de Maria Schools, la remise de **diplômes des intras** certifié.e.s...
+
+    :coffee: Accueil café à partir de 15h :microphone: Plénière de 16h à 17h45 :handshake: Echanges autour des stands des incubateurs du réseau beta.gouv.fr de 17h45 à 19h
+
+    Pour participer, il suffit de vous [inscrire ici](https://www.eventbrite.com/e/billets-numerique-et-intrapreneuriat-comment-accelerer-les-politiques-publiques-799463796737) :white\_check\_mark:[ ici](https://www.eventbrite.com/e/billets-numerique-et-intrapreneuriat-comment-accelerer-les-politiques-publiques-799463796737) :white\_check\_mark:
+* **Avril : Bet@strasbroug**\
+  Rejoignez les membres de la communauté pour travail ensemble à Strasbourg.\
+  Plus d'informations en rejoignant [le canal mattermost tmp-bet@stras](https://mattermost.incubateur.net/betagouv/channels/tmp-betstras)\
+
+* Le 10 Avril 2024 \
+  **« Outiller les politiques publiques avec les communs numériques »** au Lieu de la Transformation Publique\
+  Lien pour l'inscription bientôt disponible.
+
+##
+
 ## La règle des 10%
 
 La communauté beta.gouv vit grâce à ses membres. C’est pourquoi chaque membre de la communauté peut utiliser jusqu’à 10% du temps consacré à sa Startup d’État pour participer à des activités transverses en facturant sur sa mission.
