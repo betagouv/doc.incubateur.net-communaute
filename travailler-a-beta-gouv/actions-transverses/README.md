@@ -6,10 +6,11 @@ Il est temps de te mettre à jour sur les événements qui se dérouleront proch
 Mais avant tout, as-tu rejoint notre agenda public ? \
 En rejoignant notre agenda, tu auras accès à toutes les informations concernant ces événements, ainsi que des rappels utiles pour ne manquer aucune occasion de partager avec les autres membres des incubateurs. 📅
 
-[👉 Rejoignez notre agenda public ici !](https://calendar.google.com/calendar/u/0/embed?src=0ieonqap1r5jeal5ugeuhoovlg@group.calendar.google.com\&ctz=Europe/Paris)
+[**👉 Rejoignez notre agenda public ici !**](https://calendar.google.com/calendar/u/0/embed?src=0ieonqap1r5jeal5ugeuhoovlg@group.calendar.google.com\&ctz=Europe/Paris)
 
-\
-Maintenant, voici un aperçu des événements que vous pouvez anticiper dans les semaines à venir :
+
+
+### Maintenant, voici un aperçu des événements pour les semaines à venir :
 
 *   **Evénement Numérique et intrapreneuriat le 26 février à Ségur** :calendar:
 
@@ -20,13 +21,18 @@ Maintenant, voici un aperçu des événements que vous pouvez anticiper dans les
     :coffee: Accueil café à partir de 15h :microphone: Plénière de 16h à 17h45 :handshake: Echanges autour des stands des incubateurs du réseau beta.gouv.fr de 17h45 à 19h
 
     Pour participer, il suffit de vous [inscrire ici](https://www.eventbrite.com/e/billets-numerique-et-intrapreneuriat-comment-accelerer-les-politiques-publiques-799463796737) :white\_check\_mark:[ ici](https://www.eventbrite.com/e/billets-numerique-et-intrapreneuriat-comment-accelerer-les-politiques-publiques-799463796737) :white\_check\_mark:
-* **Avril : Bet@strasbroug**\
-  Rejoignez les membres de la communauté pour travail ensemble à Strasbourg.\
-  Plus d'informations en rejoignant [le canal mattermost tmp-bet@stras](https://mattermost.incubateur.net/betagouv/channels/tmp-betstras)\
+*   **En Avril :**&#x20;
 
-* Le 10 Avril 2024 \
-  **« Outiller les politiques publiques avec les communs numériques »** au Lieu de la Transformation Publique\
-  Lien pour l'inscription bientôt disponible.
+    * **Bet@strasbroug**\
+      Rejoignez les membres de la communauté pour travail ensemble à Strasbourg.\
+      Plus d'informations en rejoignant [le canal mattermost tmp-bet@stras](https://mattermost.incubateur.net/betagouv/channels/tmp-betstras)\
+
+    * **« Outiller les politiques publiques avec les communs numériques »** au Lieu de la Transformation Publique **Le 10 Avril 2024** \
+      Lien pour l'inscription bientôt disponible.
+
+
+
+    * **Prochaine tournée beta à Lyon**&#x20;
 
 ##
 
