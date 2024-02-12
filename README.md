@@ -18,7 +18,7 @@ layout:
 # Bienvenue sur le guide de la communauté beta.gouv.fr
 
 {% hint style="info" %}
-**Gagne du temps** en utilisant le moteur de recherche en haut à droite de l'écran **"Recherch**
+**Gagne du temps** en utilisant le moteur de recherche en haut à droite de l'écran **"Rechercher".**
 {% endhint %}
 
 
