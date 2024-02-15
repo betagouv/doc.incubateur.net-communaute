@@ -1,7 +1,7 @@
 # Envoyer et recevoir des mails @beta.gouv.fr
 
 {% hint style="info" %}
-Si tu es arrivé après le 24/10/2023 ton compte est sur cette configuration (Conf OVH Pro), si tu es arrivé avant le 24/20/2023 regarde cette configuration :&#x20;
+Si tu es arrivé après le 24/10/2023 ton compte est sur cette configuration (Conf OVH Pro), si tu es arrivé avant le 24/10/2023 regarde cette configuration :&#x20;
 
 [envoyer-et-recevoir-des-emails-beta.gouv.fr-avec-loffre-ovh-mx-plan.md](envoyer-et-recevoir-des-emails-beta.gouv.fr-avec-loffre-ovh-mx-plan.md "mention")
 {% endhint %}
