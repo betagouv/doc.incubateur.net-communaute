@@ -14,15 +14,23 @@ Pour la production, c'est ok d'utiliser ma-startup.beta.gouv.fr.
 
 Pour le reste (dev, pré-prod), il faut utiliser ma-startup.incubateur.net
 
-## Comment obtenir la délégation d'un sous-domaine beta.gouv.fr ou incubateur.net sur AlwaysData ?
+## Comment obtenir la délégation d'un sous-domaine beta.gouv.fr ou incubateur.net ?
 
-[Always Data](https://admin.alwaysdata.com/) est une plateforme d'hébergement, utilisée par beta.gouv pour déléguer la gestion des DNS des startups aux développeurs de chaque équipe.
+Nous pouvons vous déléguer la gestion de votre Zone DNS sur OVH ou autre fournisseur de votre choix.
 
 ### Etapes
 
 Préalable 1 : Choisir les URL, en se basant sur [cette documentation](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/choisir-son-nom-de-domaine). On prendra ici comme exemple l'adresse `ma-super-startup.incubateur.net`, une url classique chez beta.gouv pour un site de staging.
 
-Préalable 2 : Avoir une application déployée sur un hébergeur Saas. On prendra ici comme exemple Scalingo, nous disposons donc d'une application déployée sur une adresse comme celle-ci : `ma-super-startup-staging.osc-fr1.scalingo.io`.
+Préalable 2 : Avoir une application déployée. On prendra ici comme exemple Scalingo, nous disposons donc d'une application déployée sur une adresse comme celle-ci : `ma-super-startup-staging.osc-fr1.scalingo.io`.
+
+#### Example avec OVH
+
+1. Créer [un compte OVH](https://www.ovh.com/auth/)
+2. Faire [la demande de création de zone DNS](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/infra#comment-faire-une-demande-dops) en précisant le compte OVH qui recevra la délégation.
+3. Une fois le ticket traité, accepter la demande de délégation
+
+#### Example avec AlwaysData
 
 1. Créer un compte sur [Always Data](https://admin.alwaysdata.com/) avec votre adresse mail `@beta.gouv.fr`.
 2. Ajouter le nouveau domaine. Dans l'interface, trouver le menu `domains`, puis le bouton `Add a domain` et suivre les instructions pour ajouter le domaine `ma-super-startup.incubateur.net`.
