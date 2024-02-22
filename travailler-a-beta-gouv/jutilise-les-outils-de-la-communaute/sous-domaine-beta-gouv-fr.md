@@ -24,7 +24,7 @@ Préalable : Choisir les URL, en se basant sur [cette documentation](https://doc
 
 #### Example avec OVH
 
-1. Créer [un compte OVH](https://www.ovh.com/auth/)
+1. Créer [un compte OVH](https://www.ovh.com/auth/) **avec votre adresse (beta.)gouv.fr**
 2. Faire [la demande de création de zone DNS](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/infra#comment-faire-une-demande-dops) en précisant le compte OVH qui recevra la délégation.
 3. Une fois le ticket traité, accepter la demande de délégation et configurez votre zone DNS.
 
