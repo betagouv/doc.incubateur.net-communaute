@@ -20,7 +20,7 @@ Nous pouvons vous déléguer la gestion de votre Zone DNS sur OVH ou autre fourn
 
 ### Etapes
 
-Préalable : Choisir les URL, en se basant sur [cette documentation](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/choisir-son-nom-de-domaine). On prendra ici comme exemple l'adresse `ma-super-startup.incubateur.net`, une url classique chez beta.gouv pour un site de staging.
+Préalable : Choisir les URL, en se basant sur [cette documentation](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/choisir-son-nom-de-domaine). On prendra ici comme exemple l'adresse `ma-startup.incubateur.net`, une url classique chez beta.gouv pour un site de staging.
 
 #### Example avec OVH
 
