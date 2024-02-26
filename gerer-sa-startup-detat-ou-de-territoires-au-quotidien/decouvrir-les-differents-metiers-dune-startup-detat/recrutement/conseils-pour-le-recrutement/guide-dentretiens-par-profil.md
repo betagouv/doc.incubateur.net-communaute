@@ -94,4 +94,81 @@ Parlons d'un domaine qui te passionne. Quel produit voudrais-tu construire ?
 
 </details>
 
-##
+<details>
+
+<summary>Chargé / chargée de déploiement </summary>
+
+Pour mieux comprendre ce rôle, à multiples casquettes, tu peux te référer à [cette page](../../les-differents-metiers-dans-une-startup-detat/le-metier-de-charge.e-de-deploiement-chez-beta.gouv/introduction/le-charge-de-deploiement-dans-le-programme-beta.gouv.md).&#x20;
+
+Ci-dessous, tu pourras trouver des informations concernant les compétences recherchées, différentes selon le niveau de séniorité. \
+\
+**Compétences chargé / chargée de déploiement junior**
+
+Les **hard skills** ainsi que la curiosité et l’appétence à apprendre étaient les compétences les plus citées par les répondants.
+
+_Outils & connaissances_
+
+* Savoir faire une campagne mailing (les contacts froids) automatisée, analyse de résultats
+* Alimenter le CRM de façon claire, synthétique et régulière.
+
+_Gestion des partenariats & relations utilisateurs_
+
+* Savoir pitcher sa solution de façon claire et adaptée à l’interlocuteur
+* Assurer la relation client sur le long terme afin de trouver des opportunités de développement
+* Savoir organiser et mener des réunions avec différents interlocuteurs (équipe, sponsors, usagers)
+
+_Développement produit_
+
+* Savoir remonter et hiérarchiser les besoins utilisateurs
+* Expliciter les besoins utilisateurs pour l’équipe et les sponsors
+
+_Posture_
+
+* Être curieux: s’intéresser à l’écosystème beta et de la start up
+* Être force de proposition (aimer la prospection,ne pas redouter l’objection)
+* Être à l’écoute (équipe, sponsors, utilisateurs)
+* Avoir une bonne capacité d’adaptation
+* Être autonome
+* Être organisé
+
+_Expérience_
+
+* Avoir une expérience, même courte, en tant que bizdev
+* Maîtrise des techniques de vente
+
+#### **Compétences chargé / chargée de déploiement senior** <a href="#competences-bizdev-senior" id="competences-bizdev-senior"></a>
+
+Les **soft skills** sont beaucoup plus mis en avant en ce qui concerne les compétences des bizdev senior. Un bizdev senior devra faire preuve de leadership, et d’un excellent relationnel.
+
+_Capacités humaines et vie d’équipe_
+
+* Faire preuve d’écoute active
+* Avoir un excellent relationnel quelques soient les interlocuteurs (savoir créer des discussions avec les différentes parties prenantes)
+* Être capable de faire monter en compétence d’autres membres de l’équipe
+* Faire preuve de leadership au sein de son équipe et auprès des interlocuteurs de la SET
+
+_Gestion partenariats & relations utilisateurs_
+
+* Être capable de trouver et entretenir des partenariats
+* Savoir mener des campagnes d’acquisition par différents canaux
+* Savoir convaincre
+
+_Développement produit_
+
+* Plan d’action
+* Être capable de voir les signaux faibles et les opportunités de développement
+
+_Outils & connaissances_
+
+* Maitrise des outils
+* S’intéresser aux outils et se former en fonction de ses besoins
+* Suivre des métriques : Poser les bons indicateurs et être capables de les suivre
+* Avoir une culture institutionnelle
+* Comprendre des sujets complexes / Connaissance du domaine de la SET
+
+_Posture_
+
+* Ne pas s’enfermer dans un rôle
+* Rapidement opérationnel, autonome
+
+</details>
