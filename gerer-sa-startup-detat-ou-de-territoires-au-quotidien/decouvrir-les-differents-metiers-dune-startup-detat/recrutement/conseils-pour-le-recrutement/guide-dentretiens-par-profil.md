@@ -100,7 +100,7 @@ Parlons d'un domaine qui te passionne. Quel produit voudrais-tu construire ?
 
 Pour mieux comprendre ce rôle, à multiples casquettes, tu peux te référer à [cette page](../../les-differents-metiers-dans-une-startup-detat/le-metier-de-charge.e-de-deploiement-chez-beta.gouv/introduction/le-charge-de-deploiement-dans-le-programme-beta.gouv.md).&#x20;
 
-Ci-dessous, tu pourras trouver des informations concernant les compétences recherchées, différentes selon le niveau de séniorité. \
+Ci-dessous, tu pourras trouver des informations concernant les compétences recherchées, différentes selon le niveau de séniorité.  Au début de la vie du produit, il peut être intéressant de prendre un.e chargé.e de déploiement avec plus d'expérience, afin d'être mieux accompagné. \
 \
 **Compétences chargé / chargée de déploiement junior**
 
