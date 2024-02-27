@@ -10,29 +10,28 @@ En rejoignant notre agenda, tu auras accès à toutes les informations concernan
 
 
 
-### Maintenant, voici un aperçu des événements pour les semaines à venir :
-
-*   **Evénement Numérique et intrapreneuriat le 26 février à Ségur** :calendar:
-
-    **Rendez-vous le 26 février** à l'auditorium Marceau Long du 20 avenue de Ségur pour la démonstration des produits lauréats du FAST 13 !
-
-    Au programme également : **présentation de l'offre de services de la DINUM** par Stéphanie Schaer, **keynote d'Annabelle Bignon,** co-fondatrice de Maria Schools, la remise de **diplômes des intras** certifié.e.s...
-
-    :coffee: Accueil café à partir de 15h :microphone: Plénière de 16h à 17h45 :handshake: Echanges autour des stands des incubateurs du réseau beta.gouv.fr de 17h45 à 19h
-
-    Pour participer, il suffit de vous [inscrire ici](https://www.eventbrite.com/e/billets-numerique-et-intrapreneuriat-comment-accelerer-les-politiques-publiques-799463796737) :white\_check\_mark:[ ici](https://www.eventbrite.com/e/billets-numerique-et-intrapreneuriat-comment-accelerer-les-politiques-publiques-799463796737) :white\_check\_mark:
-*   **En Avril :**&#x20;
-
-    * **Bet@strasbroug**\
-      Rejoignez les membres de la communauté pour travail ensemble à Strasbourg.\
-      Plus d'informations en rejoignant [le canal mattermost tmp-bet@stras](https://mattermost.incubateur.net/betagouv/channels/tmp-betstras)\
-
-    * **« Outiller les politiques publiques avec les communs numériques »** au Lieu de la Transformation Publique **Le 10 Avril 2024** \
-      Lien pour l'inscription bientôt disponible.
+### Maintenant, voici un aperçu des événements pour les semaines à venir :thumbsup:
 
 
 
-    * **Prochaine tournée beta à Lyon**&#x20;
+**En Mars:**
+
+* le 7 Mars :[ Forum Mensuel co-organisé avec l'incubateur de la Justice](https://www.eventbrite.com/e/billets-forum-betagouvfr-7-mars-2024-840277993097?utm-campaign=social\&utm-content=attendeeshare\&utm-medium=discovery\&utm-term=listing\&utm-source=cp\&aff=ebdsshcopyurl)
+* le 18 Mars : Entrepreneur(e)s d'intérêt général - Webinaire d'information à 15 h 30 (cf agenda pour lien de connexion)
+
+**En Avril :**&#x20;
+
+* Le 4 Avril: Forum Mensuel co-organisé avec l'ANCT
+* **Bet@strasbroug**\
+  Rejoignez les membres de la communauté pour travail ensemble à Strasbourg.\
+  Plus d'informations en rejoignant [le canal mattermost tmp-bet@stras](https://mattermost.incubateur.net/betagouv/channels/tmp-betstras)\
+
+* **« Transformer les politiques publiques avec les communs numériques »** au Lieu de la Transformation Publique **Le 10 Avril 2024** \
+  👉🏽[Lien d'inscription ](https://www.eventbrite.com/e/billets-transformer-les-politiques-publiques-avec-les-communs-numeriques-851345616657)\
+
+* **Prochaine tournée beta à Lyon** \
+  La prochaine étape de la tournée Beta aura lieu à **Lyon en Avril 2024**, deux groupes de dates sont possibles : les 15, 16, 17 avril OU les 22,23,24 avril. Nous avons besoin de vous pour le choix des dates.\
+  Rejoins [le canal mattermost dédié à l'organisation de cet évènement](https://mattermost.incubateur.net/betagouv/channels/tmp-lyon-tournee-beta-2024) pour plus d'informations.&#x20;
 
 ##
 
