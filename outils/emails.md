@@ -72,6 +72,8 @@ Pour les autres logiciels, la configuration se fait de manière suivante :
 | Nom d'utilisateur | ton adresse beta.gouv.fr |
 | Mot de passe | le mot de passe de ton email |
 
+Dans les cas où les valeurs ne sont pas les bonnes, il est possible de le retrouver à l'adresse suivante : https://pro1.mail.ovh.net/owa/#path=/options/popandimap
+
 Tous les dossiers mails \(brouillons, envoyés, reçu, archivés, etc.\) sont maintenant automatiquement synchronisés entre les différents clients.
 
 {% hint style="info" %}
