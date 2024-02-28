@@ -13,10 +13,10 @@ description: >-
 
 Une équipe tech transverse existe au sein de l'incubateur. Son rôle est de s'assurer que les devs de la communauté puissent travailler au mieux et développer des produits impactants et de qualité.
 
-* Anna-Livia Gomart (CPO)
-* Lucas Charrier (Dev)
-* Philippe Libat (Référent DevOps)
-* Vincent Viers (Responsable Developer Experience)
+* Julien Dauphant (Directeur technique et produit)
+* Julien Bouquillon (Lead Devops)
+* Lucas Charrier (Devops)
+* Thomas Ramé (Devops)
 
 {% hint style="info" %}
 N'hésite pas a contacter Vincent ou un autre membre de l'équipe si tu rencontres une difficulté lors de l'une de tes missions.
