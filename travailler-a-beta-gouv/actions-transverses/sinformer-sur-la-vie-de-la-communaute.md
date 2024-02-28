@@ -5,7 +5,7 @@ Si vous êtes membres du réseau beta.gouv.fr, vous devriez recevoir un jeudi su
 N'oubliez pas de vous inscrire à l'agenda public de beta.gouv.fr pour ne pas rater les événements proposés dans le réseau !
 
 {% hint style="info" %}
-[Voir l'**agenda public de bêta**](https://calendar.google.com/calendar/u/1?cid=MGllb25xYXAxcjVqZWFsNXVnZXVob292bGdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)\*\*\*\*
+[Voir l'**agenda public** ](https://calendar.google.com/calendar/u/1?cid=MGllb25xYXAxcjVqZWFsNXVnZXVob292bGdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 {% endhint %}
 
 {% hint style="info" %}
