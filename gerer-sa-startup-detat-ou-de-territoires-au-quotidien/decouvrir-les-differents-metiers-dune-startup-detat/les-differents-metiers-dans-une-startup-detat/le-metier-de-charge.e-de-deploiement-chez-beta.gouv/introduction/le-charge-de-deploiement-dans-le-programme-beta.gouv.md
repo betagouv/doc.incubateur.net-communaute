@@ -84,7 +84,11 @@ _Actions principales_
 
 ### **Community Builder / Manager**
 
-![](<../../../../../.gitbook/assets/Animation de la communautéSuccess .png>)
+<div align="left">
+
+<figure><img src="../../../../../.gitbook/assets/Animation de la communautéSuccess .png" alt="" width="250"><figcaption></figcaption></figure>
+
+</div>
 
 _Description :_ Le ou la community manager (animateur ou animatrice de communautés web) a pour mission de fédérer les utilisateurs ou plus largement la communauté autour de pôles d'intérêts communs (marque, produits, valeurs...), d'animer et de faire respecter les règles éthiques des communautés. Il/elle définit des contenus pour chaque cible (images, vidéos, articles, jeux concours...), planifie la production, publie et anime les réseaux sociaux et évalue l’efficacité des actions. Il/elle contribue ainsi à développer la présence du produit sur Internet.
 
@@ -99,7 +103,11 @@ _Actions_ :
 
 ### **Growth Hacker**
 
-![](<../../../../../.gitbook/assets/Expertise croissance Success .png>)
+<div align="left">
+
+<figure><img src="../../../../../.gitbook/assets/Expertise croissance Success .png" alt="" width="250"><figcaption></figcaption></figure>
+
+</div>
 
 _Description :_ Le/la Growth Hacker est le déclencheur/déclencheuse de la croissance accélérée et ce, en peu de temps et avec des moyens limités (phase d’accélération). Son objectif est de créer la réputation du produit et un afflux de trafic grâce aux outils de marketing digital. Il/elle est en quelque sorte un prospecteur de masse, qui doit acquérir un très grand nombre d’adhérents/d’utilisateurs en peu de temps, pour faire décoller le produit. Cette activité est donc une arme de marketing massive.
 
@@ -114,7 +122,11 @@ _Actions :_
 
 ### **Key Account Manager**
 
-![](<../../../../../.gitbook/assets/Gestion des grands comptes.png>)
+<div align="left">
+
+<figure><img src="../../../../../.gitbook/assets/Gestion des grands comptes.png" alt="" width="250"><figcaption></figcaption></figure>
+
+</div>
 
 _Description :_ Un Key Account Manager (KAM) - ou Responsable de Développement Grands Comptes - est un.e expert.e de l’approche client et du management de l’activité commerciale. Il/elle est chargé.e de développer, gérer et maintenir de bonnes relations avec les clients, partenaires ou institutionnels. Il s’agit de partenaires stratégiques qui représentent une partie significative du développement et de la réussite de la Startup. Pour ce faire, il/elle doit comprendre les besoins et les attentes des partenaires clés pour développer des offres adaptées, construire des partenariats stratégiques et préserver la relation sur le long terme. Pour cela, il travaille en étroite collaboration avec les différentes équipes internes (marketing, produit, développement…).
 
