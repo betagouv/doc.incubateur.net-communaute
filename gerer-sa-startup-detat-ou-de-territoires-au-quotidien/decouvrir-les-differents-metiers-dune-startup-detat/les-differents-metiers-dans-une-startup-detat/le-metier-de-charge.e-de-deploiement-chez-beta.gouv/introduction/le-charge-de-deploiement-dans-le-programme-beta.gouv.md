@@ -28,11 +28,11 @@ Les **différents axes de mission** des chargé(e)s de déploiement :&#x20;
 
 **De là se dégagent deux casquettes que l’on retrouve souvent chez les chargés ou chargées de déploiement de** [**beta.gouv.fr**](http://beta.gouv.fr) **: le/la développeur / développeuse commercial(e) et le/la chargé/chargée de relation clientèle.**&#x20;
 
-#### 1. Le/la développeur / développeuse commercial.e
+### 1. Le/la développeur / développeuse commercial.e
 
 <div align="left">
 
-<img src="https://storage.gra.cloud.ovh.net/v1/AUTH_0f20d409cb2a4c9786c769e2edec0e06/padnumerique/uploads/1e09cffb-2fef-4ba4-a995-bcf804d389e4.png" alt="" width="188">
+<figure><img src="../../../../../.gitbook/assets/Sales (1).png" alt="" width="250"><figcaption></figcaption></figure>
 
 </div>
 
@@ -53,11 +53,11 @@ _Actions principales_
 * Créer et développer une stratégie en lien avec l'équipe des chargés de déploiement et/ou l'intrapreneur
 * Analyser les résultats et assurer le suivi
 
-#### 2. Le/la chargé / chargée de la relation clientèle
+### 2. Le/la chargé / chargée de la relation clientèle
 
 <div align="left">
 
-<img src="https://storage.gra.cloud.ovh.net/v1/AUTH_0f20d409cb2a4c9786c769e2edec0e06/padnumerique/uploads/531b2ec8-2eb7-43f7-b8a1-6bd7e8df5416.png" alt="" width="188">
+<img src="../../../../../.gitbook/assets/Customer Success  (1).png" alt="" width="250">
 
 </div>
 
@@ -80,9 +80,11 @@ _Actions principales_
 
 
 
-_Versatile, le/la chargé.e de déploiement peut aussi revêtir d’autres formes tel que Key Account Manager, Growth Hacker ou encore Community Manager._
+<mark style="background-color:purple;">**Versatile, le/la chargé.e de déploiement peut aussi revêtir d’autres formes tel que Key Account Manager, Growth Hacker ou encore Community Manager.**</mark>
 
-**Community Builder / Manager**
+### **Community Builder / Manager**
+
+![](<../../../../../.gitbook/assets/Animation de la communautéSuccess .png>)
 
 _Description :_ Le ou la community manager (animateur ou animatrice de communautés web) a pour mission de fédérer les utilisateurs ou plus largement la communauté autour de pôles d'intérêts communs (marque, produits, valeurs...), d'animer et de faire respecter les règles éthiques des communautés. Il/elle définit des contenus pour chaque cible (images, vidéos, articles, jeux concours...), planifie la production, publie et anime les réseaux sociaux et évalue l’efficacité des actions. Il/elle contribue ainsi à développer la présence du produit sur Internet.
 
@@ -95,7 +97,9 @@ _Actions_ :
 * Rechercher de nouveaux médias sociaux permettant d'étendre l'influence de la communauté
 * Coordonner, avec les équipes techniques, les améliorations à apporter à la plateforme, suite aux retours utilisateurs
 
-**Growth Hacker**
+### **Growth Hacker**
+
+![](<../../../../../.gitbook/assets/Expertise croissance Success .png>)
 
 _Description :_ Le/la Growth Hacker est le déclencheur/déclencheuse de la croissance accélérée et ce, en peu de temps et avec des moyens limités (phase d’accélération). Son objectif est de créer la réputation du produit et un afflux de trafic grâce aux outils de marketing digital. Il/elle est en quelque sorte un prospecteur de masse, qui doit acquérir un très grand nombre d’adhérents/d’utilisateurs en peu de temps, pour faire décoller le produit. Cette activité est donc une arme de marketing massive.
 
@@ -108,7 +112,9 @@ _Actions :_
 * Optimisation : analyser et mesurer les techniques afin d’améliorer le taux de conversion
 * Analyse : assurer le suivi et la mesure des performances et des résultats.
 
-**Key Account Manager**
+### **Key Account Manager**
+
+![](<../../../../../.gitbook/assets/Gestion des grands comptes.png>)
 
 _Description :_ Un Key Account Manager (KAM) - ou Responsable de Développement Grands Comptes - est un.e expert.e de l’approche client et du management de l’activité commerciale. Il/elle est chargé.e de développer, gérer et maintenir de bonnes relations avec les clients, partenaires ou institutionnels. Il s’agit de partenaires stratégiques qui représentent une partie significative du développement et de la réussite de la Startup. Pour ce faire, il/elle doit comprendre les besoins et les attentes des partenaires clés pour développer des offres adaptées, construire des partenariats stratégiques et préserver la relation sur le long terme. Pour cela, il travaille en étroite collaboration avec les différentes équipes internes (marketing, produit, développement…).
 
