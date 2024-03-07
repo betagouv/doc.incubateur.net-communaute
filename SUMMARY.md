@@ -6,7 +6,7 @@
   * [Comprendre la gestion de mon produit : étapes clefs, impact, design, sécurité, acquisition...](je-travaille-ou-vais-travailler-chez-beta.gouv/comprendre-la-gestion-de-mon-produit-etapes-clefs-impact-design-securite-acquisition....md)
 * [🧐 Je souhaite découvrir beta.gouv](je-ne-travaille-pas-chez-beta.gouv/README.md)
   * [Bilan du programme beta.gouv.fr](je-ne-travaille-pas-chez-beta.gouv/bilan-2021-du-programme-beta.gouv.md)
-  * [Guide pour les candidat(e)s](je-ne-travaille-pas-chez-beta.gouv/guide-pour-les-candidat-e-s.md)
+  * [📗 Guide pour les candidat(e)s](je-ne-travaille-pas-chez-beta.gouv/guide-pour-les-candidat-e-s.md)
 
 ## Travailler chez Beta.Gouv <a href="#travailler-a-beta-gouv" id="travailler-a-beta-gouv"></a>
 
