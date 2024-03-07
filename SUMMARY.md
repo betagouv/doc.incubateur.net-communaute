@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Bienvenue sur le guide de la communauté beta.gouv.fr](README.md)
-* [Je travaille dans le réseau beta.gouv](je-travaille-ou-vais-travailler-chez-beta.gouv/README.md)
+* [💼 Je travaille dans le réseau beta.gouv](je-travaille-ou-vais-travailler-chez-beta.gouv/README.md)
   * [Comprendre le mode de gestion de la communauté : recrutement, culture de travail, formation...](je-travaille-ou-vais-travailler-chez-beta.gouv/comprendre-le-mode-de-gestion-de-la-communaute-recrutement-culture-de-travail-formation....md)
   * [Comprendre la gestion de mon produit : étapes clefs, impact, design, sécurité, acquisition...](je-travaille-ou-vais-travailler-chez-beta.gouv/comprendre-la-gestion-de-mon-produit-etapes-clefs-impact-design-securite-acquisition....md)
 * [Je souhaite découvrir beta.gouv](je-ne-travaille-pas-chez-beta.gouv/README.md)
