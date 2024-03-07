@@ -4,7 +4,7 @@ description: >-
   l'organisme en charge de cette certification.
 ---
 
-# Vidéos de révisions
+# 📺 Vidéos de révisions
 
 {% embed url="https://vimeo.com/320507167/c8854a45a8" %}
 
@@ -29,6 +29,3 @@ description: >-
 {% embed url="https://vimeo.com/320511774/b63926264b" %}
 
 {% embed url="https://vimeo.com/320512350/fb83fb9825" %}
-
-
-
