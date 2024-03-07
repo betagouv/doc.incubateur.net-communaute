@@ -4,7 +4,7 @@
 * [💼 Je travaille dans le réseau beta.gouv](je-travaille-ou-vais-travailler-chez-beta.gouv/README.md)
   * [Comprendre le mode de gestion de la communauté : recrutement, culture de travail, formation...](je-travaille-ou-vais-travailler-chez-beta.gouv/comprendre-le-mode-de-gestion-de-la-communaute-recrutement-culture-de-travail-formation....md)
   * [Comprendre la gestion de mon produit : étapes clefs, impact, design, sécurité, acquisition...](je-travaille-ou-vais-travailler-chez-beta.gouv/comprendre-la-gestion-de-mon-produit-etapes-clefs-impact-design-securite-acquisition....md)
-* [Je souhaite découvrir beta.gouv](je-ne-travaille-pas-chez-beta.gouv/README.md)
+* [🧐 Je souhaite découvrir beta.gouv](je-ne-travaille-pas-chez-beta.gouv/README.md)
   * [Bilan du programme beta.gouv.fr](je-ne-travaille-pas-chez-beta.gouv/bilan-2021-du-programme-beta.gouv.md)
   * [Guide pour les candidat(e)s](je-ne-travaille-pas-chez-beta.gouv/guide-pour-les-candidat-e-s.md)
 
