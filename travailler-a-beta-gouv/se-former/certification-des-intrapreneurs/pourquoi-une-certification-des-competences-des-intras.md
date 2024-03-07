@@ -1,4 +1,4 @@
-# Pourquoi une certification des compétences des intras ?
+# 🤔 Pourquoi une certification des compétences des intras ?
 
 ## Reconnaissance de nouvelles compétences
 
