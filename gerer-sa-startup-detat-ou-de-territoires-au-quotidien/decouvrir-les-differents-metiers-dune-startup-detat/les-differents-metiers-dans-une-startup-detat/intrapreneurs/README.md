@@ -1,4 +1,4 @@
-# Intrapreneurs
+# 👩‍💼 Intrapreneurs
 
 {% hint style="info" %}
 Les **intrapreneurs** sont les agents publics responsables des produits numériques conçus par beta.gouv.fr. Ils sont souvent aussi **experts métiers** et apportent leur connaissance terrain à l'équipe.
@@ -18,4 +18,4 @@ Au bout de 6 mois dans une Startup d'État, les intrapreneurs peuvent prétendre
 
 La fiche métier intrapreneur.se est inscrite au répertoire des métiers de la fonction publique. Elle peut être présentée aux services RH pour expliquer les compétences et l'expérience de l'intrapreneur.se.&#x20;
 
-{% file src="../../../../.gitbook/assets/Fiche métier“Intrapreneur.se Répertoire Métiers de la Fonction Publique.docx" %}
+{% file src="../../../../.gitbook/assets/Fiche “Intrapreneur.se RMFP.docx" %}
