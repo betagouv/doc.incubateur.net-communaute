@@ -101,7 +101,7 @@ Malt met à disposition un espace de coworking dans ses locaux à destination de
 
 Infos et réservation : [https://www.malt.fr/c/freelancers/coworking-space](https://www.malt.fr/c/freelancers/coworking-space)
 
-<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (26) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Rennes
 

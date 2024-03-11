@@ -1,4 +1,4 @@
-# C'est quoi une certification de compétences?
+# 🌟 C'est quoi une certification de compétences?
 
 ## Une certification de compétence n'est pas...
 

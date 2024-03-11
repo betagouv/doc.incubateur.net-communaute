@@ -4,7 +4,7 @@ description: >-
   leur chance. Voici quelques ressources pour t'aider.
 ---
 
-# Guide pour les candidat(e)s
+# 📗 Guide pour les candidat(e)s
 
 👋🏽 Merci de prendre le temps de candidater chez beta.gouv.fr !
 

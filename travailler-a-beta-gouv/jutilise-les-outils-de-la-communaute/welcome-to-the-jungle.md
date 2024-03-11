@@ -120,3 +120,14 @@ Les commentaires que vous laisseraient sur la fiche d'un candidat seront accessi
 
 </details>
 
+
+
+## Conseils utiles
+
+Il peut arriver que vos réponses aux candidatures finissent dans les spams des candidats.
+
+Pour éviter cela, nous vous conseillons de:&#x20;
+
+1/ Changer l'objet du mail : enlever le prénom de la personne et privilégier un objet plus court : "Candidature reçue pour _nom du poste_ "\
+2/ Eviter au maximum d'ajouter des liens externes dans vos réponses, ou alors raccourcir le lien dans la mesure du possible. \
+2/ Ajouter dans la partie "Déroulement de l'entretien" de vos offres ainsi que dans le template automatique de confirmation de candidature, une phrase conseillant vos candidats à se connecter régulièrement à leur espace Welcome to the Jungle pour consulter leurs messages (les échanges sont retranscrits directement et ne peuvent pas tomber dans les spams par ce biais).

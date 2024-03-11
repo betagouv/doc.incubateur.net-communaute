@@ -1,4 +1,4 @@
-# Je souhaite découvrir beta.gouv
+# 🧐 Je souhaite découvrir beta.gouv
 
 **Si vous n'êtes pas (encore) membre de beta.gouv.fr**, vous pouvez profiter librement des ressources et des apprentissages que nous avons compilés ici, en gardant en tête que cette documentation est d'abord conçue pour un usage interne. Nous espérons cependant qu'elles pourra inspirer d'autres organisations.
 
