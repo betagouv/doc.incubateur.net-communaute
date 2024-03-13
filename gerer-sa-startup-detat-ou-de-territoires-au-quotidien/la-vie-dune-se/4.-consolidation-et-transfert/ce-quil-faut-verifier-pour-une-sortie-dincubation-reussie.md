@@ -29,17 +29,22 @@ La sortie d'incubation s'anticipe ! Il faut prévoir environ 6 mois pour passer 
 * Le produit est **respectueux des données personnelles des utilisateurs**. Les démarches liées au RGPD ont été accomplies et le produit a été inscrit au registre de traitement de l'administration porteuse.
 * Les [**standards de qualité beta.gouv.fr**](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/standards-de-qualite-beta.gouv.fr) sont suivis et le maximum est fait pour qu'ils continuent d'être suivis après la sortie d'incubation.
 
+### Équipe
+
+* Les membres de l'équipe obtiennent **une adresse mail pérenne** (non fournie par beta.gouv.fr) sous 6 mois après la pérennisation.
+  * Les alumni restent bienvenus dans les événements de la communauté  beta.gouv.fr (notamment Forum) et peuvent continuer à avoir un accès au Mattermost.&#x20;
+* Le **pilotage de l'équipe** est internalisé.
+  * La doctrine de l'État est de viser au maximum 60% d'externalisation sur les services publics numériques.
+  * Selon la DINUM, les prestataires de longue durée (développement, maintenance, déploiement, gestion de produit etc) coûtent de 25 à 40% plus cher à l'État qu'en internalisant la compétence.
+  * Depuis 2023, l'obtention d'ETP est facilitée pour la réinternalisation de compétences numériques. Pour en savoir plus, contacter l'équipe de l'incubateur de la DINUM.
+  * Documentation : [circulaire n°6391-SG de février 2023 relative au pilotage et encadrement du recours aux prestations intellectuelles informatique](https://www.legifrance.gouv.fr/circulaire/id/45407?origin=list)
+
 ### Ressources
 
 * Une **ligne budgétaire annuelle** est inscrite au budget de votre administration et correspond au coût d'exploitation de votre service en vitesse de croisière.
   * Il convient d'évaluer le coût d'exploitation de votre service numérique et de l'inscrire dans la maquette budgétaire de votre administration : les dépenses ne peuvent plus être imputées sur ses dépenses d'innovation
   * Un comité d'investissement annuel pourra toutefois toujours se tenir afin de fixer les objectifs et faire évoluer le niveau d'investissement.
   * Documentation : [quelques repères budgétaires](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/guide-de-financement-des-startups-detat/1.-reperes-pour-decideuses-et-decideurs-publics-sur-le-cout-des-services-numeriques)
-* Le **pilotage de l'équipe** est internalisé.
-  * La doctrine de l'État est de viser au maximum 60% d'externalisation sur les services publics numériques.
-  * Selon la DINUM, les prestataires de longue durée (développement, maintenance, déploiement, gestion de produit etc) coûtent de 25 à 40% plus cher à l'État qu'en internalisant la compétence.
-  * Depuis 2023, l'obtention d'ETP est facilitée pour la réinternalisation de compétences numériques. Pour en savoir plus, contacter l'équipe de l'incubateur de la DINUM.
-  * Documentation : [circulaire n°6391-SG de février 2023 relative au pilotage et encadrement du recours aux prestations intellectuelles informatique](https://www.legifrance.gouv.fr/circulaire/id/45407?origin=list)
 * Un **support contractuel** est disponible pour les prestations nécessaires à l'amélioration continue du service.
   * À titre d'exemple, le [marché interministériel de réalisation de produits beta.gouv.fr](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/recrutement/marches-publics-beta.gouv.fr/marche-interministeriel-beta) qui court au maximum jusqu'à septembre 2025 peut être utilisé par des produits pérennisés, même après leur sortie d'incubation, sous réserve que l'administration porteuse y ait adhéré.
 
