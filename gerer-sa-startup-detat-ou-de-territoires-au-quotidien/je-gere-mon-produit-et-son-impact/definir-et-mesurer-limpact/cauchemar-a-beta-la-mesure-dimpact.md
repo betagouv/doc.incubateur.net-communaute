@@ -5,7 +5,7 @@
 Nous proposons des ateliers pour répondre aux besoins d'aide sur les métriques.
 
 {% hint style="info" %}
-[Inscrit ton équipe au prochain atelier "Cauchemar à bêta : la mesure d'impact !](https://airtable.com/shr7L3jxSrxsptKvs)
+[Inscrit ton équipe au prochain 👊🏻 Atelier Impact](https://airtable.com/appDj3dhMMvXF9XhJ/shr7L3jxSrxsptKvs)
 {% endhint %}
 
 **Pourquoi proposer ces ateliers ?**
@@ -18,7 +18,7 @@ Les mesures d'impact se sont nettement améliorées au cours des derniers mois :
 
 Dans la logique d'un atelier de co-développement, l'équipe de la SE sera "le client" et les 3 membres de beta qui les aideront, "les consultants".
 
-**Quel déroulé ?**&#x20;
+**Quel déroulé ?**
 
 * 10min : intro + tour de table
 * 10 min : exposé du problème par l'équipe de la SE + ses attentes
@@ -28,13 +28,13 @@ Dans la logique d'un atelier de co-développement, l'équipe de la SE sera "le c
 
 **Que doivent faire les équipes de SE pour préparer l'atelier ?** Essayer de préparer des hypothèses de mesures d'impact afin qu'elles soient discutées pendant l'atelier.
 
-**Avoir un retour d'expérience ?**  Tu peux contacter les équipes ayant bénéficier de cet atelier :
+**Avoir un retour d'expérience ?** Tu peux contacter les équipes ayant bénéficier de cet atelier :
 
 * Administration +
 * Domifa
 * Ecolab
 
-[Voir équipes inscrites à l'atelier ](https://airtable.com/shrYB59ivc3PljMkD)
+[Voir équipes inscrites à l'atelier](https://airtable.com/shrYB59ivc3PljMkD)
 
 {% hint style="info" %}
 [Inscrit ton équipe au prochain atelier "Cauchemar à bêta : la mesure d'impact !](https://airtable.com/shr7L3jxSrxsptKvs)
@@ -42,7 +42,7 @@ Dans la logique d'un atelier de co-développement, l'équipe de la SE sera "le c
 
 \_\_\_
 
-## #Acte 1  Témoignage d'un intra, d'une designer et d'un coach sur leur pire souvenir avec les indicateurs d'impact
+## #Acte 1 Témoignage d'un intra, d'une designer et d'un coach sur leur pire souvenir avec les indicateurs d'impact
 
 _Le support de présentation :_
 
