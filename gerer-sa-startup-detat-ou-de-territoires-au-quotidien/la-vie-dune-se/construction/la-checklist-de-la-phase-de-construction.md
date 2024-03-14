@@ -8,7 +8,7 @@ description: >-
 # ✅ La checklist de la phase de construction
 
 {% hint style="info" %}
-Ce document est en cours d'élaboration. Il résulte notamment d'ateliers ouverts à l'ensemble de la communauté. Pour toute question, remarque, ou contre-proposition, n'hésite pas à poster dans le canal `~startup-produit-beta`&#x20;
+Ce document est en cours d'élaboration. Il résulte notamment d'ateliers ouverts à l'ensemble de la communauté. Pour toute question, remarque, ou contre-proposition, n'hésite pas à poster dans le canal `~startup-produit-beta`
 {% endhint %}
 
 ## Preuve d'impact
@@ -23,7 +23,7 @@ _L'objectif premier de la phase de construction est de démontrer que l'hypothè
 {% endtab %}
 
 {% tab title="Les bonnes pratiques 👌" %}
-* [ ] J’ai participé à un atelier Cauchemar à Beta pour challenger mon impact et sa mesure
+* [ ] J’ai participé à un [atelier de mesure d'impact ](https://airtable.com/appDj3dhMMvXF9XhJ/shr7L3jxSrxsptKvs)pour challenger mon impact et sa mesure
 {% endtab %}
 {% endtabs %}
 
@@ -37,14 +37,14 @@ _La transparence est une valeur cruciale qui permet de construire des produits d
 
 {% tabs %}
 {% tab title="Les standards ☝️" %}
-* [ ] Je crée une page /stats publique et commence à suivre mon impact&#x20;
-* [ ] Je tiens à jour ma fiche startup sur le site de beta.gouv.fr &#x20;
-* [ ] Je communique publiquement sur le budget de l’équipe&#x20;
+* [ ] Je crée une page /stats publique et commence à suivre mon impact
+* [ ] Je tiens à jour ma fiche startup sur le site de beta.gouv.fr
+* [ ] Je communique publiquement sur le budget de l’équipe
 * [ ] J’inscris mon produit sur [Dashlord](https://dashlord.incubateur.net)
 {% endtab %}
 
 {% tab title="Les bonnes pratiques 👌" %}
-* [ ] La mesure de mon impact sur ma page stat est automatisée&#x20;
+* [ ] La mesure de mon impact sur ma page stat est automatisée
 * [ ] Je partage les avancées hebdomadaires de mon équipe de manière publique sur Mattermost et au standup de beta
 {% endtab %}
 {% endtabs %}
@@ -69,17 +69,17 @@ _Rester à l'écoute des utilisateurs du service est essentiel pour construire u
 
 {% tabs %}
 {% tab title="Les standards ☝️" %}
-* [ ] J’ai trouvé des utilisateurs prêt à tester mon produit&#x20;
-* [ ] Toute l’équipe (devs compris) est au contact des usagers&#x20;
-* [ ] J’ai organisé une journée d’immersion auprès de mes utilisateurs&#x20;
+* [ ] J’ai trouvé des utilisateurs prêt à tester mon produit
+* [ ] Toute l’équipe (devs compris) est au contact des usagers
+* [ ] J’ai organisé une journée d’immersion auprès de mes utilisateurs
 * [ ] J’ai ritualisé des moments d’échanges avec les utilisateurs (open-labs, ateliers, etc.)
-* [ ] Je réalise au moins 5 tests usagers par mois&#x20;
+* [ ] Je réalise au moins 5 tests usagers par mois
 * [ ] Mes utilisateurs ont un moyen de me contacter pour me faire leurs retours (mail de support, chat, numéro de téléphone, etc.)
 {% endtab %}
 
 {% tab title="Les bonnes pratiques 👌" %}
-* [ ] Je travaille avec un.e designer (a minima 20% du temps)&#x20;
-* [ ] J’ai identifié les différents types d’utilisateurs et leurs besoins / leur frustrations spécifiques&#x20;
+* [ ] Je travaille avec un.e designer (a minima 20% du temps)
+* [ ] J’ai identifié les différents types d’utilisateurs et leurs besoins / leur frustrations spécifiques
 * [ ] J’ai construit une page d’accueil sur la base de mes personas
 {% endtab %}
 
@@ -92,8 +92,8 @@ _Rester à l'écoute des utilisateurs du service est essentiel pour construire u
 
 {% tabs %}
 {% tab title="Les standards ☝️" %}
-* [ ] J’utilise le Système de Design de l’Etat&#x20;
-* [ ] Je dispose d’une zone d’autonomie technique pour l’équipe (par exemple vis-a-vis de la DSI)&#x20;
+* [ ] J’utilise le Système de Design de l’Etat
+* [ ] Je dispose d’une zone d’autonomie technique pour l’équipe (par exemple vis-a-vis de la DSI)
 * [ ] Je respecte [les standards technologiques de beta.gouv.fr](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/bienvenue/embarquement-dev#standards-technologiques)
 * [ ] Je passe **le minimum de temps possible** à développer des fonctionnalités secondaires ou de support (authentification, gestion de rôle, blog, etc.)
 {% endtab %}
@@ -113,7 +113,7 @@ _Si l'objectif premier d'une Startup d'Etat en construction reste la démonstrat
 
 {% tabs %}
 {% tab title="Les standards ☝️" %}
-* [ ] Mon site contient une mention d’accessibilité (même si non-conforme)&#x20;
+* [ ] Mon site contient une mention d’accessibilité (même si non-conforme)
 * [ ] L’équipe est sensibilisée aux enjeux d’accessibilité, par exemple via la formation mensuelle Accessibilité
 {% endtab %}
 
