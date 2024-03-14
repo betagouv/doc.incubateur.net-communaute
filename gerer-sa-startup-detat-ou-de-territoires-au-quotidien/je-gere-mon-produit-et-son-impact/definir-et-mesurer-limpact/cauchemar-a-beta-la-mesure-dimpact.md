@@ -1,4 +1,4 @@
-# 😱 Cauchemar à bêta : la mesure d'impact !
+# 👊 L'atelier de mesure d'impact
 
 ## #Acte 2 : "60 minutes pour faire un pas de plus vers des métriques utiles et utilisables"
 
