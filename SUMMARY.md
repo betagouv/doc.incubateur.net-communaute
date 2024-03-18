@@ -87,7 +87,7 @@
     * [Charte de bonne utilisation de Welcome to the Jungle 📖](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/welcome-to-the-jungle/charte-de-bonne-utilisation-de-welcome-to-the-jungle.md)
   * [Tally](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/tally.md)
   * [Réseaux sociaux](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/reseaux-sociaux/README.md)
-    * [Annoncer une offre sur le compte Linkedin de beta.gouv](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/reseaux-sociaux/annoncer-un-recrutement-sur-le-compte-linkedin-de-beta.gouv.md)
+    * [Publier une offre de mission sur le compte LinkedIn de beta.gouv.fr](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/reseaux-sociaux/annoncer-un-recrutement-sur-le-compte-linkedin-de-beta.gouv.md)
   * [Ressources supplémentaires](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/ressources-supplementaires/README.md)
     * [Logo de beta](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/ressources-supplementaires/logo.md)
     * [Modèle de note](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/ressources-supplementaires/modele-de-note.md)
