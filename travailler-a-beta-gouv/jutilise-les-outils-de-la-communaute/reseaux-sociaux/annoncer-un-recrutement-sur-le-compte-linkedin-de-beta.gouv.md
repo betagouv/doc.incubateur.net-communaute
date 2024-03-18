@@ -10,7 +10,7 @@ description: >-
 
 * par défaut, l'image proposée sera un visuel de ton offre sur Welcome to the jungle ;
 * tu peux utiliser un des visuels proposés ci-dessous si tu préfères ;
-* tu peux proposer un visuel personnalisée aux couleurs de ta startup.
+* tu peux proposer un visuel personnalisé aux couleurs de ta startup.
 
 <div>
 
