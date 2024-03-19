@@ -1,7 +1,7 @@
 ---
 description: >-
-  Cette section aide les intrapreneurs et responsables d'incubateur à utiliser
-  les marchés publics permettant de faire intervenir les personnes qui
+  Cette section aide les intrapreneur.e.s et responsables d'incubateur à
+  utiliser les marchés publics permettant de faire intervenir les personnes qui
   travaillent dans les Startups d'État.
 ---
 
@@ -97,7 +97,7 @@ Pour identifier les profils qui réaliseront la prestation :&#x20;
 * tu dois étudier les profils que propose l'entreprise titulaire ;&#x20;
 * tu peux également profiter du réseau beta.gouv afin de maximiser tes chances de trouver les meilleurs profils pour assurer la prestation. Pour ce faire, il est possible de :&#x20;
   * diffuser l'annonce au sein du réseau beta.gouv, via le Mattermost ou l'infolettre interne ;&#x20;
-  * poster une annonce sur la plateforme _Welcome to the Jungle_. Dans ce cas-là, il est nécessaire de gérer les candidatures en lien avec l'entreprise titulaire, en particulier vous devez l'indiquer dans l'annonce. Une phrase type peut être "Cette offre est gérée avec NOM ATTRIBUTAIRE (sans frais pour le freelance)". Pour en savoir plus, consulter la page suivante :&#x20;
+  * poster une annonce sur la plateforme [_Welcome to the Jungle_](https://admin.welcometothejungle.com/). Dans ce cas-là, il est nécessaire de gérer les candidatures en lien avec l'entreprise titulaire, en particulier vous devez l'indiquer dans l'annonce. Une phrase type peut être "Cette offre est gérée avec NOM ATTRIBUTAIRE (sans frais pour le freelance)". Pour en savoir plus, consulter la page suivante :&#x20;
 
 {% content-ref url="../../../travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/welcome-to-the-jungle.md" %}
 [welcome-to-the-jungle.md](../../../travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/welcome-to-the-jungle.md)
@@ -126,7 +126,7 @@ Vous ne pouvez démarrer la prestation que lorsque l'entreprise titulaire aura r
 L'entreprise titulaire ne sera payée pour la prestation qu'après la certification par l'administration du service fait (partiel ou total). Pour en savoir plus sur les paiements, [consulte cette section](la-facturation-de-a-a-z/).&#x20;
 
 {% hint style="info" %}
-En cas de problème, contacte tes responsables d'incubateurs ou utilise la chaîne _\~incubateur-help_ du Mattermost.
+En cas de problème, contacte tes responsables d'incubateurs ou utilise la chaîne _\~_[_incubateur-entraide-communauté_ ](https://mattermost.incubateur.net/betagouv/channels/incubateur-help)du Mattermost.
 {% endhint %}
 
 ## Renouveler une prestation
