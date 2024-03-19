@@ -16,6 +16,6 @@ Au bout de 6 mois dans une Startup d'État, les intrapreneurs peuvent prétendre
 [certification-des-intrapreneurs](../../../../travailler-a-beta-gouv/se-former/certification-des-intrapreneurs/)
 {% endcontent-ref %}
 
-La fiche métier intrapreneur.se est inscrite au répertoire des métiers de la fonction publique. Elle peut être présentée aux services RH pour expliquer les compétences et l'expérience de l'intrapreneur.se.&#x20;
+La fiche métier intrapreneur.e est inscrite au répertoire des métiers de la fonction publique. Elle peut être présentée aux services RH pour expliquer les compétences et l'expérience de l'intrapreneur.se.&#x20;
 
 {% file src="../../../../.gitbook/assets/Fiche “Intrapreneur.se RMFP.docx" %}
