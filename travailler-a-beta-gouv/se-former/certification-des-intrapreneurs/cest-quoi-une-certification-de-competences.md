@@ -14,7 +14,7 @@ C'est un dispositif qui permet de certifier des compétences mises en œuvre dan
 L'attribution d'une certification n'est jamais automatique. Elle ne peut être délivrée que par un petit nombre d'organismes ayant été reconnus par un organisme d'Etat. La certification des intrapreneurs est validée par France Compétences.
 
 {% hint style="info" %}
-[Définition officielle d'un certification professionnelle](https://www.francecompetences.fr/certification-professionnelle/)
+[Définition officielle d'une certification professionnelle](https://www.francecompetences.fr/certification-professionnelle/)
 {% endhint %}
 
 {% hint style="info" %}
