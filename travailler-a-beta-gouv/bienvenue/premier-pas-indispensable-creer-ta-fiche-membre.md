@@ -9,9 +9,10 @@ description: >-
 
 ## 1. Pour démarrer au plus vite, commence par créer ta fiche membre
 
-Chaque nouvel arrivant est autonome pour créer sa fiche membre. Une fois créée, son nom apparaîtra dans [l'annuaire beta.gouv](https://beta.gouv.fr/communaute/annuaire). Tu as juste à te laisser guider :
-
-👉 [**Créer sa fiche membre**](https://espace-membre.incubateur.net/onboarding) 👈
+Une fiche membre peut être créée uniquement par une personne déjà chez beta.gouv.fr.\
+Demande à un membre de ton équipe de la créer pour toi.\
+\
+👉 [**Je crée une fiche membre**](https://espace-membre.incubateur.net/community/create) 👈
 
 ### Pourquoi créer une fiche membre ?
 
@@ -23,8 +24,8 @@ Une fiche membre permet aux nouveaux arrivants :
 
 ### Comment ça se déroule concrètement ?
 
-1. Tu renseignes le[ formulaire](https://espace-membre.incubateur.net/onboarding) ;
-2. Ton référent (un membre de ton équipe ou un co-animateur) recevra un email lui demandant de confirmer ton arrivée au sein d'une équipe du réseau beta.gouv ;
+1. Un membre de ton équipe ou de beta.gouv.fr crée ta fiche membre;
+2. Il.Elle recevra un email lui demandant de confirmer ton arrivée au sein d'une équipe du réseau beta.gouv ;
 3. Tu reçois un email de bienvenue dans ta boite email personnel qui te permet d'activer ton email @beta.gouv.fr (le temps de faire passer les tests, cela peut prendre 1/2 heure après l'étape précédente) ;
 4. Si tu as renseigné ton compte Github, tu seras automatiquement ajouté à l'organisation beta.gouv sur Github ;
 5. Tu reçois une invitation pour accéder à notre messagerie collaborative (Mattermost) dans ta boite e-mail @beta.gouv.fr.
