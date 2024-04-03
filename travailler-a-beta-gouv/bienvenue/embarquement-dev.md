@@ -19,7 +19,7 @@ Une équipe tech transverse existe au sein de l'incubateur. Son rôle est de s'a
 * Thomas Ramé (Devops)
 
 {% hint style="info" %}
-N'hésite pas a contacter Vincent ou un autre membre de l'équipe si tu rencontres une difficulté lors de l'une de tes missions.
+Tu peux participer à l'embarquement dev en t'inscrivant via [ton espace membre.](https://espace-membre.incubateur.net/account)&#x20;
 {% endhint %}
 
 ### La communauté beta.gouv.fr
