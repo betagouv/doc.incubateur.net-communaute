@@ -9,10 +9,23 @@ description: >-
 
 ## 1. Pour démarrer au plus vite, commence par créer ta fiche membre
 
-Une fiche membre peut être créée uniquement par une personne déjà chez beta.gouv.fr.\
-Demande à un membre de ton équipe de la créer pour toi.\
-\
-👉 [**Je crée une fiche membre**](https://espace-membre.incubateur.net/community/create) 👈
+> #### **👋 Nouveau processus d’onboarding**
+>
+> Le process d’onboarding dans la communauté évolue ! Mais pourquoi ? Jusqu'à maintenant, tout le monde pouvait créer une fiche membre, ce qui produisait un nombre important de demandes « spams  à gérer. **À partir de maintenant, la création d'une fiche membre doit être initiée par un membre actif de communauté.**
+>
+> Deux étapes pour réaliser un onboarding :
+
+* **étape 1 : invitation par un membre existant**
+
+Chacun(e) d’entre vous va pouvoir inviter directement une nouvelle personne dans la communauté via [la page “Communauté / Créer une fiche”](https://9kolj.r.sp1-brevo.net/mk/cl/f/sh/1f8JIKXwHGYox9AOWwBdkk5Amr/qFwSB-etpkhg) de l’espace communauté.
+
+
+
+* **étape 2 : confirmation via GitHub**
+
+> Une fois la demande envoyée, la fiche doit être validée et mergée sur GitHub. Cela délenchera l’envoi d’un mail d’onboarding au nouveau membre. Il/elle pourra alors finaliser son inscription en complétant les informations de sa fiche.
+>
+> Pour toute question ou clarification, n’hésite pas à contacter l’équipe Animation de la communauté 🤗!
 
 ### Pourquoi créer une fiche membre ?
 
