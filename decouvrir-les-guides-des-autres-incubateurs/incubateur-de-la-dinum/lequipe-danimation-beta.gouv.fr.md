@@ -52,9 +52,7 @@ Ce pôle est en charge du [Fond d'Accélération des Startups d'Etat et de Terri
 
 ### :unicorn: Le Pôle Animation et Expertises
 
-Le pôle garantit un environnement de travail le plus attractif possible, anime et outille le réseau des incubateurs ministériels, des intrapreneurs et des EIG, et fournit des expertises aux Startups d’État (tech, accessibilité...). Il est composé de :\
-\
-
+Le pôle garantit un environnement de travail le plus attractif possible, anime et outille le réseau des incubateurs ministériels, des intrapreneurs et des EIG, et fournit des expertises aux Startups d’État (tech, accessibilité...). Il est composé de :
 
 <figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
