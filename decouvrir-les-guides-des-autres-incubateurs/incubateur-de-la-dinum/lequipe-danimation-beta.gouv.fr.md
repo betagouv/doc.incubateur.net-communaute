@@ -52,10 +52,14 @@ Ce pôle est en charge du [Fond d'Accélération des Startups d'Etat et de Terri
 
 ### :unicorn: Le Pôle Animation et Expertises
 
-Le pôle garantit un environnement de travail le plus attractif possible, anime et outille le réseau des incubateurs ministériels, des intrapreneurs et des EIG, et fournit des expertises aux Startups d’État (tech, accessibilité...). Il est composé de :
+Le pôle garantit un environnement de travail le plus attractif possible, anime et outille le réseau des incubateurs ministériels, des intrapreneurs et des EIG, et fournit des expertises aux Startups d’État (tech, accessibilité...). Il est composé de :\
+\
+
+
+<figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
 * **Benjamin Doberset,** responsable de pôle
-* **Fanny Blanc**, adjointe au responsable de pôle, animatrice de la communauté beta.gouv
+* **Fanny Blanc**, animatrice de la communauté beta.gouv
 * **Marine Purson**, animatrice en charge des relations institutionnelles
 * **Lucas Charrier**, développeur en charge des outils techs de la communauté
 * **Amel Alili**, animatrice, chargée d'assistance et du support
