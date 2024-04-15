@@ -95,11 +95,15 @@ Le pôle AIC accompagne l'émergence de communs numériques issus de la sociét�
 * **Juliette Langlet**, Coach AIC
 * **Virgile Deville**, Coach AIC
 
-### :small\_red\_triangle: Le Programme Entrepreneurs d'Intérêt Général (EIG)
+### :small\_red\_triangle: Le programme Entrepreneur(e)s d'Intérêt Général (EIG)
 
-Le pôle EIG recrute et accompagne des entrepreneur·e·s du numériques pour diriger des services numériques à impact. Il est porté par :&#x20;
+Le programme facilite le recrutement d'entrepreneur(e)s aguerri(e)s, pour lancer et passer à l'échelle des services conçus selon l'approche beta.gouv.fr en soutien aux politiques publiques. Le pôle EIG est dirigé par :&#x20;
 
-* **Thomas Parisot**, Coach et Responsable de l'accompagnement des EIG.
+* **Thomas Parisot**, directeur de programme.
+
+Comment participer à la 7ème promotion du programme EIG ?
+* Vous êtes une administration et vous souhaitez renforcer votre pilotage stratégique ? [Soumettez votre projet](https://eig.numerique.gouv.fr/participer/administrations/).
+* Vous êtes un(e) entrepreneur(e) et vous voulez faire réussir les projets de l'État ? [Déposez votre candidature](https://eig.numerique.gouv.fr/participer/candidats/).
 
 ## Pourquoi faire appel à l'Incubateur de services numériques ?
 
