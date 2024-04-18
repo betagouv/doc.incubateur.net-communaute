@@ -14,18 +14,19 @@ L’Incubateur de la DINUM est constitué d’une trentaine de personnes (agents
 
 ## Qui fait quoi ?
 
-### :crown: L'Équipe de Direction et Opérations
+### :crown: L'équipe de Direction et Opérations
 
-Elle est constituée de  4 agents :&#x20;
+Elle est constituée de 5 agents :
 
 * **Ishan Bhojwani**, Chef du département Incubateur de Services numériques
 * **Arthur Hatchuel**, Adjoint au Chef du département
 * **Julien Dauphant**, Directeur Technique et Produits (CTO)
+* **Alice Pannetrat,** Directrice des opérations
 * **Emmanuelle Graff**, Responsable des opérations et de coordination de projets (PMO)
 
-### :briefcase: Le Pôle Partenariats / Responsables de Portefeuille Ministériel
+### :briefcase: Le pôle Partenariats / Responsables de portefeuille ministériel
 
-Les [**responsables de portefeuille**](../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/les-differents-metiers-dans-une-startup-detat/responsables-de-portefeuille.md) s'occupent de soutenir les équipes produit et les incubateurs dans leurs travaux en fonction de leur périmètre ministériel :&#x20;
+Les [**responsables de portefeuille**](../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/les-differents-metiers-dans-une-startup-detat/responsables-de-portefeuille.md) s'occupent de soutenir les équipes produit et les incubateurs dans leurs travaux en fonction de leur périmètre ministériel :
 
 * **Yowa Muzadi** : Travail, Insertion et Armées
 * **Paul Burgun** : Justice
@@ -36,11 +37,11 @@ Les [**responsables de portefeuille**](../../gerer-sa-startup-detat-ou-de-territ
 * **Margot Sanchez** : Transition Ecologique
 * **Adrien Zemour** : Territoire, Affaires Etrangères et Culture
 * **Magali Marcel-Garreau** : Economie, Agriculture
-* **Thibault Desjardins** : Intérieur&#x20;
+* **Thibault Desjardins** : Intérieur
 
-### :bullettrain\_front: Le Pôle Accélération
+### :bullettrain\_front: Le pôle Accélération
 
-Ce pôle est en charge du [Fond d'Accélération des Startups d'Etat et de Territoires (FAST)](../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/acceleration/fonds-dacceleration-des-startups-detat.md) et en 2024 du Fonds Numérique pour la Planification Écologique. Il propose un accompagnement humain et financier. Il est composé de :&#x20;
+Ce pôle est en charge du [Fond d'Accélération des Startups d'Etat et de Territoires (FAST)](../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/acceleration/fonds-dacceleration-des-startups-detat.md) et en 2024 du Fonds Numérique pour la Planification Écologique. Il propose un accompagnement humain et financier. Il est composé de :
 
 * **Paul Burgun**, Responsable du pôle
 * **Arnaud Robin**, Chargé d'accélération
@@ -50,14 +51,14 @@ Ce pôle est en charge du [Fond d'Accélération des Startups d'Etat et de Terri
 * **John Labuzan**, Expert accélération
 * **Octave Bory**, Expert accélération
 
-### :unicorn: Le Pôle Animation et Expertises
+### :unicorn: Le pôle Animation et Expertises
 
 Le pôle garantit un environnement de travail le plus attractif possible, anime et outille le réseau des incubateurs ministériels, des intrapreneurs et des EIG, et fournit des expertises aux Startups d’État (tech, accessibilité...). Il est composé de :
 
 <figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
 * **Benjamin Doberset,** responsable de pôle
-* **Fanny Blanc**, animatrice de la communauté beta.gouv
+* **Fanny Blanc**, animatrice de la communauté beta.gouv.fr
 * **Marine Purson**, animatrice en charge des relations institutionnelles
 * **Lucas Charrier**, développeur en charge des outils techs de la communauté
 * **Amel Alili**, animatrice, chargée d'assistance et du support
@@ -71,17 +72,17 @@ _L'animation de la communauté beta.gouv.fr n'est pas l'exclusivité de l'Incuba
 Contacter le pôle animation : animation@beta.gouv.fr ou directement sur Mattermost
 {% endhint %}
 
-### :jigsaw: Le pôle Produits incubés :&#x20;
+### :jigsaw: Le pôle Produits incubés :
 
-Le pôle construit des produits numériques incubés à la DINUM (car liés à des politiques prioritaires du gouvernement ou des politiques pour lesquels il n'existe pas encore d'incubateur ministériel). Il est composé de :&#x20;
+Le pôle construit des produits numériques incubés à la DINUM (car liés à des politiques prioritaires du gouvernement ou des politiques pour lesquels il n'existe pas encore d'incubateur ministériel). Il est composé de :
 
 * **Stéphane Maniaci,** dev
 * **Livio Lumbroso**, directeur de produit
-* **Denis Beaudot**, dev&#x20;
+* **Denis Beaudot**, dev
 
 ### :basketball: Le pôle Coaching produit
 
-Le pôle accompagne des produits numériques prioritaires et anime la communauté des coachs beta.gouv.fr. Il est constitué de :&#x20;
+Le pôle accompagne des produits numériques prioritaires et anime la communauté des coachs beta.gouv.fr. Il est constitué de :
 
 * **Maël Inizan,** responsable du pôle, coach
 * **Benoît Champy,** designer UX
@@ -89,7 +90,7 @@ Le pôle accompagne des produits numériques prioritaires et anime la communaut�
 
 ### :handshake: L'Accélérateur d'Initiatives Citoyennes (AIC)
 
-Le pôle AIC accompagne l'émergence de communs numériques issus de la société civile au service de politiques publiques. L'équipe est composée de 3 personnes :&#x20;
+Le pôle AIC accompagne l'émergence de communs numériques issus de la société civile au service de politiques publiques. L'équipe est composée de 3 personnes :
 
 * **Emma Ghariani**, Directrice de l'AIC
 * **Juliette Langlet**, Coach AIC
@@ -97,17 +98,18 @@ Le pôle AIC accompagne l'émergence de communs numériques issus de la sociét�
 
 ### :small\_red\_triangle: Le programme Entrepreneur(e)s d'Intérêt Général (EIG)
 
-Le programme facilite le recrutement d'entrepreneur(e)s aguerri(e)s, pour lancer et passer à l'échelle des services conçus selon l'approche beta.gouv.fr en soutien aux politiques publiques. Le pôle EIG est dirigé par :&#x20;
+Le programme facilite le recrutement d'entrepreneur(e)s aguerri(e)s, pour lancer et passer à l'échelle des services conçus selon l'approche beta.gouv.fr en soutien aux politiques publiques. Le pôle EIG est dirigé par :
 
-* **Thomas Parisot**, directeur de programme.
+* **Thomas Parisot**, directeur de programme
 
 Comment participer à la 7ème promotion du programme EIG ?
+
 * Vous êtes une administration et vous souhaitez renforcer votre pilotage stratégique ? [Soumettez votre projet](https://eig.numerique.gouv.fr/participer/administrations/).
 * Vous êtes un(e) entrepreneur(e) et vous voulez faire réussir les projets de l'État ? [Déposez votre candidature](https://eig.numerique.gouv.fr/participer/candidats/).
 
 ## Pourquoi faire appel à l'Incubateur de services numériques ?
 
-* J'ai un doute sur mon produit : l'Incubateur peut t'aider pour te donner des retours constructifs sur ton produit, pour t'aider sur des aspects stratégiques, juridiques ou politiques, pour t'orienter vers les bonnes personnes lorsque tu cherches de l'aide, etc
+* J'ai un doute sur mon produit : l'Incubateur peut t'aider pour te donner des retours constructifs sur ton produit, pour t'aider sur des aspects stratégiques, juridiques ou politiques, pour t'orienter vers les bonnes personnes lorsque tu cherches de l'aide, etc.
 * Travailler sur un nouveau partenariat avec une administration
 * Faire avancer une convention, un devis, un service fait
 * J'ai une question d'ordre administratif ou concernant un des marchés publics de la DINUM
@@ -125,16 +127,9 @@ L’Incubateur de services numériques est _**au service**_, _**à la dispositio
 * Parce que rien n'est plus agaçant que des managers qui utilisent leurs équipes pour savoir quoi dire à leur propre hiérarchie, **nous essayons au maximum de limiter les demandes de reporting.** En contrepartie, nous attendons des équipes **une transparence maximale** sur leurs actions.
 * Nous ne sommes chef·fe·s de personne, mais nous sommes **responsables** de plusieurs choses qui nous rendent redevables envers la communauté. Notre mission est de s’assurer que tout fonctionne bien, et cela vient inévitablement avec des droits et des devoirs. Pour cela, nous nous engageons à maintenir **une transparence maximale** sur nos actions.
 
-_Si en tant que membre de la communauté, tu constates un manquement par rapport aux engagements cités ci-dessus, tu es libre de le signaler soit directement à la personne concernée, soit au membre de l'Incubateur de ton choix._
+_Si en tant que membre de la communauté, tu constates un manquement par rapport aux engagements cités ci-dessus, tu es libre de le signaler soit directement à la personne concernée, soit au membre de l'incubateur de ton choix._
 
 ## Rejoindre l'Incubateur de services numériques <a href="#rejoindre-lequipe-danimation" id="rejoindre-lequipe-danimation"></a>
 
-Des postes sont régulièrement ouverts au sein de l'Incubateur de services numériques. Ils sont en général communiqués sur Mattermost avant d'être publiés plus largement sur beta.gouv.fr/recrutement.
+Les postes ouverts au sein de l'Incubateur de services numériques sont en général communiqués sur Mattermost avant d'être publiés plus largement sur [beta.gouv.fr/recrutement.](https://www.welcometothejungle.com/fr/companies/communaute-beta-gouv)
 
-## Contacter l'Incubateur de services numériques
-
-{% hint style="info" %}
-Pour contacter l'Incubateur : dinum@beta.gouv.fr
-{% endhint %}
-
-L'équipe est à disposition sur Mattermost : \~incubateur-animation
