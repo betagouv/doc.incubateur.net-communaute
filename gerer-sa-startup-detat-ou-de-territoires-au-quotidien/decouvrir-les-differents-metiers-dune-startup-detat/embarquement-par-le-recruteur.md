@@ -11,7 +11,7 @@
 <!---->
 
 * celui pour définir son accès à son email (à recevoir sur l'email renseigné dans l'onboarding)
-* &#x20;et celui pour son accès à [Mattermost](https://mattermost.incubateur.net) (à recevoir sur l'email renseigné sur son adresse @beta.gouv.fr)
+* &#x20;et celui pour son accès à [Mattermost](https://mattermost.incubateur.net) (à recevoir sur son adresse @beta.gouv.fr)
 
 <!---->
 
