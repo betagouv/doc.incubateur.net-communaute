@@ -14,18 +14,14 @@ En rejoignant notre agenda, tu auras accès à toutes les informations concernan
 
 
 
+### Juin
+
+* le jeudi 6 juin : **Forum Mensuel beta.gouv.fr suivi d'un soirée communauté**\
+  **Plus d'informations sur le canal mattermost** [**"général📢"**](https://mattermost.incubateur.net/betagouv/channels/town-square)
+* Fin Juin/Début Juillet (dates à définir) **Tournée beta.gouv.fr à Lille**\
+  Plus d'informations en rejoignant le canal mattermost [tmp-betatour-lille](https://mattermost.incubateur.net/betagouv/channels/tmp-betatour-lille).
 
 
-**En Avril :**&#x20;
-
-* Le 4 Avril: Forum Mensuel co-organisé avec l'ANCT\
-
-* **« Transformer les politiques publiques avec les communs numériques »** au Lieu de la Transformation Publique **Le 10 Avril 2024** \
-  👉🏽[Lien d'inscription ](https://www.eventbrite.com/e/billets-transformer-les-politiques-publiques-avec-les-communs-numeriques-851345616657)\
-
-* **Prochaine tournée beta à Lyon** \
-  La prochaine étape de la tournée Beta aura lieu à **Lyon les 15, 16 et 17 Avril 2024**.\
-  Rejoins [le canal mattermost dédié à l'organisation de cet évènement](https://mattermost.incubateur.net/betagouv/channels/tmp-lyon-tournee-beta-2024) pour plus d'informations.&#x20;
 
 ##
 
