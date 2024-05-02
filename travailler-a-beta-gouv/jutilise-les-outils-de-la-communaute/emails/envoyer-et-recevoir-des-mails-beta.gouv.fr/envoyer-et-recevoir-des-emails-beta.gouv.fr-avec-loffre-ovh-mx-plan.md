@@ -1,22 +1,22 @@
 # Envoyer et recevoir des emails @beta.gouv.fr avec l'offre OVH MX Plan
 
 {% hint style="info" %}
-La configuration MXPlan est différente de la configuration OVH Pro. Si tu es arrivé après le 24/10/2023, ton compte est sur l'offre OVH Pro, tu peux te rendre à  la page suivant pour avoir la configuration :  [.](./ "mention")
+La configuration MXPlan est différente de la configuration OVH Pro. Si tu es arrivé après le 24/10/2023, ton compte est sur l'offre OVH Pro, tu peux te rendre à la page suivant pour avoir la configuration : [.](./ "mention")
 {% endhint %}
 
 Il existe des tutoriels détaillés pour certains clients mails :
 
-* Apple Mail : [OSX](https://docs.ovh.com/fr/emails/guide-configuration-mail-de-mac-el-capitan/) et [iOS](https://docs.ovh.com/fr/emails/mail-mutualise-guide-configuration-iphone-ios-91/)
-* [Gmail](https://docs.ovh.com/fr/emails/mail-mutualise-guide-configuration-dun-e-mail-mutualise-ovh-sur-linterface-de-gmail/)
-* [Thunderbird](https://docs.ovh.com/fr/emails/configuration-email-configuration-pour-thunderbird/)
-* [Courier](https://docs.ovh.com/fr/emails/configuration-courrier-sur-windows-10/)
-* [Outlook](https://docs.ovh.com/fr/emails/configuration-outlook-2016/)
+- Apple Mail : [OSX](https://docs.ovh.com/fr/emails/guide-configuration-mail-de-mac-el-capitan/) et [iOS](https://docs.ovh.com/fr/emails/mail-mutualise-guide-configuration-iphone-ios-91/)
+- [Gmail](https://docs.ovh.com/fr/emails/mail-mutualise-guide-configuration-dun-e-mail-mutualise-ovh-sur-linterface-de-gmail/)
+- [Thunderbird](https://docs.ovh.com/fr/emails/configuration-email-configuration-pour-thunderbird/)
+- [Courier](https://docs.ovh.com/fr/emails/configuration-courrier-sur-windows-10/)
+- [Outlook](https://docs.ovh.com/fr/emails/configuration-outlook-2016/)
 
 Pour les autres logiciels, la configuration se fait de manière suivante :
 
-* **Ajouter un nouveau compte**
-* Sélectionner l'option **IMAP / SMTP**
-* Paramétrer le compte **IMAP** (courrier entrant) :
+- **Ajouter un nouveau compte**
+- Sélectionner l'option **IMAP / SMTP**
+- Paramétrer le compte **IMAP** (courrier entrant) :
 
 | Paramètre              | Valeur                       |
 | ---------------------- | ---------------------------- |
@@ -26,7 +26,7 @@ Pour les autres logiciels, la configuration se fait de manière suivante :
 | Nom d'utilisateur      | ton adresse beta.gouv.fr     |
 | Mot de passe           | le mot de passe de ton email |
 
-* Paramétrer le compte **SMTP** (courrier sortant) :
+- Paramétrer le compte **SMTP** (courrier sortant) :
 
 | Paramètre              | Valeur                       |
 | ---------------------- | ---------------------------- |
