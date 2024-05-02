@@ -23,7 +23,7 @@ Ce guide a été conçu sur la base de nos retours d'expérience et échanges av
 {% endcontent-ref %}
 
 {% content-ref url="3.-contenu-de-lappel-a-intrapreneur/" %}
-[3.-contenu-de-lappel-a-intrapreneur](3.-contenu-de-lappel-a-intrapreneur/)
+[3.-contenu-de-lappel-a-intrapreneur](3.-contenu-de-lappel-a-intrapreneur/README.md)
 {% endcontent-ref %}
 
 {% content-ref url="4.-sensibiliser-et-mobiliser-les-agents-talents-et-des-bons-problemes.md" %}
@@ -41,7 +41,3 @@ Ce guide a été conçu sur la base de nos retours d'expérience et échanges av
 {% content-ref url="journee-de-selection.md" %}
 [journee-de-selection.md](journee-de-selection.md)
 {% endcontent-ref %}
-
-
-
-&#x20;****&#x20;
