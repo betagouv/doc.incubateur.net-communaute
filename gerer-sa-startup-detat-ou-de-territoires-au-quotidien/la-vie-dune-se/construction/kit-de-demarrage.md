@@ -24,27 +24,28 @@ N'hésite pas à passer du temps à explorer la documentation de l'incubateur, e
 Si tu viens de rejoindre la communauté, pense aussi à t'inscrire [à la prochaine session d'embarquement dédiée aux devs](https://airtable.com/shrUCbUT72KtKefsu) si ça n'est pas déjà fait.
 {% endhint %}
 
-*   **Langages/Frameworks de référence** : _Javascript/Typescript_ (NodeJS/Express) et _Python_ (Django) :
+- **Langages/Frameworks de référence** : _Javascript/Typescript_ (NodeJS/Express) et _Python_ (Django) :
 
-    * Ces langages sont flexibles, sécurisés et faciles à prendre en main lors de l'accélération ou du transfert du produit.
-    * Il est facile de trouver des personnes compétentes pour aider.
-    * Des templates et librairies intégrant le [Design System de l'État](broken-reference/) existent déjà : [template Express](https://github.com/betagouv/template-design-system-de-l-etat), [librairie Django](https://github.com/entrepreneur-interet-general/django-dsfr)
+  - Ces langages sont flexibles, sécurisés et faciles à prendre en main lors de l'accélération ou du transfert du produit.
+  - Il est facile de trouver des personnes compétentes pour aider.
+  - Des templates et librairies intégrant le [Design System de l'État](broken-reference/) existent déjà : [template Express](https://github.com/betagouv/template-design-system-de-l-etat), [librairie Django](https://github.com/entrepreneur-interet-general/django-dsfr)
 
-    Si vous avez des besoins qui ne sont pas couverts par ces langages, discutez-en avec l'équipe technique de BetaGouv.
-* **Gestionnaire de versions** : _Git_ avec [le compte github de beta.gouv.fr](https://github.com/betagouv).
-* **Design System** : le Design System de l'État dont les composants sont accessibles nativement.
-  * Documentation du [design system](https://gouvfr.atlassian.net/wiki/spaces/DB/pages/223019574/D+veloppeurs)
-  * Démo sur [template.incubateur.net](https://template.incubateur.net)
-  * [Librairies](https://template.incubateur.net/ressources) (Django...)
-* **Hébergement** : ce choix dépend du type de données hébergées.
-  * Plusieurs options disponibles sont décrites dans la section dédiée à l'[infra](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/infra#services-pratiques-pour-lancer-un-site-web)
-* **Intégration et déploiement continus (CI / CD)** :
-  * _Circle CI_ lié à l'organisation betagouv sur github.
-  * _Github Actions_, utilisées par de plus en plus d'équipes.
-* **Suivi des erreurs** : _Sentry_
-  * Un compte est à disposition des équipes (invitation sur [#incubateur-ops](https://mattermost.incubateur.net/login?redirect\_to=%2Fbetagouv%2Fchannels%2Fincubateur-ops))
-* **Analytics** : [stats.data.gouv.fr](https://stats.data.gouv.fr)
-  * Matomo est hébergé par nos soins. Ce service est respectueux des données des utilisateurs, et le configurer comme préconisé par la CNIL permet de suivre son audience sans avoir à mettre un bandeau avertissant les visiteurs sur le dépôt de cookies. Attention ! Le nombre de visiteurs sur votre site est rarement l'équivalent d'une mesure d'impact.
+  Si vous avez des besoins qui ne sont pas couverts par ces langages, discutez-en avec l'équipe technique de BetaGouv.
+
+- **Gestionnaire de versions** : _Git_ avec [le compte github de beta.gouv.fr](https://github.com/betagouv).
+- **Design System** : le Design System de l'État dont les composants sont accessibles nativement.
+  - Documentation du [design system](https://gouvfr.atlassian.net/wiki/spaces/DB/pages/223019574/D+veloppeurs)
+  - Démo sur [template.incubateur.net](https://template.incubateur.net)
+  - [Librairies](https://template.incubateur.net/ressources) (Django...)
+- **Hébergement** : ce choix dépend du type de données hébergées.
+  - Plusieurs options disponibles sont décrites dans la section dédiée à l'[infra](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/infra#services-pratiques-pour-lancer-un-site-web)
+- **Intégration et déploiement continus (CI / CD)** :
+  - _Github Actions_, utilisées par de plus en plus d'équipes.
+- **Suivi des erreurs** : _Sentry_
+  - L'équipe animation met à disposition une [instance Sentry](https://sentry.incubateur.net) pour vous aider
+- **Analytics** : [stats.beta.gouv.fr](https://stats.beta.gouv.fr)
+
+  - L'équipe animation met à disposition une instance Matomo pour la mesure de l'usage de votre produit; Ce service est respectueux des données des utilisateurs, et est configuré comme préconisé par la CNIL. Attention ! Le nombre de visiteurs sur votre site est rarement l'équivalent d'une mesure d'impact.
 
 ## Standards de qualité beta.gouv.fr
 
@@ -84,7 +85,7 @@ Il est crucial de ne pas rester seul face à des choix technologiques potentiell
 
 ### L'équipe technique de beta
 
-Son rôle est d'accompagner les Startups d'Etat dans la construction de produits de qualité et respectueux de la réglementation en termes de sécurité, d'accessibilité, et de respect du RGPD. Elle est aujourd'hui constituée de Anna-Livia Gomart (CPO), Philippe Libat (Ops) et de Vincent Viers (responsable de l'expérience développeur) que tu peux solliciter via Mattermost.
+Son rôle est d'accompagner les Startups d'Etat dans la construction de produits de qualité et respectueux de la réglementation en termes de sécurité, d'accessibilité, et de respect du RGPD.
 
 ### Les devs transverses
 
