@@ -1,70 +1,21 @@
 # Infra
 
-Chaque équipe de Startups d'Etat gère son infrastructure de façon souveraine. Certains incubateurs [comme la Fabrique numérique des ministères sociaux](https://socialgouv.github.io/support/#/README) propose des services d'hébergement mutualisés.
-
-Par exception à cette règle générale, sur un petit nombre de sujets nous gérons des ressources partagées:
-
-* mails @beta.gouv.fr
-* les sous-domaines .beta.gouv.fr
-* certains hébergement PaaS
-* notre Mattermost
+Chaque Startup d'Etat gère son infrastructure de façon souveraine. Certains incubateurs [comme la Fabrique numérique des ministères sociaux](https://socialgouv.github.io/support/#/README) proposent des services d'hébergement mutualisés.
 
 ## Les services partagés
 
-### OVH (domaine beta.gouv.fr et adresses mail, mailing lists etc.)
+L'équipe betagouv propose des ressources partagées pour vous aider à démarrer:
 
-#### Demander un sous domaine
+| Service         | -                                                           |
+| --------------- | ----------------------------------------------------------- |
+| Email           | Vos emails en `@beta.gouv.fr`                               |
+| Sous-domaine    | Délégation de votre DNS `[produit].beta.gouv.fr`            |
+| Hébergement     | AlwaysData, Clever-Cloud, Scaleway, Scalingo, OVH           |
+| Messagerie      | [mattermost communauté](https://mattermost.incubateur.net/) |
+| Web Analytics   | [matomo communauté](https://stats.beta.gouv.fr/)            |
+| Gestion erreurs | [sentry communauté](https://sentry.incubateur.net/)         |
 
-Tu peux demander un sous domaine en suivant la procédure : [demande ops](infra.md#comment-faire-une-demande-dops)
-
-#### Mails et mailing listes
-
-Si tu as un sous domaine délégué sur alwaysdata tu peux gérer toi même les adresses et les listes de diffusion (mailing lists) de ce sous-domaine. Sinon il s'agira d'une mailing liste ovh : [voir la page à ce sujet](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/outils/liste-de-diffusion-et-adresses-de-contact).
-
-Ont les accès:
-
-* @anna-Livia
-* @florian
-* @pli
-
-### Matomo (ex Piwik)
-
-Une instance Matomo est disponible [ici](https://stats.beta.gouv.fr/). Tu peux demander un compte pour ta Startup en suivant la procédure : [demande ops](infra.md#comment-faire-une-demande-dops)
-
-Ont les accès:
-
-* @Florian
-* @julien.dauphant
-* @pli
-* @lucas.charrier
-* [amel.alili](https://app.gitbook.com/u/9S8oFAW1qCcGzLuz0J8BFUylTsd2 "mention")
-
-### Mattermost
-
-Ont les accès:
-
-* @florian.delezenne
-* @julien.dauphant
-* @tristan.robert
-* [amel.alili](https://app.gitbook.com/u/9S8oFAW1qCcGzLuz0J8BFUylTsd2 "mention")
-
-### Docker Hub
-
-On a [un compte](https://hub.docker.com/u/betagouv) pour stocker des images.
-
-Ont les accès:
-
-* @florian
-* @jerome
-* @totakoko
-
-## Autres ressources partagées
-
-* Sentry
-* [https://template.incubateur.net/](https://template.incubateur.net)
-* [https://github.com/betagouv/redirections](https://github.com/betagouv/redirections)
-* [https://metabase.incubateur.net/](https://metabase.incubateur.net)
-* [https://dashlord.incubateur.net/](https://dashlord.incubateur.net/#/)
+Pour toute demande relative à ces services, vous pouvez faire une [demande ops](infra.md#comment-faire-une-demande-dops)
 
 ## Comment faire une demande d'ops
 
@@ -74,93 +25,69 @@ Si tu n'as pas de réponse sous 24h, consulte la liste des gens qui ont accès e
 
 Tu peux demander de l'aide sur ces sujets sur Mattermost dans 🔒`~incubateur-ops`.
 
-## Comment apporter de l'aide ?
+## Envoi de courriels en masse ou transactionnels
 
-Inscris-toi d'abord ci-dessous pour signaler que tu as l'accès aux ressources en question.
+- ~~Sendinblue~~ Brevo
+- Tipimail (Sarbacane)
 
-* Si tu es dispo quand une demande arrive, réponds en thread sur Mattermost en disant "Je prends"
-* _Seulement_ après, fais ce qu'il faut pour répondre à la demande
-* _Seulement_ après, tu peux mettre une réaction ✅ sur le message d'origine, et répondre "fait"
-* Si on te demande à toi directement et que tu ne souhaite pas prendre, réponds "Je passe"
+Si votre produit doit envoyer des newsletter ou emails transactionnels, vous devez mettre en place un domain dédié type `@[produit].beta.gouv.fr` en faisant [une demande OPS](infra.md#comment-faire-une-demande-dops). Vous pourrez alors configurer vous-mêmes les enregistrements `DKIM` et `SPF` nécessaires à la bonne deliverabilité de vos emails.
 
-## Services pratiques pour lancer un site Web
+Quelques recommandations :
 
-Un certain nombre de startups utilisent des services de déploiement facile de sites Web pour éviter d'avoir à gérer un serveur complet.
+- Assurez-vous de recueillir l'indispensable consentement explicite des personnes que vous ajoutez à vos bases de contacts
+- Purger régulièrement mes contacts (destinataires et abonnés des newsletters) en retirant des listes d’envoi les courriels des personnes qui se sont désabonnées
 
-### Envoi de courriels en masse ou transactionnels
+## Hébergement
 
-* Mailjet (entreprise française passée sous le contrôle de Mailgun, basé aux US)
-* ~~Sendinblue~~  Brevo&#x20;
+### Site statique
 
-Nous avons longtemps proposé l'accès mutualisé une instance partagée de Mailjet mais pour diverses raisons techniques ce dispositif s'avère trop pénible à opérer. Nous invitons les équipes à se doter de leur propre compte.
+Voici des hébergements simples pour un site statique :
 
-Ces services de mailing ont une réputation à préserver pour ne pas être blacklistés par les outils anti-spam. Leur réputation est vitale pour ces services. La frontière entre newsletters envoyées en masse et spam est très mince. Pour la protéger, ils peuvent donc être amener à mettre en place des règles d'usage très strictes ([Politiques d'Usage Acceptables](https://fr.mailjet.com/sending-policy/)) et qui, si elles sont enfreints, peuvent les amener à vous exclure rapidement et définitivement de leur service. Afin de ne pas se faire évincer de leur service, il faut donc penser à prendre quelques précautions dans votre usage:
+| Service         | -              |
+| --------------- | -------------- |
+| 🇫🇷 AlwaysData   | 100Mo gratuits |
+| 🇺🇸 GitHub pages |
+| 🇺🇸 Netlify      |
+| 🇺🇸 Vercel       |
 
-* Pour éviter le dépassement de seuil sur la partie marketing et ainsi ne pas être bloqué dans l’envoi des mails transactionnels vitaux pour le service, pensez à créer tout de suite des sous-comptes afin de séparer les environnements marketing et transactionnel
-* Ajouter une case à cocher sur la page d’inscription à vos newsletter (mailing marketing) afin de recueillir l'indispensable consentement explicite des personnes visées
-* Purger régulièrement ses contacts (destinataires et abonnés des newsletters) en retirant des listes d’envoi les courriels des personnes qui se sont désabonnées
+### Application mode PAAS
 
-### Hébergement d'un site statique
+Il existe des hébergeurs qui automatisent la mise en prod de votre application et gèrent la base de données. Ils sont recommandés pour le lancement d'une startup d'état (**Ne perdez pas du temps avec de l'ops** : concentrez-vous sur le produit). Voici une liste d'hébergeurs permettant d'héberger simplement une application : (non exhaustive)
 
-Voici des hébergements simple pour un site statique :
+| Service         | -   |
+| --------------- | --- |
+| 🇫🇷 Clever Cloud |     |
+| 🇫🇷 Scalingo     |
 
-* AlwaysData (Francais, offre gratuite de 100mo)
-* Github page (Américains, offre gratuite)
-* Netlify (Américains, offre gratuite, hébergé sur AWS)
-* Zeit (Américains, offre gratuite, hébergé sur AWS)
+> Pour ces hébergeurs type `PAAS`, vous devez respecter les conventions de [The Twelve-factor app](https://12factor.net)) mais bénéficiez de nombreux avantages : scaling et sauvegardes automatiques, outillage de monitioring intégré, prix attractif...
 
-> Netlify et Zeit permettent d'aller beaucoup plus loin : déploiement automatique des PR github (fortement recommandé), HTTPS automatique, [lambdas](https://hackernoon.com/what-is-serverless-architecture-what-are-its-pros-and-cons-cc4b804022e9), etc.
->
-> Attention : si vous partez sur Netlify, sachez qu'un bug vous empêchera d'ajouter simplement un site xxx.beta.gouv.fr, car le domaine de plus haut niveau beta.gouv.fr est lui-même hébergé sur Netlify.
->
-> L'offre OVH Cloud Web n'est **pas recommandée** car pas compatible avec notre configuration DNS.
+### Application mode IAAS
 
-### Recommandations d'hébergement simplifié d'une application
+Voici des recommandations d'hébergeurs permettant de louer des machines virtuelles, serveurs ou ressources brutes.
 
-Il existe des hébergeurs qui automatisent la mise en prod de votre application et gère la base de donnée. Ils sont recommandés pour le lancement d'une startup d'état (**Ne perdez pas du temps avec de l'ops** : concentrez-vous sur le produit). Voici une liste d'hébergeur permettant d'héberger simplement une application : (non exhaustive)
-
-* Clever Cloud (Français)
-* Scalingo (Français, propose une offre pour les startups d'état : 100€/mois offert pendant les 6 premiers mois)
-
-> Pour ces hébergeurs vous devez respecter certaines normes, comme la configuration par les variables d'environnement (ce qui est toujours bon à faire, aller faire un tour sur les [The Twelve-factor app](https://12factor.net)).
->
-> Eviter de persister des fichiers avec l'app (les mettre dans un stockage objet par exemple, ils en fournissent en générale). En respectant ces normes, vous gagnez : auto-scaling, gestion des backup automatiques, redémarrage de l'app en cas de crash, déploiement avec un push, mise à jour de sécurité des systèmes d'exploitation.
->
-> On ne cite pas ici les offres comme AWS Elastic Beanstalk ou Kubernetes managé par OVH, car ces 2 hébergeurs ont des offres plus avancées mais cela inclut plus de complexité.
-
-### Recommandations d'hébergement d'une application en mode IaaS
-
-Voici des recommandations d'hébergeur permettant de louer machine virtuel ou serveur.
-
-* AlwaysData : Français, propose une offre d'hébergement mutualisé multi-langages aussi, ainsi que les emails et les DNS (domaine de second niveau)
-* OVH : Français, services très variés de machines virtuelles, bare-metal, base de donnée managé, emails et DNS (commence à faire de l'orchestration avec kubernetes, on pourra bientôt le classer en simple)
-* Scaleway / Online : Français, services très variés de machines virtuelles, bare-metal, base de données managées, emails et DNS (et bientôt kubernetes manager)
+| Service       | -   |
+| ------------- | --- |
+| 🇫🇷 AlwaysData |     |
+| 🇫🇷 OVH        |
+| 🇫🇷 Scaleway   |
 
 > Choisissez l'hébergement en fonction des critères pour la start-up :
 >
-> * Est-ce que je garde les données en France ? (en général, c'est recommandé pour votre prod mais pour votre environnement de demo, c'est moins sensible)
-> * Quel est la confidentialité de mes données ? (quand on se lance, au début on n'a pas ou peu de données)
-> * Quel est le coût ? (tu as un coût, une journée dev peut équivaloir à 1 an d'hébergement sur certains de ces services: **si ça te fais gagner du temps, tu peux payer l'hébergement plus cher**)
+> - Est-ce que je garde les données en France ? (en général, c'est recommandé pour votre prod mais pour votre environnement de demo, c'est moins sensible)
+> - Quel est la confidentialité de mes données ? (quand on se lance, au début on n'a pas ou peu de données)
+> - Quel est le coût ? (tu as un coût, une journée dev peut équivaloir à 1 an d'hébergement sur certains de ces services: **si ça te fais gagner du temps, tu peux payer l'hébergement plus cher**)
 
 {% file src="../../.gitbook/assets/schema_beta_hebergeur_v6.pdf" %}
 Schéma - Choisir son hébergeur
 {% endfile %}
 
-### Recommandations d'hébergement DNS et Emails pour un sous-domaine beta.gouv.fr
-
-> Le domaine principal beta.gouv.fr est géré sur OVH, il n'y a pas de garantie pour la modification DNS par un des admins volontaires. C'est pour ça que nous vous incitons à gérer vous mêmes vos DNS et EMAIL sur votre sous-domaine. Nous avons identifié peu de fournisseurs à recommander permettant de faire ça sur un domaine de second niveau.
-
-* AlwaysData : Français, permet d'héberger DNS et emails sur domaine de second niveau, compris dans l'offre gratuite de base
-* PointDNS : US, hébergement DNS uniquement, à utiliser si vous pouvez prendre un service qui n'et pas en Europe.
-
-> Les services cloud Américains comme AWS permettent de gérer les DNS d'un domaine de second niveau (à vérifier pour les emails). A vérifier, si vous pouvez en faire usage pour des raisons réglementaires ou d'images.
-
-### Recommandations d'hébergements d'images et de fichiers
+### Hébergements d'images et de fichiers
 
 Vos utilisateurs ont besoin de téléverser (uploader) des images ou des fichiers vers votre application, et vous ne savez pas où stocker ce contenu ? Voici une liste (non exhaustive) d'hébergeurs régulièrement utilisés.&#x20;
 
-* Scaleway : Object Storage (compatible S3 ; [lien](https://www.scaleway.com/fr/object-storage/))
-* Clever Cloud : Cellar (compatible S3 ; [lien](https://www.clever-cloud.com/cellar-s3-hosting/))
-* OVH : Object Storage (compatible S3 ; il existe une version "High Performance")
-* Outscale : Object Storage (compatible S3 ; Secnum ??)
-* Scalingo ? pas encore...
+| Service         | -                                                                                                 |
+| --------------- | ------------------------------------------------------------------------------------------------- |
+| 🇫🇷 Scaleway     | Object Storage (compatible S3 ; [lien](https://www.scaleway.com/fr/object-storage/))              |
+| 🇫🇷 Clever Cloud | Cellar (compatible S3 ; [lien](https://www.clever-cloud.com/cellar-s3-hosting/)) Ok               |
+| 🇫🇷 OVH          | Object Storage (compatible S3 ; [lien](https://www.ovhcloud.com/en/public-cloud/object-storage/)) |
+| 🇫🇷 OutScale     | Object Storage (compatible S3 ; [lien](https://fr.outscale.com/solutions-stockage-cloud/oos/))    |
