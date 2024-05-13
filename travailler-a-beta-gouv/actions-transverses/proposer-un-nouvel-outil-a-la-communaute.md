@@ -5,21 +5,26 @@
 Je peux :
 
 * Ouvrir un canal de discussion et inviter des autres SE à échanger dessus
+* Expliquer le besoin/contexte sur [CAP](https://github.com/betagouv/cap), notre outil de recensement des besoins
 * Contribuer à un produit open source existant pour qu'il réponde aux besoins des SE
 * Créer un commun réutilisable
 
 ## J'ai trouvé un super outil qui répondrait à tous mes besoins mais c'est un SaaS privé. Est-ce que je peux l'utiliser sur ma startup d'Etat ?
 
-Les startup d’Etat suivent des méthodes (notamment les méthodes agiles ou Lean) qui se distinguent de la conduite de projets informatiques “classiques” dans l’Etat, et rendent possible des pivots et itérations sur le produit. Dans le but de diminuer le risque d’échec, les équipes ne présagent pas de la solution et des fonctionnalités finales avant d’avoir recueilli des preuves d’impact sur le terrain. Aussi est-il fréquent de lancer des premiers traitements de données dans des périmètres définis et limités (territoire, durée, nombre de personnes, quantité de données…) tout en initiant en parallèle les différentes mises en conformité (protection des données personnes, accessibilité, sécurité, etc.).
-
-Cette méthodologie spécifique n’entraîne en aucune manière une prise à la légère des mises en conformité, qui sont des objectifs majeurs non négociables. Au contraire, l’objectif est de sensibiliser les équipes et les développeurs aux risques liés au traitement de données et de les intégrer aux pratiques de travail quotidiennes, plutôt que de les considérer comme des formalités administratives ou de les sous-traiter.
+Si un outil tiers disponible en "SAAS" est nécessaire à l'accomplissement de vos objectifs, vous devez vous assurer que celui-ci, ainsi que vos mentions légales respectent la réglementation (ex: RGPD).\
+\
+Renseignez-vous sur l'outil sur [le sanity check numericité](https://sanity-check.numericite.eu/) et n'hésitez pas à solliciter des avis juridiques sur [\~domaine-juridique](https://mattermost.incubateur.net/betagouv/channels/domaine-juridique).\
+\
+Dans tous les cas, vous devez :\
+&#x20;\- informer clairement les usagers si vous recueillez des données personnelles.\
+&#x20;\- mettre en conformité vos CGU / politique de confidentialité.
 
 ### Si le service voit passer des données personnelles
 
 Il convient donc de s'assurer de se poser les questions suivante losqu'on souhaite intégrer ce type d'outil :
 
 * pourquoi envoyer des informations personnelles des usagers de service public à des services tiers ?
-* Est-ce que une personne peut être réidentifiée à partir des informations que tu collectes ?
+* Est-ce que une personne peut être ré-identifiée à partir des informations que tu collectes ?
 
 Si tu continues dans cette voie, il faut informer clairement ton usager, lui permettre de se désengager, lui permettre de récupérer toutes les données le concernant ...
 
