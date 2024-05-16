@@ -1,6 +1,6 @@
-# Github
+# GitHub
 
-## Github c'est quoi ?
+## GitHub c'est quoi ?
 
 * C'est le service en ligne qui contient entre autres le code source du site internet de beta.gouv.fr et de cette documentation
 * La modification du site beta.gouv.fr a été simplifiée pour être accessible à un maximum de personnes
@@ -11,13 +11,13 @@ Dans tous les cas vous pouvez demander de l'aide sur Mattermost `#incubateur-hel
 :movie\_camera: Le replay de la dernière formation **Git et GitHub pour les non-Devs** est disponible [ici](https://bbb-dinum-scalelite.visio.education.fr/playback/presentation/2.3/8ee526fca9400cc6d29be8255d42a6f8b9d71ac9-1642668864964)
 {% endhint %}
 
-## Je créé un compte Github
+## Je créé un compte GitHub
 
-* Inscris-toi sur le site de Github : [https://github.com/join](https://github.com/join)
+* Inscris-toi sur le site de GitHub : [https://github.com/join](https://github.com/join)
 
 ![](<../../../.gitbook/assets/image (8) (2) (2) (2) (2) (2) (1) (1) (1) (1) (1) (2) (1) (1) (1) (1) (1) (2).png>)
 
-* Valide ton compte Github en cliquant sur le lien reçu par email
+* Valide ton compte GitHub en cliquant sur le lien reçu par email
 * Pour améliorer la sécurité, tu dois activer l'authentification double facteur
   * Aller sur la page [https://github.com/settings/security](https://github.com/settings/security)
   * Dans la section "Two-factor authentication"
@@ -25,18 +25,18 @@ Dans tous les cas vous pouvez demander de l'aide sur Mattermost `#incubateur-hel
 
 ![](<../../../.gitbook/assets/image (14) (2) (2) (2) (2) (2) (2) (2) (2) (1) (1) (1) (1) (1) (3) (1) (1) (1) (1) (1) (1) (4).png>)
 
-* Si tu es familier avec les applications mobile de type "Google Authenticator", fais : "**Set up using an app**." et suis les étapes indiquées par Github.
+* Si tu es familier avec les applications mobile de type "Google Authenticator", fais : "**Set up using an app**." et suis les étapes indiquées par GitHub.
 * Si tu ne comprends pas le point si dessus, fais "**Set up using SMS"** et entre ton numéro de mobile
-* Github va afficher des "Recovery codes"
+* GitHub va afficher des "Recovery codes"
   * Imprime ces codes et garde les dans un coin. A défaut, sauvegarde les de manière sécurisé
-* Github doit te proposer de saisir un code pour confirmer la procédure (soit le code est envoyé par sms, soit tu dois ouvrir l'application qui gére tes codes)
-* Mets ta photo (ou une image personnalisé si tu ne veux pas diffuser ta photo) sur Github, dans ["Settings", "Profile"](https://github.com/settings/profile)
+* GitHub doit te proposer de saisir un code pour confirmer la procédure (soit le code est envoyé par sms, soit tu dois ouvrir l'application qui gére tes codes)
+* Mets ta photo (ou une image personnalisé si tu ne veux pas diffuser ta photo) sur GitHub, dans ["Settings", "Profile"](https://github.com/settings/profile)
   * :point\_right:c'est la photo qui servira pour la page communauté de beta.gouv.fr
 
 ## Faire une modification sur le site beta.gouv.fr
 
-* Vérifie que tu es bien connecté à Github
-* Recherche ta fiche sur le repo github [https://github.com/betagouv/beta.gouv.fr/tree/master/content/\_authors](https://github.com/betagouv/beta.gouv.fr/tree/master/content/\_authors)
+* Vérifie que tu es bien connecté à GitHub
+* Recherche ta fiche sur le repo GitHub [https://github.com/betagouv/beta.gouv.fr/tree/master/content/\_authors](https://github.com/betagouv/beta.gouv.fr/tree/master/content/\_authors)
   * Si elle ne s'affiche pas correctement, tu peux la retrouver via l'outil de recherche de GitHub ou bien y naviguer directement via l'url du format `https://github.com/betagouv/beta.gouv.fr/tree/master/content/_authors/{prenom}.{nom}.md`
 * Ouvre la fiche et clique sur le crayon
 * Le site peut te demander de faire un fork (cela créé une version pour toi du site beta.gouv.fr)
@@ -59,7 +59,7 @@ Dans tous les cas vous pouvez demander de l'aide sur Mattermost `#incubateur-hel
 
 * Voilà ! Un autre membre de beta.gouv.fr va pouvoir accepter ta modification
 
-> Si tu as ajouté ton compte Github, tu seras automatiquement ajouté à l'organisation Github dans les 24h.
+> Si tu as ajouté ton compte GitHub, tu seras automatiquement ajouté à l'organisation GitHub dans les 24h.
 
 
 
