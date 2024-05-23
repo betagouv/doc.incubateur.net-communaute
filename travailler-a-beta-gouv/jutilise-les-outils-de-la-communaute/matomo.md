@@ -82,3 +82,27 @@ Cette page contient dans l'onglet "CODE DE SUIVI" le script qu'il vous faudra in
 ## Quelques conseils pour l'utiliser ?
 
 Plus d'infos dans la documentation technique est consultable ici : https://matomo.org/guides/
+
+## Recommandations pour utiliser Matomo sans bannière de consentement aux cookies
+
+Les sources d'information de référence s'accordent à dire que la bannière de consentement est optionnelle dès lors que les critères suivants sont respectés : 
+
+1. permettre aux visiteurs de refuser d’être suivis (Opt-out) ([exemple](https://developer.matomo.org/guides/tracking-javascript-guide#optional-creating-a-custom-opt-out-form))
+2. désactiver les cookies (par le biais de [disableCookies](https://fr.matomo.org/faq/general/faq_157/#disable-cookies-for-a-specific-site-when-you-are-using-matomo-on-premise-or-matomo-cloud) ou [via l'admin de Matomo](https://fr.matomo.org/faq/general/faq_157/#if-you-are-using-matomo-tag-manager))
+3. anonymiser les IP : anonymiser au moins 2 octets [via l’admin de Matomo](https://matomo.org/faq/general/configure-privacy-settings-in-matomo/)
+4. anonymiser le référent via [l’admin de Matomo](https://fr.matomo.org/faq/how-to/how-do-i-anonymize-the-referrer-information/)
+5. exclure les données personnelles des URL et titre des pages
+6. *exclure les données personnelles des variables personnalisées, dimensions, évènements (usage avancé)*
+7. *masquer les données personnelles dans les heatmaps et les enregistrements d’écran (usage avancé)*
+8. *exclure les identifiants de commande de commerce électronique (usage avancé)*
+9. ne pas activer les fonctions user-id
+10. utiliser uniquement les données à des fins d’analyse (pas de croisement de données)
+11. ne suivre les utilisateurs que sur un seul site ou une seule application
+    1. vérifier que la fonctionnalité de “[cross domain tracking](https://matomo.org/faq/how-to/faq_23654/)” n’est pas utilisée sur les domaines, c’est à dire qu’on ne puisse pas repérer un utilisateur sur 2 domaines différents
+    2. vérifier que la fonctionnalité de “[cookies tiers](https://matomo.org/faq/how-to/faq_118/)” n’est pas activée.
+12. mécanisme de consentement négatif - (NDA : simple recommandation car cela donnerait très peu d'informations en l'appliquant strictement)
+13. publier une politique de confidentialité à jour
+
+_Références_
+- [Comment configurer Matomo pour une protection de la vie privée sans consentement](https://fr.matomo.org/faq/how-do-i-use-matomo-analytics-without-consent-or-cookie-banner/#comment-configurer-matomo-pour-une-protection-de-la-vie-privee-sans-consentement)
+- [CNIL: Exemption du recueil de consentement •Mesure d’audience • Guide de configuration Matomo Analytics](https://www.cnil.fr/sites/cnil/files/atoms/files/matomo_analytics_-_exemption_-_guide_de_configuration.pdf)
