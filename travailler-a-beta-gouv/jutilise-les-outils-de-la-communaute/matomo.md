@@ -83,9 +83,9 @@ Cette page contient dans l'onglet "CODE DE SUIVI" le script qu'il vous faudra in
 
 Plus d'infos dans la documentation technique est consultable ici : https://matomo.org/guides/
 
-## Recommandations pour utiliser Matomo sans bannière de consentement
+## Recommandations pour utiliser Matomo sans bannière de consentement aux cookies
 
-Les sources d'information de référence s'accordent à dire que la bannière de consentement est optionnel dès lors que les critères suivants sont respectés : 
+Les sources d'information de référence s'accordent à dire que la bannière de consentement est optionnelle dès lors que les critères suivants sont respectés : 
 
 1. permettre aux visiteurs de refuser d’être suivis (Opt-out) ([exemple](https://developer.matomo.org/guides/tracking-javascript-guide#optional-creating-a-custom-opt-out-form))
 2. désactiver les cookies (par le biais de [disableCookies](https://fr.matomo.org/faq/general/faq_157/#disable-cookies-for-a-specific-site-when-you-are-using-matomo-on-premise-or-matomo-cloud) ou [via l'admin de Matomo](https://fr.matomo.org/faq/general/faq_157/#if-you-are-using-matomo-tag-manager))
