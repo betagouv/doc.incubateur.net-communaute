@@ -58,16 +58,20 @@ description: >-
 [sous-domaine-beta-gouv-fr.md](sous-domaine-beta-gouv-fr.md)
 {% endcontent-ref %}
 
+{% content-ref url="matomo.md" %}
+[matomo.md](matomo.md)
+{% endcontent-ref %}
+
+{% content-ref url="vaultwarden.md" %}
+[vaultwarden.md](vaultwarden.md)
+{% endcontent-ref %}
+
 {% content-ref url="dashlord/" %}
 [dashlord](dashlord/)
 {% endcontent-ref %}
 
 {% content-ref url="metabase.md" %}
 [metabase.md](metabase.md)
-{% endcontent-ref %}
-
-{% content-ref url="dashlane.md" %}
-[dashlane.md](dashlane.md)
 {% endcontent-ref %}
 
 {% content-ref url="welcome-to-the-jungle.md" %}

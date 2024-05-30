@@ -6,6 +6,10 @@ description: >-
 
 # Dashlane
 
+{% hint style="info" %}
+Le nombre de comptes Dashlane étant limité, nous vous proposons d'utiliser l'alternative VaultWarden, cf [gérer les mots de passe de mon équipe avec VaultWarden](vaultwarden.md)
+{% endhint %}
+
 ## Qu'est-ce que Dashlane ?
 
 Dashlane est un gestionnaire de mots de passe. Concrètement, c'est un coffre-fort qui retient l'intégralité de vos mots de passe et vous permet de n'en retenir qu'un seul (le "mot de passe maître").
