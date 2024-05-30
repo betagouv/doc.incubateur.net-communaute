@@ -93,6 +93,7 @@
     * [Modèle de note](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/ressources-supplementaires/modele-de-note.md)
   * [Problèmes fréquents](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/problemes-frequents.md)
   * [VaultWarden](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/vaultwarden.md)
+  * [Sentry](travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/sentry.md)
 * [🖖 Participer à la vie de la communauté](travailler-a-beta-gouv/actions-transverses/README.md)
   * [Le forum beta.gouv.fr](travailler-a-beta-gouv/actions-transverses/rituels/seminaire.md)
   * [Partager ses apprentissages](travailler-a-beta-gouv/actions-transverses/partager-ses-apprentissages/README.md)
