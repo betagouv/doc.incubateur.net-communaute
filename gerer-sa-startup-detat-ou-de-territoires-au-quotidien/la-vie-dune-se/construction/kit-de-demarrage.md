@@ -28,23 +28,22 @@ Si tu viens de rejoindre la communauté, pense aussi à t'inscrire [à la procha
 
     * Ces langages sont flexibles, sécurisés et faciles à prendre en main lors de l'accélération ou du transfert du produit.
     * Il est facile de trouver des personnes compétentes pour aider.
-    * Des templates et librairies intégrant le [Design System de l'État](broken-reference/) existent déjà : [template Express](https://github.com/betagouv/template-design-system-de-l-etat), [librairie Django](https://github.com/entrepreneur-interet-general/django-dsfr)
+    * Des templates et librairies intégrant le [Design System de l'État](https://www.systeme-de-design.gouv.fr/) pour différents contextes existent déjà [sur notre compte GitHub](https://github.com/betagouv?q=template\&type=all\&language=\&sort=)
 
     Si vous avez des besoins qui ne sont pas couverts par ces langages, discutez-en avec l'équipe technique de BetaGouv.
-* **Gestionnaire de versions** : _Git_ avec [le compte github de beta.gouv.fr](https://github.com/betagouv).
+* **Gestionnaire de versions** : _Git_ avec [le compte GitHub de beta.gouv.fr](https://github.com/betagouv).
 * **Design System** : le Design System de l'État dont les composants sont accessibles nativement.
-  * Documentation du [design system](https://gouvfr.atlassian.net/wiki/spaces/DB/pages/223019574/D+veloppeurs)
-  * Démo sur [template.incubateur.net](https://template.incubateur.net)
-  * [Librairies](https://template.incubateur.net/ressources) (Django...)
+  * Documentation du [design system](https://www.systeme-de-design.gouv.fr/)
+  * [Plusieurs librairies existent](https://github.com/topics/dsfr) pour votre lanugage/framework favori
 * **Hébergement** : ce choix dépend du type de données hébergées.
   * Plusieurs options disponibles sont décrites dans la section dédiée à l'[infra](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/infra#services-pratiques-pour-lancer-un-site-web)
 * **Intégration et déploiement continus (CI / CD)** :
-  * _Circle CI_ lié à l'organisation betagouv sur github.
+  * _Circle CI_ lié à l'organisation betagouv sur GitHub.
   * _Github Actions_, utilisées par de plus en plus d'équipes.
 * **Suivi des erreurs** : _Sentry_
   * Un compte est à disposition des équipes (invitation sur [#incubateur-ops](https://mattermost.incubateur.net/login?redirect\_to=%2Fbetagouv%2Fchannels%2Fincubateur-ops))
-* **Analytics** : [stats.data.gouv.fr](https://stats.data.gouv.fr)
-  * Matomo est hébergé par nos soins. Ce service est respectueux des données des utilisateurs, et le configurer comme préconisé par la CNIL permet de suivre son audience sans avoir à mettre un bandeau avertissant les visiteurs sur le dépôt de cookies. Attention ! Le nombre de visiteurs sur votre site est rarement l'équivalent d'une mesure d'impact.
+* **Analytics** : [stats.beta.gouv.fr](https://stats.beta.gouv.fr)
+  * Matomo est hébergé par un prestataire dédié, configuré comme préconisé par la CNIL et permet de suivre son audience sans avoir à mettre un bandeau avertissant les visiteurs sur le dépôt de cookies. **Attention** ! Le nombre de visiteurs sur votre site est rarement l'équivalent d'une mesure d'impact.
 
 ## Standards de qualité beta.gouv.fr
 
@@ -58,7 +57,7 @@ Ne pas respecter les standards de qualité devra être justifié.
 [standards-de-qualite-beta.gouv.fr.md](../../je-fais-des-choix-technologique/standards-de-qualite-beta.gouv.fr.md)
 {% endcontent-ref %}
 
-Pour t'aider à situer ta Startup d'État par rapport à ces standards de qualité, ajoute ton url à l'outil [Dashlord](https://dashlord.incubateur.net) en ouvrant une PR [ici](https://github.com/betagouv/dashlord/blob/main/dashlord.yml). Tu trouveras plus d'informations sur la page ci-dessous.
+Pour t'aider à situer ta Startup d'État par rapport à ces standards de qualité, ajoute ton url à l'outil [DashLord](https://dashlord.incubateur.net) en ouvrant une PR [ici](https://github.com/betagouv/dashlord/blob/main/dashlord.yml). Tu trouveras plus d'informations sur la page ci-dessous.
 
 {% content-ref url="../../../travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/dashlord/" %}
 [dashlord](../../../travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/dashlord/)
@@ -84,12 +83,12 @@ Il est crucial de ne pas rester seul face à des choix technologiques potentiell
 
 ### L'équipe technique de beta
 
-Son rôle est d'accompagner les Startups d'Etat dans la construction de produits de qualité et respectueux de la réglementation en termes de sécurité, d'accessibilité, et de respect du RGPD. Elle est aujourd'hui constituée de Anna-Livia Gomart (CPO), Philippe Libat (Ops) et de Vincent Viers (responsable de l'expérience développeur) que tu peux solliciter via Mattermost.
+Son rôle est d'accompagner les Startups d'Etat dans la construction de produits de qualité et respectueux de la réglementation en termes de sécurité, d'accessibilité, et de respect du RGPD.
 
 ### Les devs transverses
 
 Les devs transverses travaillent sur les outils mutualisés de la communauté et peuvent accompagner ponctuellement les SE sur des points techniques. Tu peux les solliciter sur le canal Mattermost [`#dinum-dev-transverse`](https://mattermost.incubateur.net/betagouv/channels/dinum-dev-transverse)
 
-### Les autres devs de la communauté
+### La communauté
 
 N'hésite pas à solliciter de l'aide sur des points précis dans un des canaux préfacés en `domaine-*` (ex. [`#domaine-dev`](https://mattermost.incubateur.net/betagouv/channels/domaine-dev), [`#domaine-django`](https://mattermost.incubateur.net/betagouv/channels/domaine-django), etc.)
