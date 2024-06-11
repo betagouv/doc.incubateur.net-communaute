@@ -17,7 +17,7 @@ L'un de ces espaces de travail est celui de la communauté beta.gouv (celui tout
 
 Cette règle d'accès nous permet de garantir un minimum de confiance dans les échanges et sujets discutés. Nous souhaitons éviter que des personnes ne se sentent plus autorisées ou légitimes pour partager de l'information, faute de savoir avec qui exactement elles la partagent. Le critère "a un compte beta.gouv", s'il n'est pas parfait, nous assure au moins qu'une personne s'identifie comme membre de la communauté.
 
-![Illustration de l'affichage des espaces de travail dans le panneau à gauche](<../../../.gitbook/assets/Capture d’écran 2021-07-05 à 11.48.09.png>)
+![Illustration de l'affichage des espaces de travail dans le panneau à gauche](../../../.gitbook/assets/Capture%20d%E2%80%99e%CC%81cran%202021-07-05%20a%CC%80%2011.48.09.png)
 
 {% hint style="warning" %}
 Cette règle ne concerne pas l'accès à l'outil Mattermost lui-même, mais seulement l'accès à l'espace de travail communautaire.
@@ -42,7 +42,6 @@ La bonne nouvelle : quel que soit l'espace de travail auquel tu as accès, tu pe
 | Nom de l'espace | Description                                                                                                      |
 | --------------- | ---------------------------------------------------------------------------------------------------------------- |
 | Communauté      | Toutes les personnes qui disposent d'un compte mail beta.gouv.fr                                                 |
-| beta @ DINUM    | Co-animateurs beta (agents en contrats avec la DINUM dédiés au développement de la méthode startup d'Etat)       |
 | pass-emploi     | startup                                                                                                          |
 | reva            | espace d'échange entre la startup REVA et ses partenaires d'expérimentation                                      |
 | ANSSI           | incubateur                                                                                                       |
