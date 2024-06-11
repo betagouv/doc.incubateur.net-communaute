@@ -13,7 +13,7 @@ Metabase permet de publier les tableaux de bord ou de les intégrer dans un autr
 * [Voir la documentation](https://www.metabase.com/docs/latest/) (en anglais)
 * Le [Metabase mutualisé](https://metabase.incubateur.net) de beta.gouv
 
-Cet outils s'adresse :&#x20;
+Cet outil s'adresse :
 
 * à un rôle administrateur au profil plutôt technique ;
 * aux équipes techniques qui sauront configurer les requêtes de statistiques ;
@@ -41,7 +41,7 @@ Plusieurs partenaires de beta.gouv proposent des procédures simples pour déplo
 
 Scalingo permet de déployer une instance de Metabase en un clic. L'instance sera fonctionnelle, configurable et relativement sécurisée.
 
-Dans notre cas, nous déployons Metabase chez Scalingo et nous nous connectons à une application hébergée chez Scalingo. La base de données de l'application est accessible via leur réseau privé.&#x20;
+Dans notre cas, nous déployons Metabase chez Scalingo et nous nous connectons à une application hébergée chez Scalingo. La base de données de l'application est accessible via leur réseau privé.
 
 {% hint style="info" %}
 Nous ne rentrerons pas dans les détails de la mise en place d'une infrastructure sécurisée chez un autre hébergeur.
@@ -60,11 +60,11 @@ Nous ne rentrerons pas dans les détails de la mise en place d'une infrastructur
 8. Invitez des utilisateurs via l'interface d'admin
 9. Amusez-vous avec vos données :tada:
 
-_La documentation officielle est ici :_ [_https://doc.scalingo.com/platform/getting-started/getting-started-with-metabase_](https://doc.scalingo.com/platform/getting-started/getting-started-with-metabase)__
+_La documentation officielle est ici :_ [_https://doc.scalingo.com/platform/getting-started/getting-started-with-metabase_](https://doc.scalingo.com/platform/getting-started/getting-started-with-metabase)\_\_
 
 #### Créer un utilisateur de base de données spécifique à Metabase
 
-Pour des raisons de sécurité, il est fortement recommandé de donner un accès en lecture seule (_read-only)_ à Metabase sur votre base de production. La création d'un nouvel utilisateur se fait dans l'interface de votre [dashboard Scalingo](https://dashboard.scalingo.com). Il faut ensuite lui donner des permissions de lecture sur chaque table utilisée par vos requêtes Metabase.&#x20;
+Pour des raisons de sécurité, il est fortement recommandé de donner un accès en lecture seule (_read-only)_ à Metabase sur votre base de production. La création d'un nouvel utilisateur se fait dans l'interface de votre [dashboard Scalingo](https://dashboard.scalingo.com). Il faut ensuite lui donner des permissions de lecture sur chaque table utilisée par vos requêtes Metabase.
 
 L'exemple suivant est donné pour une base PostgreSQL.
 

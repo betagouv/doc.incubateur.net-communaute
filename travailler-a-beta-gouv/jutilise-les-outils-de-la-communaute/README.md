@@ -10,6 +10,10 @@ description: >-
 
 ### Pour communiquer
 
+{% content-ref url="emails/" %}
+[emails](emails/)
+{% endcontent-ref %}
+
 {% content-ref url="mattermost/" %}
 [mattermost](mattermost/)
 {% endcontent-ref %}
@@ -40,7 +44,7 @@ description: >-
 [pad.md](pad.md)
 {% endcontent-ref %}
 
-## Outils développés par beta.gouv.fr
+## Outils opérés par beta.gouv.fr
 
 ### Pour gérer son compte beta.gouv.fr
 
