@@ -66,6 +66,10 @@ description: >-
 [matomo.md](matomo.md)
 {% endcontent-ref %}
 
+{% content-ref url="sentry.md" %}
+[sentry.md](sentry.md)
+{% endcontent-ref %}
+
 {% content-ref url="vaultwarden.md" %}
 [vaultwarden.md](vaultwarden.md)
 {% endcontent-ref %}
