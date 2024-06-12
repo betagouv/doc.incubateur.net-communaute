@@ -8,5 +8,5 @@ N'envoie pas d'emails en masse depuis ta boîte mail beta.gouv.
 
 L'envoi en masse peut lever des alertes chez nos fournisseurs d'infrastructure : en gros si tu abuses, tu risques de bloquer l'envoi de mails pour tous les copains !
 
-Il existe des services adaptés pour les envois en masse : Brevo, Mailjet, etc. Tu peux demander conseil sur #incubateur-ops.\
-\
+Il existe des services adaptés pour les envois en masse : [Brevo](brevo.md), Mailjet, etc. Tu peux demander conseil sur [incubateur-ops.\
+](https://mattermost.incubateur.net/betagouv/channels/incubateur-demandes-ops)\

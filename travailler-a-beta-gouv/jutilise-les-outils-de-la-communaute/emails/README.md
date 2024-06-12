@@ -24,8 +24,8 @@ description: Comment envoyer et recevoir des emails avec son adresse @beta.gouv
 [definir-ou-renouveler-mon-mot-de-passe-beta.gouv.fr.md](definir-ou-renouveler-mon-mot-de-passe-beta.gouv.fr.md)
 {% endcontent-ref %}
 
-{% content-ref url="envoyer-des-mails-en-masse.md" %}
-[envoyer-des-mails-en-masse.md](envoyer-des-mails-en-masse.md)
+{% content-ref url="envoyer-des-mails-en-masse/" %}
+[envoyer-des-mails-en-masse](envoyer-des-mails-en-masse/)
 {% endcontent-ref %}
 
 {% content-ref url="configurer-sa-signature-de-mail-beta.gouv.fr.md" %}
