@@ -38,10 +38,14 @@ description: >-
 [gitbook](gitbook/)
 {% endcontent-ref %}
 
-### Rédaction de documents collaboratifs
+### Outils collaboratifs
 
 {% content-ref url="pad.md" %}
 [pad.md](pad.md)
+{% endcontent-ref %}
+
+{% content-ref url="grist.md" %}
+[grist.md](grist.md)
 {% endcontent-ref %}
 
 ## Outils opérés par beta.gouv.fr
