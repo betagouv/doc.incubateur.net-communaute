@@ -1,43 +1,4 @@
----
-description: Plateforme open-source d'analytics
----
-
-# Metabase
-
-Metabase est un outil open-source et gratuit qui permet de créer des tableaux de bord pour afficher des statistiques, des indicateurs ou des courbes.
-
-Un éditeur permet d'enregistrer des "questions" (retranscrites en requêtes de base de données). L'affichage de la "réponse" est ensuite facilement configurable sous forme de graphique, de tableau, etc.
-
-Metabase permet de publier les tableaux de bord ou de les intégrer dans un autre site via une `iframe`.
-
-* [Voir la documentation](https://www.metabase.com/docs/latest/) (en anglais)
-* Le [Metabase mutualisé](https://metabase.incubateur.net) de beta.gouv
-
-Cet outil s'adresse :
-
-* à un rôle administrateur au profil plutôt technique ;
-* aux équipes techniques qui sauront configurer les requêtes de statistiques ;
-* aux chargé.es de déploiement, intra-preneur.se, chargé.e de produit qui exprimeront leurs besoins d'indicateurs pour suivre et piloter l'évolution de la Startup d'Etat ;
-* au grand public (via les tableaux de bord publiés)
-
-{% hint style="warning" %}
-la gestion des données personnelles est un point d'attention important lors de l'affichage de données statistiques.
-
-Il est conseillé de dupliquer vos données en les anonymisant dans une seconde base spécifique à Metabase.
-{% endhint %}
-
-### Installation
-
-Metabase peut être utilisé en SaaS (Software as a Service) ou hébergé directement sur votre infrastructure.
-
-Dans le cas des Startup d'Etat, il est conseillé d'héberger Metabase directement afin de garder le contrôle des serveurs et de leur localisation.
-
-Plusieurs partenaires de beta.gouv proposent des procédures simples pour déployer le logiciel. (_liste non exhaustive_).
-
-* [Scalingo](https://doc.scalingo.com/platform/getting-started/getting-started-with-metabase)
-* [Clever Cloud](https://www.clever-cloud.com/fr/blog/engineering/2019/02/20/how-to-install-metabase/)
-
-### Déploiement chez Scalingo
+# Déploiement chez Scalingo
 
 Scalingo permet de déployer une instance de Metabase en un clic. L'instance sera fonctionnelle, configurable et relativement sécurisée.
 

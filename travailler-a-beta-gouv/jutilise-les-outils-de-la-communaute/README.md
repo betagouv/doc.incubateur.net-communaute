@@ -82,8 +82,8 @@ description: >-
 [dashlord](dashlord/)
 {% endcontent-ref %}
 
-{% content-ref url="metabase.md" %}
-[metabase.md](metabase.md)
+{% content-ref url="metabase/" %}
+[metabase](metabase/)
 {% endcontent-ref %}
 
 {% content-ref url="welcome-to-the-jungle.md" %}
