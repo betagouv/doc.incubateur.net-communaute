@@ -82,6 +82,10 @@ description: >-
 [dashlord](dashlord/)
 {% endcontent-ref %}
 
+{% content-ref url="yeswehack.md" %}
+[yeswehack.md](yeswehack.md)
+{% endcontent-ref %}
+
 {% content-ref url="metabase/" %}
 [metabase](metabase/)
 {% endcontent-ref %}
