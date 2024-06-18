@@ -52,7 +52,7 @@ Le harcèlement moral ou sexuel est interdit et constitue un délit pénal. A ti
     👉 Contacter un·e membre individuellement sur Mattermost, par email ou en personne.\
     👉Tu préfères rester anonyme mais déclarer une situation problématique,[ utilise ce formulaire.](https://tally.so/r/w8xAgr)
 
-_**Les membres du groupe de soutien sont : Anne Poirot, Caroline Lawson, Clémence Lopez, Denis Baudot, Florian Briand, Mélodie Dahi, Fanny Blanc, Amel Alili.**_
+_**Les membres du groupe de soutien sont : Caroline Lawson, Clémence Lopez, Denis Baudot, Florian Briand, Fanny Blanc, Amel Alili, Olivier Boudou**_&#x20;
 
 
 
