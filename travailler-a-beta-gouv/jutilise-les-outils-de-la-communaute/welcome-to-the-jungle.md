@@ -10,12 +10,17 @@ Cet outil est mis à disposition de l’ensemble du réseau beta.gouv. En partic
 
 ## Obtenir un accès au Welcome to the Jungle
 
-Une fois que vous avez accès à la plateforme, vous pouvez ouvrir un profil avec accès restreint aux autres membres de l’équipe. Les profils avec accès restreints n’ont accès qu’aux candidatures sur l’offre sur laquelle ils ont été nommés.
+Une fois que vous avez accès à la plateforme, vous pouvez ouvrir un profil avec accès restreint aux autres membres de l’équipe.&#x20;
 
-\
-**Si tu fais partie de la Fabrique Numérique du MTE, demande directement tes accès à** [**fabrique.numerique@developpement-durable.gouv.fr**](mailto:fabrique.numerique@developpement-durable.gouv.fr)\
-**Pour toutes les autres demandes,** envoie un mail  à [animation@beta.gouv.fr](mailto:animation@beta.gouv.fr). \
+Les profils avec accès restreints n’ont accès qu’aux candidatures sur l’offre sur laquelle ils ont été nommés.
 
+
+
+<table><thead><tr><th>Incubateur </th><th>Référent WTTJ</th><th data-hidden></th></tr></thead><tbody><tr><td>Accélérateur de la transition écologique (ADEME) : </td><td><p><a href="mailto:lilian.sagetlethias@beta.gouv.fr">Lilian Saget lethias</a></p><p><br></p></td><td></td></tr><tr><td>Atelier numérique de la Culture</td><td><a href="mailto:clemence.chalopet@beta.gouv.fr">Clemence Chalopet</a></td><td></td></tr><tr><td>Fabrique des géocommuns (IGN)</td><td><a href="mailto:nicolas.berthelot@ign.fr">Nicolas Berthelot</a></td><td></td></tr><tr><td>Fabrique numérique de l’Ecologie (MTE):</td><td><a href="mailto:fabrique.numerique@developpement-durable.gouv.fr">Gaspard Granger</a></td><td></td></tr><tr><td>Fabrique numérique des Armées</td><td><a href="mailto:mathieu.mahr@beta.gouv.fr">Mathieu Mahr</a></td><td></td></tr><tr><td>Incubateur de la Justice</td><td><a href="mailto:thomas.guerrier@beta.gouv.fr">Thomas Guerrier</a>, <a href="mailto:maryline.araujo@justice.gouv.fr">Maryline Araujo</a></td><td></td></tr><tr><td>Incubateur de Service Numérique de la DINUM</td><td><a href="mailto:amel.alili@beta.gouv.fr">Amel Alili</a></td><td></td></tr><tr><td>Incubateur des Territoires (ANCT)</td><td><a href="mailto:benjamin.mittet-breme@anct.gouv.fr">Benjamin Mittet-Breme</a></td><td></td></tr><tr><td>Accélérema (CEREMA)</td><td><a href="mailto:perrine.rutkowski@beta.gouv.fr">Perrine Rutkowski</a></td><td></td></tr><tr><td><p></p><p>Incubateur du MASA </p></td><td><a href="mailto:jennifer.stephan@beta.gouv.fr">Jennifer Stephan</a></td><td></td></tr><tr><td>Incubateur France Travail</td><td><a href="mailto:sabrina.bentenah@francetravail.fr">Sabrina Bentenah</a></td><td></td></tr><tr><td>Mission interministérielle pour l’apprentissage</td><td><a href="mailto:leo.radisson@beta.gouv.fr">leo.radisson@beta.gouv.fr</a></td><td></td></tr><tr><td>Atelier Numérique du Ministère de l'Europe et des Affaires Etrangères </td><td><a href="mailto:noemie.peignier@diplomatie.gouv.fr">Noémie Peignier</a></td><td></td></tr><tr><td>Opérateur de produits interministériels (OPI)</td><td><a href="mailto:florian.delezenne@beta.gouv.fr">Florian Delezenne</a></td><td></td></tr><tr><td>Plateforme de l'inclusion </td><td><a href="mailto:adele.de.pimodan@beta.gouv.fr">Adele de Pimodan</a></td><td></td></tr></tbody></table>
+
+**Pour toutes les autres demandes,** envoie un mail  à [animation@beta.gouv.fr](mailto:animation@beta.gouv.fr).&#x20;
+
+{% embed url="https://docs.google.com/presentation/d/1Fmdjm5Qw39TeyRRvC7wRQaFsNRJIaYBZKXlfRfbY8Tk/edit#slide=id.g2dba877299c_3_278" %}
 
 {% hint style="info" %}
 Merci de prendre connaissance de la [Charte de bonne utilisation de Welcome to The Jungle.](welcome-to-the-jungle/charte-de-bonne-utilisation-de-welcome-to-the-jungle.md)
@@ -67,13 +72,13 @@ En cas de diffusion d'une offre en prestation (ex : freelance), suivre le proces
 [obtenir-une-prestation](../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/obtenir-une-prestation/)
 {% endcontent-ref %}
 
-## Diffuser une offre
-
 Le compte [LinkedIn](reseaux-sociaux/annoncer-un-recrutement-sur-le-compte-linkedin-de-beta.gouv.md) de beta.gouv.fr est un excellent relais pour diffuser l'annonce.
 
 {% content-ref url="reseaux-sociaux/annoncer-un-recrutement-sur-le-compte-linkedin-de-beta.gouv.md" %}
 [annoncer-un-recrutement-sur-le-compte-linkedin-de-beta.gouv.md](reseaux-sociaux/annoncer-un-recrutement-sur-le-compte-linkedin-de-beta.gouv.md)
 {% endcontent-ref %}
+
+## Diffuser une offre
 
 Les annonces peuvent aussi être relayées auprès de communautés spécifiques, par exemple :&#x20;
 
