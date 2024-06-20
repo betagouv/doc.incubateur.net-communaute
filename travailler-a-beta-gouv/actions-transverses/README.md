@@ -14,16 +14,7 @@ En rejoignant notre agenda, tu auras accès à toutes les informations concernan
 
 
 
-### Juin
-
-* le jeudi 6 juin : **Forum Mensuel beta.gouv.fr suivi d'un soirée communauté**\
-  **Plus d'informations sur le canal mattermost** [**"général📢"**](https://mattermost.incubateur.net/betagouv/channels/town-square)
-* Fin Juin/Début Juillet (dates à définir) **Tournée beta.gouv.fr à Lille**\
-  Plus d'informations en rejoignant le canal mattermost [tmp-betatour-lille](https://mattermost.incubateur.net/betagouv/channels/tmp-betatour-lille).
-
-
-
-##
+{% embed url="https://calendar.google.com/calendar/u/0/embed?ctz=Europe/Paris&src=0ieonqap1r5jeal5ugeuhoovlg@group.calendar.google.com" %}
 
 ## La règle des 10%
 
