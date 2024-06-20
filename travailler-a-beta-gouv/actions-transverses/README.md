@@ -12,9 +12,7 @@ En rejoignant notre agenda, tu auras accès à toutes les informations concernan
 
 ### Maintenant, voici un aperçu des événements pour les semaines à venir :thumbsup:
 
-
-
-{% embed url="https://calendar.google.com/calendar/u/0/embed?ctz=Europe/Paris&src=0ieonqap1r5jeal5ugeuhoovlg@group.calendar.google.com" %}
+<figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
 ## La règle des 10%
 
