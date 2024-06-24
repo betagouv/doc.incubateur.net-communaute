@@ -16,7 +16,7 @@ Plusieurs clients ou extensions sont disponibles : [https://bitwarden.com/downlo
 
 Ensemble des fonctionnalités de coffre-fort numérique (gestionnaire de secrets et mots de passe).
 
-Il vous permet de ==créer==, ==stocker==, ==modifier== et ==partager== des éléments sensibles avec vos collègues en toute sécurité (identifiants, mots de passe, cartes bancaires…).
+Il vous permet de **créer**, **stocker**, **modifier** et **partager** des éléments sensibles avec vos collègues en toute sécurité (identifiants, mots de passe, cartes bancaires…).
 
 ### 📦 Send <a href="#f0-9f-93-a6-send" id="f0-9f-93-a6-send"></a>
 
@@ -45,7 +45,9 @@ Un **secret** est une donnée que vous souhaitez stocker de manière sécurisée
 
 Dans le vocabulaire de l’outil, un secret est appelé **élément.**
 
-Chaque **élément** (_**secret**_) correspond au type de donnée spécifique que vous souhaitez stocker.\nVous pouvez gérer les types d’**éléments** suivants :
+Chaque **élément** (_**secret**_) correspond au type de donnée spécifique que vous souhaitez stocker. 
+
+Vous pouvez gérer les types d’**éléments** suivants :
 
 * **Identifiant** : élément permettant de vous connecter à une application ou site web (identifiant + mot de passe)
 * **Carte de paiement** : permet de stocker les informations liées à une carte bancaire
@@ -92,7 +94,9 @@ Afin de garantir la sécurité de votre coffre-fort numérique, chaque utilisate
 
 Pour faire simple, il s'agit d'ajouter un élément de sécurité en plus de votre simple mot de passe (par exemple un code à usage unique envoyé sur votre smartphone) afin d'éviter qu'un attaquant ne puisse accéder à votre coffre-fort en cas de vol de votre mot de passe principal.
 
-L'activation de l'**authentification à deux facteurs sera rendu obligatoire d'ici mai 2024**.\nNous vous invitons donc à prendre les devants dès maintenant en vous rendant sur cette page : [https://vaultwarden.incubateur.net/#/settings/security/two-factor](https://vaultwarden.incubateur.net/#/settings/security/two-factor)
+L'activation de l'**authentification à deux facteurs est obligatoire**.
+
+Nous vous invitons donc à prendre les devants dès maintenant en vous rendant sur cette page : [https://vaultwarden.incubateur.net/#/settings/security/two-factor](https://vaultwarden.incubateur.net/#/settings/security/two-factor)
 
 Nous pouvons vous accompagner dans cette démarche simple, n'hésitez pas à nous en faire la demande.
 
@@ -121,10 +125,14 @@ Voici les informations nécessaires pour configurer vos applications bitwarden a
 En lançant bitwarden pour la première fois, vous arrivez sur un écran similaire à l’image ci-dessous : ![Écran de configuration de bitwarden pour MacOS](https://file+.vscode-resource.vscode-cdn.net/api/attachments.redirect?id=4f5cb761-edcf-4979-b64d-3b8d12157fe4)
 
 1. Cliquer sur la petite flèche dirigée vers le bas, après “_Connexion sur : bitwarden.com_“, puis cliquez sur “_**auto-hébergé**_“ ![Sélectionner "auto-hébergé"](https://file+.vscode-resource.vscode-cdn.net/api/attachments.redirect?id=0bec2b11-bf1c-471e-8e11-1a186d5e4b4f)
-2. Dans le champ “_URL du serveur_“ (1), saisissez l’URL suivante : [https://vaultwarden.incubateur.net](https://vaultwarden.incubateur.net/)\nPuis cliquez sur l’icône représentant une disquette en bas à gauche (2) ![Indiquer l'URL du serveur Vaultwarden https://vaultwarden.incubateur.net](https://file+.vscode-resource.vscode-cdn.net/api/attachments.redirect?id=043b49c4-1f66-408c-89df-4d913e744b63)
-3. Vous pouvez maintenant saisir votre adresse e-mail _@beta.gouv.fr_ (1) et cliquer sur “_Se souvenir du courriel_“ (2), puis sur le bouton “_Continuer_“ (3) ![Saisir votre adresse e-mail betagouv](https://file+.vscode-resource.vscode-cdn.net/api/attachments.redirect?id=32518cde-853c-43e7-aa81-a4630e225db1)
-4. Vous pouvez maintenant saisir votre mot de passe Vaultwarden (1) et cliquer sur le bouton “_Se connecter avec le mot de passe principal_“ (2) ![Saisir votre mot de passe Vaultwarden](https://file+.vscode-resource.vscode-cdn.net/api/attachments.redirect?id=c1c9be4c-c896-4ac3-8edd-3ce011734445)
-5. Bienvenue sur bitwarden !\nVous pouvez maintenant gérer vos secrets à votre guise. Ils sont automatiquement synchronisés entre votre (vos) logiciel(s) bitwarden et le serveur Vaultwarden.\nAinsi, si le serveur Vaultwarden était indisponible, vous auriez toujours accès aux secrets synchronisés. ![Écran principal de bitwarden](https://file+.vscode-resource.vscode-cdn.net/api/attachments.redirect?id=2fb4e7b6-ef28-4f93-b210-29c95e8826c9)
+2. Dans le champ “_URL du serveur_“ (1), saisissez l’URL suivante : [https://vaultwarden.incubateur.net](https://vaultwarden.incubateur.net/) Puis cliquez sur l’icône représentant une disquette en bas à gauche
+3. Vous pouvez maintenant saisir votre adresse e-mail _@beta.gouv.fr_ et cliquer sur “_Se souvenir du courriel_“, puis sur le bouton “_Continuer_“
+4. Vous pouvez maintenant saisir votre mot de passe Vaultwarden (1) et cliquer sur le bouton “_Se connecter avec le mot de passe principal_“
+5. Bienvenue sur bitwarden !
+
+Vous pouvez maintenant gérer vos secrets à votre guise. Ils sont automatiquement synchronisés entre votre (vos) logiciel(s) bitwarden et le serveur Vaultwarden. 
+
+Ainsi, si le serveur Vaultwarden était indisponible, vous auriez toujours accès aux secrets synchronisés.
 
 ## 🛟 Pour aller plus loin <a href="#f0-9f-9b-9f-pour-aller-plus-loin" id="f0-9f-9b-9f-pour-aller-plus-loin"></a>
 
