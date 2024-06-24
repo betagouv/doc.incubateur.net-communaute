@@ -35,6 +35,13 @@ Vous pouvez utiliser le SDK officiel Sentry de votre plateforme : [https://docs.
 Intégration : Pensez à préciser les variables `environment`et `version` dans votre client pour pouvoir filtrer dans l'interface.
 {% endhint %}
 
+### Intégration GitHub
+
+Pour profiter de [l'intégration GitHub + Sentry](https://sentry.io/integrations/github/) : 
+
+ - demander dans [~incubateur-demandes-ops](https://mattermost.incubateur.net/betagouv/channels/incubateur-demandes-ops) à [ajouter votre repo dans l'application GitHub dédiée](https://github.com/organizations/betagouv/settings/installations/51044792)
+ - dans [les settings sentry](https://sentry.incubateur.net/settings/betagouv/integrations/github/3/) ajouter le repository à associer au projet
+
 ### Ressources
 
 * [Sentry in 6 minutes](https://www.youtube.com/watch?v=4djseRVSan8)
