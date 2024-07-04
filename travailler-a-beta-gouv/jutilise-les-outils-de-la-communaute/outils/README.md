@@ -27,7 +27,7 @@ voir [Listes de diffusion et adresses de contact](liste-de-diffusion-et-adresses
 
 ## Prolonger la durée d'activation d'un membre pour éviter les bugs (problèmes de badges, désabonnement des mailings list, accès au repot…)
 
-1. Connectez-vous sur la [page Github référençant tous les membres de beta.gouv](https://github.com/betagouv/beta.gouv.fr/tree/master/content/\_authors).
-2. Recherchez votre nom ou celui de la personne dont la date d'activation a expiré ou va expirer.
-3. Après avoir ouvert cette fiche du type `prénom.nom.md`, modifiez la date sous le champ `end`.
-4. Enfin, choisissez « créer une nouvelle branche », puis proposez une « Pull Request » de cette branche vers la branche `master`.
+1. Connectez-vous sur l'espace-membre
+2. Dans la page ["Communauté"]('https://espace-membre/community') recherchez le nom de la personne dont la date a expiré.
+3. Prolongez la date du contrat avec la valeur nécessaire (pour les indépendants maximum 6 mois).
+4. Puis sauvegardez.

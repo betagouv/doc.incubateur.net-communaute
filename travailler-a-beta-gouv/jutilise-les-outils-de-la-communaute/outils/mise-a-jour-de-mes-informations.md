@@ -40,8 +40,8 @@ Tu as besoin de créer un compte github ? Retrouve les [explications ici.](../gi
 
 Il se peut que tu perdes temporairement accès à certains services (notamment ton accès au site de l'espace membre et au dépot github) si la date de fin enregistrée est dépassée, mais pas de panique : avec l'aide d'un⋅e collègue, tu pourras récupérer ces accès.
 
-Demande à cette personne d'effectuer la modification de ta fiche sur github à l'aide d'une des méthodes décrites ci-dessus : directement sur le [dépôt](https://github.com/betagouv/beta.gouv.fr/tree/master/content/\_authors), ou via le site d'[administration](https://beta.gouv.fr/admin) de beta.gouv.fr. Dans les deux cas la modification de la date créera un `commit` sur une nouvelle branche pour laquelle il faudra demander intégration dans la branche `master` par une « pull request» (voir fin du tutoriel vidéo .)
+Demande à cette personne d'effectuer la modification de ta fiche sur l'[espace-membre]('https://espace-membre.incubateur.net').
 
-Une fois la modification effectuée, tu pourras réactiver ton adresse @beta.gouv.fr depuis l'[espace membre](https://espace-membre.incubateur.net/account#password) en faisant un changement de mot de passe. Tu devrais recevoir un mail dans les 30 minutes avec tes nouveaux accès.
+Une fois la modification effectuée, tu pourras réactiver ton adresse @beta.gouv.fr depuis l'[espace membre](https://espace-membre.incubateur.net/account#password) en faisant un changement de mot de passe. Le changement de mot de passe réactive ton email.
 
-Si la procédure décrite ne fonctionne pas, demande de l'aide sur le canal mattermost [\~incubateur-help](https://mattermost.incubateur.net/betagouv/channels/incubateur-secretaria).
+Si la procédure décrite ne fonctionne pas, demande de l'aide sur le canal mattermost [\~incubateur-help](https://mattermost.incubateur.net/betagouv/channels/incubateur-help).
