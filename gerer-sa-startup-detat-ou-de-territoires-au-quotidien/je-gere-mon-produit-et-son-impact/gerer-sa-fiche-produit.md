@@ -27,7 +27,6 @@ Tu restes libre de modifier le contenu si ces parties ne te conviennent pas.
 \- Rends toi dans l'espace "Produits" et "Créer une fiche produit"\
 \- Remplis le formulaire proposé.\
 \
-Une fois terminé, il ne te restera plus qu'à cliquer sur le lien de ta Pull Request pour valider les information sur github.
 
 <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
@@ -40,7 +39,8 @@ Tu souhaites modifier un élément de ta fiche produit ? Ajouter un Sponsor ? Ch
 Tu peux désormais le faire via [l'espace membre.](https://espace-membre.incubateur.net/startups)
 
 Sélectionne le nom de ta Startup d'Etat et modifie les éléments qui composent la fiche.\
-N'oublie pas de merger (valider) ta Pull Request grâce au lien généré après la modification.
+
+Et voilà, les changements apparaitront sur le site beta.gouv.fr dans la journée.
 
 Tu pourras également ajouter un visuel à ta fiche produit.
 
@@ -51,8 +51,6 @@ Besoin d'aide ? Pose ta question sur le canal mattermost [#incubateur-help](http
 {% endhint %}
 
 ## Ajouter un logo/visuel à sa fiche produit
-
-
 
 De nombreuses fiches produits se retrouvent sur le site de beta.gouv sans logo ou image d'illustration.\
 Pour ajouter une image, il vous faudra suivre ces quelques indications:
