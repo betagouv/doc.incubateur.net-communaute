@@ -14,7 +14,7 @@ description: Tu nous quittes ? On espère que tu as passé un moment positif ave
 
 ### C'est optionnel
 
-* [ ] Rediriger ton adresse `@beta.gouv.fr` vers `departs@beta.gouv.fr` en le demandant  sur [\#incubateur-secretaria](https://mattermost.incubateur.net/betagouv/channels/incubateur-secretaria) 
+* [ ] Rediriger ton adresse `@beta.gouv.fr` vers `departs@beta.gouv.fr` en le demandant  sur [\#incubateur-secretariat](https://mattermost.incubateur.net/betagouv/channels/incubateur-secretariat) 
 * [ ] Faire un debrief d'une demi-heure de ton passage à l'Incubateur avec [un·e permanent·e](comprendre-loffre-de-service-de-beta.gouv.fr/equipe-danimation/), pour qu'on puisse s'améliorer.
 * [ ] Annoncer la date de ton pot de départ sur [\#general](https://mattermost.incubateur.net/betagouv/channels/town-square)
 * [ ] [Désactiver ton compte Mattermost](au-revoir.md#que-va-devenir-ton-compte-mattermost)
@@ -49,7 +49,7 @@ Tu peux le désactiver :
 ![D&#xE9;sactiver mon compte](../.gitbook/assets/image%20%2820%29.png)
 
 {% hint style="info" %}
-**Si tu souhaites garder accès à Mattermost, fait en la demande spécifiquement** sur \#incubateur-secretariat ou à contact@beta.gouv.fr . 
+**Si tu souhaites garder accès à Mattermost, fait en la demande spécifiquement** sur [\#incubateur-secretariat](https://mattermost.incubateur.net/betagouv/channels/incubateur-secretariat) ou à contact@beta.gouv.fr . 
 
 Dans ce cas, ton compte restera actif tant que tu l'utiliseras. Il sera désactivé après 1 mois d'inactivité ou en cas de conflit d'intérêt avec tes nouvelles activités.
 {% endhint %}
