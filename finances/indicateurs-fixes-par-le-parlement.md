@@ -1,2 +1,0 @@
-# Indicateurs de performance 📈
-
