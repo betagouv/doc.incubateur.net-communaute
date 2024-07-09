@@ -16,11 +16,11 @@ Les mailing-lists suivantes sont disponibles. Toutes les adresses sont à postfi
 
 ### La commande Slack `/emails`
 
-**Attention : commande à utiliser dans le channel** [**🔒`#incubateur-secretaria`**](https://startups-detat.slack.com/messages/incubateur-secretaria)
+**Attention : commande à utiliser dans le channel** [**🔒`#incubateur-secretariat`**](https://mattermost.incubateur.net/betagouv/channels/incubateur-secretariat)
 
 #### Comment créer une nouvelle liste de diffusion pour la communauté
 
-Pour créer une nouvelle adresse de contact, il faut demander un admin OVH sur [🔒`#incubateur-secretaria`](https://startups-detat.slack.com/messages/incubateur-secretaria)\*\* de créer la mailinglist. Elle pourra être géré sur slack.
+Pour créer une nouvelle adresse de contact, il faut demander un admin OVH sur [🔒`#incubateur-secretariat`](https://mattermost.incubateur.net/betagouv/channels/incubateur-secretariat)\*\* de créer la mailinglist. Elle pourra être géré sur Mattermost.
 
 #### Détails de la commande
 

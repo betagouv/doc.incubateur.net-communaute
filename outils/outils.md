@@ -30,7 +30,7 @@ voir aussi [Listes de diffusion et adresses de contact](liste-de-diffusion-et-ad
 
 ### Gestion des DNS via OVH
 
-Nous disposons d'un MX plan chez OVH pour le domaine `beta.gouv.fr`. Pour les modifier, il faut donc passer par l'[interface web d'OVH](https://www.ovh.com/fr/g1596.mail_mutualise_guide_dutilisation_mailing-list). Si vous n'avez pas les droits d'accès, demandez-les sur Slack, dans [🔒`#incubateur-secretaria`](https://startups-detat.slack.com/messages/incubateur-secretaria/).
+Nous disposons d'un MX plan chez OVH pour le domaine `beta.gouv.fr`. Pour les modifier, il faut donc passer par l'[interface web d'OVH](https://www.ovh.com/fr/g1596.mail_mutualise_guide_dutilisation_mailing-list). Si vous n'avez pas les droits d'accès, demandez-les sur Mattermost, dans [🔒`#incubateur-secretariat`](https://mattermost.incubateur.net/betagouv/channels/incubateur-secretariat).
 
 Plusieurs [listes de diffusion](liste-de-diffusion-et-adresses-de-contact.md) sont disponibles, dont certaines, optionnelles, modifient votre niveau d'implication dans l'incubateur. Si vous souhaitez participer \(ou simplement être au courant\) des aspects stratégiques de la structure, par exemple, inscrivez-vous à `contact@beta.gouv.fr`.
 
@@ -52,7 +52,7 @@ Une base de données contenant tous les mots de passe nécessaires est donc acce
 
 1. Installer [KeePassX](https://www.keepassx.org) \(`brew cask install keepassx`\).
 2. Télécharger la \[\[base de données \| incubateur.kdbx\]\].
-3. Demander la clé et le mot de passe sur le canal [🔒`#incubateur-secretaria`](https://startups-detat.slack.com/messages/incubateur-secretaria/).
+3. Demander la clé et le mot de passe sur le canal [🔒`#incubateur-secretariat`](https://mattermost.incubateur.net/betagouv/channels/incubateur-secretariat).
 
 La réponse ne sera pas nécessairement positive: l'intention sous-jacente est de diminuer le risque de perte de maîtrise sur des composants protégés par mot de passe en cas d'absence ou de départ d'un dépositaire de ces secrets, mais _pas_ de constituer un accès standard aux secrets pour l'ensemble des membres de l'Incubateur.
 

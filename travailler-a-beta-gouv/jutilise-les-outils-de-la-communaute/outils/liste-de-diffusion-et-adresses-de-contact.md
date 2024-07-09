@@ -36,7 +36,7 @@ En cas de succès, votre demande est remontée dans le canal [#incubateur-demand
 ### Détails de la commande
 
 {% hint style="info" %}
-Attention : ces commandes fonctionnent uniquement dans le canal 🔒[`#incubateur-secretaria`](https://mattermost.incubateur.net/betagouv/channels/incubateur-secretaria)sur Mattermost.
+Attention : ces commandes fonctionnent uniquement dans le canal 🔒[`#incubateur-secretariat`](https://mattermost.incubateur.net/betagouv/channels/incubateur-secretariat)sur Mattermost.
 {% endhint %}
 
 * `/emails list` : affiche les listes de diffusions existantes
