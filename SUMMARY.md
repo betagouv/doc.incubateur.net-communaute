@@ -337,7 +337,6 @@
   * [Aide transverse - Growth Hacking](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-sollicite-de-laide-transverse/growth-hacking-acquisition.md)
   * [Aide transverse - Data Science](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-sollicite-de-laide-transverse/data-science.md)
   * [Aide transverse - Pole Numérique Inclusif](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-sollicite-de-laide-transverse/aide-transverse-pole-numerique-inclusif.md)
-  * [Demander de l’aide](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-sollicite-de-laide-transverse/demander-de-laide.md)
 
 ## Découvrir les guides des incubateurs <a href="#decouvrir-les-guides-des-autres-incubateurs" id="decouvrir-les-guides-des-autres-incubateurs"></a>
 
