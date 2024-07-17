@@ -1,2 +1,0 @@
-# Budget de l’incubateur 💰
-

@@ -1,2 +1,0 @@
-# Rencontres thématiques \(Meetup\)
-
