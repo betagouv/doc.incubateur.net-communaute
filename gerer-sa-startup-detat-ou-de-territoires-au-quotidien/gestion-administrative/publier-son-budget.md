@@ -6,7 +6,7 @@ description: >-
 
 # Publier son budget
 
-Dans son dernier [rapport sur le pilotage de la transformation numérique de l’État](https://www.ccomptes.fr/fr/publications/le-pilotage-de-la-transformation-numerique-de-letat-par-la-direction) par la direction interministérielle du numérique, la cour des comptes a réaffirmé la nécesssité de publier le budget, et les objectifs d'impact de chaque équipe.
+Dans son dernier [rapport sur le pilotage de la transformation numérique de l’État](https://www.ccomptes.fr/fr/publications/le-pilotage-de-la-transformation-numerique-de-letat-par-la-direction) par la direction interministérielle du numérique, la cour des comptes a réaffirmé la nécessité de publier le budget, et les objectifs d'impact de chaque équipe.
 
 <figure><img src="../../.gitbook/assets/Capture d’écran 2024-07-19 à 19.35.02.png" alt=""><figcaption><p>Rapport S-2024-0754 de la Cour des comptes</p></figcaption></figure>
 
