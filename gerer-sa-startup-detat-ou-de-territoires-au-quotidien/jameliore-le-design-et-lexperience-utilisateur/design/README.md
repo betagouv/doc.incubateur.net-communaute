@@ -8,11 +8,9 @@ description: >-
 
 ## Définir le périmètre de la mission
 
-
-
 Les métiers du design regroupent un **large panel de compétences** dans différents domaines. Chaque designer peut être **plus ou moins spécialisé** dans ces domaines.
 
-Pour recruter un·e designer, la première étape est de définir vos besoins :&#x20;
+Pour recruter un·e designer, la première étape est de définir vos besoins :
 
 * [ ] ⭐ **Conception de parcours** : vous avez besoin d'une personne capable de traduire un besoin ou une fonctionnalité en parcours.
 * [ ] ⭐ **Ergonomie** : vous avez besoin d'une personne capable d'améliorer des interfaces et parcours existants.
@@ -23,7 +21,7 @@ Pour recruter un·e designer, la première étape est de définir vos besoins :&
 * [ ] **Accessibilité** : votre produit touche un très large public. Vous voulez penser à l'accessibilité dès la phase de conception.
 
 {% hint style="warning" %}
-Les compétences annotées d'une étoile ⭐ sont les pré-requis de base chez un UX designer. Les suivants sont des spécialités.&#x20;
+Les compétences annotées d'une étoile ⭐ sont les pré-requis de base chez un UX designer. Les suivants sont des spécialités.
 
 **🚨 Attention à la recherche du mouton à 5 pattes !**
 {% endhint %}
@@ -42,7 +40,7 @@ Vos besoins varient probablement aussi selon la phase de votre Startup d'État :
 Plus de détails dans [Comprendre le rôle du design](https://app.gitbook.com/@beta-gouv/s/guide-se/design-et-experience-utilisateur/comprendre-le-role-du-design)
 {% endhint %}
 
-Enfin, le type de service que vous développez aura une influence sur les enjeux UX :&#x20;
+Enfin, le type de service que vous développez aura une influence sur les enjeux UX :
 
 * Vulgarisation au grand public ?
 * Simplification de process complexes ?
@@ -65,30 +63,18 @@ Selon votre situation et votre budget, voici quelques exemples de formulation :
 * _« Contrat de 30 jours à répartir entre septembre et février (environ 3 jours par semaine sur les mois de septembre et octobre) »_
 * _« 2 jours par semaine (renouvelable si l'équipe prouve son impact lors du comité de financement) »_
 
-
-
 ### Rédiger l'annonce <a href="#docs-internal-guid-d0796aed-7fff-05ea-4900-350f54147ddd" id="docs-internal-guid-d0796aed-7fff-05ea-4900-350f54147ddd"></a>
 
 * Lister les compétences nécessaires identifiées.
 * Expliquer quel type de produit vous développez, et quels sont les enjeux en terme d'UX.
 * Mentionner un TJM. Par exemple « Entre 500€ et 700€[ selon profil](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/recrutement/observatoire-revenus).
 
-### Contacter des candidats spontanés <a href="#docs-internal-guid-03ea9015-7fff-718c-31d0-bfae8488a867" id="docs-internal-guid-03ea9015-7fff-718c-31d0-bfae8488a867"></a>
-
-L'incubateur reçoit des candidatures spontanées. Vous pouvez prendre contact avec l'équipe des Designers Transverses pour **voir les candidatures spontannées récentes** , intéressés par votre domaine.
-
-{% hint style="warning" %}
-Les candidatures spontanées ne sont pas revues en amont par Beta.&#x20;
-{% endhint %}
-
 ### Mener les entretiens
 
-Vous pouvez faire appel à un membre de l'équipe transverse pour :&#x20;
+Vous pouvez faire appel à un membre de l'équipe transverse pour :
 
 * **Analyser les candidatures** reçues, et identifier les profils les plus adaptés.
 * **Passer les entretiens**, pour avoir un oeil UX expert.
-
-
 
 Voici quelques idées de questions à poser :
 
@@ -98,12 +84,4 @@ Voici quelques idées de questions à poser :
 
 ###
 
-
-
-
-
-
-
 ### &#x20;<a href="#docs-internal-guid-03ea9015-7fff-718c-31d0-bfae8488a867" id="docs-internal-guid-03ea9015-7fff-718c-31d0-bfae8488a867"></a>
-
-&#x20;
