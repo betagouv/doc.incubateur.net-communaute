@@ -1,25 +1,27 @@
 # Table of contents
 
+- [👋 Bienvenue sur le guide de la communauté beta.gouv.fr](README.md)
+
 ## [Présentation de beta.gouv.fr](presentation-de-beta.gouv.fr/README.md)
 
-- [La genèse](presentation-de-beta.gouv.fr/histoire-de-beta.gouv.fr/README.md)
+- [💡 La genèse](presentation-de-beta.gouv.fr/histoire-de-beta.gouv.fr/README.md)
   - [references-bibliographiques.md](presentation-de-beta.gouv.fr/histoire-de-beta.gouv.fr/references-bibliographiques.md)
-- [Les valeurs](presentation-de-beta.gouv.fr/valeurs.md)
-- [L'incubateur de la DINUM](presentation-de-beta.gouv.fr/incubateur-de-la-dinum)
+- ✊ [Les valeurs](presentation-de-beta.gouv.fr/valeurs.md)
+- [🧪 L'incubateur de la DINUM](presentation-de-beta.gouv.fr/incubateur-de-la-dinum)
 
   - [lequipe-danimation-beta.gouv.fr.md](presentation-de-beta.gouv.fr/incubateur-de-la-dinum/lequipe-danimation-beta.gouv.fr.md)
 
-- [Services à impact national](presentation-de-beta.gouv.fr/services-numeriques-a-impact-national.md)
-- [Les incubateurs du réseau beta.gouv.fr](presentation-de-beta.gouv.fr/les-incubateurs)
+- [🇫🇷 Services à impact national](presentation-de-beta.gouv.fr/services-numeriques-a-impact-national.md)
+- [⚛️ Les incubateurs du réseau beta.gouv.fr](presentation-de-beta.gouv.fr/les-incubateurs)
 
-- Communauté [todo]
+- 🤗 La communauté [todo]
   - [TODO]: présentation de la commu en chiffres et liens vers les autres pages ? metabase ?
   - 10% communauté
   - mettre en avant des membres ?
 
 ## [Travailler chez beta.gouv.fr](travailler-chez-beta.gouv.fr/README.md)
 
-- Les différents métiers
+- 👷‍♀️ Les différents métiers
   - [Intrapreneur.se](travailler-chez-beta.gouv.fr/les-differents-metiers/intrapreneur.se/README.md)
     - [certification-des-intrapreneurs](travailler-chez-beta.gouv.fr/les-differents-metiers/intrapreneur.se/certification-des-intrapreneurs)
     - [certification-des-intrapreneurs.md](travailler-chez-beta.gouv.fr/les-differents-metiers/intrapreneur.se/certification-des-intrapreneurs.md)
@@ -50,19 +52,19 @@
   - [Responsable de portefeuille](travailler-chez-beta.gouv.fr/les-differents-metiers/responsable-de-portefeuille/README.md)
   - [Responsable d’incubateur](travailler-chez-beta.gouv.fr/les-differents-metiers/responsable-d-incubateur/README.md)
   - [Facilitateur.trice](travailler-chez-beta.gouv.fr/les-differents-metiers/facilitateur.trice/README.md)
-- [Les différents statuts](travailler-chez-beta.gouv.fr/les-differents-statuts)
+- 🏤 [Les différents statuts](travailler-chez-beta.gouv.fr/les-differents-statuts)
   - [fonctionnaires-contractuels](travailler-chez-beta.gouv.fr/les-differents-statuts/fonctionnaires-contractuels/README.md)
     - [fonctionnaires-et-contractuels-de-la-fonction-publique.md](travailler-chez-beta.gouv.fr/les-differents-statuts/fonctionnaires-contractuels/fonctionnaires-et-contractuels-de-la-fonction-publique.md)
   - [independants-freelances](travailler-chez-beta.gouv.fr/les-differents-statuts/independants-freelances/README.md)
     - [charte-des-freelances.md](travailler-chez-beta.gouv.fr/les-differents-statuts/independants-freelances/charte-des-freelances.md)
     - [observatoire-revenus.md](travailler-chez-beta.gouv.fr/les-differents-statuts/independants-freelances/observatoire-revenus.md)
   - [salaries-des-societes-de-prestation](travailler-chez-beta.gouv.fr/les-differents-statuts/salaries-des-societes-de-prestation/README.md)
-- Je souhaite travailler chez beta.gouv.fr
+- 🙇🏽 Je souhaite travailler chez beta.gouv.fr
 
   - [Guide pour les candidats](travailler-chez-beta.gouv.fr/je-souhaite-travailler-chez-beta.gouv.fr/guide-pour-les-candidat-e-s.md)
   - [Devenir Freelance](travailler-chez-beta.gouv.fr/je-souhaite-travailler-chez-beta.gouv.fr/devenir-freelance.md)
 
-- Je débute chez beta.gouv.fr
+- 🐥 Je débute chez beta.gouv.fr
 
   - [J’intègre la communauté](travailler-chez-beta.gouv.fr/je-debute-beta.gouv.fr/embarquement-dans-la-communaute.md)
   - [premier-pas-indispensable-creer-ta-fiche-membre.md](travailler-chez-beta.gouv.fr/je-debute-beta.gouv.fr/premier-pas-indispensable-creer-ta-fiche-membre.md)
@@ -70,14 +72,14 @@
   - [normes-de-conduite.md](travailler-chez-beta.gouv.fr/normes-de-conduite.md)
   - [embarquement-dev.md](travailler-chez-beta.gouv.fr/je-debute-beta.gouv.fr/embarquement-dev.md)
 
-- [Je quitte beta.gouv.fr](travailler-chez-beta.gouv.fr/je-quitte-beta.gouv.fr/README.md)
+- 🕊️ [Je quitte beta.gouv.fr](travailler-chez-beta.gouv.fr/je-quitte-beta.gouv.fr/README.md)
 
   - [que-faire-avant-la-date-de-fin-de-ma-mission.md](travailler-chez-beta.gouv.fr/je-quitte-beta.gouv.fr/que-faire-avant-la-date-de-fin-de-ma-mission.md)
   - [que-se-passe-t-il-apres-la-date-de-fin-de-ma-mission.md](travailler-chez-beta.gouv.fr/je-quitte-beta.gouv.fr/que-se-passe-t-il-apres-la-date-de-fin-de-ma-mission.md)
   - [au-revoir.md](travailler-chez-beta.gouv.fr/je-quitte-beta.gouv.fr/au-revoir.md)
   - [questions-frequentes.md](travailler-chez-beta.gouv.fr/je-quitte-beta.gouv.fr/questions-frequentes.md)
 
-- Vie quotidienne et Bien être
+- 🧘🏻‍♀️ Vie quotidienne et Bien être
 
   - Travailler dans les lieux partagés
     - [badge-pour-travailler-a-segur](travailler-chez-beta.gouv.fr/vie-quotidienne-bien-etre/lieux-partages/badge-pour-travailler-a-segur)
@@ -93,7 +95,7 @@
   - [Recommendations](travailler-chez-beta.gouv.fr/vie-quotidienne-bien-etre/conseils.md)
   - [Repérer une situation dysfonctionnelle](travailler-chez-beta.gouv.fr/vie-quotidienne-bien-etre/situation-dysfonctionnelle.md)
 
-- [Se former](travailler-chez-beta.gouv.fr/se-former/README.md)
+- 👨🏽‍🎓 [Se former](travailler-chez-beta.gouv.fr/se-former/README.md)
   - [les-formations-a-venir/README.md](travailler-chez-beta.gouv.fr/se-former/les-formations-a-venir/README.md)
     - [animer-une-formation.md](travailler-chez-beta.gouv.fr/se-former/les-formations-a-venir/animer-une-formation.md)
     - [les-formations-passees.md](travailler-chez-beta.gouv.fr/se-former/les-formations-a-venir/les-formations-passees.md)
@@ -102,7 +104,7 @@
 
 ## Gérer son produit
 
-- L'appoche produit
+- 📈 L'appoche produit
 
   - [Guide de l’approche produit (présentation)](gerer-son-produit/approche-produit/README.md)
   - [Guide de financement des Startups d'État](gerer-son-produit/approche-produit/guide-de-financement-des-startups-detat/README.md)
@@ -112,7 +114,7 @@
   - [gerer-sa-fiche-produit.md](gerer-son-produit/approche-produit/je-gere-mon-produit-et-son-impact/gerer-sa-fiche-produit.md)
   - [references-bibliographiques.md](presentation-de-beta.gouv.fr/histoire-de-beta.gouv.fr/references-bibliographiques.md) (copie)
 
-- [Les standards](gerer-son-produit/standards)
+- ✅ [Les standards](gerer-son-produit/standards)
 
   - [Système de design DSFR](gerer-son-produit/standards/dsfr/README.md)
 
@@ -184,7 +186,7 @@
       - [annexe-3-grands-principes-du-rgpd.md](gerer-son-produit/standards/securite/responsabilite-de-traitement/annexe-3-grands-principes-du-rgpd.md)
     - [securite-and-homologation.md](gerer-son-produit/standards/securite/securite-and-homologation.md)
 
-- [La vie du produit](gerer-son-produit/la-vie-du-produit/README.md)
+- 🌼 [La vie du produit](gerer-son-produit/la-vie-du-produit/README.md)
 
   - [Investigation](gerer-son-produit/la-vie-du-produit/investigation/README.md)
     - [cest-quoi-concretement.md](gerer-son-produit/la-vie-du-produit/investigation/cest-quoi-concretement.md)
@@ -233,7 +235,7 @@
           - [de-la-start-up-detat-a-la-fondation-et-au-fonds-de-dotation.md](gerer-son-produit/la-vie-du-produit/perennisation/trajectoires-de-perennisation/4.-constitution-dune-structure-juridique-dediee-gip-scic-sas-scn-etc./4-fondations-et-fonds-de-dotation/de-la-start-up-detat-a-la-fondation-et-au-fonds-de-dotation.md)
     - Fin de partenariat [TODO]
 
-- Gestion au quotidien
+- 🏃🏼‍♀️‍➡️ Gestion au quotidien
 
   - Le déploiement
     - [chapitre-1.-trouver-ses-premiers-utilisateurs](gerer-son-produit/deploiement/chapitre-1.-trouver-ses-premiers-utilisateurs)
@@ -286,13 +288,13 @@
 
 ## [Les outils de la communauté](les-outils-de-la-communaute/README.md)
 
-- [Espace membre](les-outils-de-la-communaute/espace-membre/README.md)
+- ⚙️ [Espace membre](les-outils-de-la-communaute/espace-membre/README.md)
 
   - [comment-fonctionne-le-secretariat.md](les-outils-de-la-communaute/espace-membre/comment-fonctionne-le-secretariat.md)
   - [liste-de-diffusion-et-adresses-de-contact.md](les-outils-de-la-communaute/espace-membre/liste-de-diffusion-et-adresses-de-contact.md)
   - [mise-a-jour-de-mes-informations.md](les-outils-de-la-communaute/espace-membre/mise-a-jour-de-mes-informations.md)
 
-- Emails
+- ✉️ Emails
 
   - [configurer-sa-signature-de-mail-beta.gouv.fr.md](les-outils-de-la-communaute/emails/configurer-sa-signature-de-mail-beta.gouv.fr.md)
   - [configurer-un-message-dabsence.md](les-outils-de-la-communaute/emails/configurer-un-message-dabsence.md)
@@ -306,13 +308,13 @@
     - [envoyer-et-recevoir-des-emails-beta.gouv.fr-avec-loffre-ovh-mx-plan.md](les-outils-de-la-communaute/emails/envoyer-et-recevoir-des-mails-beta.gouv.fr/envoyer-et-recevoir-des-emails-beta.gouv.fr-avec-loffre-ovh-mx-plan.md)
   - [recreer-un-compte-email-pour-un-ancien-membre.md](les-outils-de-la-communaute/emails/recreer-un-compte-email-pour-un-ancien-membre.md)
 
-- [Documentation](les-outils-de-la-communaute/documentation/README.md)
+- 📚 [Documentation](les-outils-de-la-communaute/documentation/README.md)
 
   - [comment-contribuer-a-cette-documentation.md](les-outils-de-la-communaute/documentation/comment-contribuer-a-cette-documentation.md)
   - [documentation-provisoire-a-stabilisee.md](les-outils-de-la-communaute/documentation/documentation-provisoire-a-stabilisee.md)
   - [recommandations.md](les-outils-de-la-communaute/documentation/recommandations.md)
 
-- [Mattermost](les-outils-de-la-communaute/mattermost/README.md)
+- 💬 [Mattermost](les-outils-de-la-communaute/mattermost/README.md)
 
   - [acces-a-lespace-de-la-communaute-beta.gouv-sur-mattermost.md](les-outils-de-la-communaute/mattermost/acces-a-lespace-de-la-communaute-beta.gouv-sur-mattermost.md)
   - [canaux-recommandes.md](les-outils-de-la-communaute/mattermost/canaux-recommandes.md)
@@ -331,7 +333,7 @@
   - [jai-perdu-mes-acces-mattermost.md](les-outils-de-la-communaute/mattermost/jai-perdu-mes-acces-mattermost.md)
   - [je-ne-recois-pas-les-messages-pour-reset-mon-mdp-mattermost.md](les-outils-de-la-communaute/mattermost/je-ne-recois-pas-les-messages-pour-reset-mon-mdp-mattermost.md)
 
-- Autres services
+- 📡 Autres services
   - [GitHub](les-outils-de-la-communaute/autres/github.md)
   - [Matomo](les-outils-de-la-communaute/autres/matomo.md)
   - [Sentry](les-outils-de-la-communaute/autres/sentry.md)
@@ -348,25 +350,25 @@
 
 ## [Contribuer à la communaute](contribuer-a-la-communaute/README.md)
 
-- [je-sollicite-de-laide-transverse](contribuer-a-la-communaute/je-sollicite-de-laide-transverse/README.md)
+- ☎️ [je-sollicite-de-laide-transverse](contribuer-a-la-communaute/je-sollicite-de-laide-transverse/README.md)
 
   - [aide-transverse-pole-numerique-inclusif.md](contribuer-a-la-communaute/je-sollicite-de-laide-transverse/aide-transverse-pole-numerique-inclusif.md)
   - [growth-hacking-acquisition.md](contribuer-a-la-communaute/je-sollicite-de-laide-transverse/growth-hacking-acquisition.md)
   - [mise-en-conformite-rgpd-et-conseil-juridique.md](contribuer-a-la-communaute/je-sollicite-de-laide-transverse/mise-en-conformite-rgpd-et-conseil-juridique.md)
 
-- [partager-ses-apprentissages](contribuer-a-la-communaute/partager-ses-apprentissages/README.md)
+- 🎤 [partager-ses-apprentissages](contribuer-a-la-communaute/partager-ses-apprentissages/README.md)
   - [mardi-demo.md](contribuer-a-la-communaute/partager-ses-apprentissages/mardi-demo.md)
   - [retours-dexperience.md](contribuer-a-la-communaute/partager-ses-apprentissages/retours-dexperience.md)
-- partager-des-ressources
-- [proposer-un-nouvel-outil-a-la-communaute.md](contribuer-a-la-communaute/proposer-un-nouvel-outil-a-la-communaute.md)
-- Rituels
+- 🎁 partager-des-ressources
+- 🗣️ [proposer-un-nouvel-outil-a-la-communaute.md](contribuer-a-la-communaute/proposer-un-nouvel-outil-a-la-communaute.md)
+- 👥 Rituels
   - [clubs-de-partage-dexperience.md](contribuer-a-la-communaute/rituels/clubs-de-partage-dexperience.md)
   - [seminaire.md](contribuer-a-la-communaute/rituels/seminaire.md)
-- [sinformer-sur-la-vie-de-la-communaute.md](contribuer-a-la-communaute/sinformer-sur-la-vie-de-la-communaute.md)
+- 📰 [sinformer-sur-la-vie-de-la-communaute.md](contribuer-a-la-communaute/sinformer-sur-la-vie-de-la-communaute.md)
 
 ## [Lancer un service numérique dans mon administration](lancer-un-service-numerique/README.md)
 
-- [lancer-un-service-numerique](lancer-un-service-numerique/je-souhaite-lancer-une-startup-detat/README.md)
+- 🚀 [lancer-un-service-numerique](lancer-un-service-numerique/je-souhaite-lancer-une-startup-detat/README.md)
 
   - [chronologie-dune-appel-a-innovateur/README.md](lancer-un-service-numerique/je-souhaite-lancer-une-startup-detat/chronologie-dune-appel-a-innovateur/README.md)
     - [1.-phase-politique.md](lancer-un-service-numerique/je-souhaite-lancer-une-startup-detat/chronologie-dune-appel-a-innovateur/1.-phase-politique.md)
@@ -381,17 +383,17 @@
   - [conditions-dengagement.md](lancer-un-service-numerique/je-souhaite-lancer-une-startup-detat/conditions-dengagement.md)
   - [embarquer-les-intras-en-investigation.md](lancer-un-service-numerique/je-souhaite-lancer-une-startup-detat/embarquer-les-intras-en-investigation.md)
 
-- [gerer-son-incubateur.md](lancer-un-service-numerique/gerer-son-incubateur.md)
+- 🏛️ [gerer-son-incubateur.md](lancer-un-service-numerique/gerer-son-incubateur.md)
 
 ## Ressources
 
-- Questions fréquentes
+- 🙋🏽‍♂️ Questions fréquentes
   - espace-membre
   - emails
   - mattermost
   - recrutement
   - technique
-- Contributions
+- 💁‍♀️ Contributions
   - [UX/README.md](travailler-chez-beta.gouv.fr/ressources/communaute/UX/README.md)
   - [accessibilite/README.md](travailler-chez-beta.gouv.fr/ressources/communaute/accessibilite/README.md)
     - [formation-a-laccessibilite/README.md](travailler-chez-beta.gouv.fr/ressources/communaute/accessibilite/formation-a-laccessibilite/README.md)
