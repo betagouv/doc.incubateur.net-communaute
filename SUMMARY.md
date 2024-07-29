@@ -6,7 +6,7 @@
 
 - [💡 La genèse](presentation-de-beta.gouv.fr/histoire-de-beta.gouv.fr/README.md)
   - [references-bibliographiques.md](presentation-de-beta.gouv.fr/histoire-de-beta.gouv.fr/references-bibliographiques.md)
-- ✊ [Les valeurs](presentation-de-beta.gouv.fr/valeurs.md)
+- 📜 [Les valeurs](presentation-de-beta.gouv.fr/valeurs.md)
 - [🧪 L'incubateur de la DINUM](presentation-de-beta.gouv.fr/incubateur-de-la-dinum)
 
   - [lequipe-danimation-beta.gouv.fr.md](presentation-de-beta.gouv.fr/incubateur-de-la-dinum/lequipe-danimation-beta.gouv.fr.md)
