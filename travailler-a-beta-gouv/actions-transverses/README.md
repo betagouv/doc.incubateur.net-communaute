@@ -107,6 +107,6 @@ Et si tu n'as que quelques minutes ou du temps uniquement ponctuel, voilà quelq
 
 ## Parler de beta.gouv à l'extérieur
 
-{% content-ref url="guide-pour-les-candidat-e-s/presenter-de-beta.gouv.fr.md" %}
-[presenter-de-beta.gouv.fr.md](guide-pour-les-candidat-e-s/presenter-de-beta.gouv.fr.md)
+{% content-ref url="presenter-de-beta.gouv.fr.md" %}
+[presenter-de-beta.gouv.fr.md](presenter-de-beta.gouv.fr.md)
 {% endcontent-ref %}

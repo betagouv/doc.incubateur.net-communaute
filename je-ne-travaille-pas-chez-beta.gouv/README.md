@@ -38,8 +38,8 @@ Utiliser la barre de recherche, en haut à droite de l'écran **"Rechercher"**
 [gerer-son-incubateur.md](../decouvrir-les-guides-des-autres-incubateurs/gerer-son-incubateur.md)
 {% endcontent-ref %}
 
-{% content-ref url="organiser-une-formation-alpha.md" %}
-[organiser-une-formation-alpha.md](organiser-une-formation-alpha.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ## 4. Je suis journaliste
