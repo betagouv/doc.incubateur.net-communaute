@@ -2,19 +2,19 @@
 
 * [👋 Bienvenue sur le guide de la communauté beta.gouv.fr](README.md)
 
-## Présentation de beta.gouv.fr
+## Découvrir beta.gouv.fr
 
-* [💡 La genèse](presentation-de-beta.gouv.fr/histoire-de-beta.gouv.fr/README.md)
-  * [references-bibliographiques.md](presentation-de-beta.gouv.fr/histoire-de-beta.gouv.fr/references-bibliographiques.md)
-* [Les valeurs](presentation-de-beta.gouv.fr/valeurs.md)
-* [🧪 L'incubateur de la DINUM](presentation-de-beta.gouv.fr/incubateur-de-la-dinum/README.md)
-  * [lequipe-danimation-beta.gouv.fr.md](presentation-de-beta.gouv.fr/incubateur-de-la-dinum/lequipe-danimation-beta.gouv.fr.md)
-* [🇫🇷 Services à impact national](presentation-de-beta.gouv.fr/services-numeriques-a-impact-national.md)
-* [⚛️ Les incubateurs du réseau beta.gouv.fr](presentation-de-beta.gouv.fr/les-incubateurs-du-reseau-beta.gouv.fr.md)
-* [🤗 La communauté \[todo\]](presentation-de-beta.gouv.fr/la-communaute-todo/README.md)
-  * [\[TODO\]: présentation de la commu en chiffres et liens vers les autres pages ? metabase ?](presentation-de-beta.gouv.fr/la-communaute-todo/todo-presentation-de-la-commu-en-chiffres-et-liens-vers-les-autres-pages-metabase.md)
-  * [10% communauté](presentation-de-beta.gouv.fr/la-communaute-todo/10-communaute.md)
-  * [mettre en avant des membres ?](presentation-de-beta.gouv.fr/la-communaute-todo/mettre-en-avant-des-membres.md)
+* [💡 L'histoire de beta.gouv.fr](decouvrir-beta.gouv.fr/histoire-de-beta.gouv.fr/README.md)
+  * [Références bibliographiques](decouvrir-beta.gouv.fr/histoire-de-beta.gouv.fr/references-bibliographiques.md)
+* [Les valeurs](decouvrir-beta.gouv.fr/valeurs.md)
+* [🧪 L'incubateur de la DINUM](decouvrir-beta.gouv.fr/incubateur-de-la-dinum/README.md)
+  * [lequipe-danimation-beta.gouv.fr.md](decouvrir-beta.gouv.fr/incubateur-de-la-dinum/lequipe-danimation-beta.gouv.fr.md)
+* [🇫🇷 Services à impact national](decouvrir-beta.gouv.fr/services-numeriques-a-impact-national.md)
+* [⚛️ Les incubateurs du réseau beta.gouv.fr](decouvrir-beta.gouv.fr/les-incubateurs-du-reseau-beta.gouv.fr.md)
+* [🤗 La communauté \[todo\]](decouvrir-beta.gouv.fr/la-communaute-todo/README.md)
+  * [\[TODO\]: présentation de la commu en chiffres et liens vers les autres pages ? metabase ?](decouvrir-beta.gouv.fr/la-communaute-todo/todo-presentation-de-la-commu-en-chiffres-et-liens-vers-les-autres-pages-metabase.md)
+  * [10% communauté](decouvrir-beta.gouv.fr/la-communaute-todo/10-communaute.md)
+  * [mettre en avant des membres ?](decouvrir-beta.gouv.fr/la-communaute-todo/mettre-en-avant-des-membres.md)
 
 ## Travailler chez beta.gouv.fr
 
@@ -100,7 +100,7 @@
     * [3.-pilotage-du-cout-dun-produit-numerique-et-contraintes-liees-a-la-comptabilite-publique.md](gerer-son-produit/approche-produit/guide-de-financement-des-startups-detat/3.-pilotage-du-cout-dun-produit-numerique-et-contraintes-liees-a-la-comptabilite-publique.md)
     * [4.-lenjeu-du-pilotage-par-limpact.md](gerer-son-produit/approche-produit/guide-de-financement-des-startups-detat/4.-lenjeu-du-pilotage-par-limpact.md)
   * [gerer-sa-fiche-produit.md](gerer-son-produit/approche-produit/je-gere-mon-produit-et-son-impact/gerer-sa-fiche-produit.md)
-  * [references-bibliographiques.md](presentation-de-beta.gouv.fr/histoire-de-beta.gouv.fr/references-bibliographiques.md)
+  * [references-bibliographiques.md](decouvrir-beta.gouv.fr/histoire-de-beta.gouv.fr/references-bibliographiques.md)
 * [✅ Les standards](gerer-son-produit/les-standards/README.md)
   * [Système de design DSFR](gerer-son-produit/standards/dsfr/README.md)
     * [faire-un-service-accessible-avec-le-dsfr.md](gerer-son-produit/standards/dsfr/faire-un-service-accessible-avec-le-dsfr.md)

@@ -42,14 +42,14 @@ L'incubateur de la DINUM se situe au 5e étage du bâtiment des services du Prem
 [lequipe-danimation-beta.gouv.fr.md](lequipe-danimation-beta.gouv.fr.md)
 {% endcontent-ref %}
 
-{% content-ref url="locaux.md" %}
-[locaux.md](locaux.md)
+{% content-ref url="../../presentation-de-beta.gouv.fr/incubateur-de-la-dinum/locaux.md" %}
+[locaux.md](../../presentation-de-beta.gouv.fr/incubateur-de-la-dinum/locaux.md)
 {% endcontent-ref %}
 
-{% content-ref url="midi-et-soir/" %}
-[midi-et-soir](midi-et-soir/)
+{% content-ref url="../../presentation-de-beta.gouv.fr/incubateur-de-la-dinum/midi-et-soir/" %}
+[midi-et-soir](../../presentation-de-beta.gouv.fr/incubateur-de-la-dinum/midi-et-soir/)
 {% endcontent-ref %}
 
-{% content-ref url="conge-maternite/" %}
-[conge-maternite](conge-maternite/)
+{% content-ref url="../../presentation-de-beta.gouv.fr/incubateur-de-la-dinum/conge-maternite/" %}
+[conge-maternite](../../presentation-de-beta.gouv.fr/incubateur-de-la-dinum/conge-maternite/)
 {% endcontent-ref %}
