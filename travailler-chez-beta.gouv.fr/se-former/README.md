@@ -2,15 +2,15 @@
 description: Comment se former chez beta.gouv ?
 ---
 
-# 🎓 Se former et évoluer
+# Se former
 
 Au sein de la communauté, nous essayons de permettre à toutes et tous de se former et/ou de former ses collègues.
 
 Nous ne disposons pas d'une "stratégie" de formation. Néanmoins nous avons initié certaines actions :
 
-* des formations en ligne : &#x20;
+* des formations en ligne :
   * Le MOOC de la [formation Alpha](https://beta.gouv.fr/alpha/mooc)
-  * [Les replays des formations ](https://www.youtube.com/playlist?list=PL1x4mOvpkEHopyiZHZdqXO8ageS6BYSu8)
+  * [Les replays des formations](https://www.youtube.com/playlist?list=PL1x4mOvpkEHopyiZHZdqXO8ageS6BYSu8)
 * [des formations récurrentes](les-formations-a-venir/)
 * des [groupes de partage d'expérience](clubs-de-partage-dexperience.md) sous forme de co-développement professionnels.
 * une [certification pour les intrapreneurs](certification-des-intrapreneurs/).
@@ -27,7 +27,7 @@ Certaines formations ponctuelles sont référencées dans les sections suivantes
 [les-formations-passees.md](les-formations-a-venir/les-formations-passees.md)
 {% endcontent-ref %}
 
-Retrouvez aussi les autres sections qui concernent la rubrique "Se former et évoluer" :&#x20;
+Retrouvez aussi les autres sections qui concernent la rubrique "Se former et évoluer" :
 
 {% content-ref url="clubs-de-partage-dexperience.md" %}
 [clubs-de-partage-dexperience.md](clubs-de-partage-dexperience.md)

@@ -4,7 +4,7 @@ description: >-
   ce que l'on connaît aujourd'hui.
 ---
 
-# Histoire de beta.gouv.fr
+# 💡 La genèse
 
 ## La genèse : data.gouv.fr (2013 - 2015)
 
@@ -18,7 +18,7 @@ Dans la foulée de data.gouv.fr, d'autres équipes sont constituées pour s'atta
 
 ## L'incubateur de services numériques de la DINSIC et les premiers incubateurs de Startups d'État (2015 - 2019)
 
-L'**incubateur des services numériques**, mission de la Direction interministérielle du numérique, des systèmes d'information et de communication (DINSIC), est officiellement né en 2015. Il a pour objectif de regrouper les Startups d'État et d'animer sa communauté. Le site [beta.gouv.fr](broken-reference) est alors lancé.
+L'**incubateur des services numériques**, mission de la Direction interministérielle du numérique, des systèmes d'information et de communication (DINSIC), est officiellement né en 2015. Il a pour objectif de regrouper les Startups d'État et d'animer sa communauté. Le site [beta.gouv.fr](broken-reference/) est alors lancé.
 
 Quelques mois auparavant, Pôle emploi lance son premier **appel à intrapreneurs**. Deux agents Pôle emploi présentent devant la direction générale des idées de solutions numériques en soutien en demandeurs d'emploi. Quelques mois plus tard, naissent [La Bonne Boîte](https://labonneboite.pole-emploi.fr) et [La Bonne Formation](https://labonneformation.pole-emploi.fr), au sein de la nouvellement créée **Fabrique Pôle emploi**.
 
@@ -32,13 +32,13 @@ Depuis 2019, grâce au [**Fonds d'accélération des Startups d'Etat**](https://
 
 ### beta.gouv.fr au cœur de la nouvelle stratégie numérique de l'État
 
-À partir de 2023, le programme beta.gouv.fr continue à monter en puissance et est piloté par l'incubateur de services numériques de la DINUM dans le cadre d'une [**nouvelle stratégie du numérique de l'État**](https://www.numerique.gouv.fr/actualites/feuille-de-route-de-la-dinum-une-strategie-numerique-au-service-de-lefficacite-de-laction-publique/).&#x20;
+À partir de 2023, le programme beta.gouv.fr continue à monter en puissance et est piloté par l'incubateur de services numériques de la DINUM dans le cadre d'une [**nouvelle stratégie du numérique de l'État**](https://www.numerique.gouv.fr/actualites/feuille-de-route-de-la-dinum-une-strategie-numerique-au-service-de-lefficacite-de-laction-publique/).
 
-Un webinaire de présentation de cette nouvelle stratégie a eu lieu le 2 octobre 2023 : le replay est disponible [**ici**](https://bbb-dinum-scalelite.visio.education.fr/playback/presentation/2.3/a08711a719bbf6bc9ae9f56e2881c2b389889433-1696238861552) (cela dure une vingtaine de minutes).&#x20;
+Un webinaire de présentation de cette nouvelle stratégie a eu lieu le 2 octobre 2023 : le replay est disponible [**ici**](https://bbb-dinum-scalelite.visio.education.fr/playback/presentation/2.3/a08711a719bbf6bc9ae9f56e2881c2b389889433-1696238861552) (cela dure une vingtaine de minutes).
 
 {% embed url="https://docs.google.com/presentation/d/1kjQaORnJLpWwK0iMllT8BvkUTOKvDN_5fXzbiE_XVXU/edit#slide=id.g21344f99820_1_74" %}
 
-_Pour en savoir plus sur beta.gouv.fr, vous pouvez également consulter quelques références bibliographiques qui évoquent  notre action._
+_Pour en savoir plus sur beta.gouv.fr, vous pouvez également consulter quelques références bibliographiques qui évoquent notre action._
 
 {% content-ref url="references-bibliographiques.md" %}
 [references-bibliographiques.md](references-bibliographiques.md)

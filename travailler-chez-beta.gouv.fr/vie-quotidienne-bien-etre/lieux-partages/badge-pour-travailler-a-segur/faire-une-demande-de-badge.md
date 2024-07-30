@@ -5,11 +5,9 @@ description: >-
   permanent d’accès.
 ---
 
-# 📇 Faire une demande de badge
+# faire-une-demande-de-badge.md
 
 {% hint style="info" %}
-
-
 1. **Éligibilité :** Ce processus s'applique uniquement si tu prévois d'être présent(e) dans nos locaux au moins deux jours par semaine.
 2. **Politique de Fréquence :** Les demandes de badge pour une fréquence inférieure à deux jours par semaine seront refusées. De plus, sois conscient(e) que les services de la DINUM désactivent automatiquement les badges qui ne sont pas utilisés régulièrement.
 3. **Accès Occasionnel :** Si tu prévois de venir moins de deux fois par semaine, consulte la dernière partie de cette documentation pour connaître la procédure relative aux accès ponctuels : [#que-faire-tant-que-je-nai-pas-de-badge](faire-une-demande-de-badge.md#que-faire-tant-que-je-nai-pas-de-badge "mention")
@@ -32,7 +30,7 @@ Les demandes de badge pour des fréquences de passage de moins de 2 jours par se
 * Connecte toi sur [ton espace membre](https://espace-membre.incubateur.net/)
 * Remplis le formulaire dans la partie "Badge"
 
-<figure><img src="../../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image%20(23).png" alt=""><figcaption></figcaption></figure>
 
 * Tu recevras des mails concernant la prise en charge de ta demande
 
@@ -45,7 +43,7 @@ Tu peux te rapprocher de l'Equipe Communauté (communaute@beta.gouv.fr) en cas d
 
 ## ✨ Que faire tant que je n'ai pas de badge ?
 
-Sur [le canal mattermost Bureaux-Ségur](https://mattermost.incubateur.net/betagouv/channels/bureaux-segur), tu peux demander à un membre de la communauté de transmettre un mail à l'accueil de Ségur afin que l'on te laisse monter tous les matins sans avoir à appeler quelqu'un.&#x20;
+Sur [le canal mattermost Bureaux-Ségur](https://mattermost.incubateur.net/betagouv/channels/bureaux-segur), tu peux demander à un membre de la communauté de transmettre un mail à l'accueil de Ségur afin que l'on te laisse monter tous les matins sans avoir à appeler quelqu'un.
 
 Exemple de mail :
 

@@ -1,6 +1,4 @@
-# 🐥 Après le congé maternité
-
-
+# apres-le-conge-maternite.md
 
 ### Est-il possible de bénéficier de la crèche du bâtiment SEGUR ?
 
@@ -24,7 +22,7 @@
 #### Côté pratique si vous voulez tirer votre lait
 
 * Demandez une ordonnance de tire-lait double à votre pro de santé. La première ordonnance est de 10 semaines, puis il faut un renouvellement tous les 3 mois.
-* Louez un bon tire-lait auprès d'une société spécialisée ou auprès d'un pharmacien renseigné. Quelques bons modèles pour une reprise :&#x20;
+* Louez un bon tire-lait auprès d'une société spécialisée ou auprès d'un pharmacien renseigné. Quelques bons modèles pour une reprise :
   * Spectra S1
   * Seinbiose moon
   * Mamivac Sensitive
@@ -38,7 +36,7 @@
 
 * La salle d'allaitement est au rez-de-chaussée en 0.521, les parois sont opacifiées pour que l'on ne voie pas à l'intérieur de la pièce depuis l'extérieur. Cette salle est partagée avec la cellule de médiation qui a des permanences dans cette pièce tous les lundis matin.
 * (à vérifier : contenu de cette salle)
-* Pour stocker le lait au frigo, plusieurs possibilités :&#x20;
+* Pour stocker le lait au frigo, plusieurs possibilités :
   * salle de restauration collective au sous-sol avec deux grands frigos qui sont vidés et nettoyés tous les vendredis. => N'oubliez pas votre lait dedans, ce serait triste.
   * au 5e étage, il y a des frigos en 5.525 et (à vérifier) en 5.513
 

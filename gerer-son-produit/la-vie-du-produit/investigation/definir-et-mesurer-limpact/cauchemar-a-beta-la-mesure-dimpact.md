@@ -1,4 +1,4 @@
-# 👊 L'atelier de mesure d'impact
+# cauchemar-a-beta-la-mesure-dimpact.md
 
 ## #Acte 2 : "60 minutes pour faire un pas de plus vers des métriques utiles et utilisables"
 
@@ -45,10 +45,6 @@ Dans la logique d'un atelier de co-développement, l'équipe de la SE sera "le c
 ## #Acte 1 Témoignage d'un intra, d'une designer et d'un coach sur leur pire souvenir avec les indicateurs d'impact
 
 _Le support de présentation :_
-
-{% file src="../../../.gitbook/assets/cafe-design-mesure-dimpact-1-.pdf" %}
-Support de présentation
-{% endfile %}
 
 A tour de rôle pendant 7 minutes chacun, Marine, Damien et Léry allons te raconter notre retour d'expérience avec les mesures d'impact au sein des SE dans lesquels nous avons bossé.
 

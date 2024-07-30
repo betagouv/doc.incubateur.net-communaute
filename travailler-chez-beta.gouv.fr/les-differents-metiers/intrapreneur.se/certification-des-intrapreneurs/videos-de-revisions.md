@@ -4,7 +4,7 @@ description: >-
   l'organisme en charge de cette certification.
 ---
 
-# 📺 Vidéos de révisions
+# videos-de-revisions.md
 
 {% embed url="https://vimeo.com/320507167/c8854a45a8" %}
 

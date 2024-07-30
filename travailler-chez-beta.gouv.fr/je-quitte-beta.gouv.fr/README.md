@@ -2,7 +2,7 @@
 description: Tu nous quittes ? On espère que tu as passé un moment positif avec nous !
 ---
 
-# 🙋 Quitter beta.gouv
+# Je quitte beta.gouv.fr
 
 ##
 

@@ -5,7 +5,7 @@ description: >-
   d'accélération.
 ---
 
-# ✅ La checklist de la phase d'accélération
+# la-checklist-de-la-phase-dacceleration.md
 
 {% hint style="info" %}
 Ce document est en cours d'élaboration. Il résulte notamment d'ateliers ouverts à l'ensemble de la communauté. Pour toute question, remarque, ou contre-proposition, n'hésite pas à poster dans le canal `~startup-produit-beta`
@@ -13,7 +13,7 @@ Ce document est en cours d'élaboration. Il résulte notamment d'ateliers ouvert
 
 ## Déroulé de la phase d'accélération
 
-Nous suggérons aux équipes de penser la phase d'accélération comme une alternance entre 2 temps :&#x20;
+Nous suggérons aux équipes de penser la phase d'accélération comme une alternance entre 2 temps :
 
 * :woman\_running:des **sprints d'acquisition** durant lesquels l'objectif de l'équipe est de **faire croitre le nombre d'utilisateurs du service et de se déployer largement** (\~80% du temps de l'accélération)
 * :bricks: des **temps de consolidation** durant lesquels l'équipe prend le temps de se poser pour réfléchir à son organisation, de consolider les développements parfois réalisés très rapidement pendant l'acquisition, et d'améliorer l'accessibilité et la sécurité du produit à mesure que la base d'utilisateurs augmente
@@ -32,8 +32,8 @@ _L'objectif premier de la phase d'accélération est d'étendre le service numé
 
 {% tabs %}
 {% tab title="Les standards ☝️" %}
-* [ ] Je cartographie les potentiels utilisateurs futurs et j’organise le démarchage&#x20;
-* [ ] Je me fais accompagner par le programme GAMMA&#x20;
+* [ ] Je cartographie les potentiels utilisateurs futurs et j’organise le démarchage
+* [ ] Je me fais accompagner par le programme GAMMA
 * [ ] Mon service a une landing page (page d’accueil)
 {% endtab %}
 
@@ -49,7 +49,7 @@ _La transparence est une valeur cruciale qui permet de construire des produits d
 {% tabs %}
 {% tab title="Les standards ☝️" %}
 * [ ] J’automatise la mesure de mon impact dans ma page /stats
-* [ ] Je tiens à jour ma fiche startup sur le site de beta.gouv.fr &#x20;
+* [ ] Je tiens à jour ma fiche startup sur le site de beta.gouv.fr
 * [ ] Je communique publiquement sur le budget de l’équipe
 * [ ] Je suis les indicateurs de qualité de mon produit sur [Dashlord](https://dashlord.incubateur.net)
 {% endtab %}
@@ -66,7 +66,7 @@ _La transparence est une valeur cruciale qui permet de construire des produits d
 * [ ] Je me fais accompagner sur les sujets qui nécessitent une expertise particulière (sécurité, accessibilité, juridique, etc.)
 * [ ] J’ai défini un processus de priorisation des développements futurs dans le backlog
 * [ ] J’organise l’équipe et mes rituels pour supporter ma croissance
-* [ ] Je réfléchis à la pérennisation du financement de ma SE&#x20;
+* [ ] Je réfléchis à la pérennisation du financement de ma SE
 {% endtab %}
 
 {% tab title="Les bonnes pratiques 👌" %}
@@ -81,7 +81,7 @@ _Rester à l'écoute des utilisateurs du service est essentiel pour continuer à
 
 {% tabs %}
 {% tab title="Les standards ☝️" %}
-* [ ] J’assure des démos / présentations régulières du service&#x20;
+* [ ] J’assure des démos / présentations régulières du service
 * [ ] Je mesure l’expérience utilisateur sur mon service via des questionnaires standardisés de satisfaction
 {% endtab %}
 {% endtabs %}
@@ -104,7 +104,7 @@ Il est normal de "casser" des choses construite par le passé pendant la phase d
 
 ## Accessibilité
 
-L'accessibilité devient un vrai sujet pour les services en phase d'accélération — un nombre non-négligeable de vos utilisateurs nouvellement acquis seront touché par un ou plusieurs handicaps et il est impératif de les prendre en compte !&#x20;
+L'accessibilité devient un vrai sujet pour les services en phase d'accélération — un nombre non-négligeable de vos utilisateurs nouvellement acquis seront touché par un ou plusieurs handicaps et il est impératif de les prendre en compte !
 
 {% tabs %}
 {% tab title="Les standards ☝️" %}
@@ -125,7 +125,7 @@ _Au fur et à mesure que votre base utilisateur grandit, il devient impératif d
 {% tabs %}
 {% tab title="Les standards ☝️" %}
 * [ ] J'ai identifié le Responsable de la sécurité des systèmes d'information (RSSI) dans mon administration
-* [ ] \[Si AIPD] Je finalise l'analyse et sa validation avec le responsable de traitement.&#x20;
+* [ ] \[Si AIPD] Je finalise l'analyse et sa validation avec le responsable de traitement.
 * [ ] J’ai réalisé un atelier d’analyse de risques agile en équipe
 * [ ] Je partage le dossier avec le RSSI de mon administration, prends en compte ses retours et me renseigne sur l'autorité d'homologation.
 {% endtab %}

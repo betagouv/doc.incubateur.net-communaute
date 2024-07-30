@@ -4,7 +4,7 @@ description: >-
   d'où est animé le programme beta.gouv.fr
 ---
 
-# Accueil dans les locaux de la DINUM à Ségur
+# locaux.md
 
 L'appartenance à la communauté beta.gouv.fr te donne la possibilité de venir travailler **individuellement** dans les locaux du 20 Avenue de Ségur au à Paris, en plus de tes espaces de travail habituels (ton espace de coworking, ton administration, chez toi…).
 
@@ -46,15 +46,15 @@ Il est préférable d'avoir le numéro de téléphone du contact pour le ou la j
 
 Si tu souhaites venir travailler régulièrement à l'Incubateur dans les open spaces, il te faut obtenir un badge permanent. Attention, **il est impératif de venir au moins 2 jours par semaine** pour en bénéficier.
 
-{% content-ref url="badge-pour-travailler-a-segur/" %}
-[badge-pour-travailler-a-segur](badge-pour-travailler-a-segur/)
+{% content-ref url="badge-pour-travailler-a-segur/README (1).md" %}
+[README (1).md](<badge-pour-travailler-a-segur/README (1).md>)
 {% endcontent-ref %}
 
 ### Organiser une réunion à Ségur
 
 :warning: Attention ! L'équipe de l'Incubateur ayant bien grandi depuis les débuts de beta.gouv.fr, et pour des questions de place, **il n'est plus possible d'utiliser les salles de réunion situées à proximité des open spaces du 5e pour organiser des réunions d'équipe**, dans le cas où vous êtes une équipe de Startup incubée en-dehors de l'Incubateur de la DINUM. Par ailleurs, **pour des raisons de sécurité**, le bâtiment de Ségur étant en vigilance renforcée, il nous est demandé de limiter le nombre de visiteurs "autonomes".
 
-Lorsque vous souhaitez organiser une réunion, un atelier ou un de séminaire d'équipe en présentiel, voici les différentes options qui s'offrent à vous :&#x20;
+Lorsque vous souhaitez organiser une réunion, un atelier ou un de séminaire d'équipe en présentiel, voici les différentes options qui s'offrent à vous :
 
 * en priorité, utilisez les locaux mis à disposition par votre Incubateur, cela vous permettra notamment de rencontrer les autres Startups de votre Ministère
 * nous avons également recensés une liste d'endroits où travailler en équipe, à Paris ou ailleurs en France, voir [ou-travailler.md](ou-travailler.md "mention")

@@ -1,4 +1,4 @@
-# 👯♂ Chapitre 2. Valider sa proposition de valeur et développer sa stratégie de déploiement
+# chapitre-2.-valider-sa-proposition-de-valeur-et-developper-sa-strategie-de-deploiement
 
 ![](https://lh3.googleusercontent.com/BDIe0d-AFKqE8y7x641DCN8pC3J-wL9m0LyIySJVKRUoxZAk069VRUNiSQn4ctK2fXARbYTZkTXZzqG1r7Y\_bAEokT57XBXhCv7ziQ7l8Vp7kOWJWUaryFnXBC8sw6dTiKNr0-jr)
 

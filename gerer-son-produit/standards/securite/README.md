@@ -1,12 +1,21 @@
-# Foire aux questions sur la mise en conformité des services numériques
+# Sécurité et protection des données
 
-{% page-ref page="responsabilite-de-traitement/" %}
+{% content-ref url="responsabilite-de-traitement/README (1).md" %}
+[README (1).md](<responsabilite-de-traitement/README (1).md>)
+{% endcontent-ref %}
 
-{% page-ref page="analyse-dimpact-relative-a-la-protection-des-donnees-aipd.md" %}
+{% content-ref url="analyse-dimpact-relative-a-la-protection-des-donnees-aipd.md" %}
+[analyse-dimpact-relative-a-la-protection-des-donnees-aipd.md](analyse-dimpact-relative-a-la-protection-des-donnees-aipd.md)
+{% endcontent-ref %}
 
-{% page-ref page="echanges-de-fichiers-de-donnees-personnelles.md" %}
+{% content-ref url="echanges-de-fichiers-de-donnees-personnelles.md" %}
+[echanges-de-fichiers-de-donnees-personnelles.md](echanges-de-fichiers-de-donnees-personnelles.md)
+{% endcontent-ref %}
 
-{% page-ref page="information-et-consentement-des-usagers.md" %}
+{% content-ref url="information-et-consentement-des-usagers.md" %}
+[information-et-consentement-des-usagers.md](information-et-consentement-des-usagers.md)
+{% endcontent-ref %}
 
-{% page-ref page="securite-and-homologation.md" %}
-
+{% content-ref url="securite-and-homologation.md" %}
+[securite-and-homologation.md](securite-and-homologation.md)
+{% endcontent-ref %}

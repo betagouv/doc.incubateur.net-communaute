@@ -4,11 +4,7 @@ description: >-
   et de Territoires.
 ---
 
-# 🎖 Certification des intrapreneur·se·s
-
-{% file src="../../../.gitbook/assets/Méthodologies d’entrepreneuriat appliquées aux projets numériques - Compétences attestées.pdf" %}
-Fiche récapitulative de la certification
-{% endfile %}
+# certification-des-intrapreneurs
 
 {% content-ref url="pourquoi-une-certification-des-competences-des-intras.md" %}
 [pourquoi-une-certification-des-competences-des-intras.md](pourquoi-une-certification-des-competences-des-intras.md)
@@ -17,8 +13,6 @@ Fiche récapitulative de la certification
 {% content-ref url="cest-quoi-une-certification-de-competences.md" %}
 [cest-quoi-une-certification-de-competences.md](cest-quoi-une-certification-de-competences.md)
 {% endcontent-ref %}
-
-
 
 {% hint style="info" %}
 La certification des intras est proposée 2 fois dans l'année.\
@@ -33,7 +27,7 @@ Le déroulé de cette certification pour les intras vise à évaluer ces 8 comp�
 * Investigation du problème que ta Startup cherche à résoudre
 * Conception/Priorisation
 * Prototypage
-* Test&#x20;
+* Test
 * Déploiement
 * Financement
 * Mettre en place et maintenir une cohésion d’équipe

@@ -1,4 +1,4 @@
-# 🏢 Les métiers Sales & Marketing dans le privé
+# les-metiers-sales-and-marketing-dans-le-prive.md
 
 En se référant aux startups privées, il existe au moins 9 métiers qui s’apparentent au déploiement ce qui illustre bien la polyvalence de la mission !
 
@@ -8,7 +8,7 @@ En se référant aux startups privées, il existe au moins 9 métiers qui s’ap
 
 {% embed url="https://youtu.be/6ScoOBIki9A" %}
 
-[**Slides disponibles ici** ](https://docs.google.com/presentation/d/1C7plE4uDKzLWeIdoF82zvFtaua0uAnB1xtQmstwnAc8/edit?usp=sharing)
+[**Slides disponibles ici**](https://docs.google.com/presentation/d/1C7plE4uDKzLWeIdoF82zvFtaua0uAnB1xtQmstwnAc8/edit?usp=sharing)
 
 ## **Vendre un produit gratuit**
 

@@ -1,4 +1,4 @@
-# 🌱 Phase 1 : Trouver ses premiers utilisateurs et valider la proposition de valeur
+# phase-1-trouver-ses-premiers-utilisateurs-et-valider-la-proposition-de-valeur.md
 
 Préambule : Au début, rien n’est carré.
 

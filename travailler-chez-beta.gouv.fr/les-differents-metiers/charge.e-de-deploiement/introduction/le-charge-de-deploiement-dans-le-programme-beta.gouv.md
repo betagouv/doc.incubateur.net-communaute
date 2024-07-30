@@ -1,15 +1,11 @@
-# 📈 Chargé et chargée de déploiement
-
-
+# le-charge-de-deploiement-dans-le-programme-beta.gouv.md
 
 {% hint style="info" %}
 Dans les startups privées, ce sont les commerciaux, business developers ou ingénieurs d'affaires. Chez beta.gouv.fr, on les appelle les chargé·e·s de déploiement. Dans les deux cas, il s'agit de **trouver des utilisateurs** pour son service numérique ; dans le privé, le but est souvent de maximiser le revenu de l'entreprise, alors que dans le public, l'objectif est de **maximiser l'impact** (social, environnemental, etc) du service numérique.\
 Selon les équipes, les chargés de déploiement peuvent également assurer des missions de **support utilisateur** (_customer success_ dans le privé).
 {% endhint %}
 
-
-
-<figure><img src="../../../../../.gitbook/assets/Screenshot 2024-01-31 101742.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot 2024-01-31 101742.png" alt=""><figcaption></figcaption></figure>
 
 Les produits chez beta sont construits de manière la plus frugale possible. En phase de construction les équipes sont constituées de 4-5 personnes avec souvent d’un·e seul·e chargé·e de déploiement qui doit assurer plusieurs rôles au sein de l’équipe.
 
@@ -17,7 +13,7 @@ Selon la taille et le stade d’avancement de la startup, les chargé·e·s de d
 
 #### Axes de mission des chargé(e)s de déploiement
 
-Les **différents axes de mission** des chargé(e)s de déploiement :&#x20;
+Les **différents axes de mission** des chargé(e)s de déploiement :
 
 * Acquisition de nouveaux utilisateurs (B2B/B2C/B2B2C)
 * Relation et support utilisateurs
@@ -26,13 +22,13 @@ Les **différents axes de mission** des chargé(e)s de déploiement :&#x20;
 * Rédaction de contenus
 * Marketing relationnel et growth hacking
 
-**De là se dégagent deux casquettes que l’on retrouve souvent chez les chargés ou chargées de déploiement de** [**beta.gouv.fr**](http://beta.gouv.fr) **: le/la développeur / développeuse commercial(e) et le/la chargé/chargée de relation clientèle.**&#x20;
+**De là se dégagent deux casquettes que l’on retrouve souvent chez les chargés ou chargées de déploiement de** [**beta.gouv.fr**](http://beta.gouv.fr) **: le/la développeur / développeuse commercial(e) et le/la chargé/chargée de relation clientèle.**
 
 ### 1. Le/la développeur / développeuse commercial.e
 
 <div align="left">
 
-<figure><img src="../../../../../.gitbook/assets/Sales (1).png" alt="" width="250"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Sales (1).png" alt="" width="250"><figcaption></figcaption></figure>
 
 </div>
 
@@ -57,7 +53,7 @@ _Actions principales_
 
 <div align="left">
 
-<img src="../../../../../.gitbook/assets/Customer Success  (1).png" alt="" width="250">
+<img src="../../../../.gitbook/assets/Customer Success  (1).png" alt="" width="250">
 
 </div>
 
@@ -78,15 +74,13 @@ _Actions principales_
 * Accompagnement des utilisateurs dans la découverte et l'embarquement dans le produit/ service et tout au long de l’utilisation du produit ;
 * Gestion des réclamations et remontée des retours utilisateurs.
 
-
-
 <mark style="background-color:purple;">**Versatile, le/la chargé.e de déploiement peut aussi revêtir d’autres formes tel que Key Account Manager, Growth Hacker ou encore Community Manager.**</mark>
 
 ### **Community Builder / Manager**
 
 <div align="left">
 
-<figure><img src="../../../../../.gitbook/assets/Animation de la communautéSuccess .png" alt="" width="250"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Animation de la communautéSuccess .png" alt="" width="250"><figcaption></figcaption></figure>
 
 </div>
 
@@ -105,7 +99,7 @@ _Actions_ :
 
 <div align="left">
 
-<figure><img src="../../../../../.gitbook/assets/Expertise croissance Success .png" alt="" width="250"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Expertise croissance Success .png" alt="" width="250"><figcaption></figcaption></figure>
 
 </div>
 
@@ -124,7 +118,7 @@ _Actions :_
 
 <div align="left">
 
-<figure><img src="../../../../../.gitbook/assets/Gestion des grands comptes.png" alt="" width="250"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Gestion des grands comptes.png" alt="" width="250"><figcaption></figcaption></figure>
 
 </div>
 
@@ -138,4 +132,3 @@ _Actions :_
 * Mener des négociations commerciales en collaboration avec les équipes techniques
 * Détecter les opportunités de développement et les saisir de manière rapide et pragmatique
 * Effectuer des bilans d’actions en réalisant des reporting d’activités commerciales à ses équipes et proposer des plans d’actions concrets
-

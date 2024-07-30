@@ -4,7 +4,7 @@ description: >-
   comment proposer une formation.
 ---
 
-# 🧑🎓 Les formations
+# les-formations-a-venir/README.md
 
 ## ⏭️ Les formations à venir
 
@@ -15,8 +15,6 @@ Depuis cette vue, tu pourras t'inscrire aux formations auxquelles tu souhaites a
 
 ### 👉 [S'inscrire à une formation](https://airtable.com/shr5Uaqje8eV9BabU)
 
-&#x20;
-
 ## 🧑‍🏫 Je souhaite animer une formation
 
 Il te suffit de remplir ce formulaire et de suivre les recommandations pour l'organisation des sessions. Il est aussi recommandé de contacter l'équipe d'animation de la communauté via Mattermost [\~incubateur-formations](https://mattermost.incubateur.net/betagouv/channels/incubateur-formations) ou mail à communaute@beta.gouv.fr.
@@ -25,7 +23,7 @@ Il te suffit de remplir ce formulaire et de suivre les recommandations pour l'or
 
 La vue optimisée, c'est par ici "[Je propose une formation](https://airtable.com/shr3sH68gDOjFaLT7)".
 
-Pour plus d'informations concernant l'animation de formations à Beta, c'est ici :&#x20;
+Pour plus d'informations concernant l'animation de formations à Beta, c'est ici :
 
 {% content-ref url="animer-une-formation.md" %}
 [animer-une-formation.md](animer-une-formation.md)

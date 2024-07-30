@@ -1,4 +1,4 @@
-# 🧑⚖ Cadrer juridiquement son produit
+# cadrer-juridiquement-son-produit
 
 ## RGPD
 
@@ -33,7 +33,7 @@
 {% endcontent-ref %}
 
 \
-Encore plus de fiches synthétiques disponibles sur [le site de Green Data for Health](https://gd4h.ecologie.gouv.fr/juridique), notamment :&#x20;
+Encore plus de fiches synthétiques disponibles sur [le site de Green Data for Health](https://gd4h.ecologie.gouv.fr/juridique), notamment :
 
 * 🔄🏛 [Le partage d'infos entre administrations](https://gd4h-prod.s3.fr-par.scw.cloud/gd4h-prod/api\_gd4h/files/20\_Fiche\_20\_Le\_partage\_dinformations\_entre\_administrations\_DESIGN.pdf)
 * 👩‍🔬 [La situation des chercheurs en droit des données](https://gd4h-prod.s3.fr-par.scw.cloud/gd4h-prod/api\_gd4h/files/Fiche\_19\_La\_situation\_des\_chercheurs\_en\_droit\_des\_donn%C3%A9es.pdf)
@@ -51,8 +51,6 @@ Encore plus de fiches synthétiques disponibles sur [le site de Green Data for H
 * 🔑 [L'accès par dérogation aux documents protégés](https://gd4h-prod.s3.fr-par.scw.cloud/gd4h-prod/api\_gd4h/files/06\_Fiche\_6\_Lacc%C3%A8s\_par\_d%C3%A9rogation\_aux\_documents\_prot%C3%A9g%C3%A9s\_DESIGN.pdf)
 * 🔗 [Le lien entre les données et la mission de service public](https://gd4h-prod.s3.fr-par.scw.cloud/gd4h-prod/api\_gd4h/files/Fiche\_5\_Le\_lien\_entre\_les\_donn%C3%A9es\_et\_la\_mission\_de\_service\_public.pdf)
 * ⚖️ [Les bases de données en droit](https://gd4h-prod.s3.fr-par.scw.cloud/gd4h-prod/api\_gd4h/files/Fiche\_2\_Les\_bases\_de\_donn%C3%A9es\_en\_droit.pdf)
-
-
 
 ## Demander de l'aide
 

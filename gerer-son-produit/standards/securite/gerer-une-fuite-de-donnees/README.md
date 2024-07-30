@@ -5,12 +5,12 @@ description: >-
   entier.
 ---
 
-# Gérer une fuite de données
+# gerer-une-fuite-de-donnees
 
 ## Quel est ton profil ?
 
-{% content-ref url="je-suis-developpeur/" %}
-[je-suis-developpeur](je-suis-developpeur/)
+{% content-ref url="je-suis-developpeur/README (1).md" %}
+[README (1).md](<je-suis-developpeur/README (1).md>)
 {% endcontent-ref %}
 
 {% content-ref url="je-ne-suis-pas-developpeur.md" %}

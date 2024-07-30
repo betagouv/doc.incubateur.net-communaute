@@ -1,4 +1,4 @@
-# 🤔 Pourquoi une certification des compétences des intras ?
+# pourquoi-une-certification-des-competences-des-intras.md
 
 ## Reconnaissance de nouvelles compétences
 
@@ -18,6 +18,6 @@ Cette certification est utile aux intra pour :
 * d'une mobilité interne, mutation, détachement ou mise à disposition;
 * d'une disponibilité dans le secteur privé.
 
-{% content-ref url="./" %}
-[.](./)
+{% content-ref url="README (1).md" %}
+[README (1).md](<README (1).md>)
 {% endcontent-ref %}

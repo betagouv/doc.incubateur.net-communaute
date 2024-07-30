@@ -5,13 +5,13 @@ description: >-
   dans chaque cas ce qu'on peut faire pour y réagir.
 ---
 
-# 😖 Conflits, mal-être, souffrance, violence ou harcèlement
+# Recommendations
 
 ## Conflit
 
 Le conflit, surtout ponctuel, est tout à fait normal au sein d'équipes qui traitent de sujets complexes. Dans une équipe tout le monde n'est pas tout le temps d'accord, et c'est tant mieux. Si l'on recrute des personnes diverses, c'est parce que leur point de vue a de la valeur.
 
-Le conflit prolongé, ou des expressions verbales jugées violentes, peuvent être un signe avant-coureur de choses plus sérieuses.&#x20;
+Le conflit prolongé, ou des expressions verbales jugées violentes, peuvent être un signe avant-coureur de choses plus sérieuses.
 
 ## Mal-être ou souffrance
 
@@ -38,12 +38,12 @@ Le harcèlement moral ou sexuel est interdit et constitue un délit pénal. A ti
     * membre de son équipe
     * coach de l'équipe
     * direction de l'incubateur
-    * un·e membre de [l'équipe d'animation de beta](../../../decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/lequipe-danimation-beta.gouv.fr.md)
+    * un·e membre de [l'équipe d'animation de beta](../../decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/lequipe-danimation-beta.gouv.fr.md)
 
     On a le droit, de sa propre initiative, "d'escalader" la chaîne si la réponse apportée ne satisfait pas.
 *   **Contacter le groupe de soutien :** constitué de membres de la communauté, ses membres sont disponibles pour vous écouter en respectant la confidentialité de votre situation en cas de conflit, mal-être ou souffrance, violence ou harcèlement.
 
-    Pour les joindre :&#x20;
+    Pour les joindre :
 
     👉 [Choisir un créneau pour échanger](https://app.calendso.incubateur.net/team/soutien/prise-de-contact-avec-l--quipe-de-soutien) avec un·e des membres (attribution aléatoire)
 
@@ -52,27 +52,23 @@ Le harcèlement moral ou sexuel est interdit et constitue un délit pénal. A ti
     👉 Contacter un·e membre individuellement sur Mattermost, par email ou en personne.\
     👉Tu préfères rester anonyme mais déclarer une situation problématique,[ utilise ce formulaire.](https://tally.so/r/w8xAgr)
 
-_**Les membres du groupe de soutien sont : Caroline Lawson, Clémence Lopez, Denis Baudot, Florian Briand, Fanny Blanc, Amel Alili, Olivier Boudou**_&#x20;
-
-
+_**Les membres du groupe de soutien sont : Caroline Lawson, Clémence Lopez, Denis Baudot, Florian Briand, Fanny Blanc, Amel Alili, Olivier Boudou**_
 
 {% hint style="info" %}
-_Si vous êtes agents publics, vous pouvez également :_&#x20;
+_Si vous êtes agents publics, vous pouvez également :_
 
 * **Contacter les fonctions Ressources Humaines**
 * **Faire appel à la ligne d'écoute psychologique** proposée par la DINUM : numéro non-surtaxé 0 800 200 286
 * **Contacter les** **services d'assistance juridique proposés par la DINUM à travers Allo Discrim :** site Web [https://allodiscrim.wethics.eu/](https://allodiscrim.wethics.eu/) - code 2018
 {% endhint %}
 
-**Dans tous les cas :**&#x20;
+**Dans tous les cas :**
 
 * je suis protégé·e par la loi, et en cas de harcèlement avéré je dispose de recours de nature civile et pénale.
 * je dispose d'un droit de retrait.
 * je peux prendre contact avec le [Défenseur des droits](https://orientation.defenseurdesdroits.fr/?) si je ne sais pas à qui m'adresser.
 * Je contacte [AlloDiscrim, AlloSexism ou AlloEthic](https://allodiscrim.com/nos-dispositifs/)
 * En tant que freelance, vous devez en alerter votre titulaire de marché (Octo, Malt, Scopyleft...)
-
-
 
 {% content-ref url="independant-victime-de-harcelement-ou-discrimination.md" %}
 [independant-victime-de-harcelement-ou-discrimination.md](independant-victime-de-harcelement-ou-discrimination.md)
