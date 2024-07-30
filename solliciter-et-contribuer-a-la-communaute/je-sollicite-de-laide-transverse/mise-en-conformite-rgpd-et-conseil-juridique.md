@@ -1,8 +1,8 @@
-# Mise en conformité RGPD et coaching juridique
+# Conseil juridique et mise en conformité RGPD
 
 ## Qui propose de l’aide ?
 
-En plus des intervenants de la DINUM, vous pouvez contacter des coachs conformité/complexité.&#x20;
+En plus des intervenants de la DINUM, vous pouvez contacter des coachs conformité/complexité.
 
 Tout le monde est disponible sur Mattermost, channel [#domaine-juridique](https://mattermost.incubateur.net/betagouv/channels/domaine-juridique).
 
@@ -24,11 +24,11 @@ Formats possibles :
 
 ## Comment solliciter l’équipe ?
 
-* Par Mattermost :  [#domaine-juridique](https://mattermost.incubateur.net/betagouv/channels/domaine-juridique)
+* Par Mattermost : [#domaine-juridique](https://mattermost.incubateur.net/betagouv/channels/domaine-juridique)
 * Par mail : [thomas.menant@beta.gouv.fr](mailto:thomas.menant@beta.gouv.fr)
 
 ## Ressources
 
-{% content-ref url="../je-securise-mon-produit/guide-rgpd-et-securite.md" %}
-[guide-rgpd-et-securite.md](../je-securise-mon-produit/guide-rgpd-et-securite.md)
+{% content-ref url="../../contribuer-a-la-communaute/je-securise-mon-produit/guide-rgpd-et-securite.md" %}
+[guide-rgpd-et-securite.md](../../contribuer-a-la-communaute/je-securise-mon-produit/guide-rgpd-et-securite.md)
 {% endcontent-ref %}

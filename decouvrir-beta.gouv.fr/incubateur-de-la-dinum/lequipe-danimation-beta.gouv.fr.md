@@ -1,16 +1,16 @@
 ---
 description: >-
   Il s'agit du département de la DINUM qui coordonne beta.gouv.fr et qui
-  soutient les incubateurs ministériels dans leur croissance.
+  soutient les incubateurs du réseau dans leur croissance.
 ---
 
-# L'Incubateur de services numériques
+# L'équipe d'animation beta.gouv.fr
 
 {% hint style="success" %}
-Pour contacter facilement l'Incubateur de la DINUM, transmet un mail à _**dinum@beta.gouv.fr**_ ou utilise la chaîne [_**\~incubateur-animation**_](https://mattermost.incubateur.net/betagouv/channels/incubateur-animation) sur Mattermost.
+Pour contacter facilement l'incubateur de la DINUM, transmet un mail à _**dinum@beta.gouv.fr**_ ou utilise la chaîne [_**\~incubateur-animation**_](https://mattermost.incubateur.net/betagouv/channels/incubateur-animation) sur Mattermost.
 {% endhint %}
 
-L’Incubateur de la DINUM est constitué d’une trentaine de personnes (agents publics fonctionnaires ou contractuels, ou indépendants) ayant pour mission de conduire le programme beta.gouv.fr, d'assure sa bonne conduite et son développement. La vision de l'Incubateur est de diffuser l'approche beta.gouv.fr au sein de l'administration. En tant que pôle de la DINUM, elle-même placée sous l'autorité du Premier Ministre, l'Incubateur assure ses missions en interministériel, interagissant ainsi avec l'ensemble des administrations publiques membres du réseau beta.gouv.fr.
+L’incubateur de la DINUM est constitué d’une trentaine de personnes (agents publics fonctionnaires ou contractuels, ou indépendants) ayant pour mission de conduire le programme beta.gouv.fr, d'assure sa bonne conduite et son développement. La vision de l'incubateur est de diffuser l'approche beta.gouv.fr au sein de l'administration. En tant que département de la DINUM, elle-même placée sous l'autorité du Premier Ministre, l'incubateur assure ses missions en interministériel, interagissant ainsi avec l'ensemble des administrations publiques membres du réseau beta.gouv.fr.
 
 ## Qui fait quoi ?
 
@@ -59,14 +59,14 @@ Le pôle garantit un environnement de travail le plus attractif possible, anime 
 
 * **Benjamin Doberset,** responsable de pôle
 * **Fanny Blanc**, animatrice de la communauté beta.gouv.fr
-* **Marine Purson**, animatrice en charge des relations institutionnelles
+* **Marine Purson**, animatrice chargée des relations institutionnelles et de la communication
 * **Lucas Charrier**, développeur en charge des outils techs de la communauté
-* **Amel Alili**, animatrice, chargée d'assistance et du support
-* **Anne-Sophie Tranchet**, animatrice en charge des sujets d'Accessibilité et Design
-* **Thomas Ramé**, développeur en charge des outils techs de la communauté
-* **Julien Bouquillon** : animateur en charge du soutien à la communauté sur les aspects tech
+* **Amel Alili**, animatrice chargée d'assistance et du support
+* **Anne-Sophie Tranchet**, animatrice chargée des sujets d'Accessibilité et Design
+* **Thomas Ramé**, développeur chargé des outils techs de la communauté
+* **Julien Bouquillon** : animateur chargé du soutien à la communauté sur les aspects tech
 
-_L'animation de la communauté beta.gouv.fr n'est pas l'exclusivité de l'Incubateur de la DINUM : d'autres personnes peuvent et sont invitées à contribuer à la réussite du collectif (agents des incubateurs ministériels, freelances, etc)._
+_L'animation de la communauté beta.gouv.fr n'est pas l'exclusivité de l'incubateur de la DINUM : d'autres personnes peuvent et sont invitées à contribuer à la réussite du collectif (agents des incubateurs ministériels, freelances, etc.)._
 
 {% hint style="info" %}
 Contacter le pôle animation : animation@beta.gouv.fr ou directement sur Mattermost
@@ -109,27 +109,26 @@ Comment participer à la 7ème promotion du programme EIG ?
 
 ## Pourquoi faire appel à l'Incubateur de services numériques ?
 
-* J'ai un doute sur mon produit : l'Incubateur peut t'aider pour te donner des retours constructifs sur ton produit, pour t'aider sur des aspects stratégiques, juridiques ou politiques, pour t'orienter vers les bonnes personnes lorsque tu cherches de l'aide, etc.
-* Travailler sur un nouveau partenariat avec une administration
-* Faire avancer une convention, un devis, un service fait
-* J'ai une question d'ordre administratif ou concernant un des marchés publics de la DINUM
-* J'ai besoin du soutien de la DINUM (Fonds d'accélération des Startups d'Etat, Programme Gamma, aide transverse, négociation des conditions d’autonomie de mon équipe, refinancements, déblocages de freins)
-* Je me sens mal dans mon équipe
-* Je souhaite m'investir sur un sujet de la communauté
+* J'ai un doute sur mon produit : l'incubateur peut t'aider pour te donner des retours constructifs sur ton produit, pour t'aider sur des aspects stratégiques, juridiques ou politiques, pour t'orienter vers les bonnes personnes lorsque tu cherches de l'aide, etc.
+* Travailler sur un nouveau partenariat avec une administration.
+* Faire avancer une convention, un devis, un service fait.
+* J'ai une question d'ordre administratif ou concernant un des marchés publics de la DINUM.
+* J'ai besoin du soutien de la DINUM (Fonds d'accélération des Startups d'Etat, Programme Gamma, aide transverse, négociation des conditions d’autonomie de mon équipe, refinancements, déblocages de freins).
+* Je me sens mal dans mon équipe.
+* Je souhaite m'investir sur un sujet de la communauté.
 
 ## Engagements envers la communauté
 
 L’Incubateur de services numériques est _**au service**_, _**à la disposition de**_ l’ensemble de la communauté beta.gouv.fr _**et non à sa tête**_.
 
-* Par principe, **l'Incubateur fait confiance aux équipes qui ont les mains dans le cambouis** et qui travaillent au quotidien au contact de leurs utilisateurs.
+* Par principe, **l'incubateur fait confiance aux équipes qui ont les mains dans le cambouis** et qui travaillent au quotidien au contact de leurs utilisateurs.
 * Nous nous portons **garants des valeurs de beta.gouv.fr** – sens, autonomie, amélioration continue – et nous cherchons, toujours de manière bienveillante et constructive, à tout faire pour aider les équipes et les incubateurs partenaires à atteindre leurs objectifs, sans jamais leur imposer de l'aide sans consentement ni prendre des décisions qui les concernent à leur place.
 * D'une manière générale, **nous souhaitons que les équipes se sentent en sécurité pour nous faire remonter leurs problèmes** afin que nous puissions les aider à les régler. Nous travaillons à éviter l'établissement d'une forme de management où chaque échelon hiérarchique est fortement incité à _faire comme si_ tout se passait bien et où il vaudrait mieux cacher la poussière sous le tapis.
 * Parce que rien n'est plus agaçant que des managers qui utilisent leurs équipes pour savoir quoi dire à leur propre hiérarchie, **nous essayons au maximum de limiter les demandes de reporting.** En contrepartie, nous attendons des équipes **une transparence maximale** sur leurs actions.
 * Nous ne sommes chef·fe·s de personne, mais nous sommes **responsables** de plusieurs choses qui nous rendent redevables envers la communauté. Notre mission est de s’assurer que tout fonctionne bien, et cela vient inévitablement avec des droits et des devoirs. Pour cela, nous nous engageons à maintenir **une transparence maximale** sur nos actions.
 
-_Si en tant que membre de la communauté, tu constates un manquement par rapport aux engagements cités ci-dessus, tu es libre de le signaler soit directement à la personne concernée, soit au membre de l'incubateur de ton choix._
+Si en tant que membre de la communauté, tu constates un manquement par rapport aux engagements cités ci-dessus, tu es libre de le signaler soit directement à la personne concernée, soit au membre de l'incubateur de ton choix.
 
 ## Rejoindre l'Incubateur de services numériques <a href="#rejoindre-lequipe-danimation" id="rejoindre-lequipe-danimation"></a>
 
 Les postes ouverts au sein de l'Incubateur de services numériques sont en général communiqués sur Mattermost avant d'être publiés plus largement sur [beta.gouv.fr/recrutement.](https://www.welcometothejungle.com/fr/companies/communaute-beta-gouv)
-

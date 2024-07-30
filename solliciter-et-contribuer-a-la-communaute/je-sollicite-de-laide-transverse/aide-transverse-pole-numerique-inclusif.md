@@ -2,9 +2,9 @@
 description: De l'aide pour des services publics numériques accessibles
 ---
 
-# Aide transverse - Pole Numérique Inclusif
+# Le Pôle Numérique Inclusif
 
-### Pourquoi ce pole ? <a href="#pourquoi-ce-pole" id="pourquoi-ce-pole"></a>
+### Pourquoi ce pôle ? <a href="#pourquoi-ce-pole" id="pourquoi-ce-pole"></a>
 
 Le **Pôle Numérique Inclusif** est un pole d’expertise transverse qui s’adresse aux équipes produit. Son objectif est d’améliorer l’accès à leur service **pour tous leurs usagers et usagères**, pour réduire la fracture numérique.
 
@@ -34,7 +34,7 @@ Le pole est une équipe pluridisciplinaire d’expertes en accessibilité :
 ### Comment nous contacter ? <a href="#comment-nous-contacter" id="comment-nous-contacter"></a>
 
 {% hint style="info" %}
-* Par **email** : [accessibilite@beta.gouv.fr](mailto:accessibilite@beta.gouv.fr)&#x20;
+* Par **email** : [accessibilite@beta.gouv.fr](mailto:accessibilite@beta.gouv.fr)
 * Par [**formulaire**](https://docs.google.com/forms/d/1L4DOpBS9ibJWmWyypOOyB86ExGPLz-IwUuunazugsBU/edit?usp=mail\_response\_notification\&urp=gmail\_link)
 * Sur **Mattermost**, dans le canal [#domaine-accessibilité](https://mattermost.incubateur.net/betagouv/channels/c015lnmttj9)
 {% endhint %}

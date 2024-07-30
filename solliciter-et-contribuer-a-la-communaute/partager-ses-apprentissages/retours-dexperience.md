@@ -1,4 +1,4 @@
-# Ecrire un article sur le blog de beta.gouv.fr
+# Communiquer mon retour d'expérience \[à modifier]
 
 Quel que soit son métier ou son rattachement contractuel, chaque membre de la communauté beta.gouv.fr contribue à la restitution publique nos apprentissages. Une possibilité est d'écrire un article sur le blog de beta.gouv.fr : blog.beta.gouv.fr.
 
@@ -10,7 +10,7 @@ L'important n'est pas la reproduction d'un modèle, mais la diffusion et l’app
 
 Comme toute publication officielle émanant de beta.gouv.fr, ces articles et ces prises de paroles engagent la personne publique. Il est donc important que ces restitutions fassent l'objet de revues par les pairs afin de garantir leur qualité, leur sincérité et leur impartialité, sans remettre en question nos valeurs de transparence.
 
-## Où rédiger son projet d'article pour le blog?
+## Où rédiger son projet d'article pour le blog ?
 
 Il existe au moins trois façons différentes de partager son projet d'article:
 

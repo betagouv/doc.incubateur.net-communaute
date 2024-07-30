@@ -1,4 +1,4 @@
-# Proposer une démonstration de son produit
+# Proposer une démo de mon produit
 
 Nous encourageons chaque équipe à proposer une **démonstration** de son produit aux membres du réseau beta.gouv.fr. Cette séance peut avoir plusieurs objectifs :
 
@@ -14,6 +14,6 @@ Nous encourageons chaque équipe à proposer une **démonstration** de son produ
 
 Pour plus d'informations sur l'annonce d'un événement à la communauté :
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../../contribuer-a-la-communaute/partager-ses-apprentissages/broken-reference/" %}
+[broken-reference](../../contribuer-a-la-communaute/partager-ses-apprentissages/broken-reference/)
 {% endcontent-ref %}

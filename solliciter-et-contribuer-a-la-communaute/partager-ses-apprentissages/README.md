@@ -1,4 +1,4 @@
-# Partager ses apprentissages
+# Je partage mes apprentissages
 
 Il y a plusieurs moyens de partager vos apprentissages aux autres équipes :
 
@@ -10,8 +10,8 @@ Il y a plusieurs moyens de partager vos apprentissages aux autres équipes :
 [retours-dexperience.md](retours-dexperience.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../../contribuer-a-la-communaute/partager-ses-apprentissages/broken-reference/" %}
+[broken-reference](../../contribuer-a-la-communaute/partager-ses-apprentissages/broken-reference/)
 {% endcontent-ref %}
 
 {% content-ref url="../proposer-un-nouvel-outil-a-la-communaute.md" %}
@@ -20,6 +20,6 @@ Il y a plusieurs moyens de partager vos apprentissages aux autres équipes :
 
 Il arrive aussi que des membres de beta.gouv.fr interviennent à l'extérieur. Nous avons compilé certains conseils pour vous aider à expliquer ce que fait beta.gouv.fr.
 
-{% content-ref url="../presenter-de-beta.gouv.fr.md" %}
-[presenter-de-beta.gouv.fr.md](../presenter-de-beta.gouv.fr.md)
+{% content-ref url="../../contribuer-a-la-communaute/presenter-de-beta.gouv.fr.md" %}
+[presenter-de-beta.gouv.fr.md](../../contribuer-a-la-communaute/presenter-de-beta.gouv.fr.md)
 {% endcontent-ref %}

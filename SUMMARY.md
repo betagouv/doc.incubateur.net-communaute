@@ -5,12 +5,12 @@
 ## Découvrir beta.gouv.fr
 
 * [💡 L'histoire de beta.gouv.fr](decouvrir-beta.gouv.fr/histoire-de-beta.gouv.fr/README.md)
-  * [Références bibliographiques](decouvrir-beta.gouv.fr/histoire-de-beta.gouv.fr/references-bibliographiques.md)
-* [Les valeurs](decouvrir-beta.gouv.fr/valeurs.md)
+  * [Références bibliographiques ❌](decouvrir-beta.gouv.fr/histoire-de-beta.gouv.fr/references-bibliographiques.md)
+* [💚 Les valeurs](decouvrir-beta.gouv.fr/valeurs.md)
+* [🇫🇷 Les services à impact national](decouvrir-beta.gouv.fr/services-numeriques-a-impact-national.md)
 * [🧪 L'incubateur de la DINUM](decouvrir-beta.gouv.fr/incubateur-de-la-dinum/README.md)
-  * [lequipe-danimation-beta.gouv.fr.md](decouvrir-beta.gouv.fr/incubateur-de-la-dinum/lequipe-danimation-beta.gouv.fr.md)
-* [🇫🇷 Services à impact national](decouvrir-beta.gouv.fr/services-numeriques-a-impact-national.md)
-* [⚛️ Les incubateurs du réseau beta.gouv.fr](decouvrir-beta.gouv.fr/les-incubateurs-du-reseau-beta.gouv.fr.md)
+  * [L'équipe d'animation beta.gouv.fr](decouvrir-beta.gouv.fr/incubateur-de-la-dinum/lequipe-danimation-beta.gouv.fr.md)
+* [⚛️ Les incubateurs du réseau beta.gouv.fr \[to do\]](decouvrir-beta.gouv.fr/les-incubateurs-du-reseau-beta.gouv.fr-to-do.md)
 * [🤗 La communauté \[todo\]](decouvrir-beta.gouv.fr/la-communaute-todo/README.md)
   * [\[TODO\]: présentation de la commu en chiffres et liens vers les autres pages ? metabase ?](decouvrir-beta.gouv.fr/la-communaute-todo/todo-presentation-de-la-commu-en-chiffres-et-liens-vers-les-autres-pages-metabase.md)
   * [10% communauté](decouvrir-beta.gouv.fr/la-communaute-todo/10-communaute.md)
@@ -308,21 +308,21 @@
     * [Charte WTTJ](les-outils-de-la-communaute/autres-services/welcome-to-the-jungle/charte-wttj.md)
   * [YesWeHack](les-outils-de-la-communaute/autres/yeswehack.md)
 
-## Contribuer à la communaute
+## Solliciter et contribuer à la communauté
 
-* [je-sollicite-de-laide-transverse](contribuer-a-la-communaute/je-sollicite-de-laide-transverse/README.md)
-  * [aide-transverse-pole-numerique-inclusif.md](contribuer-a-la-communaute/je-sollicite-de-laide-transverse/aide-transverse-pole-numerique-inclusif.md)
-  * [growth-hacking-acquisition.md](contribuer-a-la-communaute/je-sollicite-de-laide-transverse/growth-hacking-acquisition.md)
-  * [mise-en-conformite-rgpd-et-conseil-juridique.md](contribuer-a-la-communaute/je-sollicite-de-laide-transverse/mise-en-conformite-rgpd-et-conseil-juridique.md)
-* [partager-ses-apprentissages](contribuer-a-la-communaute/partager-ses-apprentissages/README.md)
-  * [mardi-demo.md](contribuer-a-la-communaute/partager-ses-apprentissages/mardi-demo.md)
-  * [retours-dexperience.md](contribuer-a-la-communaute/partager-ses-apprentissages/retours-dexperience.md)
-* [🎁 partager-des-ressources](contribuer-a-la-communaute/partager-des-ressources.md)
-* [proposer-un-nouvel-outil-a-la-communaute.md](contribuer-a-la-communaute/proposer-un-nouvel-outil-a-la-communaute.md)
-* [👥 Rituels](contribuer-a-la-communaute/rituels/README.md)
-  * [clubs-de-partage-dexperience.md](contribuer-a-la-communaute/rituels/clubs-de-partage-dexperience.md)
-  * [seminaire.md](contribuer-a-la-communaute/rituels/seminaire.md)
-* [sinformer-sur-la-vie-de-la-communaute.md](contribuer-a-la-communaute/sinformer-sur-la-vie-de-la-communaute.md)
+* [Je sollicite de l'aide](solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/README.md)
+  * [Le Pôle Numérique Inclusif](solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/aide-transverse-pole-numerique-inclusif.md)
+  * [Growth hacking](solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/growth-hacking-acquisition.md)
+  * [Conseil juridique et mise en conformité RGPD](solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/mise-en-conformite-rgpd-et-conseil-juridique.md)
+* [Je partage mes apprentissages](solliciter-et-contribuer-a-la-communaute/partager-ses-apprentissages/README.md)
+  * [Proposer une démo de mon produit](solliciter-et-contribuer-a-la-communaute/partager-ses-apprentissages/mardi-demo.md)
+  * [Communiquer mon retour d'expérience \[à modifier\]](solliciter-et-contribuer-a-la-communaute/partager-ses-apprentissages/retours-dexperience.md)
+* [🎁 partager-des-ressources](solliciter-et-contribuer-a-la-communaute/partager-des-ressources.md)
+* [proposer-un-nouvel-outil-a-la-communaute.md](solliciter-et-contribuer-a-la-communaute/proposer-un-nouvel-outil-a-la-communaute.md)
+* [👥 Rituels](solliciter-et-contribuer-a-la-communaute/rituels/README.md)
+  * [clubs-de-partage-dexperience.md](solliciter-et-contribuer-a-la-communaute/rituels/clubs-de-partage-dexperience.md)
+  * [seminaire.md](solliciter-et-contribuer-a-la-communaute/rituels/seminaire.md)
+* [sinformer-sur-la-vie-de-la-communaute.md](solliciter-et-contribuer-a-la-communaute/sinformer-sur-la-vie-de-la-communaute.md)
 
 ## Lancer un service numérique dans mon administration
 

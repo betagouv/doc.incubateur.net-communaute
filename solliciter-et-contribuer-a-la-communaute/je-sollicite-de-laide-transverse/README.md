@@ -1,4 +1,4 @@
-# je-sollicite-de-laide-transverse
+# Je sollicite de l'aide
 
 ## Les ressources transverses mises à disposition du réseau beta.gouv.fr
 
@@ -7,8 +7,8 @@ Si votre service numérique fait partie du réseau beta.gouv.fr, vous avez accè
 ### Aides financières
 
 * **financement des investigations** (environ 15k€ / investigation), à condition d'avoir identifié un problème à investiguer, et de mobiliser sponsor et intrapreneur. Pour déclencher ce ticket, contactez un membre de [l'équipe d'animation de beta.gouv.fr](../../decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/lequipe-danimation-beta.gouv.fr.md).
-* **financement de l'accompagnement à la pérennisation / au transfert des produits** (environ 30k€ / produit), à la condition de justifier que le produit a un intérêt interministériel ou qu'il est susceptible de devenir un [service numérique à impact national](../la-vie-dune-se/acceleration/services-numeriques-a-impact-national.md). Pour déclencher ce ticket, contactez un membre de l'[équipe d'animation de beta.gouv.fr](../../decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/lequipe-danimation-beta.gouv.fr.md).
-* **cofinancement de l'accélération de votre service** via les appels réguliers du Fonds d'accélération des Startups d'État (FAST) : plus d'informations [ici](../la-vie-dune-se/acceleration/fonds-dacceleration-des-startups-detat.md).
+* **financement de l'accompagnement à la pérennisation / au transfert des produits** (environ 30k€ / produit), à la condition de justifier que le produit a un intérêt interministériel ou qu'il est susceptible de devenir un [service numérique à impact national](../../contribuer-a-la-communaute/la-vie-dune-se/acceleration/services-numeriques-a-impact-national.md). Pour déclencher ce ticket, contactez un membre de l'[équipe d'animation de beta.gouv.fr](../../decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/lequipe-danimation-beta.gouv.fr.md).
+* **cofinancement de l'accélération de votre service** via les appels réguliers du Fonds d'accélération des Startups d'État (FAST) : plus d'informations [ici](../../contribuer-a-la-communaute/la-vie-dune-se/acceleration/fonds-dacceleration-des-startups-detat.md).
 
 ### Aide transverse
 
@@ -23,8 +23,8 @@ Si votre service numérique fait partie du réseau beta.gouv.fr, vous avez accè
 * **Accompagnement en accessibilité** : audit d'accessibilité ou de contenu, aide à la mise en place de tests techniques avec le [pôle Numérique Inclusif](aide-transverse-pole-numerique-inclusif.md)
 * **Accompagnement à l'accélération de son produit** : le programme Gamma sélectionne tous les 3 mois des produits à haut potentiel pour les aider à maximiser leur impact.
 
-{% content-ref url="../la-vie-dune-se/acceleration/programme-gamma.md" %}
-[programme-gamma.md](../la-vie-dune-se/acceleration/programme-gamma.md)
+{% content-ref url="../../contribuer-a-la-communaute/la-vie-dune-se/acceleration/programme-gamma.md" %}
+[programme-gamma.md](../../contribuer-a-la-communaute/la-vie-dune-se/acceleration/programme-gamma.md)
 {% endcontent-ref %}
 
 * **Accompagnement sur des expertises spécifiques**
@@ -33,16 +33,16 @@ Si votre service numérique fait partie du réseau beta.gouv.fr, vous avez accè
 [growth-hacking-acquisition.md](growth-hacking-acquisition.md)
 {% endcontent-ref %}
 
-{% content-ref url="data-science.md" %}
-[data-science.md](data-science.md)
+{% content-ref url="../../contribuer-a-la-communaute/je-sollicite-de-laide-transverse/data-science.md" %}
+[data-science.md](../../contribuer-a-la-communaute/je-sollicite-de-laide-transverse/data-science.md)
 {% endcontent-ref %}
 
 {% content-ref url="aide-transverse-pole-numerique-inclusif.md" %}
 [aide-transverse-pole-numerique-inclusif.md](aide-transverse-pole-numerique-inclusif.md)
 {% endcontent-ref %}
 
-{% content-ref url="../je-gere-mon-produit-et-son-impact/definir-et-mesurer-limpact/cauchemar-a-beta-la-mesure-dimpact.md" %}
-[cauchemar-a-beta-la-mesure-dimpact.md](../je-gere-mon-produit-et-son-impact/definir-et-mesurer-limpact/cauchemar-a-beta-la-mesure-dimpact.md)
+{% content-ref url="../../contribuer-a-la-communaute/je-gere-mon-produit-et-son-impact/definir-et-mesurer-limpact/cauchemar-a-beta-la-mesure-dimpact.md" %}
+[cauchemar-a-beta-la-mesure-dimpact.md](../../contribuer-a-la-communaute/je-gere-mon-produit-et-son-impact/definir-et-mesurer-limpact/cauchemar-a-beta-la-mesure-dimpact.md)
 {% endcontent-ref %}
 
 ## Comment a été construite l'aide transverse beta.gouv.fr ?
