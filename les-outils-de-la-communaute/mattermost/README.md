@@ -4,11 +4,15 @@ description: >-
   La plupart des échanges y ont lieu.
 ---
 
-# Mattermost - Messagerie de la communauté
+# 💬 Mattermost
 
 ## Comment ça marche ?
 
 Mattermost est un outil de collaboration partagé par des incubateurs et des startups d'Etat. Il permet de communiquer avec 2 niveaux d'échanges : échanges via message privés et échanges dans des espaces de travail (encore appelés "teams") au sein desquels peuvent être créés des canaux de discussion.
+
+{% hint style="info" %}
+Mattermost ne chiffre pas le contenu de vos messages; considérez mattermost comme un forum public.
+{% endhint %}
 
 {% content-ref url="jai-perdu-mes-acces-mattermost.md" %}
 [jai-perdu-mes-acces-mattermost.md](jai-perdu-mes-acces-mattermost.md)

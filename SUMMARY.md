@@ -259,12 +259,10 @@
 
 ## Les outils de la communauté
 
-* [Espace membre](les-outils-de-la-communaute/espace-membre/README.md)
-  * [comment-fonctionne-le-secretariat.md](les-outils-de-la-communaute/espace-membre/comment-fonctionne-le-secretariat.md)
-  * [liste-de-diffusion-et-adresses-de-contact.md](les-outils-de-la-communaute/espace-membre/liste-de-diffusion-et-adresses-de-contact.md)
-  * [mise-a-jour-de-mes-informations.md](les-outils-de-la-communaute/espace-membre/mise-a-jour-de-mes-informations.md)
+* [🗝️ Espace membre](les-outils-de-la-communaute/espace-membre.md)
 * [✉️ Emails](les-outils-de-la-communaute/emails/README.md)
   * [configurer-sa-signature-de-mail-beta.gouv.fr.md](les-outils-de-la-communaute/emails/configurer-sa-signature-de-mail-beta.gouv.fr.md)
+  * [liste-de-diffusion-et-adresses-de-contact.md](les-outils-de-la-communaute/emails/liste-de-diffusion-et-adresses-de-contact.md)
   * [configurer-un-message-dabsence.md](les-outils-de-la-communaute/emails/configurer-un-message-dabsence.md)
   * [creer-un-compte-email-a-un-nouveau-membre.md](les-outils-de-la-communaute/emails/creer-un-compte-email-a-un-nouveau-membre.md)
   * [definir-ou-renouveler-mon-mot-de-passe-beta.gouv.fr.md](les-outils-de-la-communaute/emails/definir-ou-renouveler-mon-mot-de-passe-beta.gouv.fr.md)
@@ -275,11 +273,10 @@
   * [envoyer-et-recevoir-des-mails-beta.gouv.fr/README.md](les-outils-de-la-communaute/emails/envoyer-et-recevoir-des-mails-beta.gouv.fr/README.md)
     * [envoyer-et-recevoir-des-emails-beta.gouv.fr-avec-loffre-ovh-mx-plan.md](les-outils-de-la-communaute/emails/envoyer-et-recevoir-des-mails-beta.gouv.fr/envoyer-et-recevoir-des-emails-beta.gouv.fr-avec-loffre-ovh-mx-plan.md)
   * [recreer-un-compte-email-pour-un-ancien-membre.md](les-outils-de-la-communaute/emails/recreer-un-compte-email-pour-un-ancien-membre.md)
-* [Documentation](les-outils-de-la-communaute/documentation/README.md)
-  * [comment-contribuer-a-cette-documentation.md](les-outils-de-la-communaute/documentation/comment-contribuer-a-cette-documentation.md)
-  * [documentation-provisoire-a-stabilisee.md](les-outils-de-la-communaute/documentation/documentation-provisoire-a-stabilisee.md)
-  * [recommandations.md](les-outils-de-la-communaute/documentation/recommandations.md)
-* [Mattermost](les-outils-de-la-communaute/mattermost/README.md)
+* [📚 Documentation](les-outils-de-la-communaute/documentation/README.md)
+  * [Contribuer à la documentation](les-outils-de-la-communaute/documentation/comment-contribuer-a-cette-documentation.md)
+  * [Recommandations de rédaction](les-outils-de-la-communaute/documentation/recommandations.md)
+* [💬 Mattermost](les-outils-de-la-communaute/mattermost/README.md)
   * [acces-a-lespace-de-la-communaute-beta.gouv-sur-mattermost.md](les-outils-de-la-communaute/mattermost/acces-a-lespace-de-la-communaute-beta.gouv-sur-mattermost.md)
   * [canaux-recommandes.md](les-outils-de-la-communaute/mattermost/canaux-recommandes.md)
   * [comment-communiquer-sur-mattermost/README.md](les-outils-de-la-communaute/mattermost/comment-communiquer-sur-mattermost/README.md)
@@ -296,6 +293,7 @@
   * [comment-rejoindre-lespace-mattermost-de-beta.md](les-outils-de-la-communaute/mattermost/comment-rejoindre-lespace-mattermost-de-beta.md)
   * [jai-perdu-mes-acces-mattermost.md](les-outils-de-la-communaute/mattermost/jai-perdu-mes-acces-mattermost.md)
   * [je-ne-recois-pas-les-messages-pour-reset-mon-mdp-mattermost.md](les-outils-de-la-communaute/mattermost/je-ne-recois-pas-les-messages-pour-reset-mon-mdp-mattermost.md)
+* [📅 Agenda de la communauté](les-outils-de-la-communaute/agenda-de-la-communaute.md)
 * [📡 Autres services](les-outils-de-la-communaute/autres-services/README.md)
   * [GitHub](les-outils-de-la-communaute/autres/github.md)
   * [Matomo](les-outils-de-la-communaute/autres/matomo.md)
@@ -303,13 +301,12 @@
   * [Pad](les-outils-de-la-communaute/autres/pad.md)
   * [VaultWarden](les-outils-de-la-communaute/autres/vaultwarden.md)
   * [Grist](les-outils-de-la-communaute/autres/grist.md)
-  * [DashLord](les-outils-de-la-communaute/autres/dashlord/README.md)
-    * [questions-reponses.md](les-outils-de-la-communaute/autres/dashlord/questions-reponses.md)
+  * [DashLord](les-outils-de-la-communaute/autres-services/dashlord.md)
   * [Metabase](les-outils-de-la-communaute/autres/metabase/README.md)
-    * [metabase.md](les-outils-de-la-communaute/autres/metabase/metabase.md)
-  * [\[Tally\]\](les-outils-de-la-communaute/autres/tally.md)](les-outils-de-la-communaute/autres-services/tally-les-outils-de-la-communaute-autres-tally.md.md)
-  * [Welcome to the jungle.md](les-outils-de-la-communaute/autres/welcome-to-the-jungle.md)
-  * [YesWeHackx](les-outils-de-la-communaute/autres/yeswehack.md)
+    * [Metabase sur Scalingo](les-outils-de-la-communaute/autres/metabase/metabase.md)
+  * [Welcome To The Jungle](les-outils-de-la-communaute/autres-services/welcome-to-the-jungle/README.md)
+    * [Charte WTTJ](les-outils-de-la-communaute/autres-services/welcome-to-the-jungle/charte-wttj.md)
+  * [YesWeHack](les-outils-de-la-communaute/autres/yeswehack.md)
 
 ## Contribuer à la communaute
 
@@ -347,7 +344,8 @@
 ## Ressources
 
 * [🙋🏽‍♂️ Questions fréquentes](ressources/questions-frequentes/README.md)
-  * [espace-membre](ressources/questions-frequentes/espace-membre.md)
+  * [FAQ espace-membre](ressources/questions-frequentes/faq-espace-membre.md)
+  * [FAQ DashLord](ressources/questions-frequentes/questions-reponses.md)
   * [emails](ressources/questions-frequentes/emails.md)
   * [mattermost](ressources/questions-frequentes/mattermost.md)
   * [recrutement](ressources/questions-frequentes/recrutement.md)

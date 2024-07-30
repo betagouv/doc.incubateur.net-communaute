@@ -2,7 +2,7 @@
 description: Tableau de bord des bonnes pratiques techniques des produits numériques.
 ---
 
-# Dashlord
+# DashLord
 
 {% hint style="info" %}
 **Un Dashlord, c'est quoi ?**
@@ -10,7 +10,7 @@ description: Tableau de bord des bonnes pratiques techniques des produits numér
 Un Dashlord est un tableau de bord. Il permet de situer sa Startup d'État ou de Territoires par rapport aux standards de qualité des services beta.gouv.fr : accessibilité, sécurité et RGPD.
 {% endhint %}
 
-![Capture d'écran du Dashlord de beta.gouv.fr](<../../../.gitbook/assets/Screenshot 2021-11-04 at 14.22.17.png>)
+![Capture d'écran du Dashlord de beta.gouv.fr](<../../.gitbook/assets/Screenshot 2021-11-04 at 14.22.17.png>)
 
 ## Les tableaux de bords de la communauté
 
@@ -42,6 +42,6 @@ Un Dashlord est un tableau de bord. Il permet de situer sa Startup d'État ou de
 
 ## En savoir plus
 
-{% content-ref url="questions-reponses.md" %}
-[questions-reponses.md](questions-reponses.md)
+{% content-ref url="../../ressources/questions-frequentes/questions-reponses.md" %}
+[questions-reponses.md](../../ressources/questions-frequentes/questions-reponses.md)
 {% endcontent-ref %}

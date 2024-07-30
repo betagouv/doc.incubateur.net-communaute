@@ -2,7 +2,7 @@
 description: Pour prendre des notes.
 ---
 
-# Pad - Prise de notes
+# Pad
 
 ## C'est quoi en quelques mots?
 
@@ -24,3 +24,10 @@ Une différence importante dans la maîtrise des données : celles des pads "app
 
 Cela ne veut pas dire que l'un est "mieux" que l'autre, c'est seulement un critère de choix. Au moment de créer un document, tu peux te demander "est-ce que c'est potentiellement utile à beta ?", si la réponse est oui, un pad est indiqué. Pour des documents uniquement à l'usage de l'équipe produit, un Google Doc dans un drive partagé qui appartient à l'équipe peut être la bonne solution (en restant attentifs à la [vie privée des personnes](https://github.com/betagouv/doc.incubateur.net-communaute/tree/5d2700237a9d080612a23b44eb159ea770a3310b/communaute/outils/guide-rgpd-et-securite/README.md)).
 
+{% embed url="https://pad.numerique.gouv.fr/O-jXOiSrSSahTdTFiaDXJA?both=" %}
+Présentation du format Markdown
+{% endembed %}
+
+{% embed url="https://pad.numerique.gouv.fr/s/v6WVcJAig" %}
+Présentation du format Markdown pour réaliser des présentations
+{% endembed %}
