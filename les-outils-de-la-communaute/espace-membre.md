@@ -6,7 +6,8 @@ description: https://espace-membre.incubateur.net
 
 L'espace-membre vous permet :
 
-* De gérer votre compte email beta.gouv.fr et vos accès mattermost
+* De gérer votre compte email beta.gouv.fr (redirection, répondeur...)
+* D'avoir accès à mattermost
 * De gérer vos fiches membre et produit
 * D'inviter de nouveaux membres dans la communauté (onboarding)
 * De prolonger la date d'expiration d'un(e) de vos collègues

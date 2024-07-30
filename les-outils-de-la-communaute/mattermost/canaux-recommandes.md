@@ -95,4 +95,6 @@ description: >-
 
 [\~bruit-cuisine](https://mattermost.incubateur.net/betagouv/channels/bruit-cuisine) _Echange de recettes, vidéo et photos de choses à manger._
 
+[\~bruit-musique](https://mattermost.incubateur.net/betagouv/channels/bruit-cuisine) _Des bonnes vibrations !_
+
 [\~domaine-datascience](https://mattermost.incubateur.net/betagouv/channels/domaine-datascience)
