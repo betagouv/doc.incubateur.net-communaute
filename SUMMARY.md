@@ -97,7 +97,7 @@
 * [Guide de financement des Startups d'État](gerer-son-produit/guide-de-financement-des-startups-detat/README.md)
   * [🔖 Repères pour les décideuses et décideurs publics sur le coût des services numériques](gerer-son-produit/guide-de-financement-des-startups-detat/1.-reperes-pour-decideuses-et-decideurs-publics-sur-le-cout-des-services-numeriques.md)
   * [🧑‍✈️ Pilotage du coût d'un produit numérique et contraintes liées à la comptabilité publique](gerer-son-produit/guide-de-financement-des-startups-detat/3.-pilotage-du-cout-dun-produit-numerique-et-contraintes-liees-a-la-comptabilite-publique.md)
-  * [L'enjeu du pilotage par l'impact](gerer-son-produit/guide-de-financement-des-startups-detat/4.-lenjeu-du-pilotage-par-limpact.md)
+  * [✴️ L'enjeu du pilotage par l'impact](gerer-son-produit/guide-de-financement-des-startups-detat/4.-lenjeu-du-pilotage-par-limpact.md)
 * [❌ L'approche produit](gerer-son-produit/lappoche-produit/README.md)
   * [references-bibliographiques.md](decouvrir-beta.gouv.fr/histoire-de-beta.gouv.fr/references-bibliographiques.md)
 * [✅ Les standards](gerer-son-produit/les-standards/README.md)
