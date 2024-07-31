@@ -1,11 +1,11 @@
-# Mener la recherche utilisateur
+# Recherche utilisateur
 
-![traduction du schéma de Nielsen Norman Group](../../../.gitbook/assets/methode_test.png)
+![traduction du schéma de Nielsen Norman Group](../../../../.gitbook/assets/methode\_test.png)
 
 ## Faire des tests utilisateurs
 
 {% hint style="success" %}
-**Fiche récap** [**Tests utilisateurs**](https://docs.google.com/document/d/1NHrwlGVDvzoctdAWmkvXwswWrQi3e7k_diTRks\_0Lxo/edit?usp=sharing) **à imprimer**
+**Fiche récap** [**Tests utilisateurs**](https://docs.google.com/document/d/1NHrwlGVDvzoctdAWmkvXwswWrQi3e7k\_diTRks\_0Lxo/edit?usp=sharing) **à imprimer**
 {% endhint %}
 
 {% hint style="success" %}
@@ -32,10 +32,10 @@
 **FAQ** [**L'audit UX de mon produit**](https://pad.incubateur.net/s/y80jm9q55) **pour répondre aux questions suivantes :**
 
 * Pourquoi réaliser un audit UX de mon produit ?
-* Quel impact cela peut-il avoir sur mon produit ? 
-* Quand est-ce le bon moment pour réaliser un audit UX ? 
-* Comment se passe un audit ? 
-* Quel est le livrable d’un audit ? 
+* Quel impact cela peut-il avoir sur mon produit ?
+* Quand est-ce le bon moment pour réaliser un audit UX ?
+* Comment se passe un audit ?
+* Quel est le livrable d’un audit ?
 * Quels avantages pour mon produit ?
 {% endhint %}
 
@@ -48,9 +48,9 @@
 ## Prioriser les fonctionnalités
 
 {% hint style="success" %}
-****[**Prioriser les fonctionnalités grâce aux retours utilisateurs**](prioriser-les-fonctionnalites-grace-aux-retours-utilisateurs.md)****
+[**Prioriser les fonctionnalités grâce aux retours utilisateurs**](prioriser-les-fonctionnalites-grace-aux-retours-utilisateurs.md)
 {% endhint %}
 
 ## Cartographier l'expérience utilisateur (Experience map)
 
-[ Présentation de la méthode](https://docs.google.com/presentation/d/1nYbsL7YR9zo63Qk7Pc1gezXGti3c45FMwxFe5J9U_YY/edit?usp=sharing)
+[Présentation de la méthode](https://docs.google.com/presentation/d/1nYbsL7YR9zo63Qk7Pc1gezXGti3c45FMwxFe5J9U\_YY/edit?usp=sharing)
