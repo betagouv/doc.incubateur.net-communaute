@@ -8,13 +8,13 @@ description: >-
 
 Ce jeudi 5 mai 2022, les designers de [beta.gouv.fr](http://beta.gouv.fr) ont organisé une **Journée de l'Écoconception** en partenariat avec les Designers Éthiques, l'agence Lunaweb et l'entreprise privée Leboncoin.
 
-![Ateliers lors de la journée de l'éco-conception](../../../.gitbook/assets/journee-ecoconception-photo1.jpg)
+![Ateliers lors de la journée de l'éco-conception](../../.gitbook/assets/journee-ecoconception-photo1.jpg)
 
 Le temps d'une journée, nous avons rassemblé une quinzaine d'intervenant·es et plus de 100 invités, professionnels du numérique, privé ou public autour des mêmes enjeux : comment limiter l'impact du numérique sur la planète. **La journée fut riche en échanges et en partages d'expériences : conférences, ateliers, fresques du numérique...** En voici le résumé en images :
 
 ## Les enjeux de l'éco-conception
 
-![Les enjeux de l'éco-conception](../../../.gitbook/assets/ecoconception1.jpg)
+![Les enjeux de l'éco-conception](../../.gitbook/assets/ecoconception1.jpg)
 
 Le numérique est au cœur du dérèglement climatique. Il produit 4 % des gaz à effets de serre, mais il **connecte 60 % de la population mondiale** ! Par ailleurs, le numérique a un impact sur les ressources, mais aussi sur l'activité humaine.
 
@@ -34,7 +34,7 @@ Créer une sobriété numérique passe par plusieurs leviers :
 
 ## Les bonnes pratiques
 
-![Les bonnes pratiques de l'éco-conception](../../../.gitbook/assets/ecoconception2.jpg)
+![Les bonnes pratiques de l'éco-conception](../../.gitbook/assets/ecoconception2.jpg)
 
 La première question à se poser est : **Quel impact à mon service ?** Faire un **audit** sur l’arborescence, les textes, la nomenclatures, les médias ou les technos utilisées permet de **se situer**.
 
@@ -61,7 +61,7 @@ Et surtout se souvenir que les **contraintes libèrent la créativité**. On peu
 
 ## **Comment convaincre en interne ?**
 
-![Comment convaincre de mener une démarche d'éco-conception ? sa marge de manœuvre](../../../.gitbook/assets/ecoconception3.jpg)
+![Comment convaincre de mener une démarche d'éco-conception ? sa marge de manœuvre](../../.gitbook/assets/ecoconception3.jpg)
 
 L’enjeu est de **savoir transformer les peurs en opportunités** :
 
