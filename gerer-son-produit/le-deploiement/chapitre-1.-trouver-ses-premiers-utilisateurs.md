@@ -1,4 +1,4 @@
-# chapitre-1.-trouver-ses-premiers-utilisateurs/README.md
+# ❌ chapitre-1.-trouver-ses-premiers-utilisateurs/README.md ❌
 
 {% embed url="https://www.youtube.com/watch?v=O5uzA15EyfQ" %}
 
@@ -40,6 +40,6 @@ Les indicateurs suivis :
 
 → Des résultats assez bons pour lancer le service
 
-{% content-ref url="7-techniques-pour-un-bon-contact-avec-vos-usagers.md" %}
-[7-techniques-pour-un-bon-contact-avec-vos-usagers.md](7-techniques-pour-un-bon-contact-avec-vos-usagers.md)
+{% content-ref url="chapitre-1/7-techniques-pour-un-bon-contact-avec-vos-usagers.md" %}
+[7-techniques-pour-un-bon-contact-avec-vos-usagers.md](chapitre-1/7-techniques-pour-un-bon-contact-avec-vos-usagers.md)
 {% endcontent-ref %}

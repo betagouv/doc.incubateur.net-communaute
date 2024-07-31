@@ -11,6 +11,6 @@
 * Ne répondez pas aux “besoins” de chacun mais au problème commun
 * Fixez vous des indicateurs pour mesurer votre succès sur ce groupe d’utilisateurs
 
-{% content-ref url="5-techniques-pour-trouver-ses-seconds-utilisateurs.md" %}
-[5-techniques-pour-trouver-ses-seconds-utilisateurs.md](5-techniques-pour-trouver-ses-seconds-utilisateurs.md)
+{% content-ref url="chapitre-2/5-techniques-pour-trouver-ses-seconds-utilisateurs.md" %}
+[5-techniques-pour-trouver-ses-seconds-utilisateurs.md](chapitre-2/5-techniques-pour-trouver-ses-seconds-utilisateurs.md)
 {% endcontent-ref %}

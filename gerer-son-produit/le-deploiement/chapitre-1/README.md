@@ -1,4 +1,67 @@
-# 7-techniques-pour-un-bon-contact-avec-vos-usagers.md
+# Trouver ses premiers utilisateurs
+
+**Préambule :** Au début, rien n’est carré.
+
+Cette phase est valable à deux moments de la startup :
+
+* L’investigation : identification d’un problème et proposition d’une solution.
+* La construction : Test de la solution, validation de la proposition de valeur, identification des premiers cas d’usage, recrutement des premiers utilisateurs.
+
+A cette étape l’équipe est de petite taille (3-4 personnes) et au-delà des expertises les rôles sont transverses. Le chargé de déploiement devra à la fois chercher des utilisateurs et faire du produit.
+
+→ Principal rôle :
+
+* tester des propositions de valeur auprès d’utilisateurs
+* identifier les potentiels de traction
+* Orienter l’évolution produit pour qu’il allie traction et intérêt général/objectif de politique publique
+
+⇒ Le chargé de déploiement est essentiel dans la définition de la solution.
+
+{% embed url="https://www.youtube.com/watch?v=O5uzA15EyfQ" %}
+
+Retrouver dans cette vidéo l'atelier de 2h
+
+![](https://lh4.googleusercontent.com/G0sHZCcGLLMxUgyko3g0Wcr29Vq2URzEtDunNqmWEtOhv1mzVTgxCN1rIuLY0KGn-76fi9dpetVfC9mFhy9SR56DjxVaZpnZO9yxLFo\_XFHDfoXi\_AyAioo\_nF96pk1j2OFkg3s2)
+
+## **Objectifs et action**
+
+Trouvez vos premiers utilisateurs :
+
+1. Faites du démarchage, balayez large puis recentrer sur ceux qui vous semblent avoir le plus de valeur
+2. Misez sur les utilisateurs motivés et laissez de côtés ceux qui vous posent des difficultés
+3. Engagez les en leur annonçant que vous allez développer une solution pour eux et avec eux
+
+Les premiers utilisateurs ont une importance spéciale. Avant de les avoir trouvés, votre solution n’est qu’une idée.
+
+## **Etude de cas : Peps, le test du prototype**
+
+Suite à l’abandon d’une première version du produit, des entretiens utilisateurs ont été menés qui ont révélé trois types d’agriculteurs : l’innovateur agronomique, l’innovateur technique et le traditionnel. Ce constat a ensuite permis d’élaborer une nouvelle proposition :
+
+“Comment le service que nous construisons peut permettre aux agriculteurs traditionnels d’expérimenter de nouvelles choses en s’inspirant de ce que font les innovateurs ?”
+
+Nous avons alors testé la mise en place d’un site de partage d’expérience entre agriculteurs selon les modalités suivantes :
+
+* 60 agriculteurs
+* un territoire (grand quart nord est de la France)
+* une filière (grande culture)
+* un site beta fermé
+
+→ Objectif : valider la proposition de valeur
+
+Les indicateurs suivis :
+
+* Nombre d’expériences publiées
+* Nombre de profils sur le site, NPS,
+* Temps de visites sur le site
+* Entretiens qualitatifs
+
+→ Des résultats assez bons pour lancer le service
+
+<details>
+
+<summary>7 techniques pour un bon contact avec vos usagers</summary>
+
+
 
 ## **1. Trouver des contact**
 
@@ -159,3 +222,5 @@ On n'y pense pas forcément, mais il est tout à fait possible de dépenser quel
 * Ce n’est pas compliqué, il y a énormément de contenu à ce sujet. Pour aller plus loin, vous pouvez consulter ces deux ateliers beta.gouv :
   * [https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jactive-la-croissance-de-ma-se-growth-hacking/les-principes-du-growth-hacking/acquisition#atelier-sea-google-adwords](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jactive-la-croissance-de-ma-se-growth-hacking/les-principes-du-growth-hacking/acquisition#atelier-sea-google-adwords)
   * [https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jactive-la-croissance-de-ma-se-growth-hacking/les-principes-du-growth-hacking/acquisition#trouver-des-usagers-avec-les-facebook-instagram-ad](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jactive-la-croissance-de-ma-se-growth-hacking/les-principes-du-growth-hacking/acquisition#trouver-des-usagers-avec-les-facebook-instagram-ad)
+
+</details>

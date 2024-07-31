@@ -19,7 +19,7 @@ Beaucoup d'outils "No Code" ne sont pas hébergés en France et/ou ne sont pas a
 ## Le Kit de démarrage
 
 {% hint style="info" %}
-N'hésite pas à passer du temps à explorer la documentation de l'incubateur, et notamment les pages dédiées aux [choix technologiques.](../../../gerer-son-produit/standards/tech/choisir-des-technologies.md)
+N'hésite pas à passer du temps à explorer la documentation de l'incubateur, et notamment les pages dédiées aux [choix technologiques.](../../../gerer-son-produit/les-standards/standards-de-qualite-beta.gouv.fr/choisir-des-technologies.md)
 
 Si tu viens de rejoindre la communauté, pense aussi à t'inscrire [à la prochaine session d'embarquement dédiée aux devs](https://airtable.com/shrUCbUT72KtKefsu) si ça n'est pas déjà fait.
 {% endhint %}
