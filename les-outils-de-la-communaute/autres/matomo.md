@@ -2,7 +2,7 @@
 description: Pour analyser le trafic sur son site.
 ---
 
-# Matomo - Analytics
+# Matomo
 
 ## [![Sanity-check: B](https://camo.githubusercontent.com/8fac053d2be7851f30ce264d562be328c250301dec3e3ed1f3655103b63e7463/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73616e6974795f636865636b2d422d6c69676874626c7565)](https://sanity-check.numericite.eu/posts/3034a20a-dafd-4349-98da-14e5344fb13d) [![type: SAAS](https://camo.githubusercontent.com/dc800db5f4457563d5a832874f6ee38e0543ad0cb6aa4f0506475cdff095ea46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747970652d534141532d626c7565)](https://camo.githubusercontent.com/dc800db5f4457563d5a832874f6ee38e0543ad0cb6aa4f0506475cdff095ea46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747970652d534141532d626c7565)
 
@@ -28,11 +28,7 @@ Matomo est l'équivalent _open source_ de Google Analytics.
 
 ## Ajouter un site en beta.gouv.fr au Matomo mutualisé
 
-#### Aller dans le channel Mattermost `incubateur-ops`
-
-![mattermost - channel incubateur-ops](../../.gitbook/assets/mattermost-incubateur-ops.png)
-
-Lien direct vers [le channel Mattermost ici](https://mattermost.incubateur.net/betagouv/channels/incubateur-ops).&#x20;
+#### Aller dans  [le channel Mattermost incubateur-demandes-ops ](https://mattermost.incubateur.net/betagouv/channels/incubateur-ops) et faire une demande via le formulaire dédié :&#x20;
 
 ## Recommandations pour utiliser Matomo sans bannière de consentement aux cookies
 
@@ -59,7 +55,11 @@ _Références_
 * [Comment configurer Matomo pour une protection de la vie privée sans consentement](https://fr.matomo.org/faq/how-do-i-use-matomo-analytics-without-consent-or-cookie-banner/#comment-configurer-matomo-pour-une-protection-de-la-vie-privee-sans-consentement)
 * [CNIL: Exemption du recueil de consentement •Mesure d’audience • Guide de configuration Matomo Analytics](https://www.cnil.fr/sites/cnil/files/atoms/files/matomo\_analytics\_-\_exemption\_-\_guide\_de\_configuration.pdf)
 
-Une fois votre compte créé sur Mattermost, vous pouvez installer le tracker sur votre site web&#x20;
+Une fois votre compte créé sur Matomo, vous pouvez installer le tracker sur votre site web
+
+{% hint style="warning" %}
+Si vous activez des fonctionnalités telles que les "heatmaps" vous devez obligatoirement demander le consentement de l'utilisateur.
+{% endhint %}
 
 ## Installation
 
