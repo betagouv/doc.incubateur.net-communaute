@@ -1,4 +1,4 @@
-# Charlotte Moore (Transcription et traduction)
+# ❌ charlotte-moore-transcription-et-traduction.md ❌
 
 ## Traduction **française**
 
@@ -150,11 +150,7 @@ Transcription
 
 Caroline Bonjour ! Dans le cadre de notre introduction à l'inclusion, nous avons invité Charlotte Moore, qui fait de la recherche utilisateur depuis à peu près 17 ans et les 7 dernières années elle travaille au Ministère de l'Intérieur britannique. On lui a fait appel parce qu'on a trouvé intéressante son approche pour assurer que le service sur lequel elle travaille est aussi inclusif que possible. Elle nous raconte.
 
-
-
 ## **Transcription (en anglais)**
-
-
 
 Caroline Hi, Charlotte.
 
