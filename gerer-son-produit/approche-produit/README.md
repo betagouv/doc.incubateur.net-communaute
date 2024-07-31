@@ -1,4 +1,4 @@
-# Guide de l’approche produit (présentation)
+# L'approche produit
 
 ## Guide de l'approche produit
 

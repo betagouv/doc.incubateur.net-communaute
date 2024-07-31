@@ -10,8 +10,8 @@ Cette section de la documentation donne quelques repères aux intrapreneurs pour
 [1.-reperes-pour-decideuses-et-decideurs-publics-sur-le-cout-des-services-numeriques.md](1.-reperes-pour-decideuses-et-decideurs-publics-sur-le-cout-des-services-numeriques.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../approche-produit/guide-de-financement-des-startups-detat/2.-typologie-des-depenses-dans-une-startup-detat.md" %}
-[2.-typologie-des-depenses-dans-une-startup-detat.md](../../approche-produit/guide-de-financement-des-startups-detat/2.-typologie-des-depenses-dans-une-startup-detat.md)
+{% content-ref url="../approche-produit/guide-de-financement-des-startups-detat/2.-typologie-des-depenses-dans-une-startup-detat.md" %}
+[2.-typologie-des-depenses-dans-une-startup-detat.md](../approche-produit/guide-de-financement-des-startups-detat/2.-typologie-des-depenses-dans-une-startup-detat.md)
 {% endcontent-ref %}
 
 {% content-ref url="3.-pilotage-du-cout-dun-produit-numerique-et-contraintes-liees-a-la-comptabilite-publique.md" %}
