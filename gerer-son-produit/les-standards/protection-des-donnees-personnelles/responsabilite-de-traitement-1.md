@@ -1,4 +1,4 @@
-# responsabilite-de-traitement/README.md
+# ❌ responsabilite-de-traitement/README.md ❌
 
 ## **Quelles sont les étapes classiques RGPD et sécurité dans le cycle de vie d’une startup ?**
 

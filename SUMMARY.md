@@ -151,7 +151,7 @@
       * [Les grands principes du RGPD](gerer-son-produit/les-standards/protection-des-donnees-personnelles/responsabilite-de-traitement/annexe-3-grands-principes-du-rgpd.md)
     * [Echanges de fichiers de données personnelles](gerer-son-produit/les-standards/protection-des-donnees-personnelles/echanges-de-fichiers-de-donnees-personnelles.md)
     * [Information et consentement des usagers](gerer-son-produit/les-standards/protection-des-donnees-personnelles/information-et-consentement-des-usagers.md)
-    * [responsabilite-de-traitement/README.md](gerer-son-produit/les-standards/protection-des-donnees-personnelles/responsabilite-de-traitement-1.md)
+    * [❌ responsabilite-de-traitement/README.md ❌](gerer-son-produit/les-standards/protection-des-donnees-personnelles/responsabilite-de-traitement-1.md)
   * [Sécurité](gerer-son-produit/standards/securite/README.md)
     * [❌ gerer-une-fuite-de-donnees ❌](gerer-son-produit/standards/securite/gerer-une-fuite-de-donnees/README.md)
     * [Gérer une fuite de données](<gerer-son-produit/standards/securite/gerer-une-fuite-de-donnees/README (1).md>)
