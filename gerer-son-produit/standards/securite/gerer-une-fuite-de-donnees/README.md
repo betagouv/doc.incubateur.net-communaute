@@ -5,7 +5,7 @@ description: >-
   entier.
 ---
 
-# gerer-une-fuite-de-donnees
+# ❌ gerer-une-fuite-de-donnees ❌
 
 ## Quel est ton profil ?
 

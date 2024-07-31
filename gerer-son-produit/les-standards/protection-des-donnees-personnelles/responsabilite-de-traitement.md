@@ -24,7 +24,7 @@ D’un point de vue plus pragmatique, c’est souvent la personne à la tête de
 
 La relation entre beta.gouv et les administrations partenaires est décrite dans une convention signée par les parties prenantes. Selon les produits, on parle de[ conventions de partenariat ou de conventions de délégation de gestion](../../standards/securite/responsabilite-de-traitement/broken-reference/).
 
-Dans les deux cas, l’administration partenaire à l’initiative du projet - qui va le financer - est responsable des traitements des données à caractère personnel traitées dans le cadre de la startup d'État. D’une certaine manière, le produit est développé pour le compte de l’administration partenaire, c’est la méthode utilisée qui varie. [En annexe 1, vous trouverez un tableau présentant la répartition traditionnelle des responsabilités entre la DINUM et l’administration porteuse.](../securite/responsabilite-de-traitement/annexe-1-tableau-presentant-la-repartition-traditionnelle-entre-les-startups-detat-et-leurs-spons.md)
+Dans les deux cas, l’administration partenaire à l’initiative du projet - qui va le financer - est responsable des traitements des données à caractère personnel traitées dans le cadre de la startup d'État. D’une certaine manière, le produit est développé pour le compte de l’administration partenaire, c’est la méthode utilisée qui varie. [En annexe 1, vous trouverez un tableau présentant la répartition traditionnelle des responsabilités entre la DINUM et l’administration porteuse.](responsabilite-de-traitement-1/annexe-1-tableau-presentant-la-repartition-traditionnelle-entre-les-startups-detat-et-leurs-spons.md)
 
 Cette construction n’empêche pas les équipes d’avoir une autonomie d’action.
 
@@ -52,4 +52,4 @@ C’est un point de discussion entre juristes de l’administration. En substanc
 
 Ce point est en attente de la clarification doctrine du Secrétariat Général du Gouvernement.
 
-Pour la DINUM : s’agissant d’une startup d'état, un texte n’est jamais nécessaire. Il existe quelques exceptions pour des produits traitant certaines données sensibles ou sur des thèmes particuliers (sûreté de l’Etat, Défense…). Pour aller plus loin, vous pouvez parcourir [l'annexe 2](../securite/responsabilite-de-traitement/annexe-2-dans-quel-cas-un-texte-juridique-est-il-necessaire-pour-mettre-en-oeuvre-mon-produit.md).
+Pour la DINUM : s’agissant d’une startup d'état, un texte n’est jamais nécessaire. Il existe quelques exceptions pour des produits traitant certaines données sensibles ou sur des thèmes particuliers (sûreté de l’Etat, Défense…). Pour aller plus loin, vous pouvez parcourir [l'annexe 2](responsabilite-de-traitement-1/annexe-2-dans-quel-cas-un-texte-juridique-est-il-necessaire-pour-mettre-en-oeuvre-mon-produit.md).
