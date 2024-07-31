@@ -96,7 +96,7 @@
 * [L'approche produit](gerer-son-produit/approche-produit/README.md)
 * [Guide de financement des Startups d'État](gerer-son-produit/guide-de-financement-des-startups-detat/README.md)
   * [🔖 Repères pour les décideuses et décideurs publics sur le coût des services numériques](gerer-son-produit/guide-de-financement-des-startups-detat/1.-reperes-pour-decideuses-et-decideurs-publics-sur-le-cout-des-services-numeriques.md)
-  * [3.-pilotage-du-cout-dun-produit-numerique-et-contraintes-liees-a-la-comptabilite-publique.md](gerer-son-produit/guide-de-financement-des-startups-detat/3.-pilotage-du-cout-dun-produit-numerique-et-contraintes-liees-a-la-comptabilite-publique.md)
+  * [🧑‍✈️ Pilotage du coût d'un produit numérique et contraintes liées à la comptabilité publique](gerer-son-produit/guide-de-financement-des-startups-detat/3.-pilotage-du-cout-dun-produit-numerique-et-contraintes-liees-a-la-comptabilite-publique.md)
   * [4.-lenjeu-du-pilotage-par-limpact.md](gerer-son-produit/guide-de-financement-des-startups-detat/4.-lenjeu-du-pilotage-par-limpact.md)
 * [❌ L'approche produit](gerer-son-produit/lappoche-produit/README.md)
   * [gerer-sa-fiche-produit.md](gerer-son-produit/approche-produit/je-gere-mon-produit-et-son-impact/gerer-sa-fiche-produit.md)
