@@ -5,7 +5,7 @@
 ## Découvrir beta.gouv.fr
 
 * [💡 L'histoire de beta.gouv.fr](decouvrir-beta.gouv.fr/histoire-de-beta.gouv.fr/README.md)
-  * [Références bibliographiques ❌](decouvrir-beta.gouv.fr/histoire-de-beta.gouv.fr/references-bibliographiques.md)
+  * [❌ Références bibliographiques ❌](decouvrir-beta.gouv.fr/histoire-de-beta.gouv.fr/references-bibliographiques.md)
 * [💚 Les valeurs](decouvrir-beta.gouv.fr/valeurs.md)
 * [🇫🇷 Les services à impact national](decouvrir-beta.gouv.fr/services-numeriques-a-impact-national.md)
 * [🧪 L'incubateur de la DINUM](decouvrir-beta.gouv.fr/incubateur-de-la-dinum/README.md)
@@ -93,14 +93,14 @@
 
 ## Gérer son produit
 
-* [📈 L'appoche produit](gerer-son-produit/lappoche-produit/README.md)
-  * [Guide de l’approche produit (présentation)](gerer-son-produit/approche-produit/README.md)
-  * [Guide de financement des Startups d'État](gerer-son-produit/approche-produit/guide-de-financement-des-startups-detat/README.md)
-    * [1.-reperes-pour-decideuses-et-decideurs-publics-sur-le-cout-des-services-numeriques.md](gerer-son-produit/approche-produit/guide-de-financement-des-startups-detat/1.-reperes-pour-decideuses-et-decideurs-publics-sur-le-cout-des-services-numeriques.md)
-    * [3.-pilotage-du-cout-dun-produit-numerique-et-contraintes-liees-a-la-comptabilite-publique.md](gerer-son-produit/approche-produit/guide-de-financement-des-startups-detat/3.-pilotage-du-cout-dun-produit-numerique-et-contraintes-liees-a-la-comptabilite-publique.md)
-    * [4.-lenjeu-du-pilotage-par-limpact.md](gerer-son-produit/approche-produit/guide-de-financement-des-startups-detat/4.-lenjeu-du-pilotage-par-limpact.md)
-  * [gerer-sa-fiche-produit.md](gerer-son-produit/approche-produit/je-gere-mon-produit-et-son-impact/gerer-sa-fiche-produit.md)
+* [L'approche produit](gerer-son-produit/approche-produit.md)
+* [❌ L'approche produit](gerer-son-produit/lapproche-produit/README.md)
+  * [gerer-sa-fiche-produit.md](gerer-son-produit/lapproche-produit/gerer-sa-fiche-produit.md)
   * [references-bibliographiques.md](decouvrir-beta.gouv.fr/histoire-de-beta.gouv.fr/references-bibliographiques.md)
+  * [Guide de financement des Startups d'État](gerer-son-produit/lapproche-produit/guide-de-financement-des-startups-detat/README.md)
+    * [1.-reperes-pour-decideuses-et-decideurs-publics-sur-le-cout-des-services-numeriques.md](gerer-son-produit/lapproche-produit/guide-de-financement-des-startups-detat/1.-reperes-pour-decideuses-et-decideurs-publics-sur-le-cout-des-services-numeriques.md)
+    * [3.-pilotage-du-cout-dun-produit-numerique-et-contraintes-liees-a-la-comptabilite-publique.md](gerer-son-produit/lapproche-produit/guide-de-financement-des-startups-detat/3.-pilotage-du-cout-dun-produit-numerique-et-contraintes-liees-a-la-comptabilite-publique.md)
+    * [4.-lenjeu-du-pilotage-par-limpact.md](gerer-son-produit/lapproche-produit/guide-de-financement-des-startups-detat/4.-lenjeu-du-pilotage-par-limpact.md)
 * [✅ Les standards](gerer-son-produit/les-standards/README.md)
   * [Système de design DSFR](gerer-son-produit/standards/dsfr/README.md)
     * [faire-un-service-accessible-avec-le-dsfr.md](gerer-son-produit/standards/dsfr/faire-un-service-accessible-avec-le-dsfr.md)

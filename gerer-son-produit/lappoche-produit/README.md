@@ -1,2 +1,0 @@
-# 📈 L'appoche produit
-

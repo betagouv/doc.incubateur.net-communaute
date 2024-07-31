@@ -1,4 +1,4 @@
-# Gérer sa fiche produit
+# gerer-sa-fiche-produit.md
 
 La fiche produit est la page qui présente chaque Startup d'État sur la page Réalisations du site beta.gouv.fr.
 
@@ -26,11 +26,9 @@ Tu restes libre de modifier le contenu si ces parties ne te conviennent pas.
 \- Connecte toi à ton [espace membre](https://espace-membre.incubateur.net/).\
 \- Rends toi dans l'espace "Produits" et "Créer une fiche produit"\
 \- Remplis le formulaire proposé.\
-\
+\\
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../.gitbook/assets/image%20(3).png" alt=""><figcaption></figcaption></figure>
 
 ## Modifier, gérer sa fiche produit
 
@@ -38,13 +36,13 @@ Tu souhaites modifier un élément de ta fiche produit ? Ajouter un Sponsor ? Ch
 
 Tu peux désormais le faire via [l'espace membre.](https://espace-membre.incubateur.net/startups)
 
-Sélectionne le nom de ta Startup d'Etat et modifie les éléments qui composent la fiche.\
+Sélectionne le nom de ta Startup d'Etat et modifie les éléments qui composent la fiche.\\
 
 Et voilà, les changements apparaitront sur le site beta.gouv.fr dans la journée.
 
 Tu pourras également ajouter un visuel à ta fiche produit.
 
-<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image%20(22).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Besoin d'aide ? Pose ta question sur le canal mattermost [#incubateur-help](https://mattermost.incubateur.net/betagouv/channels/incubateur-help)
@@ -60,7 +58,7 @@ Pour ajouter une image, il vous faudra suivre ces quelques indications:
 * Ajouter l'image souhaitée (au format jpg ou png obligatoirement)
 *   Et n'oubliez pas de merger !\
     \
-    Attention, le nom du fichier  doit être identique au nom de la startup comme elle apparait sur son github (et sans majuscule) afin que l'ajout se passe correctement.
+    Attention, le nom du fichier doit être identique au nom de la startup comme elle apparait sur son github (et sans majuscule) afin que l'ajout se passe correctement.
 
     [\
     ](https://github.com/betagouv/beta.gouv.fr/tree/master/img/startups)Vous n'avez plus qu'à vous rendre sur votre fiche produit pour vous assurer de l'ajout de votre image.
@@ -69,6 +67,4 @@ Pour ajouter une image, il vous faudra suivre ces quelques indications:
 Tu ne parviens pas à prendre en main ces outils ?
 
 Pour être accompagné.e, envoie un mail à communaute@beta.gouv.fr
-
-
 {% endhint %}
