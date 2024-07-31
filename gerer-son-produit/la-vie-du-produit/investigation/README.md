@@ -1,4 +1,4 @@
-# 1. Investigation
+# Investigation
 
 Objectifs et le fonctionnement d’une phase d’investigation menée dans le cadre du programme beta.gouv.fr
 
@@ -10,15 +10,22 @@ Parfois, les investigations à sélectionner sont présentées dans le cadre d'u
 
 Dernière mise à jour 3 months ago
 
-{% page-ref page="cest-quoi-concretement.md" %}
+{% content-ref url="cest-quoi-concretement.md" %}
+[cest-quoi-concretement.md](cest-quoi-concretement.md)
+{% endcontent-ref %}
 
-{% page-ref page="criteres-devaluation-a-la-fin-dune-investigation.md" %}
+{% content-ref url="criteres-devaluation-a-la-fin-dune-investigation.md" %}
+[criteres-devaluation-a-la-fin-dune-investigation.md](criteres-devaluation-a-la-fin-dune-investigation.md)
+{% endcontent-ref %}
 
-{% page-ref page="la-methode-dinvestigation-nest-pas.md" %}
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
 
-{% page-ref page="conseils-pour-les-coachs-en-investigation.md" %}
+{% content-ref url="conseils-pour-les-coachs-en-investigation.md" %}
+[conseils-pour-les-coachs-en-investigation.md](conseils-pour-les-coachs-en-investigation.md)
+{% endcontent-ref %}
 
-{% page-ref page="ressources-utiles-pour-linvestigation.md" %}
-
-
-
+{% content-ref url="ressources-utiles-pour-linvestigation.md" %}
+[ressources-utiles-pour-linvestigation.md](ressources-utiles-pour-linvestigation.md)
+{% endcontent-ref %}

@@ -1,4 +1,4 @@
-# Définir et mesurer l’impact
+# Définir et mesure l'impact
 
 ## Petit guide de la mesure d'impact <a href="#pourquoi-mesurer-un-impact" id="pourquoi-mesurer-un-impact"></a>
 
@@ -48,3 +48,50 @@ A long terme :
 
 * Construire une cohorte que l’on suit dans le temps en s’y prenant très en amont. Pour cela mesurer la différence “avec” et “sans” sur 2 groupes les plus similaires possibles (entre 100 et 100 000 personnes suivant l’importance de la précision). Un service statistique dans l'administration est souvent nécessaire.
 * Discuter régulièrement devant la page mastartup/stats : qu'a-t-on fait récemment pour augmenter l'impact ? pourquoi ça monte là ? y-a-t-il des poches d'impact (géographiques, organisationnelles, clientèles ..) que nous adressons mal ? …
+
+<details>
+
+<summary>Intégrer le bouton "je donne mon avis"</summary>
+
+Ce bouton permet à l'usager de donner son avis en répondant à quelques questions très simples.
+
+## **Créer un compte** sur MonAvis : <a href="#id-1-creer-un-compte-sur-monavis" id="id-1-creer-un-compte-sur-monavis"></a>
+
+* Accéder au site [observatoire.numerique.gouv.fr](https://observatoire.numerique.gouv.fr/)
+* Cliquer sur « Accès Administration» en bas à gauche de la page ;
+* Cliquer sur le lien « Inscription » ;
+* Remplir le formulaire d’inscription ;
+* Confirmer l’adresse mail en cliquant sur le lien reçu dans l’e-mail de confirmation ;
+
+<mark style="background-color:yellow;">ℹ️ Utilisez votre adresse @beta.gouv.fr pour éviter la validation manuelle par un administrateur.</mark>
+
+## Accéder à la p**age démarche** <a href="#id-2-acceder-a-la-page-de-sa-demarche-via-le-moteur-de-recherche" id="id-2-acceder-a-la-page-de-sa-demarche-via-le-moteur-de-recherche"></a>
+
+* Rechercher la démarche dans le moteur de recherche
+* **Si elle est absente du référentiel, ajouter sa démarche (étape optionnelle) :**
+  * Cliquer sur « Ajouter une démarche manquante » ;
+  * Remplir le formulaire de référencement de la démarche.
+
+## **Se déclarer porteur d’une démarche**
+
+<mark style="background-color:yellow;">✅ Si vous avez référencez votre démarche, vous devenez automatiquement « porteur de la démarche ».</mark>
+
+* Accéder à la page de la démarche
+* Cliquer sur « Je suis porteur de cette démarche »
+
+Deux onglets sont alors accessibles : _Code à intégrer_ et _Tous les avis_.
+
+## **Obtenir le code du bouton :**
+
+* Accéder à la page de la démarche
+* Accéder à l’onglet « Code à intégrer » ;
+* Cliquer sur « Générer le code » ;
+* Choisir entre le bouton bleu et le bouton blanc
+* Copier le code du bouton ;
+* Intégrer le code à la fin de votre service.
+
+<mark style="background-color:yellow;">ℹ️ Si votre service numérique a une volumétrie annuelle de plus de 5 000 000 avis par an, contactez nosdemarches@modernisation.gouv.fr</mark>
+
+Pour plus d'informations, vous pouvez contacter **nosdemarches@modernisation.gouv.fr**
+
+</details>
