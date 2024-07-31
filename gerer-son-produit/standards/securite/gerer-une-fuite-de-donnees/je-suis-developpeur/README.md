@@ -41,8 +41,8 @@ Vérifier les risques associés à chaque service (liste non exhaustive) :
 
 ### La forme du rapport d'incident
 
-{% content-ref url="modele-de-rapport-dincident.md" %}
-[modele-de-rapport-dincident.md](modele-de-rapport-dincident.md)
+{% content-ref url="../modele-de-rapport-dincident.md" %}
+[modele-de-rapport-dincident.md](../modele-de-rapport-dincident.md)
 {% endcontent-ref %}
 
 * Il existe un modèle de rapport conçu pour ces situations. Il n'a pas vocation à être technique car il s’adresse à un public non-technique. Ce rapport vise à informer des risques.
@@ -80,11 +80,11 @@ Ne supprimez pas tout de suite la branche et le commit de votre historique local
 
 Cela se passe dans la page "branches" de votre dépôt :
 
-<img src="../../../../.gitbook/assets/github 1.png" alt="Où est le lien vers la page &#x22;branches&#x22;" data-size="original">
+<img src="../../../../../.gitbook/assets/github 1.png" alt="Où est le lien vers la page &#x22;branches&#x22;" data-size="original">
 
 Ensuite, cliquez sur le bouton "poubelle" en regard de la branche contenant le commit fautif :
 
-<img src="../../../../.gitbook/assets/github 2.png" alt="" data-size="original">
+<img src="../../../../../.gitbook/assets/github 2.png" alt="" data-size="original">
 
 Voilà, la branche est supprimée ! Mais vous n'êtes pas encore tiré·e d'affaire.
 
@@ -98,7 +98,7 @@ Rendez-vous sur le support Github, rubrique ["supprimer des vues mises en cache"
 
 L'assistant virtuel fait très bien le travail pour vous aider à remplir le ticket. Vous aurez besoin de l'URL à un moment donné.
 
-<img src="../../../../.gitbook/assets/github 3.png" alt="Conversation avec le chatbot" data-size="original">
+<img src="../../../../../.gitbook/assets/github 3.png" alt="Conversation avec le chatbot" data-size="original">
 
 Quelques minutes plus tard, un humain prend en charge votre demande et supprime le commit que vous avez indiqué. L'URL ci-dessus donne à présent une erreur 404.
 

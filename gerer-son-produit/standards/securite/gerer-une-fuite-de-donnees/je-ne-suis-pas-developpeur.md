@@ -35,7 +35,3 @@ description: >-
     * Si la violation des données à caractère personnel _présente un risque élevé_ = il faut inscrire la fuite dans le registre, prévenir la CNIL sous 72 heures et informer les personnes concernées au plus vite de la violation de leurs données à caractère personnel.
 
     Il est généralement de bonne pratique d'informer les utilisateurs concernés par la suite de données et les mesures prises pour éviter que la situation se reproduise.
-
-{% file src="../../../.gitbook/assets/27022023_-_Modèle_de_suivi_de_violation_de_données_à_caractère_personnel(1).docx" %}
-Version longue : modèle de rapport en cas de violation de données à caractère personnel
-{% endfile %}

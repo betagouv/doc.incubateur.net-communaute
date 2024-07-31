@@ -29,8 +29,8 @@
 
 * Renvoyer vers cette documentation :
 
-{% content-ref url="./" %}
-[.](./)
+{% content-ref url="README (1).md" %}
+[README (1).md](<README (1).md>)
 {% endcontent-ref %}
 
 {% content-ref url="modele-de-rapport-dincident.md" %}

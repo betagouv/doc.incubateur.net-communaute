@@ -9,7 +9,7 @@ description: >-
 ## Contexte
 
 * Titre : nom de la SE
-* Date de l'incident :  JJ MM AAAA
+* Date de l'incident : JJ MM AAAA
 * Rédacteurs : Prénom, nom et fonction dans l’équipe
 * Description de l’incident : Expliquer en deux phrase l’incident.
 * Impact : exemple d’impact
@@ -29,7 +29,7 @@ description: >-
 #### Problème
 
 * Déterminer le niveau d’alerte selon la gravité de la fuite avec des couleurs…
-  * Niveau alerte rouge :&#x20;
+  * Niveau alerte rouge :
     * Exemple de problème : les emails des utilisateurs du produit sont accessibles au monde entier
     * Contact immédiat de l’équipe. Fix immédiat et rapport en 24h
   * Niveau alerte orange :
@@ -40,9 +40,9 @@ description: >-
 
 #### Résolution
 
-* Ce qui a fonctionné correctement :&#x20;
-* Actions de résolution mises en place :&#x20;
-* Action de résolution programmées :&#x20;
+* Ce qui a fonctionné correctement :
+* Actions de résolution mises en place :
+* Action de résolution programmées :
 
 #### Voir le modèle directement dans pad.incubateur 👇
 
