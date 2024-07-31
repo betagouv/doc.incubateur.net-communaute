@@ -1,7 +1,7 @@
 # Sécurité
 
-{% content-ref url="../../les-standards/protection-des-donnees-personnelles/responsabilite-de-traitement-1/" %}
-[responsabilite-de-traitement-1](../../les-standards/protection-des-donnees-personnelles/responsabilite-de-traitement-1/)
+{% content-ref url="../../les-standards/protection-des-donnees-personnelles/responsabilite-de-traitement-1.md" %}
+[responsabilite-de-traitement-1.md](../../les-standards/protection-des-donnees-personnelles/responsabilite-de-traitement-1.md)
 {% endcontent-ref %}
 
 {% content-ref url="../../les-standards/protection-des-donnees-personnelles/analyse-dimpact-relative-a-la-protection-des-donnees-aipd.md" %}
