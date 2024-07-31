@@ -5,12 +5,12 @@ description: >-
   entier.
 ---
 
-# gerer-une-fuite-de-donnees/README.md
+# Gérer une fuite de données
 
 ## Quel est ton profil ?
 
-{% content-ref url="je-suis-developpeur/README (1).md" %}
-[README (1).md](<je-suis-developpeur/README (1).md>)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="je-ne-suis-pas-developpeur.md" %}

@@ -1,4 +1,4 @@
-# je-suis-ops-transverse-dun-incubateur.md
+# Je suis ops transverse d'un incubateur
 
 ## Qui prend le lead en cas d'alerte détectée ?
 
@@ -29,8 +29,8 @@
 
 * Renvoyer vers cette documentation :
 
-{% content-ref url="README (1).md" %}
-[README (1).md](<README (1).md>)
+{% content-ref url="./" %}
+[.](./)
 {% endcontent-ref %}
 
 {% content-ref url="modele-de-rapport-dincident.md" %}
