@@ -103,7 +103,7 @@
 * [✅ Les standards](gerer-son-produit/les-standards/README.md)
   * [Système de design DSFR](gerer-son-produit/standards/dsfr/README.md)
     * [faire-un-service-accessible-avec-le-dsfr.md](gerer-son-produit/standards/dsfr/faire-un-service-accessible-avec-le-dsfr.md)
-    * [le-bloc-marque.md](gerer-son-produit/standards/dsfr/le-bloc-marque.md)
+    * [L'entête du DSFR](gerer-son-produit/standards/dsfr/le-bloc-marque.md)
   * [Accessibilité & inclusion](gerer-son-produit/les-standards/accessibilite-and-inclusion/README.md)
     * [accessibilite-et-rgaa](gerer-son-produit/les-standards/accessibilite-and-inclusion/accessibilite-et-rgaa/README.md)
       * [formation-a-laccessibilite](gerer-son-produit/les-standards/accessibilite-and-inclusion/accessibilite-et-rgaa/formation-a-laccessibilite/README.md)
