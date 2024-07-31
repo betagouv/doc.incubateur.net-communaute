@@ -4,7 +4,7 @@ description: >-
   sensibles sont exposées.
 ---
 
-# Je suis développeur
+# ❌ je-suis-developpeur/README.md ❌
 
 {% hint style="success" %}
 Reste concentré sur les actions à prendre, ne reste pas isolé, demande de l'aide, verbalise tes difficultés et ton stress, fais-toi confiance. On t'aidera.

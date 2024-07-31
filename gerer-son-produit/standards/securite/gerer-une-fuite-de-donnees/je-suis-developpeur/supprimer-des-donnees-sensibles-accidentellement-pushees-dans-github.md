@@ -1,4 +1,4 @@
-# Supprimer des données sensibles accidentellement pushées dans github
+# ❌ supprimer-des-donnees-sensibles-accidentellement-pushees-dans-github.md ❌
 
 ## Identifier la branche et le(s) commits fautifs
 
@@ -12,13 +12,13 @@ Ne supprimez pas tout de suite la branche et le commit de votre historique local
 
 ## Supprimer la branche sur GitHub
 
-Cela se passe dans la page "branches" de votre dépôt :&#x20;
+Cela se passe dans la page "branches" de votre dépôt :
 
 <figure><img src="../../../../.gitbook/assets/ou-est-le-lien-vers-les-branches.png" alt=""><figcaption><p>Où est le lien vers la page "branches"</p></figcaption></figure>
 
-Ensuite, cliquez sur le bouton "poubelle" en regard de la branche contenant le commit fautif :&#x20;
+Ensuite, cliquez sur le bouton "poubelle" en regard de la branche contenant le commit fautif :
 
-![](<../../../../.gitbook/assets/Capture d’écran 2023-02-02 à 16.23.14.png>)
+![](../../../../.gitbook/assets/Capture%20d%E2%80%99e%CC%81cran%202023-02-02%20a%CC%80%2016.23.14.png)
 
 Voilà, la branche est supprimée ! Mais vous n'êtes pas encore tiré·e d'affaire.
 
@@ -32,9 +32,9 @@ Rendez-vous sur le support Github, rubrique ["supprimer des vues mises en cache"
 
 L'assistant virtuel fait très bien le travail pour vous aider à remplir le ticket. Vous aurez besoin de l'URL à un moment donné.
 
-<figure><img src="../../../../.gitbook/assets/Capture d’écran 2023-02-02 à 16.33.32.png" alt=""><figcaption><p>Conversation avec le chatbot</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Capture%20d%E2%80%99e%CC%81cran%202023-02-02%20a%CC%80%2016.33.32.png" alt=""><figcaption><p>Conversation avec le chatbot</p></figcaption></figure>
 
-Quelques minutes plus tard, un humain prend en charge votre demande et supprime le commit que vous avez indiqué. L'URL ci-dessus donne à présent une erreur 404.&#x20;
+Quelques minutes plus tard, un humain prend en charge votre demande et supprime le commit que vous avez indiqué. L'URL ci-dessus donne à présent une erreur 404.
 
 Vous pouvez reprendre la suite de la gestion de l'incident, les données ont bien été supprimées de Github.
 
@@ -42,7 +42,7 @@ Vous pouvez reprendre la suite de la gestion de l'incident, les données ont bie
 
 En local c'est plus simple.
 
-Si vous êtes OK pour supprimer toute la branche :&#x20;
+Si vous êtes OK pour supprimer toute la branche :
 
 ```
 git branch -D ma-branche-avec-un-secret
