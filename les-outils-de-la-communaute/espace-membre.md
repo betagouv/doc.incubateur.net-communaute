@@ -20,3 +20,6 @@ L'espace-membre vous permet :
 Veille à mettre à jour régulièrement les dates de mission, employeur et startups sur lesquelles tu interviens, sinon tu risques de perdre tes accès très fort.
 {% endhint %}
 
+{% content-ref url="../ressources/questions-frequentes/faq-espace-membre.md" %}
+[faq-espace-membre.md](../ressources/questions-frequentes/faq-espace-membre.md)
+{% endcontent-ref %}

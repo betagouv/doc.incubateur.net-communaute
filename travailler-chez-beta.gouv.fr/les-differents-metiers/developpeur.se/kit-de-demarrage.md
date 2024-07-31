@@ -4,7 +4,7 @@ description: >-
   construction
 ---
 
-# Kit de démarrage à destination des Devs
+# Kit de démarrage dev
 
 L'objectif des 6 premiers mois est d'**avoir de l'impact sur au moins un usager**, en écrivant du code de qualité en terme d'accessibilité (front), sécurité (back) et données utilisateurs (RGPD).
 
@@ -19,60 +19,41 @@ Beaucoup d'outils "No Code" ne sont pas hébergés en France et/ou ne sont pas a
 ## Le Kit de démarrage
 
 {% hint style="info" %}
-N'hésite pas à passer du temps à explorer la documentation de l'incubateur, et notamment les pages dédiées aux [choix technologiques](../../je-fais-des-choix-technologique/).
+N'hésite pas à passer du temps à explorer la documentation de l'incubateur, et notamment les pages dédiées aux [choix technologiques.](../../../gerer-son-produit/standards/tech/choisir-des-technologies.md)
 
 Si tu viens de rejoindre la communauté, pense aussi à t'inscrire [à la prochaine session d'embarquement dédiée aux devs](https://airtable.com/shrUCbUT72KtKefsu) si ça n'est pas déjà fait.
 {% endhint %}
 
-*   **Langages/Frameworks de référence** : _Javascript/Typescript_ (NodeJS/Express) et _Python_ (Django) :
+Plusieurs templates sont proposés par la communauté et permettent de démarrer rapidement un nouveau projet :&#x20;
 
-    * Ces langages sont flexibles, sécurisés et faciles à prendre en main lors de l'accélération ou du transfert du produit.
-    * Il est facile de trouver des personnes compétentes pour aider.
-    * Des templates et librairies intégrant le [Design System de l'État](https://www.systeme-de-design.gouv.fr/) pour différents contextes existent déjà [sur notre compte GitHub](https://github.com/betagouv?q=template\&type=all\&language=\&sort=)
-
-    Si vous avez des besoins qui ne sont pas couverts par ces langages, discutez-en avec l'équipe technique de BetaGouv.
-* **Gestionnaire de versions** : _Git_ avec [le compte GitHub de beta.gouv.fr](https://github.com/betagouv).
-* **Design System** : le Design System de l'État dont les composants sont accessibles nativement.
-  * Documentation du [design system](https://www.systeme-de-design.gouv.fr/)
-  * [Plusieurs librairies existent](https://github.com/topics/dsfr) pour votre lanugage/framework favori
-* **Hébergement** : ce choix dépend du type de données hébergées.
-  * Plusieurs options disponibles sont décrites dans la section dédiée à l'[infra](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/infra#services-pratiques-pour-lancer-un-site-web)
-* **Intégration et déploiement continus (CI / CD)** :
-  * _Circle CI_ lié à l'organisation betagouv sur GitHub.
-  * _Github Actions_, utilisées par de plus en plus d'équipes.
-* **Suivi des erreurs** : _Sentry_
-  * Un compte est à disposition des équipes (invitation sur [#incubateur-ops](https://mattermost.incubateur.net/login?redirect\_to=%2Fbetagouv%2Fchannels%2Fincubateur-ops))
-* **Analytics** : [stats.beta.gouv.fr](https://stats.beta.gouv.fr)
-  * Matomo est hébergé par un prestataire dédié, configuré comme préconisé par la CNIL et permet de suivre son audience sans avoir à mettre un bandeau avertissant les visiteurs sur le dépôt de cookies. **Attention** ! Le nombre de visiteurs sur votre site est rarement l'équivalent d'une mesure d'impact.
+{% embed url="https://github.com/betagouv/?language=&q=template&sort=&type=all" %}
 
 ## Standards de qualité beta.gouv.fr
 
-Les standards de qualité beta.gouv.fr sont référencés à la page ci-dessous.
-
-{% hint style="warning" %}
+{% hint style="danger" %}
 Ne pas respecter les standards de qualité devra être justifié.
 {% endhint %}
 
-{% content-ref url="../../je-fais-des-choix-technologique/standards-de-qualite-beta.gouv.fr.md" %}
-[standards-de-qualite-beta.gouv.fr.md](../../je-fais-des-choix-technologique/standards-de-qualite-beta.gouv.fr.md)
+{% content-ref url="../../../gerer-son-produit/les-standards/" %}
+[les-standards](../../../gerer-son-produit/les-standards/)
 {% endcontent-ref %}
 
 Pour t'aider à situer ta Startup d'État par rapport à ces standards de qualité, ajoute ton url à l'outil [DashLord](https://dashlord.incubateur.net) en ouvrant une PR [ici](https://github.com/betagouv/dashlord/blob/main/dashlord.yml). Tu trouveras plus d'informations sur la page ci-dessous.
 
-{% content-ref url="../../../travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/dashlord/" %}
-[dashlord](../../../travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/dashlord/)
+{% content-ref url="../../../les-outils-de-la-communaute/autres-services/dashlord.md" %}
+[dashlord.md](../../../les-outils-de-la-communaute/autres-services/dashlord.md)
 {% endcontent-ref %}
 
 ## Cadre légal
 
 Dans le cadre du travail avec l'administration, il est important de connaitre les contraintes légales en terme de Sécurité, RGPD et Accessibilité.
 
-{% content-ref url="../../je-securise-mon-produit/guide-rgpd-et-securite.md" %}
-[guide-rgpd-et-securite.md](../../je-securise-mon-produit/guide-rgpd-et-securite.md)
+{% content-ref url="../../../gerer-son-produit/standards/securite/guide-rgpd-et-securite.md" %}
+[guide-rgpd-et-securite.md](../../../gerer-son-produit/standards/securite/guide-rgpd-et-securite.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../jameliore-le-design-et-lexperience-utilisateur/accessibilite-et-rgaa/" %}
-[accessibilite-et-rgaa](../../jameliore-le-design-et-lexperience-utilisateur/accessibilite-et-rgaa/)
+{% content-ref url="../../../gerer-son-produit/les-standards/accessibilite-and-inclusion/accessibilite-et-rgaa/" %}
+[accessibilite-et-rgaa](../../../gerer-son-produit/les-standards/accessibilite-and-inclusion/accessibilite-et-rgaa/)
 {% endcontent-ref %}
 
 Nous proposons aussi des formations dédiée : contactez l'équipe technique de beta pour plus d'informations.
@@ -84,10 +65,6 @@ Il est crucial de ne pas rester seul face à des choix technologiques potentiell
 ### L'équipe technique de beta
 
 Son rôle est d'accompagner les Startups d'Etat dans la construction de produits de qualité et respectueux de la réglementation en termes de sécurité, d'accessibilité, et de respect du RGPD.
-
-### Les devs transverses
-
-Les devs transverses travaillent sur les outils mutualisés de la communauté et peuvent accompagner ponctuellement les SE sur des points techniques. Tu peux les solliciter sur le canal Mattermost [`#dinum-dev-transverse`](https://mattermost.incubateur.net/betagouv/channels/dinum-dev-transverse)
 
 ### La communauté
 

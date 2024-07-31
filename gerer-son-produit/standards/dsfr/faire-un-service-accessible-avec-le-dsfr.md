@@ -6,8 +6,7 @@
 
 {% hint style="info" %}
 Ce contenu est aussi disponible sous la forme de webinaire\
-🖥️ [**Support de présentation**](https://docs.google.com/presentation/d/1fqlKT51fbjqu0OrU30OLvQK5CURFcDZmJHMcZsvauCI/edit#slide=id.g2072cd81032\_0\_144)\
-▶️ [**Visio du webinaire**](https://bbb-dinum-scalelite.visio.education.fr/playback/presentation/2.3/87785ffa751d94980ff8dab4007b2daa8de53178-1679993345503) (à partir de la 15ème minute)
+🖥️ [**Support de présentation**](https://docs.google.com/presentation/d/1fqlKT51fbjqu0OrU30OLvQK5CURFcDZmJHMcZsvauCI/edit#slide=id.g2072cd81032\_0\_144)
 {% endhint %}
 
 ### Le DSFR aide à une base saine <a href="#le-dsfr-aide-a-une-base-saine" id="le-dsfr-aide-a-une-base-saine"></a>
@@ -27,21 +26,11 @@ Si un composant n’existe pas, il est possible de créer ses propres composants
 
 #### Designer un composant accessible <a href="#designer-un-composant-accessible" id="designer-un-composant-accessible"></a>
 
-Choisir les couleurs avec soin :&#x20;
+Choisir les couleurs avec soin :
 
 * Respecter les tokens de couleurs
 * Ne pas communiquer des informations uniquement par la couleur
 * Vérifier les contrastes
-
-{% hint style="info" %}
-👉 [**Tester les combinaisons du DSFR**](https://combinaison.herokuapp.com) _par David Massiani (REVA)_
-{% endhint %}
-
-Documenter les intéractions du composant : survol, focus, cliqué, intéractions…
-
-{% hint style="info" %}
-👉 [**Documenter l’accessibilité en phase de design**](https://pad.incubateur.net/) par Stéphanie Walter
-{% endhint %}
 
 #### Coder un composant accessible <a href="#coder-un-composant-accessible" id="coder-un-composant-accessible"></a>
 

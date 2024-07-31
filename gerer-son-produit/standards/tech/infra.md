@@ -1,15 +1,19 @@
-# Infra
+# Hébergement
 
-Chaque Startup d'Etat gère son infrastructure de façon souveraine. Certains incubateurs proposent des services d'hébergement mutualisés; Renseignez-vous auprès des référent(e)s tech de votre fabrique.
+Chaque Startup d'Etat gère son infrastructure de façon souveraine. Certains incubateurs proposent des services d'hébergement mutualisés; Renseignez-vous auprès [des référent(e)s tech de votre fabrique.](../../gestion-au-quotidien/tech/liens-avec-les-referents-techs.md)
 
 ### Les services partagés
 
 L'équipe betagouv propose des ressources partagées pour vous aider à démarrer; Ces services sont fournis en mode "best effort" par l'équipe animation, sans garantie de service.\
 \
-Tous les services disponibles sont présentés sur la page ["les outils de la communauté"](../../travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/) et vous pouvez instancier ces services de votre côté si nécessaire.
+Tous les services disponibles sont présentés sur la page ["les outils de la communauté"](broken-reference) et vous pouvez instancier ces services de votre côté si nécessaire.
 
-{% content-ref url="../../travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/" %}
-[jutilise-les-outils-de-la-communaute](../../travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
+
+{% content-ref url="../../../les-outils-de-la-communaute/emails/envoyer-des-mails-en-masse/" %}
+[envoyer-des-mails-en-masse](../../../les-outils-de-la-communaute/emails/envoyer-des-mails-en-masse/)
 {% endcontent-ref %}
 
 ### Comment faire une demande d'ops
@@ -20,21 +24,9 @@ Si tu n'as pas de réponse sous 24h, consulte la liste des gens qui ont accès e
 
 Tu peux demander de l'aide sur ces sujets sur Mattermost dans 🔒`~incubateur-ops`.
 
-### Envoi de courriels en masse ou transactionnels
-
-* Brevo (ex SendInBlue)
-* Tipimail (Sarbacane)
-
-Si votre produit doit envoyer des newsletter ou emails transactionnels, **vous devez mettre en place un domaine dédié** type `@[produit].beta.gouv.fr` en faisant une demande OPS. Vous pourrez alors configurer vous-mêmes les enregistrements `DKIM` et `SPF` nécessaires à la bonne déliverabilité de vos emails.
-
-Quelques recommandations :
-
-* Assurez-vous de recueillir l'indispensable consentement explicite des personnes que vous ajoutez à vos bases de contacts
-* Purger régulièrement mes contacts (destinataires et abonnés des newsletters) en retirant des listes d’envoi les courriels des personnes qui se sont désabonnées
-
 ### Hébergement
 
-Quel que soit votre choix d'hébergement, pensez à bien documenter votre infrastructure et respecter [les 12 facteurs](https://12factor.net/fr/) pour une meilleure portabilité de votre application :)&#x20;
+Quel que soit votre choix d'hébergement, pensez à bien documenter votre infrastructure et respecter [les 12 facteurs](https://12factor.net/fr/) pour une meilleure portabilité de votre application :)
 
 #### Application mode PaaS
 
@@ -73,4 +65,3 @@ Vos utilisateurs ont besoin de téléverser (uploader) des images ou des fichier
 | 🇫🇷 Clever Cloud (HDS)     | Cellar (compatible S3 ; [lien](https://www.clever-cloud.com/cellar-s3-hosting/))                  |
 | 🇫🇷 OVH (HDS)              | Object Storage (compatible S3 ; [lien](https://www.ovhcloud.com/en/public-cloud/object-storage/)) |
 | 🇫🇷 OutScale (SecNumCloud) | Object Storage (compatible S3 ; [lien](https://fr.outscale.com/solutions-stockage-cloud/oos/))    |
-
