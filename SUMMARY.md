@@ -169,7 +169,7 @@
     * [❌ 7-techniques-pour-un-bon-contact-avec-vos-usagers.md ❌](gerer-son-produit/le-deploiement/chapitre-1/7-techniques-pour-un-bon-contact-avec-vos-usagers.md)
   * [❌ chapitre-1.-trouver-ses-premiers-utilisateurs/README.md ❌](gerer-son-produit/le-deploiement/chapitre-1.-trouver-ses-premiers-utilisateurs.md)
   * [Valider sa proposition de valeur et développer sa stratégie de déploiement](gerer-son-produit/le-deploiement/chapitre-2/README.md)
-    * [5-techniques-pour-trouver-ses-seconds-utilisateurs.md](gerer-son-produit/le-deploiement/chapitre-2/5-techniques-pour-trouver-ses-seconds-utilisateurs.md)
+    * [❌ 5-techniques-pour-trouver-ses-seconds-utilisateurs.md ❌](gerer-son-produit/le-deploiement/chapitre-2/5-techniques-pour-trouver-ses-seconds-utilisateurs.md)
   * [chapitre-2.-valider-sa-proposition-de-valeur-et-developper-sa-strategie-de-deploiement/README.md](gerer-son-produit/le-deploiement/chapitre-2.-valider-sa-proposition-de-valeur-et-developper-sa-strategie-de-deploiement.md)
   * [organiser-un-jeu-concours.md](gerer-son-produit/le-deploiement/organiser-un-jeu-concours.md)
   * [❌ phase-1-trouver-ses-premiers-utilisateurs-et-valider-la-proposition-de-valeur.md ❌](gerer-son-produit/le-deploiement/phase-1-trouver-ses-premiers-utilisateurs-et-valider-la-proposition-de-valeur.md)
