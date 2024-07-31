@@ -4,8 +4,8 @@
 
 Pour les grandes étapes et les questions associées à la conformité, vous pouvez vous référer à ce guide.
 
-{% content-ref url="../../../standards/guide-rgpd-et-securite.md" %}
-[guide-rgpd-et-securite.md](../../../standards/guide-rgpd-et-securite.md)
+{% content-ref url="../" %}
+[..](../)
 {% endcontent-ref %}
 
 ### Règle générale :
