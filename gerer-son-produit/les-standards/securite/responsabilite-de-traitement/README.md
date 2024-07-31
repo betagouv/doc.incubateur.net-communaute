@@ -1,11 +1,11 @@
-# Responsabilité de traitement
+# responsabilite-de-traitement/README.md
 
 ## **Quelles sont les étapes classiques RGPD et sécurité dans le cycle de vie d’une startup ?**
 
 Pour les grandes étapes et les questions associées à la conformité, vous pouvez vous référer à ce guide.
 
-{% content-ref url="../../guide-rgpd-et-securite.md" %}
-[guide-rgpd-et-securite.md](../../guide-rgpd-et-securite.md)
+{% content-ref url="../../../standards/guide-rgpd-et-securite.md" %}
+[guide-rgpd-et-securite.md](../../../standards/guide-rgpd-et-securite.md)
 {% endcontent-ref %}
 
 ### Règle générale :
@@ -22,7 +22,7 @@ D’un point de vue plus pragmatique, c’est souvent la personne à la tête de
 
 ### **Comment sont organisées les responsabilités entre la DINUM et les administrations partenaires ?**
 
-La relation entre beta.gouv et les administrations partenaires est décrite dans une convention signée par les parties prenantes. Selon les produits, on parle de[ conventions de partenariat ou de conventions de délégation de gestion](broken-reference).
+La relation entre beta.gouv et les administrations partenaires est décrite dans une convention signée par les parties prenantes. Selon les produits, on parle de[ conventions de partenariat ou de conventions de délégation de gestion](../../../standards/securite/responsabilite-de-traitement/broken-reference/).
 
 Dans les deux cas, l’administration partenaire à l’initiative du projet - qui va le financer - est responsable des traitements des données à caractère personnel traitées dans le cadre de la startup d'État. D’une certaine manière, le produit est développé pour le compte de l’administration partenaire, c’est la méthode utilisée qui varie. [En annexe 1, vous trouverez un tableau présentant la répartition traditionnelle des responsabilités entre la DINUM et l’administration porteuse.](annexe-1-tableau-presentant-la-repartition-traditionnelle-entre-les-startups-detat-et-leurs-spons.md)
 

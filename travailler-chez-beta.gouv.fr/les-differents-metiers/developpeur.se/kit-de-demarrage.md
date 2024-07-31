@@ -48,8 +48,8 @@ Pour t'aider à situer ta Startup d'État par rapport à ces standards de qualit
 
 Dans le cadre du travail avec l'administration, il est important de connaitre les contraintes légales en terme de Sécurité, RGPD et Accessibilité.
 
-{% content-ref url="../../../gerer-son-produit/standards/securite/guide-rgpd-et-securite.md" %}
-[guide-rgpd-et-securite.md](../../../gerer-son-produit/standards/securite/guide-rgpd-et-securite.md)
+{% content-ref url="../../../gerer-son-produit/les-standards/protection-des-donnees-personnelles/guide-rgpd-et-securite.md" %}
+[guide-rgpd-et-securite.md](../../../gerer-son-produit/les-standards/protection-des-donnees-personnelles/guide-rgpd-et-securite.md)
 {% endcontent-ref %}
 
 {% content-ref url="../../../gerer-son-produit/les-standards/accessibilite-and-inclusion/accessibilite-et-rgaa/" %}

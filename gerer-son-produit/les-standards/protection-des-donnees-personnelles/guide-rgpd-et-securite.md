@@ -4,7 +4,7 @@ description: >-
   poser, quelles actions entreprendre, et quelles ressources mobiliser.
 ---
 
-# Guide RGPD et Sécurité à chaque étape d'une Startup d'Etat
+# Guide RGPD et sécurité à chaque étape d'une Startup d'Etat
 
 {% hint style="info" %}
 Ce document est une proposition en cours d’élaboration. Il est susceptible d’être amendé ou de faire l’objet de contre-propositions.
@@ -24,7 +24,7 @@ _9 semaines pour instruire un problème et envisager des solutions pour le réso
 {% tabs %}
 {% tab title="Question à se poser" %}
 * Quels outils utilise l'équipe pour communiquer, prendre des notes, conduire des entretiens ?
-* "Qui ça regarde ?" Est-ce que je suis en train de partager des données au delà du périmètre de l'équipe ou de ceux qu'elles regardent ?&#x20;
+* "Qui ça regarde ?" Est-ce que je suis en train de partager des données au delà du périmètre de l'équipe ou de ceux qu'elles regardent ?
 
 > Exemple : Un entretien utilisateur peut être partagé avec l'équipe, le coach, l'environnement de l'équipe, mais sans doute pas au-delà. Est-ce que j'ai autorisé la lecture de mon Google doc par défaut, ou l'ai-je restreint au cercle d'intéressés ?
 
@@ -35,12 +35,10 @@ _9 semaines pour instruire un problème et envisager des solutions pour le réso
 * [ ] Je me documente sur les sujets RGPD & sécurité :
   * 💡 [Qu'est-ce qu'une donnée personnelle ?](https://www.cnil.fr/fr/cnil-direct/question/une-donnee-caractere-personnel-cest-quoi) [Qu'est-ce qu'une donnée personnelle sensible ?](https://www.cnil.fr/fr/definition/donnee-sensible)
   * 💡 [Guide d'hygiène informatique pour les systèmes d'information](https://www.ssi.gouv.fr/guide/guide-dhygiene-informatique/) & [Guide RGPD du dev](https://www.cnil.fr/fr/guide-rgpd-du-developpeur)
-* [ ] Je rencontre l'équipe juridique de la DINUM et de l'administration sponsor du produit pour une première prise de contact (Pour DINUM : perica.sucevic@modernisation.gouv.fr,  cindy.kus@modernisation.gouv.fr).
+* [ ] Je rencontre l'équipe juridique de la DINUM et de l'administration sponsor du produit pour une première prise de contact (Pour DINUM : perica.sucevic@modernisation.gouv.fr, cindy.kus@modernisation.gouv.fr).
 * [ ] Je limite l'accès aux docs partagés à ceux que "ça regarde" et j'utilise des outils différenciés en fonction du degré de gêne (sensibilité) des informations :
   * 💡 pad.incubateur.net est une alternative à Google doc qui permet de prendre des notes. L'option _signed-in people can edit_ limite la diffusion à la communauté @beta.gouv.fr.
 *   [ ] Je minimise les informations collectées et supprime celles dont je n'ai pas besoin : après un entretien utilisateur, ai-je besoin de conserver dans mes notes toutes les données de le personne interrogée (date de naissance, numéro de tél, nom, etc.) ?
-
-
 
     > Exemple : Un plan de déploiement peut sans doute être sur Google doc en accès ouvert, mais des notes d'entretien utilisateurs, plutôt en accès limité.
 * [ ] Je crée une fiche pour la nouvelle startup sur beta.gouv.fr.
@@ -52,7 +50,7 @@ _9 semaines pour instruire un problème et envisager des solutions pour le réso
 {% endtab %}
 {% endtabs %}
 
-## 🧱 Phase de construction produit&#x20;
+## 🧱 Phase de construction produit
 
 _3 à 6 mois pour développer une première solution numérique et l'expérimenter auprès d'utilisateurs_
 
@@ -69,7 +67,7 @@ Attention, la loi ne s'applique pas dans les cas de collecte, enregistrement ou 
 
 * Est-ce que le produit que je construit peut se rattacher à une démarche administrative existante, un service, ou un texte juridique permettant de justifier le traitement de certaines données ? Quelle est ma base légale de traitement ? Note : la base légale sera principalement la [mission d'intérêt public](https://www.cnil.fr/fr/les-bases-legales/mission-interet-public), ou bien [l'obligation légale](https://www.cnil.fr/fr/les-bases-legales/obligation-legale). Le [consentement](https://www.cnil.fr/fr/les-bases-legales/consentement) est à exclure dans l'administration (voir la section À ne pas faire).
 * Qui est mon référent RGPD (DPO ou délégué DPO) ou sécurité ?
-* Quelle solution d'hébergement utilisé-je pour mon site ? Est-elle opérée ou localisée en France, en Europe ? Est-ce que je traite des données sensibles ou de santé qui nécessitent un hébergeur particulier ? (voir [Infra](../je-fais-des-choix-technologique/infra.md) > schéma de choix hébergeur)
+* Quelle solution d'hébergement utilisé-je pour mon site ? Est-elle opérée ou localisée en France, en Europe ? Est-ce que je traite des données sensibles ou de santé qui nécessitent un hébergeur particulier ? (voir [Infra](../../standards/je-fais-des-choix-technologique/infra.md) > schéma de choix hébergeur)
 {% endtab %}
 
 {% tab title="A faire " %}
@@ -93,11 +91,11 @@ Attention, la loi ne s'applique pas dans les cas de collecte, enregistrement ou 
 {% endtab %}
 
 {% tab title="A ne pas faire" %}
-* Fausse bonne idée : considérer que le recueil du consentement est nécessaire. Pour l'administration, d'autres bases légales sont à considérer telles que la mission d'intérêt public ou l'obligation légale.&#x20;
+* Fausse bonne idée : considérer que le recueil du consentement est nécessaire. Pour l'administration, d'autres bases légales sont à considérer telles que la mission d'intérêt public ou l'obligation légale.
 {% endtab %}
 {% endtabs %}
 
-## 🚀 Phase d'accélération&#x20;
+## 🚀 Phase d'accélération
 
 _Mon produit a rencontré ses utilisateurs et démontré sa valeur en phase d'expérimentation ; je concentre mes efforts sur son déploiement à grande échelle (de 100 à 1 000 ou de 1 000 à 100 000 utilisateurs)_
 
@@ -123,5 +121,3 @@ _Mon produit a rencontré ses utilisateurs et démontré sa valeur en phase d'ex
 {% endtabs %}
 
 ## 📖 Support de présentation I Conformité RGPD - Mars 2021
-
-{% file src="../../.gitbook/assets/conformite-rgpd-support-formation.pdf" %}
