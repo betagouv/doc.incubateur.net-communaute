@@ -126,7 +126,7 @@
       * [introduction-a-lux-writing.md](gerer-son-produit/les-standards/design/recherche-utilisateur/introduction-a-lux-writing.md)
       * [mesurer-lux-avec-un-questionnaire.md](gerer-son-produit/les-standards/design/recherche-utilisateur/mesurer-lux-avec-un-questionnaire.md)
       * [prioriser-les-fonctionnalites-grace-aux-retours-utilisateurs.md](gerer-son-produit/les-standards/design/recherche-utilisateur/prioriser-les-fonctionnalites-grace-aux-retours-utilisateurs.md)
-      * [qui-sont-les-utilisateurs-et-utilisatrices-de-votre-produit.md](gerer-son-produit/les-standards/design/recherche-utilisateur/qui-sont-les-utilisateurs-et-utilisatrices-de-votre-produit.md)
+      * [Identifier les utilisateurs et utilisatrices de son service](gerer-son-produit/les-standards/design/recherche-utilisateur/qui-sont-les-utilisateurs-et-utilisatrices-de-votre-produit.md)
       * [realiser-des-entretiens-avec-vos-utilisateurs.md](gerer-son-produit/les-standards/design/recherche-utilisateur/realiser-des-entretiens-avec-vos-utilisateurs.md)
       * [realiser-un-openlab.md](gerer-son-produit/les-standards/design/recherche-utilisateur/realiser-un-openlab.md)
       * [simplifier-ses-contenus.md](gerer-son-produit/les-standards/design/recherche-utilisateur/simplifier-ses-contenus.md)
