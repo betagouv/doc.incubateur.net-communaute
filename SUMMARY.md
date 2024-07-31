@@ -110,7 +110,7 @@
         * [cartographie-et-accessibilite.md](gerer-son-produit/les-standards/accessibilite-and-inclusion/accessibilite-et-rgaa/formation-a-laccessibilite/cartographie-et-accessibilite.md.md)
         * [communiquer-sur-les-reseaux-sociaux.md](gerer-son-produit/les-standards/accessibilite-and-inclusion/accessibilite-et-rgaa/formation-a-laccessibilite/communiquer-sur-les-reseaux-sociaux.md.md)
         * [dataviz-et-accessibilite.md](gerer-son-produit/les-standards/accessibilite-and-inclusion/accessibilite-et-rgaa/formation-a-laccessibilite/dataviz-et-accessibilite.md.md)
-    * [rendre-un-service-inclusif/README.md](gerer-son-produit/standards/accessibilite-inclusion/rendre-un-service-inclusif/README.md)
+    * [Rendre un service inclusif](gerer-son-produit/standards/accessibilite-inclusion/rendre-un-service-inclusif/README.md)
       * [les-biais.md](gerer-son-produit/standards/accessibilite-inclusion/rendre-un-service-inclusif/les-biais.md)
       * [quest-ce-que-linclusion.md](gerer-son-produit/standards/accessibilite-inclusion/rendre-un-service-inclusif/quest-ce-que-linclusion.md)
       * [recherche-adapter-ses-methodes-pour-inclure/README.md](gerer-son-produit/standards/accessibilite-inclusion/rendre-un-service-inclusif/recherche-adapter-ses-methodes-pour-inclure/README.md)
