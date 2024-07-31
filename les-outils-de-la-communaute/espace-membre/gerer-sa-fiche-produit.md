@@ -28,7 +28,7 @@ Tu restes libre de modifier le contenu si ces parties ne te conviennent pas.
 \- Remplis le formulaire proposé.\
 \\
 
-<figure><img src="../../.gitbook/assets/image%20(3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gerer-son-produit/.gitbook/assets/image%20(3).png" alt=""><figcaption></figcaption></figure>
 
 ## Modifier, gérer sa fiche produit
 
@@ -42,7 +42,7 @@ Et voilà, les changements apparaitront sur le site beta.gouv.fr dans la journé
 
 Tu pourras également ajouter un visuel à ta fiche produit.
 
-<figure><img src="../../.gitbook/assets/image%20(22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gerer-son-produit/.gitbook/assets/image%20(22).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Besoin d'aide ? Pose ta question sur le canal mattermost [#incubateur-help](https://mattermost.incubateur.net/betagouv/channels/incubateur-help)

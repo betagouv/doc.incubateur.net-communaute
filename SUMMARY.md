@@ -99,7 +99,6 @@
   * [🧑‍✈️ Pilotage du coût d'un produit numérique et contraintes liées à la comptabilité publique](gerer-son-produit/guide-de-financement-des-startups-detat/3.-pilotage-du-cout-dun-produit-numerique-et-contraintes-liees-a-la-comptabilite-publique.md)
   * [4.-lenjeu-du-pilotage-par-limpact.md](gerer-son-produit/guide-de-financement-des-startups-detat/4.-lenjeu-du-pilotage-par-limpact.md)
 * [❌ L'approche produit](gerer-son-produit/lappoche-produit/README.md)
-  * [gerer-sa-fiche-produit.md](gerer-son-produit/approche-produit/je-gere-mon-produit-et-son-impact/gerer-sa-fiche-produit.md)
   * [references-bibliographiques.md](decouvrir-beta.gouv.fr/histoire-de-beta.gouv.fr/references-bibliographiques.md)
 * [✅ Les standards](gerer-son-produit/les-standards/README.md)
   * [Système de design DSFR](gerer-son-produit/standards/dsfr/README.md)
@@ -259,7 +258,8 @@
 
 ## Les outils de la communauté
 
-* [🗝️ Espace membre](les-outils-de-la-communaute/espace-membre.md)
+* [🗝️ Espace membre](les-outils-de-la-communaute/espace-membre/README.md)
+  * [gerer-sa-fiche-produit.md](les-outils-de-la-communaute/espace-membre/gerer-sa-fiche-produit.md)
 * [✉️ Emails](les-outils-de-la-communaute/emails/README.md)
   * [Listes de diffusion](les-outils-de-la-communaute/emails/liste-de-diffusion-et-adresses-de-contact.md)
   * [Envoyer et recevoir mes emails beta.gouv.fr](les-outils-de-la-communaute/emails/envoyer-et-recevoir-des-mails-beta.gouv.fr/README.md)
