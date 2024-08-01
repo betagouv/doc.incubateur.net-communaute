@@ -1,11 +1,11 @@
-# le-charge-de-deploiement-dans-le-programme-beta.gouv.md
+# 📈 Chargé et chargée de déploiement
 
 {% hint style="info" %}
 Dans les startups privées, ce sont les commerciaux, business developers ou ingénieurs d'affaires. Chez beta.gouv.fr, on les appelle les chargé·e·s de déploiement. Dans les deux cas, il s'agit de **trouver des utilisateurs** pour son service numérique ; dans le privé, le but est souvent de maximiser le revenu de l'entreprise, alors que dans le public, l'objectif est de **maximiser l'impact** (social, environnemental, etc) du service numérique.\
 Selon les équipes, les chargés de déploiement peuvent également assurer des missions de **support utilisateur** (_customer success_ dans le privé).
 {% endhint %}
 
-<figure><img src="../../../../.gitbook/assets/Screenshot 2024-01-31 101742.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-01-31 101742.png" alt=""><figcaption></figcaption></figure>
 
 Les produits chez beta sont construits de manière la plus frugale possible. En phase de construction les équipes sont constituées de 4-5 personnes avec souvent d’un·e seul·e chargé·e de déploiement qui doit assurer plusieurs rôles au sein de l’équipe.
 
@@ -28,7 +28,7 @@ Les **différents axes de mission** des chargé(e)s de déploiement :
 
 <div align="left">
 
-<figure><img src="../../../../.gitbook/assets/Sales (1).png" alt="" width="250"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Sales (1).png" alt="" width="250"><figcaption></figcaption></figure>
 
 </div>
 
@@ -53,7 +53,7 @@ _Actions principales_
 
 <div align="left">
 
-<img src="../../../../.gitbook/assets/Customer Success  (1).png" alt="" width="250">
+<img src="../../../.gitbook/assets/Customer Success  (1).png" alt="" width="250">
 
 </div>
 
@@ -80,7 +80,7 @@ _Actions principales_
 
 <div align="left">
 
-<figure><img src="../../../../.gitbook/assets/Animation de la communautéSuccess .png" alt="" width="250"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Animation de la communautéSuccess .png" alt="" width="250"><figcaption></figcaption></figure>
 
 </div>
 
@@ -99,7 +99,7 @@ _Actions_ :
 
 <div align="left">
 
-<figure><img src="../../../../.gitbook/assets/Expertise croissance Success .png" alt="" width="250"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Expertise croissance Success .png" alt="" width="250"><figcaption></figcaption></figure>
 
 </div>
 
@@ -118,7 +118,7 @@ _Actions :_
 
 <div align="left">
 
-<figure><img src="../../../../.gitbook/assets/Gestion des grands comptes.png" alt="" width="250"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Gestion des grands comptes.png" alt="" width="250"><figcaption></figcaption></figure>
 
 </div>
 
