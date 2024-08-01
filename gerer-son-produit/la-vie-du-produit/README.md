@@ -1,9 +1,5 @@
 # La vie du produit
 
-{% content-ref url="je-souhaite-lancer-une-startup-detat/" %}
-[je-souhaite-lancer-une-startup-detat](je-souhaite-lancer-une-startup-detat/)
-{% endcontent-ref %}
-
 {% content-ref url="investigation/" %}
 [investigation](investigation/)
 {% endcontent-ref %}
@@ -16,6 +12,6 @@
 [acceleration](acceleration/)
 {% endcontent-ref %}
 
-{% content-ref url="4.-consolidation-et-transfert" %}
-[4.-consolidation-et-transfert](4.-consolidation-et-transfert)
+{% content-ref url="perennisation/" %}
+[perennisation](perennisation/)
 {% endcontent-ref %}
