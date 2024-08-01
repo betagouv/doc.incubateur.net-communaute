@@ -1,4 +1,4 @@
-# L'approche produit
+# 💡 L'approche produit
 
 ## Guide de l'approche produit
 
