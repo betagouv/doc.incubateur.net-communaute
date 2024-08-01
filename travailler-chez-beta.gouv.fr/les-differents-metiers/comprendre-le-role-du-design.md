@@ -2,7 +2,11 @@
 description: Comment bien utiliser un designer dans un projet ?
 ---
 
-# Comprendre le rôle du design
+# Designer.euse
+
+{% hint style="info" %}
+Chez beta.gouv.fr, les designers ont pour objectif d'aider les équipes à **comprendre les utilisateurs et leurs besoins** et à **concevoir des interfaces les plus accessibles possibles** pour construire les bons services, de la bonne façon.
+{% endhint %}
 
 {% embed url="https://vimeo.com/415190106" %}
 Vidéo-conférence de la formation sur le rôle du design
@@ -42,12 +46,12 @@ Vidéo-conférence de la formation sur le rôle du design
     * Zeplin pour partager les maquettes avec les développeurs
     * Et des Post-it™ à gogo ! virtuel ou réel.
 12. Un point sur les compétences en Design.
-13. Le modèle de compétence en T permet de visualiser les différents domaines de compétence qui composent l’expérience utilisateur. D’un côté nous allons avoir des compétences plus liées à la recherche utilisateur (les phases planification et exploration) dans les colonnes ergonomie et UX, au milieu des compétences liées aux contenus et à leur organisation et à droite des compétences plus liées à la réalisation des projets. 
+13. Le modèle de compétence en T permet de visualiser les différents domaines de compétence qui composent l’expérience utilisateur. D’un côté nous allons avoir des compétences plus liées à la recherche utilisateur (les phases planification et exploration) dans les colonnes ergonomie et UX, au milieu des compétences liées aux contenus et à leur organisation et à droite des compétences plus liées à la réalisation des projets.
 14. Chaque designer, de par son parcours, va être plus à l’aise sur certains domaines. Il aura donc une ou plusieurs colonnes où il sera particulièrement compétent, mais il aura aussi des compétences de base dans les autres colonnes. D’où le modèle en T. Par exemple, un UX designer issu de la psychologie et l’ergonomie, aura de fortes compétences en ergonomie, en UX voir en conception de l’interaction, mais sera peu compétent sur la conception visuelle. Il pourra donc faire toute la recherche avec les utilisateurs, concevoir l’arborescence du service, le parcours utilisateur, mais il devra collaborer avec un autre designer pour réaliser la conception graphique.
 15. Deux exemples pour illustrer cela.
 16. _Slides 16 à 23_. Présentation de l’ensemble de la démarche mise en œuvre dans le cadre du projet api.gouv.fr en allant de la recherche utilisateur avec un certain nombre d’entretiens qui débouchent sur des besoins et des personas. De là il est possible de concevoir le parcours utilisateur puis le service et de l’illustrer avec maquette interactive.
-17. _Slides 24 à 26._ Pour ce second exemple un A/B testing a été réalisé. C’est-à-dire que les utilisateurs qui se connectaient sur le site étaient envoyés aléatoirement vers la version A, originale ou la version B retravaillée. Ça a permis de mettre en évidence que la version B permettait 50% de clics en plus sur le bouton « Faire une demande »  (A: 20,1% vs B: 30,1%).
-18. _27._ Si vous voulez travailler avec nous, vous pouvez nous contacter sur le slack  beta.gouv.fr canal #incubateur-designers-transverses ou par email    design@beta.gouv.fr
+17. _Slides 24 à 26._ Pour ce second exemple un A/B testing a été réalisé. C’est-à-dire que les utilisateurs qui se connectaient sur le site étaient envoyés aléatoirement vers la version A, originale ou la version B retravaillée. Ça a permis de mettre en évidence que la version B permettait 50% de clics en plus sur le bouton « Faire une demande » (A: 20,1% vs B: 30,1%).
+18. _27._ Si vous voulez travailler avec nous, vous pouvez nous contacter sur le slack beta.gouv.fr canal #incubateur-designers-transverses ou par email design@beta.gouv.fr
 19. _28._ Pour aller plus loin, une petite bibliographie :
     * Méthodes de design UX, 2éme édition, Carine Lallemand, ed. Eyrolles ; Livre de base à garder sous le coude pour trouver une méthodologie adaptée. C’est la 2éme édition avec encore plus de méthodes dont des versions guérillas.s
     * UX Design & Ergonomie des interfaces, de Jean-François Nogier,‎ Jules Leclerc, ed. Dunod ; Un livre qui accompagne les processus de conception.
