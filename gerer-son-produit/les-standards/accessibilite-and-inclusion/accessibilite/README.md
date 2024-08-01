@@ -48,6 +48,6 @@ La conformité ne s'atteint pas en un jour et ça n'est pas grave : c'est **l'en
 [sensibilisation-a-laccessibilite.md](formation-a-laccessibilite/sensibilisation-a-laccessibilite.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../../../../ressources/communaute/accessibilite/broken-reference/" %}
+[broken-reference](../../../../ressources/communaute/accessibilite/broken-reference/)
 {% endcontent-ref %}

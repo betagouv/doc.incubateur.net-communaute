@@ -4,13 +4,13 @@ description: >-
   chacun pendant la phase d'investigation.
 ---
 
-# Kit accessibilité - Investigation
+# investigation.md
 
 ## Se sensibiliser à l'accessibilité
 
 _Concevoir un service numérique accessible, c'est comprendre que ce service est utilisé par des vrais gens._
 
-![Panorama de personnes concernées par l'accessibilité, de design-accessible.fr](<../../../../.gitbook/assets/image (22) (1) (1).png>)
+![Panorama de personnes concernées par l'accessibilité, de design-accessible.fr](<../../../../../.gitbook/assets/image (22) (1) (1).png>)
 
 Le W3C a réalisé cette courte vidéo (4 minutes) pour expliquer très simplement [les notions d’accessibilité web et de standards](https://www.w3.org/WAI/videos/standards-and-benefits/fr) :
 

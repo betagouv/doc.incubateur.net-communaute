@@ -15,7 +15,7 @@ Chaque site conçu chez beta.gouv.fr doit :
 * **afficher l’**[**état de conformité**](https://accessibilite.numerique.gouv.fr/obligations/mentions-et-pages-obligatoires/) **du site** sur la page d’accueil
 * **publier une** [**déclaration de conformité**](https://betagouv.github.io/a11y-generateur-declaration/)
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Démarche Simplifiées affiche sa mention de conformité (partiellement conforme) en fin de page</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Démarche Simplifiées affiche sa mention de conformité (partiellement conforme) en fin de page</p></figcaption></figure>
 
 Ces obligations sont valables dès la mise en ligne du site, même si le service n'a pas encore été audité (on indiquera alors la mention "Accessibilité : non conforme")
 
@@ -30,15 +30,15 @@ Chaque équipe doit aussi **référencer la politique d’accessibilité** en r�
 * l'**organisation interne** prévue pour **mettre en œuvre** l'accessibilité
 * etc
 
-Les informations obligatoires sont décrites sur la page [Schéma pluriannuel de mise en accessibilité](https://accessibilite.numerique.gouv.fr/obligations/schema-pluriannuel/).&#x20;
+Les informations obligatoires sont décrites sur la page [Schéma pluriannuel de mise en accessibilité](https://accessibilite.numerique.gouv.fr/obligations/schema-pluriannuel/).
 
-Chaque équipe doit référencer un schéma, parmi :&#x20;
+Chaque équipe doit référencer un schéma, parmi :
 
 * le schéma pluriannuel de l'incubateur (s'il existe)
 * le schéma pluriannuel de leur administration sponsor (à retrouver sur la page Accessibilité du ministère) si elle existe...)
 * le [schéma pluriannuel](https://beta.gouv.fr/accessibilite/) de beta.gouv.fr par défaut sinon
 
-Chaque équipe peut ensuite proposer son **Plan d'action** pour l'année en cours. Il s'agit d'une liste ou d'un tableau indiquant les grandes étapes de mise en accessibilité. Par exemple :&#x20;
+Chaque équipe peut ensuite proposer son **Plan d'action** pour l'année en cours. Il s'agit d'une liste ou d'un tableau indiquant les grandes étapes de mise en accessibilité. Par exemple :
 
 > * Refonte vers le DSFR et amélioration de l'accessibilité du front - S1 2024
 > * Formation en interne (atelier Easy Checks menés par beta.gouv.fr- - S1 2024
@@ -70,7 +70,7 @@ _Note : il est aussi possible de faire un audit en interne. Cependant, cet exerc
 
 ## Préparer un audit RGAA
 
-Le [Pôle Numérique Inclusif](../../je-sollicite-de-laide-transverse/aide-transverse-pole-numerique-inclusif.md) peut vous aider à préparer un audit RGAA. Faire un **pré** **audit** en amont du l'audit RGAA vous permettra d'identifier les points d'accessibilité les points les plus bloquants. L'équipe pourra ainsi se préparer, corriger les erreurs les plus évidents et faciliter l'audit RGAA à venir.
+Le [Pôle Numérique Inclusif](../../../../ressources/je-sollicite-de-laide-transverse/aide-transverse-pole-numerique-inclusif.md) peut vous aider à préparer un audit RGAA. Faire un **pré** **audit** en amont du l'audit RGAA vous permettra d'identifier les points d'accessibilité les points les plus bloquants. L'équipe pourra ainsi se préparer, corriger les erreurs les plus évidents et faciliter l'audit RGAA à venir.
 
 {% hint style="info" %}
 **👉** [**Demander un audit par le Pole Numérique Inclusif**](https://docs.google.com/forms/d/1L4DOpBS9ibJWmWyypOOyB86ExGPLz-IwUuunazugsBU/edit)

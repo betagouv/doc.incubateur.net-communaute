@@ -2,7 +2,7 @@
 description: Mettre en place des bases saines pendant la phase de construction.
 ---
 
-# Kit accessibilité - Construction
+# construction.md
 
 ## Identifier les rôles de chacun
 
@@ -20,7 +20,7 @@ Les développeurs et développeuses ont la responsabilité de coder des composan
 
 * La [Notice d’accessibilité HTML et CSS](https://www.accede-web.com/notices/html-et-css/) d'AccedeWeb liste les règles à respecter pour un site accessible (structure générale, titre, liens, boutons, formulaires, liste...)
 * La [Notice d’accessibilité des principaux composants d’interface riche](https://www.accede-web.com/notices/interface-riche/) présente les principaux motifs de conception qu’il est recommandé de respecter lors du développement des composants d’interface riches (accordéons, modales, menu déroulant....)
-* Le [Design System de l'État](https://www.systeme-de-design.gouv.fr/) propose une documentation et des composants nativement accessible. Le webinaire [Faire un service accessible avec le DSFR](../../design-system-etat/faire-un-service-accessible-avec-le-dsfr.md) peut guider sur les bonnes pratiques à appliquer.
+* Le [Design System de l'État](https://www.systeme-de-design.gouv.fr/) propose une documentation et des composants nativement accessible. Le webinaire [Faire un service accessible avec le DSFR](../../../../../ressources/communaute/design-system-etat/faire-un-service-accessible-avec-le-dsfr.md) peut guider sur les bonnes pratiques à appliquer.
 {% endtab %}
 
 {% tab title="Intra, chargé de déploiement, product owner, etc" %}
@@ -40,13 +40,13 @@ Formez vous grâce à l'atelier **« Vérifier l'accessibilité de mon service �
 
 ### 10 choses faciles à vérifier
 
-En attendant l'atelier, vous pouvez déjà faire un petit tour d'horizon de votre service pour vérifier que :&#x20;
+En attendant l'atelier, vous pouvez déjà faire un petit tour d'horizon de votre service pour vérifier que :
 
 {% tabs %}
 {% tab title="Navigation" %}
 **Il y a au moins deux façons de naviguer dans le site.** Cela peut être un menu mais aussi un moteur de recherche, un plan, un fil d'ariane...
 
-![](../../../../.gitbook/assets/doublenav.png)
+![](../../../../../.gitbook/assets/doublenav.png)
 
 **Il est possible de naviguer au clavier**
 
@@ -56,7 +56,7 @@ Si la navigation au clavier est possible, les personnes utilisant des technologi
 * Un effet focus permet de repérer facilement la zone sélectionnée.
 * Il est toujours possible de sortir d'une zone au clavier.
 
-![Le focus est visible sur le site du Design System de l'État](../../../../.gitbook/assets/Capture%20d%E2%80%99e%CC%81cran%202021-09-10%20a%CC%80%2012.35.30.png)
+![Le focus est visible sur le site du Design System de l'État](../../../../../.gitbook/assets/Capture%20d%E2%80%99e%CC%81cran%202021-09-10%20a%CC%80%2012.35.30.png)
 {% endtab %}
 
 {% tab title="Textes" %}
@@ -67,13 +67,13 @@ La balise titre est la première chose lue par un lecteur d'écran : elle doit d
 * Elle décrit le contenu de la page brièvement.
 * Plusieurs pages du même site peuvent être différenciées facilement.
 
-![Le titre de la page apparait dans l'onglet du navigateur - Site beta.gouv.fr](../../../../.gitbook/assets/homebeta.png)
+![Le titre de la page apparait dans l'onglet du navigateur - Site beta.gouv.fr](../../../../../.gitbook/assets/homebeta.png)
 
 **Les titres respectent un ordre hiérarchique**
 
 Les titres de la page sont cohérents : il n'y a pas de trous dans les niveaux (de h1 à h6).
 
-![Hiérarchie des titres en accueil d'api.gouv.fr dans l'extension HeadingsMap](../../../../.gitbook/assets/Capture%20d%u2019e%CC%81cran%202020-05-25%20a%CC%80%2015.52.31.png)
+![Hiérarchie des titres en accueil d'api.gouv.fr dans l'extension HeadingsMap](../../../../../.gitbook/assets/Capture%20d%u2019e%CC%81cran%202020-05-25%20a%CC%80%2015.52.31.png)
 
 {% hint style="info" %}
 Je vérifie avec l'extension [HeadingsMap pour Firefox](https://addons.mozilla.org/fr/firefox/addon/headingsmap/)
@@ -83,7 +83,7 @@ Je vérifie avec l'extension [HeadingsMap pour Firefox](https://addons.mozilla.o
 
 Certains utilisateurs agrandissent le texte de la page pour mieux pouvoir le lire. Si j'utilise les options de zoom de texte du navigateur, le site doit rester lisible, les différentes informations ne doivent pas se superposer.
 
-![Le texte s'affiche correctement au zoom de la page](../../../../.gitbook/assets/zoom.png)
+![Le texte s'affiche correctement au zoom de la page](../../../../../.gitbook/assets/zoom.png)
 {% endtab %}
 
 {% tab title="Images & icônes" %}
