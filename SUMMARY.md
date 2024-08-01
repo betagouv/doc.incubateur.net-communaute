@@ -157,7 +157,7 @@
   * [Réseaux sociaux](gerer-son-produit/to-do-le-deploiement/reseaux-sociaux.md)
   * [Organiser un jeu concours](gerer-son-produit/to-do-le-deploiement/organiser-un-jeu-concours.md)
   * [Pourquoi le déploiement d'un service public en ligne est-il important ?](gerer-son-produit/to-do-le-deploiement/pourquoi-le-deploiement-dun-service-public-en-ligne-est-il-important.md)
-* [La vie du produit](gerer-son-produit/la-vie-du-produit/README.md)
+* [🧌 La vie du produit](gerer-son-produit/la-vie-du-produit/README.md)
   * [Investigation](gerer-son-produit/la-vie-du-produit/investigation/README.md)
     * [Définition](gerer-son-produit/la-vie-du-produit/investigation/cest-quoi-concretement.md)
     * [La checklist de l'investigation](gerer-son-produit/la-vie-du-produit/investigation/la-checklist-de-linvestigation.md)
