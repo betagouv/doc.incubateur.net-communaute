@@ -1,16 +1,14 @@
-# Guide d'entretiens par profil
+# Guide d'entretien par profil
 
 <details>
 
 <summary>Coachs</summary>
 
-
-
-#### Critères de recrutement
+**Critères de recrutement**
 
 1. Connaissance de l'**environnement beta.gouv.fr, Startups d'État,** ou plus largement des **enjeux de la transformation numérique de l'État**
 2. **Motivations** à travailler dans le service public / sur le sujet de politique publique visé : volonté de faire bouger les lignes en sachant rester conciliant, intérêt pour la transformation numérique de l'administration, etc
-3. **Adéquation** [**culturelle**](../../../../travailler-a-beta-gouv/culture/) : culture entrepreneuriale + culture de l'intérêt général
+3. **Adéquation** [**culturelle**](../../travailler-a-beta-gouv/culture/) : culture entrepreneuriale + culture de l'intérêt général
 4. Compétences en accompagnement d'équipe ou d'individus (**coaching**) : OKR, animations de formations, de rétros, capacité à savoir quand laisser faire ou prendre la main
 5. Compétences **tech** : recrutement des développeurs, niveau technique, _product management_, _no code_
 6. Compétences **design** : connaissance de démarches UX, maquettage rapide (Sketch, Figma)
@@ -18,7 +16,7 @@
 8. Track-Record entrepreneurial : quels sont les succès et les échecs passés du candidat ?
 9. Posture et _soft skills_ : travail en autonomie, en équipe, en horizontalité, capacité à comprendre rapidement un contexte/jeu d'acteurs compliqué, focus problème, focus usagers, sortir de situation complexe pour tout faire pour la réussite du produit, acquérir la confiance des sponsors, capacité à fédérer autour d'une approche usager
 
-#### Guide d'entretien
+**Guide d'entretien**
 
 45 minutes, dont :
 
@@ -38,7 +36,7 @@
 
 * 10 min : contexte
 * 20 min : présentation : "pourquoi penses-tu pouvoir réaliser cette mission ?"
-* 45 min : entretien technique : "tu peux nous montrer du code que tu as développé, en production, et expliquer ce qui te plaît et ce qui te déplaît dedans ?" (**prévoir  de venir avec sa machine,** ou du code hébergé auquel on pourrait accéder : une histoire à raconter sur pourquoi ce morceau de code ou son architecture te rend particulièrement fier·e, ou pourquoi celui-ci est vraiment très mauvais, pourquoi tu as décidé d'en arriver là, et comment tu aurais fait si les contraintes avaient été différentes)
+* 45 min : entretien technique : "tu peux nous montrer du code que tu as développé, en production, et expliquer ce qui te plaît et ce qui te déplaît dedans ?" (**prévoir de venir avec sa machine,** ou du code hébergé auquel on pourrait accéder : une histoire à raconter sur pourquoi ce morceau de code ou son architecture te rend particulièrement fier·e, ou pourquoi celui-ci est vraiment très mauvais, pourquoi tu as décidé d'en arriver là, et comment tu aurais fait si les contraintes avaient été différentes)
 * 15 min : questions pratiques : disponibilité, conditions
 
 </details>
@@ -47,9 +45,7 @@
 
 <summary>Gestionnaire de produit / Product Manager</summary>
 
-
-
-#### Environnement courant
+**Environnement courant**
 
 Parlons de ta dernière mission
 
@@ -60,7 +56,7 @@ Parlons de ta dernière mission
 * Parles-nous de 2 fois où tu as du faire des arbitrages difficiles.
 * Parles-nous d'une fois où tu avais une vision différente de celle de ton équipe.
 
-#### Analyse de produit
+**Analyse de produit**
 
 Parlons d'un produit que tu utilises régulièrement. Pourquoi l'utilises-tu ?
 
@@ -72,7 +68,7 @@ Parlons d'un produit que tu utilises régulièrement. Pourquoi l'utilises-tu ?
 * Qui est le client ? Pourquoi ?
 * Comment augmenterais-tu le nombre d'utilisateurs ?
 
-#### Création d'un nouveau produit
+**Création d'un nouveau produit**
 
 Parlons d'un domaine qui te passionne. Quel produit voudrais-tu construire ?
 
@@ -90,17 +86,27 @@ Parlons d'un domaine qui te passionne. Quel produit voudrais-tu construire ?
 
 <summary>Designers</summary>
 
-[Voir la page dédiée.](../../../jameliore-le-design-et-lexperience-utilisateur/design/)
+[Voir la page dédiée.](../../jameliore-le-design-et-lexperience-utilisateur/design/)
 
 </details>
 
 <details>
 
-<summary>Chargé / chargée de déploiement </summary>
+<summary>Chargé / chargée de déploiement</summary>
 
-Pour mieux comprendre ce rôle, à multiples casquettes, tu peux te référer à [cette page](../../les-differents-metiers-dans-une-startup-detat/le-metier-de-charge.e-de-deploiement-chez-beta.gouv/introduction/le-charge-de-deploiement-dans-le-programme-beta.gouv.md).&#x20;
+* **Expérimenté** pour trouver ses premiers utilisateurs et consolider les usages. C’est une étape clé car les premiers usagers deviendront les futurs ambassadeurs.
+* **Polyvalent** pour valider la proposition de valeur avec des premiers utilisateurs et faire le lien entre les usages terrain et l’équipe produit. Parfois le rôle de bizdev s’apparente un peu aux rôles de Product Manager et Growth Hackers.
+* **Débutant** lorsque les processus de déploiement sont déjà bien organisés.
 
-Ci-dessous, tu pourras trouver des informations concernant les compétences recherchées, différentes selon le niveau de séniorité.  Au début de la vie du produit, il peut être intéressant de prendre un.e chargé.e de déploiement avec plus d'expérience, afin d'être mieux accompagné. \
+Au fil de la vie du produit il est nécessaire de choisir des profils différents :
+
+Le recrutement des chargés de déploiement est essentiel dès le départ, pour s’assurer que son produit a un potentiel d’usage.
+
+\*\*\*\* \
+\
+Pour mieux comprendre ce rôle, à multiples casquettes, tu peux te référer à [cette page](../../les-differents-metiers-dans-une-startup-detat/le-metier-de-charge.e-de-deploiement-chez-beta.gouv/introduction/le-charge-de-deploiement-dans-le-programme-beta.gouv.md).
+
+Ci-dessous, tu pourras trouver des informations concernant les compétences recherchées, différentes selon le niveau de séniorité. Au début de la vie du produit, il peut être intéressant de prendre un.e chargé.e de déploiement avec plus d'expérience, afin d'être mieux accompagné.\
 \
 **Compétences chargé / chargée de déploiement junior**
 
@@ -136,7 +142,7 @@ _Expérience_
 * Avoir une expérience, même courte, en tant que bizdev
 * Maîtrise des techniques de vente
 
-#### **Compétences chargé / chargée de déploiement senior** <a href="#competences-bizdev-senior" id="competences-bizdev-senior"></a>
+**Compétences chargé / chargée de déploiement senior**
 
 Les **soft skills** sont beaucoup plus mis en avant en ce qui concerne les compétences des bizdev senior. Un bizdev senior devra faire preuve de leadership, et d’un excellent relationnel.
 
