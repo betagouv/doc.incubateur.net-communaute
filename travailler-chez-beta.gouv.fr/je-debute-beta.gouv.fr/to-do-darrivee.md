@@ -2,23 +2,23 @@
 description: Attention à ne pas tout faire en simultanée, il y a risque d'overdose 😄
 ---
 
-# Les premières semaines chez beta.gouv
+# Checklist
 
 ## La première semaine
 
 #### Quelque soit ton profil
 
-* [ ] Si ce n'est pas déjà fait : [créer sa fiche membre](premier-pas-indispensable-creer-ta-fiche-membre.md)
+* [ ] Si ce n'est pas déjà fait : [créer sa fiche membre](../../les-outils-de-la-communaute/espace-membre/premier-pas-indispensable-creer-ta-fiche-membre.md)
 * [ ] Lire l'email de bienvenue dans la communauté et regarder [la vidéo de présentation de beta.gouv](https://www.youtube.com/watch?v=TvFlxDMlbfo)
-* [ ] Prendre connaissance [des modalités de travail et de la culture d'organisation de beta.gouv.fr](../culture/)&#x20;
+* [ ] Prendre connaissance [des modalités de travail et de la culture d'organisation de beta.gouv.fr](../culture/)
 * [ ] Découvrir son équipe :
-  * [ ] Rejoindre ses canaux sur Mattermost&#x20;
+  * [ ] Rejoindre ses canaux sur Mattermost
   * [ ] S'imprégner de la mission sur la **fiche produit** disponible sur beta.gouv.fr/startups.
 * [ ] Découvrir [les canaux mattermost recommandés](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/mattermost/canaux-recommandes)
 * [ ] Explorer [son espace membre](https://espace-membre.incubateur.net/)
 * [ ] Découvrir [l'observatoire de beta.gouv](https://metabase.incubateur.net/public/dashboard/753b9685-f801-4b1a-8e09-6cefed729e2e?date\_d%27arriv%25C3%25A9=past3years\~)
 * [ ] Trouver l'observatoire trop cool et [y contribuer](https://espace-membre.incubateur.net/) via ton espace membre
-* [ ] Découvrir s'il y a d'autres membres de la communauté près de chez toi sur la [carte des membres](https://espace-membre.incubateur.net/map)&#x20;
+* [ ] Découvrir s'il y a d'autres membres de la communauté près de chez toi sur la [carte des membres](https://espace-membre.incubateur.net/map)
 * [ ] Découvrir [tous les lieux où travailler ou organiser des événements](../../decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/ou-travailler.md)
 * [ ] S'abonner à [l'agenda public de l'incubateur](https://calendar.google.com/calendar/embed?src=0ieonqap1r5jeal5ugeuhoovlg%40group.calendar.google.com\&ctz=Europe/Paris) pour suivre les événements de la communauté ;
 * [ ] Consulter [les pages spécifiques à son corps de métier](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/les-differents-metiers-dans-une-startup-detat).
@@ -45,7 +45,7 @@ A l'exception des cas où ton administration publique de rattachement ne dispose
 | ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Fabrique numérique des Affaires sociales  | [site internet ](https://www.fabrique.social.gouv.fr)- [wiki](https://github.com/SocialGouv/www/wiki) - [documentation technique](https://github.com/SocialGouv/www/wiki/Social-Gouv-Tech-Welcome-Pack-%F0%9F%96%96) |
 | Fabrique numérique de l'Écologie          | [documentation](https://fabrique-numerique.gitbook.io/guide/)                                                                                                                                                        |
-| Fabrique numérique des Armées             | [documentation](broken-reference)                                                                                                                                                                                    |
+| Fabrique numérique des Armées             | [documentation](broken-reference/)                                                                                                                                                                                   |
 | Fabrique Pôle emploi                      |                                                                                                                                                                                                                      |
 | Lab MI (ministère de l'Intérieur)         | [site internet](https://beta.interieur.gouv.fr)                                                                                                                                                                      |
 | Incubateur des territoires                | [site internet](https://incubateur.anct.gouv.fr)                                                                                                                                                                     |
@@ -61,13 +61,13 @@ A l'exception des cas où ton administration publique de rattachement ne dispose
   * [ ] Participer à l'atelier dédié aux nouveaux membres lors du forum mensuel de beta.gouv
 * [ ] Ajouter ton expérience chez [beta.gouv ](https://www.linkedin.com/company/betagouv/?originalSubdomain=fr)dans ton profil LinkedIn
 * [ ] Venir à un point de rencontre régulier :
-  * [ ] Rencontre dev : partage sur les pratiques de développement informatiques 🔒`#domaine-dev`&#x20;
-  * [ ] Rencontre coach : comment accompagner une startup d'état 🔒`#incubateur-coaching`&#x20;
+  * [ ] Rencontre dev : partage sur les pratiques de développement informatiques 🔒`#domaine-dev`
+  * [ ] Rencontre coach : comment accompagner une startup d'état 🔒`#incubateur-coaching`
   * [ ] Rencontre bizdev : comment déployer les startups 🔒`#incubateur-bizdev`
   * [ ] Rencontre intra : comment les agents publiques créent leurs startups 🔒`#domaine-intrapreneurs`
   * [ ] Organiser ta propre rencontre sur un sujet qui te botte !
 * [ ] \[Si tu rejoins une nouvelle startup], créer avec ton équipe une **fiche produit** sur beta.gouv.fr, [directement sur Github](https://github.com/betagouv/beta.gouv.fr/tree/master/content/\_startups), ou alors en passant par l'interface de gestion des fiches produits sur l'espace membre.\
-  &#x20;Tu peux t'inspirer [des autres produits](https://beta.gouv.fr/startups/) pour le format et contenu.
+  Tu peux t'inspirer [des autres produits](https://beta.gouv.fr/startups/) pour le format et contenu.
 
 ## Au cours des 6 premiers mois
 

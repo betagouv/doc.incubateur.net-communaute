@@ -5,16 +5,16 @@ description: >-
   sécurité et t'inscrire à l'atelier d'embarquement.
 ---
 
-# Le premier jour chez beta.gouv
+# premier-pas-indispensable-creer-ta-fiche-membre.md
 
 ## 0. Invitation par une autre personne de la communauté
 
 {% hint style="info" %}
-#### **👋 Nouveau processus d’onboarding**
+**👋 Nouveau processus d’onboarding**
 
 Depuis mars 2024, **la création d'une fiche membre doit être initiée par un membre actif de communauté**.
 
-Auparavant, cette démarche était ouverte à tous et cela produisait beaucoup de fiches _spams_ à gérer.&#x20;
+Auparavant, cette démarche était ouverte à tous et cela produisait beaucoup de fiches _spams_ à gérer.
 {% endhint %}
 
 * Une personne de la communauté doit t'inviter via [la page “Communauté / Créer une fiche”](https://espace-membre.incubateur.net/community/create) de l’espace communauté.
@@ -22,14 +22,14 @@ Auparavant, cette démarche était ouverte à tous et cela produisait beaucoup d
 
 ## 1. Connecte toi à l'espace membre
 
-Tu vas recevoir un mail d'invitation.&#x20;
+Tu vas recevoir un mail d'invitation.
 
-**Connecte toi à l'espace membre** pour :&#x20;
+**Connecte toi à l'espace membre** pour :
 
 * obtenir un email @beta.gouv.fr (il sera créé à ta première connexion, si tu n'as pas déjà un email de service public)
 * compléter les informations de ta fiche membre
-* être invités aux outils de travail des équipes : messagerie collaborative [Mattermost](../jutilise-les-outils-de-la-communaute/mattermost/), [outil de visio](../jutilise-les-outils-de-la-communaute/faire-une-visio/), accès au [Github](../jutilise-les-outils-de-la-communaute/github/), etc.
-* bénéficier de services : [accès aux locaux](../../decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/badge-pour-travailler-a-segur/) de l'incubateur de la DINUM, recevoir l'infolettre, accéder aux [formations](../se-former/) proposées par la communauté, bénéficier d'aides pour son équipe et son produit (UX, juridique, sécurité, accessibilité, etc.)
+* être invités aux outils de travail des équipes : messagerie collaborative [Mattermost](../../travailler-chez-beta.gouv.fr/jutilise-les-outils-de-la-communaute/mattermost/), [outil de visio](../../travailler-chez-beta.gouv.fr/jutilise-les-outils-de-la-communaute/faire-une-visio/), accès au [Github](../../travailler-chez-beta.gouv.fr/jutilise-les-outils-de-la-communaute/github/), etc.
+* bénéficier de services : [accès aux locaux](../../decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/badge-pour-travailler-a-segur/) de l'incubateur de la DINUM, recevoir l'infolettre, accéder aux [formations](../../travailler-chez-beta.gouv.fr/se-former/) proposées par la communauté, bénéficier d'aides pour son équipe et son produit (UX, juridique, sécurité, accessibilité, etc.)
 
 #### Que faire si tu n'as pas activé ton email beta.gouv.fr et que le lien d'activation est expiré ?
 
@@ -41,8 +41,8 @@ Tu vas recevoir un mail d'invitation.&#x20;
 
 En ayant un compte Github, tu gagneras en autonomie durant ta mission dans une équipe du réseau beta.gouv. Par exemple, tu seras autonome pour mettre à jour ta fiche produit ou ta fiche membre.
 
-{% content-ref url="../jutilise-les-outils-de-la-communaute/github/" %}
-[github](../jutilise-les-outils-de-la-communaute/github/)
+{% content-ref url="../../travailler-chez-beta.gouv.fr/jutilise-les-outils-de-la-communaute/github/" %}
+[github](../../travailler-chez-beta.gouv.fr/jutilise-les-outils-de-la-communaute/github/)
 {% endcontent-ref %}
 
 {% hint style="info" %}
@@ -51,7 +51,7 @@ En ayant un compte Github, tu gagneras en autonomie durant ta mission dans une �
 
 ## 2. Prendre connaissance des règles d'hygiène informatique et de sécurité (politique [BYOD](https://fr.wikipedia.org/wiki/Bring\_your\_own\_device))
 
-Chez beta.gouv.fr, que tu sois [salarié d'une société de prestation](../actions-transverses/sengager-dans-une-action-transverse/salaries-des-societes-de-prestation.md) ou au [statut d'indépendant](../actions-transverses/sengager-dans-une-action-transverse/independants-freelances.md), on te demandera de venir avec ton propre équipement, que ce soit ton ordinateur ou ton téléphone. Tu as le droit de venir avec ton propre équipement quand tu es [agent public](../actions-transverses/les-differents-statuts/fonctionnaires-et-contractuels-de-la-fonction-publique.md) également. Nous acceptons tous les OS tant qu'ils sont à jour.
+Chez beta.gouv.fr, que tu sois [salarié d'une société de prestation](../../travailler-chez-beta.gouv.fr/actions-transverses/sengager-dans-une-action-transverse/salaries-des-societes-de-prestation.md) ou au [statut d'indépendant](../../travailler-chez-beta.gouv.fr/actions-transverses/sengager-dans-une-action-transverse/independants-freelances.md), on te demandera de venir avec ton propre équipement, que ce soit ton ordinateur ou ton téléphone. Tu as le droit de venir avec ton propre équipement quand tu es [agent public](../../travailler-chez-beta.gouv.fr/actions-transverses/les-differents-statuts/fonctionnaires-et-contractuels-de-la-fonction-publique.md) également. Nous acceptons tous les OS tant qu'ils sont à jour.
 
 Cela vient avec quelques **règles d'hygiène informatique** pour assurer un niveau convenable de sécurité. Les règles suivantes sont **obligatoires** lorsque tu interviens sur une mission pour beta.gouv.fr.
 
@@ -75,14 +75,14 @@ Cela vient avec quelques **règles d'hygiène informatique** pour assurer un niv
 
 Ces règles s'appliquent à tous les membres de la communauté, quelque soit votre accès à des informations sensibles.
 
-{% content-ref url="embarquement-dev.md" %}
-[embarquement-dev.md](embarquement-dev.md)
+{% content-ref url="../../travailler-chez-beta.gouv.fr/je-debute-beta.gouv.fr/embarquement-dev.md" %}
+[embarquement-dev.md](../../travailler-chez-beta.gouv.fr/je-debute-beta.gouv.fr/embarquement-dev.md)
 {% endcontent-ref %}
 
 ## 3 - Et ensuite ?
 
 Tu peux lire nos recommandations pour tes premières semaines et tes premiers mois de mission.
 
-{% content-ref url="to-do-darrivee.md" %}
-[to-do-darrivee.md](to-do-darrivee.md)
+{% content-ref url="../../travailler-chez-beta.gouv.fr/je-debute-beta.gouv.fr/to-do-darrivee.md" %}
+[to-do-darrivee.md](../../travailler-chez-beta.gouv.fr/je-debute-beta.gouv.fr/to-do-darrivee.md)
 {% endcontent-ref %}

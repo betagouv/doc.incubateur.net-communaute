@@ -4,7 +4,7 @@ description: >-
   de beta.gouv.fr.
 ---
 
-# Travailler ensemble
+# normes-de-conduite.md
 
 Cette page liste les **normes de conduite** diffusées et constatées chez beta.gouv.fr. Elles participent à la création d'une culture fondée sur la recherche de **l'impact**, la **rapidité** d'exécution, **l'amélioration** **continue**, la **transparence** et **l'autonomie** des équipes
 
@@ -60,7 +60,7 @@ Ici, on a le droit…
 
 _Cette charte est librement inspirée de celle de_ [_Gov.UK_](https://twitter.com/gilest/status/735131901900521472)_._
 
-![](<../../.gitbook/assets/image (22) (2) (1) (1) (1) (1) (1) (1).png>)
+<img src="../../.gitbook/assets/image%20(22)%20(2)%20(1)%20(1)%20(1)%20(1)%20(1)%20(1).png" alt="" data-size="original">
 
 </details>
 
@@ -91,7 +91,7 @@ D'une manière générale, **tenir compte des coûts de coordination** (une pers
 **En interne, communiquer avec son équipe sur des canaux publics. Eviter les messages privés.** La circulation de l'information permet de mieux faire fonctionner l'organisation, d'éviter les frustrations, les prises de pouvoir individuelles non désirables, les rumeurs infondées, les fantasmes. La transparence est la contrepartie de l'autonomie concédée aux équipes : elle empêche les gens de faire n'importe quoi, parce que tout le monde voit. Ce qui est visible est plus facilement améliorable.
 
 {% hint style="success" %}
-Lorsque vous travaillez avec votre équipe sur un outil de messagerie collaborative comme [Mattermost](../jutilise-les-outils-de-la-communaute/mattermost/), la norme chez beta.gouv.fr consiste à **partager toutes les chaînes de discussion concernant votre produit avec toute votre équipe dont le ou la coach et à limiter au maximum les échanges bilatéraux en messages privés**, mais aussi avec toutes les personnes qui interviennent régulièrement en soutien (responsables d'incubateur, responsables techniques de l'incubateur, responsables techniques). Cela permet notamment d'assurer la circulation de l'information et de limiter les demandes de reporting.
+Lorsque vous travaillez avec votre équipe sur un outil de messagerie collaborative comme [Mattermost](../../jutilise-les-outils-de-la-communaute/mattermost/), la norme chez beta.gouv.fr consiste à **partager toutes les chaînes de discussion concernant votre produit avec toute votre équipe dont le ou la coach et à limiter au maximum les échanges bilatéraux en messages privés**, mais aussi avec toutes les personnes qui interviennent régulièrement en soutien (responsables d'incubateur, responsables techniques de l'incubateur, responsables techniques). Cela permet notamment d'assurer la circulation de l'information et de limiter les demandes de reporting.
 {% endhint %}
 
 **En externe, partager le maximum d'apprentissages, en transparence**. Les codes sources, pages de statistiques, apprentissages et budgets de vos produits numériques devraient être publiques. Lorsque vous êtes responsable d'une tâche, documentez votre action, le protocole que vous avez choisi, les apprentissages dont vous avez bénéficié, et partagez le lien de cette documentation dans l'espace de votre équipe : cela lui permettra de prendre le relai si vous êtes en congés ou si vous êtes absent.
@@ -107,11 +107,11 @@ L'exemple du service Mon Entreprise :
 
 ### Maintenir un environnement de travail fondé sur la confiance, l'écoute et le respect mutuel (et non sur le paternalisme autoritaire)
 
-**Piloter les équipes sur la base de leur impact et non par les moyens.**&#x20;
+**Piloter les équipes sur la base de leur impact et non par les moyens.**
 
 Appliquer le contrat d'une [équipe autonome](https://blog.beta.gouv.fr/general/2016/11/28/equipes-autonomes/) : les demandeurs sont souverains sur la finalité (quel est l'objectif en termes d'impact); les mandatés sont souverains sur les moyens (comment je fais pour atteindre cet impact).
 
-**Eviter les comportement de "petit chef" et les manifestations d'autorité**.&#x20;
+**Eviter les comportement de "petit chef" et les manifestations d'autorité**.
 
 Aux “chef·fe·s”, on préfèrera les personnes “responsables” sur des périmètres bien définis. Derrière la responsabilité se cache une redevabilité : une personne responsable d’un sujet rend des comptes sur son impact.
 
@@ -121,7 +121,7 @@ On ne peut pas tout faire et il faut donc savoir déléguer même lorsqu'on est 
 
 **Se traiter en adulte**
 
-Nous invitons les membres à :&#x20;
+Nous invitons les membres à :
 
 * présupposer de la compétence de l'autre, ainsi que de son engagement en faveur d'un meilleur service public ;
 * se dire les choses ; le monde est comme il est, ce n'est pas parce qu'on se le dit que ça sera pire ;

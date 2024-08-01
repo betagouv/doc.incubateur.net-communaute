@@ -52,8 +52,8 @@ Dans le cadre du travail avec l'administration, il est important de connaitre le
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="../../../gerer-son-produit/les-standards/accessibilite-and-inclusion/accessibilite-et-rgaa/" %}
-[accessibilite-et-rgaa](../../../gerer-son-produit/les-standards/accessibilite-and-inclusion/accessibilite-et-rgaa/)
+{% content-ref url="../../../ressources/contributions/accessibilite-et-rgaa/" %}
+[accessibilite-et-rgaa](../../../ressources/contributions/accessibilite-et-rgaa/)
 {% endcontent-ref %}
 
 Nous proposons aussi des formations dédiée : contactez l'équipe technique de beta pour plus d'informations.
