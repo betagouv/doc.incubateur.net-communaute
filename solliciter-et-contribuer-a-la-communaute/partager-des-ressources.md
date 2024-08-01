@@ -1,2 +1,0 @@
-# 🎁 partager-des-ressources
-

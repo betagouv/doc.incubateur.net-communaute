@@ -1,4 +1,4 @@
-# Je sollicite de l'aide
+# ☝️ Je demande de l'aide
 
 ## Les ressources transverses mises à disposition du réseau beta.gouv.fr
 

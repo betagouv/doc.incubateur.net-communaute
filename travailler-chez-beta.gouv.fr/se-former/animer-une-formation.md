@@ -1,10 +1,21 @@
 ---
 description: >-
-  Tu trouveras ici un guide des éléments récurrents dans l'animation d'une
-  formation.
+  Pour animer une formation, il te suffit de remplir le formulaire pour proposer
+  ta formation dans le calendrier, puis de suivre les recommandations pour
+  organiser ta ou tes sessions.
 ---
 
 # Animer une formation
+
+## Proposer une formation
+
+Pour intégrer une formation au calendrier des formations, il te suffit de remplir ce formulaire. Il est aussi recommandé de contacter l'équipe d'animation de la communauté via Mattermost [\~incubateur-formations](https://mattermost.incubateur.net/betagouv/channels/incubateur-formations) ou mail à communaute@beta.gouv.fr.
+
+{% embed url="https://airtable.com/shr3sH68gDOjFaLT7" %}
+
+La vue optimisée, c'est par ici "[Je propose une formation](https://airtable.com/shr3sH68gDOjFaLT7)".
+
+## Recommandations pour organiser ta formation
 
 ### Comment proposer un sujet
 

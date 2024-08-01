@@ -1,4 +1,4 @@
-# Proposer un nouvel outil à la communauté
+# Proposer un outil à la communauté
 
 ## Je travaille sur une Startup d'Etat (SE) et je vois un besoin qui pourrait être partagé par d'autres SE
 
@@ -16,8 +16,8 @@ Si un outil tiers disponible en "SAAS" est nécessaire à l'accomplissement de v
 Renseignez-vous sur l'outil sur [le sanity check numericité](https://sanity-check.numericite.eu/) et n'hésitez pas à solliciter des avis juridiques sur [\~domaine-juridique](https://mattermost.incubateur.net/betagouv/channels/domaine-juridique).\
 \
 Dans tous les cas, vous devez :\
-&#x20;\- informer clairement les usagers si vous recueillez des données personnelles.\
-&#x20;\- mettre en conformité vos CGU / politique de confidentialité.
+\- informer clairement les usagers si vous recueillez des données personnelles.\
+\- mettre en conformité vos CGU / politique de confidentialité.
 
 ### Si le service voit passer des données personnelles
 
@@ -49,8 +49,8 @@ La CNIL a apporté de nouvelles recommandations en matière de politique de cook
 * Exemple : Analytics non anonymisés, fonts & images… Tout le reste qui n’est pas “strictement nécessaire” au fonctionnement du site.
 * Solution : un bandeau cookies qui répond à toutes les recommandations CNIL (possibilité de paramétrer chaque cookie, etc.).
 
-{% content-ref url="../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-securise-mon-produit/" %}
-[je-securise-mon-produit](../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-securise-mon-produit/)
+{% content-ref url="../../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-securise-mon-produit/" %}
+[je-securise-mon-produit](../../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-securise-mon-produit/)
 {% endcontent-ref %}
 
 ## Je travaille sur une SE et je monte une startup à côté. j'aimerais que les Startups d'État intègrent ma solution.

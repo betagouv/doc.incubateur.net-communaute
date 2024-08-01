@@ -1,8 +1,9 @@
-# Lancer une Startup d'État
+# 🖱️ Lancer un service numérique à impact
 
-{% page-ref page="conditions-dengagement.md" %}
+{% content-ref url="conditions-dengagement.md" %}
+[conditions-dengagement.md](conditions-dengagement.md)
+{% endcontent-ref %}
 
-{% page-ref page="chronologie-dune-appel-a-innovateur/" %}
-
-
-
+{% content-ref url="chronologie-dune-appel-a-innovateur/" %}
+[chronologie-dune-appel-a-innovateur](chronologie-dune-appel-a-innovateur/)
+{% endcontent-ref %}
