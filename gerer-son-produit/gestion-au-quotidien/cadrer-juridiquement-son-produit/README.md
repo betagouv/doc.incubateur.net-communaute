@@ -1,15 +1,15 @@
-# cadrer-juridiquement-son-produit
+# Juridique
 
 ## RGPD
 
-{% content-ref url="../je-securise-mon-produit/guide-rgpd-et-securite.md" %}
-[guide-rgpd-et-securite.md](../je-securise-mon-produit/guide-rgpd-et-securite.md)
+{% content-ref url="../juridique/je-securise-mon-produit/guide-rgpd-et-securite.md" %}
+[guide-rgpd-et-securite.md](../juridique/je-securise-mon-produit/guide-rgpd-et-securite.md)
 {% endcontent-ref %}
 
 ## Mise en conformité
 
-{% content-ref url="../je-securise-mon-produit/foire-aux-questions-sur-la-mise-en-conformite-des-services-numeriques/" %}
-[foire-aux-questions-sur-la-mise-en-conformite-des-services-numeriques](../je-securise-mon-produit/foire-aux-questions-sur-la-mise-en-conformite-des-services-numeriques/)
+{% content-ref url="../juridique/je-securise-mon-produit/foire-aux-questions-sur-la-mise-en-conformite-des-services-numeriques/" %}
+[foire-aux-questions-sur-la-mise-en-conformite-des-services-numeriques](../juridique/je-securise-mon-produit/foire-aux-questions-sur-la-mise-en-conformite-des-services-numeriques/)
 {% endcontent-ref %}
 
 ## Expérimentation & Startup d’État
@@ -20,8 +20,8 @@
 
 ## Fiches synthétiques
 
-{% content-ref url="../jactive-la-croissance-de-ma-se-growth-hacking/organiser-un-jeu-concours.md" %}
-[organiser-un-jeu-concours.md](../jactive-la-croissance-de-ma-se-growth-hacking/organiser-un-jeu-concours.md)
+{% content-ref url="../juridique/jactive-la-croissance-de-ma-se-growth-hacking/organiser-un-jeu-concours.md" %}
+[organiser-un-jeu-concours.md](../juridique/jactive-la-croissance-de-ma-se-growth-hacking/organiser-un-jeu-concours.md)
 {% endcontent-ref %}
 
 {% content-ref url="faire-une-liste-dentreprises-non-exhaustive.md" %}
@@ -54,6 +54,6 @@ Encore plus de fiches synthétiques disponibles sur [le site de Green Data for H
 
 ## Demander de l'aide
 
-{% content-ref url="../je-sollicite-de-laide-transverse/mise-en-conformite-rgpd-et-conseil-juridique.md" %}
-[mise-en-conformite-rgpd-et-conseil-juridique.md](../je-sollicite-de-laide-transverse/mise-en-conformite-rgpd-et-conseil-juridique.md)
+{% content-ref url="../juridique/je-sollicite-de-laide-transverse/mise-en-conformite-rgpd-et-conseil-juridique.md" %}
+[mise-en-conformite-rgpd-et-conseil-juridique.md](../juridique/je-sollicite-de-laide-transverse/mise-en-conformite-rgpd-et-conseil-juridique.md)
 {% endcontent-ref %}
