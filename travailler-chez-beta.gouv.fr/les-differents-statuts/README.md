@@ -8,6 +8,14 @@ Chaque équipe est autonome, pluridisciplinaire et **regroupe des agents publics
 
 Cette section de la documentation explique les différences administratives liés aux statuts des membres de la communauté beta.gouv.fr.
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="fonctionnaires-et-contractuels-de-la-fonction-publique.md" %}
+[fonctionnaires-et-contractuels-de-la-fonction-publique.md](fonctionnaires-et-contractuels-de-la-fonction-publique.md)
+{% endcontent-ref %}
+
+{% content-ref url="independants-freelances/" %}
+[independants-freelances](independants-freelances/)
+{% endcontent-ref %}
+
+{% content-ref url="salaries-des-societes-de-prestation/" %}
+[salaries-des-societes-de-prestation](salaries-des-societes-de-prestation/)
 {% endcontent-ref %}
