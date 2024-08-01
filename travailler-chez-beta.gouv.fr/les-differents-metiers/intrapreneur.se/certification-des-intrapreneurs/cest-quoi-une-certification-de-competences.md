@@ -1,4 +1,4 @@
-# cest-quoi-une-certification-de-competences.md
+# 🌟 C'est quoi une certification de compétences ?
 
 ## Une certification de compétence n'est pas...
 
@@ -21,6 +21,6 @@ L'attribution d'une certification n'est jamais automatique. Elle ne peut être d
 [Contenu de la certification reconnue par l'Etat et validée par France Compétences](https://www.francecompetences.fr/recherche/rs/6247/)
 {% endhint %}
 
-{% content-ref url="README (1).md" %}
-[README (1).md](<README (1).md>)
+{% content-ref url="./" %}
+[.](./)
 {% endcontent-ref %}

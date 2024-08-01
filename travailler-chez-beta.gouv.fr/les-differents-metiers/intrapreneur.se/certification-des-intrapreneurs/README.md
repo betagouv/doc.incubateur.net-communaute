@@ -4,7 +4,9 @@ description: >-
   et de Territoires.
 ---
 
-# certification-des-intrapreneurs
+# 🎖️ Certification des intrapreneur·e·s
+
+{% file src="../../../../.gitbook/assets/Méthodologies d’entrepreneuriat appliquées aux projets numériques - Compétences attestées.pdf" %}
 
 {% content-ref url="pourquoi-une-certification-des-competences-des-intras.md" %}
 [pourquoi-une-certification-des-competences-des-intras.md](pourquoi-une-certification-des-competences-des-intras.md)
