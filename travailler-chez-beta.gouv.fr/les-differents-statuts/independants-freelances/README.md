@@ -1,6 +1,6 @@
 # Indépendants (freelances)
 
-Une grande partie de la communauté beta.gouv.fr est composée de personnes au statut d'**indépendants** (freelances). A titre d'exemple, à l'été 2021, sur une communauté d'environ 600 personnes, 14% est [salariée d'une société de prestation](salaries-des-societes-de-prestation.md), 35% est [agent publics](../les-differents-statuts/fonctionnaires-et-contractuels-de-la-fonction-publique.md) et 51% est indépendante.
+Une grande partie de la communauté beta.gouv.fr est composée de personnes au statut d'**indépendants** (freelances).&#x20;
 
 ### Qu'est-ce qui explique la part des indépendantes et indépendants dans la communauté beta.gouv.fr ?
 
@@ -10,7 +10,7 @@ Une grande partie de la communauté beta.gouv.fr est composée de personnes au s
 * **Certaines des compétences recherchées par beta.gouv.fr** comme les _business developers_ ou les entrepreneur·e·s en résidence **sont rarement présentes parmi les salariés des sociétés de prestation numérique**.
 * Même si nous souhaiterions proposer davantage de contrats en CDI ou en CDD (parce que ce serait tout de même une situation plus stable pour certaines et certains de nos collaboratrices et collaborateurs, et qu'en plus ça coûterait probablement moins cher à l'État [comme l'a montré un collectif d'agents publics](https://nosservicespublics.fr/externalisation)), **les contraintes liés aux plafonds d'emplois nous limitent fortement dans nos capacités de recrutement**. C'est pourquoi la plupart des forces vives des Startups d'État sont mobilisés via [nos marchés publics](../../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/marches-publics-beta.gouv.fr).
 
-### Ressources pour les _freelances_
+### Ressources pour les personnes ayant le statut d'indépendant
 
 Vous souhaiteriez rejoindre beta.gouv.fr et vous vous demandez si le statut d'indépendant vous correspond ? Nous avons compilé quelques informations pour vous aider à comprendre ce que cela impliquerait
 
@@ -20,14 +20,14 @@ Vous souhaiteriez rejoindre beta.gouv.fr et vous vous demandez si le statut d'in
 
 Afin d'assurer une transparence aux _freelances_, une grille avec des taux journaliers indicatifs a été publiée à la page suivante.
 
-{% content-ref url="../../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/obtenir-une-prestation/observatoire-revenus.md" %}
-[observatoire-revenus.md](../../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/obtenir-une-prestation/observatoire-revenus.md)
+{% content-ref url="observatoire-revenus.md" %}
+[observatoire-revenus.md](observatoire-revenus.md)
 {% endcontent-ref %}
 
 Une charte pour les _freelances_ a été adoptée afin de clarifier leurs droits et les obligations. En cas de problème majeur, un guide a été réalisé pour orienter les indépendantes et indépendants victimes de harcèlement ou de discrimination.
 
-{% content-ref url="../../bienvenue/les-differents-statuts/independants-freelances/charte-des-freelances.md" %}
-[charte-des-freelances.md](../../bienvenue/les-differents-statuts/independants-freelances/charte-des-freelances.md)
+{% content-ref url="charte-des-freelances.md" %}
+[charte-des-freelances.md](charte-des-freelances.md)
 {% endcontent-ref %}
 
 {% content-ref url="../../culture/conseils/independant-victime-de-harcelement-ou-discrimination.md" %}

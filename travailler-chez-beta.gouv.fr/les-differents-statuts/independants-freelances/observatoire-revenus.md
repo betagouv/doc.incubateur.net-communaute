@@ -5,15 +5,15 @@ description: >-
   titulaires et aux indépendants candidats.
 ---
 
-# Observatoire des revenus de la communauté beta.gouv.fr
+# Observatoire des revenus
 
 ## Pourquoi un observatoire?
 
-Les services de la communauté beta.gouv font souvent appel à des personnes en dehors de l’administration - indépendants, salariés des entreprises titulaires du marché ou de sous traitants - pour participer à leur élaboration. Les missions de beta.gouv étant différentes et originales (voir partie 2), il peut être parfois compliqué pour un indépendant de proposer un tarif pour une prestation ou pour un intrapreneur d’évaluer le coût d’une prestation.
+Les services de la communauté beta.gouv.fr font souvent appel à des personnes en dehors de l’administration - indépendants, salariés des entreprises titulaires du marché ou de sous traitants - pour participer à leur élaboration. Les missions de beta.gouv.fr étant différentes et originales (voir partie 2), il peut être parfois compliqué pour un indépendant de proposer un tarif pour une prestation ou pour un intrapreneur d’évaluer le coût d’une prestation.
 
 ### Les TJM : une base pour évaluer le prix d’une prestation
 
-Pour rappel, en dehors des agents publics, les personnes travaillant sur les services beta.gouv sont référencées et rémunérées par les entreprises titulaires des [marchés publics du réseau beta.gouv](../../gestion-administrative/marches-publics-beta.gouv.fr) selon les modalités suivantes :
+Pour rappel, en dehors des agents publics, les personnes travaillant sur les services beta.gouv.fr sont référencées et rémunérées par les entreprises titulaires des [marchés publics du réseau beta.gouv](../../gestion-administrative/marches-publics-beta.gouv.fr) selon les modalités suivantes :
 
 * L’intrapreneur et/ou le responsable du budget demandent à l'entreprise titulaire une prestation qui correspond à un certain nombre d’UO (unité d'œuvre) selon les règles prévues par le marché ;
 * L'entreprise titulaire propose un devis qui détaille une équipe pressentie et un nombre de jours approximatif pour réaliser la prestation. L'équipe pressentie peut, avec l'accord de l'entreprise titulaire du marché, être constituée de personnes identifiées au sein de la communauté beta.gouv ; ces personnes devront alors contractualiser avec l'entreprise titulaire du marché.
@@ -27,16 +27,16 @@ Ainsi, les équipes du service, les entreprises titulaires des marchés du rése
 
 ## Que prendre en compte lorsqu’on arrive chez Beta.gouv (et ce qui nous diffère des autres missions) ?
 
-### Les pré-requis de la communauté beta.gouv
+### Les pré-requis de la communauté beta.gouv.fr
 
-La communauté beta.gouv est composée de personnes ayant une volonté et une capacité à s’investir dans leur sujet ce qui implique deux éléments majeurs :
+La communauté beta.gouv.fr est composée de personnes ayant une volonté et une capacité à s’investir dans leur sujet ce qui implique deux éléments majeurs :
 
-* chacun participe à la stratégie produit et aucune surfacturation ne peut être effectuée sur cette base. Si les équipes les plus importantes ont des gestionnaires de produits, il est néanmoins attendu que chacun aille au - delà de son domaine - dev, bizdev, designer - pour participer aux orientations produits. Autrement dit, chez beta.gouv, en plus des personnes dédiées, tout le monde fait du produit et c'est inclus dans la base de la prestation (pas de supplément lié).
+* chacun participe à la stratégie produit et aucune surfacturation ne peut être effectuée sur cette base. Si les équipes les plus importantes ont des gestionnaires de produits, il est néanmoins attendu que chacun aille au - delà de son domaine - dev, bizdev, designer - pour participer aux orientations produits. Autrement dit, chez beta.gouv.fr, en plus des personnes dédiées, tout le monde fait du produit et c'est inclus dans la base de la prestation (pas de supplément lié).
 * Chaque membre d’une équipe peut s’investir dans des projets transverses sur son temps de prestation. Dans la tradition de beta.gouv, il est admis qu’un membre beta peut consacrer 10% du volume de sa prestation au travail transverse.
 
-### Les avantages de beta.gouv
+### Les avantages de beta.gouv.fr
 
-beta.gouv est une communauté de personnes qui œuvrent pour l’intérêt général. Ici, tu trouveras :
+beta.gouv.fr est une communauté de personnes qui œuvrent pour l’intérêt général. Ici, tu trouveras :
 
 * des missions qui ont du sens ;
 * des missions sur le long court qui te permettent de t’investir réellement sur le produit et dans la communauté ;
@@ -90,6 +90,5 @@ Si vous disposez de nouvelles sources de références ou des suggestions pour aj
 | Développeur                 | 450                             | 650                             |
 | Designer                    | 370                             | 550                             |
 | Responsable produit (PO/PM) | 400                             | 600                             |
-| Coach                       | 400                             | 675                             |
 
 _Sources :_ [_Malt_](https://www.malt.fr/t/barometre-tarifs)_, LittleBigConnection (informations relevant du secret commercial), Inetum (informations relevant du secret commercial),_ [_Silkom_](https://www.silkhom.com/barometre-2021-des-tjm-dans-informatique-digital/)_,_ [_Talent.io_](https://join.talent.io/tech-salary-report-fr)_, Marché DAE (informations relevant du secret commercial),_[ _Référentiel de rémunération des 56 métiers de la filière numérique et des systèmes d’information et de communication (DINUM)_](https://www.numerique.gouv.fr/publications/referentiel-remuneration-filiere-numerique/)_, Communauté beta.gouv_
