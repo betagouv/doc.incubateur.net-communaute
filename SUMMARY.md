@@ -112,6 +112,7 @@
     * [Hébergement](gerer-son-produit/les-standards/standards-de-qualite-beta.gouv.fr/infra.md)
     * [Open source & licence](gerer-son-produit/les-standards/standards-de-qualite-beta.gouv.fr/licences.md)
     * [Choix des technologies](gerer-son-produit/les-standards/standards-de-qualite-beta.gouv.fr/choisir-des-technologies.md)
+    * [\[todo\] Documentation](gerer-son-produit/les-standards/standards-de-qualite-beta.gouv.fr/todo-documentation.md)
   * [Transparence](gerer-son-produit/les-standards/transparence/README.md)
     * [Publier son budget](gerer-son-produit/standards/transparence/publier-son-budget.md)
     * [\[TO DO\] Publier ses stats, son code et sa roadmap](gerer-son-produit/les-standards/transparence/to-do-publier-ses-stats-son-code-et-sa-roadmap.md)
