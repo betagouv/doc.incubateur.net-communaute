@@ -8,7 +8,7 @@ description: Comment gérer les envois pour maximiser leur réception
 
 La délivrabilité des emails est impactée par deux facteurs : le nom de domaine et l’adresse IP utilisée. Les email providers utilisent un mélange des deux afin de mieux filtrer les emails qui arrivent dans les boîtes mails.
 
-Comme pour le [SEO](../../../gerer-son-produit/le-deploiement/seo.md), ce n'est pas une sciences exacte et nous ne savons pas exactement quel critère à le plus de poids.
+Comme pour le [SEO](../../../gerer-son-produit/to-do-le-deploiement/seo.md), ce n'est pas une sciences exacte et nous ne savons pas exactement quel critère à le plus de poids.
 
 ### DKIM et SPF
 

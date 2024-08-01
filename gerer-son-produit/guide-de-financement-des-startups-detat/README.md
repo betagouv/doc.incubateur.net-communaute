@@ -1,4 +1,4 @@
-# Guide de financement des Startups d'État
+# 📘 Guide de financement des Startups d'État
 
 Le programme Startup d’État s’inspire des méthodes _lean startup_ qui ont fait leur preuve dans le privé pour permettre à l’administration de lancer des services numériques à l’état de l’art. Une des modalités de cette approche est de s’assurer **qu’on n’investit que dans des produits qui ont démontré leur utilité réelle** (pour l’usager et au profit des politiques publiques menées) : tous les 6 mois, l’administration qui finance le service décide d’arrêter, d’ajuster ou de refinancer l’équipe en charge de chaque service, selon les résultats obtenus.
 

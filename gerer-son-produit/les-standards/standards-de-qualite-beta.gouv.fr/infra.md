@@ -1,6 +1,6 @@
 # Hébergement
 
-Chaque Startup d'Etat gère son infrastructure de façon souveraine. Certains incubateurs proposent des services d'hébergement mutualisés; Renseignez-vous auprès [des référent(e)s tech de votre fabrique.](../../gestion-au-quotidien/tech/liens-avec-les-referents-techs.md)
+Chaque Startup d'Etat gère son infrastructure de façon souveraine. Certains incubateurs proposent des services d'hébergement mutualisés; Renseignez-vous auprès [des référent(e)s tech de votre fabrique.](../../gestion-au-quotidien/tech/to-do-liens-avec-les-referents-techs.md)
 
 ### Les services partagés
 
