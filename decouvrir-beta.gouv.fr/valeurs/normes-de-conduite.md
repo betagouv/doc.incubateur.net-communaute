@@ -4,7 +4,7 @@ description: >-
   de beta.gouv.fr.
 ---
 
-# normes-de-conduite.md
+# Code de conduite
 
 Cette page liste les **normes de conduite** diffusées et constatées chez beta.gouv.fr. Elles participent à la création d'une culture fondée sur la recherche de **l'impact**, la **rapidité** d'exécution, **l'amélioration** **continue**, la **transparence** et **l'autonomie** des équipes
 
@@ -80,8 +80,8 @@ Lorsque les réunions s'avèrent nécessaires, les personnes présentes et motiv
 
 Le temps passé à faire du reporting à sa hiérarchie est autant de temps passé à ne pas s'occuper des problèmes de ses utilisateurs. Si la hiérarchie a besoin d'information, transmettez l'information à la source (page de statistiques publique, code source, backlog produit). Adopter des pratiques de transparence permet souvent de limiter les demandes de reporting (voir paragraphe suivant).
 
-{% content-ref url="../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-gere-mon-produit-et-son-impact/comment-repondre-a-un-sponsor-qui-demande-une-roadmap-produit.md" %}
-[comment-repondre-a-un-sponsor-qui-demande-une-roadmap-produit.md](../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-gere-mon-produit-et-son-impact/comment-repondre-a-un-sponsor-qui-demande-une-roadmap-produit.md)
+{% content-ref url="../../gerer-son-produit/la-vie-du-produit/investigation/comment-repondre-a-un-sponsor-qui-demande-une-roadmap-produit.md" %}
+[comment-repondre-a-un-sponsor-qui-demande-une-roadmap-produit.md](../../gerer-son-produit/la-vie-du-produit/investigation/comment-repondre-a-un-sponsor-qui-demande-une-roadmap-produit.md)
 {% endcontent-ref %}
 
 D'une manière générale, **tenir compte des coûts de coordination** (une personne à temps complet est souvent bien plus efficace que cinq personnes à 20% de leur temps) et **limiter le nombre de personnes impliquées dans chaque sujet**.
@@ -91,7 +91,7 @@ D'une manière générale, **tenir compte des coûts de coordination** (une pers
 **En interne, communiquer avec son équipe sur des canaux publics. Eviter les messages privés.** La circulation de l'information permet de mieux faire fonctionner l'organisation, d'éviter les frustrations, les prises de pouvoir individuelles non désirables, les rumeurs infondées, les fantasmes. La transparence est la contrepartie de l'autonomie concédée aux équipes : elle empêche les gens de faire n'importe quoi, parce que tout le monde voit. Ce qui est visible est plus facilement améliorable.
 
 {% hint style="success" %}
-Lorsque vous travaillez avec votre équipe sur un outil de messagerie collaborative comme [Mattermost](../../jutilise-les-outils-de-la-communaute/mattermost/), la norme chez beta.gouv.fr consiste à **partager toutes les chaînes de discussion concernant votre produit avec toute votre équipe dont le ou la coach et à limiter au maximum les échanges bilatéraux en messages privés**, mais aussi avec toutes les personnes qui interviennent régulièrement en soutien (responsables d'incubateur, responsables techniques de l'incubateur, responsables techniques). Cela permet notamment d'assurer la circulation de l'information et de limiter les demandes de reporting.
+Lorsque vous travaillez avec votre équipe sur un outil de messagerie collaborative comme [Mattermost](../../les-outils-de-la-communaute/mattermost/), la norme chez beta.gouv.fr consiste à **partager toutes les chaînes de discussion concernant votre produit avec toute votre équipe dont le ou la coach et à limiter au maximum les échanges bilatéraux en messages privés**, mais aussi avec toutes les personnes qui interviennent régulièrement en soutien (responsables d'incubateur, responsables techniques de l'incubateur, responsables techniques). Cela permet notamment d'assurer la circulation de l'information et de limiter les demandes de reporting.
 {% endhint %}
 
 **En externe, partager le maximum d'apprentissages, en transparence**. Les codes sources, pages de statistiques, apprentissages et budgets de vos produits numériques devraient être publiques. Lorsque vous êtes responsable d'une tâche, documentez votre action, le protocole que vous avez choisi, les apprentissages dont vous avez bénéficié, et partagez le lien de cette documentation dans l'espace de votre équipe : cela lui permettra de prendre le relai si vous êtes en congés ou si vous êtes absent.

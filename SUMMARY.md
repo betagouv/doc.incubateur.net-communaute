@@ -7,7 +7,7 @@
 * [💡 L'histoire de beta.gouv.fr](decouvrir-beta.gouv.fr/histoire-de-beta.gouv.fr/README.md)
   * [❌ Références bibliographiques ❌](decouvrir-beta.gouv.fr/histoire-de-beta.gouv.fr/references-bibliographiques.md)
 * [💚 Les valeurs](decouvrir-beta.gouv.fr/valeurs/README.md)
-  * [normes-de-conduite.md](decouvrir-beta.gouv.fr/valeurs/normes-de-conduite.md)
+  * [Code de conduite](decouvrir-beta.gouv.fr/valeurs/normes-de-conduite.md)
 * [🇫🇷 Les services à impact national](decouvrir-beta.gouv.fr/services-numeriques-a-impact-national.md)
 * [🧪 L'incubateur de la DINUM](decouvrir-beta.gouv.fr/incubateur-de-la-dinum/README.md)
   * [L'équipe d'animation beta.gouv.fr](decouvrir-beta.gouv.fr/incubateur-de-la-dinum/lequipe-danimation-beta.gouv.fr.md)
