@@ -1,15 +1,15 @@
-# Juridique
+# ⚖️ Juridique
 
 ## RGPD
 
-{% content-ref url="../juridique/je-securise-mon-produit/guide-rgpd-et-securite.md" %}
-[guide-rgpd-et-securite.md](../juridique/je-securise-mon-produit/guide-rgpd-et-securite.md)
+{% content-ref url="../../les-standards/protection-des-donnees-personnelles/responsabilite-de-traitement/annexe-3-grands-principes-du-rgpd.md" %}
+[annexe-3-grands-principes-du-rgpd.md](../../les-standards/protection-des-donnees-personnelles/responsabilite-de-traitement/annexe-3-grands-principes-du-rgpd.md)
 {% endcontent-ref %}
 
 ## Mise en conformité
 
-{% content-ref url="../juridique/je-securise-mon-produit/foire-aux-questions-sur-la-mise-en-conformite-des-services-numeriques/" %}
-[foire-aux-questions-sur-la-mise-en-conformite-des-services-numeriques](../juridique/je-securise-mon-produit/foire-aux-questions-sur-la-mise-en-conformite-des-services-numeriques/)
+{% content-ref url="../../../solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/mise-en-conformite-rgpd-et-conseil-juridique.md" %}
+[mise-en-conformite-rgpd-et-conseil-juridique.md](../../../solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/mise-en-conformite-rgpd-et-conseil-juridique.md)
 {% endcontent-ref %}
 
 ## Expérimentation & Startup d’État
@@ -19,10 +19,6 @@
 {% endcontent-ref %}
 
 ## Fiches synthétiques
-
-{% content-ref url="../juridique/jactive-la-croissance-de-ma-se-growth-hacking/organiser-un-jeu-concours.md" %}
-[organiser-un-jeu-concours.md](../juridique/jactive-la-croissance-de-ma-se-growth-hacking/organiser-un-jeu-concours.md)
-{% endcontent-ref %}
 
 {% content-ref url="faire-une-liste-dentreprises-non-exhaustive.md" %}
 [faire-une-liste-dentreprises-non-exhaustive.md](faire-une-liste-dentreprises-non-exhaustive.md)
@@ -51,9 +47,3 @@ Encore plus de fiches synthétiques disponibles sur [le site de Green Data for H
 * 🔑 [L'accès par dérogation aux documents protégés](https://gd4h-prod.s3.fr-par.scw.cloud/gd4h-prod/api\_gd4h/files/06\_Fiche\_6\_Lacc%C3%A8s\_par\_d%C3%A9rogation\_aux\_documents\_prot%C3%A9g%C3%A9s\_DESIGN.pdf)
 * 🔗 [Le lien entre les données et la mission de service public](https://gd4h-prod.s3.fr-par.scw.cloud/gd4h-prod/api\_gd4h/files/Fiche\_5\_Le\_lien\_entre\_les\_donn%C3%A9es\_et\_la\_mission\_de\_service\_public.pdf)
 * ⚖️ [Les bases de données en droit](https://gd4h-prod.s3.fr-par.scw.cloud/gd4h-prod/api\_gd4h/files/Fiche\_2\_Les\_bases\_de\_donn%C3%A9es\_en\_droit.pdf)
-
-## Demander de l'aide
-
-{% content-ref url="../juridique/je-sollicite-de-laide-transverse/mise-en-conformite-rgpd-et-conseil-juridique.md" %}
-[mise-en-conformite-rgpd-et-conseil-juridique.md](../juridique/je-sollicite-de-laide-transverse/mise-en-conformite-rgpd-et-conseil-juridique.md)
-{% endcontent-ref %}

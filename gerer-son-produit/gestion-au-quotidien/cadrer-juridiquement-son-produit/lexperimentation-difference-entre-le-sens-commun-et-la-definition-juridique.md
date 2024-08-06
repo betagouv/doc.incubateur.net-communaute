@@ -1,4 +1,4 @@
-# "L’expérimentation" : différence entre le sens commun et la définition juridique
+# ❌ "L'expérimentation" : différence entre le sens commun et la définition juridique
 
 ### L’expérimentation via les Startups d’État :
 
@@ -15,7 +15,7 @@ Pour autant, d’un point de vue strictement juridique, l’expérimentation rec
 
 #### a. L’expérimentation normative
 
-> L’expérimentation est une technique légistique qui vise à **étudier les effets d’une réforme** ou d’une loi sur un **échantillon** de personnes et dans un **temps limité**. \
+> L’expérimentation est une technique légistique qui vise à **étudier les effets d’une réforme** ou d’une loi sur un **échantillon** de personnes et dans un **temps limité**.\
 > \
 > [Florence Crouzatier-Durand](https://www.cairn.info/publications-de-Florence-Crouzatier-Durand--31291.htm), dans [Revue française de droit constitutionnel](https://www.cairn.info/revue-francaise-de-droit-constitutionnel.htm) [2003/4 (n° 56)](https://www.cairn.info/revue-francaise-de-droit-constitutionnel-2003-4.htm), pages 675 à 695
 
@@ -23,7 +23,7 @@ Il faut savoir que l’approche expérimentale n’est pas très naturelle pour 
 
 Ainsi le Conseil d’État écrit :
 
-> _Il a été souligné à maintes reprises, y compris par le Conseil d’État, combien la culture juridique française, empreinte d’égalité, de centralisation, de cartésianisme et de légicentrisme, a pu se montrer réticente au développement d’un droit expérimental qui est par nature temporaire, inégal, tâtonnant”_. \
+> _Il a été souligné à maintes reprises, y compris par le Conseil d’État, combien la culture juridique française, empreinte d’égalité, de centralisation, de cartésianisme et de légicentrisme, a pu se montrer réticente au développement d’un droit expérimental qui est par nature temporaire, inégal, tâtonnant”_.\
 > \
 > [_**Conseil d’État - Les expérimentations, rapport 2019**_](https://www.conseil-etat.fr/actualites/ameliorer-et-developper-les-experimentations-pour-des-politiques-publiques-plus-efficaces-et-innovantes)
 
@@ -62,9 +62,8 @@ Dans la grande majorité des cas, si vous présentez votre produit comme une exp
 
 Pour éviter de vous trouver dans une situation où, sur la base d’un quiproquo, vos sponsors demandent la publication d’un texte juridique pour encadrer votre “expérimentation”, il est peut être intéressant de rappeler que votre produit est une expérimentation non normative.
 
-D’autant plus que la philosophie expérimentale est reconnue particulièrement dans le domaine du numérique pour :&#x20;
+D’autant plus que la philosophie expérimentale est reconnue particulièrement dans le domaine du numérique pour :
 
-> _"tester de nouveaux outils numériques, destinés aux usagers du service public ou aux services administratifs dès lors qu’ils nécessitent d’être développés de manière séquencée, en lien avec leurs utilisateurs, et l’objet d’une évaluation régulière"._ \
+> _"tester de nouveaux outils numériques, destinés aux usagers du service public ou aux services administratifs dès lors qu’ils nécessitent d’être développés de manière séquencée, en lien avec leurs utilisateurs, et l’objet d’une évaluation régulière"._\
 > \
 > [_Conseil d’État - Les expérimentations, rapport 2019_](https://www.conseil-etat.fr/actualites/ameliorer-et-developper-les-experimentations-pour-des-politiques-publiques-plus-efficaces-et-innovantes) _page 32_
-
