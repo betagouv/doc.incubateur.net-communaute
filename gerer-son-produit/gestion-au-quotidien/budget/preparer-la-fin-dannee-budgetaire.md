@@ -4,7 +4,7 @@ description: >-
   utilisant les marchés de la DINUM.
 ---
 
-# Préparer la fin d'année budgétaire
+# ❌ Préparer la fin d'année budgétaire
 
 Vous êtes intrapreneur·e·s au sein d'une Startups d'Etat ou responsable d'un incubateur ?
 

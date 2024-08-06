@@ -1,4 +1,4 @@
-# Préparer un comité d’investissement
+# ❌ Préparer un comité d'investissement
 
 #### Exemple de template
 
