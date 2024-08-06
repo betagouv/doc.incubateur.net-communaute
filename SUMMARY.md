@@ -21,7 +21,7 @@
 ## Travailler chez beta.gouv.fr
 
 * [👷‍♀️ Les différents métiers](travailler-chez-beta.gouv.fr/les-differents-metiers/README.md)
-  * [Intrapreneur.se](travailler-chez-beta.gouv.fr/les-differents-metiers/intrapreneur.se/README.md)
+  * [Intrapreneur.e](travailler-chez-beta.gouv.fr/les-differents-metiers/intrapreneur.se/README.md)
     * [Les infos utiles de l'intra](travailler-chez-beta.gouv.fr/les-differents-metiers/intrapreneur.se/les-infos-utiles-de-lintra.md)
     * [🎖️ Certification des intrapreneur·e·s](travailler-chez-beta.gouv.fr/les-differents-metiers/intrapreneur.se/certification-des-intrapreneurs/README.md)
       * [🤔 Pourquoi une certification des compétences des intras ?](travailler-chez-beta.gouv.fr/les-differents-metiers/intrapreneur.se/certification-des-intrapreneurs/pourquoi-une-certification-des-competences-des-intras.md)
