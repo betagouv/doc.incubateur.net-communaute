@@ -40,6 +40,6 @@ Un webinaire de présentation de cette nouvelle stratégie a eu lieu le 2 octobr
 
 _Pour en savoir plus sur beta.gouv.fr, vous pouvez également consulter quelques références bibliographiques qui évoquent notre action._
 
-{% content-ref url="references-bibliographiques.md" %}
-[references-bibliographiques.md](references-bibliographiques.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
