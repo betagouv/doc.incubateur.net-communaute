@@ -5,7 +5,6 @@
 ## Découvrir beta.gouv.fr
 
 * [💡 L'histoire de beta.gouv.fr](decouvrir-beta.gouv.fr/histoire-de-beta.gouv.fr/README.md)
-  * [❌ Références bibliographiques ❌](decouvrir-beta.gouv.fr/histoire-de-beta.gouv.fr/references-bibliographiques.md)
 * [💚 Les valeurs](decouvrir-beta.gouv.fr/valeurs/README.md)
   * [Code de conduite](decouvrir-beta.gouv.fr/valeurs/normes-de-conduite.md)
 * [🇫🇷 Les services à impact national](decouvrir-beta.gouv.fr/services-numeriques-a-impact-national.md)
