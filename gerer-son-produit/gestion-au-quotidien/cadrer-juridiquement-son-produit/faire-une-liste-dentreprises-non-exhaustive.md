@@ -1,4 +1,8 @@
-# ❌ Faire une liste d'entreprises non-exhaustive
+---
+hidden: true
+---
+
+# Faire une liste d'entreprises non-exhaustive
 
 ## Est-ce que j’ai le droit de faire une liste d’entreprises mais non-exhaustive ?
 

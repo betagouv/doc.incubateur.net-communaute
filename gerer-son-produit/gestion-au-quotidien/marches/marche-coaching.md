@@ -3,9 +3,10 @@ description: >-
   Ce marché est porté par la DINUM. Il n'est pas interministériel : seul la
   DINUM peut y passer des commandes. Il a été notifié en février 2020, et peut
   être reconduit tacitement jusqu'à février 2024.
+hidden: true
 ---
 
-# ❌ Marché coaching
+# Marché coaching
 
 ### Où trouver le cahier des charges de ce marché ? <a href="#ou-trouver-le-cahier-des-charges-de-ce-marche" id="ou-trouver-le-cahier-des-charges-de-ce-marche"></a>
 

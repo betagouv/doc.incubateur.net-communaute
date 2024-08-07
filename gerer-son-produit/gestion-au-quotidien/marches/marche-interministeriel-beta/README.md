@@ -3,9 +3,10 @@ description: >-
   Le marché interministériel beta est un accord-cadre interministériel qui
   permet à l'ensemble des ministères de recruter toutes les compétences
   nécessaires à la réussite d'une Startup d'Etat.
+hidden: true
 ---
 
-# ❌ Marché interministeriel beta
+# Marché interministeriel beta
 
 ### Où trouver le cahier des charges de ce marché ? <a href="#ou-trouver-le-cahier-des-charges-de-ce-marche" id="ou-trouver-le-cahier-des-charges-de-ce-marche"></a>
 

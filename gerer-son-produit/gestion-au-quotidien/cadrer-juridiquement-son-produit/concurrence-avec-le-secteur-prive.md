@@ -1,4 +1,8 @@
-# ❌ Concurrence avec le secteur privé
+---
+hidden: true
+---
+
+# Concurrence avec le secteur privé
 
 ## **Est-ce qu’une Start-up d’Etat court un risque à se retrouver en concurrence avec une boîte privée ?**
 

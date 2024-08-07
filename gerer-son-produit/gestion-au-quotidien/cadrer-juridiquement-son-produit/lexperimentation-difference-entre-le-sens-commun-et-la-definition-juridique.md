@@ -1,4 +1,8 @@
-# ❌ "L'expérimentation" : différence entre le sens commun et la définition juridique
+---
+hidden: true
+---
+
+# "L'expérimentation" : différence entre le sens commun et la définition juridique
 
 ### L’expérimentation via les Startups d’État :
 
