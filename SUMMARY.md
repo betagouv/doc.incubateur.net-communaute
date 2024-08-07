@@ -29,7 +29,7 @@
       * [🌟 C'est quoi une certification de compétences ?](travailler-chez-beta.gouv.fr/les-differents-metiers/intrapreneur.se/certification-des-intrapreneurs/cest-quoi-une-certification-de-competences.md)
       * [🎦 Vidéos de révision](travailler-chez-beta.gouv.fr/les-differents-metiers/intrapreneur.se/certification-des-intrapreneurs/videos-de-revisions.md)
   * [Designer.euse](travailler-chez-beta.gouv.fr/les-differents-metiers/comprendre-le-role-du-design.md)
-  * [Chargé et chargée de déploiement](travailler-chez-beta.gouv.fr/les-differents-metiers/le-charge-de-deploiement-dans-le-programme-beta.gouv/README.md)
+  * [Chargé.e de déploiement](travailler-chez-beta.gouv.fr/les-differents-metiers/le-charge-de-deploiement-dans-le-programme-beta.gouv/README.md)
     * [Les métiers Sales et Marketing dans le privé](travailler-chez-beta.gouv.fr/les-differents-metiers/le-charge-de-deploiement-dans-le-programme-beta.gouv/les-metiers-sales-and-marketing-dans-le-prive.md)
   * [Coach.e](travailler-chez-beta.gouv.fr/les-differents-metiers/coach.e/README.md)
     * [En investigation](travailler-chez-beta.gouv.fr/les-differents-metiers/coach.e/en-investigation/README.md)
