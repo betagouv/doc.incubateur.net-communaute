@@ -1,16 +1,16 @@
 ---
 description: >-
   Si tu envisages de travailler au moins deux jours par semaine dans les locaux
-  de Beta.gouv situés à Ségur, suis les étapes ci-dessous pour obtenir un badge
-  permanent d’accès.
+  de beta.gouv.fr situés à Ségur, suis les étapes ci-dessous pour obtenir un
+  badge permanent d’accès.
 ---
 
-# faire-une-demande-de-badge.md
+# Demander ou prolonger un badge
 
 {% hint style="info" %}
 1. **Éligibilité :** Ce processus s'applique uniquement si tu prévois d'être présent(e) dans nos locaux au moins deux jours par semaine.
-2. **Politique de Fréquence :** Les demandes de badge pour une fréquence inférieure à deux jours par semaine seront refusées. De plus, sois conscient(e) que les services de la DINUM désactivent automatiquement les badges qui ne sont pas utilisés régulièrement.
-3. **Accès Occasionnel :** Si tu prévois de venir moins de deux fois par semaine, consulte la dernière partie de cette documentation pour connaître la procédure relative aux accès ponctuels : [#que-faire-tant-que-je-nai-pas-de-badge](faire-une-demande-de-badge.md#que-faire-tant-que-je-nai-pas-de-badge "mention")
+2. **Politique de fréquence :** Les demandes de badge pour une fréquence inférieure à deux jours par semaine seront refusées. De plus, sois conscient(e) que les services de la DINUM désactivent automatiquement les badges qui ne sont pas utilisés régulièrement.
+3. **Accès occasionnel :** Si tu prévois de venir moins de deux fois par semaine, consulte la dernière partie de cette documentation pour connaître la procédure relative aux accès ponctuels : [#que-faire-tant-que-je-nai-pas-de-badge](faire-une-demande-de-badge.md#que-faire-tant-que-je-nai-pas-de-badge "mention")
 {% endhint %}
 
 ## 🗃️ Quelles sont les informations à préparer ?
@@ -29,9 +29,6 @@ Les demandes de badge pour des fréquences de passage de moins de 2 jours par se
 
 * Connecte toi sur [ton espace membre](https://espace-membre.incubateur.net/)
 * Remplis le formulaire dans la partie "Badge"
-
-<figure><img src="../../../.gitbook/assets/image%20(23).png" alt=""><figcaption></figcaption></figure>
-
 * Tu recevras des mails concernant la prise en charge de ta demande
 
 ## 🕰️ Combien de temps pour obtenir ton badge ?
@@ -48,6 +45,20 @@ Sur [le canal mattermost Bureaux-Ségur](https://mattermost.incubateur.net/betag
 Exemple de mail :
 
 > Bonjour, Pourriez-vous s'il vous plaît laisser monter xxxxxx tous les matins des prochains jours en salle 5.515 ? Il s'agit d'une nouvelle personne collaborant avec l'incubateur de services numériques de la DINUM. Nous avons effectué sa demande de badge il y a quelques jours, mais ce-dernier n'est pas encore arrivé. Merci beaucoup !
+
+## ⏲️ Comment renouveler un badge qui a expiré ?
+
+Ton badge d'accès à Ségur a une durée de validité qui dépend principalement de la durée de tes dates de mission. N'oublie pas de renouveler ce badge dès que ta mission est elle-même prolongée.
+
+**Pour renouveler ton badge, tu peux te rendre sur** [**ton espace membre** ](https://espace-membre.incubateur.net/)**pour faire ta demande.**
+
+{% hint style="info" %}
+N'oublie pas de mettre à jour ta date de fin de mission sur ton espace membre ou nous ne pourrons demander la prolongation de ton badge !
+{% endhint %}
+
+Les services de la DINUM désactivent automatiquement les badges qui ne sont pas utilisés régulièrement. Si tu ne viens pas au moins deux fois par semaine dans les locaux, tu peux simplement demander un accès à la journée à Ségur.
+
+
 
 {% hint style="info" %}
 **Une erreur dans cette fiche ?**\
