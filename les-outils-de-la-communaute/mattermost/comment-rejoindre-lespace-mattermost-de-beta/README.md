@@ -1,17 +1,15 @@
-# Comment rejoindre l’espace Mattermost de Beta ?
+# Rejoindre l'espace Mattermost beta.gouv.fr
 
 ## Etape 0. Prérequis - Disposer d'une fiche membre
 
 {% embed url="https://doc.incubateur.net/communaute/travailler-a-beta-gouv/bienvenue/premier-pas-indispensable-creer-ta-fiche-membre#1.-pour-demarrer-au-plus-vite-commence-par-creer-ta-fiche-membre" %}
 
-Si tu es nouveau ou nouvelle chez beta, ton compte Mattermost sera créé par bot une fois que ton profil de membre a été créé. Tu reçois un email sur l'adresse de ton compte t'informant de sa création (par défaut ton adresse @beta.gouv.fr si tu en as une).
-
+Si tu es nouveau ou nouvelle chez beta.gouv.fr, ton compte Mattermost sera créé par bot une fois que ton profil de membre a été créé. Tu reçois un email sur l'adresse de ton compte t'informant de sa création (par défaut ton adresse @beta.gouv.fr si tu en as une).
 
 ## Etape 1. Clique sur [https://mattermost.incubateur.net/](https://mattermost.incubateur.net/\*\*]\(https://mattermost.incubateur.net/\)\*\*\*\*) ou télécharge l'app
 
-
 {% hint style="info" %}
-Pour optimiser l'expérience, nous te conseillons de télécharger l'application Mattermost sur ordinateur et mobile : [liens de téléchargement](https://mattermost.com/download/#).
+Pour optimiser l'expérience, nous te conseillons de télécharger l'application Mattermost sur ordinateur et mobile : [liens de téléchargement](https://mattermost.com/download/).
 
 A l'installation, si le client demande l'ajout d'un serveur ("Add server"), choisir un nom pour cet espace (par exemple : beta.gouv.fr) et saisir comme adresse de serveur : [https://mattermost.incubateur.net](https://mattermost.incubateur.net).
 {% endhint %}
@@ -30,11 +28,10 @@ Ton compte a été créé à la validation de ton profil. Il te faut simplement 
 
 ### C. Clique sur le lien contenu dans l’email et configure ton mot de passe avec les contraintes suivantes
 
-
-* 20-64 caractères&#x20;
+* 20-64 caractères
 
 {% hint style="info" %}
-#### **Dans le cas où ton adresse beta n’est pas reconnue, merci de nous prévenir par email secretariat@incubateur.net  pour que nous débloquions la situation.**
+**Dans le cas où ton adresse beta n’est pas reconnue, merci de nous prévenir par email secretariat@incubateur.net pour que nous débloquions la situation.**
 {% endhint %}
 
 ## **Etape 3** : Change ton “Nom d'utilisateur” par "prenom.nom"
@@ -52,8 +49,8 @@ Ton compte a été créé à la validation de ton profil. Il te faut simplement 
 
 ## Pour aller plus loin
 
-{% content-ref url="comment-communiquer-sur-mattermost/" %}
-[comment-communiquer-sur-mattermost](comment-communiquer-sur-mattermost/)
+{% content-ref url="../comment-communiquer-sur-mattermost/" %}
+[comment-communiquer-sur-mattermost](../comment-communiquer-sur-mattermost/)
 {% endcontent-ref %}
 
-## ****
+## \*\*\*\*

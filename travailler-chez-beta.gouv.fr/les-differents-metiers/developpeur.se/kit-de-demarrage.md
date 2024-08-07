@@ -40,8 +40,8 @@ Ne pas respecter les standards de qualité devra être justifié.
 
 Pour t'aider à situer ta Startup d'État par rapport à ces standards de qualité, ajoute ton url à l'outil [DashLord](https://dashlord.incubateur.net) en ouvrant une PR [ici](https://github.com/betagouv/dashlord/blob/main/dashlord.yml). Tu trouveras plus d'informations sur la page ci-dessous.
 
-{% content-ref url="../../../les-outils-de-la-communaute/autres-services/dashlord.md" %}
-[dashlord.md](../../../les-outils-de-la-communaute/autres-services/dashlord.md)
+{% content-ref url="../../../les-outils-de-la-communaute/dashlord/" %}
+[dashlord](../../../les-outils-de-la-communaute/dashlord/)
 {% endcontent-ref %}
 
 ## Cadre légal

@@ -4,19 +4,15 @@ description: >-
   Mattermost
 ---
 
-# Foire aux astuces
+# Communiquer sur Mattermost
 
-## L'astuce indispensable
+## L'astuce indispensable : activer l'option threads
 
-{% content-ref url="comment-activer-loption-thread-fil.md" %}
-[comment-activer-loption-thread-fil.md](comment-activer-loption-thread-fil.md)
-{% endcontent-ref %}
+Cette option permet de réduire la sensation de "bruit" et de retrouver les échanges dans des fils de discussions séparées.
+
+Pour activer cette option, tu peux aller dans "Paramètres", à gauche de ta photo de profil, puis aller dans "Affichage" et activer les "Fils de discussion".
 
 ## Les astuces pour une première prise en main
-
-{% content-ref url="comment-demander-trouver-de-laide.md" %}
-[comment-demander-trouver-de-laide.md](comment-demander-trouver-de-laide.md)
-{% endcontent-ref %}
 
 {% content-ref url="comment-contacter-directement-des-personnes.md" %}
 [comment-contacter-directement-des-personnes.md](comment-contacter-directement-des-personnes.md)
@@ -34,10 +30,6 @@ description: >-
 [comment-inviter-un-nouveau-membre-de-la-communaute-sur-mattermost.md](comment-inviter-un-nouveau-membre-de-la-communaute-sur-mattermost.md)
 {% endcontent-ref %}
 
-{% content-ref url="comment-chercher-des-messages.md" %}
-[comment-chercher-des-messages.md](comment-chercher-des-messages.md)
-{% endcontent-ref %}
-
 {% content-ref url="comment-aller-plus-vite.md" %}
 [comment-aller-plus-vite.md](comment-aller-plus-vite.md)
 {% endcontent-ref %}
@@ -45,8 +37,3 @@ description: >-
 {% content-ref url="comment-ajouter-un-rappel-recurrent.md" %}
 [comment-ajouter-un-rappel-recurrent.md](comment-ajouter-un-rappel-recurrent.md)
 {% endcontent-ref %}
-
-{% content-ref url="comment-repondre-a-un-message.md" %}
-[comment-repondre-a-un-message.md](comment-repondre-a-un-message.md)
-{% endcontent-ref %}
-

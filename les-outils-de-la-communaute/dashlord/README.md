@@ -2,7 +2,7 @@
 description: Tableau de bord des bonnes pratiques techniques des produits numériques.
 ---
 
-# DashLord
+# 📊 DashLord
 
 {% hint style="info" %}
 **Un Dashlord, c'est quoi ?**
@@ -42,6 +42,6 @@ Un Dashlord est un tableau de bord. Il permet de situer sa Startup d'État ou de
 
 ## En savoir plus
 
-{% content-ref url="../../ressources/questions-frequentes/questions-reponses.md" %}
-[questions-reponses.md](../../ressources/questions-frequentes/questions-reponses.md)
+{% content-ref url="questions-reponses.md" %}
+[questions-reponses.md](questions-reponses.md)
 {% endcontent-ref %}

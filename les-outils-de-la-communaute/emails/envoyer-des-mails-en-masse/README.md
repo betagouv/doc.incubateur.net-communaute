@@ -27,7 +27,3 @@ Si votre produit doit envoyer des newsletter ou emails transactionnels, **vous d
 {% content-ref url="brevo.md" %}
 [brevo.md](brevo.md)
 {% endcontent-ref %}
-
-{% content-ref url="../../../gerer-son-produit/tech/sous-domaine-beta-gouv-fr.md" %}
-[sous-domaine-beta-gouv-fr.md](../../../gerer-son-produit/tech/sous-domaine-beta-gouv-fr.md)
-{% endcontent-ref %}
