@@ -1,11 +1,12 @@
 ---
+hidden: true
 layout:
   title:
     visible: true
   description:
     visible: true
   tableOfContents:
-    visible: true 
+    visible: true
   outline:
     visible: true
   pagination:
