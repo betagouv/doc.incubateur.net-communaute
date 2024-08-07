@@ -2,6 +2,7 @@
 description: >-
   La certification des compétences professionnelles des intras de Startup d'Etat
   et de Territoires.
+hidden: true
 ---
 
 # 🎖️ Certification des intrapreneur·e·s
