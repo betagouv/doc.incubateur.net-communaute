@@ -13,7 +13,7 @@ layout:
     visible: false
 ---
 
-# ❌ Références bibliographiques ❌
+# Références bibliographiques
 
 ### Startups d'État
 
