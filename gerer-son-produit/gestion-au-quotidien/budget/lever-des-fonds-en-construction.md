@@ -1,4 +1,8 @@
-# ❌ \[TO DO] Lever les fonds
+---
+hidden: true
+---
+
+# \[TO DO] Lever les fonds
 
 ## Les guichets de financement 2024
 

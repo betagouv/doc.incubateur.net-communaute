@@ -1,4 +1,8 @@
-# ❌ Préparer un comité d'investissement
+---
+hidden: true
+---
+
+# Préparer un comité d'investissement
 
 #### Exemple de template
 
