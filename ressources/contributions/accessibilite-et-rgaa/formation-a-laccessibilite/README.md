@@ -1,2 +1,0 @@
-# formation-a-laccessibilite
-

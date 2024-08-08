@@ -1,2 +1,0 @@
-# dataviz-et-accessibilite.md
-

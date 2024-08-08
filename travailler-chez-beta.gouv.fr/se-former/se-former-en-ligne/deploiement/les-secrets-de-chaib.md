@@ -4,9 +4,7 @@ description: Cycle de 4 conférences sur les retours d'expérience de Chaïb.
 
 # Les secrets de Chaïb
 
-![](<../../.gitbook/assets/upload\_732b47e6add044ae2e1f58fb6b07e059 (1).png>)
-
-Chaïb vous dévoile **ses meilleures stratégies de croissance auprès des Startups d’Etat qu’il a accompagné** chez beta.gouv :
+Chaïb vous dévoile **ses meilleures stratégies de croissance auprès des Startups d’Etat qu’il a accompagné** chez beta.gouv.fr :
 
 * outils
 * solutions
@@ -70,7 +68,7 @@ Cherchez à garder les nouveaux utilisateurs après un buzz.
 
 #### L’outil ne fait pas l’usage
 
-Si chercher à développer son produit peut passer par des outils de CRM (gestion de la relation client), il ne faut pas trop dépendre de ces derniers dans sa relation usager. Cherchez des outils qui répondent à vos besoins. Un logiciel ne fera pas l’acquisition pour vous, ne cherchez pas à vous plier à sa logique si celle-ci n’améliore pas vos résultats.&#x20;
+Si chercher à développer son produit peut passer par des outils de CRM (gestion de la relation client), il ne faut pas trop dépendre de ces derniers dans sa relation usager. Cherchez des outils qui répondent à vos besoins. Un logiciel ne fera pas l’acquisition pour vous, ne cherchez pas à vous plier à sa logique si celle-ci n’améliore pas vos résultats.
 
 {% hint style="info" %}
 Un CRM peut créer de bons automatismes s’il vous demande par exemple la date d’un prochain rendez-vous après un appel avec un client, mais sa gestion peut vous faire perdre de vue vos objectifs.

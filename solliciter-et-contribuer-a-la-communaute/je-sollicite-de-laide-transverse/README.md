@@ -21,28 +21,18 @@ Si votre service numérique fait partie du réseau beta.gouv.fr, vous avez accè
 * **Accompagnement sécurité** : atelier homologation de sécurité, aide ponctuelle. Pour déclencher cet accompagnement, contactez un membre de [l'équipe d'animation de beta.gouv.fr](../../decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/lequipe-danimation-beta.gouv.fr.md).
 * **Entrainement aux comités d'investissement, démos , accompagnement stratégique sur des sujets complexes** (blocages administratifs ou politiques, structuration d'un incubateur, montée d'une gouvernance complexe pour une Startup d'Etat). Pour déclencher cet accompagnement, contactez un membre de l'[équipe d'animation de beta.gouv.fr](../../decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/lequipe-danimation-beta.gouv.fr.md).
 * **Accompagnement en accessibilité** : audit d'accessibilité ou de contenu, aide à la mise en place de tests techniques avec le [pôle Numérique Inclusif](aide-transverse-pole-numerique-inclusif.md)
-* **Accompagnement à l'accélération de son produit** : le programme Gamma sélectionne tous les 3 mois des produits à haut potentiel pour les aider à maximiser leur impact.
-
-{% content-ref url="../../contribuer-a-la-communaute/la-vie-dune-se/acceleration/programme-gamma.md" %}
-[programme-gamma.md](../../contribuer-a-la-communaute/la-vie-dune-se/acceleration/programme-gamma.md)
-{% endcontent-ref %}
-
 * **Accompagnement sur des expertises spécifiques**
 
 {% content-ref url="growth-hacking-acquisition.md" %}
 [growth-hacking-acquisition.md](growth-hacking-acquisition.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../contribuer-a-la-communaute/je-sollicite-de-laide-transverse/data-science.md" %}
-[data-science.md](../../contribuer-a-la-communaute/je-sollicite-de-laide-transverse/data-science.md)
-{% endcontent-ref %}
-
 {% content-ref url="aide-transverse-pole-numerique-inclusif.md" %}
 [aide-transverse-pole-numerique-inclusif.md](aide-transverse-pole-numerique-inclusif.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../contribuer-a-la-communaute/je-gere-mon-produit-et-son-impact/definir-et-mesurer-limpact/cauchemar-a-beta-la-mesure-dimpact.md" %}
-[cauchemar-a-beta-la-mesure-dimpact.md](../../contribuer-a-la-communaute/je-gere-mon-produit-et-son-impact/definir-et-mesurer-limpact/cauchemar-a-beta-la-mesure-dimpact.md)
+{% content-ref url="cauchemar-a-beta-la-mesure-dimpact.md" %}
+[cauchemar-a-beta-la-mesure-dimpact.md](cauchemar-a-beta-la-mesure-dimpact.md)
 {% endcontent-ref %}
 
 ## Comment a été construite l'aide transverse beta.gouv.fr ?

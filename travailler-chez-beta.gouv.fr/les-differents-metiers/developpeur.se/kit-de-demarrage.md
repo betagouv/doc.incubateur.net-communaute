@@ -53,8 +53,8 @@ Dans le cadre du travail avec l'administration, il est important de connaitre le
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="../../../ressources/contributions/accessibilite-et-rgaa/" %}
-[accessibilite-et-rgaa](../../../ressources/contributions/accessibilite-et-rgaa/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 Nous proposons aussi des formations dédiée : contactez l'équipe technique de beta pour plus d'informations.

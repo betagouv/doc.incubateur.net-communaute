@@ -44,8 +44,8 @@ La conformité ne s'atteint pas en un jour et ça n'est pas grave : c'est **l'en
 
 ## Accompagnement
 
-{% content-ref url="../../../../ressources/contributions/formation-a-laccessibilite/sensibilisation-a-laccessibilite.md" %}
-[sensibilisation-a-laccessibilite.md](../../../../ressources/contributions/formation-a-laccessibilite/sensibilisation-a-laccessibilite.md)
+{% content-ref url="../../../../travailler-chez-beta.gouv.fr/se-former/se-former-en-ligne/formation-a-laccessibilite/sensibilisation-a-laccessibilite.md" %}
+[sensibilisation-a-laccessibilite.md](../../../../travailler-chez-beta.gouv.fr/se-former/se-former-en-ligne/formation-a-laccessibilite/sensibilisation-a-laccessibilite.md)
 {% endcontent-ref %}
 
 {% content-ref url="../../../../ressources/communaute/accessibilite/broken-reference/" %}

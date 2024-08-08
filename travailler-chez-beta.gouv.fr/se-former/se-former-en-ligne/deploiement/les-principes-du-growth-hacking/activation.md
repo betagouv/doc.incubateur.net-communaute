@@ -1,8 +1,10 @@
-# Activation
+---
+hidden: true
+---
 
-Si vous souhaitez de l'aide sur les sujets liés à la croissance, la DINUM met en place un accompagnement en transverse : [https://doc.incubateur.net/communaute/aide-transverse/growth-hacking-acquisition](../../je-sollicite-de-laide-transverse/growth-hacking-acquisition.md) par Chaïb Martinez
+# L'activation
 
-Côté gestion de produit, [https://doc.incubateur.net/communaute/aide-transverse/methodologie-produit](broken-reference/) par Mathilde Petit et Clément Chapalain
+Si vous souhaitez de l'aide sur les sujets liés à la croissance, la DINUM met en place [un accompagnement en transverse](../../../../../solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/growth-hacking-acquisition.md).
 
 {% embed url="https://youtu.be/hFbsE5aC5Pk" %}
 
@@ -28,13 +30,13 @@ Slides : [https://docs.google.com/presentation/d/1MT3xbM0j23Xwl5s55sss6cEKNEhSUF
 
 {% embed url="https://youtu.be/SUDu3BHAfpc" %}
 
-{% content-ref url="../../../travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/faire-une-visio/visioconferences.md" %}
-[visioconferences.md](../../../travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/faire-une-visio/visioconferences.md)
+{% content-ref url="../../../../../ressources/travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/faire-une-visio/visioconferences.md" %}
+[visioconferences.md](../../../../../ressources/travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/faire-une-visio/visioconferences.md)
 {% endcontent-ref %}
 
 ## E-Mailing <a href="#mailing-en-masse" id="mailing-en-masse"></a>
 
-#### Utiliser un outil comme ~~Sendinblue~~ Brevo <a href="#utiliser-mailjet" id="utiliser-mailjet"></a>
+#### Utiliser un outil comme Brevo <a href="#utiliser-mailjet" id="utiliser-mailjet"></a>
 
 Il existe un compte partagé beta.gouv pour envoyer des e-mailings rapidement. Pour savoir comment l'utiliser et comment envoyer des emails :
 

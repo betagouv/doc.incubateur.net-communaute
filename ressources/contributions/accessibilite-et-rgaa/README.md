@@ -1,2 +1,0 @@
-# accessibilite-et-rgaa
-
