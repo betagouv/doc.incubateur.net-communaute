@@ -2,6 +2,7 @@
 description: >-
   Outils et ressources pour développer un produit minimal lors d'une phase de
   construction
+hidden: true
 ---
 
 # Kit de démarrage dev

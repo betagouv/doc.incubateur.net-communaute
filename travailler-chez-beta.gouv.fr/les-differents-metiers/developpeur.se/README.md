@@ -1,4 +1,4 @@
-# Développement
+# Développeur.se
 
 {% hint style="info" %}
 Chez beta.gouv.fr, les **développeuses** et **développeurs** pensent et conçoivent l'architecture et les interfaces des services numériques. Ils peuvent aussi avoir la compétence "Ops" (Exploitation) et gérer l'infrastructure de leurs services numériques.
@@ -14,12 +14,12 @@ Les développeuses et développeurs qui maîtrisent les sujets d'exploitation et
 
 Un **kit de démarrage** est disponible pour les développeuses et développeurs qui lancent un nouveau service numérique depuis la page blanche.
 
-{% content-ref url="../../la-vie-dune-se/construction/kit-de-demarrage.md" %}
-[kit-de-demarrage.md](../../la-vie-dune-se/construction/kit-de-demarrage.md)
+{% content-ref url="kit-de-demarrage.md" %}
+[kit-de-demarrage.md](kit-de-demarrage.md)
 {% endcontent-ref %}
 
 En outre, plusieurs ressources sont disponibles pour aider les développeuses et les développeurs :
 
-{% content-ref url="../../je-fais-des-choix-technologique/" %}
-[je-fais-des-choix-technologique](../../je-fais-des-choix-technologique/)
+{% content-ref url="../../../gerer-son-produit/les-standards/" %}
+[les-standards](../../../gerer-son-produit/les-standards/)
 {% endcontent-ref %}
