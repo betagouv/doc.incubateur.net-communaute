@@ -5,7 +5,7 @@ description: >-
   d'embarquement est également prévue pour t'accueillir !
 ---
 
-# Embarquement dev
+# embarquement-dev.md
 
 ## Identifie tes contacts tech chez beta.gouv.fr
 
@@ -19,7 +19,7 @@ Une équipe tech transverse existe au sein de l'incubateur. Son rôle est de s'a
 * Thomas Ramé (Devops)
 
 {% hint style="info" %}
-Tu peux participer à l'embarquement dev en t'inscrivant via [ton espace membre.](https://espace-membre.incubateur.net/account)&#x20;
+Tu peux participer à l'embarquement dev en t'inscrivant via [ton espace membre.](https://espace-membre.incubateur.net/account)
 {% endhint %}
 
 ### La communauté beta.gouv.fr
@@ -32,8 +32,8 @@ Tout membre de la communauté peut dédier jusqu'à 10% de son temps facturé à
 
 ## Familiarise toi avec nos standards de qualité
 
-{% content-ref url="../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/standards-de-qualite-beta.gouv.fr.md" %}
-[standards-de-qualite-beta.gouv.fr.md](../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/standards-de-qualite-beta.gouv.fr.md)
+{% content-ref url="../../gerer-son-produit/les-standards/" %}
+[les-standards](../../gerer-son-produit/les-standards/)
 {% endcontent-ref %}
 
 ### Quelques grands principes
@@ -88,28 +88,24 @@ Plus de détails sur nos standards technologiques [ici](https://doc.incubateur.n
 
 ### Standards d'Accessibilité
 
-{% content-ref url="../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/accessibilite-et-rgaa/kit-accessibilite/" %}
-[kit-accessibilite](../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/accessibilite-et-rgaa/kit-accessibilite/)
+{% content-ref url="../../gerer-son-produit/les-standards/accessibilite-and-inclusion/" %}
+[accessibilite-and-inclusion](../../gerer-son-produit/les-standards/accessibilite-and-inclusion/)
 {% endcontent-ref %}
 
 :student: Plusieurs [formations](../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/accessibilite-et-rgaa/formation-a-laccessibilite/) sont à ta disposition, n'hésite pas à t'y inscrire ! Nous auditons aussi régulièrement les produits de la communauté.
 
 ### Standards Sécurité
 
-{% content-ref url="../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-securise-mon-produit/foire-aux-questions-sur-la-mise-en-conformite-des-services-numeriques/securite-and-homologation.md" %}
-[securite-and-homologation.md](../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-securise-mon-produit/foire-aux-questions-sur-la-mise-en-conformite-des-services-numeriques/securite-and-homologation.md)
-{% endcontent-ref %}
-
-{% content-ref url="../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-securise-mon-produit/" %}
-[je-securise-mon-produit](../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-securise-mon-produit/)
+{% content-ref url="../../gerer-son-produit/standards/securite/" %}
+[securite](../../gerer-son-produit/standards/securite/)
 {% endcontent-ref %}
 
 :student: Plusieurs [formations](../se-former/) sécurité sont régulièrement proposées, n'hésite pas à t'y inscrire ! Nous auditons aussi régulièrement les produits de la communauté.
 
 ### RGPD
 
-{% content-ref url="../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-securise-mon-produit/guide-rgpd-et-securite.md" %}
-[guide-rgpd-et-securite.md](../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-securise-mon-produit/guide-rgpd-et-securite.md)
+{% content-ref url="../../gerer-son-produit/les-standards/protection-des-donnees-personnelles/responsabilite-de-traitement/annexe-3-grands-principes-du-rgpd.md" %}
+[annexe-3-grands-principes-du-rgpd.md](../../gerer-son-produit/les-standards/protection-des-donnees-personnelles/responsabilite-de-traitement/annexe-3-grands-principes-du-rgpd.md)
 {% endcontent-ref %}
 
 :student: Plusieurs [formations](../se-former/) autour du RGPD sont régulièrement proposées, n'hésite pas à t'y inscrire ! Nous auditons aussi régulièrement les produits de la communauté.
