@@ -2,6 +2,7 @@
 description: >-
   Bien rédiger son annonce et poser les bonnes questions pour trouver la bonne
   personne
+hidden: true
 ---
 
 # ❌ recruter-designer.md
@@ -82,6 +83,3 @@ Voici quelques idées de questions à poser :
 * **As-tu déjà travaillé sur \<un site grand public / une application métier / une app mobile / ...> ?** Chaque type de produit présente des enjeux différents en terme d’UX. Il peut être intéressant d’identifier les candidat.es qui ont une expérience similaire.
 * **Présente nous en quelques minutes un projet sur lequel tu as travaillé récemment. Quelles ont été les difficultés ?** En UX, on s’intéresse au processus de travail, qui se fait sur le long terme. Comment la personne collabore avec le reste de l’équipe ? Quel type de livrable produit-elle ?
 
-###
-
-### &#x20;<a href="#docs-internal-guid-03ea9015-7fff-718c-31d0-bfae8488a867" id="docs-internal-guid-03ea9015-7fff-718c-31d0-bfae8488a867"></a>

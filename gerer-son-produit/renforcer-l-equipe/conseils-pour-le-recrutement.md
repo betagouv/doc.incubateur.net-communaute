@@ -1,4 +1,4 @@
-# Les bonnes pratiques pour intégrer quelqu'un à son équipe
+# Bonne pratiques de "recrutement"
 
 ## Répondre à tous les candidats
 
@@ -45,21 +45,21 @@ Lire par exemple [cet article](https://mozaikrh.com/11-biais-cognitifs-a-connait
 Cette section est en construction, nos équipes travaillent à enrichir ces guides d'entretien. Si vous êtes candidat·e et que votre corps de métier n'est pas documenté ici, nous vous invitons à solliciter la personne qui recrute pour plus d'informations sur le protocole d'entretien auquel vous serez soumis·e.
 {% endhint %}
 
-{% content-ref url="conseils-pour-le-recrutement/guide-dentretiens-par-profil.md" %}
-[guide-dentretiens-par-profil.md](conseils-pour-le-recrutement/guide-dentretiens-par-profil.md)
+{% content-ref url="guide-dentretiens-par-profil.md" %}
+[guide-dentretiens-par-profil.md](guide-dentretiens-par-profil.md)
 {% endcontent-ref %}
 
 ### S'assurer la compatibilité avec les valeurs de beta
 
-Lorsqu'une nouvelle personne vient travailler avec vous, elle participe aussi à la communauté Beta. Il est donc important de vérifier qu'elle est bien en accord avec [les valeurs de la communauté. ](../../../travailler-a-beta-gouv/culture/charte.md)Le moyen le plus simple de le savoir reste de lui demander si elle les a lues et si elle les partage.
+Lorsqu'une nouvelle personne vient travailler avec vous, elle participe aussi à la communauté Beta. Il est donc important de vérifier qu'elle est bien en accord avec [les valeurs de la communauté. ](../../travailler-a-beta-gouv/culture/charte.md)Le moyen le plus simple de le savoir reste de lui demander si elle les a lues et si elle les partage.
 
 ## Trouver une rémunération ou un prix juste
 
-A titre indicatif, voici 2 éléments qui te permettront de trouver une juste rémunération/prix :&#x20;
+A titre indicatif, voici 2 éléments qui te permettront de trouver une juste rémunération/prix :
 
-* pour le recrutement en direct d’agent public, tu [peux regarder la grille dinum ](https://www.numerique.gouv.fr/publications/referentiel-remuneration-filiere-numerique/)
+* pour le recrutement en direct d’agent public, tu [peux regarder la grille dinum](https://www.numerique.gouv.fr/publications/referentiel-remuneration-filiere-numerique/)
 * pour les prestations, tu peux te baser sur[ l’observatoire des revenus de la communauté Beta.gouv](https://metabase.incubateur.net/public/dashboard/554ff353-6104-4c25-a261-d8bdc40f75d5?date\_d%27arriv%25C3%25A9=past3years\~)
 
 ## Garantir un accueil premium
 
-Bien suivre [la procédure d'accueil proposée aux nouveaux membres de la communauté beta.gouv.fr](../../../travailler-a-beta-gouv/bienvenue/).&#x20;
+Bien suivre [la procédure d'accueil proposée aux nouveaux membres de la communauté beta.gouv.fr](../../travailler-a-beta-gouv/bienvenue/).

@@ -209,7 +209,7 @@
       * [Je suis un des attributaires du marché](gerer-son-produit/gestion-au-quotidien/marches/marche-interministeriel-beta/je-suis-un-des-attributaires-du-marche.md)
       * [Je suis une administration bénéficiaire du marché interministériel](gerer-son-produit/gestion-au-quotidien/marches/marche-interministeriel-beta/je-suis-une-administration-beneficiaire-du-marche-interministeriel.md)
     * [Marché coaching](gerer-son-produit/gestion-au-quotidien/marches/marche-coaching.md)
-  * [Renforcer son équipe](gerer-son-produit/renforcer-l-equipe/README.md)
+  * [🏋️ Renforcer son équipe](gerer-son-produit/renforcer-l-equipe/README.md)
     * [Bonne pratiques de "recrutement"](gerer-son-produit/renforcer-l-equipe/conseils-pour-le-recrutement.md)
     * [Guide d'entretien par profil](gerer-son-produit/renforcer-l-equipe/guide-dentretiens-par-profil.md)
     * [❌ recruter-designer.md](gerer-son-produit/renforcer-l-equipe/recruter-designer.md)
