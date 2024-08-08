@@ -5,7 +5,7 @@ description: >-
   dans chaque cas ce qu'on peut faire pour y réagir.
 ---
 
-# Recommendations
+# Réagir face à une situation compliquée
 
 ## Conflit
 
@@ -38,7 +38,7 @@ Le harcèlement moral ou sexuel est interdit et constitue un délit pénal. A ti
     * membre de son équipe
     * coach de l'équipe
     * direction de l'incubateur
-    * un·e membre de [l'équipe d'animation de beta](../../decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/lequipe-danimation-beta.gouv.fr.md)
+    * un·e membre de [l'équipe d'animation de beta](../../../decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/lequipe-danimation-beta.gouv.fr.md)
 
     On a le droit, de sa propre initiative, "d'escalader" la chaîne si la réponse apportée ne satisfait pas.
 *   **Contacter le groupe de soutien :** constitué de membres de la communauté, ses membres sont disponibles pour vous écouter en respectant la confidentialité de votre situation en cas de conflit, mal-être ou souffrance, violence ou harcèlement.
@@ -70,6 +70,6 @@ _Si vous êtes agents publics, vous pouvez également :_
 * Je contacte [AlloDiscrim, AlloSexism ou AlloEthic](https://allodiscrim.com/nos-dispositifs/)
 * En tant que freelance, vous devez en alerter votre titulaire de marché (Octo, Malt, Scopyleft...)
 
-{% content-ref url="independant-victime-de-harcelement-ou-discrimination.md" %}
-[independant-victime-de-harcelement-ou-discrimination.md](independant-victime-de-harcelement-ou-discrimination.md)
+{% content-ref url="independant-victime-de-harcelement-ou-de-discrimination.md" %}
+[independant-victime-de-harcelement-ou-de-discrimination.md](independant-victime-de-harcelement-ou-de-discrimination.md)
 {% endcontent-ref %}

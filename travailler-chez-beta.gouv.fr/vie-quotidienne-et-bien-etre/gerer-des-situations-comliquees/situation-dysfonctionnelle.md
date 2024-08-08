@@ -8,9 +8,9 @@ description: >-
 
 Cette note vise à aider les équipes à anticiper la présence de dysfonctionnements au sein d’une équipe produit ou d’un partenariat réalisé avec une autre administration (cadrage partenarial bancal, manque d’alignement opérationnel, méthodologique, culturel ou stratégique, environnement toxique et/ou de blocages politiques ou administratifs importants).
 
-Si vous vous reconnaissez dans plusieurs éléments mentionnés ci-dessous et que vous avez besoin d’aide, vous pouvez contacter l’[équipe d'animation de beta.gouv.fr](../../decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/lequipe-danimation-beta.gouv.fr.md).
+Si vous vous reconnaissez dans plusieurs éléments mentionnés ci-dessous et que vous avez besoin d’aide, vous pouvez contacter l’[équipe d'animation de beta.gouv.fr](../../../decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/lequipe-danimation-beta.gouv.fr.md).
 
-Un groupe de soutien au sein de beta.gouv.fr s'est constitué fin 2022. Nous proposons des écoutes en cas de mal-être au travail. A la suite d'une écoute nous pouvons mettre en place des médiations. Vous pouvez nous contacter directement sur notre boite mail soutien@beta.gouv.fr.&#x20;
+Un groupe de soutien au sein de beta.gouv.fr s'est constitué fin 2022. Nous proposons des écoutes en cas de mal-être au travail. A la suite d'une écoute nous pouvons mettre en place des médiations. Vous pouvez nous contacter directement sur notre boite mail soutien@beta.gouv.fr.
 
 ## Liste des signaux faibles <a href="#liste-des-signaux-faibles" id="liste-des-signaux-faibles"></a>
 
