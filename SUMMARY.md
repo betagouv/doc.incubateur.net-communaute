@@ -55,7 +55,7 @@
 * [🐥 Je débute chez beta.gouv.fr](travailler-chez-beta.gouv.fr/je-debute-chez-beta.gouv.fr/README.md)
   * [J’intègre la communauté](travailler-chez-beta.gouv.fr/je-debute-beta.gouv.fr/embarquement-dans-la-communaute.md)
   * [Checklist](travailler-chez-beta.gouv.fr/je-debute-beta.gouv.fr/to-do-darrivee.md)
-  * [embarquement-dev.md](travailler-chez-beta.gouv.fr/je-debute-beta.gouv.fr/embarquement-dev.md)
+  * [Embarquement dev](travailler-chez-beta.gouv.fr/je-debute-beta.gouv.fr/embarquement-dev.md)
 * [🚪 Je quitte beta.gouv.fr](travailler-chez-beta.gouv.fr/je-quitte-beta.gouv.fr.md)
 * [🧘🏻‍♀️ Vie quotidienne et bien être](travailler-chez-beta.gouv.fr/vie-quotidienne-et-bien-etre/README.md)
   * [Travailler dans les lieux partagés](travailler-chez-beta.gouv.fr/vie-quotidienne-et-bien-etre/travailler-dans-les-lieux-partages/README.md)
