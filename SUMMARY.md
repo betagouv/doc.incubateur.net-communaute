@@ -42,7 +42,7 @@
   * [Gestionnaire de produit (PO/PM)](travailler-chez-beta.gouv.fr/les-differents-metiers/gestionnaire-de-produit-PO-PM/README.md)
   * [Responsable de portefeuille](travailler-chez-beta.gouv.fr/les-differents-metiers/responsable-de-portefeuille/README.md)
   * [Responsable d’incubateur](travailler-chez-beta.gouv.fr/les-differents-metiers/responsable-d-incubateur/README.md)
-  * [\[TO DO\]Facilitateur.trice](travailler-chez-beta.gouv.fr/les-differents-metiers/facilitateur.trice/README.md)
+  * [Facilitateur.trice \[to do\]](travailler-chez-beta.gouv.fr/les-differents-metiers/facilitateur.trice/README.md)
 * [🏤 Les différents statuts](travailler-chez-beta.gouv.fr/les-differents-statuts/README.md)
   * [Fonctionnaires et contractuels](travailler-chez-beta.gouv.fr/les-differents-statuts/fonctionnaires-et-contractuels-de-la-fonction-publique.md)
   * [Indépendants (freelances)](travailler-chez-beta.gouv.fr/les-differents-statuts/independants-freelances/README.md)
