@@ -1,8 +1,10 @@
 ---
-description: Attention à ne pas tout faire en simultanée, il y a risque d'overdose 😄
+description: >-
+  La checklist dont tu as besoin ! Attention à ne pas tout faire en simultanée,
+  il y a risque d'overdose 😄
 ---
 
-# Checklist
+# 🐥 Je débute chez beta.gouv.fr
 
 ## La première semaine
 
@@ -45,7 +47,7 @@ A l'exception des cas où ton administration publique de rattachement ne dispose
 | ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Fabrique numérique des Affaires sociales  | [site internet ](https://www.fabrique.social.gouv.fr)- [wiki](https://github.com/SocialGouv/www/wiki) - [documentation technique](https://github.com/SocialGouv/www/wiki/Social-Gouv-Tech-Welcome-Pack-%F0%9F%96%96) |
 | Fabrique numérique de l'Écologie          | [documentation](https://fabrique-numerique.gitbook.io/guide/)                                                                                                                                                        |
-| Fabrique numérique des Armées             | [documentation](broken-reference/)                                                                                                                                                                                   |
+| Fabrique numérique des Armées             | [documentation](../je-debute-beta.gouv.fr/broken-reference/)                                                                                                                                                         |
 | Fabrique Pôle emploi                      |                                                                                                                                                                                                                      |
 | Lab MI (ministère de l'Intérieur)         | [site internet](https://beta.interieur.gouv.fr)                                                                                                                                                                      |
 | Incubateur des territoires                | [site internet](https://incubateur.anct.gouv.fr)                                                                                                                                                                     |

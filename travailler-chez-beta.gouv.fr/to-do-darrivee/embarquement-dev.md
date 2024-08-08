@@ -3,9 +3,10 @@ description: >-
   Cette page vise à répondre aux principales questions que des personnes
   développeuses pourraient se poser en arrivant chez beta.gouv. Une session
   d'embarquement est également prévue pour t'accueillir !
+hidden: true
 ---
 
-# embarquement-dev.md
+# Embarquement dev
 
 ## Identifie tes contacts tech chez beta.gouv.fr
 

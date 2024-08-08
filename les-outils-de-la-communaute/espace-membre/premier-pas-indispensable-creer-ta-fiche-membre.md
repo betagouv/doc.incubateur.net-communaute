@@ -5,7 +5,7 @@ description: >-
   sécurité et t'inscrire à l'atelier d'embarquement.
 ---
 
-# premier-pas-indispensable-creer-ta-fiche-membre.md
+# Créer une fiche membre
 
 ## 0. Invitation par une autre personne de la communauté
 
@@ -75,14 +75,14 @@ Cela vient avec quelques **règles d'hygiène informatique** pour assurer un niv
 
 Ces règles s'appliquent à tous les membres de la communauté, quelque soit votre accès à des informations sensibles.
 
-{% content-ref url="../../travailler-chez-beta.gouv.fr/je-debute-beta.gouv.fr/embarquement-dev.md" %}
-[embarquement-dev.md](../../travailler-chez-beta.gouv.fr/je-debute-beta.gouv.fr/embarquement-dev.md)
+{% content-ref url="../../travailler-chez-beta.gouv.fr/to-do-darrivee/embarquement-dev.md" %}
+[embarquement-dev.md](../../travailler-chez-beta.gouv.fr/to-do-darrivee/embarquement-dev.md)
 {% endcontent-ref %}
 
 ## 3 - Et ensuite ?
 
 Tu peux lire nos recommandations pour tes premières semaines et tes premiers mois de mission.
 
-{% content-ref url="../../travailler-chez-beta.gouv.fr/je-debute-beta.gouv.fr/to-do-darrivee.md" %}
-[to-do-darrivee.md](../../travailler-chez-beta.gouv.fr/je-debute-beta.gouv.fr/to-do-darrivee.md)
+{% content-ref url="../../travailler-chez-beta.gouv.fr/to-do-darrivee/" %}
+[to-do-darrivee](../../travailler-chez-beta.gouv.fr/to-do-darrivee/)
 {% endcontent-ref %}
