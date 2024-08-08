@@ -67,6 +67,7 @@
   * [Congé maternité](travailler-chez-beta.gouv.fr/vie-quotidienne-et-bien-etre/conge-maternite.md)
   * [Réagir face à une situation compliquée](travailler-chez-beta.gouv.fr/vie-quotidienne-bien-etre/conseils.md)
   * [Repérer une situation dysfonctionnelle](travailler-chez-beta.gouv.fr/vie-quotidienne-bien-etre/situation-dysfonctionnelle.md)
+  * [Indépendant victime de harcèlement ou de discrimination](travailler-chez-beta.gouv.fr/vie-quotidienne-et-bien-etre/independant-victime-de-harcelement-ou-de-discrimination.md)
 * [🤓 Je me forme](travailler-chez-beta.gouv.fr/se-former/README.md)
   * [Découvrir les formations proposées](travailler-chez-beta.gouv.fr/se-former/les-formations-a-venir.md)
   * [Se former en ligne](travailler-chez-beta.gouv.fr/se-former/se-former-en-ligne.md)

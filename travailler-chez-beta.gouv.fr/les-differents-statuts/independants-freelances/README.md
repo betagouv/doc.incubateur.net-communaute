@@ -14,8 +14,8 @@ Une grande partie de la communauté beta.gouv.fr est composée de personnes au s
 
 Vous souhaiteriez rejoindre beta.gouv.fr et vous vous demandez si le statut d'indépendant vous correspond ? Nous avons compilé quelques informations pour vous aider à comprendre ce que cela impliquerait
 
-{% content-ref url="../../bienvenue/les-differents-statuts/independants-freelances/devenir-freelance.md" %}
-[devenir-freelance.md](../../bienvenue/les-differents-statuts/independants-freelances/devenir-freelance.md)
+{% content-ref url="devenir-freelance.md" %}
+[devenir-freelance.md](devenir-freelance.md)
 {% endcontent-ref %}
 
 Afin d'assurer une transparence aux _freelances_, une grille avec des taux journaliers indicatifs a été publiée à la page suivante.
@@ -30,6 +30,6 @@ Une charte pour les _freelances_ a été adoptée afin de clarifier leurs droits
 [charte-des-freelances.md](charte-des-freelances.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../culture/conseils/independant-victime-de-harcelement-ou-discrimination.md" %}
-[independant-victime-de-harcelement-ou-discrimination.md](../../culture/conseils/independant-victime-de-harcelement-ou-discrimination.md)
+{% content-ref url="../../vie-quotidienne-et-bien-etre/independant-victime-de-harcelement-ou-de-discrimination.md" %}
+[independant-victime-de-harcelement-ou-de-discrimination.md](../../vie-quotidienne-et-bien-etre/independant-victime-de-harcelement-ou-de-discrimination.md)
 {% endcontent-ref %}

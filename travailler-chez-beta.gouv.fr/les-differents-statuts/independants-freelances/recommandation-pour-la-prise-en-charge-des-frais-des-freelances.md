@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Recommandation pour la prise en charge des frais des freelances
 
 Cette page propose une recommandation visant à clarifier la politique de prise en charge des frais des personnes ayant le statut d’indépendant au sein de la communauté beta.gouv.fr dans le cadre :

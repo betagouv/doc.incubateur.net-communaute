@@ -3,6 +3,7 @@ description: >-
   Cette page renseigne quant aux revenus observés dans la communauté
   beta.gouv.fr. Elle s'adresse aux équipes qui commandent des prestations, aux
   titulaires et aux indépendants candidats.
+hidden: true
 ---
 
 # Observatoire des revenus
