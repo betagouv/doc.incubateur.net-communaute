@@ -6,7 +6,7 @@ description: >-
 
 # 🙋 Je souhaite travailler chez beta.gouv.fr
 
-👋🏽 Merci de prendre le temps de candidater chez beta.gouv.fr !
+🏽 Merci de prendre le temps de candidater chez beta.gouv.fr !
 
 Cette section de notre documentation interne a été conçue pour t'aider à préparer tes entretiens chez beta.gouv.fr.
 
@@ -16,13 +16,11 @@ Cette section de notre documentation interne a été conçue pour t'aider à pr�
 
 
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td></td><td></td><td><h4>Choisir le service public</h4><p>Découvrez nos <strong>postes</strong> d’agent(e)s publics sur la plateforme d’emploi dédiée au service public.</p></td><td><a href="https://choisirleservicepublic.gouv.fr/nos-offres/filtres/organisme/10668/">https://choisirleservicepublic.gouv.fr/nos-offres/filtres/organisme/10668/</a></td><td><a href="../.gitbook/assets/choisir le service public.jpg">choisir le service public.jpg</a></td></tr><tr><td></td><td><h4>Welcome to the jungle</h4><p>Retrouvez nos <strong>missions</strong> ouvertes aux indépendant(e)s et les postes d’agent(e)s du réseau beta.gouv.fr.</p></td><td></td><td><a href="https://www.welcometothejungle.com/fr/companies/communaute-beta-gouv">https://www.welcometothejungle.com/fr/companies/communaute-beta-gouv</a></td><td><a href="../.gitbook/assets/WTTJ.jpg">WTTJ.jpg</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden></th><th data-hidden data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><h4>Choisir le service public</h4><p>Découvrez nos <strong>postes</strong> d’agent(e)s publics sur la plateforme d’emploi dédiée au service public.</p></td><td></td><td></td><td><a href="https://choisirleservicepublic.gouv.fr/nos-offres/filtres/organisme/10668/">https://choisirleservicepublic.gouv.fr/nos-offres/filtres/organisme/10668/</a></td><td><a href="../.gitbook/assets/Choisir_SP-300x169.png">Choisir_SP-300x169.png</a></td></tr><tr><td><h4>Welcome to the jungle</h4><p>Retrouvez nos <strong>missions</strong> ouvertes aux indépendant(e)s et les postes d’agent(e)s du réseau beta.gouv.fr.</p></td><td></td><td></td><td><a href="https://www.welcometothejungle.com/fr/companies/communaute-beta-gouv">https://www.welcometothejungle.com/fr/companies/communaute-beta-gouv</a></td><td><a href="../.gitbook/assets/WTTJ_LOGO_2020.png">WTTJ_LOGO_2020.png</a></td></tr></tbody></table>
 
 
 
-[![Logo](https://cdn.welcometothejungle.com/wttj-front/production/assets/images/favicon.png)  La communauté beta.gouv.fr : photos, vidéos, recrutementWTTJ](https://www.welcometothejungle.com/fr/companies/communaute-beta-gouv)
-
-Il faut noter que le réseau beta.gouv.fr comprend de nombreuses administrations partenaires et de nombreuses structures d'innovation publique (les "incubateurs"). Pour chaque offre, identifies bien à quelle Startup d'État elle se rattache ([liste ici](https://beta.gouv.fr/startups/)) et dans quel incubateur public travaille son équipe ([liste ici](https://beta.gouv.fr/communaute/)).
+Il faut noter que le réseau beta.gouv.fr comprend de nombreuses administrations partenaires et de nombreuses structures d'innovation publique (les "incubateurs"). Pour chaque offre, identifies bien à quelle Startup d'État elle se rattache ([liste ici](https://beta.gouv.fr/startups/)) et dans quel incubateur public travaille son équipe ([liste ici](https://beta.gouv.fr/incubateurs/)).
 
 Tu peux également en lire davantage sur les différents statuts qui existent chez beta.gouv.fr : [agents publics](les-differents-statuts/fonctionnaires-et-contractuels-de-la-fonction-publique.md) (dont CDD, alternances et stages), [prestation](les-differents-statuts/salaries-des-societes-de-prestation/) et [freelance](les-differents-statuts/independants-freelances/).
 
