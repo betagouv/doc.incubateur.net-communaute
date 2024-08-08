@@ -159,7 +159,7 @@
       * [Introduction à l'UX writing](gerer-son-produit/les-standards/design/produire-des-contenus/introduction-a-lux-writing.md)
       * [Simplifier ses contenus](gerer-son-produit/les-standards/design/produire-des-contenus/simplifier-ses-contenus.md)
   * [Eco-conception numérique](gerer-son-produit/les-standards/eco-conception.md)
-* [\[TO DO\] Le déploiement](gerer-son-produit/to-do-le-deploiement/README.md)
+* [📈 Le déploiement \[to do\]](gerer-son-produit/to-do-le-deploiement/README.md)
   * [Trouver ses premiers utilisateurs](gerer-son-produit/to-do-le-deploiement/chapitre-1.md)
   * [Valider sa proposition de valeur et développer sa stratégie de déploiement](gerer-son-produit/to-do-le-deploiement/chapitre-2.md)
   * [SEO et référentiel naturel](gerer-son-produit/to-do-le-deploiement/seo.md)
