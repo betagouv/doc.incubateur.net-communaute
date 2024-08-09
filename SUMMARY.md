@@ -13,7 +13,6 @@
   * [L'équipe d'animation beta.gouv.fr](decouvrir-beta.gouv.fr/incubateur-de-la-dinum/lequipe-danimation-beta.gouv.fr.md)
 * [⚛️ Les incubateurs du réseau beta.gouv.fr \[to do\]](decouvrir-beta.gouv.fr/les-incubateurs-du-reseau-beta.gouv.fr-to-do.md)
 * [🤗 La communauté \[todo\]](decouvrir-beta.gouv.fr/la-communaute-todo/README.md)
-  * [Découvrir la communauté beta.gouv.fr \[to do\]](decouvrir-beta.gouv.fr/la-communaute-todo/decouvrir-la-communaute-beta.gouv.fr-to-do.md)
   * [Les rituels](decouvrir-beta.gouv.fr/la-communaute-todo/les-rituels/README.md)
     * [Le forum mensuel beta.gouv.fr](decouvrir-beta.gouv.fr/la-communaute-todo/les-rituels/seminaire.md)
     * [Les clubs de partage d'expérience](decouvrir-beta.gouv.fr/la-communaute-todo/les-rituels/clubs-de-partage-dexperience.md)
@@ -285,7 +284,7 @@
 ## Solliciter et contribuer à la communauté
 
 * [🔟 La règle des 10 % communauté](solliciter-et-contribuer-a-la-communaute/la-regle-des-10-communaute.md)
-* [🤝 Je contribue à la communauté \[to do\]](solliciter-et-contribuer-a-la-communaute/je-contribue-a-la-communaute-to-do/README.md)
+* [🤝 Je participe à la communauté](solliciter-et-contribuer-a-la-communaute/je-contribue-a-la-communaute-to-do/README.md)
   * [Je partage mes apprentissages](solliciter-et-contribuer-a-la-communaute/je-contribue-a-la-communaute-to-do/partager-ses-apprentissages/README.md)
     * [Proposer une démo de mon produit](solliciter-et-contribuer-a-la-communaute/je-contribue-a-la-communaute-to-do/partager-ses-apprentissages/mardi-demo.md)
     * [Proposer un outil à la communauté](solliciter-et-contribuer-a-la-communaute/je-contribue-a-la-communaute-to-do/partager-ses-apprentissages/proposer-un-nouvel-outil-a-la-communaute.md)
@@ -296,6 +295,7 @@
   * [Atelier impact](solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/cauchemar-a-beta-la-mesure-dimpact.md)
   * [Conseil juridique et mise en conformité RGPD](solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/mise-en-conformite-rgpd-et-conseil-juridique.md)
 * [🧑‍💻 Je partage et consulte des ressources](solliciter-et-contribuer-a-la-communaute/partage-de-ressources.md)
+* [📣 Communiquer sur beta.gouv.fr à l'extérieur](solliciter-et-contribuer-a-la-communaute/communiquer-sur-beta.gouv.fr-a-lexterieur.md)
 
 ## Lancer un service numérique dans mon administration
 

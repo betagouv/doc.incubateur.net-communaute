@@ -1,6 +1,6 @@
 # Je partage mes apprentissages
 
-Il y a plusieurs moyens de partager vos apprentissages aux autres équipes :
+Il y a plusieurs moyens de partager tes apprentissages aux autres équipes et aux membres de la communauté :
 
 {% content-ref url="mardi-demo.md" %}
 [mardi-demo.md](mardi-demo.md)
