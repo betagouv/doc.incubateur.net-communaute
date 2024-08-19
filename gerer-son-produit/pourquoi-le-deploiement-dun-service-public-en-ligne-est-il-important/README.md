@@ -2,6 +2,17 @@
 description: >-
   L'importance du déploiement dans la construction et le développement d'un
   service numérique public
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
 ---
 
 # 📈 Le déploiement
