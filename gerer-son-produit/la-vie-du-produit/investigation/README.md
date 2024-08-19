@@ -26,10 +26,6 @@ Vous pouvez parcourir les pages de ce guide pour obtenir de plus amples informat
 [nommer-votre-service.md](nommer-votre-service.md)
 {% endcontent-ref %}
 
-{% content-ref url="definition-du-probleme.md" %}
-[definition-du-probleme.md](definition-du-probleme.md)
-{% endcontent-ref %}
-
 {% content-ref url="choisir-ses-outils.md" %}
 [choisir-ses-outils.md](choisir-ses-outils.md)
 {% endcontent-ref %}

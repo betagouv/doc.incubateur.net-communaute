@@ -2,7 +2,7 @@
 hidden: true
 ---
 
-# Critères d'évaluation à la fin d'une investigation
+# 🆗 Critères d'évaluation à la fin d'une investigation
 
 ### Dans quels cas arrêter les travaux après la phase d’investigation ?
 

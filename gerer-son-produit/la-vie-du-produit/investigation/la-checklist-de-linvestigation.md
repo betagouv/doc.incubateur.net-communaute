@@ -6,7 +6,7 @@ description: >-
 hidden: true
 ---
 
-# ✔️ La checklist de l'investigation
+# 📋 La checklist de l'investigation
 
 {% hint style="info" %}
 Ce document est en cours d'élaboration. Il résulte notamment d'ateliers ouverts à l'ensemble de la communauté. Pour toute question, remarque, ou contre-proposition, n'hésite pas à poster dans le canal \~startup-produit-beta

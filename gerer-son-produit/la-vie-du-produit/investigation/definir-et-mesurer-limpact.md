@@ -17,7 +17,6 @@ Certaines mesures d’impact (Key Performance Indicators, KPI) semblent pourtant
 * "Une [course sur le.taxi](https://api.taxi/stats) génère en moyenne 15€ de valeur ajoutée"
 * "Le temps moyen de résolution d’un dossier MDPH en ligne par rapport au temps moyen de dénouement sans le service"
 * "1 candidature MPS, c’est 2 heures de gagnées en moyenne pour une entreprise (ceci masquant des différences fortes : quelques minutes pour une entreprise déjà experte, et plusieurs jours pour une PME primo-accédante à la commande publique)"
-* …
 
 Malheureusement, l’impact réel est souvent difficile à mesurer. La difficulté principale dans la construction de la métrique pour la plupart des produits vient du fait que le parcours utilisateur se finit hors du produit et qu’on ne peut donc pas savoir si l’objectif est atteint au-delà des clics : l’usager a-t-il obtenu le RSA après une simulation sur Mes Aides ? A-t-il suivi la formation trouvée sur La Bonne Formation ? Cette formation a-t-elle accéléré son retour à l’emploi par rapport au délai moyen ?
 
