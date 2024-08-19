@@ -2,7 +2,7 @@
 hidden: true
 ---
 
-# Relations sponsors
+# 🤝 Relations sponsors
 
 Souvent les sponsors des Startups d'Etat vous demanderont de vous fournir des informations régulières sur l'état d'avancement du service. **Ce sont des demandes légitimes**, qui peuvent avoir des raisons multiples (faire des annonces, communiquer au ministre, se projeter financièrement, se rassurer quand l'administration porteuse n'a pas vraiment confiance dans le travail de l'équipe, mieux anticiper et prendre en compte les dépendances systèmes ou les partenaires externes, etc). Cependant, **elles ne doivent pas faire perdre trop de temps à votre équipe**, car cela limite le temps que vous passez à véritablement servir vos utilisateurs.
 

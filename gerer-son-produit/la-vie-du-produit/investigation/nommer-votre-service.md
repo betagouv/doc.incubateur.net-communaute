@@ -3,7 +3,7 @@ description: Quelques conseils pour nommer votre service.
 hidden: true
 ---
 
-# Nommer votre service
+# 📇 Nommer votre service
 
 Le nom de votre service numérique jouera sûrement dans sa réussite.
 

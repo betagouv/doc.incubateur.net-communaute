@@ -2,7 +2,7 @@
 hidden: true
 ---
 
-# Définir et mesure l'impact
+# ☄️ Définir et mesure l'impact
 
 ## Petit guide de la mesure d'impact <a href="#pourquoi-mesurer-un-impact" id="pourquoi-mesurer-un-impact"></a>
 
