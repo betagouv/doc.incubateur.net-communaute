@@ -2,7 +2,7 @@
 hidden: true
 ---
 
-# Ressources utiles pour l'investigation
+# 📚 Ressources utiles pour l'investigation
 
 {% hint style="success" %}
 **Modèles vierges** **pour une présentation au comité de fin d'investigation :** [**beta.gouv**](https://docs.google.com/presentation/d/1GckBe4pJrmXxIOCDFVk-\_flMpd0m3iiO7eDsp89FPC8/edit#slide=id.g53cae8ed9a\_0\_110) **/**[ **Atelier numérique culture**](https://docs.google.com/presentation/d/1ox2mgP-NZ5Q6NFTU0JgE\_Op0LjciLWZreCuZvtfrVc8/edit?usp=sharing)
