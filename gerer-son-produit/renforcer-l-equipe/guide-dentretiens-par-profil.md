@@ -177,4 +177,8 @@ _Posture_
 * Ne pas s’enfermer dans un rôle
 * Rapidement opérationnel, autonome
 
+➡️ Pour aller plus loin :&#x20;
+
+[les-metiers-sales-and-marketing-dans-le-prive.md](../gestion-au-quotidien/renforcer-l-equipe/les-metiers-sales-and-marketing-dans-le-prive.md "mention")
+
 </details>
