@@ -1,4 +1,8 @@
-# definition-du-probleme.md
+---
+hidden: true
+---
+
+# Définition du problème
 
 ## **Objectifs**
 

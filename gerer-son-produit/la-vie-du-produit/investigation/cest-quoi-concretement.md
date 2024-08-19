@@ -2,9 +2,10 @@
 description: >-
   Modèle de réponse à envoyer par email pour expliquer en quelques points ce
   qu'est la phase d'investigation.
+hidden: true
 ---
 
-# Définition
+# 🔖 Définition
 
 Il arrive que des administrations nous demandent une description rapide de l'investigation et des explications courtes de l'accompagnement de beta.gouv.
 

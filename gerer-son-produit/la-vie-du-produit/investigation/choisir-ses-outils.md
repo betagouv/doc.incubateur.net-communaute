@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Choisir son outil de gestion de produit
 
 Voici une grille d’évaluations de 4 types d’outils différents pour vous aider à organiser le travail dans votre équipe produit. Il en existe énormément, a vous de choisir selon vos critères. (Pour info, la majorité des Startups d'Etat utilisent Trello ou Github).

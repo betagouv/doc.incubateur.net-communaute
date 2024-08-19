@@ -1,7 +1,11 @@
+---
+hidden: true
+---
+
 # Ressources utiles pour l'investigation
 
 {% hint style="success" %}
-**Modèles vierges** **pour une présentation au comité de fin d'investigation :** [**beta.gouv**](https://docs.google.com/presentation/d/1GckBe4pJrmXxIOCDFVk-\_flMpd0m3iiO7eDsp89FPC8/edit#slide=id.g53cae8ed9a\_0\_110) **/**[ **Atelier numérique culture**](https://docs.google.com/presentation/d/1ox2mgP-NZ5Q6NFTU0JgE_Op0LjciLWZreCuZvtfrVc8/edit?usp=sharing)\*\*\*\*
+**Modèles vierges** **pour une présentation au comité de fin d'investigation :** [**beta.gouv**](https://docs.google.com/presentation/d/1GckBe4pJrmXxIOCDFVk-\_flMpd0m3iiO7eDsp89FPC8/edit#slide=id.g53cae8ed9a\_0\_110) **/**[ **Atelier numérique culture**](https://docs.google.com/presentation/d/1ox2mgP-NZ5Q6NFTU0JgE\_Op0LjciLWZreCuZvtfrVc8/edit?usp=sharing)\*\*\*\*
 {% endhint %}
 
 **Club investigation** [https://pad.incubateur.net/ipUH9oEoRymIEn9Yp\_Xv9g?view](https://pad.incubateur.net/ipUH9oEoRymIEn9Yp\_Xv9g?view)
@@ -18,15 +22,11 @@
 
 **Ressource pour accompagner les équipes, Atelier numérique du Ministère de la culture :** [https://drive.google.com/file/d/1pc8DpQ0xTvdRD47uy6oDv6AE2Xa8NDj7/view?usp=sharing](https://drive.google.com/file/d/1pc8DpQ0xTvdRD47uy6oDv6AE2Xa8NDj7/view?usp=sharing)
 
-
-
 **Ressources issues de l'incubateur de l'ANCT**
 
-[Programme National d'Investigation Kit méthodologique](https://docs.google.com/presentation/d/1yLJVJOQRRPBoR9gR\_vE61xYvJU4a6cNowpSZvtgOr4c/edit#slide=id.ge3902557c8\_0\_777)&#x20;
+[Programme National d'Investigation Kit méthodologique](https://docs.google.com/presentation/d/1yLJVJOQRRPBoR9gR\_vE61xYvJU4a6cNowpSZvtgOr4c/edit#slide=id.ge3902557c8\_0\_777)
 
 [PNI\_Template #1 \_Synthèse de fin d'investigation\_V1](https://docs.google.com/presentation/d/10wItZN-bcBNWAj\_xqxefsTezgVAUoSPuezjP\_aMiXKE/edit#slide=id.geeb5a09e09\_0\_0)
-
-
 
 **Chaîne Slack**: #incubateur-pré-incub
 
