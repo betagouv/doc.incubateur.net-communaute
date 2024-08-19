@@ -1,4 +1,4 @@
-# gerer-sa-fiche-produit.md
+# Gérer sa fiche produit
 
 La fiche produit est la page qui présente chaque Startup d'État sur la page Réalisations du site beta.gouv.fr.
 
@@ -25,10 +25,7 @@ Tu restes libre de modifier le contenu si ces parties ne te conviennent pas.
 **Pour ce faire, rien de plus simple.**\
 \- Connecte toi à ton [espace membre](https://espace-membre.incubateur.net/).\
 \- Rends toi dans l'espace "Produits" et "Créer une fiche produit"\
-\- Remplis le formulaire proposé.\
-\\
-
-<figure><img src="../../gerer-son-produit/.gitbook/assets/image%20(3).png" alt=""><figcaption></figcaption></figure>
+\- Remplis le formulaire proposé.
 
 ## Modifier, gérer sa fiche produit
 
@@ -42,29 +39,6 @@ Et voilà, les changements apparaitront sur le site beta.gouv.fr dans la journé
 
 Tu pourras également ajouter un visuel à ta fiche produit.
 
-<figure><img src="../../gerer-son-produit/.gitbook/assets/image%20(22).png" alt=""><figcaption></figcaption></figure>
-
 {% hint style="info" %}
-Besoin d'aide ? Pose ta question sur le canal mattermost [#incubateur-help](https://mattermost.incubateur.net/betagouv/channels/incubateur-help)
-{% endhint %}
-
-## Ajouter un logo/visuel à sa fiche produit
-
-De nombreuses fiches produits se retrouvent sur le site de beta.gouv sans logo ou image d'illustration.\
-Pour ajouter une image, il vous faudra suivre ces quelques indications:
-
-* Se rendre sur [https://github.com/betagouv/beta.gouv.fr/tree/master/img/startups](https://github.com/betagouv/beta.gouv.fr/tree/master/img/startups)
-* Cliquer sur "Add File" en haut à droite puis "Upload files"
-* Ajouter l'image souhaitée (au format jpg ou png obligatoirement)
-*   Et n'oubliez pas de merger !\
-    \
-    Attention, le nom du fichier doit être identique au nom de la startup comme elle apparait sur son github (et sans majuscule) afin que l'ajout se passe correctement.
-
-    [\
-    ](https://github.com/betagouv/beta.gouv.fr/tree/master/img/startups)Vous n'avez plus qu'à vous rendre sur votre fiche produit pour vous assurer de l'ajout de votre image.
-
-{% hint style="info" %}
-Tu ne parviens pas à prendre en main ces outils ?
-
-Pour être accompagné.e, envoie un mail à communaute@beta.gouv.fr
+Besoin d'aide ? N'hésite pas à demander un coup de main aux personnes de ton équipe, ou d'un ou d'une collègue. Tu peux aussi solliciter l'aide de la communauté sur le canal [\~incubateur-entraide-communauté](https://mattermost.incubateur.net/betagouv/channels/incubateur-help) si tu accèdes encore à Mattermost.
 {% endhint %}

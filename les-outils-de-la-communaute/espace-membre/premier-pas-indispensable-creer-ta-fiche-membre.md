@@ -12,13 +12,11 @@ description: >-
 {% hint style="info" %}
 **👋 Nouveau processus d’onboarding**
 
-Depuis mars 2024, **la création d'une fiche membre doit être initiée par un membre actif de communauté**.
-
-Auparavant, cette démarche était ouverte à tous et cela produisait beaucoup de fiches _spams_ à gérer.
+L**a création d'une fiche membre doit être initiée par un membre actif de communauté**.
 {% endhint %}
 
 * Une personne de la communauté doit t'inviter via [la page “Communauté / Créer une fiche”](https://espace-membre.incubateur.net/community/create) de l’espace communauté.
-* La fiche doit être validée et mergée sur Github. Après un temps de procession (environ 30 min), un email de bienvenue sera envoyé au membre invité.
+* Un email de bienvenue sera envoyé au membre invité dans l'heure suivante.
 
 ## 1. Connecte toi à l'espace membre
 
@@ -28,7 +26,7 @@ Tu vas recevoir un mail d'invitation.
 
 * obtenir un email @beta.gouv.fr (il sera créé à ta première connexion, si tu n'as pas déjà un email de service public)
 * compléter les informations de ta fiche membre
-* être invités aux outils de travail des équipes : messagerie collaborative [Mattermost](../../travailler-chez-beta.gouv.fr/jutilise-les-outils-de-la-communaute/mattermost/), [outil de visio](../../travailler-chez-beta.gouv.fr/jutilise-les-outils-de-la-communaute/faire-une-visio/), accès au [Github](../../travailler-chez-beta.gouv.fr/jutilise-les-outils-de-la-communaute/github/), etc.
+* être invités aux outils de travail des équipes : messagerie collaborative Mattermost[^1][,](../mattermost/) [outil de visio](../../travailler-chez-beta.gouv.fr/jutilise-les-outils-de-la-communaute/faire-une-visio/), accès au [Github](../../travailler-chez-beta.gouv.fr/jutilise-les-outils-de-la-communaute/github/), etc.
 * bénéficier de services : [accès aux locaux](../../decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/badge-pour-travailler-a-segur/) de l'incubateur de la DINUM, recevoir l'infolettre, accéder aux [formations](../../travailler-chez-beta.gouv.fr/se-former/) proposées par la communauté, bénéficier d'aides pour son équipe et son produit (UX, juridique, sécurité, accessibilité, etc.)
 
 #### Que faire si tu n'as pas activé ton email beta.gouv.fr et que le lien d'activation est expiré ?
@@ -41,8 +39,8 @@ Tu vas recevoir un mail d'invitation.
 
 En ayant un compte Github, tu gagneras en autonomie durant ta mission dans une équipe du réseau beta.gouv. Par exemple, tu seras autonome pour mettre à jour ta fiche produit ou ta fiche membre.
 
-{% content-ref url="../../travailler-chez-beta.gouv.fr/jutilise-les-outils-de-la-communaute/github/" %}
-[github](../../travailler-chez-beta.gouv.fr/jutilise-les-outils-de-la-communaute/github/)
+{% content-ref url="../autres/github.md" %}
+[github.md](../autres/github.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}
@@ -86,3 +84,5 @@ Tu peux lire nos recommandations pour tes premières semaines et tes premiers mo
 {% content-ref url="../../travailler-chez-beta.gouv.fr/to-do-darrivee/" %}
 [to-do-darrivee](../../travailler-chez-beta.gouv.fr/to-do-darrivee/)
 {% endcontent-ref %}
+
+[^1]: 
