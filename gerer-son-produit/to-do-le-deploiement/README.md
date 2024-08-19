@@ -1,2 +1,0 @@
-# 📈 Le déploiement \[to do]
-
