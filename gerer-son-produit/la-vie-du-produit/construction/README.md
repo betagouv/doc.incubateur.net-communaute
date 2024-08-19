@@ -1,4 +1,18 @@
-# 2. Construction
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+---
+
+# 2️⃣ Construction
 
 La **phase de construction** correspond aux 6 à 12 premiers mois de votre service. Votre premier objectif est d'avoir de l'impact le plus rapidement possible, en servant votre premier utilisateur ou en opérant votre première transaction. Vous allez également devoir lancer le plus rapidement possible votre solution numérique afin de la confronter à la réalité terrain dès que possible.
 
@@ -6,12 +20,12 @@ Lire la description officielle de la phase de construction sur le site de beta.g
 
 {% embed url="https://beta.gouv.fr/approche/construction" %}
 
-## Recruter son équipe <a href="#recruter-son-equipe" id="recruter-son-equipe"></a>
+## Renforcer son équipe <a href="#recruter-son-equipe" id="recruter-son-equipe"></a>
 
 C'est le moment de renforcer votre équipe, en recrutant des personnes capables de développer votre service.
 
-{% content-ref url="../../decouvrir-les-differents-metiers-dune-startup-detat/recrutement/" %}
-[recrutement](../../decouvrir-les-differents-metiers-dune-startup-detat/recrutement/)
+{% content-ref url="../../renforcer-l-equipe/" %}
+[renforcer-l-equipe](../../renforcer-l-equipe/)
 {% endcontent-ref %}
 
 ## Kit de démarrage <a href="#kit-de-demarrage" id="kit-de-demarrage"></a>
@@ -20,12 +34,12 @@ beta.gouv.fr propose un kit de démarrage pour les développeuses et développeu
 
 Vous allez probablement devoir nommer votre service assez rapidement, notamment pour définir son URL. Si c'est le cas, jetez un œil à nos conseils à ce sujet.
 
-{% content-ref url="kit-de-demarrage.md" %}
-[kit-de-demarrage.md](kit-de-demarrage.md)
+{% content-ref url="../../../travailler-chez-beta.gouv.fr/les-differents-metiers/developpeur.se/kit-de-demarrage.md" %}
+[kit-de-demarrage.md](../../../travailler-chez-beta.gouv.fr/les-differents-metiers/developpeur.se/kit-de-demarrage.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../je-gere-mon-produit-et-son-impact/nommer-votre-service.md" %}
-[nommer-votre-service.md](../../je-gere-mon-produit-et-son-impact/nommer-votre-service.md)
+{% content-ref url="../investigation/nommer-votre-service.md" %}
+[nommer-votre-service.md](../investigation/nommer-votre-service.md)
 {% endcontent-ref %}
 
 ## Vos premières semaines <a href="#vos-premieres-semaines" id="vos-premieres-semaines"></a>
@@ -36,8 +50,8 @@ Une fois votre équipe constituée, votre objectif est de servir votre premier u
 Il est tentant de poursuivre les entretiens avec les utilisateurs et de prolonger ainsi l'investigation pendant les premières semaines de la phase de construction. N'oubliez pas que tout le temps passé à faire des ateliers, à préparer votre "_backlog_" (liste de tâches), à faire des maquettes ou des PowerPoints, c'est de l'énergie qui n'est pas consacrée à résoudre le problème de vos utilisateurs.
 {% endhint %}
 
-{% content-ref url="conseils-pour-les-coachs.md" %}
-[conseils-pour-les-coachs.md](conseils-pour-les-coachs.md)
+{% content-ref url="../../../travailler-chez-beta.gouv.fr/les-differents-metiers/coach.e/en-construction/conseils-pour-les-coachs.md" %}
+[conseils-pour-les-coachs.md](../../../travailler-chez-beta.gouv.fr/les-differents-metiers/coach.e/en-construction/conseils-pour-les-coachs.md)
 {% endcontent-ref %}
 
 {% content-ref url="3-retours-dexperience-de-coachs.md" %}

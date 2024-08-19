@@ -5,7 +5,7 @@ description: >-
 hidden: true
 ---
 
-# Kit de démarrage dev
+# 🧰 Kit de démarrage dev
 
 L'objectif des 6 premiers mois est d'**avoir de l'impact sur au moins un usager**, en écrivant du code de qualité en terme d'accessibilité (front), sécurité (back) et données utilisateurs (RGPD).
 
@@ -47,14 +47,18 @@ Pour t'aider à situer ta Startup d'État par rapport à ces standards de qualit
 
 ## Cadre légal
 
-Dans le cadre du travail avec l'administration, il est important de connaitre les contraintes légales en terme de Sécurité, RGPD et Accessibilité.
+Dans le cadre du travail avec l'administration, il est important de connaitre les contraintes légales en terme de Sécurité, de Protection des donnée et d'accessibilité.&#x20;
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../../../gerer-son-produit/les-standards/accessibilite-and-inclusion/accessibilite/" %}
+[accessibilite](../../../gerer-son-produit/les-standards/accessibilite-and-inclusion/accessibilite/)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../../../gerer-son-produit/les-standards/protection-des-donnees-personnelles/" %}
+[protection-des-donnees-personnelles](../../../gerer-son-produit/les-standards/protection-des-donnees-personnelles/)
+{% endcontent-ref %}
+
+{% content-ref url="../../../gerer-son-produit/standards/securite/" %}
+[securite](../../../gerer-son-produit/standards/securite/)
 {% endcontent-ref %}
 
 Nous proposons aussi des formations dédiée : contactez l'équipe technique de beta pour plus d'informations.

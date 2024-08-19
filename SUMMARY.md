@@ -37,7 +37,7 @@
       * [Conseils pour les coachs](travailler-chez-beta.gouv.fr/les-differents-metiers/coach.e/en-construction/conseils-pour-les-coachs.md)
     * [Le coach, la SET et la mesure d'impact](travailler-chez-beta.gouv.fr/les-differents-metiers/coach.e/le-coach-la-startup-detat-et-la-mesure-dimpact.md)
   * [Développeur.se](travailler-chez-beta.gouv.fr/les-differents-metiers/developpeur.se/README.md)
-    * [Kit de démarrage dev](travailler-chez-beta.gouv.fr/les-differents-metiers/developpeur.se/kit-de-demarrage.md)
+    * [🧰 Kit de démarrage dev](travailler-chez-beta.gouv.fr/les-differents-metiers/developpeur.se/kit-de-demarrage.md)
   * [Gestionnaire de produit (PO/PM)](travailler-chez-beta.gouv.fr/les-differents-metiers/gestionnaire-de-produit-PO-PM/README.md)
   * [Responsable de portefeuille](travailler-chez-beta.gouv.fr/les-differents-metiers/responsable-de-portefeuille/README.md)
   * [Responsable d’incubateur](travailler-chez-beta.gouv.fr/les-differents-metiers/responsable-d-incubateur/README.md)
