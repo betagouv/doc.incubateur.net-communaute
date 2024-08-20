@@ -1,4 +1,8 @@
-# Fonds d'accélération des Startups d'État
+---
+hidden: true
+---
+
+# ⏩ FAST
 
 Ce fonds, géré par l'équipe d'animation de beta.gouv.fr, permet aux services numérique du réseau beta.gouv.fr qui veulent augmenter leur impact et passer à l’échelle de solliciter un accompagnement et un cofinancement de la DINUM. Plus d'informations sur la [page](https://beta.gouv.fr/fast/) du programme ou sur le webinaire suivant:
 

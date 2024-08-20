@@ -2,9 +2,10 @@
 description: >-
   Caroline, Claire et Sabine, coachs à bêta.gouv, témoignent de leurs
   expériences au sein d'équipes en phase de construction.
+hidden: true
 ---
 
-# Retours d'expérience
+# 🟣 Retours d'expérience
 
 {% hint style="success" %}
 [Visionner le replay.](https://resana.numerique.gouv.fr/public/information/consulterAccessUrl?cle\_url=569601629CWMHZ1FdUm5XOgdhVTsGJlVrW2YAIVI7UzhXalEwDDYGMwUxA2YAZFVnVGQ=)

@@ -3,9 +3,10 @@ description: >-
   Cette page recense un certain nombre de bonnes pratiques et de standards de
   qualité que les équipes sont invitées à suivre pendant la phase
   d'accélération.
+hidden: true
 ---
 
-# la-checklist-de-la-phase-dacceleration.md
+# 📋 Checklist de la phase d'accélération
 
 {% hint style="info" %}
 Ce document est en cours d'élaboration. Il résulte notamment d'ateliers ouverts à l'ensemble de la communauté. Pour toute question, remarque, ou contre-proposition, n'hésite pas à poster dans le canal `~startup-produit-beta`

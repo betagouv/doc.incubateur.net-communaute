@@ -20,6 +20,12 @@ Lire la description officielle de la phase de construction sur le site de beta.g
 
 {% embed url="https://beta.gouv.fr/approche/construction" %}
 
+## La checklist de la phase de construction <a href="#recruter-son-equipe" id="recruter-son-equipe"></a>
+
+{% content-ref url="la-checklist-de-la-phase-de-construction.md" %}
+[la-checklist-de-la-phase-de-construction.md](la-checklist-de-la-phase-de-construction.md)
+{% endcontent-ref %}
+
 ## Renforcer son équipe <a href="#recruter-son-equipe" id="recruter-son-equipe"></a>
 
 C'est le moment de renforcer votre équipe, en recrutant des personnes capables de développer votre service.
