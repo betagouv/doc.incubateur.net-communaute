@@ -171,7 +171,7 @@
     * [🆗 Critères d'évaluation à la fin d'une investigation](gerer-son-produit/la-vie-du-produit/investigation/criteres-devaluation-a-la-fin-dune-investigation.md)
     * [📇 Nommer votre service](gerer-son-produit/la-vie-du-produit/investigation/nommer-votre-service.md)
     * [⚙️ Choisir son outil de gestion de produit](gerer-son-produit/la-vie-du-produit/investigation/choisir-ses-outils.md)
-    * [☄️ Définir et mesure l'impact](gerer-son-produit/la-vie-du-produit/investigation/definir-et-mesurer-limpact.md)
+    * [☄️ Définir et mesurer l'impact](gerer-son-produit/la-vie-du-produit/investigation/definir-et-mesurer-limpact.md)
     * [🤝 Relations sponsors](gerer-son-produit/la-vie-du-produit/investigation/comment-repondre-a-un-sponsor-qui-demande-une-roadmap-produit.md)
     * [📚 Ressources utiles pour l'investigation](gerer-son-produit/la-vie-du-produit/investigation/ressources-utiles-pour-linvestigation.md)
   * [2️⃣ Construction](gerer-son-produit/la-vie-du-produit/construction/README.md)
