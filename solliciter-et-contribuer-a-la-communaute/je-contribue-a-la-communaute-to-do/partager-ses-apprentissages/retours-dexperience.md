@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Communiquer mon retour d'expérience \[à modifier]
 
 Quel que soit son métier ou son rattachement contractuel, chaque membre de la communauté beta.gouv.fr contribue à la restitution publique nos apprentissages. Une possibilité est d'écrire un article sur le blog de beta.gouv.fr : blog.beta.gouv.fr.

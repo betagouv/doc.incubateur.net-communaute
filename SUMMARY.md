@@ -282,8 +282,8 @@
 ## Solliciter et contribuer à la communauté
 
 * [🔟 La règle des 10 % communauté](solliciter-et-contribuer-a-la-communaute/la-regle-des-10-communaute.md)
-* [🤝 Je participe à la communauté](solliciter-et-contribuer-a-la-communaute/je-contribue-a-la-communaute-to-do/README.md)
-  * [Je partage mes apprentissages](solliciter-et-contribuer-a-la-communaute/je-contribue-a-la-communaute-to-do/partager-ses-apprentissages/README.md)
+* [🤝 Participer à la communauté](solliciter-et-contribuer-a-la-communaute/je-contribue-a-la-communaute-to-do/README.md)
+  * [👩‍🏫 Partager mes apprentissages](solliciter-et-contribuer-a-la-communaute/je-contribue-a-la-communaute-to-do/partager-ses-apprentissages/README.md)
     * [Proposer une démo de mon produit](solliciter-et-contribuer-a-la-communaute/je-contribue-a-la-communaute-to-do/partager-ses-apprentissages/mardi-demo.md)
     * [Proposer un outil à la communauté](solliciter-et-contribuer-a-la-communaute/je-contribue-a-la-communaute-to-do/partager-ses-apprentissages/proposer-un-nouvel-outil-a-la-communaute.md)
     * [Communiquer mon retour d'expérience \[à modifier\]](solliciter-et-contribuer-a-la-communaute/je-contribue-a-la-communaute-to-do/partager-ses-apprentissages/retours-dexperience.md)

@@ -4,7 +4,7 @@ description: >-
   plusieurs options s'offrent à toi !
 ---
 
-# 🤝 Je participe à la communauté
+# 🤝 Participer à la communauté
 
 ## **🎉 Participer aux rituels et aux événements de la communauté**
 
@@ -51,6 +51,10 @@ La documentation est maintenue à jour par toute la communauté. Tu trouveras ci
 ## 🎙️ **Partager tes apprentissages**
 
 Tu voudrais proposer un nouvel outil qui pourrait être utile à toute la communauté ou à certaines équipes ? Tu veux partager un retour d'expérience ? Toutes les informations sont disponibles dans la rubrique "Partager mes apprentissages"&#x20;
+
+{% content-ref url="partager-ses-apprentissages/" %}
+[partager-ses-apprentissages](partager-ses-apprentissages/)
+{% endcontent-ref %}
 
 ## ⌛ **Si tu n'as que quelques minutes**
 

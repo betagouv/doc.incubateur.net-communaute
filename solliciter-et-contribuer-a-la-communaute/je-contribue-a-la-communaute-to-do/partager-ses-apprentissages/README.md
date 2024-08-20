@@ -1,4 +1,4 @@
-# Je partage mes apprentissages
+# 👩‍🏫 Partager mes apprentissages
 
 Il y a plusieurs moyens de partager tes apprentissages aux autres équipes et aux membres de la communauté :
 

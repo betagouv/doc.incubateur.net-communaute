@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Proposer un outil à la communauté
 
 ## Je travaille sur une Startup d'Etat (SE) et je vois un besoin qui pourrait être partagé par d'autres SE

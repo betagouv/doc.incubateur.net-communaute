@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Proposer une démo de mon produit
 
 Nous encourageons chaque équipe à proposer une **démonstration** de son produit aux membres du réseau beta.gouv.fr. Cette séance peut avoir plusieurs objectifs :
