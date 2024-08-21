@@ -115,4 +115,4 @@ Vous pouvez vous faire assister sur les questions de sécurité et de juridique 
 
 **Gouvernance est stratégie française**
 
-* [**IA, notre ambition pour la France**](https://www.bercynumerique.finances.gouv.fr/le-rapport-ia-notre-ambition-pour-la-france), _Comité national pour l’intelligence artificielle_, Mars 2024
+* [**IA, notre ambition pour la France**](https://www.bercynumerique.finances.gouv.fr/le-rapport-ia-notre-ambition-pour-la-france), _Comité national pour l’intelligence artificielle_, mars 2024
