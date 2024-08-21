@@ -55,7 +55,7 @@ Le service [Signaux faibles](https://beta.gouv.fr/startups/signaux-faibles.html)
 
 ## ❓Quelques questions à se poser pour cadrer sa solution d'IA dans l'administration
 
-### 🗑️ **N**’**est-on pas en train de vouloir automatiser une procédure défectueuse/inutile/datée qu’il vaudrait mieux supprimer ?**
+### 🗑️ **N**’**est-on pas en train de vouloir automatiser une procédure défectueuse, inutile ou datée qu’il vaudrait mieux supprimer ?**
 
 Si un dossier pour répondre à un appel à projet lancé par l’administration est trop compliqué à remplir, il vaut mieux d’abord le simplifier au lieu d’essayer de faire apprendre cette complexité à une IA pour répondre à la place des candidats découragés.&#x20;
 
@@ -74,7 +74,7 @@ Dans le cas précédent, on préférera donc commencer par réviser le dossier d
 Il faut déterminer la source (le producteur et l’administrateur), et la nature de la donnée (est-ce un PDF ? Un tableau Excel ? Est-ce qu’elle respecte des référentiels particuliers ?). À noter que les modèles peuvent être entraînés sur des informations dîtes noires, c’est-à-dire qu’elles ont été obtenues illégalement. Au sein de l’État, l’on souhaite évidemment utiliser des modèles entraînés sur des données blanches (en libre accès).
 
 {% hint style="info" %}
-Plus d’information sur les données blanches et noires sur le site de la CNIL.&#x20;
+Plus d’information sur les données blanches et noires sur le[ site de la CNIL](https://www.cnil.fr/fr/listes-des-traitements-pour-lesquels-une-aipd-est-requise-ou-non).&#x20;
 {% endhint %}
 
 ### 🧑🏻‍⚖️ **L’IA sera t’elle amenée à prendre des décisions ?**
