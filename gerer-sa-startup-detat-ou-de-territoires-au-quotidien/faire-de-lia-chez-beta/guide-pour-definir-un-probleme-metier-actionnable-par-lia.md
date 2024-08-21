@@ -81,7 +81,7 @@ Plus d’information sur les données blanches et noires sur le[ site de la CNIL
 
 Un [moteur de réponse naturelle](https://outline.incubateur.net/s/alliance/doc/moteur-de-reponses-en-langage-naturel-uvanMXDU3M) est utilisé pour assister la réponse aux usagers dans les maisons France services. Comme il s’agit d’informations données aux citoyens par une autorité responsable (et parfois d'informations juridiques), la délégation totale de la réponse fournie par l’IA n’est pas possible : il faut une validation par un agent avant envoi à l’usager. Dans la plupart des cas, la délégation totale à une IA de la décision est contraire à la loi.
 
-### 🇫🇷 **Y'a t'il des enjeux saillants à préférer une solution souveraine ?**
+### 🇫🇷 **Y a-t-il des enjeux saillants à préférer une solution souveraine ?**
 
 Le service [Aristote](https://outline.incubateur.net/s/alliance/doc/aristote-ZglVVnmnwh) de CentraleSupélec veut permettre aux professeurs de générer automatiquement des tests ludiques à partir de leurs cours pour leurs élèves. Pour des raisons de souveraineté, il vaut mieux éviter que les serveurs américains ingèrent les cours des professeurs afin de protéger le produit de leur propriété intellectuelle. Certaines clauses dans les CGU des fournisseurs de modèles peuvent être restrictives. Toutes les Edtech qui utilisent l’API de OpenIA dans leur solution peuvent être concernées, d'où l'intérêt d'alternatives souveraines.&#x20;
 
@@ -105,4 +105,4 @@ Les données aussi sont importantes pour avoir des grands modèles de langage di
 
 **Quelles sont les sources de données ?** Code du travail, conventions collectives de travail (CCT) qui défini les statuts (rémunérations, embauches, conditions de travail), jurisprudence sociale
 
-**Quelle valeur ajoutée par l'automatisation ?** Turn-over important, et manque de formation dans les SRDT, volume important (575 000 demandes qui concernent plus d’un million d’objets de renseignement).
+**Quelle valeur ajoutée par l'automatisation ?** L'automatisation apporte une valeur significative face au turn-over important et au manque de formation dans les SRDT. Elle permet aussi de gérer efficacement un volume massif de demandes (575 000), concernant plus d’un million d’objets de renseignement.
