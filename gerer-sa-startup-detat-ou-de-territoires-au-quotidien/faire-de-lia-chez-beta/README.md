@@ -67,7 +67,7 @@ Le contact de l'équipe alliance : [**alliance@mail.numerique.gouv.fr**](mailto:
 C’est un projet d’innovation encore en expérimentation, et donc son déploiement reste limité pour des raisons de performance des modèles encore en expérimentation et des capacités de calcul limitées (les GPU, ça coûte cher !).
 
 {% hint style="info" %}
-Il existe également d’autres modèles proposés par le public, notamment les modèles LLaMandement pour aider à traiter les amendement à partir d'un modèle ouvert de la société Méta, développés au sein de la direction générale des finances publiques (DGFIP). Contrairement à Albert qui est un ensemble de modèles conversationnels, l'ensemble LlaMandement est spécialisé sur la synthèse de texte.
+Il existe également d’autres modèles proposés par le public, notamment les modèles LLaMandement, développés au sein de la direction générale des finances publiques (DGFIP). Contrairement à Albert qui est un ensemble de modèles conversationnels, l'ensemble LlaMandement est spécialisé sur la synthèse de texte.
 {% endhint %}
 
 
