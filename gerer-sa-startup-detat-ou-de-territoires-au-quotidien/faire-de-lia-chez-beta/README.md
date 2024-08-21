@@ -22,7 +22,7 @@ En plus de bien définir le problème selon [le cadre type de la méthode beta](
 
 **Peut-être que votre solution existe déjà, partiellement, ou qu’elle a déjà été tentée ailleurs dans l’administration**.&#x20;
 
-Vous pouvez trouver dans [ce tableau](https://grist.incubateur.net/o/beta-gouv-ia/9wTgwEbwqmwW/Ressources?utm\_id=share-doc) les initiatives IA dans l’État et les services déconcentrés. L’idée et de mutualiser les apprentissages et des expérimentations, afin que le commun profite à l’ensemble des produits opérés en interministériel. C'est ouvert et collaboratif : n'hésitez pas à rajouter/étoffer si vous connaissez un produit pour lequel il manque des informations ou à rajouter d'autres services dans l'État qui mériteraient d'y figurer.
+Vous pouvez retrouver dans [ce tableau](https://grist.incubateur.net/o/beta-gouv-ia/9wTgwEbwqmwW/Ressources?utm\_id=share-doc) les initiatives de briques IA dans l’État et les services déconcentrés. L’idée et de mutualiser les apprentissages et des expérimentations, afin que le commun profite à l’ensemble des produits opérés en interministériel. C'est ouvert et collaboratif : n'hésitez pas à rajouter/étoffer si vous connaissez un produit pour lequel il manque des informations ou à rajouter d'autres services dans l'État qui mériteraient d'y figurer.
 
 {% hint style="warning" %}
 Il se peut aussi que certaines informations soient erronées, puisque que c’est collaboratif. Pour toute question quant à ce commun : [elsa.le-duigou@beta.gouv.fr](mailto:elsa.le-duigou@beta.gouv.fr).
@@ -62,12 +62,12 @@ Le contact de l'équipe alliance : [**alliance@mail.numerique.gouv.fr**](mailto:
 
 ### 🤖 Avoir accès aux modèles développés par Étalab (Albert)
 
-**Albert est une galaxie de modèles et de cas d’usages administratifs qui les utilisent, développés par le département Étalab de la Direction interministérielle du numérique (DINUM), de concert avec les partenaires dans les administrations et la société civile.**
+**Albert est une galaxie de modèles conversationnels et de cas d’usages administratifs qui les utilisent, développés par le département Étalab de la direction interministérielle du numérique (DINUM), de concert avec les partenaires dans les administrations et la société civile.**
 
 C’est un projet d’innovation encore en expérimentation, et donc son déploiement reste limité pour des raisons de performance des modèles encore en développement et de capacités de calcul limitées (les GPU, ça coûte cher !).
 
 {% hint style="info" %}
-Il existe également d’autres modèles proposés par le public, notamment développés par la Direction générale des finances publiques (DGFIP).
+Il existe également d’autres modèles proposés par le public, notamment développés par la direction générale des finances publiques (DGFIP).
 {% endhint %}
 
 
@@ -76,31 +76,43 @@ Il existe également d’autres modèles proposés par le public, notamment dév
 
 Le cas d’usage Albert le plus évident est l’assistance à la réponse aux questions du public pour les agents. Voici quelques exemples :&#x20;
 
-* Un outil de réponse en mode chat adapté aux agents qui s’occupent des ressources humaines dans les secrétariats généraux communs départementaux (SGCD), dans les préfectures. C’est un partenariat actuellement en cours avec la Direction générale de l'administration et de la fonction publique (DGAFP) ;
-* Un outil de réponse en mode chat adapté aux agents en droit du travail dans les services de renseignements en droit du travail (SRDT). C’est un partenariat en cours avec la Direction générale du travail (DGT) ;
-* Un outil de réponse en mode chat pour les maisons France services. C’est un partenariat en cours avec la Direction de l'information légale et administrative (DILA).
+* Un outil de réponse en mode chat adapté aux agents qui s’occupent des ressources humaines dans les secrétariats généraux communs départementaux (SGCD), dans les préfectures. C’est un partenariat actuellement en cours avec la direction générale de l'administration et de la fonction publique (DGAFP) ;
+* Un outil de réponse en mode chat adapté aux agents en droit du travail dans les services de renseignements en droit du travail (SRDT). C’est un partenariat en cours avec la direction générale du travail (DGT) ;
+* Un outil de réponse en mode chat pour les maisons France services. C’est un partenariat en cours avec la direction de l'information légale et administrative (DILA).
 
 
 
 **Comment avoir accès à Albert ?**
 
-En fonction de votre besoin et de votre situation, vous pouvez être accompagnés directement, utiliser l'api d'Albert, ou piocher sans demander dans les modèles ouverts :
+En fonction de votre besoin et de votre situation, vous pouvez être accompagnés directement, utiliser l'API d'Albert, ou piocher sans demander dans les modèles ouverts :
 
-* **Vous souhaitez utiliser l’api**. Pour des raisons de disponibilité du calcul, l’usage de l’api est encore limité, vous pouvez joindre l’équipe d'Albert pour demander l’accès en utilisant le formulaire de contact ;
-* **Vous avez déjà des experts en datasciences et vous souhaitez avoir accès aux modèles pour vous les approprier**. Ils sont disponibles et ouverts sur Hugging Face en libre service sur la plateforme [AgentPublic](https://huggingface.co/AgentPublic) ;
+* **Vous souhaitez utiliser l’API Albert**. Pour des raisons de disponibilité du calcul, l’usage de l’api est encore limité, vous pouvez joindre l’équipe d'Albert pour demander l’accès en utilisant le formulaire de contact ;
+* **Vous souhaitez avoir accès aux modèles pour vous les approprier**. Les modèles conversationnels Albert-Light et Guillaume Tell (Albert) sont ouverts sur Hugging Face en libre service depuis la plateforme [AgentPublic](https://huggingface.co/AgentPublic). À noter que le modèle LLaMandement-13B est également disponible, un modèle développé par la DGFIP plutôt adapté la synthèse.&#x20;
 * **Vous êtes accompagnés directement par l’équipe d’Étalab** (suite à un échange avec eux), et vous bénéficiez d’un accompagnement spécialisé. Vous n’aviez manifestement pas besoin de ce guide.
 
 ### 🧰 Utiliser d’autres modèles : quelques ressources supplémentaires
 
-* En fonction de votre besoin, vous pouvez trouver toutes sortes de modèles sur [Hugging Face](https://huggingface.co/), classifiés en fonction de la tâche ;
+* Vous pouvez trouver toutes sortes de modèles sur [Hugging Face](https://huggingface.co/), classifiés en fonction de la tâche ;
 * Certains services Cloud comme Scaleway proposent une interface qui permet d’utiliser des modèles ouverts ou semi-ouverts comme Mistral ou LLama, et de louer la puissance de calcul (ou acheter au token) tout en respectant les standards européens d'hébergement ;
 * Si votre besoin n’implique pas d’utiliser des données sensibles, il est possible de faire ses premiers tests —tout en respectant le cadre légal— avec des modèles propriétaires (même ChatGPT !). Si vous n’êtes pas sûrs de vous, vous pouvez consulter la fiche dédiée[Quels points de vigilance avoir lorsque vous dialoguez avec ChatGPT ?](https://pad.numerique.gouv.fr/teCWpmkGSlG970GLe4aTDQ).
 
+
+
 ### 🛡️ Sécuriser son infrastructure et son usage : faire de l’IA responsable
+
+{% hint style="info" %}
+Vous pouvez vous faire assister sur les questions de sécurité et de juridique en matière d'IA en notifiant les experts référencés dans le canal Mattermost associé dédié (#domaine-ia).
+{% endhint %}
 
 **Des ressources techniques et juridiques**
 
 * [**Quels points de vigilance avoir lorsque vous dialoguez avec ChatGPT ?**](https://pad.numerique.gouv.fr/teCWpmkGSlG970GLe4aTDQ), par Numéricité pour [beta.gouv.fr](http://beta.gouv.fr)
 * [**Recommandations de sécurité pour un système d’IA générative**](https://cyber.gouv.fr/publications/recommandations-de-securite-pour-un-systeme-dia-generative), _Agence nationale de la sécurité des systèmes d'information (ANSSI)_, 2024
-* [**IA, notre ambition pour la France**](https://www.bercynumerique.finances.gouv.fr/le-rapport-ia-notre-ambition-pour-la-france), _Comité national pour l’intelligence artificielle_, Mars 2024
 * [**Les fiches pratiques IA de la CNIL**](https://www.cnil.fr/fr/les-fiches-pratiques-ia), orientées traitement des données personnelles&#x20;
+*   [**Entrée en vigueur du règlement européen sur l’IA : les premières questions-réponses de la CNIL**](https://www.cnil.fr/fr/entree-en-vigueur-du-reglement-europeen-sur-lia-les-premieres-questions-reponses-de-la-cnil)**,** juillet 2024
+
+
+
+**Gouvernance est stratégie française**
+
+* [**IA, notre ambition pour la France**](https://www.bercynumerique.finances.gouv.fr/le-rapport-ia-notre-ambition-pour-la-france), _Comité national pour l’intelligence artificielle_, Mars 2024
