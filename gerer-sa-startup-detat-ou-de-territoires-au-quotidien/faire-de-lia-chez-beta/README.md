@@ -101,7 +101,7 @@ En fonction de votre besoin et de votre situation, vous pouvez être accompagné
 ### 🛡️ Sécuriser son infrastructure et son usage : faire de l’IA responsable
 
 {% hint style="info" %}
-Vous pouvez vous faire assister sur les questions de sécurité et de juridique en matière d'IA en notifiant les experts référencés dans le canal Mattermost associé dédié (#domaine-ia).
+Vous pouvez vous faire assister sur les questions de sécurité et de juridique en matière d'IA en notifiant les référents dans le canal Mattermost associé dédié (#domaine-ia).
 {% endhint %}
 
 **Des ressources techniques et juridiques**
