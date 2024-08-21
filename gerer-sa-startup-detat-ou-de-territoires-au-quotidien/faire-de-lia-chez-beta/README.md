@@ -93,7 +93,7 @@ En fonction de votre besoin et de votre situation, vous pouvez être accompagné
 ### 🧰 Utiliser d’autres modèles : quelques ressources supplémentaires
 
 * Vous pouvez trouver toutes sortes de modèles sur [Hugging Face](https://huggingface.co/), classifiés en fonction de la tâche ;
-* Certains services Cloud comme Scaleway proposent une interface qui permet d’utiliser des modèles ouverts ou semi-ouverts comme Mistral ou LLama, et de louer la puissance de calcul (ou acheter au token) tout en respectant les standards européens d'hébergement ;
+* Certains services Cloud comme Scaleway proposent une plateforme en SaaS qui permet d’utiliser des modèles ouverts ou semi-ouverts comme Mistral ou LLama, et de louer la puissance de calcul (ou acheter au token) tout en respectant les standards européens d'hébergement ;
 * Si votre besoin n’implique pas d’utiliser des données sensibles, il est possible de faire ses premiers tests —tout en respectant le cadre légal— avec des modèles propriétaires (même ChatGPT !). Si vous n’êtes pas sûrs de vous, vous pouvez consulter la fiche dédiée [Quels points de vigilance avoir lorsque vous dialoguez avec ChatGPT ?](https://pad.numerique.gouv.fr/teCWpmkGSlG970GLe4aTDQ).
 
 
