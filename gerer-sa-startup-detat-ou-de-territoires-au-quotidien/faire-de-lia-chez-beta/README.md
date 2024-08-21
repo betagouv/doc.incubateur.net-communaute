@@ -88,7 +88,7 @@ En fonction de votre besoin et de votre situation, vous pouvez être accompagné
 
 * **Utiliser l’API Albert**. Pour des raisons de disponibilité du calcul, l’usage de l’api est encore limité, vous pouvez joindre l’équipe d'Albert pour demander l’accès en utilisant le formulaire de contact ;
 * **Avoir accès aux modèles ouverts en libre accès** : les modèles conversationnels Albert-Light et Guillaume Tell (Albert) sont ouverts sur Hugging Face en libre service depuis la plateforme [AgentPublic](https://huggingface.co/AgentPublic). À noter que LLaMandement-13B, un modèle développé par la DGFIP plutôt adapté à la synthèse de texte, est également disponible sur AgentPublic.&#x20;
-* **Être accompagné directement par l’équipe d’Étalab** et bénéficier d’un accompagnement personnalisé. Pour l'instant cette option est limité aux équipes déjà accompagnées.&#x20;
+* **Être accompagné directement par l’équipe d’Étalab** et bénéficier d’un accompagnement personnalisé. Pour l'instant cette option est limitée aux équipes déjà accompagnées.&#x20;
 
 ### 🧰 Utiliser d’autres modèles : quelques ressources supplémentaires
 
