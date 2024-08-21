@@ -87,8 +87,8 @@ Le cas d’usage Albert le plus évident est l’assistance à la réponse aux q
 En fonction de votre besoin et de votre situation, vous pouvez être accompagnés directement, utiliser l'API d'Albert, ou piocher sans demander dans les modèles ouverts :
 
 * **Vous souhaitez utiliser l’API Albert**. Pour des raisons de disponibilité du calcul, l’usage de l’api est encore limité, vous pouvez joindre l’équipe d'Albert pour demander l’accès en utilisant le formulaire de contact ;
-* **Vous souhaitez avoir accès aux modèles pour vous les approprier**. Les modèles conversationnels Albert-Light et Guillaume Tell (Albert) sont ouverts sur Hugging Face en libre service depuis la plateforme [AgentPublic](https://huggingface.co/AgentPublic). À noter que le modèle LLaMandement-13B est également disponible, un modèle développé par la DGFIP plutôt adapté la synthèse.&#x20;
-* **Vous êtes accompagnés directement par l’équipe d’Étalab** (suite à un échange avec eux), et vous bénéficiez d’un accompagnement spécialisé. Vous n’aviez manifestement pas besoin de ce guide.
+* **Vous souhaitez avoir accès aux modèles pour vous les approprier**. Les modèles conversationnels Albert-Light et Guillaume Tell (Albert) sont ouverts sur Hugging Face en libre service depuis la plateforme [AgentPublic](https://huggingface.co/AgentPublic). À noter LLaMandement-13B, un modèle développé par la DGFIP plutôt adapté la synthèse est également disponible dessus.&#x20;
+* **Vous êtes accompagnés directement par l’équipe d’Étalab** (suite à un échange avec eux), et vous bénéficiez d’un accompagnement personnalisé. Vous n’aviez manifestement pas besoin de ce guide.
 
 ### 🧰 Utiliser d’autres modèles : quelques ressources supplémentaires
 
