@@ -64,10 +64,10 @@ Le contact de l'équipe alliance : [**alliance@mail.numerique.gouv.fr**](mailto:
 
 **Albert est une galaxie de modèles conversationnels et de cas d’usages administratifs qui les utilisent, développés par le département Étalab de la direction interministérielle du numérique (DINUM), de concert avec les partenaires dans les administrations et la société civile.**
 
-C’est un projet d’innovation encore en expérimentation, et donc son déploiement reste limité pour des raisons de performance des modèles encore en développement et de capacités de calcul limitées (les GPU, ça coûte cher !).
+C’est un projet d’innovation encore en expérimentation, et donc son déploiement reste limité pour des raisons de performance des modèles encore en expérimentation et des capacités de calcul limitées (les GPU, ça coûte cher !).
 
 {% hint style="info" %}
-Il existe également d’autres modèles proposés par le public, notamment développés par la direction générale des finances publiques (DGFIP).
+Il existe également d’autres modèles proposés par le public, notamment les modèles LLaMandement pour aider à traiter les amendement à partir d'un modèle ouvert de la société Méta, développés au sein de la direction générale des finances publiques (DGFIP). Contrairement à Albert qui est un ensemble de modèles conversationnels, l'ensemble LlaMandement est spécialisé sur la synthèse de texte.
 {% endhint %}
 
 
@@ -87,7 +87,7 @@ Le cas d’usage Albert le plus évident est l’assistance à la réponse aux q
 En fonction de votre besoin et de votre situation, vous pouvez être accompagnés directement, utiliser l'API d'Albert, ou piocher sans demander dans les modèles ouverts :
 
 * **Vous souhaitez utiliser l’API Albert**. Pour des raisons de disponibilité du calcul, l’usage de l’api est encore limité, vous pouvez joindre l’équipe d'Albert pour demander l’accès en utilisant le formulaire de contact ;
-* **Vous souhaitez avoir accès aux modèles pour vous les approprier**. Les modèles conversationnels Albert-Light et Guillaume Tell (Albert) sont ouverts sur Hugging Face en libre service depuis la plateforme [AgentPublic](https://huggingface.co/AgentPublic). À noter LLaMandement-13B, un modèle développé par la DGFIP plutôt adapté la synthèse est également disponible dessus.&#x20;
+* **Vous souhaitez avoir accès aux modèles pour vous les approprier**. Les modèles conversationnels Albert-Light et Guillaume Tell (Albert) sont ouverts sur Hugging Face en libre service depuis la plateforme [AgentPublic](https://huggingface.co/AgentPublic). À noter que LLaMandement-13B, un modèle développé par la DGFIP plutôt adapté la synthèse de texte, est également disponible dessus.&#x20;
 * **Vous êtes accompagnés directement par l’équipe d’Étalab** (suite à un échange avec eux), et vous bénéficiez d’un accompagnement personnalisé. Vous n’aviez manifestement pas besoin de ce guide.
 
 ### 🧰 Utiliser d’autres modèles : quelques ressources supplémentaires
