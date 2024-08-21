@@ -339,6 +339,8 @@
   * [Aide transverse - Growth Hacking](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-sollicite-de-laide-transverse/growth-hacking-acquisition.md)
   * [Aide transverse - Data Science](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-sollicite-de-laide-transverse/data-science.md)
   * [Aide transverse - Pole Numérique Inclusif](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-sollicite-de-laide-transverse/aide-transverse-pole-numerique-inclusif.md)
+* [🤖 Faire de l’IA chez beta](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/faire-de-lia-chez-beta/README.md)
+  * [👓 Guide pour définir un problème métier actionnable par l'IA](gerer-sa-startup-detat-ou-de-territoires-au-quotidien/faire-de-lia-chez-beta/guide-pour-definir-un-probleme-metier-actionnable-par-lia.md)
 
 ## Découvrir les guides des incubateurs <a href="#decouvrir-les-guides-des-autres-incubateurs" id="decouvrir-les-guides-des-autres-incubateurs"></a>
 
