@@ -228,7 +228,7 @@
     * [❌ recruter-designer.md](gerer-son-produit/renforcer-l-equipe/recruter-designer.md)
     * [Embarquer une nouvelle recrue](gerer-son-produit/renforcer-l-equipe/embarquement-par-le-recruteur.md)
     * [Désembarquer un membre de son équipe](gerer-son-produit/renforcer-l-equipe/le-desembarquement-de-la-communaute.md)
-    * [Conseils de recrutement pour le/la chargé.e de déploiement](gerer-son-produit/gestion-au-quotidien/renforcer-l-equipe/les-metiers-sales-and-marketing-dans-le-prive.md)
+    * [Conseils de recrutement déploiement](gerer-son-produit/gestion-au-quotidien/renforcer-l-equipe/les-metiers-sales-and-marketing-dans-le-prive.md)
   * [Tech](gerer-son-produit/gestion-au-quotidien/tech/README.md)
     * [Support tech](gerer-son-produit/gestion-au-quotidien/tech/support-tech.md)
     * [\[TO DO\] Liens avec les référents techs](gerer-son-produit/gestion-au-quotidien/tech/to-do-liens-avec-les-referents-techs.md)

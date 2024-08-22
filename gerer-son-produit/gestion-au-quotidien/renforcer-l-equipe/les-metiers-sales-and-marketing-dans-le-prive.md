@@ -1,10 +1,24 @@
-# les-metiers-sales-and-marketing-dans-le-prive.md
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+---
+
+# Conseils de recrutement déploiement
 
 En se référant aux startups privées, il existe au moins 9 métiers qui s’apparentent au déploiement ce qui illustre bien la polyvalence de la mission !
 
 ![](https://lh4.googleusercontent.com/kZ2IifEps-y0I1BentHbMAVBJ84k9N0hQm-JBqkQ2ak6jhYRsfIKAmOwBj-0Poo23HX6XmoKeQ4Gwe3ZupzlpUsJ8aLIEenhaN2VEg0xFrnOSCRaBU-ZzewfKZPxLugt5pVjKa51)
 
-## Webinaire : Comment recruter le bon chargé.e de déploiement / Bizdev
+## Webinaire : Comment recruter le/la bon.ne chargé.e de déploiement&#x20;
 
 {% embed url="https://youtu.be/6ScoOBIki9A" %}
 
@@ -48,9 +62,11 @@ Vos stratégies de déploiement et de ventes seront pilotées par vos mesures d�
 
 → Maîtrise du champs lexical & des termes liés à la culture administrative
 
-**💡** Le coup de pouce **:** les 6 choses à savoir pour avoir une culture administrative :
+{% hint style="info" %}
+Le coup de pouce **:** les 6 choses à savoir pour avoir une culture administrative :
 
-Sur ces slides : [https://docs.google.com/presentation/d/1qlaFg4y1A-2c5cK82rZgVrDkyNRwaVIEKd8CnVgcw0o/edit#slide=id.p](https://docs.google.com/presentation/d/1qlaFg4y1A-2c5cK82rZgVrDkyNRwaVIEKd8CnVgcw0o/edit#slide=id.p)
+[**➡️Sur ces slides** ](https://docs.google.com/presentation/d/1qlaFg4y1A-2c5cK82rZgVrDkyNRwaVIEKd8CnVgcw0o/edit#slide=id.p)
+{% endhint %}
 
 ## **La marque de l’État**
 
@@ -60,6 +76,3 @@ Les Startups d'État portent la marque de l’État ce qui peut être un avantag
 
 Les réinvestissements sont faits tous les 6 mois selon l’impact. Cette temporalité s’impose aussi à l’activité de déploiement qui doit se donner des objectifs à atteindre sur cette période. Dans une startup privée, la temporalité est souvent plus longue.
 
-### **📖 Les histoires vraies**
-
-Interview d'Adeline Latron, chargée de déploiement sur Place des Entreprises : [https://youtu.be/T9Wsy119V80](https://youtu.be/T9Wsy119V80)
