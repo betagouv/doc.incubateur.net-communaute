@@ -86,7 +86,7 @@ Le cas d’usage métier Albert le plus évident est l’assistance à la répon
 
 **L'api**
 
-L'api permet d'avoir accès à une version d'Albert généraliste basé sur Llama3.1, améliorée par du RAG. Elle permet notamment d'ouvrir des cas d'usage de traduction, de traduction de document, et des intégration diverses dans des produits.&#x20;
+L'api permet d'avoir accès à une version d'Albert généraliste basé sur Llama3.1, améliorée par du RAG. Elle permet notamment d'ouvrir des cas d'usage de traduction, de synthèse de document, et des intégration diverses dans des produits.&#x20;
 
 &#x20;
 
