@@ -1,11 +1,11 @@
 ---
-hidden: true
+description: Pour les arrivées avant le 24/10/2023
 ---
 
-# Envoyer/recevoir avec OVH MX plan (legacy)
+# Emails OVH MX plan
 
 {% hint style="info" %}
-La configuration MXPlan est différente de la configuration OVH Pro. Si tu es arrivé après le 24/10/2023, ton compte est sur l'offre OVH Pro, tu peux te rendre à la page suivant pour avoir la configuration : [Broken link](broken-reference "mention")
+La configuration MXPlan est différente de la configuration OVH Pro. Si tu es arrivé après le 24/10/2023, ton compte est sur l'offre OVH Pro, tu peux te rendre à [la page suivante pour avoir la configuration ](emails-ovh-pro.md)
 {% endhint %}
 
 Il existe des tutoriels détaillés pour certains clients mails :

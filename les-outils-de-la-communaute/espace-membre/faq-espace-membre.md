@@ -1,5 +1,7 @@
 # FAQ espace membre
 
+
+
 <details>
 
 <summary>Je veux changer mon email principal</summary>
@@ -58,7 +60,7 @@ Si tu as perdu ton mot de passe ou si ton mot de passe n'est pas défini, tu peu
 \
 Si tu es arrivé(e) après le 24/10/2023 ton compte est sur la configuration OVH Pro, tu devras donc choisir un mot de passe comportant **au minimum 14 caractères.**
 
-Si tu n'as pas d'email secondaire, tu peux suivre la procédure : [demander l'ajout de mon email secondaire](broken-reference)
+Si tu n'as pas d'email secondaire ou qu'il a changé, tu peux demander dans \~incubateur-demandes-ops sa réinitialisation.
 
 </details>
 
@@ -73,6 +75,8 @@ Les droits d'accès aux ressources beta.gouv.fr (dont l'email fait partie) sont 
 1. [Mets à jour ](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/outils/mise-a-jour-de-mes-informations)ta date de fin de mission (il faut ensuite attendre qu'un autre membre valide le changement sur github)
 2. Renouvelle le mot de passe de ta boîte mail via l'espace membre (14 caractères minimum pour OVH pro)
 3. Accède à ta boîte mail avec le nouveau mot de passe
+
+Si tu n'as pas d'email secondaire ou qu'il a changé, tu peux demander dans \~incubateur-demandes-ops sa réinitialisation.
 
 </details>
 

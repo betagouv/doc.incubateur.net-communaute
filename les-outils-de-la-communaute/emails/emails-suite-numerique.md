@@ -1,3 +1,7 @@
+---
+description: '[TODO]: a compléter avec https://pad.numerique.gouv.fr/gNoqGv9GTP22y5LLaajO-w#'
+---
+
 # Emails suite numérique
 
 Les emails beta.gouv.fr vont progressivement migrer vers l'offre OpenExhange de la suite numérique.
