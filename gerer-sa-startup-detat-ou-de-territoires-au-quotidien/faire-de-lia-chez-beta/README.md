@@ -72,7 +72,7 @@ Il existe également d’autres modèles proposés par le public, notamment les 
 
 #### **Les cas d'usage métier**
 
-Le cas d’usage métier Albert le plus évident est l’assistance à la réponse aux questions du public pour les agents. Ce sont des version d'Albert en général finetunés à partir de la documentation de l'administration. Voici quelques exemples :&#x20;
+Le cas d’usage métier Albert le plus évident est l’assistance à la réponse aux questions du public pour les agents. Ce sont des versions d'Albert en général finetunées à partir de la documentation de l'administration. Voici quelques exemples :&#x20;
 
 * Un chat assistant de réponse pour les agents répondant aux question des citoyens dans les maisons France services — partenariat en construction avec la direction de l'information légale et administrative (DILA).
 * Un chat assistant de réponse adapté aux agents qui s’occupent des ressources humaines dans les secrétariats généraux communs départementaux (SGCD), dans les préfectures. — partenariat actuellement en construction avec la direction générale de l'administration et de la fonction publique (DGAFP) ;
