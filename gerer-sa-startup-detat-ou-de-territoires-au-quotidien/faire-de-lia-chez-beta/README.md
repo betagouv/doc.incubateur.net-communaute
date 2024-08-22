@@ -70,13 +70,7 @@ C’est un projet d’innovation encore en expérimentation, et donc son déploi
 Il existe également d’autres modèles proposés par le public, notamment les modèles LLaMandement, développés au sein de la direction générale des finances publiques (DGFIP). Contrairement à Albert qui est un ensemble de modèles conversationnels, l'ensemble LlaMandement est spécialisé sur la synthèse de texte.
 {% endhint %}
 
-
-
-**Albert, ça sert à quoi ?**
-
-
-
-**Cas d'usage métier**
+#### **Les cas d'usage métier**
 
 Le cas d’usage métier Albert le plus évident est l’assistance à la réponse aux questions du public pour les agents. Ce sont des version d'Albert en général finetunés à partir de la documentation de l'administration. Voici quelques exemples :&#x20;
 
@@ -84,22 +78,22 @@ Le cas d’usage métier Albert le plus évident est l’assistance à la répon
 * Un chat assistant de réponse adapté aux agents qui s’occupent des ressources humaines dans les secrétariats généraux communs départementaux (SGCD), dans les préfectures. — partenariat actuellement en construction avec la direction générale de l'administration et de la fonction publique (DGAFP) ;
 * Un chat assistant de réponse en droit du travail pour les agents  dans les services de renseignements en droit du travail (SRDT) — en investigation avec la direction générale du travail (DGT) ;
 
-**L'api**
+#### **L'api Albert**
 
 L'api permet d'avoir accès à une version d'Albert généraliste basée sur Llama3.1, améliorée par du RAG. Elle permet notamment d'ouvrir des cas d'usage de traduction, de synthèse de document, et des intégrations diverses dans des produits.&#x20;
 
-&#x20;
 
-**Comment avoir accès à Albert ?**
+
+#### **Comment avoir accès à Albert ?**
 
 En fonction de votre besoin et de votre situation, vous pouvez être accompagnés directement, utiliser l'API d'Albert, ou piocher sans demander dans les modèles ouverts :
 
 * **Utiliser l’API Albert**. Pour des raisons de disponibilité du calcul, l’usage de l’api est encore limité, vous pouvez joindre l’équipe d'Albert pour demander l’accès en utilisant le formulaire de contact ;
-* **Utiliser les modèles ouverts** : les modèles conversationnels Albert-Light et Guillaume Tell (Albert) sont ouverts sur Hugging Face en libre service depuis la plateforme [AgentPublic](https://huggingface.co/AgentPublic). À noter que LLaMandement-13B, un modèle développé par la DGFIP plutôt adapté à la synthèse de texte, est également disponible sur AgentPublic.&#x20;
-* **Essayer l'API d'Albert à partir de Tchap** : trouver Albert dans "personnes" dans la barre de recherche Tchap et demander l'accès à l'adresse indiquée.&#x20;
+* **Utiliser les modèles ouverts** : les modèles conversationnels Albert-Light et Guillaume Tell (Albert) sont ouverts sur Hugging Face en libre service depuis la plateforme [AgentPublic](https://huggingface.co/AgentPublic). À noter que LLaMandement-13B, un modèle développé par la DGFIP plutôt adapté à la synthèse de texte, est également disponible sur AgentPublic ;
+* **Essayer l'API d'Albert à partir de Tchap** : trouver Albert dans "personnes" dans la barre de recherche Tchap et demander l'accès à l'adresse indiquée ;
 * **Être accompagné directement par l’équipe d’Étalab** et bénéficier d’un accompagnement personnalisé. Pour l'instant cette option est limitée aux équipes déjà accompagnées.&#x20;
 
-### Albert en bref
+#### Albert en bref
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Albert</strong> <strong>Api</strong></td><td>Modèles utilisés : Llama 2, Mistral 7b, Llama 3.1</td><td>RAG</td></tr><tr><td><strong>Modèles métiers</strong></td><td>finetunés sur la documentation métier</td><td></td></tr><tr><td><strong>Maintenance</strong></td><td>Non assurée (expérimentation)</td><td></td></tr><tr><td><strong>Éligibilité</strong></td><td>Services de l'État et des territoires</td><td></td></tr><tr><td><strong>Facturation</strong></td><td>Gratuit (mais expérimentation)</td><td></td></tr></tbody></table>
 
