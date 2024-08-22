@@ -6,7 +6,7 @@ description: >-
 hidden: true
 ---
 
-# Obtenir une prestation
+# 😊 Obtenir une prestation
 
 {% hint style="info" %}
 Ce process concerne les [marchés de coaching de la DINUM](marches-publics-beta.gouv.fr/marche-coaching.md) et du MTE ainsi que le [marché interministériel beta.gouv](marches-publics-beta.gouv.fr/marche-interministeriel-beta/). Il s'applique donc si tu souhaites faire appel à des prestations de développement, design, déploiement (_business development_), design, coaching.
