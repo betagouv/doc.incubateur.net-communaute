@@ -101,7 +101,7 @@ En fonction de votre besoin et de votre situation, vous pouvez être accompagné
 
 ### Albert en bref
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Albert</strong> <strong>Api</strong></td><td><ul><li>Modèles utilisés : Llama 2, Mistral 7b, Llama 3.1</li></ul></td><td><ul><li>techno : RAG</li></ul></td></tr><tr><td><strong>Modèles métiers</strong></td><td><ul><li>techno : finetunés sur la documentation métier</li></ul></td><td></td></tr><tr><td><strong>Maintenance</strong></td><td>Non assurée (expérimentation)</td><td></td></tr><tr><td><strong>Éligibilité</strong></td><td>Services de l'État et des territoires</td><td></td></tr><tr><td><strong>Facturation</strong></td><td>Gratuit (mais expérimentation)</td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Albert</strong> <strong>Api</strong></td><td>Modèles utilisés : Llama 2, Mistral 7b, Llama 3.1</td><td>RAG</td></tr><tr><td><strong>Modèles métiers</strong></td><td>finetunés sur la documentation métier</td><td></td></tr><tr><td><strong>Maintenance</strong></td><td>Non assurée (expérimentation)</td><td></td></tr><tr><td><strong>Éligibilité</strong></td><td>Services de l'État et des territoires</td><td></td></tr><tr><td><strong>Facturation</strong></td><td>Gratuit (mais expérimentation)</td><td></td></tr></tbody></table>
 
 ### 🧰 Utiliser d’autres modèles : quelques ressources supplémentaires
 
