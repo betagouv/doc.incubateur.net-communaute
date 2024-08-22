@@ -28,7 +28,7 @@ Si tu viens de rejoindre la communauté, pense aussi à t'inscrire [à la procha
 sillon est le livre blanc qui recense toutes nos recommandations pour lancer un service numérique dans l'administration : [https://sillon.incubateur.net](https://sillon.incubateur.net)
 {% endhint %}
 
-Plusieurs templates sont proposés par la communauté et permettent de démarrer rapidement un nouveau projet :&#x20;
+Plusieurs templates sont proposés par la communauté et permettent de démarrer rapidement un nouveau projet en embarquant nos recommandations :&#x20;
 
 {% embed url="https://github.com/betagouv/?language=&q=template&sort=&type=all" %}
 
