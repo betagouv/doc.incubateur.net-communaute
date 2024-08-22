@@ -13,8 +13,8 @@ Pour éviter tout fuite de secret, pensez à installer un pre-commit hook type [
 
 ## Quel est ton profil ?
 
-{% content-ref url="je-suis-developpeur/" %}
-[je-suis-developpeur](je-suis-developpeur/)
+{% content-ref url="je-suis-developpeur.md" %}
+[je-suis-developpeur.md](je-suis-developpeur.md)
 {% endcontent-ref %}
 
 {% content-ref url="je-ne-suis-pas-developpeur.md" %}

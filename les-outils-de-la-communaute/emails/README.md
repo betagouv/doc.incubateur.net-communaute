@@ -6,14 +6,14 @@
 Si tu es arrivé(e) avant le 24/10/2023 regarde plutôt [cette configuration](envoyer-et-recevoir-des-emails-beta.gouv.fr-avec-loffre-ovh-mx-plan.md)&#x20;
 {% endhint %}
 
-## 0. Prérequis
+## Prérequis
 
 Munis-toi de :
 
 * ton adresse `prenom.nom@beta.gouv.fr`
 * le mot de passe (il peut être défini vie l'espace-membre)
 
-## 1. Choisir son client de messagerie
+## Choisir son client de messagerie
 
 Choisis sur quel logiciel de messagerie tu veux recevoir et envoyer tes emails. Par exemple :
 
@@ -26,7 +26,7 @@ Choisis sur quel logiciel de messagerie tu veux recevoir et envoyer tes emails. 
 * [AquaMail](https://www.aqua-mail.com) (Android) : une application mail fluide qui respecte la vie privée
 * [ou beaucoup d'autres](https://duckduckgo.com/?q=meilleurs+clients+mails)
 
-## **2. Configurer la réception et l'envoi d'emails**
+## **Configurer la réception et l'envoi d'emails**
 
 Le serveur email à mettre est pro1.mail.ovh.net.
 
@@ -72,7 +72,7 @@ Tous les dossiers mails (brouillons, envoyés, reçu, archivés, etc.) sont main
 Tu peux consulter tes mails directement sur le [webmail ovh](https://pro1.mail.ovh.net/). L'interface n'est pas géniale, mais ça peut être une bonne solution pour dépanner, ou quand tu n'a pas accès à ton client web habituel.
 {% endhint %}
 
-## 3. Pour aller plus loin
+## Pour aller plus loin
 
 {% content-ref url="configurer-sa-signature-de-mail-beta.gouv.fr.md" %}
 [configurer-sa-signature-de-mail-beta.gouv.fr.md](configurer-sa-signature-de-mail-beta.gouv.fr.md)

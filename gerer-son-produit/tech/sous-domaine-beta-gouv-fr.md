@@ -20,7 +20,7 @@ Nous pouvons vous déléguer la gestion de votre Zone DNS sur OVH ou autre fourn
 
 ### Etapes
 
-Préalable : Choisir les URL, en se basant sur [cette documentation](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/choisir-son-nom-de-domaine). On prendra ici comme exemple l'adresse `ma-startup.incubateur.net`, une url classique chez beta.gouv pour un site de staging.
+Préalable : Choisir les URL, en se basant sur [cette documentation.](../gestion-au-quotidien/tech/choisir-son-nom-de-domaine.md) On prendra ici comme exemple l'adresse `ma-startup.incubateur.net`, une url classique chez beta.gouv pour un site de staging.
 
 #### Example avec OVH
 
@@ -32,7 +32,7 @@ Préalable : Choisir les URL, en se basant sur [cette documentation](https://doc
 
 1. Créer un compte sur [Always Data](https://admin.alwaysdata.com/) avec votre adresse mail `@beta.gouv.fr`.
 2. Ajouter le nouveau domaine. Dans l'interface, trouver le menu `domains`, puis le bouton `Add a domain` et suivre les instructions pour ajouter le domaine `ma-super-startup.incubateur.net`.
-3. Faire [la demande de création de zone DNS](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/infra#comment-faire-une-demande-dops) en précisant le compte alwaysdata qui recevra la délégation.
+3. Faire [la demande de création de zone DNS ](../gestion-au-quotidien/tech/support-tech.md)en précisant le compte alwaysdata qui recevra la délégation.
 4. Ajouter les entrées DNS
    * Dans le menu `domains`, en face du nom de votre domaine cliquez sur le picto dans la colonne `details`, puis sur l'onglet `DNS Records`.
    * Cliquez sur `Add DNS record`, et ajouter une entrée de type `ALIAS`, avec `ma-super-startup-staging.osc-fr1.scalingo.io` comme `value`.

@@ -6,7 +6,11 @@ description: >-
 
 # Eco-conception numérique
 
+Consultez les recommandations pour l'écoconception de services numériques (RGESN) :
+
 Ce jeudi 5 mai 2022, les designers de [beta.gouv.fr](http://beta.gouv.fr) ont organisé une **Journée de l'Écoconception** en partenariat avec les Designers Éthiques, l'agence Lunaweb et l'entreprise privée Leboncoin.
+
+{% embed url="https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/" %}
 
 ![Ateliers lors de la journée de l'éco-conception](../../.gitbook/assets/journee-ecoconception-photo1.jpg)
 

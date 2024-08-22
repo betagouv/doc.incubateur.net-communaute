@@ -2,7 +2,6 @@
 description: >-
   Outils et ressources pour développer un produit minimal lors d'une phase de
   construction
-hidden: true
 ---
 
 # 🧰 Kit de démarrage dev
@@ -23,6 +22,10 @@ Beaucoup d'outils "No Code" ne sont pas hébergés en France et/ou ne sont pas a
 N'hésite pas à passer du temps à explorer la documentation de l'incubateur, et notamment les pages dédiées aux [choix technologiques.](../../../gerer-son-produit/les-standards/standards-de-qualite-beta.gouv.fr/choisir-des-technologies.md)
 
 Si tu viens de rejoindre la communauté, pense aussi à t'inscrire [à la prochaine session d'embarquement dédiée aux devs](https://airtable.com/shrUCbUT72KtKefsu) si ça n'est pas déjà fait.
+{% endhint %}
+
+{% hint style="success" %}
+sillon est le livre blanc qui recense toutes nos recommandations pour lancer un service numérique dans l'administration : [https://sillon.incubateur.net](https://sillon.incubateur.net)
 {% endhint %}
 
 Plusieurs templates sont proposés par la communauté et permettent de démarrer rapidement un nouveau projet :&#x20;
@@ -49,16 +52,16 @@ Pour t'aider à situer ta Startup d'État par rapport à ces standards de qualit
 
 Dans le cadre du travail avec l'administration, il est important de connaitre les contraintes légales en terme de Sécurité, de Protection des donnée et d'accessibilité.&#x20;
 
-{% content-ref url="../../../gerer-son-produit/les-standards/accessibilite-and-inclusion/accessibilite/" %}
-[accessibilite](../../../gerer-son-produit/les-standards/accessibilite-and-inclusion/accessibilite/)
-{% endcontent-ref %}
-
 {% content-ref url="../../../gerer-son-produit/les-standards/protection-des-donnees-personnelles/" %}
 [protection-des-donnees-personnelles](../../../gerer-son-produit/les-standards/protection-des-donnees-personnelles/)
 {% endcontent-ref %}
 
 {% content-ref url="../../../gerer-son-produit/standards/securite/" %}
 [securite](../../../gerer-son-produit/standards/securite/)
+{% endcontent-ref %}
+
+{% content-ref url="../../../gerer-son-produit/les-standards/accessibilite-and-inclusion/" %}
+[accessibilite-and-inclusion](../../../gerer-son-produit/les-standards/accessibilite-and-inclusion/)
 {% endcontent-ref %}
 
 Nous proposons aussi des formations dédiée : contactez l'équipe technique de beta pour plus d'informations.

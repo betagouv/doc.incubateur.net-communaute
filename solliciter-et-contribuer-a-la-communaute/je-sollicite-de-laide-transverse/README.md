@@ -1,4 +1,4 @@
-# ☝️ Je demande de l'aide
+# ☝️ Demander de l'aide
 
 ## Les ressources transverses mises à disposition du réseau beta.gouv.fr
 
@@ -18,8 +18,8 @@ Si votre service numérique fait partie du réseau beta.gouv.fr, vous avez accè
 [mise-en-conformite-rgpd-et-conseil-juridique.md](mise-en-conformite-rgpd-et-conseil-juridique.md)
 {% endcontent-ref %}
 
-* **Accompagnement sécurité** : atelier homologation de sécurité, aide ponctuelle. Pour déclencher cet accompagnement, contactez un membre de [l'équipe d'animation de beta.gouv.fr](../../decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/lequipe-danimation-beta.gouv.fr.md).
-* **Entrainement aux comités d'investissement, démos , accompagnement stratégique sur des sujets complexes** (blocages administratifs ou politiques, structuration d'un incubateur, montée d'une gouvernance complexe pour une Startup d'Etat). Pour déclencher cet accompagnement, contactez un membre de l'[équipe d'animation de beta.gouv.fr](../../decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/lequipe-danimation-beta.gouv.fr.md).
+* **Accompagnement sécurité** : atelier homologation de sécurité, aide ponctuelle. Pour déclencher cet accompagnement, contactez un membre de [l'équipe d'animation de beta.gouv.fr](../../decouvrir-beta.gouv.fr/incubateur-de-la-dinum/lequipe-danimation-beta.gouv.fr.md).
+* **Entrainement aux comités d'investissement, démos , accompagnement stratégique sur des sujets complexes** (blocages administratifs ou politiques, structuration d'un incubateur, montée d'une gouvernance complexe pour une Startup d'Etat). Pour déclencher cet accompagnement, contactez un membre de l'[équipe d'animation de beta.gouv.fr](../../decouvrir-beta.gouv.fr/incubateur-de-la-dinum/lequipe-danimation-beta.gouv.fr.md).
 * **Accompagnement en accessibilité** : audit d'accessibilité ou de contenu, aide à la mise en place de tests techniques avec le [pôle Numérique Inclusif](aide-transverse-pole-numerique-inclusif.md)
 * **Accompagnement sur des expertises spécifiques**
 
@@ -33,6 +33,10 @@ Si votre service numérique fait partie du réseau beta.gouv.fr, vous avez accè
 
 {% content-ref url="cauchemar-a-beta-la-mesure-dimpact.md" %}
 [cauchemar-a-beta-la-mesure-dimpact.md](cauchemar-a-beta-la-mesure-dimpact.md)
+{% endcontent-ref %}
+
+{% content-ref url="../../decouvrir-beta.gouv.fr/incubateur-de-la-dinum/lequipe-danimation-beta.gouv.fr.md" %}
+[lequipe-danimation-beta.gouv.fr.md](../../decouvrir-beta.gouv.fr/incubateur-de-la-dinum/lequipe-danimation-beta.gouv.fr.md)
 {% endcontent-ref %}
 
 ## Comment a été construite l'aide transverse beta.gouv.fr ?
@@ -69,6 +73,10 @@ Au cours du développement, il est possible de faire une demande d'aide en s'adr
 * Assigner la team en review d'une PR ou la mentionner au cours d'une discussion.
 
 Il est également possible de poser sa question dans les channels dédiés du Mattermost (principalement 🔒[`#domaine-dev`](https://mattermost.incubateur.net/betagouv/channels/domaine-dev) et 🔒[`#incubateur-ops`](https://mattermost.incubateur.net/betagouv/channels/incubateur-ops))
+
+{% content-ref url="../../gerer-son-produit/gestion-au-quotidien/tech/support-tech.md" %}
+[support-tech.md](../../gerer-son-produit/gestion-au-quotidien/tech/support-tech.md)
+{% endcontent-ref %}
 
 ### Déploiement (ou Business Development ou BizDev)
 
