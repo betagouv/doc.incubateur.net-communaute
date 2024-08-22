@@ -71,5 +71,5 @@ Vos utilisateurs ont besoin de téléverser (uploader) des images ou des fichier
 | 🇫🇷 OutScale (SecNumCloud) | Object Storage (compatible S3 ; [lien](https://fr.outscale.com/solutions-stockage-cloud/oos/))    |
 
 {% hint style="info" %}
-Certaines startups stockent avec succès leurs fichiers directement dans PostgreSQL, n'hésitez pas à challenger votre approche via le canal \~domaine-dev de mattermost :)
+Certains produits stockent avec succès leurs fichiers directement dans PostgreSQL, n'hésitez pas à challenger votre approche via le canal \~domaine-dev de mattermost :)
 {% endhint %}

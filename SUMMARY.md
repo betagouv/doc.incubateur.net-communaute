@@ -234,6 +234,7 @@
 
 ## Les outils de la communauté
 
+* [Les outils de la communauté](les-outils-de-la-communaute/les-outils-de-la-communaute.md)
 * [📅 Agenda de la communauté](les-outils-de-la-communaute/agenda-de-la-communaute.md)
 * [🗝️ Espace membre](les-outils-de-la-communaute/espace-membre.md)
   * [Créer une fiche membre](les-outils-de-la-communaute/espace-membre/premier-pas-indispensable-creer-ta-fiche-membre.md)
