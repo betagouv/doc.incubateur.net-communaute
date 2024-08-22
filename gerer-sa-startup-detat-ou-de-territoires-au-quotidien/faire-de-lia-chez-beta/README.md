@@ -12,7 +12,7 @@ description: >-
 
 **L’IA est une solution technique, elle n’a pas réponse à tout et il est facile d’avoir de fausses bonnes idées.**
 
-En plus de bien définir le problème selon [le cadre type de la méthode beta](https://beta.gouv.fr/approche/investigation) (l’irritant qu’on souhaite adresser est majeur, actionnable, et bien ciblé), il faut se demander si automatiser est une bonne solution, contrefactuellement à d’autres possibles. Pour cela, il est conseillé de s’appuyer le _Guide pour cadrer une solution IA sans faire du solutionnisme_.
+En plus de bien définir le problème selon [le cadre type de la méthode beta](https://beta.gouv.fr/approche/investigation) (l’irritant qu’on souhaite adresser est majeur, actionnable, et bien ciblé), il faut se demander si automatiser est une bonne solution, contrefactuellement à d’autres possibles. Pour cela, il est conseillé de s’appuyer le Si vous avez consulté le _guide pour définir un problème métier actionnable par l'IA_.
 
 {% content-ref url="guide-pour-definir-un-probleme-metier-actionnable-par-lia.md" %}
 [guide-pour-definir-un-probleme-metier-actionnable-par-lia.md](guide-pour-definir-un-probleme-metier-actionnable-par-lia.md)
@@ -30,7 +30,7 @@ Il se peut aussi que certaines informations soient erronées, puisque que c’es
 
 ### 🤲🏻 Jouer collectif : bénéficier de l’aide de la communauté, partager ses expériences
 
-**Pour poser vos questions à la communauté quant à l’implémentation d’une brique IA** **dans votre service**, un espace est dédié sur le Mattermost de la communauté beta.gouv : #domaine-ia.
+**Pour poser vos questions à la communauté relatives à l’implémentation d’une brique IA** **dans votre service**, un espace est dédié sur le Mattermost de la communauté beta.gouv : #domaine-ia.
 
 À savoir qu’il existe un autre canal pour la revue de presse (#domaine-presse-ia), ainsi qu’un dédié aux sciences de la donnée (#domaine-datascience).
 
@@ -52,7 +52,7 @@ Si vous avez consulté le guide pour définir un problème métier actionnable p
 
 
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><p>📅 <strong>Repérer le prochain rendez-vous des partenaires (facultatif)</strong><br></p><p>Il est possible d'aller au mensuel All<em>ia</em>nce qui réuni les administrations intéressées et les fournisseurs (publics ou privés). En général, c’est bien d’arriver avec un pitch car les administrations sont encouragées à parler de leur problématique durant l’évènement. Le calendrier des prochaines dates est <a href="https://alliance.numerique.gouv.fr/actualites/">ici</a>. </p></td><td></td><td></td></tr><tr><td><p><strong>🎤 Préparer son pitch</strong></p><p></p><p>Partir du problème vu de l’agent ou du citoyen concerné</p><ul><li>Donner des chiffres sur l’irritant</li><li>Donner des chiffres sur le volume d’opérations</li><li>Citer les données qui pourraient être utilisées</li><li>Définir une métrique d'impact</li></ul><p></p></td><td></td><td></td></tr><tr><td><p><strong>📃 Commencer à réfléchir à une fiche action</strong></p><p></p><p>À partir de ces éléments, écrire une fiche action en suivant ce <a href="https://alliance.numerique.gouv.fr/les-produits-incub%C3%A9s/mod%C3%A8le-de-fiche-action/">modèle de fiche action</a>. C’est sur cette base que le financement chez All<em>Ia</em>nce est possible. Il faut ensuite l’envoyer à l’adresse contact ci-dessous. Vous pouvez vous faire accompagner en demandant de l’aide sur le canal mattermost #domaine-ia.</p></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><p>📅 <strong>Repérer le prochain rendez-vous des partenaires (facultatif)</strong><br></p><p>Il est possible d'aller au mensuel All<em>ia</em>nce qui réuni les administrations intéressées et les fournisseurs (publics ou privés). En général, c’est bien d’arriver avec un pitch car les administrations sont encouragées à parler de leur problématique durant l’évènement. Le calendrier des prochaines dates est <a href="https://alliance.numerique.gouv.fr/actualites/">ici</a>. </p></td><td></td><td></td></tr><tr><td><p><strong>🎤 Préparer son pitch</strong></p><p></p><p>Partir du problème vu de l’agent ou du citoyen concerné</p><ul><li>Donner des chiffres sur l’irritant</li><li>Donner des chiffres sur le volume d’opérations</li><li>Citer les données qui pourraient être utilisées</li><li>Définir une métrique d'impact</li></ul><p></p></td><td></td><td></td></tr><tr><td><p><strong>📃 Commencer à réfléchir à une fiche action</strong></p><p></p><p>À partir de ces éléments, décrive votre idée de produit en suivant ce <a href="https://alliance.numerique.gouv.fr/les-produits-incub%C3%A9s/mod%C3%A8le-de-fiche-action/">modèle de fiche action</a>. C’est sur cette base que le financement chez All<em>Ia</em>nce est possible. Il faut ensuite l’envoyer à l’adresse contact ci-dessous. Vous pouvez vous faire accompagner en demandant de l’aide sur le canal mattermost #domaine-ia.</p></td><td></td><td></td></tr></tbody></table>
 
 {% hint style="info" %}
 Le contact de l'équipe alliance : [**alliance@mail.numerique.gouv.fr**](mailto:alliance@mail.numerique.gouv.fr).
@@ -87,14 +87,18 @@ Le cas d’usage Albert le plus évident est l’assistance à la réponse aux q
 En fonction de votre besoin et de votre situation, vous pouvez être accompagnés directement, utiliser l'API d'Albert, ou piocher sans demander dans les modèles ouverts :
 
 * **Utiliser l’API Albert**. Pour des raisons de disponibilité du calcul, l’usage de l’api est encore limité, vous pouvez joindre l’équipe d'Albert pour demander l’accès en utilisant le formulaire de contact ;
-* **Avoir accès aux modèles ouverts en libre accès** : les modèles conversationnels Albert-Light et Guillaume Tell (Albert) sont ouverts sur Hugging Face en libre service depuis la plateforme [AgentPublic](https://huggingface.co/AgentPublic). À noter que LLaMandement-13B, un modèle développé par la DGFIP plutôt adapté à la synthèse de texte, est également disponible sur AgentPublic.&#x20;
+* **Avoir accès aux modèles ouverts en libre** : les modèles conversationnels Albert-Light et Guillaume Tell (Albert) sont ouverts sur Hugging Face en libre service depuis la plateforme [AgentPublic](https://huggingface.co/AgentPublic). À noter que LLaMandement-13B, un modèle développé par la DGFIP plutôt adapté à la synthèse de texte, est également disponible sur AgentPublic.&#x20;
 * **Être accompagné directement par l’équipe d’Étalab** et bénéficier d’un accompagnement personnalisé. Pour l'instant cette option est limitée aux équipes déjà accompagnées.&#x20;
 
 ### 🧰 Utiliser d’autres modèles : quelques ressources supplémentaires
 
 * Vous pouvez trouver toutes sortes de modèles sur [Hugging Face](https://huggingface.co/), classifiés en fonction de la tâche ;
 * Certains services Cloud comme Scaleway proposent une plateforme en SaaS qui permet d’utiliser des modèles ouverts ou semi-ouverts comme Mistral ou LLama, et de louer la puissance de calcul (ou acheter au token) tout en respectant les standards européens d'hébergement ;
-* Si votre besoin n’implique pas d’utiliser des données sensibles, il est possible de faire ses premiers tests —tout en respectant le cadre légal— avec des modèles propriétaires (même ChatGPT !). Si vous n’êtes pas sûrs de vous, vous pouvez consulter la fiche dédiée [Quels points de vigilance avoir lorsque vous dialoguez avec ChatGPT ?](https://pad.numerique.gouv.fr/teCWpmkGSlG970GLe4aTDQ).
+* Si votre besoin n’implique pas d’utiliser des données sensibles, il est possible de faire ses premiers tests —tout en respectant le cadre légal— avec des modèles propriétaires (même ChatGPT !).&#x20;
+
+{% hint style="info" %}
+Si vous n’êtes pas sûrs de vous, vous pouvez consulter la fiche dédiée [Quels points de vigilance avoir lorsque vous dialoguez avec ChatGPT ?](https://pad.numerique.gouv.fr/teCWpmkGSlG970GLe4aTDQ) ou demander de l'aide sur le Mattermost de la communauté.&#x20;
+{% endhint %}
 
 
 
