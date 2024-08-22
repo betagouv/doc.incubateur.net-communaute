@@ -7,7 +7,7 @@ description: >-
 
 # Créer une fiche membre
 
-## 0. Invitation par une autre personne de la communauté
+## Invitation par une autre personne de la communauté
 
 {% hint style="info" %}
 **👋 Nouveau processus d’onboarding**
@@ -18,7 +18,7 @@ L**a création d'une fiche membre doit être initiée par un membre actif de com
 * Une personne de la communauté doit t'inviter via [la page “Communauté / Créer une fiche”](https://espace-membre.incubateur.net/community/create) de l’espace communauté.
 * Un email de bienvenue sera envoyé au membre invité dans l'heure suivante.
 
-## 1. Connecte toi à l'espace membre
+## Connecte toi à l'espace membre
 
 Tu vas recevoir un mail d'invitation.
 
@@ -47,7 +47,7 @@ En ayant un compte Github, tu gagneras en autonomie durant ta mission dans une �
 **Un blocage ? une difficulté ? besoin d'aide ? pour toi ou un collègue ?** Envoie un mail à[`contact@beta.gouv.fr`](mailto:contact@beta.gouv.Fr)ou demande sur[`#incubateur-help`](https://mattermost.incubateur.net/betagouv/channels/incubateur-help)sur Mattermost.
 {% endhint %}
 
-## 2. Prendre connaissance des règles d'hygiène informatique et de sécurité (politique [BYOD](https://fr.wikipedia.org/wiki/Bring\_your\_own\_device))
+## Prendre connaissance des règles d'hygiène informatique et de sécurité (politique [BYOD](https://fr.wikipedia.org/wiki/Bring\_your\_own\_device))
 
 Chez beta.gouv.fr, que tu sois [salarié d'une société de prestation](../../travailler-chez-beta.gouv.fr/actions-transverses/sengager-dans-une-action-transverse/salaries-des-societes-de-prestation.md) ou au [statut d'indépendant](../../travailler-chez-beta.gouv.fr/actions-transverses/sengager-dans-une-action-transverse/independants-freelances.md), on te demandera de venir avec ton propre équipement, que ce soit ton ordinateur ou ton téléphone. Tu as le droit de venir avec ton propre équipement quand tu es [agent public](../../travailler-chez-beta.gouv.fr/actions-transverses/les-differents-statuts/fonctionnaires-et-contractuels-de-la-fonction-publique.md) également. Nous acceptons tous les OS tant qu'ils sont à jour.
 

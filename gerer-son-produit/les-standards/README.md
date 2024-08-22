@@ -35,7 +35,7 @@ Un "**standard**" c’est un critère d’évaluation explicite de quelque chose
 * Les technologies employées sont open-source et éprouvées
 * Le service est reproductible, testé et déployé en continu
 * Le service est portable et respecte les [12 facteurs](https://12factor.net/)
-* Le code source est maintenu à jour&#x20;
+* Le code source est open-source et maintenu à jour&#x20;
 * L'architecture est documentée
 
 {% content-ref url="transparence/" %}

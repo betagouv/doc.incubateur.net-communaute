@@ -6,8 +6,8 @@ La fiche produit est la page qui présente chaque Startup d'État sur la page R�
 
 ## Créer une fiche produit
 
-{% hint style="success" %}
-[Accéder à l'outil de gestion des fiches produits](https://espace-membre.incubateur.net/startups/create-form)
+{% hint style="info" %}
+👉 [Accéder à l'outil de gestion des fiches produits](https://espace-membre.incubateur.net/startups/create-form)
 {% endhint %}
 
 Tu te lances dans l'investigation d'un produit numérique et tu viens de rejoindre beta.gouv ?\
@@ -33,9 +33,9 @@ Tu souhaites modifier un élément de ta fiche produit ? Ajouter un Sponsor ? Ch
 
 Tu peux désormais le faire via [l'espace membre.](https://espace-membre.incubateur.net/startups)
 
-Sélectionne le nom de ta Startup d'Etat et modifie les éléments qui composent la fiche.\\
+Sélectionne le nom de ta Startup d'Etat et modifie les éléments qui composent la fiche.
 
-Et voilà, les changements apparaitront sur le site beta.gouv.fr dans la journée.
+Et voilà, les changements apparaîtront sur le site beta.gouv.fr dans les 24h.
 
 Tu pourras également ajouter un visuel à ta fiche produit.
 
