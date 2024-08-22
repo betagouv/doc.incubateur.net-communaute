@@ -87,9 +87,11 @@ Le service [Aristote](https://outline.incubateur.net/s/alliance/doc/aristote-Zgl
 
 Les données aussi sont importantes pour avoir des grands modèles de langage diversifiés et plus inclusifs. Pour ce faire, l’INA, BNF, CNRS ont comme [projet ](https://www.lesechos.fr/tech-medias/intelligence-artificielle/intelligence-artificielle-la-france-se-lance-dans-la-bataille-culturelle-des-donnees-2041027)de constituer une base de données expérimentale destinée à combattre les biais culturels des IA majoritairement anglo-saxonnes. L'outil pourra aussi servir à mieux valoriser les données auprès des grands groupes de la tech.
 
-## 💼 Cas d'usage **: assistant virtuel de réponse en droit du travail**
+***
 
-**Quel est l'irritant ?** Il y a un roulement important des les services de renseignement en droit du travail (SRDT). Avant, le service était assuré par les contrôleurs du travail. Aujourd'hui, il est effectué par des secrétaires administratives, qui n'ont plus la couleur métier sur le sujet.
+## 💼 Cas d'usage : a**ssistant de réponses en droit du travail**
+
+**Quel est l'irritant ?** Il y a un roulement important des les services de renseignement en droit du travail (SRDT). Avant, le service était assuré par les contrôleurs du travail. Aujourd'hui, il est effectué par des secrétaires administratives, qui n'ont plus la formation initiale métier sur le sujet.
 
 **A-t-on bien une cible ?**
 
@@ -105,4 +107,4 @@ Les données aussi sont importantes pour avoir des grands modèles de langage di
 
 **Quelles sont les sources de données ?** Code du travail, conventions collectives de travail (CCT) qui défini les statuts (rémunérations, embauches, conditions de travail), jurisprudence sociale
 
-**Quelle valeur ajoutée par l'automatisation ?** L'automatisation apporte une valeur significative face au turn-over important et au manque de formation dans les SRDT. Elle permet aussi de gérer efficacement un volume massif de demandes (575 000), concernant plus d’un million d’objets de renseignement.
+**Quelle valeur ajoutée par l'automatisation ?** L'automatisation apporte une valeur significative face au roulement important des agents et au manque de formation dans les SRDT. Elle permet aussi de gérer efficacement un volume massif de demandes (575 000), concernant plus d’un million d’objets de renseignement.
