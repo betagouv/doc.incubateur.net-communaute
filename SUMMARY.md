@@ -287,12 +287,12 @@
     * [Proposer une démo de mon produit](solliciter-et-contribuer-a-la-communaute/je-contribue-a-la-communaute-to-do/partager-ses-apprentissages/mardi-demo.md)
     * [Proposer un outil à la communauté](solliciter-et-contribuer-a-la-communaute/je-contribue-a-la-communaute-to-do/partager-ses-apprentissages/proposer-un-nouvel-outil-a-la-communaute.md)
     * [Communiquer mon retour d'expérience \[à modifier\]](solliciter-et-contribuer-a-la-communaute/je-contribue-a-la-communaute-to-do/partager-ses-apprentissages/retours-dexperience.md)
-* [☝️ Je demande de l'aide](solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/README.md)
+* [☝️ Demander de l'aide](solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/README.md)
   * [Le Pôle Numérique Inclusif](solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/aide-transverse-pole-numerique-inclusif.md)
   * [Growth hacking](solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/growth-hacking-acquisition.md)
   * [Atelier impact](solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/cauchemar-a-beta-la-mesure-dimpact.md)
   * [Conseil juridique et mise en conformité RGPD](solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/mise-en-conformite-rgpd-et-conseil-juridique.md)
-* [🧑‍💻 Je partage et consulte des ressources](solliciter-et-contribuer-a-la-communaute/partage-de-ressources.md)
+* [🧑‍💻 Partager et consulter des ressources](solliciter-et-contribuer-a-la-communaute/partage-de-ressources.md)
 * [📣 Communiquer sur beta.gouv.fr à l'extérieur](solliciter-et-contribuer-a-la-communaute/communiquer-sur-beta.gouv.fr-a-lexterieur.md)
 
 ## Lancer un service numérique dans mon administration
