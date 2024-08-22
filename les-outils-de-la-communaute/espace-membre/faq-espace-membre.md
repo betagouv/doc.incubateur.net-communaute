@@ -34,9 +34,9 @@ Tu peux retrouver cette fonctionnalité en te rendant dans [Mon Compte > Configu
 
 Il se peut que tu perdes temporairement accès à certains services (notamment ton accès au site de l'espace membre et au dépot github) si la date de fin enregistrée est dépassée, mais pas de panique : avec l'aide d'un⋅e collègue, tu pourras récupérer ces accès.
 
-Demande à cette personne d'effectuer la modification de ta fiche sur l'[espace-membre]('https:/espace-membre.incubateur.net').
+Demande à cette personne d'effectuer la modification de ta fiche sur l'[espace membre](../espace-membre.md).
 
-Une fois la modification effectuée, tu pourras réactiver ton adresse @beta.gouv.fr depuis l'[espace membre](https://espace-membre.incubateur.net/account#password) en faisant un changement de mot de passe. Le changement de mot de passe réactive ton email.
+Une fois la modification effectuée, tu pourras réactiver ton adresse @beta.gouv.fr depuis l'[espace membre](../espace-membre.md) en faisant un changement de mot de passe. Le changement de mot de passe réactive ton email.
 
 Si la procédure décrite ne fonctionne pas, demande de l'aide sur le canal mattermost [\~incubateur-help](https://mattermost.incubateur.net/betagouv/channels/incubateur-help).
 
@@ -75,8 +75,6 @@ Les droits d'accès aux ressources beta.gouv.fr (dont l'email fait partie) sont 
 3. Accède à ta boîte mail avec le nouveau mot de passe
 
 </details>
-
-
 
 {% hint style="info" %}
 Besoin d'aide ? N'hésite pas à demander un coup de main aux personnes de ton équipe, ou d'un ou d'une collègue. Tu peux aussi solliciter l'aide de la communauté sur le canal [\~incubateur-entraide-communauté](https://mattermost.incubateur.net/betagouv/channels/incubateur-help) si tu accèdes encore à Mattermost.
