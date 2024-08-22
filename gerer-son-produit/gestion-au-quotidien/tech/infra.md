@@ -1,6 +1,6 @@
 # Hébergement
 
-Chaque Startup d'Etat gère son infrastructure de façon souveraine. Certains incubateurs proposent des services d'hébergement mutualisés; Renseignez-vous auprès [des référent(e)s tech de votre fabrique.](../../gestion-au-quotidien/tech/to-do-liens-avec-les-referents-techs.md)
+Chaque Startup d'Etat gère son infrastructure de façon souveraine. Certains incubateurs proposent des services d'hébergement mutualisés; Renseignez-vous auprès [des référent(e)s tech de votre fabrique.](to-do-liens-avec-les-referents-techs.md)
 
 ### Les services partagés
 
@@ -27,6 +27,10 @@ Tu peux demander de l'aide sur ces sujets sur Mattermost dans 🔒`~incubateur-o
 ### Hébergement
 
 Quel que soit votre choix d'hébergement, pensez à bien documenter votre infrastructure et respecter [les 12 facteurs](https://12factor.net/fr/) pour une meilleure portabilité de votre application :)
+
+{% hint style="info" %}
+Le label « SecNumCloud » est nécessaire seulement dans le cadre du champ d’application de l’[article 31 de la loi SREN. ](https://www.legifrance.gouv.fr/jorf/article\_jo/JORFARTI000049563610)
+{% endhint %}
 
 #### Application mode PaaS
 
@@ -65,3 +69,7 @@ Vos utilisateurs ont besoin de téléverser (uploader) des images ou des fichier
 | 🇫🇷 Clever Cloud (HDS)     | Cellar (compatible S3 ; [lien](https://www.clever-cloud.com/cellar-s3-hosting/))                  |
 | 🇫🇷 OVH (HDS)              | Object Storage (compatible S3 ; [lien](https://www.ovhcloud.com/en/public-cloud/object-storage/)) |
 | 🇫🇷 OutScale (SecNumCloud) | Object Storage (compatible S3 ; [lien](https://fr.outscale.com/solutions-stockage-cloud/oos/))    |
+
+{% hint style="info" %}
+Certaines startups stockent avec succès leurs fichiers directement dans PostgreSQL, n'hésitez pas à challenger votre approche via le canal \~domaine-dev de mattermost :)
+{% endhint %}
