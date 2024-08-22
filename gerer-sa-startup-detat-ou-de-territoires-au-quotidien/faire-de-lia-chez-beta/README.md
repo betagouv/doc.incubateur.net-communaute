@@ -78,7 +78,7 @@ Le cas d’usage Albert le plus évident est l’assistance à la réponse aux q
 
 * Un chat assistant de réponse pour les agents répondant aux question des citoyens dans les maisons France services — partenariat en construction avec la direction de l'information légale et administrative (DILA).
 * Un chat assistant de réponse adapté aux agents qui s’occupent des ressources humaines dans les secrétariats généraux communs départementaux (SGCD), dans les préfectures. — partenariat actuellement en construction avec la direction générale de l'administration et de la fonction publique (DGAFP) ;
-* Un chat assistant de réponse en droit du travail pour les agents  dans les services de renseignements en droit du travail (SRDT) — partenariat en investigation avec la direction générale du travail (DGT) ;
+* Un chat assistant de réponse en droit du travail pour les agents  dans les services de renseignements en droit du travail (SRDT) — en investigation avec la direction générale du travail (DGT) ;
 
 
 
@@ -87,12 +87,12 @@ Le cas d’usage Albert le plus évident est l’assistance à la réponse aux q
 En fonction de votre besoin et de votre situation, vous pouvez être accompagnés directement, utiliser l'API d'Albert, ou piocher sans demander dans les modèles ouverts :
 
 * **Utiliser l’API Albert**. Pour des raisons de disponibilité du calcul, l’usage de l’api est encore limité, vous pouvez joindre l’équipe d'Albert pour demander l’accès en utilisant le formulaire de contact ;
-* **Avoir accès aux modèles ouverts** : les modèles conversationnels Albert-Light et Guillaume Tell (Albert) sont ouverts sur Hugging Face en libre service depuis la plateforme [AgentPublic](https://huggingface.co/AgentPublic). À noter que LLaMandement-13B, un modèle développé par la DGFIP plutôt adapté à la synthèse de texte, est également disponible sur AgentPublic.&#x20;
+* **Utiliser les modèles ouverts** : les modèles conversationnels Albert-Light et Guillaume Tell (Albert) sont ouverts sur Hugging Face en libre service depuis la plateforme [AgentPublic](https://huggingface.co/AgentPublic). À noter que LLaMandement-13B, un modèle développé par la DGFIP plutôt adapté à la synthèse de texte, est également disponible sur AgentPublic.&#x20;
 * **Être accompagné directement par l’équipe d’Étalab** et bénéficier d’un accompagnement personnalisé. Pour l'instant cette option est limitée aux équipes déjà accompagnées.&#x20;
 
 ### Albert en bref
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Modèles utilisés</strong></td><td>Llama 2, Mistral 7b, Llama 3 bientôt</td><td></td></tr><tr><td><strong>Maintenance</strong></td><td>Non assurée (expérimentation)</td><td></td></tr><tr><td><strong>Caractéristiques techniques</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f7e2">🟢</span> <strong>api</strong> : brique interne, en deux appels</td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f7e2">🟢</span> <strong>RAG</strong></td></tr><tr><td><strong>Facturation</strong></td><td>Gratuit (mais expérimentation)</td><td></td></tr><tr><td><strong>Éligibilité</strong></td><td>Services de l'État et des territoires</td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Modèles utilisés</strong></td><td>Llama 2, Mistral 7b, Llama 3 bientôt</td><td></td></tr><tr><td><strong>Maintenance</strong></td><td>Non assurée (expérimentation)</td><td></td></tr><tr><td><strong>Éligibilité</strong></td><td>Services de l'État et des territoires</td><td></td></tr><tr><td><strong>Facturation</strong></td><td>Gratuit (mais expérimentation)</td><td></td></tr></tbody></table>
 
 ### 🧰 Utiliser d’autres modèles : quelques ressources supplémentaires
 
