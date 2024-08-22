@@ -64,7 +64,7 @@ Le contact de l'équipe alliance : [**alliance@mail.numerique.gouv.fr**](mailto:
 
 **Albert est une galaxie de modèles conversationnels et de cas d’usages administratifs qui les utilisent, développés par le département Étalab de la direction interministérielle du numérique (DINUM), de concert avec les partenaires dans les administrations et la société civile.**
 
-C’est un projet d’innovation encore en expérimentation, et donc son déploiement reste limité pour des raisons de performance des modèles encore en développement et des capacités de calcul limitées (les GPU, ça coûte cher !).
+C’est un projet d’innovation encore en expérimentation, et donc son déploiement reste limité pour des raisons de performance des modèles encore en développement et des capacités de calcul limitées.
 
 {% hint style="info" %}
 Il existe également d’autres modèles proposés par le public, notamment les modèles LLaMandement, développés au sein de la direction générale des finances publiques (DGFIP). Contrairement à Albert qui est un ensemble de modèles conversationnels, l'ensemble LlaMandement est spécialisé sur la synthèse de texte.
@@ -76,9 +76,9 @@ Il existe également d’autres modèles proposés par le public, notamment les 
 
 Le cas d’usage Albert le plus évident est l’assistance à la réponse aux questions du public pour les agents. Voici quelques exemples :&#x20;
 
-* Un outil de réponse en mode chat adapté aux agents qui s’occupent des ressources humaines dans les secrétariats généraux communs départementaux (SGCD), dans les préfectures. C’est un partenariat actuellement en cours avec la direction générale de l'administration et de la fonction publique (DGAFP) ;
-* Un outil de réponse en mode chat adapté aux agents en droit du travail dans les services de renseignements en droit du travail (SRDT). C’est un partenariat en cours avec la direction générale du travail (DGT) ;
-* Un outil de réponse en mode chat pour les maisons France services. C’est un partenariat en cours avec la direction de l'information légale et administrative (DILA).
+* Un chat assistant de réponse pour les agents répondant aux question des citoyens dans les maisons France services — partenariat en construction avec la direction de l'information légale et administrative (DILA).
+* Un chat assistant de réponse adapté aux agents qui s’occupent des ressources humaines dans les secrétariats généraux communs départementaux (SGCD), dans les préfectures. — partenariat actuellement en construction avec la direction générale de l'administration et de la fonction publique (DGAFP) ;
+* Un chat assistant de réponse en droit du travail pour les agents  dans les services de renseignements en droit du travail (SRDT) — partenariat en investigation avec la direction générale du travail (DGT) ;
 
 
 
@@ -87,8 +87,12 @@ Le cas d’usage Albert le plus évident est l’assistance à la réponse aux q
 En fonction de votre besoin et de votre situation, vous pouvez être accompagnés directement, utiliser l'API d'Albert, ou piocher sans demander dans les modèles ouverts :
 
 * **Utiliser l’API Albert**. Pour des raisons de disponibilité du calcul, l’usage de l’api est encore limité, vous pouvez joindre l’équipe d'Albert pour demander l’accès en utilisant le formulaire de contact ;
-* **Avoir accès aux modèles ouverts en libre** : les modèles conversationnels Albert-Light et Guillaume Tell (Albert) sont ouverts sur Hugging Face en libre service depuis la plateforme [AgentPublic](https://huggingface.co/AgentPublic). À noter que LLaMandement-13B, un modèle développé par la DGFIP plutôt adapté à la synthèse de texte, est également disponible sur AgentPublic.&#x20;
+* **Avoir accès aux modèles ouverts** : les modèles conversationnels Albert-Light et Guillaume Tell (Albert) sont ouverts sur Hugging Face en libre service depuis la plateforme [AgentPublic](https://huggingface.co/AgentPublic). À noter que LLaMandement-13B, un modèle développé par la DGFIP plutôt adapté à la synthèse de texte, est également disponible sur AgentPublic.&#x20;
 * **Être accompagné directement par l’équipe d’Étalab** et bénéficier d’un accompagnement personnalisé. Pour l'instant cette option est limitée aux équipes déjà accompagnées.&#x20;
+
+### Albert en bref
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Modèles utilisés</strong></td><td>Llama 2, Mistral 7b, Llama 3 bientôt</td><td></td></tr><tr><td><strong>Maintenance</strong></td><td>Non assurée (expérimentation)</td><td></td></tr><tr><td><strong>Caractéristiques techniques</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f7e2">🟢</span> <strong>api</strong> : brique interne, en deux appels</td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f7e2">🟢</span> <strong>RAG :</strong> possibilité d'activer ou non le RAG d'Albert pour la connaissance des documents administratifs<br><span data-gb-custom-inline data-tag="emoji" data-code="1f534">🔴</span> <strong>function calling</strong> </td></tr><tr><td><strong>Facturation</strong></td><td>Gratuit (mais expérimentation)</td><td></td></tr><tr><td><strong>Éligibilité</strong></td><td>Services de l'État et des territoires</td><td></td></tr></tbody></table>
 
 ### 🧰 Utiliser d’autres modèles : quelques ressources supplémentaires
 
