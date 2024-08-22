@@ -82,7 +82,7 @@ Le cas d’usage métier Albert le plus évident est l’assistance à la répon
 
 #### **L'api Albert**
 
-L'api permet d'avoir accès à une version d'Albert généraliste basée sur un modèle libre (Llama3.1 étant la dernière version utilisée), amélioré par du RAG. Elle permet notamment d'ouvrir à des cas d'usage de traduction, de synthèse de document, et des intégrations diverses dans des produits.&#x20;
+L'api permet d'avoir accès à une version d'Albert généraliste basée sur un modèle libre (Llama3.1 étant la dernière version utilisée), et qui peut être amélioré par du RAG. Elle permet notamment d'ouvrir à des cas d'usage de traduction, de synthèse de document, et des intégrations diverses dans des produits.&#x20;
 
 
 
@@ -94,8 +94,6 @@ En fonction de votre besoin et de votre situation, vous pouvez être accompagné
 * **Essayer l'API d'Albert à partir de Tchap** : trouver Albert dans "personnes" dans la barre de recherche Tchap et demander l'accès à l'adresse indiquée ;
 * **Utiliser les modèles ouverts** : les modèles conversationnels Albert-Light et Guillaume Tell (Albert) sont ouverts sur Hugging Face en libre service depuis la plateforme [AgentPublic](https://huggingface.co/AgentPublic). À noter que LLaMandement-13B, un modèle développé par la DGFIP plutôt adapté à la synthèse de texte, est également disponible sur AgentPublic ;
 * **Être accompagné directement par l’équipe d’Étalab** et bénéficier d’un accompagnement personnalisé. Pour l'instant cette option est limitée aux équipes déjà accompagnées.&#x20;
-
-#### Albert en bref
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Albert</strong> <strong>Api</strong></td><td>modèles utilisés : Llama 2, Mistral 7b, Llama 3.1</td><td>RAG</td></tr><tr><td><strong>Modèles métiers</strong></td><td>fine-tunés sur la documentation métier</td><td></td></tr><tr><td><strong>Maintenance</strong></td><td>Non assurée (expérimentation)</td><td></td></tr><tr><td><strong>Éligibilité</strong></td><td>Services de l'État et des territoires</td><td></td></tr><tr><td><strong>Facturation</strong></td><td>Gratuit (mais expérimentation)</td><td></td></tr></tbody></table>
 
