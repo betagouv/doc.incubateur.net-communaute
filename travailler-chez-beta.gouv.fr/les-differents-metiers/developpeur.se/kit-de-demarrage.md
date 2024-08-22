@@ -21,7 +21,7 @@ Beaucoup d'outils "No Code" ne sont pas hébergés en France et/ou ne sont pas a
 {% hint style="info" %}
 N'hésite pas à passer du temps à explorer la documentation de l'incubateur, et notamment les pages dédiées aux [choix technologiques.](../../../gerer-son-produit/les-standards/standards-de-qualite-beta.gouv.fr/choisir-des-technologies.md)
 
-Si tu viens de rejoindre la communauté, pense aussi à t'inscrire [à la prochaine session d'embarquement dédiée aux devs](https://airtable.com/shrUCbUT72KtKefsu) si ça n'est pas déjà fait.
+Si tu viens de rejoindre la communauté, pense aussi à t'inscrire [à la prochaine session d'embarquement dédiée aux devs](https://airtable.com/shrUCbUT72KtKefsu) si ça n'est pas déjà fait. (cf [les slides](https://docs.google.com/presentation/d/1PJsI2N0ja5--j\_\_dDlrOXQKt\_v9hTsV2uvODOOmZW68/edit#slide=id.g2df92dfbab2\_0\_405)).
 {% endhint %}
 
 {% hint style="success" %}
