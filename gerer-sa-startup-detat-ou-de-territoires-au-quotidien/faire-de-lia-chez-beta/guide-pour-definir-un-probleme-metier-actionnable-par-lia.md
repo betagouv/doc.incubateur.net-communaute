@@ -29,7 +29,7 @@ Voici des exemples dans lesquels l'automatisation est généralement utile :
 
 
 
-**Pour être efficace, le service demande de traiter un grand volume de données :**
+#### **Pour être efficace, le service demande de traiter un grand volume de données :**
 
 {% hint style="success" %}
 &#x20;[Flash IA](https://iaflash.fr/) permet de fiabiliser des contraventions à partir de la reconnaissance d’images, pour éviter à des automobilistes de se retrouver avec des contraventions pour des infractions qu’ils n’ont pas commises (une histoire de fraude à la plaque). Pour repérer les fraudes, il faut rapprocher le numéro de la plaque et le modèle du véhicule, qui est renseigné dans le Système d’immatriculation des véhicules (SIV). En terme de croisement de données, c’est plutôt simple. En terme de volume, c’est ingérable pour un humain car l’agence de traitement automatisée des infractions ou ANTAI doit traiter 20M de clichés radar à l’année.&#x20;
@@ -37,7 +37,7 @@ Voici des exemples dans lesquels l'automatisation est généralement utile :
 
 
 
-**Il faut traiter des données complexes :**
+#### **Il faut traiter des données complexes :**
 
 * Les sources sont éparpillées&#x20;
 
@@ -57,7 +57,7 @@ Le service [Signaux faibles](https://beta.gouv.fr/startups/signaux-faibles.html)
 
 ### 🗑️ **N**’**est-on pas en train de vouloir automatiser une procédure défectueuse, inutile ou datée qu’il vaudrait mieux supprimer ?**
 
-Si un dossier pour répondre à un appel à projet lancé par l’administration est trop compliqué à remplir, il vaut mieux d’abord le simplifier au lieu d’essayer de faire apprendre cette complexité à une IA pour répondre à la place des candidats découragés.&#x20;
+Si un dossier pour répondre à un appel à projet lancé par l’administration est trop compliqué à remplir, il vaut mieux d’abord le simplifier plutôt que d’essayer de faire apprendre cette complexité à une IA pour répondre à la place des candidats découragés.&#x20;
 
 ### ♻️ **Pourrait-on** **imaginer d'autres manières de faire cela sans IA ?**
 
@@ -65,13 +65,35 @@ Dans le cas précédent, on préférera donc commencer par réviser le dossier d
 
 ### **💰 Est-ce que la solution d'IA est rentable par rapport aux alternatives ?**
 
-* **Calculer la rentabilité** : pour donner un ordre de grandeur, 100k c’est environ ce que coûte le premier ticket pour entraîner une couche “cas d’usage métier” sur [Albert](https://albert.etalab.gouv.fr/albert/), le modèle de la DINUM ; 45k c’est ce que coute TTC un ETP en moyenne à l’année à l’État, comme un agent dans une Maison France Service. Pour calculer la rentabilité de notre investissement, on peut calculer l’économie du temps de l’agent grâce à la solution d’IA et la convertir en ETP.
-* **La question du passage à l’échelle** : en général, l’IA devient rentable au moment du passage à l’échelle (et dans le temps), mais cela présuppose d’avoir des gros volumes d’échanges et/ou beaucoup d’usagers.
-* **Adapter le modèle à son besoin** : parfois, il vaut mieux utiliser de plus petits modèles, qui sont moins onéreux et tout aussi performants pour une tâche donnée. Le modèle _Camembert_ par exemple, est particulièrement adapté à des tâches de classification et est moins onéreux qu’une gros modèle comme GPT-4 à faire tourner (en plus d’être ouvert et français !).
+#### **Calculer la rentabilité**&#x20;
 
-### 💽 **Quelles sont les sources de données pour alimenter l’IA ?**
+Pour donner un ordre de grandeur, 100k c’est environ ce que coûte le premier ticket pour entraîner une couche “cas d’usage métier” sur [Albert](https://albert.etalab.gouv.fr/albert/), le modèle de la DINUM ; 45k c’est ce que coute TTC un ETP en moyenne à l’année à l’État, comme un agent dans une Maison France Service. Pour calculer la rentabilité de notre investissement, on peut calculer l’économie du temps de l’agent grâce à la solution d’IA et la convertir en ETP.
 
-Il faut déterminer la source (le producteur et l’administrateur), et la nature de la donnée (est-ce un PDF ? Un tableau Excel ? Est-ce qu’elle respecte des référentiels particuliers ?). À noter que les modèles peuvent être entraînés sur des informations dîtes noires, c’est-à-dire qu’elles ont été obtenues illégalement. Au sein de l’État, l’on souhaite évidemment utiliser des modèles entraînés sur des données blanches (en libre accès).
+#### **La question du passage à l’échelle**&#x20;
+
+En général, l’IA devient rentable au moment du passage à l’échelle (et dans le temps), mais cela présuppose d’avoir des gros volumes d’échanges et/ou beaucoup d’usagers.
+
+#### **Adapter le modèle à son besoin**
+
+Parfois, il vaut mieux utiliser de plus petits modèles, qui sont moins onéreux et tout aussi performants pour une tâche donnée. Le modèle _Camembert_ par exemple, est particulièrement adapté à des tâches de classification et est moins onéreux qu’une gros modèle comme GPT-4 à faire tourner (en plus d’être ouvert et français !).
+
+### 💽 Dispose-t-on des données/APIs nécessaires pour lancer notre expérimentation **?**
+
+#### **Déterminer la source de la donnée et son exploitabilité**
+
+La force des modèles les plus performants aujourd'hui réside bien souvent dans la qualité et la quantité des jeux de données sur lesquels ils se basent. Il faut toujours se poser la question de la qualité et l'accessibilité des données dont on a besoin pour pouvoir évaluer son prototype (textes de lois, les documents, données ouvertes...).&#x20;
+
+Il faut déterminer la **source** (le producteur et l’administrateur), la **nature de la** **donnée** (qui renseigne bien souvent sur sa qualité : est-ce un PDF ? Un tableau Excel ? etc.) , et son **exploitabilité** (est-ce qu’elle respecte des référentiels d'exploitation ? Est-elle est apisée ? Est-ce que l'administration productrice veut bien la mettre à disposition, et ce de manière pérenne ?...).&#x20;
+
+{% hint style="success" %}
+**Bonne pratique**&#x20;
+
+Si votre donnée n'est pas disponible et que votre projet vous permet d'en ouvrir ou d'en produire des neufs, c'est aussi l'occasion de les publier sur [data.gouv.fr](https://www.data.gouv.fr/fr/).&#x20;
+{% endhint %}
+
+#### **Données blanches données noires pour l'entraînement des modèles**
+
+À noter que les modèles peuvent être entraînés sur des informations dîtes noires, c’est-à-dire qu’elles ont été obtenues illégalement. Au sein de l’État, l’on souhaite évidemment développer et utiliser des modèles entraînés sur des données blanches (en libre accès). Si l'administration souhaite entraîner son modèle sur des données sensibles, il convient d'avoir une infrastructure adéquate.&#x20;
 
 {% hint style="info" %}
 Plus d’information sur les données blanches et noires sur le[ site de la CNIL](https://www.cnil.fr/fr/listes-des-traitements-pour-lesquels-une-aipd-est-requise-ou-non).&#x20;
