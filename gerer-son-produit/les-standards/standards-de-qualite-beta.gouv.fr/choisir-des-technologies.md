@@ -7,8 +7,8 @@ Chez Beta Gouv, les équipes sont libres de choisir les technologies de leurs ch
 
 Ruby ([Rails](https://rubyonrails.org/)) est aussi utilisé quand cela fonctionne avec le cadre technique de l'administration porteuse. Ce choix doit donc être fait en connaissance de cause.
 
-> Certains incubateurs du réseau beta.gouv.fr ont mis en place des standards propres, [par exemple à la Fabrique numérique des ministères sociaux](https://socialgouv.github.io/support/#/README).
+> Certains incubateurs du réseau beta.gouv.fr ont mis en place des standards propres, consultez [votre référent(e) tech](../../gestion-au-quotidien/tech/to-do-liens-avec-les-referents-techs.md).
 
 {% hint style="info" %}
-L'outil [DashLord](../../../les-outils-de-la-communaute/dashlord/) permet aux Startups d'Etat de connaître les stacks techniques choisies par d'autres équipes (via le scan Wappalyzer).
+Découvrir le livre blanc "comment réaliser un produit numérique" dans l'administration : sur [https://sillon.incubateur.net](https://sillon.incubateur.net/)
 {% endhint %}

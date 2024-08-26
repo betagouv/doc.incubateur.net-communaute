@@ -97,7 +97,7 @@ _Rester à l'écoute des utilisateurs du service est essentiel pour construire u
 {% tab title="Les standards ☝️" %}
 * [ ] J’utilise le Système de Design de l’Etat
 * [ ] Je dispose d’une zone d’autonomie technique pour l’équipe (par exemple vis-a-vis de la DSI)
-* [ ] Je respecte [les standards technologiques de beta.gouv.fr](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/bienvenue/embarquement-dev#standards-technologiques)
+* [ ] Je respecte[ les standards technologiques de beta.gouv.fr](../../les-standards/standards-de-qualite-beta.gouv.fr/)
 * [ ] Je passe **le minimum de temps possible** à développer des fonctionnalités secondaires ou de support (authentification, gestion de rôle, blog, etc.)
 {% endtab %}
 
