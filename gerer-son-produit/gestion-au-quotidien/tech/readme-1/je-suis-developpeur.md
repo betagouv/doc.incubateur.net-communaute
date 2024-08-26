@@ -22,7 +22,7 @@ Reste concentré sur les actions à prendre, ne reste pas isolé, demande de l'a
 2. **Couper l'accès aux données en ligne en priorisant vos actions sur les données personnelles**
 3. **Couper les autres accès**
 4. **Supprimer les données ou les accès de github/gitlab**
-   * lien utile : [supprimer les données de github](broken-reference)
+   * lien utile : [supprimer les données de github](je-suis-developpeur.md#supprimer-les-donnees-sensibles-que-jai-accidentellement-pushees-sur-github)
 
 ### Quels sont les bons réflexes à adopter (et parfois négligés) ?
 
