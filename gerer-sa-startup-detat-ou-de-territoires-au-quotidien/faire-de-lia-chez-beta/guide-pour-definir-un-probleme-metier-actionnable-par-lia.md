@@ -18,7 +18,7 @@ En plus de bien définir le problème selon [le cadre type de la méthode beta](
 On ne coupe pas à se reposer ces questions sur l'irritant quand on propose une solution d'automatisation :
 
 * **Est-il majeur ?** Bien qu'il est tentant de développer un assistant technocrate générateur de formules de politesse pour mails afin de briller dans toute la bureaucratie, il y a surement plus majeur comme besoin.&#x20;
-* **Est-il actionnable (notamment par de l'IA) ?** Est-ce que les agents ont envie d'utiliser une solution d'IA, ils sont à l'aise avec le numérique ? Est-ce qu'on dispose de données exploitables pour entraîner ou faire tourner notre modèle ?
+* **Est-il actionnable (notamment par de l'IA) ?** Est-ce que les agents ont envie d'utiliser une solution d'IA ? Sont-ils sont à l'aise avec le numérique ? Dispose-t-on de données exploitables pour entraîner ou faire tourner notre modèle ?
 * **Est-il bien défini ? Quelle est la cible ?** S'interroger sur le volume d’opérations et sur le nombre d'agents concernés : si c'est pour 3 agents en Lozère et qu'ils en ont besoin 3 fois par semestre, il est probable que la solution d'automatisation ne soit pas très rentable économiquement.&#x20;
 
 ### 🤖 **Est-ce pertinent de mettre de mettre de l'IA sur mon cas d’usage ?**
@@ -81,7 +81,7 @@ Parfois, il vaut mieux utiliser de plus petits modèles, qui sont moins onéreux
 
 #### **Déterminer la source de la donnée et son exploitabilité**
 
-La force des modèles les plus performants aujourd'hui réside bien souvent dans la qualité et la quantité des jeux de données sur lesquels ils se basent. Il faut toujours se poser la question de la qualité et l'accessibilité des données dont on a besoin pour pouvoir évaluer son prototype (textes de lois, les documents, données ouvertes...).&#x20;
+La force des modèles les plus performants aujourd'hui réside bien souvent dans la qualité (et la quantité) des jeux de données sur lesquels ils se basent. Il faut toujours se poser la question de la qualité et l'accessibilité des données dont on a besoin pour pouvoir évaluer son prototype (textes de lois, les documents, données ouvertes...).&#x20;
 
 Il faut déterminer la **source** (le producteur et l’administrateur), la **nature de la** **donnée** (qui renseigne bien souvent sur sa qualité : est-ce un PDF ? Un tableau Excel ? etc.) , et son **exploitabilité** (est-ce qu’elle respecte des référentiels d'exploitation ? Est-elle est apisée ? Est-ce que l'administration productrice veut bien la mettre à disposition, et ce de manière pérenne ?...).&#x20;
 
@@ -91,13 +91,7 @@ Il faut déterminer la **source** (le producteur et l’administrateur), la **na
 Si votre donnée n'est pas disponible et que votre projet vous permet d'en ouvrir ou d'en produire des neufs, c'est aussi l'occasion de les publier sur [data.gouv.fr](https://www.data.gouv.fr/fr/).&#x20;
 {% endhint %}
 
-#### **Données blanches données noires pour l'entraînement des modèles**
 
-À noter que les modèles peuvent être entraînés sur des informations dîtes noires, c’est-à-dire qu’elles ont été obtenues illégalement. Au sein de l’État, l’on souhaite évidemment développer et utiliser des modèles entraînés sur des données blanches (en libre accès). Si l'administration souhaite entraîner son modèle sur des données sensibles, il convient d'avoir une infrastructure adéquate.&#x20;
-
-{% hint style="info" %}
-Plus d’information sur les données blanches et noires sur le[ site de la CNIL](https://www.cnil.fr/fr/listes-des-traitements-pour-lesquels-une-aipd-est-requise-ou-non).&#x20;
-{% endhint %}
 
 ### 🧑🏻‍⚖️ **L’IA sera t’elle amenée à prendre des décisions ?**
 
@@ -105,9 +99,13 @@ Un [moteur de réponse naturelle](https://outline.incubateur.net/s/alliance/doc/
 
 ### 🇫🇷 **Y a-t-il des enjeux saillants à préférer une solution souveraine ?**
 
-Le service [Aristote](https://outline.incubateur.net/s/alliance/doc/aristote-ZglVVnmnwh) de CentraleSupélec veut permettre aux professeurs de générer automatiquement des tests ludiques à partir de leurs cours pour leurs élèves. Pour des raisons de souveraineté, il vaut mieux éviter que les serveurs américains ingèrent les cours des professeurs afin de protéger le produit de leur propriété intellectuelle. Certaines clauses dans les CGU des fournisseurs de modèles peuvent être restrictives. Toutes les Edtech qui utilisent l’API de OpenIA dans leur solution peuvent être concernées, d'où l'intérêt d'alternatives souveraines.&#x20;
+Le service [Aristote](https://outline.incubateur.net/s/alliance/doc/aristote-ZglVVnmnwh) de CentraleSupélec veut permettre aux professeurs de générer automatiquement des tests ludiques sur la base de leurs cours pour leurs élèves. Pour des raisons de souveraineté, il vaut mieux éviter que les serveurs américains ingèrent les cours des professeurs afin de protéger le produit de leur propriété intellectuelle. Certaines clauses dans les CGU des fournisseurs de modèles peuvent être restrictives. Toutes les Edtech qui utilisent l’API de OpenIA dans leur solution peuvent être concernées, d'où l'intérêt d'alternatives souveraines.&#x20;
 
-Les données aussi sont importantes pour avoir des grands modèles de langage diversifiés et plus inclusifs. Pour ce faire, l’INA, BNF, CNRS ont comme [projet ](https://www.lesechos.fr/tech-medias/intelligence-artificielle/intelligence-artificielle-la-france-se-lance-dans-la-bataille-culturelle-des-donnees-2041027)de constituer une base de données expérimentale destinée à combattre les biais culturels des IA majoritairement anglo-saxonnes. L'outil pourra aussi servir à mieux valoriser les données auprès des grands groupes de la tech.
+{% hint style="success" %}
+Les données aussi sont importantes pour avoir des grands modèles de langage diversifiés et plus inclusifs. Pour ce faire, l’INA, BNF, CNRS ont comme [projet](https://www.lesechos.fr/tech-medias/intelligence-artificielle/intelligence-artificielle-la-france-se-lance-dans-la-bataille-culturelle-des-donnees-2041027) de constituer une base de données expérimentale destinée à combattre les biais culturels des IA majoritairement anglo-saxonnes. L'outil pourra aussi servir à mieux valoriser les données auprès des grands groupes de la tech.
+{% endhint %}
+
+
 
 ***
 
@@ -117,7 +115,7 @@ Les données aussi sont importantes pour avoir des grands modèles de langage di
 
 **A-t-on bien une cible ?**
 
-* Les agents des SRDT (>400)
+* Les agents des SRDT (>400 agents)
 * Les citoyens salariés en demande d’informations sur leurs droits liés au travail
 
 **Quel impact du service à améliorer par l'automatisation ?** Permet d’aider les demandeurs à mieux faire valoir leurs droits dans des procédures amiables ou contentieuses avec leurs employeurs.&#x20;
@@ -129,4 +127,4 @@ Les données aussi sont importantes pour avoir des grands modèles de langage di
 
 **Quelles sont les sources de données ?** Code du travail, conventions collectives de travail (CCT) qui défini les statuts (rémunérations, embauches, conditions de travail), jurisprudence sociale
 
-**Quelle valeur ajoutée par l'automatisation ?** L'automatisation apporte une valeur significative face au roulement important des agents et au manque de formation dans les SRDT. Elle permet aussi de gérer efficacement un volume massif de demandes (575 000), concernant plus d’un million d’objets de renseignement.
+**Quelle valeur ajoutée par l'automatisation ?** L'automatisation apporte une valeur significative face au roulement important des agents et au manque de formation dans les SRDT. Elle permet aussi de gérer efficacement un volume massif de demandes (575 000), concernant plus d’un million d’objets de renseignement par an.
