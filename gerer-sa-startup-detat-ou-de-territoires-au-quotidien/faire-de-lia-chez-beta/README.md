@@ -12,7 +12,7 @@ description: >-
 
 **L’IA est une solution technique, elle n’a pas réponse à tout et il est facile d’avoir de fausses bonnes idées.**
 
-En plus de bien définir le problème selon [le cadre type de la méthode beta](https://beta.gouv.fr/approche/investigation) (l’irritant qu’on souhaite adresser est majeur, actionnable, et bien ciblé), il faut se demander si automatiser est une bonne solution, contrefactuellement à d’autres possibles. Pour cela, il est conseillé de s’appuyer le Si vous avez consulté le _guide pour définir un problème métier actionnable par l'IA_.
+En plus de bien définir le problème selon [le cadre type de la méthode beta](https://beta.gouv.fr/approche/investigation) (l’irritant qu’on souhaite adresser est majeur, actionnable, et bien ciblé), il faut se demander si automatiser est une bonne solution, contrefactuellement à d’autres possibles. Pour cela, il est conseillé de s’appuyer sur le _guide pour définir un problème métier actionnable par l'IA_.
 
 {% content-ref url="guide-pour-definir-un-probleme-metier-actionnable-par-lia.md" %}
 [guide-pour-definir-un-probleme-metier-actionnable-par-lia.md](guide-pour-definir-un-probleme-metier-actionnable-par-lia.md)
