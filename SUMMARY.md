@@ -195,7 +195,6 @@
         * [Fondations et fonds de dotation](gerer-son-produit/la-vie-du-produit/perennisation/trajectoires-de-perennisation/4.-constitution-dune-structure-juridique-dediee-gip-scic-sas-scn-etc./4-fondations-et-fonds-de-dotation/README.md)
           * [Mode d'emploi](gerer-son-produit/la-vie-du-produit/perennisation/trajectoires-de-perennisation/4.-constitution-dune-structure-juridique-dediee-gip-scic-sas-scn-etc./4-fondations-et-fonds-de-dotation/creation-dune-fondation-ou-dun-fonds-de-dotation-mode-demploi.md)
           * [De la SET à la Fondation et au Fonds de dotation](gerer-son-produit/la-vie-du-produit/perennisation/trajectoires-de-perennisation/4.-constitution-dune-structure-juridique-dediee-gip-scic-sas-scn-etc./4-fondations-et-fonds-de-dotation/de-la-start-up-detat-a-la-fondation-et-au-fonds-de-dotation.md)
-    * [Fin de partenariat \[TODO\]](gerer-son-produit/la-vie-du-produit/perennisation/fin-de-partenariat-todo.md)
 * [🏃🏼‍♀️‍➡️ Gestion au quotidien](gerer-son-produit/gestion-au-quotidien/README.md)
   * [💰 Budget](gerer-son-produit/gestion-au-quotidien/budget/README.md)
     * [La facturation de A à Z](gerer-son-produit/gestion-au-quotidien/budget/la-facturation-de-a-a-z/README.md)

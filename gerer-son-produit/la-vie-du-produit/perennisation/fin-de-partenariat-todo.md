@@ -1,2 +1,0 @@
-# Fin de partenariat \[TODO]
-
