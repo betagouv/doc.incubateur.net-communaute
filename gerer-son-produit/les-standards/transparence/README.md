@@ -1,4 +1,4 @@
-# Transparence
+# ✅ Transparence
 
 ### Standards de transparence
 

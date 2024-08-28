@@ -12,3 +12,7 @@ Ruby ([Rails](https://rubyonrails.org/)) est aussi utilisé quand cela fonctionn
 {% hint style="info" %}
 Découvrir le livre blanc "comment réaliser un produit numérique" dans l'administration : sur [https://sillon.incubateur.net](https://sillon.incubateur.net/)
 {% endhint %}
+
+{% hint style="success" %}
+Plusieurs templates sont proposés par la communauté et permettent de démarrer rapidement un nouveau projet en embarquant nos recommandations :  [https://github.com/betagouv/?language=\&q=template\&sort=\&type=all](https://github.com/betagouv/?language=\&q=template\&sort=\&type=all)
+{% endhint %}

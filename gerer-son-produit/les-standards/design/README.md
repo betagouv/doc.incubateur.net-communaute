@@ -1,4 +1,4 @@
-# Design
+# ✅ Design
 
 {% content-ref url="dsfr/" %}
 [dsfr](dsfr/)

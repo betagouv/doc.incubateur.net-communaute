@@ -4,7 +4,7 @@ description: >-
   l'éco-conception.
 ---
 
-# Eco-conception numérique
+# ✅ Eco-conception numérique
 
 Consultez les recommandations pour l'écoconception de services numériques (RGESN) :
 

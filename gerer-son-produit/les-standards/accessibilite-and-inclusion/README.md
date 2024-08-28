@@ -1,4 +1,4 @@
-# Accessibilité & inclusion
+# ✅ Accessibilité & inclusion
 
 **L’accessibilité numérique, c’est la possibilité pour toutes et tous d’utiliser les services numériques, quelle que soit leur façon d’y accéder.**
 

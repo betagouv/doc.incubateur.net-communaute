@@ -4,7 +4,7 @@ description: >-
   poser, quelles actions entreprendre, et quelles ressources mobiliser.
 ---
 
-# Protection des données personnelles
+# ✅ Protection des données personnelles
 
 ## ⚕ Hygiène : grands principes valables par tous les temps
 
