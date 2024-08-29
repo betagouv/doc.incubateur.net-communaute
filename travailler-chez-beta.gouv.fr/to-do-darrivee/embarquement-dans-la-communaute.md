@@ -32,6 +32,6 @@ Un atelier pour les nouveaux arrivants est proposé au début du forum pour :
 * Parler de l'engagement au sein de la communauté : comment utiliser 10% de son temps de travail pour faire vivre et améliorer beta.gouv ;
 * Poser ses questions.
 
-{% content-ref url="embarquement-dev.md" %}
-[embarquement-dev.md](embarquement-dev.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}

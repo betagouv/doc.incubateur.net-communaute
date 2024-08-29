@@ -73,8 +73,8 @@ Cela vient avec quelques **règles d'hygiène informatique** pour assurer un niv
 
 Ces règles s'appliquent à tous les membres de la communauté, quelque soit votre accès à des informations sensibles.
 
-{% content-ref url="../../travailler-chez-beta.gouv.fr/to-do-darrivee/embarquement-dev.md" %}
-[embarquement-dev.md](../../travailler-chez-beta.gouv.fr/to-do-darrivee/embarquement-dev.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ## 3 - Et ensuite ?

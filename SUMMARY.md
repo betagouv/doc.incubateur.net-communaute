@@ -52,7 +52,6 @@
   * [Salariés des sociétés de prestation](travailler-chez-beta.gouv.fr/les-differents-statuts/salaries-des-societes-de-prestation/README.md)
 * [🙋 Candidater chez beta.gouv.fr](travailler-chez-beta.gouv.fr/guide-pour-les-candidats.md)
 * [🐥 Débuter chez beta.gouv.fr](travailler-chez-beta.gouv.fr/to-do-darrivee/README.md)
-  * [Embarquement dev](travailler-chez-beta.gouv.fr/to-do-darrivee/embarquement-dev.md)
   * [Les embarquements](travailler-chez-beta.gouv.fr/to-do-darrivee/embarquement-dans-la-communaute.md)
 * [🚪 Quitter beta.gouv.fr](travailler-chez-beta.gouv.fr/je-quitte-beta.gouv.fr.md)
 * [🧘🏻‍♀️ Vie quotidienne et bien être](travailler-chez-beta.gouv.fr/vie-quotidienne-et-bien-etre/README.md)
