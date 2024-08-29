@@ -55,7 +55,7 @@ Ici, on a le droit…
 * de demander à la hiérarchie de résoudre un problème
 * d'avoir un jour sans
 * de prendre sa journée
-* de saluer et d'être salué·e comme on le souhaite : avec ou [sans contact](http://romy.tetue.net/mille-milliards-de-mille-bises)
+* de saluer et d'être salué·e comme on le souhaite : avec ou sans contact
 * de dire "ce que tu viens de dire est déplacé" quand on est témoin ou victime d'une remarque sexiste, raciste ou plus généralement déplacée. Il est conseillé de ne pas en ajouter et notamment de ne pas sermonner. On parle aussi de "call-out" pour décrire ce protocole.
 
 _Cette charte est librement inspirée de celle de_ [_Gov.UK_](https://twitter.com/gilest/status/735131901900521472)_._

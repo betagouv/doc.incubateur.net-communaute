@@ -26,7 +26,7 @@ Elle est constituée de 5 agents :
 
 ### :briefcase: Le pôle Partenariats / Responsables de portefeuille ministériel
 
-Les [**responsables de portefeuille**](../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/les-differents-metiers-dans-une-startup-detat/responsables-de-portefeuille.md) s'occupent de soutenir les équipes produit et les incubateurs dans leurs travaux en fonction de leur périmètre ministériel :
+Les [**responsables de portefeuille** ](../../travailler-chez-beta.gouv.fr/les-differents-metiers/responsable-de-portefeuille/)s'occupent de soutenir les équipes produit et les incubateurs dans leurs travaux en fonction de leur périmètre ministériel :
 
 * **Yowa Muzadi** : Travail, Insertion et Armées
 * **Paul Burgun** : Justice
@@ -41,7 +41,7 @@ Les [**responsables de portefeuille**](../../gerer-sa-startup-detat-ou-de-territ
 
 ### :bullettrain\_front: Le pôle Accélération
 
-Ce pôle est en charge du [Fond d'Accélération des Startups d'Etat et de Territoires (FAST)](../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/acceleration/fonds-dacceleration-des-startups-detat.md) et en 2024 du Fonds Numérique pour la Planification Écologique. Il propose un accompagnement humain et financier. Il est composé de :
+Ce pôle est en charge du [Fond d'Accélération des Startups d'Etat et de Territoires (FAST)](../../gerer-son-produit/la-vie-du-produit/acceleration/fonds-dacceleration-des-startups-detat.md) et en 2024 du Fonds Numérique pour la Planification Écologique. Il propose un accompagnement humain et financier. Il est composé de :
 
 * **Paul Burgun**, Responsable du pôle
 * **Arnaud Robin**, Chargé d'accélération

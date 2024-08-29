@@ -12,7 +12,7 @@ L'incubateur est organisé en plusieurs pôles :
 
 * le pôle Animation et expertises : il garantit un environnement de travail le plus attractif possible, anime et outille le réseau des incubateurs ministériels, des intrapreneurs et des EIG, et fournit des expertises aux Startups d’État (tech, accessibilité...)
 * le pôle Partenariats : il est constitué de responsables de portefeuille, gérant chacun un portefeuille de Ministères, chargés de faire le lien entre la DINUM et les Ministères. Ils sont garants de la bonne application de la méthode beta.gouv.fr.
-* le pôle Accélération : il maximise l’impact et cofinance les produits numériques à plus grand potentiel ([FAST](../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/acceleration/fonds-dacceleration-des-startups-detat.md), FNPE)
+* le pôle Accélération : il maximise l’impact et cofinance les produits numériques à plus grand potentiel ([FAST](../../gerer-son-produit/la-vie-du-produit/acceleration/fonds-dacceleration-des-startups-detat.md), FNPE)
 * le pôle EIG (Entrepreneur.e.s d'intérêt général) : il recrute et accompagne des entrepreneur·e·s du numériques pour diriger des services numériques à impact
 * le pôle AIC (Accélérateur d'initiatives citoyennes) : il accompagne des communs numériques issus de la société civile au service de politiques publiques
 * le pôle Produits incubés : il construit des produits numériques incubés à la DINUM (car liés à des politiques prioritaires du gouvernement ou des politiques pour lesquels il n'existe pas encore d'incubateur ministériel)
@@ -42,14 +42,6 @@ L'incubateur de la DINUM se situe au 5e étage du bâtiment des services du Prem
 [lequipe-danimation-beta.gouv.fr.md](lequipe-danimation-beta.gouv.fr.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../presentation-de-beta.gouv.fr/incubateur-de-la-dinum/locaux.md" %}
-[locaux.md](../../presentation-de-beta.gouv.fr/incubateur-de-la-dinum/locaux.md)
-{% endcontent-ref %}
-
-{% content-ref url="../../presentation-de-beta.gouv.fr/incubateur-de-la-dinum/midi-et-soir/" %}
-[midi-et-soir](../../presentation-de-beta.gouv.fr/incubateur-de-la-dinum/midi-et-soir/)
-{% endcontent-ref %}
-
-{% content-ref url="../../presentation-de-beta.gouv.fr/incubateur-de-la-dinum/conge-maternite/" %}
-[conge-maternite](../../presentation-de-beta.gouv.fr/incubateur-de-la-dinum/conge-maternite/)
+{% content-ref url="../../travailler-chez-beta.gouv.fr/vie-quotidienne-et-bien-etre/travailler-dans-les-lieux-partages/locaux/" %}
+[locaux](../../travailler-chez-beta.gouv.fr/vie-quotidienne-et-bien-etre/travailler-dans-les-lieux-partages/locaux/)
 {% endcontent-ref %}

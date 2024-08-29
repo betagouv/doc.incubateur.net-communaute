@@ -14,4 +14,6 @@ Retrouvez dans le tableau suivant les différents guichets de financement auxque
 
 ## Plus d'infos
 
-[fonds-dacceleration-des-startups-detat.md](../la-vie-dune-se/acceleration/fonds-dacceleration-des-startups-detat.md "mention")
+{% content-ref url="../../la-vie-du-produit/acceleration/fonds-dacceleration-des-startups-detat.md" %}
+[fonds-dacceleration-des-startups-detat.md](../../la-vie-du-produit/acceleration/fonds-dacceleration-des-startups-detat.md)
+{% endcontent-ref %}
