@@ -29,6 +29,10 @@ Formats possibles :
 
 ## Ressources
 
-{% content-ref url="../../contribuer-a-la-communaute/je-securise-mon-produit/guide-rgpd-et-securite.md" %}
-[guide-rgpd-et-securite.md](../../contribuer-a-la-communaute/je-securise-mon-produit/guide-rgpd-et-securite.md)
+{% content-ref url="../../gerer-son-produit/les-standards/protection-des-donnees-personnelles/responsabilite-de-traitement/annexe-3-grands-principes-du-rgpd.md" %}
+[annexe-3-grands-principes-du-rgpd.md](../../gerer-son-produit/les-standards/protection-des-donnees-personnelles/responsabilite-de-traitement/annexe-3-grands-principes-du-rgpd.md)
+{% endcontent-ref %}
+
+{% content-ref url="../../gerer-son-produit/les-standards/protection-des-donnees-personnelles/" %}
+[protection-des-donnees-personnelles](../../gerer-son-produit/les-standards/protection-des-donnees-personnelles/)
 {% endcontent-ref %}

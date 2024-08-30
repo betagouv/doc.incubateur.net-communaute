@@ -26,8 +26,8 @@ Tu vas recevoir un mail d'invitation.
 
 * obtenir un email @beta.gouv.fr (il sera créé à ta première connexion, si tu n'as pas déjà un email de service public)
 * compléter les informations de ta fiche membre
-* être invités aux outils de travail des équipes : messagerie collaborative Mattermost[^1][,](../mattermost/) [outil de visio](../../travailler-chez-beta.gouv.fr/jutilise-les-outils-de-la-communaute/faire-une-visio/), accès au [Github](../../travailler-chez-beta.gouv.fr/jutilise-les-outils-de-la-communaute/github/), etc.
-* bénéficier de services : [accès aux locaux](../../decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/badge-pour-travailler-a-segur/) de l'incubateur de la DINUM, recevoir l'infolettre, accéder aux [formations](../../travailler-chez-beta.gouv.fr/se-former/) proposées par la communauté, bénéficier d'aides pour son équipe et son produit (UX, juridique, sécurité, accessibilité, etc.)
+* être invités aux outils de travail des équipes : messagerie collaborative Mattermost[^1], accès au [Github](../autres/github.md), etc.
+* bénéficier de services :[ accès aux locaux](../../travailler-chez-beta.gouv.fr/vie-quotidienne-et-bien-etre/travailler-dans-les-lieux-partages/locaux/) de l'incubateur de la DINUM, recevoir l'infolettre, accéder aux [formations](../../travailler-chez-beta.gouv.fr/se-former/) proposées par la communauté, bénéficier d'aides pour son équipe et son produit (UX, juridique, sécurité, accessibilité, etc.)
 
 #### Que faire si tu n'as pas activé ton email beta.gouv.fr et que le lien d'activation est expiré ?
 
@@ -49,7 +49,7 @@ En ayant un compte Github, tu gagneras en autonomie durant ta mission dans une �
 
 ## Prendre connaissance des règles d'hygiène informatique et de sécurité (politique [BYOD](https://fr.wikipedia.org/wiki/Bring\_your\_own\_device))
 
-Chez beta.gouv.fr, que tu sois [salarié d'une société de prestation](../../travailler-chez-beta.gouv.fr/actions-transverses/sengager-dans-une-action-transverse/salaries-des-societes-de-prestation.md) ou au [statut d'indépendant](../../travailler-chez-beta.gouv.fr/actions-transverses/sengager-dans-une-action-transverse/independants-freelances.md), on te demandera de venir avec ton propre équipement, que ce soit ton ordinateur ou ton téléphone. Tu as le droit de venir avec ton propre équipement quand tu es [agent public](../../travailler-chez-beta.gouv.fr/actions-transverses/les-differents-statuts/fonctionnaires-et-contractuels-de-la-fonction-publique.md) également. Nous acceptons tous les OS tant qu'ils sont à jour.
+Chez beta.gouv.fr, que tu sois[ salarié d'une société de prestation](../../travailler-chez-beta.gouv.fr/les-differents-statuts/salaries-des-societes-de-prestation/) ou au [statut d'indépendant](../../travailler-chez-beta.gouv.fr/les-differents-statuts/independants-freelances/), on te demandera de venir avec ton propre équipement, que ce soit ton ordinateur ou ton téléphone. Tu as le droit de venir avec ton propre équipement quand tu es[ agent public](../../travailler-chez-beta.gouv.fr/les-differents-statuts/fonctionnaires-et-contractuels-de-la-fonction-publique.md) également. Nous acceptons tous les OS tant qu'ils sont à jour.
 
 Cela vient avec quelques **règles d'hygiène informatique** pour assurer un niveau convenable de sécurité. Les règles suivantes sont **obligatoires** lorsque tu interviens sur une mission pour beta.gouv.fr.
 

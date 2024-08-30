@@ -22,7 +22,7 @@ Tu peux demander de l'aide sur ces sujets sur Mattermost dans 🔒`~incubateur-o
 
 ### Hébergement
 
-Quel que soit votre choix d'hébergement, pensez à bien documenter votre infrastructure et respecter [les 12 facteurs](https://12factor.net/fr/) pour une meilleure portabilité de votre application :)
+Quel que soit votre choix d'hébergement, pensez à bien documenter votre infrastructure et respecter [les 12 facteurs](https://12factor.net/fr/) pour une meilleure portabilité de votre application.
 
 {% hint style="info" %}
 Le label « SecNumCloud » est nécessaire seulement dans le cadre du champ d’application de l’[article 31 de la loi SREN](https://www.legifrance.gouv.fr/jorf/article\_jo/JORFARTI000049563610) , c'est à dire lorsqu'il y a une sensibilité particulière sur les données, qu'elles soient personnelles ou stratégiques. \
@@ -69,13 +69,13 @@ Vos utilisateurs ont besoin de téléverser (uploader) des images ou des fichier
 
 Voici une liste (non exhaustive) d'hébergeurs régulièrement utilisés. Pensez à chiffrer les données si nécessaire.
 
-| Service                               | -                                                                                                 |
-| ------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| 🇫🇷 Scaleway                         | Object Storage (compatible S3 ; [lien](https://www.scaleway.com/fr/object-storage/))              |
-| 🇫🇷 Clever Cloud (HDS)               | Cellar (compatible S3 ; [lien](https://www.clever-cloud.com/cellar-s3-hosting/))                  |
-| 🇫🇷 OVH (HDS)                        | Object Storage (compatible S3 ; [lien](https://www.ovhcloud.com/en/public-cloud/object-storage/)) |
-| 🇫🇷 OutScale (HDS+SecNumCloud)       | Object Storage (compatible S3 ; [lien](https://fr.outscale.com/solutions-stockage-cloud/oos/))    |
-| 🇫🇷 Cloud Template (HDS+SecNumCloud) | Object Storage (compatible S3 ; [lien](https://www.cloud-temple.com/produits/stockage-objet/))    |
+| Service                             | -                                                                                                 |
+| ----------------------------------- | ------------------------------------------------------------------------------------------------- |
+| 🇫🇷 Scaleway                       | Object Storage (compatible S3 ; [lien](https://www.scaleway.com/fr/object-storage/))              |
+| 🇫🇷 Clever Cloud (HDS)             | Cellar (compatible S3 ; [lien](https://www.clever-cloud.com/cellar-s3-hosting/))                  |
+| 🇫🇷 OVH (HDS)                      | Object Storage (compatible S3 ; [lien](https://www.ovhcloud.com/en/public-cloud/object-storage/)) |
+| 🇫🇷 OutScale (HDS+SecNumCloud)     | Object Storage (compatible S3 ; [lien](https://fr.outscale.com/solutions-stockage-cloud/oos/))    |
+| 🇫🇷 Cloud Temple (HDS+SecNumCloud) | Object Storage (compatible S3 ; [lien](https://www.cloud-temple.com/produits/stockage-objet/))    |
 
 {% hint style="info" %}
 Certains produits stockent avec succès leurs fichiers directement dans PostgreSQL, n'hésitez pas à challenger votre approche via le canal \~domaine-dev de mattermost :)

@@ -38,12 +38,22 @@ La conformité ne s'atteint pas en un jour et ça n'est pas grave : c'est **l'en
 [consolidation.md](kit-accessibilite/consolidation.md)
 {% endcontent-ref %}
 
+## Rendre un service inclusif
+
+{% content-ref url="../../standards/accessibilite-inclusion/rendre-un-service-inclusif/quest-ce-que-linclusion.md" %}
+[quest-ce-que-linclusion.md](../../standards/accessibilite-inclusion/rendre-un-service-inclusif/quest-ce-que-linclusion.md)
+{% endcontent-ref %}
+
+{% content-ref url="../../standards/accessibilite-inclusion/rendre-un-service-inclusif/" %}
+[rendre-un-service-inclusif](../../standards/accessibilite-inclusion/rendre-un-service-inclusif/)
+{% endcontent-ref %}
+
 ## Accompagnement
 
 {% content-ref url="../../../travailler-chez-beta.gouv.fr/se-former/se-former-en-ligne/formation-a-laccessibilite/sensibilisation-a-laccessibilite.md" %}
 [sensibilisation-a-laccessibilite.md](../../../travailler-chez-beta.gouv.fr/se-former/se-former-en-ligne/formation-a-laccessibilite/sensibilisation-a-laccessibilite.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../../ressources/communaute/accessibilite/broken-reference/" %}
-[broken-reference](../../../ressources/communaute/accessibilite/broken-reference/)
+{% content-ref url="../../../travailler-chez-beta.gouv.fr/se-former/se-former-en-ligne/formation-a-laccessibilite/" %}
+[formation-a-laccessibilite](../../../travailler-chez-beta.gouv.fr/se-former/se-former-en-ligne/formation-a-laccessibilite/)
 {% endcontent-ref %}

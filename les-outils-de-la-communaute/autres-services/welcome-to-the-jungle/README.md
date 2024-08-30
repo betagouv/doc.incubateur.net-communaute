@@ -68,7 +68,7 @@ En cas de diffusion d'une offre en prestation (ex : freelance), suivre le proces
 [obtenir-une-prestation](../../../gerer-son-produit/gestion-au-quotidien/budget/obtenir-une-prestation/)
 {% endcontent-ref %}
 
-Le compte [LinkedIn](../../autres/reseaux-sociaux/annoncer-un-recrutement-sur-le-compte-linkedin-de-beta.gouv.md) de beta.gouv.fr est un excellent relais pour diffuser l'annonce.
+Le compte LinkedIn de beta.gouv.fr est un excellent relais pour diffuser l'annonce.
 
 ## Diffuser une offre
 

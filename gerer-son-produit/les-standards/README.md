@@ -67,6 +67,7 @@ Un "**standard**" c’est un critère d’évaluation explicite de quelque chose
 {% endcontent-ref %}
 
 * Les mentions légales et CGU sont à jour
+* Le règlement RGPD est respecté
 * Le consentement des usagers est recueilli quand nécessaire
 * L'équipe a engagé une démarche AIPD
 

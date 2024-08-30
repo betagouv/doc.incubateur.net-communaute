@@ -15,9 +15,3 @@ Nous encourageons chaque équipe à proposer une **démonstration** de son produ
 
 * caler un créneau dans l'[agenda public de l'incubateur](https://calendar.google.com/calendar/u/0/embed?src=0ieonqap1r5jeal5ugeuhoovlg@group.calendar.google.com\&ctz=Europe/Paris) avec un lien de visio ou une localisation physique lorsque c'est possible ;
 * communiquer pour informer les personnes susceptibles d'être intéressées : via Mattermost ou via l'infolettre hebdomadaire de beta.gouv.fr.
-
-Pour plus d'informations sur l'annonce d'un événement à la communauté :
-
-{% content-ref url="../../../contribuer-a-la-communaute/partager-ses-apprentissages/broken-reference/" %}
-[broken-reference](../../../contribuer-a-la-communaute/partager-ses-apprentissages/broken-reference/)
-{% endcontent-ref %}
