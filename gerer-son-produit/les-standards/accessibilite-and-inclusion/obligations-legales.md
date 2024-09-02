@@ -23,7 +23,7 @@ Manquer aux obligations déclaratives est passible d'une amende de 20 000 €, p
 
 ### **Obligation d'engagement**
 
-Chaque équipe doit aussi **référencer la politique d’accessibilité** en référençant un schéma pluri-annuel. Ce document contient entre autres :
+Chaque équipe doit aussi **référencer la politique d’accessibilité** via un schéma pluri-annuel. Ce document contient entre autres :
 
 * des informations sur la **personne référente accessibilité numérique**
 * les **formations** et **sensibilisations** à l'accessibilité prévues
@@ -32,10 +32,10 @@ Chaque équipe doit aussi **référencer la politique d’accessibilité** en r�
 
 Les informations obligatoires sont décrites sur la page [Schéma pluriannuel de mise en accessibilité](https://accessibilite.numerique.gouv.fr/obligations/schema-pluriannuel/).
 
-Chaque équipe doit référencer un schéma, parmi :
+Chaque produit doit référencer un schéma, parmi :
 
-* le schéma pluriannuel de l'incubateur (s'il existe)
-* le schéma pluriannuel de leur administration sponsor (à retrouver sur la page Accessibilité du ministère) si elle existe...)
+* le schéma pluriannuel de son incubateur (s'il existe)
+* le schéma pluriannuel de son administration sponsor - à retrouver sur la page Accessibilité du sponsor - si elle existe...)
 * le [schéma pluriannuel](https://beta.gouv.fr/accessibilite/) de beta.gouv.fr par défaut sinon
 
 Chaque équipe peut ensuite proposer son **Plan d'action** pour l'année en cours. Il s'agit d'une liste ou d'un tableau indiquant les grandes étapes de mise en accessibilité. Par exemple :
@@ -63,17 +63,22 @@ Voici quelques prestataires reconnus dans le secteur : Access42, Atalan, Idéanc
 
 À titre indicatif, voici quelques informations :
 
-* Un audit de conformité ne dure que quelques jours, mais les cabinets d'experts peuvent avoir plusieurs semaines ou mois de délais. (Ce sont les corrections suite à l'audit qui sont plus longues en temps !)
+* Un audit de conformité ne dure que quelques jours, mais les cabinets d'experts peuvent avoir plusieurs semaines ou mois de délais avant de pouvoir commencer l'audit.
+* Le plus chronophage sont les corrections suite à l'audit !
 * En terme de budget, il faut compter environ 5000 € (mais cela peut être plus selon la complexité du site).
+* Un audit s'anticipe. Mieux vaut le préparer pour éviter de perdre du temps et de l'argent.
+* Vous pouvez acheter une prestation d'_audit simple_ ou d'_audit et contre-audit._ Le contre-audit permet de vérifier que les corrections appliquées par l'équipe ont bien été faites.
 
-_Note : il est aussi possible de faire un audit en interne. Cependant, cet exercice étant très technique et chronophage, il est recommandé de le déléguer à des personnes formées, par exemple s'étant engagée dans la_ [_charte d’engagement du CNCPH pour les audits de conformités RGAA_](https://cncph.fr/charte-rgaa/)_._
+_Note : il est possible légalement de faire l'audit RGAA en interne. Cependant, cet exercice étant très technique et chronophage, il est recommandé de le déléguer à des personnes formées, par exemple s'étant engagée dans la_ [_charte d’engagement du CNCPH pour les audits de conformités RGAA_](https://cncph.fr/charte-rgaa/)_._
 
 ## Préparer un audit RGAA
 
 Le [Pôle Numérique Inclusif](../../../solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/aide-transverse-pole-numerique-inclusif.md) peut vous aider à préparer un audit RGAA. Faire un **pré** **audit** en amont du l'audit RGAA vous permettra d'identifier les points d'accessibilité les points les plus bloquants. L'équipe pourra ainsi se préparer, corriger les erreurs les plus évidents et faciliter l'audit RGAA à venir.
 
+Le [Pôle Numérique Inclusif](../../../ressources/je-sollicite-de-laide-transverse/aide-transverse-pole-numerique-inclusif.md) peut vous aider à préparer un audit RGAA. Faire un **pré** **audit** en amont du l'audit RGAA vous permettra d'identifier les points d'accessibilité les points les plus bloquants. L'équipe pourra ainsi se préparer, corriger les erreurs les plus évidents et faciliter l'audit RGAA à venir.
+
 {% hint style="info" %}
-**👉** [**Demander un audit par le Pole Numérique Inclusif**](https://docs.google.com/forms/d/1L4DOpBS9ibJWmWyypOOyB86ExGPLz-IwUuunazugsBU/edit)
+**👉** [**Demander un pré audit par le Pole Numérique Inclusif**](https://docs.google.com/forms/d/1L4DOpBS9ibJWmWyypOOyB86ExGPLz-IwUuunazugsBU/edit)
 {% endhint %}
 
 ## **Pour aller plus loin**

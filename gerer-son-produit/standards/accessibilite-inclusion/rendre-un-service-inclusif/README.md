@@ -35,3 +35,7 @@ Ce guide a pour but de vous donner des clés pour concevoir pour tout le monde.
 {% content-ref url="../../../les-standards/accessibilite-and-inclusion/" %}
 [accessibilite-and-inclusion](../../../les-standards/accessibilite-and-inclusion/)
 {% endcontent-ref %}
+
+{% content-ref url="../accessibilite-et-rgaa/" %}
+[accessibilite-et-rgaa](../accessibilite-et-rgaa/)
+{% endcontent-ref %}
