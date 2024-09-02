@@ -42,7 +42,7 @@ Il convient que la Startup d'État qui souhaite passer en phase d'accélération
 
 ### **Ressource utile : en apprendre plus sur le Growth Hacking** <a href="#ressource-utile-en-apprendre-plus-sur-le-growth-hacking" id="ressource-utile-en-apprendre-plus-sur-le-growth-hacking"></a>
 
-Le Growth Hacking (GH) recouvre toutes les tactiques d'acquisition, de conversion (activation), de rétention (fidélisation) d'utilisateurs d'une Startup. Ils participent à augmenter l'impact d'un produit. Pour en savoir plus sur cette pratique, vous pouvez consultez la fiche [Growth Hacking](../../je-sollicite-de-laide-transverse/growth-hacking-acquisition.md) du guide pour la communauté ainsi que la fiche [Les principes du Growth Hacking](../../jactive-la-croissance-de-ma-se-growth-hacking/les-principes-du-growth-hacking/).
+Le Growth Hacking (GH) recouvre toutes les tactiques d'acquisition, de conversion (activation), de rétention (fidélisation) d'utilisateurs d'une Startup. Ils participent à augmenter l'impact d'un produit. Pour en savoir plus sur cette pratique, vous pouvez consultez la fiche [Growth Hacking](../../../solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/growth-hacking-acquisition.md) du guide pour la communauté ainsi que la fiche [Les principes du Growth Hacking](../../../travailler-chez-beta.gouv.fr/se-former/se-former-en-ligne/deploiement/les-principes-du-growth-hacking/).
 
 ## **Quel accompagnement possible ?** <a href="#quel-accompagnement-possible" id="quel-accompagnement-possible"></a>
 

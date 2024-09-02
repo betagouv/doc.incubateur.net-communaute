@@ -26,7 +26,7 @@ Chaque membre de la communauté est également livre d'organiser un événement 
 
 Tous les membres de la communauté sont légitimes à organiser et animer des formations pour partager ses connaissances.
 
-Tu peux consulter les formations à venir et proposer une formation [sur cette page](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/se-former/les-formations-a-venir).
+Tu peux consulter les formations à venir et proposer une formation [sur cette page.](../../travailler-chez-beta.gouv.fr/se-former/animer-une-formation.md)
 
 Si tu as une question sur une formation ou si tu veux faire la communication d'une formation que tu organises 👉 poste un message sur le canal Mattermost [\~incubateur-formations](https://mattermost.incubateur.net/betagouv/channels/incubateur-formations).
 
@@ -34,7 +34,7 @@ Si tu as une question sur une formation ou si tu veux faire la communication d'u
 [se-former](../../travailler-chez-beta.gouv.fr/se-former/)
 {% endcontent-ref %}
 
-## ⚙️**Aider à résoudre une problématique de la communauté**
+## ⚙️ **Aider à résoudre une problématique de la communauté**
 
 Tu as un irritant au sein de la communauté et tu souhaites participer à améliorer la situation ? Contacte l'équipe d'animation envoyant un mail à _**dinum@beta.gouv.fr**_ ou en mettant un message sur le canal [\~incubateur-communauté](https://mattermost.incubateur.net/betagouv/channels/incubateur-communautexp). L'équipe pourra t'aider à rejoindre une initiative en cours ou à créer un groupe de travail.
 

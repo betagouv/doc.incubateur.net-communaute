@@ -52,12 +52,12 @@ Pour résumer, et même si cela semble trivial, le GH est le plus utile pour une
 
 ## Qui propose de l'aide ?
 
-* \*\*\*\*[**Chaïb Martinez**](https://www.linkedin.com/in/chaibmartinez/?originalSubdomain=fr), Growth _engineer_ @beta
+* [**Chaïb Martinez**](https://www.linkedin.com/in/chaibmartinez/?originalSubdomain=fr), Growth _engineer_ @beta
 
 ## Le format
 
 * Interventions ponctuelles auprès de startups ;
-* Ateliers collectifs en visio tous les mois. 👉 [**Plus de 20h en replay ici**](../../contribuer-a-la-communaute/jactive-la-croissance-de-ma-se-growth-hacking/les-principes-du-growth-hacking/)\*\*\*\*
+* Ateliers collectifs en visio tous les mois. 👉 [**Plus de 20h en replay ici**](../../travailler-chez-beta.gouv.fr/se-former/se-former-en-ligne/deploiement/les-principes-du-growth-hacking/)
 * Aide au recrutement d'un.e Growth Hacker ou d'un Bizdev.
 
 ## Comment demander de l'aide sur la croissance de votre produit ?

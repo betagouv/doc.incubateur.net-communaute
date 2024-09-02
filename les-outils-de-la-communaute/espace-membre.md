@@ -16,14 +16,14 @@ L'espace-membre permet :
 Veille à mettre à jour régulièrement les dates de mission, employeur et startups sur lesquelles tu interviens, sinon tu risques de perdre tes accès très fort.
 {% endhint %}
 
-{% content-ref url="espace-membre/faq-espace-membre.md" %}
-[faq-espace-membre.md](espace-membre/faq-espace-membre.md)
-{% endcontent-ref %}
-
 {% content-ref url="espace-membre/premier-pas-indispensable-creer-ta-fiche-membre.md" %}
 [premier-pas-indispensable-creer-ta-fiche-membre.md](espace-membre/premier-pas-indispensable-creer-ta-fiche-membre.md)
 {% endcontent-ref %}
 
 {% content-ref url="espace-membre/gerer-sa-fiche-produit.md" %}
 [gerer-sa-fiche-produit.md](espace-membre/gerer-sa-fiche-produit.md)
+{% endcontent-ref %}
+
+{% content-ref url="espace-membre/faq-espace-membre.md" %}
+[faq-espace-membre.md](espace-membre/faq-espace-membre.md)
 {% endcontent-ref %}

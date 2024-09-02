@@ -5,7 +5,7 @@ description: >-
   sécurité et t'inscrire à l'atelier d'embarquement.
 ---
 
-# Créer une fiche membre
+# Créer/Modifier une fiche membre
 
 ## Invitation par une autre personne de la communauté
 
@@ -15,7 +15,7 @@ description: >-
 L**a création d'une fiche membre doit être initiée par un membre actif de communauté**.
 {% endhint %}
 
-* Une personne de la communauté doit t'inviter via [la page “Communauté / Créer une fiche”](https://espace-membre.incubateur.net/community/create) de l’espace communauté.
+* Une personne de la communauté doit t'inviter via [la page “Communauté / Créer une fiche”](https://espace-membre.incubateur.net/community/create) de l’espace membre.
 * Un email de bienvenue sera envoyé au membre invité dans l'heure suivante.
 
 ## Connecte toi à l'espace membre

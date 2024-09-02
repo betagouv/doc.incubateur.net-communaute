@@ -53,8 +53,8 @@ La CNIL a apporté de nouvelles recommandations en matière de politique de cook
 * Exemple : Analytics non anonymisés, fonts & images… Tout le reste qui n’est pas “strictement nécessaire” au fonctionnement du site.
 * Solution : un bandeau cookies qui répond à toutes les recommandations CNIL (possibilité de paramétrer chaque cookie, etc.).
 
-{% content-ref url="../../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-securise-mon-produit/" %}
-[je-securise-mon-produit](../../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-securise-mon-produit/)
+{% content-ref url="../../../gerer-son-produit/les-standards/protection-des-donnees-personnelles/" %}
+[protection-des-donnees-personnelles](../../../gerer-son-produit/les-standards/protection-des-donnees-personnelles/)
 {% endcontent-ref %}
 
 ## Je travaille sur une SE et je monte une startup à côté. j'aimerais que les Startups d'État intègrent ma solution.
@@ -62,7 +62,8 @@ La CNIL a apporté de nouvelles recommandations en matière de politique de cook
 Les startup d’Etat sont financées par de l’argent public et ont pour but de développer et d’améliorer la réalisation des missions de service public de l’administration. Dans ce cadre, ce qui est produit par les équipes répondent à deux impératifs :
 
 * le premier étant un impératif légal ([loi CADA](https://www.cada.fr/connaitre-la-loi-cada) notamment), répondant aux règles des “documents administratifs” et de l’_open data_, obligeant à “ouvrir” toute donnée produite dans le cadre de la réalisation de la mission de service public . Par exemple, les codes sources ainsi développés pour créer des nouveaux services publics numériques répondent à ces obligations.
-* le second étant un impératif éthique, répondant aux règles édictées par la communauté beta.gouv sur l’ouverture, le partage et la valorisation des données publiques (voir le [Manifeste](https://beta.gouv.fr/approche/manifeste) & le [Kit de démarrage des stratups](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/construction/kit-de-demarrage#standards-de-qualite-logicielle)).
+* le second étant un impératif éthique, répondant aux règles édictées par la communauté beta.gouv sur l’ouverture, le partage et la valorisation des données publiques (voir le [Manifeste](https://beta.gouv.fr/approche/manifeste)).
 
-**Aussi, toujours selon ces principes, il est formellement interdit de se servir du cadre administratif des Startups d’Etat pour développer des projets personnels et privés, qu’ils aient une vocation commerciale ou non. En cas de doute ou pour toute question à ce sujet, n’hésitez pas à solliciter le chan \~domaine-juridique.**\
+**Aussi, toujours selon ces principes, il est formellement interdit de se servir du cadre administratif des Startups d’Etat pour développer des projets personnels et privés, qu’ils aient une vocation commerciale ou non. En cas de doute ou pour toute question à ce sujet, n’hésitez pas à solliciter le canal \~domaine-juridique.**\
+\
 **Tout développement de produit devra être guidé par l’intérêt général et la mission de service public, et devra laisser son code en open source.**

@@ -80,6 +80,14 @@ Si tu n'as pas d'email secondaire ou qu'il a changé, tu peux demander dans \~in
 
 </details>
 
+<details>
+
+<summary>Je veux mettre à jour mes dates de mission</summary>
+
+Tu peux te rendre [sur l'espace membre](../espace-membre.md) et modifier tes missions dans ton compte.
+
+</details>
+
 {% hint style="info" %}
 Besoin d'aide ? N'hésite pas à demander un coup de main aux personnes de ton équipe, ou d'un ou d'une collègue. Tu peux aussi solliciter l'aide de la communauté sur le canal [\~incubateur-entraide-communauté](https://mattermost.incubateur.net/betagouv/channels/incubateur-help) si tu accèdes encore à Mattermost.
 {% endhint %}

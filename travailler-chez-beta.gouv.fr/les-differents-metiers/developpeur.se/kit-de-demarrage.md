@@ -13,7 +13,7 @@ La communauté beta.gouv est composée de **près de 300 développeur/euses qui 
 
 ## Faut-il commencer à coder dès le début ?
 
-Pas nécessairement ! Il peut être très pertinent de démarrer un projet en utilisant des technologies ["No Code"](../../jactive-la-croissance-de-ma-se-growth-hacking/no-code.md) ou en mode "conciergerie" (traiter les demandes utilisateurs à la main dans un premier temps) afin de valider très rapidement des hypothèses de problèmes (et donc de solution). La marque d'un très bon dev est de savoir choisir le meilleur outil en fonction du contexte et de l'état d'avancement du produit et de ne pas foncer tête baissée dans une solution technique.
+Pas nécessairement ! Il peut être très pertinent de démarrer un projet en utilisant des technologies "No Code" ou en mode "conciergerie" (traiter les demandes utilisateurs à la main dans un premier temps) afin de valider très rapidement des hypothèses de problèmes (et donc de solution). La marque d'un très bon dev est de savoir choisir le meilleur outil en fonction du contexte et de l'état d'avancement du produit et de ne pas foncer tête baissée dans une solution technique.
 
 {% hint style="warning" %}
 Beaucoup d'outils "No Code" ne sont pas hébergés en France et/ou ne sont pas adaptés au stockage de données sensibles !&#x20;
@@ -41,6 +41,10 @@ N'hésite pas à challenger ton équipe si tu considères que te lancer dans le 
 **sillon** est le livre blanc qui recense toutes nos recommandations pour lancer un service numérique dans l'administration : [https://sillon.incubateur.net](https://sillon.incubateur.net)
 {% endhint %}
 
+{% hint style="info" %}
+Plusieurs templates sont proposés par la communauté et permettent de démarrer rapidement un nouveau projet en embarquant nos recommandations :  [https://github.com/betagouv/?language=\&q=template\&sort=\&type=all](https://github.com/betagouv/?language=\&q=template\&sort=\&type=all)
+{% endhint %}
+
 ### Standards de qualité beta.gouv.fr
 
 {% hint style="danger" %}
@@ -62,10 +66,6 @@ Ne pas respecter les standards de qualité devra être justifié.
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
 {% endcontent-ref %}
-
-{% hint style="info" %}
-Plusieurs templates sont proposés par la communauté et permettent de démarrer rapidement un nouveau projet en embarquant nos recommandations :  [https://github.com/betagouv/?language=\&q=template\&sort=\&type=all](https://github.com/betagouv/?language=\&q=template\&sort=\&type=all)
-{% endhint %}
 
 Pour t'aider à situer ta Startup d'État par rapport à ces standards de qualité, ajoute ton url à l'outil [DashLord](https://dashlord.incubateur.net) en ouvrant une PR [ici](https://github.com/betagouv/dashlord/blob/main/dashlord.yml). Tu trouveras plus d'informations sur la page ci-dessous.
 

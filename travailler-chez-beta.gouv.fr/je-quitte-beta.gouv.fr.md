@@ -2,21 +2,21 @@
 description: Tu nous quittes ? On espère que tu as passé un moment positif avec nous !
 ---
 
-# 🚪 Je quitte beta.gouv.fr
+# 🚪 Quitter beta.gouv.fr
 
 ## Que faire avant sa date de fin de mission ?
 
 ### Si ta mission est prolongée
 
-Tu peux [mettre à jour tes dates de mission](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/outils/mise-a-jour-de-mes-informations#comment-mettre-a-jour-mes-dates-de-mission)
+Tu peux mettre à jour tes dates de mission [sur l'espace-membre](../les-outils-de-la-communaute/espace-membre.md).
 
 ### Si ta mission se finit, que faire avant mon départ de beta.gouv ?
 
 #### Actions indispensables
 
-* [ ] Renseigner ta date de départ exacte dans ta fiche sur beta.gouv.fr. Voici la [marche à suivre](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/outils/mise-a-jour-de-mes-informations#comment-mettre-a-jour-mes-dates-de-mission)
+* [ ] Renseigner ta date de départ exacte dans [ton espace membre](../les-outils-de-la-communaute/espace-membre.md).
 * [ ] Retirer tes droits d'écriture de [l'agenda public de l'incubateur](https://calendar.google.com/calendar/embed?src=0ieonqap1r5jeal5ugeuhoovlg%40group.calendar.google.com\&ctz=Europe/Paris).
-* [ ] Si tu utilises Github : quitter l'organisation BetaGouv
+* [ ] Si tu utilises GitHub : quitter l'organisation BetaGouv
 
 #### C'est optionnel
 
@@ -64,7 +64,7 @@ L'équipe dev transverse améliore ces alertes au fil des semaines. **Seules cel
 
 ### Comment prolonger ma date de fin de mission ?
 
-Si ta mission est prolongée, tu peux [mettre à jour ta date de fin de mission dans ta fiche membre](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/outils/mise-a-jour-de-mes-informations#comment-mettre-a-jour-mes-dates-de-mission).
+Si ta mission est prolongée, tu peux [mettre à jour ta date de fin de mission dans ta fiche membre.](../les-outils-de-la-communaute/espace-membre/faq-espace-membre.md#je-veux-mettre-a-jour-mes-dates-de-mission)
 
 ### Que va devenir mon email @beta.gouv.fr après mon départ ?
 
