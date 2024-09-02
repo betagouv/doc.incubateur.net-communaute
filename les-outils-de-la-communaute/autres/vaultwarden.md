@@ -45,7 +45,7 @@ Un **secret** est une donnée que vous souhaitez stocker de manière sécurisée
 
 Dans le vocabulaire de l’outil, un secret est appelé **élément.**
 
-Chaque **élément** (_**secret**_) correspond au type de donnée spécifique que vous souhaitez stocker. 
+Chaque **élément** (_**secret**_) correspond au type de donnée spécifique que vous souhaitez stocker.
 
 Vous pouvez gérer les types d’**éléments** suivants :
 
@@ -56,7 +56,9 @@ Vous pouvez gérer les types d’**éléments** suivants :
 
 ### 🗃️ Collections <a href="#f0-9f-97-83-ef-b8-8f-collections" id="f0-9f-97-83-ef-b8-8f-collections"></a>
 
-Chaque **élément** (_**secret**_) appartient à une **collection**, qui est une sorte de dossier thématique lié à son contexte d’utilisation.\nPar exemple, chaque startup possède sa propre **collection** qui regroupe tous les **éléments** (_**secrets**_) qui lui sont liés.
+Chaque **élément** (_**secret**_) appartient à une **collection**, qui est une sorte de dossier thématique lié à son contexte d’utilisation.
+
+Par exemple, dans une équipe on peut avoir une collection "tech" et une collection "bizdev" pour séparer les accès à chaque équipe.
 
 #### 📂 Dossiers <a href="#f0-9f-93-82-dossiers" id="f0-9f-93-82-dossiers"></a>
 
@@ -64,14 +66,9 @@ Chaque **collection** peut contenir un ou plusieurs **dossiers**, qui permettent
 
 ### 🏢 Organisation <a href="#f0-9f-8f-a2-organisation" id="f0-9f-8f-a2-organisation"></a>
 
-Enfin, l’ensemble des **collections** et **éléments** appartiennent à une **organisation**, qui représente le contexte organisationnel global (pour nous, l’_Incubateur des Territoires_).
+Enfin, l’ensemble des **collections** et **éléments** appartiennent à une **organisation**, qui représente le contexte organisationnel global (par exemple une startup ou une équipe).
 
 ### 🔐 Coffres <a href="#f09f9490-coffres-1" id="f09f9490-coffres-1"></a>
-
-Vous disposez de deux coffres :
-
-* **Mon coffre** : votre coffre-fort personnel
-* **Incubateur des territoires coffre** : coffre-fort contenant les collections partagées avec vous par votre organisation
 
 En cliquant sur un coffre, d’outil affiche en vrac tous les secrets (éléments) qu’il contient, en parcourant chaque **dossier** et **collection**.
 
@@ -130,7 +127,7 @@ En lançant bitwarden pour la première fois, vous arrivez sur un écran similai
 4. Vous pouvez maintenant saisir votre mot de passe Vaultwarden (1) et cliquer sur le bouton “_Se connecter avec le mot de passe principal_“
 5. Bienvenue sur bitwarden !
 
-Vous pouvez maintenant gérer vos secrets à votre guise. Ils sont automatiquement synchronisés entre votre (vos) logiciel(s) bitwarden et le serveur Vaultwarden. 
+Vous pouvez maintenant gérer vos secrets à votre guise. Ils sont automatiquement synchronisés entre votre (vos) logiciel(s) bitwarden et le serveur Vaultwarden.
 
 Ainsi, si le serveur Vaultwarden était indisponible, vous auriez toujours accès aux secrets synchronisés.
 
@@ -141,4 +138,3 @@ Ainsi, si le serveur Vaultwarden était indisponible, vous auriez toujours accè
 Vous pouvez vous rendre sur la documentation de bitwarden à l’adresse suivante : [https://bitwarden.com/help/password-manager-overview/](https://bitwarden.com/help/password-manager-overview/)
 
 La plupart des éléments étant identiques entre bitwarden et Vaultwarden, cette documentation est valable.
-
