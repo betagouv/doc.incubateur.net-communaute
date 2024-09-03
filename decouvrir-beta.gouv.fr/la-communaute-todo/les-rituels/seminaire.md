@@ -49,9 +49,3 @@ Quelques exemples de sujets qui ont été abordés lors des derniers forums :
 * Comment convaincre mon administration de transformer ses pratiques ?
 
 Nous encourageons la nomination d'un·e **scribe** volontaire dans chacun des ateliers, qui peut prendre des notes dans un [pad](../../../jutilise-les-outils-de-la-communaute/pad.md) et les partager, par exemple, dans l'espace Mattermost le plus adéquat.
-
-### Le Forum en vidéo !
-
-{% embed url="https://www.pole-emploi.tv/widget/_forum_beta-gouv_chez_pole_emploi-mp4-3" %}
-Forum beta.gouv.fr à la Grande Fabrique de Pôle emploi le 2/2/2023
-{% endembed %}

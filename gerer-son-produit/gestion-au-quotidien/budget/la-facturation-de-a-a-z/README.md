@@ -6,7 +6,7 @@ hidden: true
 # La facturation de A à Z
 
 {% hint style="info" %}
-Ce process concerne le [marchés de coaching de la DINUM](../marches-publics-beta.gouv.fr/marche-coaching.md) ainsi que le [marché interministériel beta.gouv](../marches-publics-beta.gouv.fr/marche-interministeriel-beta/).
+Ce process concerne le marchés de coaching de la DINUM ainsi que le marché interministériel beta.gouv.
 {% endhint %}
 
 ### Étape 1 : l'équipe qui intervient en prestations établit un résumé des livrables et l'adresse à l'entreprise titulaire du marché <a href="#id-1-lequipe-de-la-startup-detat-ou-de-territoire-etabli-un-resume-des-livrables-et-ladresse-au-titu" id="id-1-lequipe-de-la-startup-detat-ou-de-territoire-etabli-un-resume-des-livrables-et-ladresse-au-titu"></a>
@@ -49,9 +49,9 @@ Les entreprises titulaires des marchés de la DINUM sont invités à transmettre
 
 <summary>Processus pour la Fabrique numérique du MTE</summary>
 
-L’attributaire dépose le PV livraison sur le[ notion ](https://www.notion.so/lafabnum/Suivi-des-bons-de-commande-BC-9e2e7dae11c740ce99a2e9e87cb3873c)en **décalant la carte dans la colonne “PV à signer”** et notifie l’intra + Benjamin.
+L’attributaire dépose le PV livraison sur le[ notion ](https://www.notion.so/lafabnum/Suivi-des-bons-de-commande-BC-9e2e7dae11c740ce99a2e9e87cb3873c)en **décalant la carte dans la colonne “PV à signer”** et notifie l’intra + responsable de portefeuille.&#x20;
 
-L'intra et Benjamin signent.
+L'intra et le responsable de portefeuille signent.
 
 Le PV est alors intégré ans CHORUS Pro (logiciel de gestion comptable de l'état) par Cathie pour devenir un service fait.
 
