@@ -22,10 +22,10 @@ Note : Pôle Emploi, les ministères sociaux et de la transition écologique dis
 
 3 entreprises ou groupement d'entreprises ont remporté le marché :
 
-1. [NUMA](https://fr.numa.co/) (contact [**thomas.l@numa.co**](mailto:thomas.l@numa.co))
+1. [NUMA](https://www.numa.co/) (contact [**thomas.l@numa.co**](mailto:thomas.l@numa.co))
 2. [IPPON Technologies](https://fr.ippon.tech/) - [Liberté Living Lab](https://www.liberte.paris/) - [Sopra Steria](https://www.soprasteria.com/fr) (contact groupement@ippon.fr)
 3. [OCTO Technology](https://www.octo.com/) (contact dinum@octo.com)
 
 ### Comment bénéficier de ce marché ? <a href="#comment-beneficier-de-ce-marche" id="comment-beneficier-de-ce-marche"></a>
 
-Contactez [l'équipe beta.gouv.fr de la DINUM.](../../../decouvrir-beta.gouv.fr/incubateur-de-la-dinum/)
+Contactez l'[équipe beta.gouv.fr de la DINUM.](../../../decouvrir-beta.gouv.fr/incubateur-de-la-dinum/lequipe-danimation-beta.gouv.fr.md)

@@ -3,7 +3,7 @@ description: Comprendre les grandes étapes de la facturation, du livrable au pa
 hidden: true
 ---
 
-# La facturation de A à Z
+# 💲 La facturation de A à Z
 
 {% hint style="info" %}
 Ce process concerne le marchés de coaching de la DINUM ainsi que le marché interministériel beta.gouv.

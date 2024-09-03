@@ -1,5 +1,6 @@
 ---
 hidden: true
+icon: face-glasses
 ---
 
 # Préparer un comité d'investissement
@@ -20,7 +21,7 @@ Si le service n'a pas réussi à prouver son utilité ou sa pertinence, c'est do
 
 ### Qui l'organise ?
 
-L’intrapreneur avec l’aide de son équipe. L'[équipe d'animation de beta.gouv.fr ](../../../decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/lequipe-danimation-beta.gouv.fr.md)et/ou le ou la responsable d'incubateur peuvent faciliter l'organisation.
+L’intrapreneur avec l’aide de son équipe. L'[équipe d'animation de beta.gouv.fr](../../../../decouvrir-beta.gouv.fr/incubateur-de-la-dinum/lequipe-danimation-beta.gouv.fr.md) et/ou le ou la responsable d'incubateur peuvent faciliter l'organisation.
 
 ### Quand ? <a href="#quand" id="quand"></a>
 

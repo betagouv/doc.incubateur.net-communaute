@@ -1,22 +1,35 @@
-# Comment embarquer quelqu'un ?
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+---
+
+# Embarquer un nouveau membre de son équipe
 
 ## Pense-bête pour embarquer quelqu'un
 
-* [ ] Tu lui as demandé de lire la[ page de bienvenue](../../travailler-a-beta-gouv/bienvenue/)
-* [ ] _(Optionnel) La nouvelle recrue a un compte Github sur lequelle elle a activé l'_[_authentification double facteur_](https://github.com/settings/security)
+* [ ] Tu lui as demandé de lire les pages [découvrir beta.gouv.fr](broken-reference)
+* [ ] _(Optionnel) La nouvelle recrue a un compte Github sur lequelle elle a activé l'_[_authentification double facteur_](https://ma-vie-administrative.fr/particuliers/ma-vie-connectee/authentification-double-facteur/)
 * [ ] Demander à la nouvelle recrue de créer une fiche sur [https://espace-membre.incubateur.net/onboarding](https://espace-membre.incubateur.net/onboarding).
 * [ ] Valider sur Github la création de la fiche [https://github.com/betagouv/beta.gouv.fr/pulls](https://github.com/betagouv/beta.gouv.fr/pulls)
-* [ ] Verifier que la nouvelle recrue reçoit bien ces 2 emails ( envoyés dans les 20 minutes qui suivent la validation de la fiche) :&#x20;
+* [ ] Verifier que la nouvelle recrue reçoit bien ces 2 emails ( envoyés dans les 20 minutes qui suivent la validation de la fiche) :
 
 <!---->
 
 * celui pour définir son accès à son email (à recevoir sur l'email renseigné dans l'onboarding)
-* &#x20;et celui pour son accès à [Mattermost](https://mattermost.incubateur.net) (à recevoir sur son adresse @beta.gouv.fr)
+* et celui pour son accès à [Mattermost](https://mattermost.incubateur.net) (à recevoir sur son adresse @beta.gouv.fr)
 
 <!---->
 
-* [ ] Tu as invité la nouvelle recrue à la réunion [hebdo beta.gouv](broken-reference)
-* [ ] Si besoin tu as fait une demande de badge pour accéder à nos locaux (La procédure pour les locaux de Ségur est disponible [ici](../../decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/badge-pour-travailler-a-segur/))
+* [ ] Si besoin tu as fait une demande de badge pour accéder à nos locaux (La procédure pour les locaux de Ségur est disponible[ ici](../../travailler-chez-beta.gouv.fr/vie-quotidienne-et-bien-etre/travailler-dans-les-lieux-partages/locaux/faire-une-demande-de-badge.md))
 * [ ] Si elle est au statut d'indépendant, elle sait à qui adresser sa facture et comment
 * [ ] Si elle est contractuelle DINUM, elle s'est présentée au secrétariat de la DINUM
 * [ ] Tu as envoyé un mail de bienvenue à la nouvelle recrue

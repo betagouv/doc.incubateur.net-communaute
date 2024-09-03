@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+---
+
 # Guide d'entretien par profil
 
 <details>
@@ -8,7 +22,7 @@
 
 1. Connaissance de l'**environnement beta.gouv.fr, Startups d'État,** ou plus largement des **enjeux de la transformation numérique de l'État**
 2. **Motivations** à travailler dans le service public / sur le sujet de politique publique visé : volonté de faire bouger les lignes en sachant rester conciliant, intérêt pour la transformation numérique de l'administration, etc
-3. **Adéquation** [**culturelle**](../../travailler-a-beta-gouv/culture/) : culture entrepreneuriale + culture de l'intérêt général
+3. **Adéquation** **culturelle** : culture entrepreneuriale + culture de l'intérêt général
 4. Compétences en accompagnement d'équipe ou d'individus (**coaching**) : OKR, animations de formations, de rétros, capacité à savoir quand laisser faire ou prendre la main
 5. Compétences **tech** : recrutement des développeurs, niveau technique, _product management_, _no code_
 6. Compétences **design** : connaissance de démarches UX, maquettage rapide (Sketch, Figma)
@@ -86,7 +100,7 @@ Parlons d'un domaine qui te passionne. Quel produit voudrais-tu construire ?
 
 <summary>Designers</summary>
 
-[Voir la page dédiée.](../../jameliore-le-design-et-lexperience-utilisateur/design/)
+[Voir la page dédiée.](../les-standards/design/)
 
 </details>
 
@@ -104,7 +118,7 @@ Le recrutement des chargés de déploiement est essentiel dès le départ, pour 
 
 \*\*\*\* \
 \
-Pour mieux comprendre ce rôle, à multiples casquettes, tu peux te référer à [cette page](../../les-differents-metiers-dans-une-startup-detat/le-metier-de-charge.e-de-deploiement-chez-beta.gouv/introduction/le-charge-de-deploiement-dans-le-programme-beta.gouv.md).
+Pour mieux comprendre ce rôle, à multiples casquettes, tu peux te référer [à cette page.](../../travailler-chez-beta.gouv.fr/les-differents-metiers/le-charge-de-deploiement-dans-le-programme-beta.gouv.md)
 
 Ci-dessous, tu pourras trouver des informations concernant les compétences recherchées, différentes selon le niveau de séniorité. Au début de la vie du produit, il peut être intéressant de prendre un.e chargé.e de déploiement avec plus d'expérience, afin d'être mieux accompagné.\
 \

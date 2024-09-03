@@ -2,6 +2,7 @@
 description: >-
   La transparence budgétaire fait partie des valeurs de beta.gouv.fr. Publier le
   budget permet de mettre en rapport l'impact et le coût des services.
+hidden: true
 ---
 
 # Publier son budget

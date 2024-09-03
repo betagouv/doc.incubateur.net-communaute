@@ -90,8 +90,8 @@ Pour identifier les profils qui réaliseront la prestation :
   * diffuser l'annonce au sein du réseau beta.gouv, via le Mattermost ou l'infolettre interne ;
   * poster une annonce sur la plateforme [_Welcome to the Jungle_](https://admin.welcometothejungle.com/). Dans ce cas-là, il est nécessaire de gérer les candidatures en lien avec l'entreprise titulaire, en particulier vous devez l'indiquer dans l'annonce. Une phrase type peut être "Cette offre est gérée avec NOM ATTRIBUTAIRE (sans frais pour le freelance)". Pour en savoir plus, consulter la page suivante :
 
-{% content-ref url="../../../travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/welcome-to-the-jungle.md" %}
-[welcome-to-the-jungle.md](../../../travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/welcome-to-the-jungle.md)
+{% content-ref url="../../../../les-outils-de-la-communaute/autres-services/welcome-to-the-jungle/" %}
+[welcome-to-the-jungle](../../../../les-outils-de-la-communaute/autres-services/welcome-to-the-jungle/)
 {% endcontent-ref %}
 
 {% hint style="success" %}
@@ -101,7 +101,7 @@ N'oublie pas de prévenir l'entreprise titulaire de ton besoin _**avant**_ de di
 Nous conseillons d’effectuer ces deux actions en même temps, afin de réduire le temps de sélection et ne pas immobiliser trop longtemps les profils.
 
 {% hint style="info" %}
-Si tu n'as pas l’habitude de juger des profils techniques, tu peux te faire aider par la personne qui te coach ou les responsables de ton incubateur. La section "[Bien mener ses entretiens](../../../renforcer-l-equipe/guide-dentretiens-par-profil.md)" peut également t'aider à poser les bonnes questions.
+Si tu n'as pas l’habitude de juger des profils techniques, tu peux te faire aider par la personne qui te coach ou les responsables de ton incubateur. La section "[Guide d'entretien par profil](../../../renforcer-l-equipe/guide-dentretiens-par-profil.md)" peut également t'aider à poser les bonnes questions.
 {% endhint %}
 
 ### Etape 4 : obtenir le devis final auprès de l'entreprise titulaire

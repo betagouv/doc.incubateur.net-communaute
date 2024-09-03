@@ -3,6 +3,7 @@ description: >-
   Les informations ci-dessous concernent les Startups d’État ou incubateurs
   utilisant les marchés de la DINUM.
 hidden: true
+icon: calendar-days
 ---
 
 # Préparer la fin d'année budgétaire
@@ -43,6 +44,6 @@ Cela signifie qu'il vous faudra anticiper car en résumé **on ne peut plus rien
 
 * Consulter ou demander un état de consommation à date pour identifier où vous en êtes des AE et CP.
 * N'hésitez pas à solliciter votre co-animateur-trice en cas de doute.
-* Pour les services faits à valider, nous vous invitons à prévenir vos équipes de freelances qui devront rendre compte dans les "livrables" du travail effectué. Nous savons que c'est un exercice de reporting fastidieux, mais nous vous encourageons à être réactifs pour [la réalisation des livrables, leur transmission, la validation par mail des services faits + livrables et leur transmission à la DINUM pour signature.](../../../decouvrir-les-differents-metiers-dune-startup-detat/obtenir-une-prestation/la-facturation-de-a-a-z/)
+* Pour les services faits à valider, nous vous invitons à prévenir vos équipes de freelances qui devront rendre compte dans les "livrables" du travail effectué. Nous savons que c'est un exercice de reporting fastidieux, mais nous vous encourageons à être réactifs pour [la réalisation des livrables, leur transmission, la validation par mail des services faits + livrables et leur transmission à la DINUM pour signature.](la-facturation-de-a-a-z/)
 
 Si ce mémo n'est pas clair, nous vous invitons à nous le faire savoir pour que nous puissions l'améliorer (compta@beta.gouv.fr).
