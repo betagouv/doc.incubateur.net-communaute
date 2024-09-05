@@ -18,9 +18,8 @@ Le site [Design Accessible](https://design-accessible.fr) propose une checklist 
 {% tab title="Dev" %}
 Les développeurs et développeuses ont la responsabilité de coder des composants accessibles. De nombreux outils peuvent aider :
 
-* La [Notice d’accessibilité HTML et CSS](https://www.accede-web.com/notices/html-et-css/) d'AccedeWeb liste les règles à respecter pour un site accessible (structure générale, titre, liens, boutons, formulaires, liste...)
-* La [Notice d’accessibilité des principaux composants d’interface riche](https://www.accede-web.com/notices/interface-riche/) présente les principaux motifs de conception qu’il est recommandé de respecter lors du développement des composants d’interface riches (accordéons, modales, menu déroulant....)
 * Le [Design System de l'État](https://www.systeme-de-design.gouv.fr/) propose une documentation et des composants nativement accessible. Le webinaire [Faire un service accessible avec le DSFR](../../design/dsfr/) peut guider sur les bonnes pratiques à appliquer.
+* Les Notices d'AccedeWeb listent les règles à respecter avec des exemples : [Notice d’accessibilité HTML et CSS](https://www.accede-web.com/notices/html-et-css/) pour la structure générale, les titres, liens, boutons, formulaires, liste... ; et la [Notice d’accessibilité des principaux composants d’interface riche](https://www.accede-web.com/notices/interface-riche/) pour les composants d’interface interactifs (accordéons, modales, menu déroulant....)
 {% endtab %}
 
 {% tab title="Intra, chargé de déploiement, product owner, etc" %}
@@ -28,15 +27,26 @@ De nombreuses personnes peuvent être amenés à rédiger du contenu, au sein du
 {% endtab %}
 {% endtabs %}
 
-## Partir sur de bonnes bases
+## S'appuyer sur du code accessible
 
-L'accessibilité du service peut être pensée dès les premières phases de construction (prototypes, développements...).
+Une partie de l'accessibilité repose sur le développement front. Pour développer du code sémantique accessible, certaines pratiques sont indispensables :&#x20;
 
-Il existe quelques bonnes pratiques facile à vérifier, pour lever les obstacles les plus évidents. Ces vérifications ne demandent aucune connaissances techniques : n'importe qui peut s'en assurer !
+* Avoir des compétences front, ou à minima, utiliser le design system de l'État
+* Mettre en place des tests automatiques dès les premières lignes de code
+
+## Recetter régulièrement l'accessibilité
+
+{% hint style="info" %}
+L’accessibilité, ça ne se voit pas, ça se manipule !
+{% endhint %}
+
+Il existe quelques bonnes pratiques faciles à vérifier, pour identifier les problèmes d'accessibilité les plus évidents. Ces vérifications ne demandent aucune connaissances techniques : n'importe qui peut s'en assurer !
 
 {% hint style="success" %}
-Formez vous grâce à l'atelier **« Vérifier l'accessibilité de mon service »** mené une à 2 fois par mois, sur [inscription](https://airtable.com/shr5Uaqje8eV9BabU).
+Formez vous grâce à l'atelier **« Vérifier l'accessibilité de mon service »** mené une à 2 fois par mois, sur [inscription](https://espace-membre.incubateur.net/formations?filter=Accessibilit%C3%A9).
 {% endhint %}
+
+En faisant ces vérifications régulièrement (à chaque nouvelle feature, à chaque sprint, etc.), votre service pourra prétendre à environ 50% de conformité.
 
 ### 10 choses faciles à vérifier
 
@@ -156,6 +166,7 @@ Ces outils peuvent s'installer d'un simple `drag 'n drop` vers la barre des sign
 
 ### Checklist de la phase Construction
 
-* [ ] Mon équipe et moi nous formons aux premiers gestes de l'accessibilité.
-* [ ] Notre équipe se réparti les responsabilités.
-* [ ] Nous nous assurons régulièrement que les règles élémentaires de l’accessibilité sont respectées.
+* [ ] Nous sommes en règle sur l'aspect légal.
+* [ ] Notre produit s’appuie sur une base HTML saine (DSFR, dev front qualifié…).
+* [ ] Nous avons mis en place des tests automatiques d'accessibilité.
+* [ ] Nous recettons régulièrement l'accessibilité pour limiter la dette.
