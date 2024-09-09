@@ -61,8 +61,8 @@ layout:
 [accessibilite-and-inclusion](gerer-son-produit/les-standards/accessibilite-and-inclusion/)
 {% endcontent-ref %}
 
-{% content-ref url="gerer-son-produit/renforcer-l-equipe/conseils-pour-le-recrutement.md" %}
-[conseils-pour-le-recrutement.md](gerer-son-produit/renforcer-l-equipe/conseils-pour-le-recrutement.md)
+{% content-ref url="gerer-son-produit/renforcer-l-equipe/" %}
+[renforcer-l-equipe](gerer-son-produit/renforcer-l-equipe/)
 {% endcontent-ref %}
 
 {% content-ref url="travailler-chez-beta.gouv.fr/se-former/" %}
