@@ -32,7 +32,7 @@ Il se peut aussi que certaines informations soient erronées, puisque que c’es
 
 **Pour poser vos questions à la communauté relatives à l’implémentation d’une brique IA** **dans votre service**, un espace est dédié sur le Mattermost de la communauté beta.gouv : #domaine-ia.
 
-À savoir qu’il existe un autre canal pour la revue de presse (#domaine-presse-ia), ainsi qu’un dédié aux sciences de la donnée (#domaine-datascience).
+À savoir qu’il existe un autre canal pour la revue de presse (#domaine-veille-ia), ainsi qu’un dédié aux sciences de la donnée (#domaine-datascience).
 
 ## Mettre en œuvre son idée
 
