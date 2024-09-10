@@ -45,7 +45,7 @@ Voici des exemples dans lesquels l'automatisation est généralement utile :
 Les services de réponses en droit du travail (SRDT) doivent croiser des données complexes pour répondre aux questions des usagers, comme la jurisprudence sociale, des conventions collectives des entreprises, le code du travail etc. Difficile pour les agents et agentes chargés de répondre, qui ne sont pas recrutés sur ces compétences métiers, d'éplucher tous ces documents pour retrouver la bonne information.&#x20;
 {% endhint %}
 
-* Il y beaucoup de croisements à effectuer&#x20;
+* Il y a beaucoup de croisements à effectuer&#x20;
 
 {% hint style="success" %}
 Le service [Signaux faibles](https://beta.gouv.fr/startups/signaux-faibles.html) doit croiser de nombreuses données pour détecter les entreprises en difficulté (SIREN, donnée Banque de France, Bilans financiers, données sur l’effectif, cotisations sociales et débit, délais, procédures collectives, retards de paiement des fournisseurs, etc.). Difficile de passer à l'échelle sans automatisation avec des millions de situation d'entreprises à étudier.&#x20;
@@ -93,7 +93,7 @@ Si votre donnée n'est pas disponible et que votre projet vous permet d'en ouvri
 
 
 
-### 🧑🏻‍⚖️ **L’IA sera t’elle amenée à prendre des décisions ?**
+### 🧑🏻‍⚖️ **L’IA sera-t-elle amenée à prendre des décisions ?**
 
 Un [moteur de réponse naturelle](https://outline.incubateur.net/s/alliance/doc/moteur-de-reponses-en-langage-naturel-uvanMXDU3M) est utilisé pour assister la réponse aux usagers dans les maisons France services. Comme il s’agit d’informations données aux citoyens par une autorité responsable (et parfois d'informations juridiques), la délégation totale de la réponse fournie par l’IA n’est pas possible : il faut une validation par un agent avant envoi à l’usager. Dans la plupart des cas, la délégation totale à une IA de la décision est contraire à la loi.
 
@@ -111,7 +111,7 @@ Les données aussi sont importantes pour avoir des grands modèles de langage di
 
 ## 💼 Cas d'usage : a**ssistant de réponses en droit du travail**
 
-**Quel est l'irritant ?** Il y a un roulement important des les services de renseignement en droit du travail (SRDT). Avant, le service était assuré par les contrôleurs du travail. Aujourd'hui, il est effectué par des secrétaires administratives, qui n'ont plus la formation initiale métier sur le sujet.
+**Quel est l'irritant ?** Il y a un roulement important des services de renseignement en droit du travail (SRDT). Avant, le service était assuré par les contrôleurs du travail. Aujourd'hui, il est effectué par des secrétaires administratives, qui n'ont plus la formation initiale métier sur le sujet.
 
 **A-t-on bien une cible ?**
 
@@ -125,6 +125,6 @@ Les données aussi sont importantes pour avoir des grands modèles de langage di
 * **Quanti** -> Le temps d'agent économisé
 * **Quali** -> Le taux de modification de la réponse / satisfaction de l’agent
 
-**Quelles sont les sources de données ?** Code du travail, conventions collectives de travail (CCT) qui défini les statuts (rémunérations, embauches, conditions de travail), jurisprudence sociale
+**Quelles sont les sources de données ?** Code du travail, conventions collectives de travail (CCT) qui définit les statuts (rémunérations, embauches, conditions de travail), jurisprudence sociale
 
 **Quelle valeur ajoutée par l'automatisation ?** L'automatisation apporte une valeur significative face au roulement important des agents et au manque de formation dans les SRDT. Elle permet aussi de gérer efficacement un volume massif de demandes (575 000), concernant plus d’un million d’objets de renseignement par an.
