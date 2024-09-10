@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+---
+
 # 💡 L'approche produit
 
 ## Guide de l'approche produit
