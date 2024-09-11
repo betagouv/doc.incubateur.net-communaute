@@ -102,7 +102,7 @@
       * [Investigation](gerer-son-produit/les-standards/accessibilite-and-inclusion/kit-accessibilite/investigation.md)
       * [Construction](gerer-son-produit/les-standards/accessibilite-and-inclusion/kit-accessibilite/construction.md)
       * [Accélération](gerer-son-produit/les-standards/accessibilite-and-inclusion/kit-accessibilite/acceleration.md)
-      * [Consolidation](gerer-son-produit/les-standards/accessibilite-and-inclusion/kit-accessibilite/consolidation.md)
+      * [Transfert](gerer-son-produit/les-standards/accessibilite-and-inclusion/kit-accessibilite/consolidation.md)
     * [Témoignages et retours d'expérience](gerer-son-produit/les-standards/accessibilite-and-inclusion/temoignages-et-retours-dexperience.md)
     * [Rendre un service inclusif](gerer-son-produit/standards/accessibilite-inclusion/rendre-un-service-inclusif/README.md)
       * [Qu'est-ce que l'inclusion ?](gerer-son-produit/standards/accessibilite-inclusion/rendre-un-service-inclusif/quest-ce-que-linclusion.md)

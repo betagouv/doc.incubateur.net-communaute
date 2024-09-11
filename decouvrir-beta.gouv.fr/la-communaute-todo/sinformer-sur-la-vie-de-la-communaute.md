@@ -16,11 +16,11 @@ Pour suivre facilement les événements qui réunissent la communauté beta.gouv
 [Mettre à jour l'agenda de beta.gouv.fr](https://airtable.com/appFH3S7oLMxliFaG/shrWvcUAOJqllVqtj)
 {% endhint %}
 
-## <img src="../../.gitbook/assets/image.png" alt="" data-size="line"> Le compte LinkedIn beta.gouv.fr
+## <img src="../../.gitbook/assets/image (1).png" alt="" data-size="line"> Le compte LinkedIn beta.gouv.fr
 
 Pour suivre l'actualité externe de la communauté et du programme beta.gouv.fr, abonne toi au [compte LinkedIn beta.gouv.fr](https://www.linkedin.com/company/betagouv/?viewAsMember=true). Tu y trouveras notamment des offres d'emploi et de mission.
 
-## <img src="../../.gitbook/assets/image (1).png" alt="" data-size="line">Mattermost
+## <img src="../../.gitbook/assets/image (1) (1).png" alt="" data-size="line">Mattermost
 
 Mattermost est l'espace de travail virtuel principal du réseau beta.gouv.fr. La plupart des échanges y ont lieu, les événements et l'actualité de la communauté y sont relayés. Retrouve toutes les informations ci-dessous.
 

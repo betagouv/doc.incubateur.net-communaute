@@ -4,13 +4,13 @@ description: >-
   long de la vie de leur produit
 ---
 
-# kit-accessibilite/README.md
+# Kit d'accessibilité
 
 **L’accessibilité est une démarche sur le long terme** : elle se pense dès l'investigation du service, elle est régulièrement évaluée pendant la construction puis tout au long de la durée d’exploitation du service.
 
 La conformité ne s'atteint pas en un jour et ça n'est pas grave : c'est **l'engagement vers la démarche qui est important** !
 
-![](../../../../../.gitbook/assets/a11y-2x.png)
+<figure><img src="../../../../.gitbook/assets/image.png" alt="Version visuelle du plan des différentes étapes de mise en accessibilité"><figcaption><p>Roadmap Accessibilité</p></figcaption></figure>
 
 {% content-ref url="investigation.md" %}
 [investigation.md](investigation.md)

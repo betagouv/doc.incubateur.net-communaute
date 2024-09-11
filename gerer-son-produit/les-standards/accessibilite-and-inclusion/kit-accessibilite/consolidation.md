@@ -2,7 +2,7 @@
 description: Concrétiser ses efforts par un audit en phase de transfert.
 ---
 
-# Kit accessibilité - Transfert
+# Transfert
 
 ## **Évaluer l'accessibilité de son service**
 
@@ -17,10 +17,6 @@ Ainsi, à l'issue d'un audit de conformité, on est capable d'établir si le sit
 * **totalement** **conforme** : 100 % des critères sont respectés
 * **partiellement conforme :** au moins 50 % des critères sont respectés
 * **non conforme :** moins de 50 % de critères respectés.
-
-{% hint style="info" %}
-La formation **« Sensibilisation à l'accessibilité numérique »** détaille la démarche, sur [inscription](https://airtable.com/appebTa6XsY6fDixm/shr5Uaqje8eV9BabU).&#x20;
-{% endhint %}
 
 ## **Rédiger la déclaration d’accessibilité**
 
@@ -85,4 +81,4 @@ Vous pouvez recrutez vous-même des personnes en situation de handicap. Voici qu
 * [ ] Je fais auditer mon site pour établir sa conformité.
 * [ ] Je fais des tests utilisateurs.
 * [ ] Je corrige les éléments qui ont été relevés.
-* [ ] Je publie ma déclaration d'accessibilité.
+* [ ] Je mets à jour ma déclaration d'accessibilité.
