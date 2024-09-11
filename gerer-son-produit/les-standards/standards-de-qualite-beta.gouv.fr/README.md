@@ -33,5 +33,5 @@ Pour aider les développeuses et les développeurs qui lancent un nouveau servic
 {% endhint %}
 
 {% hint style="info" %}
-Découvrir le livre blanc "comment réaliser un produit numérique" dans l'administration : sur [https://sillon.incubateur.net](https://sillon.incubateur.net/)
+Découvrir le livre blanc "comment réaliser un produit numérique dans l'administration" : sur [https://sillon.incubateur.net](https://sillon.incubateur.net/)
 {% endhint %}
