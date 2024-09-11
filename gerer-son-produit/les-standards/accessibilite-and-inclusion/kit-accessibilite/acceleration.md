@@ -2,33 +2,33 @@
 description: Outiller la mise en accessibilité pendant la phase d'accélération.
 ---
 
-# Kit accessibilité - Accélération
+# Accélération
 
-## **Mettre en place des tests automatiques**
+### Rattraper la dette
 
-Les outils de tests automatiques permettent de tester environ 30 % des critères du RGAA. Ils ne sont donc pas exhaustifs mais restent indispensables dans une démarche de qualité continue. Ils permettent de :
+Si aucune attention n'a été portée à l'accessibilité jusque là, l'atelier Atelier Easy Checks pour diagnostiquer et identifier les chantiers importants est une très bonne première étape
 
-* mesurer l'accessibilité de votre service ;
-* identifier les problèmes d'accessibilité et les régressions.
+<figure><img src="../../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Exemple : après l'atelier, cette équipe sait où concentrer ses efforts : sur l’amélioration des formulaires (peut être une refonte est-elle prévue ?) ; sur la navigation au clavier et enfin, sur la page Détail est particulièrement peu accessible.</p></figcaption></figure>
 
-Voici quelques outils que l'équipe de développement peut mettre en place sur votre service :
+### Bénéficier d'un accompagnement sur mesure
 
-* [Dashlord](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/dashlord) : le tableau de bord de la communauté pour mesurer la qualité de son service (accessibilité, mais aussi sécurité, RGPD...)
-* [axe-core](https://github.com/dequelabs/axe-core) : un moteur de tests d'accessibilité automatique
-* [asqatasun](https://hub.docker.com/r/asqatasun/asqatasun/) : un outil open-source et français d'analyse d'accessibilité et SEO.
+Le Pôle Numérique Inclusif propose des accompagnements personnalisés pour avancer plus loin sur les enjeux d’accessibilité. Certains thématiques nécessitent en effet un accompagnement spécifique. Par exemple :&#x20;
 
-## Mettre en place des tests automatisés
+* la cartographie
+* les applis métiers
+* les dashbords et la dataviz
+* les contenus simplifiés
 
-Les tests _automatisés_ permettent de tester l'accessibilité, via des scénarios écrits manuellement, de manière automatique. Ils permettent d'aller un peu plus loin que les tests automatiques.&#x20;
+{% hint style="info" %}
+👉 [Prendre rendez-vous avec le Pole Numérique Inclusif](https://docs.google.com/forms/d/e/1FAIpQLSfOV\_fV3skg27\_WKyepV0rhqiYjZ2WhyKYXtequjLG\_o\_YrYQ/viewform)
+{% endhint %}
 
-Tanaguru permet de faire des [audits automatisés](https://my.tanaguru.com/home/contract/audit-page-set-up.html?cr=943) gratuitement.
-
-## Utiliser des personas pour tester l'accessibilité
+### Utiliser des personas pour tester l'accessibilité
 
 **Découvrez les problématiques** liées aux différentes déficiences, **apprenez les bonnes pratiques simples** à déployer avec des [personas inclusifs](https://a11y-guidelines.orange.com/fr/persona/).
 
 ### Checklist de la phase d'accélération
 
-* [ ] Je mets en place des tests automatiques.
-* [ ] Je mets en place des tests automatisés.
+* [ ] J'ai des bases saines (voir la phase de [Construction](construction.md)).
+* [ ] Je demande un accompagnement sur les aspects qui le nécessitent.
 * [ ] J'expérimente avec les personas inclusifs

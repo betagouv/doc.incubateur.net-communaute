@@ -164,6 +164,33 @@ Ces outils peuvent s'installer d'un simple `drag 'n drop` vers la barre des sign
 {% endtab %}
 {% endtabs %}
 
+## **Mettre en place des tests automatiques**
+
+Les outils de tests automatiques permettent de tester environ 30 % des critères du RGAA. Ils ne sont donc pas exhaustifs mais restent indispensables dans une démarche de qualité continue. Ils permettent de :
+
+* mesurer l'accessibilité de votre service ;
+* identifier les problèmes d'accessibilité et les régressions.
+
+Voici quelques outils que l'équipe de développement peut mettre en place sur votre service :
+
+* [Dashlord](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/dashlord) : le tableau de bord de la communauté pour mesurer la qualité de son service (accessibilité, mais aussi sécurité, RGPD...) permet de lancer des tests automatiques (au moins sur la page d'accueil)
+* [axe-core](https://github.com/dequelabs/axe-core) : un moteur de tests d'accessibilité automatique
+* [asqatasun](https://hub.docker.com/r/asqatasun/asqatasun/) : un outil open-source et français d'analyse d'accessibilité et SEO.
+
+{% hint style="warning" %}
+Documentation plus complète sur les tests automatiques à venir.
+{% endhint %}
+
+## Mettre en place des tests automatisés
+
+Les tests _automatisés_ permettent de tester l'accessibilité, via des scénarios écrits manuellement, de manière automatique. Ils permettent d'aller un peu plus loin que les tests automatiques.
+
+Tanaguru permet de faire des [audits automatisés](https://my.tanaguru.com/home/contract/audit-page-set-up.html?cr=943) gratuitement.
+
+{% hint style="warning" %}
+Documentation plus complète sur les tests automatiques à venir.
+{% endhint %}
+
 ### Checklist de la phase Construction
 
 * [ ] Nous sommes en règle sur l'aspect légal.
