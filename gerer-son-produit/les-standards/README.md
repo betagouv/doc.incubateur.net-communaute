@@ -43,7 +43,7 @@ Un "**standard**" c’est un critère d’évaluation explicite de quelque chose
 {% endcontent-ref %}
 
 * Une **page /stats** rend compte des mesures d'impact.
-* Une page **/budget** rend compte du budget de l'équipe.
+* Une page **/budget** rend compte du budget et de métriques d'impact de l'équipe.
 
 {% content-ref url="to-do-qualite-du-support.md" %}
 [to-do-qualite-du-support.md](to-do-qualite-du-support.md)
@@ -75,9 +75,7 @@ Un "**standard**" c’est un critère d’évaluation explicite de quelque chose
 [design](design/)
 {% endcontent-ref %}
 
-*   L'équipe est pilotée par un **processus de design proche des usagers** : il est normal pour les développeuses et les développeurs d'aller à la rencontre des utilisateurs, et d'inviter des utilisateurs aux séances de design.
-
-    > L'équipe Aidants Connect se demande comment organiser la liste des usagers sur son service. Ils invitent Sandrine à leur atelier pour voir avec elle la façon dont elle utilise cette liste aujourd'hui et les filtres et options de tri dont elle a besoin.
+* L'équipe est pilotée par un **processus de design proche des usagers** : il est normal pour les développeuses et les développeurs d'aller à la rencontre des utilisateurs, et d'inviter des utilisateurs aux séances de design.
 
 {% content-ref url="eco-conception.md" %}
 [eco-conception.md](eco-conception.md)
