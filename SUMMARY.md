@@ -108,7 +108,6 @@
       * [Qu'est-ce que l'inclusion ?](gerer-son-produit/standards/accessibilite-inclusion/rendre-un-service-inclusif/quest-ce-que-linclusion.md)
       * [Les biais](gerer-son-produit/standards/accessibilite-inclusion/rendre-un-service-inclusif/les-biais.md)
       * [Recherche : adapter ses méthodes pour inclure](gerer-son-produit/standards/accessibilite-inclusion/rendre-un-service-inclusif/recherche-adapter-ses-methodes-pour-inclure/README.md)
-        * [❌ charlotte-moore-transcription-et-traduction.md ❌](gerer-son-produit/standards/accessibilite-inclusion/rendre-un-service-inclusif/recherche-adapter-ses-methodes-pour-inclure/charlotte-moore-transcription-et-traduction.md)
         * [Préparer sa recherche](gerer-son-produit/standards/accessibilite-inclusion/rendre-un-service-inclusif/recherche-adapter-ses-methodes-pour-inclure/preparer-sa-recherche.md)
         * [Créer le support de recherche](gerer-son-produit/standards/accessibilite-inclusion/rendre-un-service-inclusif/recherche-adapter-ses-methodes-pour-inclure/creer-le-support-de-recherche.md)
         * [Recruter des usagers](gerer-son-produit/standards/accessibilite-inclusion/rendre-un-service-inclusif/recherche-adapter-ses-methodes-pour-inclure/recruter-des-usagers.md)
