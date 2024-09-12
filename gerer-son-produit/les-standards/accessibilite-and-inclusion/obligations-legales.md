@@ -75,8 +75,6 @@ _Note : il est possible légalement de faire l'audit RGAA en interne. Cependant,
 
 Le [Pôle Numérique Inclusif](../../../solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/aide-transverse-pole-numerique-inclusif.md) peut vous aider à préparer un audit RGAA. Faire un **pré** **audit** en amont du l'audit RGAA vous permettra d'identifier les points d'accessibilité les points les plus bloquants. L'équipe pourra ainsi se préparer, corriger les erreurs les plus évidents et faciliter l'audit RGAA à venir.
 
-Le [Pôle Numérique Inclusif](../../../ressources/je-sollicite-de-laide-transverse/aide-transverse-pole-numerique-inclusif.md) peut vous aider à préparer un audit RGAA. Faire un **pré** **audit** en amont du l'audit RGAA vous permettra d'identifier les points d'accessibilité les points les plus bloquants. L'équipe pourra ainsi se préparer, corriger les erreurs les plus évidents et faciliter l'audit RGAA à venir.
-
 {% hint style="info" %}
 **👉** [**Demander un pré audit par le Pole Numérique Inclusif**](https://docs.google.com/forms/d/1L4DOpBS9ibJWmWyypOOyB86ExGPLz-IwUuunazugsBU/edit)
 {% endhint %}

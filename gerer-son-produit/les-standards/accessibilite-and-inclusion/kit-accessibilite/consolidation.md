@@ -4,19 +4,32 @@ description: Concrétiser ses efforts par un audit en phase de transfert.
 
 # Transfert
 
-## **Évaluer l'accessibilité de son service**
+## **Préparer l'audit de conformité d'accessibilité**
+
+L'audit d'accessibilité permet d'établir la conformité en accessibilité. C'est un passage obligatoire pour les services publics, à planifier avec soin dès la fin de la phase d'accélération.&#x20;
+
+Afin d'optimiser le résultat, nous encourageons les équipes à faire un **pré-audit avec le Pole Numérique Inclusif** pour :&#x20;
+
+* identifier et corriger un maximum de problèmes d’accessibilité&#x20;
+* se préparer à la démarche de conformité
 
 {% hint style="success" %}
-Le seul moyen de connaître le niveau d'accessibilité d'un site est de passer un **audit de conformité.**
+[Contacter le Pôle Numérique Inclusif](https://docs.google.com/forms/d/e/1FAIpQLSfOV\_fV3skg27\_WKyepV0rhqiYjZ2WhyKYXtequjLG\_o\_YrYQ/viewform) pour préparer l'audit d'accessibilité
 {% endhint %}
 
-En France, le [**Référentiel Général d'Amélioration de l'Accessibilité (RGAA)** ](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/)se compose de 106 critères et 257 tests.
+## **Faire évaluer l'accessibilité de son service**
 
-Ainsi, à l'issue d'un audit de conformité, on est capable d'établir si le site est :
+{% hint style="success" %}
+Le seul moyen de connaître le niveau d'accessibilité d'un site est de passer un **audit de conformité.**&#x20;
+{% endhint %}
+
+En France, le [**Référentiel Général d'Amélioration de l'Accessibilité (RGAA)** ](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/)se compose de 106 critères et 257 tests. Ainsi, à l'issue d'un audit de conformité, on est capable d'établir si le site est :
 
 * **totalement** **conforme** : 100 % des critères sont respectés
 * **partiellement conforme :** au moins 50 % des critères sont respectés
 * **non conforme :** moins de 50 % de critères respectés.
+
+Il est recommandé de faire faire cet audit par des expertes et experts. La démarche est décrite dans la page des [Obligations légales d'accessibilité](../obligations-legales.md#faire-faire-un-audit-rgaa).&#x20;
 
 ## **Rédiger la déclaration d’accessibilité**
 
