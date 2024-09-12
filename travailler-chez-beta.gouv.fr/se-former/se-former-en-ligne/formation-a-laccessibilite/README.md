@@ -2,9 +2,9 @@
 
 L'équipe du [Pôle Numérique Inclusif](../../../../ressources/je-sollicite-de-laide-transverse/aide-transverse-pole-numerique-inclusif.md) propose plusieurs formations pour les startups d'État, ou les incubateurs :
 
-<table><thead><tr><th width="301">Sujet de la formation</th><th width="263.3333333333333">Durée</th></tr></thead><tbody><tr><td><a href="sensibilisation-a-laccessibilite.md">Sensibilisation à l'accessibilité</a></td><td>2 heures</td></tr><tr><td><a href="10-choses-faciles-a-verifier-pour-un-site-plus-accessible.md">Atelier d'auto-diagnostic (10 choses faciles à vérifier)</a></td><td>2 heures</td></tr><tr><td><a data-footnote-ref href="#user-content-fn-1">Simplifier ses contenus</a></td><td>1 h</td></tr></tbody></table>
+<table><thead><tr><th width="301">Sujet de la formation</th><th width="137.33333333333331">Durée</th><th>Format</th></tr></thead><tbody><tr><td><a href="sensibilisation-a-laccessibilite.md">Sensibilisation à l'accessibilité</a></td><td>1 ou 2 h</td><td>Webinaire</td></tr><tr><td><a href="10-choses-faciles-a-verifier-pour-un-site-plus-accessible.md">Atelier d'auto-diagnostic (10 choses faciles à vérifier)</a></td><td>2 heures</td><td>Atelier participatif (place limitées)</td></tr><tr><td><a data-footnote-ref href="#user-content-fn-1">Simplifier ses contenus</a></td><td>1 h</td><td>Webinaire</td></tr><tr><td>Dataviz et accessibilité</td><td>1 h</td><td>Atelier (place limitées)</td></tr><tr><td>Cartographie et accessibilité</td><td>1 h</td><td>Atelier (place limitées)</td></tr><tr><td>DSFR et accessibilité</td><td>1 h</td><td>Webinaire</td></tr><tr><td>Communication accessible sur les réseaux sociaux</td><td>1 h</td><td>Webinaire</td></tr></tbody></table>
 
-D'autres thématiques sont disponibles à la demande.
+Le [calendrier des prochaines sessions](https://espace-membre.incubateur.net/formations?filter=Accessibilit%C3%A9) est disponible sur l'espace membre. Il est aussi possible de les donner à la demande pour les incubateurs.&#x20;
 
 {% hint style="info" %}
 Contact :
