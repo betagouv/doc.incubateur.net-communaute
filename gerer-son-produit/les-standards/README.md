@@ -88,5 +88,9 @@ Ces standards de qualité produit sont rappelés par [l'Observatoire des service
 {% endhint %}
 
 {% hint style="info" %}
+Découvrir le livre blanc "comment réaliser un produit numérique dans l'administration" : sur [https://sillon.incubateur.net](https://sillon.incubateur.net/)
+{% endhint %}
+
+{% hint style="info" %}
 L'outil [**DashLord**](../../les-outils-de-la-communaute/dashlord/) permet de situer sa Startup d'État par rapport à une bonne partie de ces standards de qualité. Toutes les Startup d'État sont invitées à y ajouter leur(s) url(s) et à consulter le tableau de bord régulièrement.
 {% endhint %}
