@@ -14,21 +14,15 @@ layout:
 
 # 👨‍🔬 Créer un incubateur de services numériques
 
-Au sein de l'Etat et des territoires, il existe différents modèles d'incubateurs, de "fabriques numériques" ou d'"ateliers numériques", avec des stratégies qui peuvent être liées aux spécificités de leur administration. Le réseau beta.gouv fédère ceux qui adhèrent au [manifeste beta.gouv](https://beta.gouv.fr/approche/manifeste) et qui produisent des services numériques conçus selon l'approche beta.gouv.
+Au sein de l'État et des territoires, il existe différents modèles d'incubateurs, de "fabriques numériques" ou d'"ateliers numériques", avec des stratégies qui peuvent être liées aux spécificités de leur administration. Le réseau beta.gouv.fr fédère ceux qui adhèrent au [manifeste beta.gouv](https://beta.gouv.fr/approche/manifeste) et qui produisent des services numériques conçus selon l'approche beta.gouv.
 
-## Comment fonctionne un incubateur du réseau beta.gouv.fr ?
+## Créer son incubateur de startups d'État
 
-Un incubateur du réseau beta.gouv :
+Vous êtes une administration publique ? beta.gouv.fr peut vous accompagner dans la création de votre incubateur de startups d'État ; en fonction de la cohérence de votre stratégie avec celle de la Direction interministérielle du numérique, un cofinancement peut être envisagé via le Fonds d'accélération des startups d'État.
 
-* adhère au [manifeste beta.gouv.fr](https://beta.gouv.fr/manifeste) et suit les[ standards de qualité](../gerer-son-produit/les-standards/) définis par la Direction interministérielle du numérique ;
-* organise un [appel à intrapreneur](je-souhaite-lancer-une-startup-detat/chronologie-dune-appel-a-innovateur/) (souvent annuel) pour identifier des problèmes à résoudre grâce à l'approche Startup d'État et anime un programme d'intrapreneuriat, mais peut aussi appliquer l'approche Startup d'État à des commandes dans l'optique de les confronter aux besoins réels du terrain ;
-* lance, accompagne et opère des services publics numériques qui visent à résoudre des problèmes de politique publique ou des problèmes dans la relation entre administrations et bénéficiaires, et qui sont développés selon l'approche Startup d'État, c'est à dire :
-  * autonomie de l'équipe
-  * amélioration continue ;
-  * pilotage par l'impact, avec l'organisation d'un [comité d'investissement](../gerer-son-produit/gestion-au-quotidien/budget/preparer-un-comite-dinvestissement/) régulier pour chaque produit selon les phases du programme beta.gouv : investigation, construction, accélération, pérennisation.
-* propose un appui aux différents services publics numériques incubés (coaching produit, gouvernance, sécurité/rgpd, RH, UX, impact etc) ;
-* dispose d'un haut niveau de sponsorship dans l'administration (direction numérique, secrétariat général, direction générale etc) ;
-* s'engage à publier en transparence ses réalisations et ses résultats, et notamment à mettre à jour régulièrement le site beta.gouv.fr.
+**Un incubateur n'est pas nécessaire pour lancer une startup d'État** : une administration peut lancer un produit selon l'approche startup d'État en concluant un partenariat avec l'incubateur de la DINUM. Un incubateur est utile lorsque l'administration souhaite industrialiser l'approche, par exemple en lançant un[ appel à intrapreneurs](je-souhaite-lancer-une-startup-detat/chronologie-dune-appel-a-innovateur/).
+
+Pour en savoir plus : contacter dinum@beta.gouv.fr&#x20;
 
 ## L'organisation type d'un incubateur
 
@@ -36,9 +30,9 @@ Un incubateur a pour principal objectif de **soutenir les agents publics intrapr
 
 ![](<../.gitbook/assets/image (20).png>)
 
-## Quels sont les ressources auxquelles mon incubateur a accès s'il fait partie du réseau beta.gouv.fr ?
+## Quelles sont les ressources auxquelles mon incubateur a accès s'il fait partie du réseau beta.gouv.fr ?
 
-En tant qu'incubateur du réseau beta.gouv, les équipes qui suivent l'approche Startup d'État peuvent bénéficier de l'offre suivante :
+En tant qu'incubateur du réseau beta.gouv.fr, les équipes qui suivent l'approche startup d'État peuvent bénéficier de l'offre suivante :
 
 #### Marchés publics
 
@@ -76,14 +70,6 @@ En tant qu'incubateur du réseau beta.gouv, les équipes qui suivent l'approche 
 * représentation de la DINUM aux comités d'investissement des Startups d'État lorsque c'est nécessaire ;
 * accompagnement à la création et à l'organisation de l'incubateur, accompagnement à la transformation du numérique de votre administration ;
 * appui à la négociation budgétaire ou d'ETP, notamment dans le cadre de la réinternalisation de compétences numériques au sein de votre administration.
-
-## Créer son incubateur de Startups d'État
-
-Vous êtes une administration publique ? beta.gouv.fr peut vous accompagner dans la création de votre incubateur de Startups d'État ; en fonction de la cohérence de votre stratégie avec celle de la Direction interministérielle du numérique, un cofinancement peut être envisagé via le Fonds d'accélération des Startups d'État.
-
-**Un incubateur n'est pas nécessaire pour lancer une Startup d'État** : une administration peut lancer un produit selon l'approche Startup d'État en concluant un partenariat avec l'incubateur de la DINUM. Un incubateur est utile lorsque l'administration souhaite industrialiser l'approche, par exemple en lançant un[ appel à intrapreneurs](je-souhaite-lancer-une-startup-detat/chronologie-dune-appel-a-innovateur/).
-
-Pour en savoir plus : contacter dinum@beta.gouv.fr
 
 ## Ressources pour la gestion d'un incubateur
 

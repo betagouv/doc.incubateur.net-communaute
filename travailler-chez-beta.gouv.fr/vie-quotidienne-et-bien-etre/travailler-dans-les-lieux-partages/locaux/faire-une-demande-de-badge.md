@@ -3,6 +3,7 @@ description: >-
   Si tu envisages de travailler au moins deux jours par semaine dans les locaux
   de beta.gouv.fr situés à Ségur, suis les étapes ci-dessous pour obtenir un
   badge permanent d’accès.
+hidden: true
 ---
 
 # Demander ou prolonger un badge

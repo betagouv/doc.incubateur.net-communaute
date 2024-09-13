@@ -10,7 +10,7 @@ description: Tu nous quittes ? On espère que tu as passé un moment positif ave
 
 Tu peux mettre à jour tes dates de mission [sur l'espace-membre](../les-outils-de-la-communaute/espace-membre.md).
 
-### Si ta mission se finit, que faire avant mon départ de beta.gouv ?
+### Si ta mission se finit, que faire avant mon départ de beta.gouv.fr ?
 
 #### Actions indispensables
 

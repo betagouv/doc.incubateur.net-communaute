@@ -1,6 +1,8 @@
-# 🤗 La communauté \[todo]
+# 🤗 La communauté
 
+La **communauté beta.gouv.fr** désigne toutes les personnes qui travaillent au sein du réseau beta.gouv.fr, quel que soit leur rôle, leur statut, leur incubateur, leur rattachement.
 
+Tous les membres sont référencés sur la [page Communauté](https://beta.gouv.fr/communaute/) et peuvent être contactés sur l'espace Mattersmost ; on parle parfois aussi de **réseau beta.gouv.fr** pour désigner le [réseau des](https://beta.gouv.fr/approche/incubateurs)[ incubateurs](../les-incubateurs-du-reseau-beta.gouv.fr-to-do/) dans lesquels sont incubés les produits numériques.
 
 {% content-ref url="les-rituels/" %}
 [les-rituels](les-rituels/)

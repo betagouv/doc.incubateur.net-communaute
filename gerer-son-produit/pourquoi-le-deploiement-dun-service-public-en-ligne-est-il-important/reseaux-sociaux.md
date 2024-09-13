@@ -1,8 +1,14 @@
+---
+description: >-
+  Cette page t'aide à définir ta stratégie social media et t'explique comment
+  certifier tes comptes.
+---
+
 # Réseaux sociaux
 
-## Bonnes pratiques
 
-### Faites le point sur votre stratégie grâce au BuzzForm
+
+## Faire le point sur votre stratégie grâce au BuzzForm
 
 Afin de faire le point sur vos réseaux sociaux, à qui ils s’adressent, ce que vous allez en retirer, un formulaire va vous aider : le BuzzForm.
 
@@ -47,7 +53,7 @@ De plus, afin de vous aider à gérer au quotidien vos réseaux sociaux, voici l
 
     > Suite à ce reportage télévisé, votre projet intéresse le grand public. Une institution souhaite lancer une campagne de communication vantant vos services à l’occasion d’une conférence de presse. Vous recevez un message privé sur Mastodon vous demandant de régler les détails. Contactez le service communication de la DINSIC : ils pourront prendre le relais.
 
-### Certification des comptes des réseaux sociaux
+## Certifier des comptes sur les réseaux sociaux
 
 #### Pourquoi faire certifier vos comptes ?
 
@@ -73,8 +79,10 @@ Pour Twitter :
 
 * Twitter n'est plus utilisé par beta.gouv.fr
 
+Si vous souhaitez de l'aide sur les sujets liés à la croissance, la DINUM met en place un [accompagnement en transverse](../../solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/).
 
 
 
-
-Si vous souhaitez de l'aide sur les sujets liés à la croissance, la DINUM met en place un accompagnement en transverse : [https://doc.incubateur.net/communaute/aide-transverse/growth-hacking-acquisition](https://doc.incubateur.net/communaute/aide-transverse/growth-hacking-acquisition) par Chaïb Martinez
+{% hint style="info" %}
+Ta startup ne possède pas de compte sur les réseaux sociaux ? **Tu peux utiliser le** [**compte LinkedIn beta.gouv.fr**](https://www.linkedin.com/company/betagouv/) **pour donner de la visibilité à ton produit.** Pour cela, c'est simple, rejoins le [canal Mattermost](https://mattermost.incubateur.net/betagouv/channels/tmp-atteindre-20000-followers-linkedin) sur lequel tu trouveras toutes les infos !
+{% endhint %}

@@ -1,7 +1,7 @@
 ---
 description: >-
-  Quelques éléments d'historique pour comprendre comment beta.gouv.fr est devenu
-  ce que l'on connaît aujourd'hui.
+  Quelques éléments pour comprendre comment beta.gouv.fr est devenu ce que l'on
+  connaît aujourd'hui.
 ---
 
 # 💡 L'histoire de beta.gouv.fr

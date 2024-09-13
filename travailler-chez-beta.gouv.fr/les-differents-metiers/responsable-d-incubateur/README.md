@@ -8,6 +8,6 @@ Il peut y avoir plusieurs responsables d'incubateur pour chaque structure d'inno
 
 ## D'autres ressources pour les responsables d'incubateur
 
-{% content-ref url="../../../decouvrir-beta.gouv.fr/les-incubateurs-du-reseau-beta.gouv.fr-to-do.md" %}
-[les-incubateurs-du-reseau-beta.gouv.fr-to-do.md](../../../decouvrir-beta.gouv.fr/les-incubateurs-du-reseau-beta.gouv.fr-to-do.md)
+{% content-ref url="../../../decouvrir-beta.gouv.fr/les-incubateurs-du-reseau-beta.gouv.fr-to-do/" %}
+[les-incubateurs-du-reseau-beta.gouv.fr-to-do](../../../decouvrir-beta.gouv.fr/les-incubateurs-du-reseau-beta.gouv.fr-to-do/)
 {% endcontent-ref %}

@@ -1,25 +1,22 @@
 ---
-description: >-
-  Cette page décrit le processus d'embarquement dans la communauté beta.gouv.
-  Non-obligatoire, il est fortement recommandé afin de pouvoir rapidement tirer
-  le meilleur de cette communauté d'entraide.
+description: Cette page décrit le processus d'embarquement dans la communauté beta.gouvfr.
 hidden: true
 ---
 
 # Les embarquements
 
-L'embarquement se passe en 2 étapes. Ces étapes sont décrites dans l'email que tu reçois 1 jour après la création de ta fiche membre (cf. la rubrique "Le premier jour chez beta.gouv).
+L'embarquement se passe en 2 étapes. Ces étapes sont décrites dans l'email que tu reçois 1 jour après la création de ta fiche membre (cf. la rubrique "Le premier jour chez beta.gouv.fr").
 
-### **1️⃣ Une visio organisée avec les membres de l'équipe communauté de beta.gouv**
+### **1️⃣ Une visio organisée avec les membres de l'équipe animation de beta.gouv.fr**
 
-Nous t'invitons à [prendre rendez-vous avec un·e membre de l'équipe communauté beta.gouv](https://airtable.com/shr5Uaqje8eV9BabU) afin de mieux connaitre ton nouvel environnement de travail.
+Si tu viens de rejoindre une équipe au sein du réseau beta.gouv.fr, nous t'invitons à [t'inscrire au prochain embarquement](https://airtable.com/appebTa6XsY6fDixm/shr5Uaqje8eV9BabU) organisé par l'équipe communauté beta.gouv.fr afin de mieux connaitre ton nouvel environnement de travail.
 
 Cet échange sera le moment de :
 
 * se présenter tous ensemble ;
-* donner du contexte sur le fonctionnement de beta.gouv ;
+* mieux comprendre le fonctionnement de beta.gouv.fr ;
 * répondre à vos questions ;
-* présenter les outils de la communauté : mattermost, l'espace membre, l'observatoire, la documentation.
+* présenter les outils de la communauté : Mattermost, l'espace membre, l'observatoire, la documentation.
 
 ### **2️⃣ Un atelier d'embarquement le matin du forum mensuel de beta**
 
@@ -27,10 +24,10 @@ Tous les premiers jeudis du mois a lieu le forum de beta. C'est une journée ouv
 
 Un atelier pour les nouveaux arrivants est proposé au début du forum pour :
 
-* Faire connaissance avec de nouveaux ou d'anciens membres ;
-* Parler des valeurs de beta.gouv ;
-* Parler de l'engagement au sein de la communauté : comment utiliser 10% de son temps de travail pour faire vivre et améliorer beta.gouv ;
-* Poser ses questions.
+* faire connaissance avec de nouveaux ou d'anciens membres ;
+* parler des valeurs de beta.gouv.fr ;
+* parler de l'engagement au sein de la communauté : comment utiliser 10% de son temps de travail pour faire vivre et améliorer beta.gouv.fr ;
+* poser ses questions.
 
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
