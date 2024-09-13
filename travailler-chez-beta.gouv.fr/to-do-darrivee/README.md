@@ -1,7 +1,8 @@
 ---
 description: >-
-  La checklist dont tu as besoin ! Attention à ne pas tout faire en simultanée,
-  il y a risque d'overdose 😄
+  Tu as rejoint une équipe, une startup ou un incubateur qui fait partie du
+  réseau beta.gouv.fr ? Cette checklist va t'aider à t'embarquer ! Ne fais pas
+  tout en simultanée, il y a risque d'overdose 😄
 ---
 
 # 🐥 Débuter chez beta.gouv.fr

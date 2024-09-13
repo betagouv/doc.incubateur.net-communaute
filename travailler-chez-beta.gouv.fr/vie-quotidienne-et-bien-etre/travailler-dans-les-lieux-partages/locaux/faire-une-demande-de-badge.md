@@ -8,6 +8,10 @@ hidden: true
 
 # Demander ou prolonger un badge
 
+{% hint style="danger" %}
+La procédure de demande et de renouvellement des badges est en cours de modification. Cette page sera mise à jour quand la procédure sera finalisée.
+{% endhint %}
+
 {% hint style="info" %}
 1. **Éligibilité :** Ce processus s'applique uniquement si tu prévois d'être présent(e) dans nos locaux au moins deux jours par semaine.
 2. **Politique de fréquence :** Les demandes de badge pour une fréquence inférieure à deux jours par semaine seront refusées. De plus, sois conscient(e) que les services de la DINUM désactivent automatiquement les badges qui ne sont pas utilisés régulièrement.
@@ -37,7 +41,7 @@ Les demandes de badge pour des fréquences de passage de moins de 2 jours par se
 Une fois ta demande de badge effectuée, il te faudra attendre quelques jours, voire quelques semaines avant l'émission du badge.
 
 Les badges sont produits à Ségur mais **inutile d'aller le chercher toi-même.**\
-Tu peux te rapprocher de l'Equipe Communauté (communaute@beta.gouv.fr) en cas de besoin.
+Tu peux te rapprocher de l'équipe Animation de la communauté (communaute@beta.gouv.fr) en cas de besoin.
 
 ## ✨ Que faire tant que je n'ai pas de badge ?
 
