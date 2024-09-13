@@ -20,9 +20,4 @@ Tu es dans le coin de la Défense et tu souhaites venir profiter de l'open-space
 * pour les équipes qui viennent régulièrement, faites une demande de badge visiteur permanent !
 * écris nous : fabrique.numerique@developpement-durable.gouv.fr
 
-
-
-Les notions / processus :&#x20;
-
-* Utiliser et suivre son budget
-* Pour les autres informations, vous pouvez [les retrouver dans notre ancien espace ](https://doc.mte.incubateur.net/)que nous n'avons pas fini de décommissionner.&#x20;
+### Pour les informations spécifiques à la Fabrique numérique du MTECT, c'est par [ici](https://doc.mte.incubateur.net/) !&#x20;
