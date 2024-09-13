@@ -18,7 +18,7 @@ _Ce process ne s'applique donc pas pour les Startups d'État incubées à Pôle 
 Le process d'obtention d'une nouvelle prestation prend en moyenne 6 semaines. La prestation ne peut commencer qu'une fois que l'administration aura émis un _**bon de commande**_.&#x20;
 
 {% hint style="info" %}
-Pour comprendre l’ensemble du circuit d’un bon de commande, de l’expression de besoin à la facturation, se référer à [ce schéma](https://miro.com/app/board/uXjVO-zTnXY=/).
+Pour comprendre l’ensemble du circuit d’un bon de commande, de l’expression de besoin à la facturation, se référer à [ce schéma](https://miro.com/app/board/uXjVKhAFWJY=/).
 {% endhint %}
 
 ### Étape 1 : s'assurer que la Startup d'État dispose d'un budget suffisant
@@ -29,7 +29,7 @@ Avant toute demande, vérifier la disponibilité d'une enveloppe budgétaire suf
 
 <summary>Si tu fais partie de la Fabrique numérique du ministère de l'Écologie, déroule ici.</summary>
 
-Pour connaitre l'état de consommation de tes conventions/budgets, [un fichier de suivi est disponible ici](https://docs.google.com/spreadsheets/d/1\_3BN-avzUNgh-DCD\_95VL0didj8QSv4CNnASsIHnwPw/edit?usp=sharing).&#x20;
+Pour connaitre l'état de consommation de tes conventions/budgets, tu trouveras toutes les informations [ici](https://app.gitbook.com/s/-MGc-GNCMy4R36JExSEi/suivi-du-budget-et-des-commandes).&#x20;
 
 Bien vérifier que le fichier de suivi est bien à jour, en particulier que ton équipe présente un budget disponible suffisant.
 
