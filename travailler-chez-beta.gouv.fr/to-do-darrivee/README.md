@@ -31,6 +31,7 @@ description: >-
 
 * [ ] Bien prendre le temps de lire notre [kit de démarrage](../les-differents-metiers/developpeur.se/kit-de-demarrage.md) et nos [standards de qualité ](../../gerer-son-produit/les-standards/);
 * [ ] T'inscrire à l'[embarquement dev](https://airtable.com/shrUCbUT72KtKefsu) spécifique.
+* [ ] Rencontre [les référents tech](../../gerer-son-produit/gestion-au-quotidien/tech/to-do-liens-avec-les-referents-techs.md) de ton incubateur
 
 #### Si tu es chargé.e de déploiement/bizdev
 

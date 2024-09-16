@@ -37,7 +37,7 @@ Tu vas recevoir un mail d'invitation.
 
 #### Pourquoi te créer un compte Github si tu n'en as pas encore ? _**(facultatif)**_
 
-En ayant un compte Github, tu gagneras en autonomie durant ta mission dans une équipe du réseau beta.gouv. Par exemple, tu seras autonome pour mettre à jour ta fiche produit ou ta fiche membre.
+En ayant un compte Github, tu gagneras en autonomie durant ta mission dans une équipe du réseau beta.gouv. Tu pourras aussi contribuer à la documentation ou d'autres projet qui y sont hébergés.
 
 {% content-ref url="../autres/github.md" %}
 [github.md](../autres/github.md)
@@ -73,8 +73,8 @@ Cela vient avec quelques **règles d'hygiène informatique** pour assurer un niv
 
 Ces règles s'appliquent à tous les membres de la communauté, quelque soit votre accès à des informations sensibles.
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="faq-espace-membre.md" %}
+[faq-espace-membre.md](faq-espace-membre.md)
 {% endcontent-ref %}
 
 ## 3 - Et ensuite ?
