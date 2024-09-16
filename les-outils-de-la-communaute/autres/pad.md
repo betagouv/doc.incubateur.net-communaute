@@ -8,6 +8,10 @@ description: Pour prendre des notes.
 
 Pour prendre des notes seules ou à plusieurs, vous pouvez utiliser : [https://pad.numerique.gouv.fr/](https://pad.numerique.gouv.fr/)
 
+{% hint style="info" %}
+Pad utilise l'authentification AgentConnect, vous aurez peut-être besoin du SIRET de la DINUM pour vous inscrire, le voici : `13002526500013`
+{% endhint %}
+
 ## Les "pads", comment ça marche ?
 
 Ce sont des documents faciles à rédiger et à partager sur Internet. Ils utilisent le format [Markdown](https://fr.wikipedia.org/wiki/Markdown), qui permet "d'habiller" du texte brut sans être aussi complexe que HTML.
