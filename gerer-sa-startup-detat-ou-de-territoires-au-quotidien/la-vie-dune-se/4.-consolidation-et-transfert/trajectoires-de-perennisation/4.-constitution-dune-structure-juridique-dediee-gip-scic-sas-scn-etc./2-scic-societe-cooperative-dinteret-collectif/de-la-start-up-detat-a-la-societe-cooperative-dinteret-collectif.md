@@ -4,28 +4,28 @@ description: Présentation de la SCIC, de son fonctionnement et des rôles et re
 
 # De la Startup d'Etat à la Société Coopérative d'Intérêt Collectif
 
-## Qu'est-ce qu'une Société Coopérative d'Intérêt Collectif ?
+## 💡Qu'est-ce qu'une Société Coopérative d'Intérêt Collectif ?
 
 La Société Coopérative d'Intérêt Collectif, ou "SCIC" permet à des associés la production ou la fourniture de biens et de services d’intérêt collectif qui présentent un caractère d’utilité sociale. Il s'agit d'une **personne morale de droit privé régie par le code du commerce.**
 
-### Quel intérêt à créer un SCIC ?
+## 🎯 Quel intérêt à créer un SCIC ?
 
 La SCIC est constituée par plusieurs personnes, physiques ou morales pour répondre à des finalités d'intérêt collectif.
 
 La SCIC permet aux associés :
 
-* De créer une société, sans autorisation ou contrôle administratif de l'Etat  ;
+* De créer une société, sans autorisation ou contrôle administratif de l'Etat ;
 * **De déterminer** eux-mêmes **les missions de la structure**, c'est-à-dire **l'objet social d'intérêt collectif** ;
 * D'associer des personnes physiques et des morales dans l'actionnariat de la société ;
 * D'associer les utilisateurs du service et les producteurs de biens et services dans l'actionnariat de la société ;
 
-### **Qui peut faire partie d'une SCIC ?**
+## 🙋‍♀️🙋‍♂️ **Qui peut faire partie d'une SCIC ?**
 
 La SCIC, quelle que soit sa forme, doit comprendre 3 types d'associés : les producteurs du service ou produit, les bénéficiaires du service ou produit, et les autres associés.
 
 Rien ne s'oppose à ce qu'une personne publique soit associée ou actionnaire.
 
-## La transformation d'une start-up d'Etat en SCIC
+## :tools: La transformation d'une start-up d'Etat en SCIC
 
 ### Quel sera le lien avec l'administration ?
 
@@ -45,7 +45,7 @@ Les établissements publics **disposent de la personnalité morale**. Ils sont r
 {% endtab %}
 
 {% tab title="Fondations et fonds de dotation" %}
-Lorsque la fondation (ou le fond de dotation) dispose de la personnalité morale, l'Administration n'est pas responsable des contrats passés. Lorsque la fondation ne dispose pas de la personnalité morale, c'est la personne morale qui l'a créée qui sera responsable des actes et contrats passés.&#x20;
+Lorsque la fondation (ou le fond de dotation) dispose de la personnalité morale, l'Administration n'est pas responsable des contrats passés. Lorsque la fondation ne dispose pas de la personnalité morale, c'est la personne morale qui l'a créée qui sera responsable des actes et contrats passés.
 {% endtab %}
 {% endtabs %}
 
@@ -97,7 +97,7 @@ Les sociétés coopératives d'intérêt collectif **ne sont pas soumises à un 
 {% endtab %}
 
 {% tab title="GIP" %}
-Les groupements d'intérêt public **ne sont pas soumis à un contrôle hiérarchique** de leurs actes (ni devant le préfet ou autre administration) à l'inverse d'autres structures.&#x20;
+Les groupements d'intérêt public **ne sont pas soumis à un contrôle hiérarchique** de leurs actes (ni devant le préfet ou autre administration) à l'inverse d'autres structures.
 
 En revanche, lorsqu'ils sont soumis aux règles de la comptabilité publique, **les GIP peuvent être soumis au contrôle financier et économique de l'Etat**, lorsqu'ils assurent à titre principal la gestion d'un service public administratif en vertu de la [**loi**](https://www.legifrance.gouv.fr/loda/id/LEGIARTI000032442804/2021-04-28/?isSuggest=true)**.**
 {% endtab %}
@@ -114,7 +114,7 @@ Chaque établissement est rattaché à une personne publique (celle dont elle es
 * un lien de dépendance budgétaire et financier, puisque la loi peut prévoir une dotation déterminée par l'administration. L'établissement public qui est rattaché à l'Etat est soumis au déféré préfectoral, ce qui n'est pas le cas des autres.
 {% endhint %}
 
-En outre, Ils disposent également de l'autonomie financière et de gestion.&#x20;
+En outre, Ils disposent également de l'autonomie financière et de gestion.
 
 {% hint style="info" %}
 L'acte constitutif peut disposer que l'établissement public ne bénéficiera pas de l'autonomie de financière et de gestion.
@@ -132,7 +132,7 @@ Les fondations et fonds de dotation ne sont pas soumis à un contrôle hiérarch
 
 Les associés ou actionnaires choisissent les modalités de fonctionnement et organes au sein de la SCIC, en resepctant les dispositions légales obligatoires :
 
-* [Société anonyme](https://www.legifrance.gouv.fr/codes/article\_lc/LEGIARTI000042339625/) ;&#x20;
+* [Société anonyme](https://www.legifrance.gouv.fr/codes/article\_lc/LEGIARTI000042339625/) ;
 * [Société par actions simplifiées](https://www.legifrance.gouv.fr/codes/article\_lc/LEGIARTI000038799575/) ;
 * [Société à responsabilité limitée](https://www.legifrance.gouv.fr/codes/article\_lc/LEGIARTI000019291708/).
 
@@ -161,7 +161,7 @@ Le Conseil d'administration est l'organe de contrôle et de direction des SCIC. 
 * Contrôler l'action du président et du directeur, et le cas échéant le révoquer ;
 * Convoquer l'Assemblée générale ;
 
-Le président du conseil est généralement nommé par le conseil d'administration et peut être révoqué sans aucune justification ou [_ad nutum_](https://www.legifrance.gouv.fr/codes/article\_lc/LEGIARTI000025559503/) __ dans le jargon juridique. Il a des pouvoirs déterminés par les statuts, et sa fonction peut être combinée avec celle du directeur général. Il sera alors, le président directeur général.
+Le président du conseil est généralement nommé par le conseil d'administration et peut être révoqué sans aucune justification ou [_ad nutum_](https://www.legifrance.gouv.fr/codes/article\_lc/LEGIARTI000025559503/) \_\_ dans le jargon juridique. Il a des pouvoirs déterminés par les statuts, et sa fonction peut être combinée avec celle du directeur général. Il sera alors, le président directeur général.
 
 _Le gérant_
 

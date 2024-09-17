@@ -1,34 +1,41 @@
+---
+description: >-
+  L'objectif de cette 3ème étape est d'évaluer les différentes options de
+  pérennisation et choisir la structure d'accueil la plus adaptée
+icon: '3'
+---
+
 # Choisir une structure d'accueil adaptée
 
-Degré de connaissance de la structure d’accueil sur le champ d’activité de la Startup d’État Degré de pertinence de la structure d’accueil pour accroître l’impact et l’utilité du service en vitesse de croisière. La structure d’accueil est l’environnement dans lequel le produit évoluera en vitesse de croisière.&#x20;
+D’une manière générale, il est recommandé de prévoir, si possible, la structure la plus proche possible de l’administration qui pilote la politique publique, afin de simplifier la gouvernance et éviter que de multiples parties prenantes prennent du poids dans le pilotage du dispositif (au risque de tomber dans une concurrence des priorités).
 
-D’une manière générale, il est recommandé de prévoir, si possible, la structure la plus proche possible de l’administration qui pilote la politique publique, afin de simplifier la gouvernance et éviter que de multiples parties prenantes prennent du poids dans le pilotage du dispositif (au risque de tomber dans une concurrence des priorités).&#x20;
+Certains services moins stratégiques pour l'administration peuvent aussi être confiées à des structures tierces, ou être opérées en dehors de la sphère étatique.
 
-Certains services moins stratégiques pour l'administration peuvent aussi être confiées à des structures tierces, ou être opérées en dehors de la sphère étatique.&#x20;
+## 🚀 Plan d'actions
 
-3 trajectoires de pérennisation sont en général constatées pour les Startups d’État :
+1. **Consulter la documentation existante** et les retours d’expérience de précédentes pérennisation&#x20;
 
-{% content-ref url="../trajectoires-de-perennisation/1.-poursuite-de-lexploitation-du-service-au-sein-de-son-incubateur/" %}
-[1.-poursuite-de-lexploitation-du-service-au-sein-de-son-incubateur](../trajectoires-de-perennisation/1.-poursuite-de-lexploitation-du-service-au-sein-de-son-incubateur/)
+{% content-ref url="../trajectoires-de-perennisation/" %}
+[trajectoires-de-perennisation](../trajectoires-de-perennisation/)
 {% endcontent-ref %}
 
-{% content-ref url="../trajectoires-de-perennisation/2.-choix-dune-structure-daccueil-en-gardant-lequipe-de-la-startup-detat/" %}
-[2.-choix-dune-structure-daccueil-en-gardant-lequipe-de-la-startup-detat](../trajectoires-de-perennisation/2.-choix-dune-structure-daccueil-en-gardant-lequipe-de-la-startup-detat/)
+2. **Élaborer une liste des scénariis** possibles de pérennisation, en mettant en avant leurs avantages et leurs risques
+3. **Organiser des consultations avec les parties prenantes** pour discuter des scénariis envisagés et recueillir leurs avis
+4. **Comparer les scénariis au regard de la grille d’analyse** des critères de réussite de la pérennisation
+
+## 🧑‍🤝‍🧑 Parties prenantes
+
+_Liste non exhaustive_
+
+* **Administration sponsor** : la direction générale, le responsable de la politique prioritaire du gouvernement
+* **DINUM** : Responsable de portefeuille, coach et services juridiques
+* **Équipe produit** : Intrapreneur et coach du produit
+* Autres administrations impliquées [dans les services](#user-content-fn-1)[^1] et pouvant participer à la gouvernance&#x20;
+
+***
+
+{% content-ref url="ce-quil-faut-verifier-pour-une-sortie-dincubation-reussie.md" %}
+[ce-quil-faut-verifier-pour-une-sortie-dincubation-reussie.md](ce-quil-faut-verifier-pour-une-sortie-dincubation-reussie.md)
 {% endcontent-ref %}
 
-{% content-ref url="../trajectoires-de-perennisation/4.-constitution-dune-structure-juridique-dediee-gip-scic-sas-scn-etc./" %}
-[4.-constitution-dune-structure-juridique-dediee-gip-scic-sas-scn-etc.](../trajectoires-de-perennisation/4.-constitution-dune-structure-juridique-dediee-gip-scic-sas-scn-etc./)
-{% endcontent-ref %}
-
-### Questions à se poser dans le choix d'une structure d'accueil
-
-| Critère                                                                   | Questions à se poser                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| ------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Ambition et positionnement stratégique de la structure, portage politique | Y’a-t-il une volonté de la structure d’accueil de récupérer la Startup d’État pour accompagner ses missions de service public, sa propre montée en compétences et/ou son rayonnement ?Quelle place laissée à l’administration porteuse dans les orientations du service ? Dans le cas où d’autres parties prenantes seraient impliquées dans la stratégie du produit, le poids de chacune d’entre elle dans les décisions doit être envisagé, notamment s’il y a un risque de concurrence des priorités.                                                                                                                                                                                                                                                                                                                                                                    |
-| Compétences métier                                                        | Degré de connaissance de la structure d’accueil sur le champ d’activité de la Startup d’État Degré de pertinence de la structure d’accueil pour accroître l’impact et l’utilité du service en vitesse de croisière                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| Agilité et compétences numériques                                         | L’administration d’accueil a-t-elle déjà l’habitude des pratiques Startups d’Etat, notamment du pilotage sur la base d’indicateurs d’impacts et du feedback utilisateurs ? Y’a-t-il un risque que le service soit “mis au frigo” comme un simple outil informatique, sans possibilité de prévoir des évolutions ? Ce genre de situation risque de provoquer une obsolescence rapide du service. Attention, une structure qui n’a pas l’habitude de travailler selon les pratiques agiles et lean startup propres aux Startups d’État n’est pas forcément une mauvaise option si la structure présente un souhait marqué de se transformer. La pérennisation peut, dans certains cas, accompagner la montée en compétences des structures accueillant le produit numérique, bénéficiant des compétences acquises par les équipes du produit lorsqu’il était incubé |
-| Gestion des ressources humaines                                           | L’équipe actuelle du service pourra-t-elle être conservée par la structure d’accueil, ou faudra-t-il basculer entièrement sur une nouvelle équipe ? Quelles sont les contraintes RH de la structure d’accueil ? (Ex : plafonds d’emploi, mobilisation d’agents publics intrapreneurs) Quels sont les profils qui doivent être internalisés ou externalisés ? Les compétences clefs peuvent-ils être mobilisés par la structure d’accueil ?                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| Supports contractuels                                                     | La structure d’accueil dispose-t-elle des bons supports contractuels pour commander les prestations requises au bon fonctionnement du service La structure d’accueil permettra-t-elle de faire des économies ?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| Difficultés techniques                                                    | Y’aura-t-il des difficultés de transferts techniques qui auront un impact sur les utilisateurs du service ? Faudra-t-il réécrire le code ? La structure d’accueil impose-t-elle des contraintes techniques qui nécessiteront des développements complémentaires ? La structure d’accueil dispose-t-elle d’un savoir-faire préexistant ?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| Gouvernance                                                               | La gouvernance induite par la structure d’accueil complexifiera-t-elle la comitologie prévue ? Quel est le degré d’éloignement entre les donneurs d’ordre, le métier et les équipes opérationnelles ?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-
+[^1]: 

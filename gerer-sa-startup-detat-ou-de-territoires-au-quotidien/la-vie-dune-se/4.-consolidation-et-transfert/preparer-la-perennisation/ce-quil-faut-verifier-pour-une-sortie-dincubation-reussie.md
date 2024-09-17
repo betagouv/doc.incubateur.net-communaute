@@ -1,17 +1,17 @@
 ---
 description: >-
-  Votre produit arrive en fin d'incubation, et votre administration a décidé de
-  le pérenniser. Voici la liste des éléments à ne pas omettre avant de quitter
-  votre phase "bêta".
+  L'objectif de cette 4ème étape est de s'assurer de la conformité et la
+  documentation nécessaires pour la sortie d'incubation
+icon: '4'
 ---
 
-# Ce qu'il faut vérifier pour une sortie d'incubation réussie
+# Préparer le service à la sortie d'incubation : check-list
 
-{% hint style="info" %}
+{% hint style="warning" %}
 La sortie d'incubation s'anticipe ! Il faut prévoir environ 6 mois pour passer en revue les points présentés ici.
 {% endhint %}
 
-### Produit
+## 🧪 Produit
 
 * L'URL du service n'est [plus adossée à beta.gouv.fr](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/sous-domaine-beta-gouv-fr#migration-hors-des-noms-de-domaine-.beta.gouv.fr). Un [agrément du service d'information du gouvernement (SIG)](https://www.systeme-de-design.gouv.fr/utilisation-et-organisation/procedure-des-agrements/) est obtenu pour le nouveau sous-domaine choisi.
   * Un transfert hors des services / outils mutualisés offerts par beta.gouv.fr est opéré (ex : Matomo, Sentry, etc)
@@ -29,17 +29,17 @@ La sortie d'incubation s'anticipe ! Il faut prévoir environ 6 mois pour passer 
 * Le produit est **respectueux des données personnelles des utilisateurs**. Les démarches liées au RGPD ont été accomplies et le produit a été inscrit au registre de traitement de l'administration porteuse.
 * Les [**standards de qualité beta.gouv.fr**](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/standards-de-qualite-beta.gouv.fr) sont suivis et le maximum est fait pour qu'ils continuent d'être suivis après la sortie d'incubation.
 
-### Équipe
+## 👥 Équipe
 
 * Les membres de l'équipe obtiennent **une adresse mail pérenne** (non fournie par beta.gouv.fr) sous 6 mois après la pérennisation.
   * Les alumni restent bienvenus dans les événements de la communauté  beta.gouv.fr (notamment Forum) et peuvent continuer à avoir un accès au Mattermost.&#x20;
 * Le **pilotage de l'équipe** est internalisé.
-  * La doctrine de l'État est de viser au maximum 60% d'externalisation sur les services publics numériques.
+  * La doctrine de l'État est de viser au maximum[ 60% d'externalisatio](#user-content-fn-1)[^1]n sur les services publics numériques.
   * Selon la DINUM, les prestataires de longue durée (développement, maintenance, déploiement, gestion de produit etc) coûtent de 25 à 40% plus cher à l'État qu'en internalisant la compétence.
   * Depuis 2023, l'obtention d'ETP est facilitée pour la réinternalisation de compétences numériques. Pour en savoir plus, contacter l'équipe de l'incubateur de la DINUM.
   * Documentation : [circulaire n°6391-SG de février 2023 relative au pilotage et encadrement du recours aux prestations intellectuelles informatique](https://www.legifrance.gouv.fr/circulaire/id/45407?origin=list)
 
-### Ressources
+## 💸 Ressources
 
 * Une **ligne budgétaire annuelle** est inscrite au budget de votre administration et correspond au coût d'exploitation de votre service en vitesse de croisière.
   * Il convient d'évaluer le coût d'exploitation de votre service numérique et de l'inscrire dans la maquette budgétaire de votre administration : les dépenses ne peuvent plus être imputées sur ses dépenses d'innovation
@@ -48,7 +48,7 @@ La sortie d'incubation s'anticipe ! Il faut prévoir environ 6 mois pour passer 
 * Un **support contractuel** est disponible pour les prestations nécessaires à l'amélioration continue du service.
   * À titre d'exemple, le [marché interministériel de réalisation de produits beta.gouv.fr](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/recrutement/marches-publics-beta.gouv.fr/marche-interministeriel-beta) qui court au maximum jusqu'à septembre 2025 peut être utilisé par des produits pérennisés, même après leur sortie d'incubation, sous réserve que l'administration porteuse y ait adhéré.
 
-### Documentation
+## 📁 Documentation
 
 * La **fiche produit** sur le site de beta.gouv.fr est mise à jour avec une description du service et de son impact au moment de la sortie d'incubation. Cela peut se faire en une heure [via Github](https://github.com/betagouv/beta.gouv.fr).
 * Le **code source**, qui reste ouvert, est correctement documenté et audité par une personne experte de la DINUM ou de l'incubateur de référence avant la pérennisation.
@@ -56,3 +56,10 @@ La sortie d'incubation s'anticipe ! Il faut prévoir environ 6 mois pour passer 
 * Le fonctionnement, la **répartition des rôles et les tâches** dans l'équipe, les **outils** utilisés par l'équipe, le **mode de paiement** et les **accès** sont documentés.
 * Une analyse d'impact est réalisée avec l'équipe de beta.gouv.fr. Cette analyse peut servir à mettre en avant le service en tant que "[service public numériques à impact national"](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/acceleration/services-numeriques-a-impact-national), et être ainsi considéré comme un succès du programme beta.gouv.fr.
 
+***
+
+{% content-ref url="mettre-en-oeuvre-la-perennisation.md" %}
+[mettre-en-oeuvre-la-perennisation.md](mettre-en-oeuvre-la-perennisation.md)
+{% endcontent-ref %}
+
+[^1]: mouhahaha

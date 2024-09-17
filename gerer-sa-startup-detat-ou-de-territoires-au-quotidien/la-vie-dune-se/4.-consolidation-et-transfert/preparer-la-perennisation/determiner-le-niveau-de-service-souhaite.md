@@ -1,14 +1,62 @@
 ---
 description: >-
-  Quelles sont les ambitions du service numérique ? Ces objectifs de croissance
-  à moyen et long termes ? Le niveau de service nécessaire pour qu'il fonctionne
-  en vitesse de croisière ?
+  L'objectif ce cette première étape est de déterminer l'ambition souhaitée pour
+  le service et son intégration dans l'administration.
+icon: '1'
 ---
 
-# Déterminer le niveau de service souhaité
+# Définir les objectifs de la pérennisation
 
-En fonction de l’impact obtenu et des objectifs du service numérique, le niveau de service nécessaire en vitesse de croisière peut varier. Avant le transfert, il est recommandé de réfléchir aux objectifs du service à long-terme et aux compétences nécessaires pour opérer le service.
+## 🚀 Plan d'actions
 
-![](https://lh5.googleusercontent.com/8PX0psIalxMbZ66tSkPq6uH\_5HjulB92sJfgUx1pwSAjsesWxz230DkA4szkbYMuMH8kA3boLXfr4TfUqYc\_6RtUHngat3JQ5yH4atODvIM6eFNn5gJ-\_GXn8pqGpoa1yOKskPfA)
+1. **Recueillir les besoins et objectifs des parties prenantes**\
+   Organiser une ou plusieurs réunions avec les parties prenantes du produit pour discuter des objectifs de pérennisation
 
-_**Exemple** : transport.data.gouv.fr référence des données de transport fournies par des opérateurs et des territoires qui doivent être mises à jour régulièrement ; par ailleurs, le périmètre du service intègre chaque année de nouvelles types de données. En conséquence, la DGITM a maintenu une équipe de 6 personnes (1 agent public responsable du produit, 2 chargés de déploiement, 3 développeurs) en charge du service. Cette équipe a pour missions d'opérer la plateforme, de s'assurer que les jeux de données publiés sont utilisables, de qualité et à jour, d'accompagner les acteurs du transport pour ouvrir de nouvelles données, de valoriser les données présentes sur la plateforme auprès de réutilisateurs publics comme privés. Les statistiques du service sont suivis sur la page_ [_https://transport.data.gouv.fr/stats_](https://transport.data.gouv.fr/stats)__
+{% hint style="success" %}
+**Atelier de construction d’une vision commune pour le produit :**\
+⇒ Quels ont été selon vous les réussites du produit ? \
+⇒ Qu’est ce qui a permis ces réussites ? \
+⇒ Demain, à quoi ressemblera le produit ? \
+⇒ Que faudra-t-il absolument conserver pour que la pérennisation soit un succès ?\
+\
+**Perspectives de la pérennisation (par exemple sous forme de** [**Futurespective**](https://www.neatro.io/fr/blog/retrospective-futurespective/#quatreexemplesdefuturespectives)**)** :\
+⇒ Quelles sont les forces du produit ? \
+⇒ Quelles sont ses faiblesses ? \
+⇒ Quelles opportunités pourraient permettre la pérennisation ? \
+⇒ Quelles sont vos craintes pour la pérennisation ?
+{% endhint %}
+
+2. **Rassembler les besoins et objectifs des parties prenantes afin d'obtenir une vision commune**\
+   Créez un document de vision clair et détaillé qui exprime l'ambition et l’impact du service, puis partagez-le avec toutes les parties prenantes lors d'un "comité pérennisation"
+3. **Explorer de nouvelles alliances**\
+   Si le produit est destiné à devenir interministériel, identifiez les ministères ou organismes susceptibles de collaborer pour décupler son impact
+
+## 🧑‍🤝‍🧑 Parties prenantes
+
+_Liste non exhaustive_
+
+* **Administration sponsor** : la direction générale, les bureaux métiers
+* **DINUM** : Responsable de portefeuille et coach[^1]
+* **Équipe produit** : Intrapreneur et coach du produit
+
+
+
+{% file src="../../../../.gitbook/assets/Exemple de note ou mail introduisant une pérennisation.docx" %}
+
+{% file src="../../../../.gitbook/assets/Note _Comment pérenniser un service numérique.pdf" %}
+
+## 🧐 Points de vigilance
+
+* **Vision produit** \
+  La vision du produit doit être le moteur des réflexions sur les ressources nécessaires. Elle doit s’ancrer fermement sur l'impact du service. Si besoin, ajoutez une session de “formation” à l’impact dans vos ateliers
+* **Levez les divergences** \
+  Assurez-vous que les divergences potentielles entre les parties prenantes soient mises en lumière et discutées. C’est le moment idéal pour un dialogue ouvert, qui pourrait être facilité par une tierce personne pour garantir la neutralité
+
+***
+
+{% content-ref url="determiner-le-niveau-de-ressources-annuelles.md" %}
+[determiner-le-niveau-de-ressources-annuelles.md](determiner-le-niveau-de-ressources-annuelles.md)
+{% endcontent-ref %}
+
+[^1]: coach pas toujours à la DINUM, c'est quel coach ?
+

@@ -2,34 +2,34 @@
 description: Présentation du GIP, de son fonctionnement et des rôles et responsabilités
 ---
 
-# De la Startup d’Etat au Groupement d’intérêt public (GIP)
+# De la Start-up d’État au Groupement d’intérêt public (GIP)
 
-## Qu'est-ce un Groupement d'intérêt public ?
+## 💡 Qu'est-ce un Groupement d'intérêt public ?
 
 Le Groupement d'intérêt public, ou "GIP" permet à des partenaires publics et privés de mettre en commun des moyens pour la mise en œuvre de missions d’intérêt général. Il s'agit d'une **personne morale de droit public**, qui, une fois constitué, dispose de l’autonomie administrative et financière.
 
-### Quel intérêt à créer un Groupement d'intérêt public (GIP) ?
+## 🎯 Quel intérêt à créer un Groupement d'intérêt public (GIP) ?
 
-Le GIP est constitué avec un ou plusieurs partenaires qui s’engagent par une convention approuvée par l’Etat.&#x20;
+Le GIP est constitué avec un ou plusieurs partenaires qui s’engagent par une convention approuvée par l’Etat.
 
-Après approbation de l'Etat, les créateurs du GIP pourront donc :&#x20;
+Après approbation de l'Etat, les créateurs du GIP pourront donc :
 
 * **Déterminer** eux-mêmes **les missions de la structure**, nommé **objet social** dans la convention créatrice ;
-* **Déterminer** **les partenaires et leurs investissements au sein de la structure** ;&#x20;
-* Constituer une structure comprise **majoritairement de personnes publiques ou de titulaires d'une mission de service public** et de leurs représentants **** (la majorité peut être de capital ou majorité de voix dans les organes délibérants) ;
-* **Déterminer les instances et l'organisation du groupement de manière libre**, même si l'on retrouve de manière générale,  on trouve une assemblée générale, un conseil d’administration (doté d’un président) et d’une direction administrative ;
+* **Déterminer** **les partenaires et leurs investissements au sein de la structure** ;
+* Constituer une structure comprise **majoritairement de personnes publiques ou de titulaires d'une mission de service public** et de leurs représentants \*\*\*\* (la majorité peut être de capital ou majorité de voix dans les organes délibérants) ;
+* **Déterminer les instances et l'organisation du groupement de manière libre**, même si l'on retrouve de manière générale, on trouve une assemblée générale, un conseil d’administration (doté d’un président) et d’une direction administrative ;
 * **Déterminer le statut de son personnel**.
 
 La constitution d’un GIP nécessite donc soit une bonne entente entre les partenaires, soit une volonté politique forte de réunir les partenaires dans un objectif de collaboration commune.
 
-### Qui peut faire partie d'un Groupement d'intérêt public (GIP) ?
+## 🙋‍♀️🙋‍♂️ Qui peut faire partie d'un Groupement d'intérêt public (GIP) ?
 
-Le Groupement d'intérêt public est composé de :&#x20;
+Le Groupement d'intérêt public est composé de :
 
-* De personnes morales de droit public ou de droit  privé chargées d'une mission de service public ;
+* De personnes morales de droit public ou de droit privé chargées d'une mission de service public ;
 * D'autres personnes morales, françaises ou étrangères.
 
-## :tools: La transformation de la Start-up en GIP&#x20;
+## :tools: La transformation de la Start-up en GIP
 
 ### Quel sera le lien avec l'administration ?
 
@@ -49,7 +49,7 @@ Les établissement public **disposent de la personnalité morale**. L'Etat n'est
 {% endtab %}
 
 {% tab title="Fondations et fonds de dotation" %}
-Lorsque la fondation (ou le fond de dotation) dispose de la personnalité morale, l'Administration n'est pas responsable des contrats passés. Lorsque la fondation ne dispose pas de la personnalité morale, c'est la personne morale qui l'a créée qui sera responsable des actes et contrats passés.&#x20;
+Lorsque la fondation (ou le fond de dotation) dispose de la personnalité morale, l'Administration n'est pas responsable des contrats passés. Lorsque la fondation ne dispose pas de la personnalité morale, c'est la personne morale qui l'a créée qui sera responsable des actes et contrats passés.
 {% endtab %}
 {% endtabs %}
 
@@ -97,7 +97,7 @@ Les fondations bénéficient très souvent d'un soutient économique important d
 
 {% tabs %}
 {% tab title="GIP" %}
-Les groupements d'intérêt public **ne sont pas soumis à un contrôle hiérarchique** de leurs actes (ni devant le préfet ou autre administration) à l'inverse d'autres structures.&#x20;
+Les groupements d'intérêt public **ne sont pas soumis à un contrôle hiérarchique** de leurs actes (ni devant le préfet ou autre administration) à l'inverse d'autres structures.
 
 En revanche, lorsqu'ils sont soumis aux règles de la comptabilité publique, **les GIP peuvent être soumis au contrôle financier et économique de l'Etat**, lorsqu'ils assurent à titre principal la gestion d'un service public administratif en vertu de la [**loi**](https://www.legifrance.gouv.fr/loda/id/LEGIARTI000032442804/2021-04-28/?isSuggest=true)**.**
 {% endtab %}
@@ -118,7 +118,7 @@ Chaque établissement est rattaché à une personne publique (celle dont elle es
 * un lien de dépendance budgétaire et financier, puisque la loi peut prévoir une dotation déterminée par l'administration. L'établissement public qui est rattaché à l'Etat est soumis au déféré préfectoral, ce qui n'est pas le cas des autres.
 {% endhint %}
 
-En outre, Ils disposent également de l'autonomie financière et de gestion.&#x20;
+En outre, Ils disposent également de l'autonomie financière et de gestion.
 
 {% hint style="info" %}
 L'acte constitutif peut disposer que l'établissement public ne bénéficiera pas de l'autonomie de financière et de gestion.
@@ -142,13 +142,13 @@ S’agissant du personnel, le principe est que le groupement puisse bénéficier
 
 _L'Assemblée générale_
 
-L’assemblée générale est composée de l’ensemble des membres du groupement, et chaque partenaire doit détenir un siège au sein de l’assemblée générale. Sa convocation nécessite au moins un quart des membres ou des voix détenues par des membres du groupement, condition à laquelle peut s’ajouter d’autres modalités prévues par la convention constitutive.&#x20;
+L’assemblée générale est composée de l’ensemble des membres du groupement, et chaque partenaire doit détenir un siège au sein de l’assemblée générale. Sa convocation nécessite au moins un quart des membres ou des voix détenues par des membres du groupement, condition à laquelle peut s’ajouter d’autres modalités prévues par la convention constitutive.
 
 Par principe, ses missions et attributions sont fixées par la convention constitutive. Peuvent faire partie des compétences de l’AG : le programme d’activités, l’approbation des comptes, la prise de participation dans d’autres entités juridiques.
 
-_Le président et le conseil d'administration_&#x20;
+_Le président et le conseil d'administration_
 
-Le conseil d’administration est constitué, convoqué et s’organise dans les conditions prévues par la convention constitutive. Le CA peut délibérer sur : le budget et le compte financier ou annuel, la fixation des participations respectives des membres, la rédaction d’un rapport financier à destination des membres de l’assemblée générale, la convocation des assemblées, le fonctionnement du GIP.&#x20;
+Le conseil d’administration est constitué, convoqué et s’organise dans les conditions prévues par la convention constitutive. Le CA peut délibérer sur : le budget et le compte financier ou annuel, la fixation des participations respectives des membres, la rédaction d’un rapport financier à destination des membres de l’assemblée générale, la convocation des assemblées, le fonctionnement du GIP.
 
 Sont membres du CA : le président, les administrateurs ainsi que le commissaire du gouvernement (ou son représentant) et l’agent comptable .
 
@@ -162,11 +162,11 @@ La direction gère les affaires courantes et peut notamment : 1. Déléguer ses 
 
 _L'agent comptable_
 
-L’agent comptable est nommé par un arrêté du ministre chargé du budget. Il a pour mission : le recouvrement des recettes, le paiement des dépenses, de la garde et de la conservation des fonds et valeurs appartenant ou confiés au GIP.&#x20;
+L’agent comptable est nommé par un arrêté du ministre chargé du budget. Il a pour mission : le recouvrement des recettes, le paiement des dépenses, de la garde et de la conservation des fonds et valeurs appartenant ou confiés au GIP.
 
-_D'autres instances_ **:**&#x20;
+_D'autres instances_ **:**
 
-La convention constitutive peut prévoir d’autres instances au sein du GIP. Leurs règles de fonctionnement sont également fixées par la convention.&#x20;
+La convention constitutive peut prévoir d’autres instances au sein du GIP. Leurs règles de fonctionnement sont également fixées par la convention.
 
 A titre d'exemple : le comité technique, la commission consultative paritaire, le "CHSCT".
 
@@ -182,7 +182,7 @@ Les GIP peuvent néanmoins bénéficier, selon les règles déterminées par les
 * du recours au "prêt de main d'oeuvre" en application des articles L.8241-1 et suivant du code du travail ;
 * du détachement d'agents de la fonction publique **dans les conditions prévues par les textes qui les régissent**.
 
-_Contrats avec des tiers dans le cadre de l'activité du GIP_&#x20;
+_Contrats avec des tiers dans le cadre de l'activité du GIP_
 
 Les contrats passés par le GIP suivent le régime du code de la commande publique. Ils doivent donc respecter l’ensemble des procédures du code de la commande publique.
 
@@ -191,3 +191,4 @@ De plus, les GIP peuvent prendre en charge une activité économique à la condi
 {% hint style="info" %}
 Un guide détaillé relatif aux GIP réalisé par la DAJ de Bercy est disponible à l’adresse suivante : [https://www.economie.gouv.fr/daj/guide-relatif-aux-gip](https://www.economie.gouv.fr/daj/guide-relatif-aux-gip)
 {% endhint %}
+
