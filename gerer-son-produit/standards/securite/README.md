@@ -6,7 +6,7 @@
   * Choisissez des mots de passe longs (20 caractères minimum), complexes et uniques par service ;
   * Créez un compte par personne et évitez de partager un compte si c'est possible de faire autrement ;
   * Activez le 2FA sur tous vos services ;
-  * Utilisez [un gestionnaire de mots de passe](../../../les-outils-de-la-communaute/autres/vaultwarden.md) pour stocker vos mots de passe.
+  * Utilisez [un gestionnaire de mots de passe](../../../les-outils-de-la-communaute/autres-services/vaultwarden/) pour stocker vos mots de passe.
 * Savoir réagir en cas de [fuite de données](../../gestion-au-quotidien/tech/readme-1/)
 * Inscrivez votre produit sur [MonServiceSécurisé](https://monservicesecurise.cyber.gouv.fr/)
 
