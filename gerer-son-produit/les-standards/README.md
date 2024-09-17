@@ -77,8 +77,8 @@ Un "**standard**" c’est un critère d’évaluation explicite de quelque chose
 
 * L'équipe est pilotée par un **processus de design proche des usagers** : il est normal pour les développeuses et les développeurs d'aller à la rencontre des utilisateurs, et d'inviter des utilisateurs aux séances de design.
 
-{% content-ref url="eco-conception.md" %}
-[eco-conception.md](eco-conception.md)
+{% content-ref url="eco-conception/" %}
+[eco-conception](eco-conception/)
 {% endcontent-ref %}
 
 * L'équipe développe le produit dans un **esprit de sobriété**, en priorisant les fonctionnalités les plus simple possible pour prouver l'impact sur les utilisateurs (par exemple : [prioriser un parcours bien conçu plutôt qu'une Foire aux questions](https://alistapart.com/article/no-more-faqs-create-purposeful-information-for-a-more-effective-user-experi/), prioriser une FAQ bien documentée à un _chatbot_)
