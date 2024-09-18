@@ -1,14 +1,25 @@
 ---
 description: Présentation du GIP, de son fonctionnement et des rôles et responsabilités
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
 ---
 
 # De la Start-up d'Etat au Groupement d'intérêt public (GIP)
 
-## Qu💡💡 Qu'est-ce un Groupement d'intérêt public ?'est-ce un Groupement d'intérêt public ?
+## 💡 Qu'est-ce un Groupement d'intérêt public ?
 
 Le Groupement d'intérêt public, ou "GIP" permet à des partenaires publics et privés de mettre en commun des moyens pour la mise en œuvre de missions d’intérêt général. Il s'agit d'une **personne morale de droit public**, qui, une fois constitué, dispose de l’autonomie administrative et financière.
 
-### Quel intérêt à créer un Groupement d'intérêt public (GIP) ?
+## 🎯Quel intérêt à créer un Groupement d'intérêt public (GIP) ?
 
 Le GIP est constitué avec un ou plusieurs partenaires qui s’engagent par une convention approuvée par l’Etat.
 
@@ -22,7 +33,7 @@ Après approbation de l'Etat, les créateurs du GIP pourront donc :
 
 La constitution d’un GIP nécessite donc soit une bonne entente entre les partenaires, soit une volonté politique forte de réunir les partenaires dans un objectif de collaboration commune.
 
-### Qui peut faire partie d'un Groupement d'intérêt public (GIP) ?
+## 🙋‍♀️🙋‍♂️Qui peut faire partie d'un Groupement d'intérêt public (GIP) ?
 
 Le Groupement d'intérêt public est composé de :
 
