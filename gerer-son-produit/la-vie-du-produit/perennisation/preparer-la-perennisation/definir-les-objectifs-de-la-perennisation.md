@@ -58,5 +58,7 @@ _Liste non exhaustive_
 
 ***
 
-
+{% content-ref url="evaluer-les-conditions-et-ressources-necessaires.md" %}
+[evaluer-les-conditions-et-ressources-necessaires.md](evaluer-les-conditions-et-ressources-necessaires.md)
+{% endcontent-ref %}
 

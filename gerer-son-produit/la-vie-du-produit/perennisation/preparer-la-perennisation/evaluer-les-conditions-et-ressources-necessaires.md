@@ -63,4 +63,6 @@ _**Exemple** : le service de dématérialisation des démarches administratives 
 
 ***
 
-\
+{% content-ref url="choisir-une-structure-daccueil-adaptee.md" %}
+[choisir-une-structure-daccueil-adaptee.md](choisir-une-structure-daccueil-adaptee.md)
+{% endcontent-ref %}
