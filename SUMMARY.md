@@ -178,7 +178,7 @@
   * [3️⃣ Accélération](gerer-son-produit/la-vie-du-produit/acceleration/README.md)
     * [📋 Checklist de la phase d'accélération](gerer-son-produit/la-vie-du-produit/acceleration/la-checklist-de-la-phase-dacceleration.md)
     * [⏩ FAST](gerer-son-produit/la-vie-du-produit/acceleration/fonds-dacceleration-des-startups-detat.md)
-  * [4️⃣ Pérennisation](gerer-son-produit/la-vie-du-produit/perennisation/README.md)
+  * [4️⃣ Sortie d'incubation et pérennisation](gerer-son-produit/la-vie-du-produit/perennisation/README.md)
     * [Ce qu'il faut vérifier pour une sortie d'incubation réussie](gerer-son-produit/la-vie-du-produit/perennisation/ce-quil-faut-verifier-pour-une-sortie-dincubation-reussie.md)
     * [Préparer la pérennisation](gerer-son-produit/la-vie-du-produit/perennisation/preparer-la-perennisation/README.md)
       * [Déterminer le niveau de service souhaité](gerer-son-produit/la-vie-du-produit/perennisation/preparer-la-perennisation/determiner-le-niveau-de-service-souhaite.md)
