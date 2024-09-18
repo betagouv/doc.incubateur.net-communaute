@@ -28,7 +28,3 @@ Un atelier pour les nouveaux arrivants est proposé au début du forum pour :
 * parler des valeurs de beta.gouv.fr ;
 * parler de l'engagement au sein de la communauté : comment utiliser 10% de son temps de travail pour faire vivre et améliorer beta.gouv.fr ;
 * poser ses questions.
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
