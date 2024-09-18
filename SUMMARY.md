@@ -239,6 +239,8 @@
       * [Je suis ops transverse d'un incubateur](gerer-son-produit/gestion-au-quotidien/tech/readme-1/je-suis-ops-transverse-dun-incubateur.md)
       * [Je ne suis pas développeur](gerer-son-produit/gestion-au-quotidien/tech/readme-1/je-ne-suis-pas-developpeur.md)
       * [Modèle de rapport d'incident](gerer-son-produit/gestion-au-quotidien/tech/readme-1/modele-de-rapport-dincident.md)
+* [🤖 Faire de l’IA chez beta](gerer-son-produit/faire-de-lia-chez-beta/README.md)
+  * [👓 Guide pour définir un problème métier actionnable par l'IA](gerer-son-produit/faire-de-lia-chez-beta/guide-pour-definir-un-probleme-metier-actionnable-par-lia.md)
 
 ## Les outils de la communauté
 
