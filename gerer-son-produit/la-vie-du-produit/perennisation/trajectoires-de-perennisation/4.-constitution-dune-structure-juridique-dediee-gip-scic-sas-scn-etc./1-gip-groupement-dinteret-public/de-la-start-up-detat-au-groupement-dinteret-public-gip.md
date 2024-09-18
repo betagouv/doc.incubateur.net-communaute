@@ -27,7 +27,7 @@ Après approbation de l'Etat, les créateurs du GIP pourront donc :
 
 * **Déterminer** eux-mêmes **les missions de la structure**, nommé **objet social** dans la convention créatrice ;
 * **Déterminer** **les partenaires et leurs investissements au sein de la structure** ;
-* Constituer une structure comprise **majoritairement de personnes publiques ou de titulaires d'une mission de service public** et de leurs représentants \*\*\*\* (la majorité peut être de capital ou majorité de voix dans les organes délibérants) ;
+* Constituer une structure comprise **majoritairement de personnes publiques ou de titulaires d'une mission de service public** et de leurs représentants (la majorité peut être de capital ou majorité de voix dans les organes délibérants) ;
 * **Déterminer les instances et l'organisation du groupement de manière libre**, même si l'on retrouve de manière générale, on trouve une assemblée générale, un conseil d’administration (doté d’un président) et d’une direction administrative ;
 * **Déterminer le statut de son personnel**.
 
