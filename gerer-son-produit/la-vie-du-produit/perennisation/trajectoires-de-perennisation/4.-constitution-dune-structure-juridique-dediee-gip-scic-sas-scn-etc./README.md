@@ -1,19 +1,33 @@
-# 3. Constitution d’une structure juridique dédiée : GIP, SCIC, SAS, SCN, etc.
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+---
+
+# Constitution d'une structure juridique dédiée
 
 Le produit en se développant a rencontré un public qui dépasse les usagers de l’administration porteuse ; d’autres administrations sont prêtes à co-investir dans le développement du produit. La Startup d'Etat évolue en une entité juridique autonome et l’administration porteuse devient “investisseur”.
 
-#### Avantages&#x20;
+### Avantages
 
-* ce processus de consolidation permet une grande liberté dans les modes de gouvernance et la feuille de route produit, ainsi qu'une flexibilité sur le recrutement et la rémunération.&#x20;
-* e type de structures disposent d'une carte bleue qui permet d'être extrêmement agile dans l'achat de prestations de bas niveau comme des outils de productivité ou des abonnements à des services en ligne.&#x20;
+* ce processus de consolidation permet une grande liberté dans les modes de gouvernance et la feuille de route produit, ainsi qu'une flexibilité sur le recrutement et la rémunération.
+* e type de structures disposent d'une carte bleue qui permet d'être extrêmement agile dans l'achat de prestations de bas niveau comme des outils de productivité ou des abonnements à des services en ligne.
 
-#### Limites&#x20;
+### Limites
 
 * ce scénario peut prendre du temps (au moins 18 mois) et requiert une volonté politique forte. Il est conseillé d'avancer par étape. Avant de construire un objet commun juridique autonome, utiliser des conventions de financement pour tester un modus operandi avec un ou plusieurs co-investisseurs publics.
 
-**Exemples** :&#x20;
+### **Exemples**
 
-* [Pix](https://pix.fr) s’est constitué en groupement d’intérêt public, et compte plus de cinquante collaborateurs aujourd’hui.&#x20;
+* [Pix](https://pix.fr) s’est constitué en groupement d’intérêt public, et compte plus de cinquante collaborateurs aujourd’hui.
 * Le [Pass culture](https://pass.culture.fr) est devenu une société anonyme et compte plus de cent collaborateurs.
 
 ### GIP - Groupement d'intérêt public

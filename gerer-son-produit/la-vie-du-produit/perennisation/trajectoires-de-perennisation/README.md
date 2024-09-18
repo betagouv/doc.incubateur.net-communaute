@@ -24,12 +24,12 @@ La question se pose de savoir, une fois le développement au sein de l'administr
 
 ## 👇Quelques formes possibles de pérennisation
 
-{% content-ref url="1.-poursuite-de-lexploitation-du-service-au-sein-de-son-incubateur/" %}
-[1.-poursuite-de-lexploitation-du-service-au-sein-de-son-incubateur](1.-poursuite-de-lexploitation-du-service-au-sein-de-son-incubateur/)
+{% content-ref url="1.-poursuite-de-lexploitation-du-service-au-sein-de-son-incubateur.md" %}
+[1.-poursuite-de-lexploitation-du-service-au-sein-de-son-incubateur.md](1.-poursuite-de-lexploitation-du-service-au-sein-de-son-incubateur.md)
 {% endcontent-ref %}
 
-{% content-ref url="2.-choix-dune-structure-daccueil-en-gardant-lequipe-de-la-startup-detat/" %}
-[2.-choix-dune-structure-daccueil-en-gardant-lequipe-de-la-startup-detat](2.-choix-dune-structure-daccueil-en-gardant-lequipe-de-la-startup-detat/)
+{% content-ref url="2.-choix-dune-structure-daccueil-en-gardant-lequipe-de-la-startup-detat.md" %}
+[2.-choix-dune-structure-daccueil-en-gardant-lequipe-de-la-startup-detat.md](2.-choix-dune-structure-daccueil-en-gardant-lequipe-de-la-startup-detat.md)
 {% endcontent-ref %}
 
 {% content-ref url="4.-constitution-dune-structure-juridique-dediee-gip-scic-sas-scn-etc./" %}
