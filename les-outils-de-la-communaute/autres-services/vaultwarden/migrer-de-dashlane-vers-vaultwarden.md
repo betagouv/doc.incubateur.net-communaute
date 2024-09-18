@@ -6,6 +6,10 @@
 #### Pour se familiariser avec l'outil VaultWarden, lire [la page de présentation VaultWarden](./). <a href="#comment-migrer-une-equipe" id="comment-migrer-une-equipe"></a>
 {% endhint %}
 
+{% hint style="danger" %}
+Si vous extrayez un mot de passe, le sauvegardez sur disque ou le transmettez via un canal non sécurisé (ex: mattermost), considérez ce mot de passe comme corrompu à jamais et renouvelez-le.
+{% endhint %}
+
 ### Comment migrer une équipe <a href="#comment-migrer-une-equipe" id="comment-migrer-une-equipe"></a>
 
 Nous recommandons qu’une seule personne de l’équipe se charge de recréer les mots de passes partagés sur VaultWarden.
@@ -17,10 +21,6 @@ Nous recommandons qu’une seule personne de l’équipe se charge de recréer l
 
 {% hint style="warning" %}
 &#x20;Il n’est pas possible d’exporter en masse depuis DashLane. C’est l’occasion de faire le ménage et de renouveler certains mots de passe. C’est aussi l’occasion de vérifier à qui et pourquoi vous partagez un élément !
-{% endhint %}
-
-{% hint style="danger" %}
-Si vous extrayez un mot de passe, le sauvegardez sur disque ou le transmettez via un canal non sécurisé (ex: mattermost), considérez ce mot de passe comme corrompu à jamais et renouvelez-le.
 {% endhint %}
 
 {% hint style="warning" %}
