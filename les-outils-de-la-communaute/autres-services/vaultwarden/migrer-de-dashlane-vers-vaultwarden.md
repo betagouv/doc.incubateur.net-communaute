@@ -29,7 +29,7 @@ Les mots de passes stockés dans VaultWarden ne sont PAS accessibles par l’éq
 
 ### Comment migrer ses mots de passe persos <a href="#comment-migrer-ses-mots-de-passe-persos" id="comment-migrer-ses-mots-de-passe-persos"></a>
 
-Dans DashLane, aller dans “Mon Compte”, “Paramètres” puis “Export mes données” et choisir le format CSV.
+Dans DashLane, aller dans “Mon Compte”, “Paramètres” puis “Exporter mes données” et choisir le format CSV.
 
 Dans VaultWarden, aller dans “Outils”, “Importer des données”, choisir le coffre et dossier de destination (si c’est des comptes persos, mettre “Mon coffre”). Choisir le format “Dashlane/CSV” et validez.
 
