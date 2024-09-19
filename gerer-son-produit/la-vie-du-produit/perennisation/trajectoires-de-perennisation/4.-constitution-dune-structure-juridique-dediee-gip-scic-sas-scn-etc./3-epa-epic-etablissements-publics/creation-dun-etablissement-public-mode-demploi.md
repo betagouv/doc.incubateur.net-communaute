@@ -1,6 +1,6 @@
-# Création d'un Etablissement public \(mode d'emploi\)
+# Création d'un Etablissement public : mode d'emploi
 
-### Comment puis-je créer un Etablissement public ?
+## Comment puis-je créer un Etablissement public ?
 
 Qu'il soit un EPIC ou un EPA, **seul l'Etat et les collectivité territoriales** peuvent créer des établissements publics. Si aucune loi ne s'en charge, l'administration devra donc **prendre une ordonnance, un décret ou un arrêté** qui devra déterminer :
 
@@ -10,4 +10,3 @@ Qu'il soit un EPIC ou un EPA, **seul l'Etat et les collectivité territoriales**
 * La mission d'intérêt public ;
 
 En tout état de cause, les statuts font partie de l'acte constitutif.
-
