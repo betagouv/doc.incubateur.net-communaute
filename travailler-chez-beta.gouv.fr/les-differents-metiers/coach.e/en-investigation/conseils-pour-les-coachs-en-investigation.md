@@ -35,11 +35,6 @@ L'objectif est de rendre votre travail découvrable facilement pour toute person
 ## Et après la première semaine, quels sont les jalons que je dois garder en tête ? <a href="#et-apres-la-premiere-semaine-quels-sont-les-jalons-que-je-dois-garder-en-tete" id="et-apres-la-premiere-semaine-quels-sont-les-jalons-que-je-dois-garder-en-tete"></a>
 
 * **Publication obligatoire d'une fiche problème sur beta.gouv.fr (max T + 3 semaines)**
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
 * Faire apparaître le problème investigué sur [https://beta.gouv.fr/startups/](https://beta.gouv.fr/startups/) en créant une fiche investigation sur le site de beta.gouv.fr. Elle permet d'indiquer quelle est l'hypothèse du problème investigué. Elle évoluera probablement au fil de l'investigation.
 * **Point de mi-parcours (facultatif, T + 4 semaines)**
 * A mi-parcours, un point d'étape avec une personne connaissant bien beta.gouv.fr, par exemple coach, responsable d'incubateur, ou co-animateur, pour recueillir du feedback
@@ -60,7 +55,7 @@ L'objectif est de rendre votre travail découvrable facilement pour toute person
 ### Pour préparer le comité d'investissement <a href="#pour-preparer-le-comite-dinvestissement" id="pour-preparer-le-comite-dinvestissement"></a>
 
 * La [grille d'évaluation à la fin de l'investigation](https://beta.gouv.fr/content/docs/grille\_lancement.pdf)​
-* Documentation : [Préparer un comité d'investissement](broken-reference)​
+* Documentation : [Préparer un comité d'investissement](../../../../gerer-son-produit/gestion-au-quotidien/budget/preparer-un-comite-dinvestissement/)​
 * Exemples de supports de fin d'investigation et comité d'investissement : demandez sur le Mattermost, #incubateur-investigation
 
 ### Où demander de l'aide <a href="#ou-demander-de-laide" id="ou-demander-de-laide"></a>
