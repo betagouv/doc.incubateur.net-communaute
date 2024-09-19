@@ -24,12 +24,12 @@ Une [présentation](https://docs.google.com/presentation/d/12aEGovHBZYH-xeskRalv
 
 Les éléments partagés ici peuvent servir de référence et non de normes. Ils reflètent d'une part ce que nous avons observé chez beta.gouv, d'autre part l'exigence d'éthique budgétaire liée à notre mission d'intérêt général. Ce document a une valeur indicative et pourra évoluer en fonction du marché et des retours des équipes.
 
-| Phase                                                      | Nombre de jours indicatifs sur la période | Nombre de jours indicatifs par semaine | Implication  | But                                                   |
-| ---------------------------------------------------------- | ----------------------------------------- | -------------------------------------- | ------------ | ----------------------------------------------------- |
-| [Investigation](broken-reference)                          | <p>10 à 15 jours</p><p>sur 9 semaines</p> | 1 à 2 jours                            | Régulière    | Accompagner l'intrapreneur(e) pour le rendre autonome |
-| [Construction](broken-reference)                           | <p>25 à 40 jours</p><p>sur 6 mois</p>     | 1 à 1,5 jours                          | Décroissante | Accompagner l'équipe pour la rendre autonome          |
-| [Accélération](broken-reference)                           | <p>15 à 25 jours</p><p>sur 6 mois</p>     | 1 à 1,5 jours                          | Décroissante | Accompagner l'équipe pour l'aider à accélérer         |
-| [Pérennisation](https://doc.incubateur.net/consolidation/) | <p>10 à 15 jours</p><p>sur 6 mois</p>     | 1 à 1,5 jours                          | Régulière    | Accompagner l'équipe et l'administration d'accueil    |
+| Phase                                                                        | Nombre de jours indicatifs sur la période | Nombre de jours indicatifs par semaine | Implication  | But                                                   |
+| ---------------------------------------------------------------------------- | ----------------------------------------- | -------------------------------------- | ------------ | ----------------------------------------------------- |
+| [Investigation](../../../gerer-son-produit/la-vie-du-produit/investigation/) | <p>10 à 15 jours</p><p>sur 9 semaines</p> | 1 à 2 jours                            | Régulière    | Accompagner l'intrapreneur(e) pour le rendre autonome |
+| [Construction](../../../gerer-son-produit/la-vie-du-produit/construction/)   | <p>25 à 40 jours</p><p>sur 6 mois</p>     | 1 à 1,5 jours                          | Décroissante | Accompagner l'équipe pour la rendre autonome          |
+| [Accélération](../../../gerer-son-produit/la-vie-du-produit/acceleration/)   | <p>15 à 25 jours</p><p>sur 6 mois</p>     | 1 à 1,5 jours                          | Décroissante | Accompagner l'équipe pour l'aider à accélérer         |
+| [Pérennisation](../../../gerer-son-produit/la-vie-du-produit/perennisation/) | <p>10 à 15 jours</p><p>sur 6 mois</p>     | 1 à 1,5 jours                          | Régulière    | Accompagner l'équipe et l'administration d'accueil    |
 
 Une implication régulière signifie que le ou la coach sera présent de façon continue tout au long de la mission.
 
