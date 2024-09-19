@@ -1,4 +1,4 @@
-# Coaching
+# Coach.e
 
 ## À quoi ça sert une personne qui coache une Startup d'État ?
 
@@ -26,9 +26,9 @@ Les éléments partagés ici peuvent servir de référence et non de normes. Ils
 
 | Phase                                                      | Nombre de jours indicatifs sur la période | Nombre de jours indicatifs par semaine | Implication  | But                                                   |
 | ---------------------------------------------------------- | ----------------------------------------- | -------------------------------------- | ------------ | ----------------------------------------------------- |
-| [Investigation](../../la-vie-dune-se/investigation/)       | <p>10 à 15 jours</p><p>sur 9 semaines</p> | 1 à 2 jours                            | Régulière    | Accompagner l'intrapreneur(e) pour le rendre autonome |
-| [Construction](../../la-vie-dune-se/construction/)         | <p>25 à 40 jours</p><p>sur 6 mois</p>     | 1 à 1,5 jours                          | Décroissante | Accompagner l'équipe pour la rendre autonome          |
-| [Accélération](../../la-vie-dune-se/acceleration/)         | <p>15 à 25 jours</p><p>sur 6 mois</p>     | 1 à 1,5 jours                          | Décroissante | Accompagner l'équipe pour l'aider à accélérer         |
+| [Investigation](broken-reference)                          | <p>10 à 15 jours</p><p>sur 9 semaines</p> | 1 à 2 jours                            | Régulière    | Accompagner l'intrapreneur(e) pour le rendre autonome |
+| [Construction](broken-reference)                           | <p>25 à 40 jours</p><p>sur 6 mois</p>     | 1 à 1,5 jours                          | Décroissante | Accompagner l'équipe pour la rendre autonome          |
+| [Accélération](broken-reference)                           | <p>15 à 25 jours</p><p>sur 6 mois</p>     | 1 à 1,5 jours                          | Décroissante | Accompagner l'équipe pour l'aider à accélérer         |
 | [Pérennisation](https://doc.incubateur.net/consolidation/) | <p>10 à 15 jours</p><p>sur 6 mois</p>     | 1 à 1,5 jours                          | Régulière    | Accompagner l'équipe et l'administration d'accueil    |
 
 Une implication régulière signifie que le ou la coach sera présent de façon continue tout au long de la mission.
@@ -41,7 +41,7 @@ Un échange entre le coach, l'intra et le co-animateur ou la co-animatrice perme
 
 ## Quelle différence avec un(e) responsable de produit ?
 
-Certaines équipes sont composées d'un(e) [gestionnaire de produit ](gestion-de-produit.md)(parfois responsable de produit, appelé(e) chef(fe) de produit, _product manager_ ou _product owner_).
+Certaines équipes sont composées d'un(e) [gestionnaire de produit ](../gestionnaire-de-produit-PO-PM/)(parfois responsable de produit, appelé(e) chef(fe) de produit, _product manager_ ou _product owner_).
 
 C'est le cas lorsque qu'il n'y a plus d'intrapreneur dans l'équipe ou que celui ou celle-ci n'a pas assez de temps à consacrer au produit, ou parce qu'on a choisi d'associer une personne à l'intrapreneur (rôle d'entrepreneur associé).
 

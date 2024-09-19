@@ -15,7 +15,7 @@
 
 <summary>5 techniques pour trouver ses seconds utilisateurs</summary>
 
-## 1. **Chercher des usagers citoyens**
+### 1. **Chercher des usagers citoyens**
 
 * Prenez des utilisateurs proches de ceux qui ont validé votre proposition de valeurs
 * Privilégiez les utilisateurs physiquement accessibles et aller les voir sur le terrain
@@ -23,7 +23,7 @@
 * Faites de la pub : journaux, facebook, newsletter de partenaires
 * Soyez bien référencé : le SEO (voir ci-après)
 
-## **2. Chercher des institutions**
+### **2. Chercher des institutions**
 
 * **Définir votre objectif** : avoir des contacts d’utilisateurs? avoir des retours d’expériences ? avoir une diversité de retours d'expériences ?
 * Appuyez-vous sur les **réseaux existants**
@@ -34,7 +34,7 @@
 * **Demandez beaucoup** et **accepter le peu** qu’on vous donne : ne pas attendre le partenariat qui amène 1M d’utilisateurs
 * Utilisez les **organigrammes en ligne et l’annuaire** du service public (exemple de Peps et de l'institutionnel)
 
-## **3. Le SEO**
+### **3. Le SEO**
 
 Le SEO regroupe les actions vous permettant d’arriver en bonne position dans les résultats de recherche quand un prospect ou usager tape certains mots clefs. Le principe est le même que pour une campagne Google Adwords (voir plus haut, sauf que vous ne payez pour l’affichage de votre site dans le moteur de recherche.
 
@@ -61,7 +61,7 @@ Consulter l’atelier SEO :
 
 <img src="https://lh5.googleusercontent.com/RRW4LCrXcEyzm-1EhtbB2JHYJMFFNjngffczrU76sgvyZV9OjMC1IjmU--Ynz1sN7WM5glAMwzRGpUM1N2P-3yCB7IlONmQo0VfLusiszcxCeuMi25XZKlY5WsSeRznOUb9rjtI9" alt="" data-size="original">
 
-## **4. S’organiser en “échappée” pour tester différents canaux**
+### **4. S’organiser en “échappée” pour tester différents canaux**
 
 * **Objectif** : tester différents canaux d’acquisition - c’est à dire différents moyens de recruter des utilisateurs
 * **Cartographier** :
@@ -76,7 +76,7 @@ Consulter l’atelier SEO :
 
     Les suivants consisteront à trouver des personnes dans ces acteurs qui seront motivé par votre projet
 
-## **5. Suivre ses contacts**
+### **5. Suivre ses contacts**
 
 A cette étape, il n’est souvent pas nécessaire d’utiliser un CRM puisqu'on lance son produit et que l’on va chercher ses premiers utilisateurs. Il s’agit ici de gérer entre 10 et 100 contacts.
 
@@ -89,7 +89,7 @@ C’est lorsque le déploiement est lancé et que le nombre d’utilisateurs aug
 
 ***
 
-### **📖 Les histoires vraies**
+#### **📖 Les histoires vraies**
 
 Peps, le test des canaux DDT et Twitter
 

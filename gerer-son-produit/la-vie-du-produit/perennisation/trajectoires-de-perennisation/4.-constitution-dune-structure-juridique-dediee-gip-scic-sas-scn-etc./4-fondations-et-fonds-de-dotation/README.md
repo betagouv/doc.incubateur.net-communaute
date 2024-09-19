@@ -1,8 +1,11 @@
-# 4 - Fondations et fonds de dotation
+# Fondations et fonds de dotation
 
-## Présentation des fondations et fonds de dotation, et mode d'emploi <a id="presentation-des-fondations-et-fonds-de-dotation-et-mode-demploi"></a>
+## Présentation des fondations et fonds de dotation, et mode d'emploi <a href="#presentation-des-fondations-et-fonds-de-dotation-et-mode-demploi" id="presentation-des-fondations-et-fonds-de-dotation-et-mode-demploi"></a>
 
-{% page-ref page="de-la-start-up-detat-a-la-fondation-et-au-fonds-de-dotation.md" %}
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
 
-{% page-ref page="creation-dune-fondation-ou-dun-fonds-de-dotation-mode-demploi.md" %}
-
+{% content-ref url="creation-dune-fondation-ou-dun-fonds-de-dotation-mode-demploi.md" %}
+[creation-dune-fondation-ou-dun-fonds-de-dotation-mode-demploi.md](creation-dune-fondation-ou-dun-fonds-de-dotation-mode-demploi.md)
+{% endcontent-ref %}

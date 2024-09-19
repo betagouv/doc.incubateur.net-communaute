@@ -61,9 +61,7 @@ Les indicateurs suivis :
 
 <summary>7 techniques pour un bon contact avec vos usagers</summary>
 
-
-
-## **1. Trouver des contact**
+### **1. Trouver des contact**
 
 * Faite une cartographie des parties prenantes de votre environnement et attaquez-vous au plus faciles
 * Utilisez les organigrammes
@@ -84,7 +82,7 @@ Les indicateurs suivis :
 * Utilisez la marque de l’Etat pour convaincre les contacts intermédiaires de vous communiquer le contact de votre cible.
 * Utilisez Linkedin pour trouver la bonne personne ou celle qui pourra vous mettre en relation avec elle. Pensez à mettre à jours votre profil Linkedin --> [Voir cet atelie](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jactive-la-croissance-de-ma-se-growth-hacking/les-principes-du-growth-hacking/acquisition#acquisition-de-leads-via-linkedin)r
 
-## **2. Trouver le bon contact**
+### **2. Trouver le bon contact**
 
 Le contact parfait à ces caractéristiques :
 
@@ -95,7 +93,7 @@ Le contact parfait à ces caractéristiques :
 5. il est autonome pour l’utiliser ou le faire utiliser
 6. il a de bonnes chances de voir son problèmes en partie réglé grâce à votre produit
 
-## **3. Travailler son pitch**
+### **3. Travailler son pitch**
 
 * **Quel objectif** ? Il vous faut savoir avec quoi vous voulez sortir du rdv. Exemple : l’interlocuteur me donne des contacts / teste mon produit / présente mon produit.\\
 * **Pour qui** ? Adaptez votre discours et vos objectifs aux attentes et enjeux de votre interlocuteur. Vous pouvez définir les différentes personae en amont. Attention à ne pas être trop “vendeur” ou “généraliste”, votre pitch doit aussi permettre d’exclure les personnes qui ne sont pas dans votre cible. Exemple : un agriculteur est intéressé par l’usage qu’il peut avoir de l’outil alors que la cellule Ecophyto est intéressée par son impact environnemental.\\
@@ -108,7 +106,7 @@ Le contact parfait à ces caractéristiques :
 * **Être enthousiaste** quand on parle de notre produit et rassurer. On vous conseille de vous répeter ce mantra : "j’aime mon produit, et je suis convaincue de son impact sur mon interlocuteur".
 * **Le ton et la gestuelle** sont aussi importants que les mots.
 
-## **4. Écrire un mail de démarchage**
+### **4. Écrire un mail de démarchage**
 
 * **Quel objectif ?** Savoir clairement pourquoi on écrit ce mail et ce qu’on veut en tirer
 *   **Faire preuve de concision** : 3-4 phrases idéalement. Ce n’est pas grave de ne pas tout dire. Il vaut mieux faire d’autres mails concis ensuite plutôt qu’un seul trop long.
@@ -150,7 +148,7 @@ _Si cela peut vous intéresser, je vous invite à me recontacter sur mon numéro
 
 _Bien à vous_\\
 
-### **Bilan :**
+#### **Bilan :**
 
 * On ne comprend pas l'objectif. Le lecteur ne comprend pas pourquoi on lui écrit ce mail.
 * C’est trop long. Il faut alléger au maximum et ne garder que l’essentiel pour satisfaire l’objectif. Exemples : la description des phases n’est pas nécessaire à la compréhension de beta.gouv. La description d’une Startup d'État ne l’est pas non plus.
@@ -163,16 +161,16 @@ _Bien à vous_\\
   * Dans ces 3-4 lignes, donner un exemple de service numérique conçu par beta, en lien avec l’administration à laquelle on s’adresse ← personnalisation
   * Finir par une question. L’action est claire pour l’interlocuteur et il est interpellé donc plus enclin à répondre.
 
-## **5. Aller sur le terrain**
+### **5. Aller sur le terrain**
 
-### **Objectifs :**
+#### **Objectifs :**
 
 * comprendre la réalité particulière de vos usagers
 * créer un lien proche avec eux
 * découvrir des acteurs, des manières de faire que vous n’aurez pas attendu
 * faire des choix d’orientation produit éclairés par les usages réels
 
-### **Quelques conseils :**
+#### **Quelques conseils :**
 
 * Allez-y régulièrement : les usages évoluent avec votre produit et la typologie de vos utilisateurs s'agrandit.
 * Prévoyez votre propre connexion internet : les réseaux internes sont parfois impénétrables.
@@ -182,7 +180,7 @@ _Bien à vous_\\
 
 Exemple : participer à une journée de formation certiphyto, à un tour de ferme d’un collectif, suivre un conseiller technique pendant une journée\\
 
-## **6. Faire des openlabs**
+### **6. Faire des openlabs**
 
 Un OpenLab c’est un atelier de travail collaboratif rassemblant des utilisateurs.trices d’une Startup d'État et toutes ses parties prenantes pendant une journée.
 
@@ -199,11 +197,11 @@ Les modalités de réalisation sont décrites sur cette page : [https://doc.incu
 
 ***
 
-## **7. Trouver ces 1er usagers avec des Ads**
+### **7. Trouver ces 1er usagers avec des Ads**
 
 On n'y pense pas forcément, mais il est tout à fait possible de dépenser quelques euros pour aller chercher les usagers là où ils sont : sur internet. Et tout cela en quelques heures ou quelques jours.
 
-## **Exemples d'usages :**
+### **Exemples d'usages :**
 
 * Acheter sur Google Adwords les mots clefs correspondants à l’irritant que votre produit essaie de résoudre. Exemple :
   * quand un internaute tape sur google “allergie pollens paris” une annonce pour la SE Reposante apparaît
@@ -211,7 +209,7 @@ On n'y pense pas forcément, mais il est tout à fait possible de dépenser quel
 * Sponsoriser un de vos post ou événement sur Linkedin afin qu’il soit vu par les personnes qui travaillent dans l’administration et dont le post est “responsable” ou “directeur” de l’innovation ou de la transformation numérique.
 * Afficher un annonce sur Facebook ciblant les Parents de l’Oise afin de leur demander de donner leur avis sur la cantine de leurs enfants. Ex pour Anti Gaspi cantine : 250 parents ont ainsi permis en 7 jours de valider une hypothèse produit. Parmi eux, 80 ont accepté de devenir beta testeurs.
 
-## **A savoir :**
+### **A savoir :**
 
 * Vous devez définir avec soin les meilleurs mots clefs qui déclenchent l’affichage de votre annonce. C’est le point clefs pour réussir.
 * Vous devez dépenser au moins 5 euros par jour. Pendant au moins 10 jours.

@@ -4,7 +4,7 @@ description: >-
   démarrage d'une phase de construction
 ---
 
-# Conseils pour les coachs en phase de construction
+# Conseils pour les coachs
 
 Cette fiche pratique a été conçue sur la base du retour d'expérience de plusieurs coachs ayant accompagné des Startups d’Etat en phase de construction.
 
@@ -35,8 +35,8 @@ Cette transparence continue de s'appliquer en phase de construction.
 * **Comité d'investissement** (obligatoire, T + 6 mois)
   * Prévoir le comité d'investissement à la fin de la phase de construction en y invitant toutes les parties prenantes nécessaires, et notamment un membre de l'équipe d'animation de beta.gouv.fr.
 
-{% content-ref url="../../gestion-administrative/preparer-un-comite-dinvestissement/" %}
-[preparer-un-comite-dinvestissement](../../gestion-administrative/preparer-un-comite-dinvestissement/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ## **Comment puis-je trouver de l'aide durant la phase de construction ? :**

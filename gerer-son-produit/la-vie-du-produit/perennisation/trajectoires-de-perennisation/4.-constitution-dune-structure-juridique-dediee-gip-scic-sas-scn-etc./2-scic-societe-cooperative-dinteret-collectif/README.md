@@ -1,10 +1,14 @@
-# 2 - SCIC - Société Coopérative d’Intérêt Collectif
+# Société Coopérative d'Intérêt Collectif (SCIC)
 
 ## Présentation de la SCIC et mode d'emploi
 
-{% page-ref page="de-la-start-up-detat-a-la-societe-cooperative-dinteret-collectif.md" %}
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
 
-{% page-ref page="../4-fondations-et-fonds-de-dotation/creation-dune-fondation-ou-dun-fonds-de-dotation-mode-demploi.md" %}
+{% content-ref url="../4-fondations-et-fonds-de-dotation/creation-dune-fondation-ou-dun-fonds-de-dotation-mode-demploi.md" %}
+[creation-dune-fondation-ou-dun-fonds-de-dotation-mode-demploi.md](../4-fondations-et-fonds-de-dotation/creation-dune-fondation-ou-dun-fonds-de-dotation-mode-demploi.md)
+{% endcontent-ref %}
 
 ## Qui l'a fait ?
 
@@ -13,4 +17,3 @@
 * [Enercoop Normandie](https://normandie.enercoop.fr/sites/default/files/20170520%20-%20STATUTS%20ENERCOOP%20NORMANDIE.pdf)
 * [Talents d'ici](https://talents-dici.com/wp-content/uploads/Statuts-SCIC-SARL-Talents-dici.pdf)
 {% endhint %}
-

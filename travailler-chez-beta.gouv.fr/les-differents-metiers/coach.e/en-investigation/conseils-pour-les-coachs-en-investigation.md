@@ -36,8 +36,8 @@ L'objectif est de rendre votre travail découvrable facilement pour toute person
 
 * **Publication obligatoire d'une fiche problème sur beta.gouv.fr (max T + 3 semaines)**
 
-{% content-ref url="../../je-gere-mon-produit-et-son-impact/gerer-sa-fiche-produit.md" %}
-[gerer-sa-fiche-produit.md](../../je-gere-mon-produit-et-son-impact/gerer-sa-fiche-produit.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 * Faire apparaître le problème investigué sur [https://beta.gouv.fr/startups/](https://beta.gouv.fr/startups/) en créant une fiche investigation sur le site de beta.gouv.fr. Elle permet d'indiquer quelle est l'hypothèse du problème investigué. Elle évoluera probablement au fil de l'investigation.
@@ -60,7 +60,7 @@ L'objectif est de rendre votre travail découvrable facilement pour toute person
 ### Pour préparer le comité d'investissement <a href="#pour-preparer-le-comite-dinvestissement" id="pour-preparer-le-comite-dinvestissement"></a>
 
 * La [grille d'évaluation à la fin de l'investigation](https://beta.gouv.fr/content/docs/grille\_lancement.pdf)​
-* Documentation : [Préparer un comité d'investissement](../../gestion-administrative/preparer-un-comite-dinvestissement/)​
+* Documentation : [Préparer un comité d'investissement](broken-reference)​
 * Exemples de supports de fin d'investigation et comité d'investissement : demandez sur le Mattermost, #incubateur-investigation
 
 ### Où demander de l'aide <a href="#ou-demander-de-laide" id="ou-demander-de-laide"></a>
@@ -69,7 +69,7 @@ L'objectif est de rendre votre travail découvrable facilement pour toute person
 
 ### Le RGPD et l'investigation <a href="#le-rgpd-et-linvestigation" id="le-rgpd-et-linvestigation"></a>
 
-* [​Les questions à se poser en matière de RGPD pendant l'investigation](../../je-securise-mon-produit/guide-rgpd-et-securite.md)
+* [​Les questions à se poser en matière de RGPD pendant l'investigation](broken-reference)
 
 ### Des tutos sur les principaux outils utilisés <a href="#des-tutos-sur-les-principaux-outils-utilises" id="des-tutos-sur-les-principaux-outils-utilises"></a>
 

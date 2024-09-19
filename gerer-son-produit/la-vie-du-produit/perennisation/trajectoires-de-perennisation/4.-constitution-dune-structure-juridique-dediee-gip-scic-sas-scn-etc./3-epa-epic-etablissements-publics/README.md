@@ -1,8 +1,11 @@
-# 3 - EPA/EPIC - Etablissements publics
+# Etablissements publics EPA/EPIC
 
 ## Présentation EPA/EPIC et mode d'emploi
 
-{% page-ref page="de-la-start-up-detat-a-letablissement-public.md" %}
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
 
-{% page-ref page="creation-dun-etablissement-public-mode-demploi.md" %}
-
+{% content-ref url="creation-dun-etablissement-public-mode-demploi.md" %}
+[creation-dun-etablissement-public-mode-demploi.md](creation-dun-etablissement-public-mode-demploi.md)
+{% endcontent-ref %}

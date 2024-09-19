@@ -48,7 +48,7 @@ En d’autres termes, la phase d’investigation n’a pas pour objectif de conf
 
 La discussion a été initiée sur le thème "Qu'est-ce qu'on peut répondre à un sponsor qui nous demande si on a une démarche scientifique?". Une collègue avait été confrontée à cette question. Ainsi ce texte ne vise qu'à partager des arguments si vous vous retrouvez dans ce cas de figure. Il ne s'agit donc pas d'une description de la démarche d'investigation.
 
-### On nous demande parfois…
+#### On nous demande parfois…
 
 Dans le cadre de la phase d’investigation, il arrive qu’on nous demande :
 
@@ -57,7 +57,7 @@ Dans le cadre de la phase d’investigation, il arrive qu’on nous demande :
 * «Vous êtes-vous appuyés sur des travaux académiques ?»
 * «Faites-vous ça au «doigt mouillé» ?»
 
-### Nous ne suivons pas une méthode scientifique car…
+#### Nous ne suivons pas une méthode scientifique car…
 
 * ce que nous faisons ne serait effectivement pas rigoureux si notre intention était de publier un papier académique. En revanche nous sommes rigoureux dans notre intention de vérifier l’hypothèse de problème.
 * La démarche scientifique vise à comprendre et prédire en partie les attentes du marché. Dans notre cas, l’objectif n’est pas de chercher des validations ou des prédictions de succès mais de confronter nos hypothèses au terrain (hypothèses de problèmes, hypothèses de solutions) pour les invalider. Ce n’est pas parce que nous n’avons pas réussi à invalider nos hypothèses que leur validation est acquise dans le temps.
@@ -66,7 +66,7 @@ Dans le cadre de la phase d’investigation, il arrive qu’on nous demande :
 * l’équipe chargée de l’investigation cherche à mettre en place une stratégie efficace de diffusion du produit, plus qu’elle ne cherche à respecter une méthodologie scientifique.
 * nous pensons que nous n’influençons pas ce que nous observons ;
 
-### Nous ne suivons pas une méthode scientifique mais…
+#### Nous ne suivons pas une méthode scientifique mais…
 
 * si l’équipe (constituée canoniquement d’un·e coach et d’un·e intra) pense que la méthode scientifique ou sociologique est la plus appropriée pour le problème à investiguer, elle l’utilise ;
 * nous considérons qu’une stratégie efficace ne s’interdit aucune tactique, mais ne s’en impose aucune non plus. La méthode scientifique est donc facultative.
@@ -74,7 +74,7 @@ Dans le cadre de la phase d’investigation, il arrive qu’on nous demande :
 
 Ainsi nous pourrions considérer que nous nous situons entre la méthode du «doigt mouillé», qui ne demande pas de temps et peut produire n’importe quoi, et la méthode scientifique, qui demande du temps et dont les résultats risquent d’arriver trop tardivement, le système ayant déjà évolué.
 
-### Si nous ne suivons pas de méthodes, en revanche nous avons une doctrine :
+#### Si nous ne suivons pas de méthodes, en revanche nous avons une doctrine :
 
 Avec l’investigation, nous cherchons à comprendre des problèmes systémiques. Nous cherchons :
 

@@ -18,6 +18,6 @@ Cette certification est utile aux intra pour :
 * d'une mobilité interne, mutation, détachement ou mise à disposition;
 * d'une disponibilité dans le secteur privé.
 
-{% content-ref url="./" %}
-[.](./)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}

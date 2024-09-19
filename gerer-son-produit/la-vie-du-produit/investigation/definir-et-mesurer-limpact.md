@@ -2,7 +2,7 @@
 hidden: true
 ---
 
-# ☄️ Définir et mesure l'impact
+# ☄️ Définir et mesurer l'impact
 
 ## Petit guide de la mesure d'impact <a href="#pourquoi-mesurer-un-impact" id="pourquoi-mesurer-un-impact"></a>
 
@@ -58,7 +58,7 @@ A long terme :
 
 Ce bouton permet à l'usager de donner son avis en répondant à quelques questions très simples.
 
-## **Créer un compte** sur MonAvis : <a href="#id-1-creer-un-compte-sur-monavis" id="id-1-creer-un-compte-sur-monavis"></a>
+### **Créer un compte** sur MonAvis : <a href="#id-1-creer-un-compte-sur-monavis" id="id-1-creer-un-compte-sur-monavis"></a>
 
 * Accéder au site [observatoire.numerique.gouv.fr](https://observatoire.numerique.gouv.fr/)
 * Cliquer sur « Accès Administration» en bas à gauche de la page ;
@@ -68,14 +68,14 @@ Ce bouton permet à l'usager de donner son avis en répondant à quelques questi
 
 <mark style="background-color:yellow;">ℹ️ Utilisez votre adresse @beta.gouv.fr pour éviter la validation manuelle par un administrateur.</mark>
 
-## Accéder à la p**age démarche** <a href="#id-2-acceder-a-la-page-de-sa-demarche-via-le-moteur-de-recherche" id="id-2-acceder-a-la-page-de-sa-demarche-via-le-moteur-de-recherche"></a>
+### Accéder à la p**age démarche** <a href="#id-2-acceder-a-la-page-de-sa-demarche-via-le-moteur-de-recherche" id="id-2-acceder-a-la-page-de-sa-demarche-via-le-moteur-de-recherche"></a>
 
 * Rechercher la démarche dans le moteur de recherche
 * **Si elle est absente du référentiel, ajouter sa démarche (étape optionnelle) :**
   * Cliquer sur « Ajouter une démarche manquante » ;
   * Remplir le formulaire de référencement de la démarche.
 
-## **Se déclarer porteur d’une démarche**
+### **Se déclarer porteur d’une démarche**
 
 <mark style="background-color:yellow;">✅ Si vous avez référencez votre démarche, vous devenez automatiquement « porteur de la démarche ».</mark>
 
@@ -84,7 +84,7 @@ Ce bouton permet à l'usager de donner son avis en répondant à quelques questi
 
 Deux onglets sont alors accessibles : _Code à intégrer_ et _Tous les avis_.
 
-## **Obtenir le code du bouton :**
+### **Obtenir le code du bouton :**
 
 * Accéder à la page de la démarche
 * Accéder à l’onglet « Code à intégrer » ;

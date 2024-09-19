@@ -68,7 +68,7 @@ S'il y a fuite de donnée personnelle (soupçonnée ou avérée)
 
 <summary>Supprimer les données sensibles que j'ai accidentellement pushées sur github</summary>
 
-## Identifier la branche et le(s) commits fautifs
+### Identifier la branche et le(s) commits fautifs
 
 Si vous avez reçu une alerte GitGuardian, elle contient un hash identifiant précisément le commit incriminé.
 
@@ -76,7 +76,7 @@ Sinon vous pouvez retrouver le commit mis en cause dans votre historique. Il fau
 
 Ne supprimez pas tout de suite la branche et le commit de votre historique local, vous en avez besoin pour supprimer les données de Github.
 
-## Supprimer la branche sur GitHub
+### Supprimer la branche sur GitHub
 
 Cela se passe dans la page "branches" de votre dépôt :
 
@@ -88,7 +88,7 @@ Ensuite, cliquez sur le bouton "poubelle" en regard de la branche contenant le c
 
 Voilà, la branche est supprimée ! Mais vous n'êtes pas encore tiré·e d'affaire.
 
-## Supprimer le commit sur Github
+### Supprimer le commit sur Github
 
 Une fois que la branche a été supprimée de GitHub, le commit (avec toutes ses données) est encore accessible par une personne possédant le hash.
 
@@ -104,7 +104,7 @@ Quelques minutes plus tard, un humain prend en charge votre demande et supprime 
 
 Vous pouvez reprendre la suite de la gestion de l'incident, les données ont bien été supprimées de Github.
 
-## Supprimer le commit et la branche sur votre dépôt local
+### Supprimer le commit et la branche sur votre dépôt local
 
 En local c'est plus simple.
 
