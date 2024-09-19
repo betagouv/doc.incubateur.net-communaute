@@ -6,7 +6,7 @@ description: >-
 
 # ✅ Les standards
 
-**Lorsqu'un service numérique fait partie du réseau beta.gouv.fr, nous nous attendons à ce qu'il réponde à un haut niveau de standard et d'excellence**, prouvant ainsi que le service public est capable de produire du numérique à l'état de l'art. beta.gouv.fr a doncpour objectif de créer des services publics numériques :
+**Lorsqu'un service numérique fait partie du réseau beta.gouv.fr, nous nous attendons à ce qu'il réponde à un haut niveau de standard et d'excellence**, prouvant ainsi que le service public est capable de produire du numérique à l'état de l'art. beta.gouv.fr a donc pour objectif de créer des services publics numériques :
 
 * **utiles** : qui répondent vraiment aux besoins des utilisateurs de manière évolutive, qui donnent une vraie solution à leur problème, avec un impact mesurable, qu'il soit administratif (réduction des délais de traitement par exemple), environnemental, social, économique ;
 * **faciles à utiliser** : qui soient accessibles par tout le monde, quel que soit le niveau de l'utilisateur ou de l'utilisatrice en matière de numérique. En particulier, éviter à tout prix de construire des services dont l'expérience pourrait être ressentie comme kafkaïenne, impersonnelle, compliquée et frustrante ;
@@ -28,14 +28,14 @@ Un "**standard**" c’est un critère d’évaluation explicite de quelque chose
 * Les services sont, à terme, accessibles pour tous et toutes : [**kit d'accessibilité**](accessibilite-and-inclusion/kit-accessibilite/)
 * Le **langage** utilisé sur les interfaces est **clair, direct et sans jargon**.
 
-{% content-ref url="standards-de-qualite-beta.gouv.fr/" %}
-[standards-de-qualite-beta.gouv.fr](standards-de-qualite-beta.gouv.fr/)
+{% content-ref url="standards-de-qualite-beta.gouv.fr" %}
+[standards-de-qualite-beta.gouv.fr](standards-de-qualite-beta.gouv.fr)
 {% endcontent-ref %}
 
 * Les technologies employées sont open-source et éprouvées
 * Le service est reproductible, testé et déployé en continu
 * Le service est portable et respecte les [12 facteurs](https://12factor.net/)
-* Le code source est open-source et maintenu à jour&#x20;
+* Le code source est open-source et maintenu à jour
 * L'architecture est documentée
 
 {% content-ref url="transparence/" %}
