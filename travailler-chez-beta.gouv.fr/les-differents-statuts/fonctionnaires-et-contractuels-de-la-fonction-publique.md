@@ -16,7 +16,7 @@ Chez beta.gouv.fr, les fonctionnaires et les contractuels de la fonction publiqu
 
 La **Direction interministérielle du numérique** (DINUM) propose 3 modalités de recrutement sur des contrats courts (de 4 à 10 mois en CDD) pour relever des défis numériques d'intérêt général :
 
-* La **Brigade numérique**, gérée par [l'équipe d'animation de beta.gouv.fr ](broken-reference)pour des développeuses, développeurs et chargé·e·s de déploiement. La Brigade est une équipe mobilisable rapidement pour lancer les produits numériques prioritaires du gouvernement.
+* La **Brigade numérique**, gérée par [l'équipe d'animation de beta.gouv.fr ](../../decouvrir-beta.gouv.fr/incubateur-de-la-dinum/lequipe-danimation-beta.gouv.fr.md)pour des développeuses, développeurs et chargé·e·s de déploiement. La Brigade est une équipe mobilisable rapidement pour lancer les produits numériques prioritaires du gouvernement.
 * Les [**Entrepreneurs d'intérêt général (EIG),**](https://entrepreneur-interet-general.etalab.gouv.fr) gérés par [Etalab](https://etalab.gouv.fr), pour permettre à des développeuses, développeurs, data scientists, juristes spécialisés dans le droit du numérique, designers et designeuses de relever des défis numériques d'intérêt général. Le programme EIG a parfois été utilisé par les Startups d'État pour recruter du renfort ou pour contractualiser avec des personnes de l'équipe.
 * Les **Commandos UX**, gérés par l'équipe [DesignGouv](https://design.numerique.gouv.fr) de la DINUM, pour venir en aide aux services publics numériques les plus utilisés par les Françaises et les Français et améliorer leur parcours utilisateur et leur accessibilité.
 
