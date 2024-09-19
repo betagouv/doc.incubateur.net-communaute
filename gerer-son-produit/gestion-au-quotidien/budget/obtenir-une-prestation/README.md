@@ -9,7 +9,7 @@ hidden: true
 # 😊 Obtenir une prestation
 
 {% hint style="info" %}
-Ce process concerne les [marchés de coaching de la DINUM](../../marches/marche-coaching.md) et du MTE ainsi que le [marché interministériel beta.gouv](../../marches/marche-interministeriel-beta/). Il s'applique donc si tu souhaites faire appel à des prestations de développement, design, déploiement (_business development_), design, coaching.
+Ce process concerne les [marchés de coaching de la DINUM](../../marches/marche-coaching.md) et du MTE ainsi que le [marché interministériel beta.gouv](../../marches/marche-interministeriel-beta/)[.fr](../../marches/marche-interministeriel-beta/). Il s'applique donc si tu souhaites faire appel à des prestations de développement, design, déploiement (_business development_), design, coaching.
 
 _Ce process ne s'applique donc pas pour les Startups d'État incubées à Pôle emploi ou au ministère des Affaires sociales, qui disposent de leurs propres marchés._
 {% endhint %}
@@ -28,7 +28,7 @@ Avant toute demande, vérifier la disponibilité d'une enveloppe budgétaire suf
 
 <details>
 
-<summary>Si tu fais partie de la Fabrique numérique du ministère de l'Ecologie, déroule ici</summary>
+<summary>Si tu fais partie de la Fabrique numérique du ministère de l'Écologie, déroule ici</summary>
 
 Pour connaitre l'état de consommation de tes conventions/budgets, tu trouveras toutes les informations [ici](https://doc.mte.incubateur.net/suivi-du-budget-et-des-commandes).
 
@@ -96,8 +96,8 @@ S'il y a déjà un bon de commande en cours avec l'entreprise titulaire, il est 
 Pour identifier les profils qui réaliseront la prestation :
 
 * tu dois étudier les profils que propose l'entreprise titulaire ;
-* tu peux également profiter du réseau beta.gouv afin de maximiser tes chances de trouver les meilleurs profils pour assurer la prestation. Pour ce faire, il est possible de :
-  * diffuser l'annonce au sein du réseau beta.gouv, via le Mattermost ou l'infolettre interne ;
+* tu peux également profiter du réseau beta.gouv.fr afin de maximiser tes chances de trouver les meilleurs profils pour assurer la prestation. Pour ce faire, il est possible de :
+  * diffuser l'annonce au sein du réseau beta.gouv.fr, via le Mattermost ou l'infolettre interne ;
   * poster une annonce sur la plateforme [_Welcome to the Jungle_](https://admin.welcometothejungle.com/). Dans ce cas-là, il est nécessaire de gérer les candidatures en lien avec l'entreprise titulaire, en particulier vous devez l'indiquer dans l'annonce. Une phrase type peut être "Cette offre est gérée avec NOM ATTRIBUTAIRE (sans frais pour le freelance)". Pour en savoir plus, consulter la page suivante :
 
 {% content-ref url="../../../../les-outils-de-la-communaute/autres-services/welcome-to-the-jungle/" %}
@@ -105,7 +105,7 @@ Pour identifier les profils qui réaliseront la prestation :
 {% endcontent-ref %}
 
 {% hint style="success" %}
-N'oublie pas de prévenir l'entreprise titulaire de ton besoin _**avant**_ de diffuser l'offre (dans le réseau beta.gouv et/ou sur le Welcome to the Jungle).
+N'oublie pas de prévenir l'entreprise titulaire de ton besoin _**avant**_ de diffuser l'offre (dans le réseau beta.gouv.fr et/ou sur le Welcome to the Jungle).
 {% endhint %}
 
 Nous conseillons d’effectuer ces deux actions en même temps, afin de réduire le temps de sélection et ne pas immobiliser trop longtemps les profils.

@@ -18,7 +18,7 @@ Pour suivre facilement les événements qui réunissent la communauté beta.gouv
 
 ## <img src="../../.gitbook/assets/image (1).png" alt="" data-size="line"> Le compte LinkedIn beta.gouv.fr
 
-Pour suivre l'actualité externe de la communauté et du programme beta.gouv.fr, abonne toi au [compte LinkedIn beta.gouv.fr](https://www.linkedin.com/company/betagouv/?viewAsMember=true). Tu y trouveras notamment des offres d'emploi et de mission.
+Pour suivre l'actualité externe de la communauté et du programme beta.gouv.fr, abonne toi au [compte LinkedIn beta.gouv.fr](https://www.linkedin.com/company/betagouv/?viewAsMember=true). Tu y trouveras notamment des offres d'emploi et de mission. Tu peux aussi contribuer à ce compte LinkedIn et l'utiliser pour valoriser ton produit !
 
 ## <img src="../../.gitbook/assets/image (1) (1).png" alt="" data-size="line">Mattermost
 
