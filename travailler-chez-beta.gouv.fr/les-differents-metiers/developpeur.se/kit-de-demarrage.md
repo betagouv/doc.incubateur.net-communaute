@@ -16,15 +16,15 @@ La communauté beta.gouv est composée de **près de 300 développeur/euses qui 
 Pas nécessairement ! Il peut être très pertinent de démarrer un projet en utilisant des technologies "No Code" ou en mode "conciergerie" (traiter les demandes utilisateurs à la main dans un premier temps) afin de valider très rapidement des hypothèses de problèmes (et donc de solution). La marque d'un très bon dev est de savoir choisir le meilleur outil en fonction du contexte et de l'état d'avancement du produit et de ne pas foncer tête baissée dans une solution technique.
 
 {% hint style="warning" %}
-Beaucoup d'outils "No Code" ne sont pas hébergés en France et/ou ne sont pas adaptés au stockage de données sensibles !&#x20;
+Beaucoup d'outils "No Code" ne sont pas hébergés en France et/ou ne sont pas adaptés au stockage de données sensibles !
 {% endhint %}
 
 ## Le Kit de démarrage
 
 {% hint style="info" %}
-Si tu viens de rejoindre la communauté, Bienvenue ! \
+Si tu viens de rejoindre la communauté, Bienvenue !\
 \
-Pense à t'inscrire [à la prochaine session d'embarquement dédiée aux devs](https://airtable.com/shrUCbUT72KtKefsu) si ça n'est pas déjà fait.  (voir aussi [les slides](https://docs.google.com/presentation/d/1PJsI2N0ja5--j\_\_dDlrOXQKt\_v9hTsV2uvODOOmZW68/edit#slide=id.g2df92dfbab2\_0\_405)).\
+Pense à t'inscrire [à la prochaine session d'embarquement dédiée aux devs](https://airtable.com/shrUCbUT72KtKefsu) si ça n'est pas déjà fait. (voir aussi [les slides](https://docs.google.com/presentation/d/1PJsI2N0ja5--j\_\_dDlrOXQKt\_v9hTsV2uvODOOmZW68/edit#slide=id.g2df92dfbab2\_0\_405)).\
 \
 Identifie [tes référent(e)s tech](../../../gerer-son-produit/gestion-au-quotidien/tech/to-do-liens-avec-les-referents-techs.md) qui sont à ta disposition tout au long de ton parcours
 {% endhint %}
@@ -42,7 +42,7 @@ N'hésite pas à challenger ton équipe si tu considères que te lancer dans le 
 {% endhint %}
 
 {% hint style="info" %}
-Plusieurs templates sont proposés par la communauté et permettent de démarrer rapidement un nouveau projet en embarquant nos recommandations :  [https://github.com/betagouv/?language=\&q=template\&sort=\&type=all](https://github.com/betagouv/?language=\&q=template\&sort=\&type=all)
+Plusieurs templates sont proposés par la communauté et permettent de démarrer rapidement un nouveau projet en embarquant nos recommandations : [https://github.com/betagouv/?language=\&q=template\&sort=\&type=all](https://github.com/betagouv/?language=\&q=template\&sort=\&type=all)
 {% endhint %}
 
 ### Standards de qualité beta.gouv.fr
@@ -63,8 +63,8 @@ Ne pas respecter les standards de qualité devra être justifié.
 [choisir-des-technologies.md](../../../gerer-son-produit/les-standards/standards-de-qualite-beta.gouv.fr/choisir-des-technologies.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="./" %}
+[.](./)
 {% endcontent-ref %}
 
 Pour t'aider à situer ta Startup d'État par rapport à ces standards de qualité, ajoute ton url à l'outil [DashLord](https://dashlord.incubateur.net) en ouvrant une PR [ici](https://github.com/betagouv/dashlord/blob/main/dashlord.yml). Tu trouveras plus d'informations sur la page ci-dessous.
@@ -75,7 +75,7 @@ Pour t'aider à situer ta Startup d'État par rapport à ces standards de qualit
 
 ### Cadre légal
 
-Dans le cadre du travail avec l'administration, il est important de connaître les contraintes légales en terme de Sécurité, de Protection des donnée et d'accessibilité.&#x20;
+Dans le cadre du travail avec l'administration, il est important de connaître les contraintes légales en terme de Sécurité, de Protection des donnée et d'accessibilité.
 
 {% content-ref url="../../../gerer-son-produit/les-standards/protection-des-donnees-personnelles/" %}
 [protection-des-donnees-personnelles](../../../gerer-son-produit/les-standards/protection-des-donnees-personnelles/)
@@ -91,7 +91,7 @@ Dans le cadre du travail avec l'administration, il est important de connaître l
 
 ### Demander de l'aide
 
-Il est crucial de ne pas rester seul face à des choix technologiques potentiellement structurants pour la suite du produit — surtout lorsqu'on est le premier profil technique recruté sur une Startup d'Etat. Tu peux t'appuyer sur de multiples ressources au sein de la communauté&#x20;
+Il est crucial de ne pas rester seul face à des choix technologiques potentiellement structurants pour la suite du produit — surtout lorsqu'on est le premier profil technique recruté sur une Startup d'Etat. Tu peux t'appuyer sur de multiples ressources au sein de la communauté
 
 {% content-ref url="../../../gerer-son-produit/gestion-au-quotidien/tech/support-tech.md" %}
 [support-tech.md](../../../gerer-son-produit/gestion-au-quotidien/tech/support-tech.md)
