@@ -10,6 +10,13 @@
 Si vous extrayez un mot de passe, le sauvegardez sur disque ou le transmettez via un canal non sécurisé (ex: mattermost), considérez ce mot de passe comme corrompu à jamais et renouvelez-le.
 {% endhint %}
 
+### Rappel : les mots de passes sur Dashlane
+
+Sur dashlane, vous avez deux types d'espaces : l'espace personnel et l'espace beta.gouv, chacun stocke des élements (couple identifiant/mot de passe) différents :
+
+* beta.gouv : tous les éléments pour lesquels vous avez utilisé votre adresse beta.gouv comme id, tous les élements où l'adresse du site contient beta.gouv, incubateur.net, tous les éléments que votre équipe vous a partagé
+* personnel : tous les autres élements
+
 ### Comment migrer une équipe <a href="#comment-migrer-une-equipe" id="comment-migrer-une-equipe"></a>
 
 Nous recommandons qu’une seule personne de l’équipe se charge de recréer les mots de passes partagés sur VaultWarden.
