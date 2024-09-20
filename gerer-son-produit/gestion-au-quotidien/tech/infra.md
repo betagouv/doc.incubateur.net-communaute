@@ -6,10 +6,10 @@ Chaque Startup d'Etat gère son infrastructure de façon **souveraine**. Certain
 
 L'équipe beta.gouv.fr propose des ressources partagées pour vous aider à démarrer; Ces services sont fournis en mode "best effort" par l'équipe animation, sans garantie de service.\
 \
-Tous les services disponibles sont présentés sur la page ["les outils de la communauté"](broken-reference) et vous pouvez instancier ces services de votre côté si nécessaire.
+Tous les services disponibles sont présentés sur la page ["les outils de la communauté"](broken-reference/) et vous pouvez instancier ces services de votre côté si nécessaire.
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../../../les-outils-de-la-communaute/les-outils-de-la-communaute.md" %}
+[les-outils-de-la-communaute.md](../../../les-outils-de-la-communaute/les-outils-de-la-communaute.md)
 {% endcontent-ref %}
 
 ### Comment faire une demande d'ops
@@ -25,17 +25,16 @@ Tu peux demander de l'aide sur ces sujets sur Mattermost dans 🔒`~incubateur-o
 Quel que soit votre choix d'hébergement, pensez à bien documenter votre infrastructure et respecter [les 12 facteurs](https://12factor.net/fr/) pour une meilleure portabilité de votre application.
 
 {% hint style="info" %}
-Le label « SecNumCloud » est nécessaire seulement dans le cadre du champ d’application de l’[article 31 de la loi SREN](https://www.legifrance.gouv.fr/jorf/article\_jo/JORFARTI000049563610) , c'est à dire lorsqu'il y a une sensibilité particulière sur les données, qu'elles soient personnelles ou stratégiques. \
+Le label « SecNumCloud » est nécessaire seulement dans le cadre du champ d’application de l’[article 31 de la loi SREN](https://www.legifrance.gouv.fr/jorf/article\_jo/JORFARTI000049563610) , c'est à dire lorsqu'il y a une sensibilité particulière sur les données, qu'elles soient personnelles ou stratégiques.\
 \
-Le label « HDS » est indispensable si vous traitez des données de santé.\
-
+Le label « HDS » est indispensable si vous traitez des données de santé.\\
 
 En cas de doute, vous pouvez contacter votre équipe juridique ou solliciter notre communauté sur mattermost, canal [\~domaine-juridique](https://mattermost.incubateur.net/betagouv/channels/domaine-juridique).
 {% endhint %}
 
 #### Application mode PaaS
 
-Il existe des hébergeurs qui automatisent la mise en prod de votre application et gèrent la base de données. Ils sont recommandés pour le lancement d'une startup d'état (**Ne perdez pas du temps avec de l'ops** : concentrez-vous sur le produit).&#x20;
+Il existe des hébergeurs qui automatisent la mise en prod de votre application et gèrent la base de données. Ils sont recommandés pour le lancement d'une startup d'état (**Ne perdez pas du temps avec de l'ops** : concentrez-vous sur le produit).
 
 Voici des exemples d'hébergeurs permettant d'héberger simplement une application : (non exhaustive)
 
@@ -65,7 +64,7 @@ Voici des exemples d'hébergeurs permettant de louer des machines virtuelles, se
 
 #### Hébergements d'images et de fichiers
 
-Vos utilisateurs ont besoin de téléverser (uploader) des images ou des fichiers vers votre application, et vous ne savez pas où stocker ce contenu ?&#x20;
+Vos utilisateurs ont besoin de téléverser (uploader) des images ou des fichiers vers votre application, et vous ne savez pas où stocker ce contenu ?
 
 Voici une liste (non exhaustive) d'hébergeurs régulièrement utilisés. Pensez à chiffrer les données si nécessaire.
 
