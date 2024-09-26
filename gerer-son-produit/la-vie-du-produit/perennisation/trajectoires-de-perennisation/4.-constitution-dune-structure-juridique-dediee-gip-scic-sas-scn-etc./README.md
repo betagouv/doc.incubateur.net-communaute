@@ -19,7 +19,7 @@ Le produit en se développant a rencontré un public qui dépasse les usagers de
 ### Avantages
 
 * ce processus de consolidation permet une grande liberté dans les modes de gouvernance et la feuille de route produit, ainsi qu'une flexibilité sur le recrutement et la rémunération.
-* e type de structures disposent d'une carte bleue qui permet d'être extrêmement agile dans l'achat de prestations de bas niveau comme des outils de productivité ou des abonnements à des services en ligne.
+* ce type de structures disposent d'une carte bleue qui permet d'être extrêmement agile dans l'achat de prestations de bas niveau comme des outils de productivité ou des abonnements à des services en ligne.
 
 ### Limites
 
@@ -60,4 +60,12 @@ Une fondation est une structure créée par d'autres personnes physiques ou mora
 
 {% content-ref url="4-fondations-et-fonds-de-dotation/" %}
 [4-fondations-et-fonds-de-dotation](4-fondations-et-fonds-de-dotation/)
+{% endcontent-ref %}
+
+### Service à compétence national
+
+Un SCN est une structure opérationnelle dénuée de personnalité morale qui est régie directement par l’administration d’État.&#x20;
+
+{% content-ref url="service-a-competence-nationale-scn/" %}
+[service-a-competence-nationale-scn](service-a-competence-nationale-scn/)
 {% endcontent-ref %}
