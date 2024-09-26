@@ -2,12 +2,12 @@
 
 ## Présentation de la SCIC et mode d'emploi
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
 {% content-ref url="../4-fondations-et-fonds-de-dotation/creation-dune-fondation-ou-dun-fonds-de-dotation-mode-demploi.md" %}
 [creation-dune-fondation-ou-dun-fonds-de-dotation-mode-demploi.md](../4-fondations-et-fonds-de-dotation/creation-dune-fondation-ou-dun-fonds-de-dotation-mode-demploi.md)
+{% endcontent-ref %}
+
+{% content-ref url="de-la-start-up-detat-a-la-societe-cooperative-dinteret-collectif.md" %}
+[de-la-start-up-detat-a-la-societe-cooperative-dinteret-collectif.md](de-la-start-up-detat-a-la-societe-cooperative-dinteret-collectif.md)
 {% endcontent-ref %}
 
 ## Qui l'a fait ?

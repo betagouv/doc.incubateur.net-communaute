@@ -25,7 +25,7 @@ Ces critères sont désormais connus :
 
 Les établissements publics ont un budget qui est important (entre 30 et 250 millions de budget) et dont la masse « salariale » peut être également importante (jusqu’à environ 2000 personnes employés).
 
-## Quel intérêt à créer un Etablissement public ?
+## 🎯Quel intérêt à créer un Etablissement public ?
 
 L'établissement public est une personne publique dotée de l'autonomie financière et de gestion.
 
