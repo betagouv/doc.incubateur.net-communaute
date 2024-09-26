@@ -14,7 +14,7 @@ Les services de la communauté beta.gouv.fr font souvent appel à des personnes 
 
 ### Les TJM : une base pour évaluer le prix d’une prestation
 
-Pour rappel, en dehors des agents publics, les personnes travaillant sur les services beta.gouv.fr sont référencées et rémunérées par les entreprises titulaires des [marchés publics du réseau beta.gouv](../../gestion-administrative/marches-publics-beta.gouv.fr) selon les modalités suivantes :
+Pour rappel, en dehors des agents publics, les personnes travaillant sur les services beta.gouv.fr sont référencées et rémunérées par les entreprises titulaires des [marchés publics du réseau beta.gouv](../../../gerer-son-produit/gestion-au-quotidien/marches/) selon les modalités suivantes :
 
 * L’intrapreneur et/ou le responsable du budget demandent à l'entreprise titulaire une prestation qui correspond à un certain nombre d’UO (unité d'œuvre) selon les règles prévues par le marché ;
 * L'entreprise titulaire propose un devis qui détaille une équipe pressentie et un nombre de jours approximatif pour réaliser la prestation. L'équipe pressentie peut, avec l'accord de l'entreprise titulaire du marché, être constituée de personnes identifiées au sein de la communauté beta.gouv ; ces personnes devront alors contractualiser avec l'entreprise titulaire du marché.
