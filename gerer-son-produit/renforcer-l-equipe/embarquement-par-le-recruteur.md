@@ -18,9 +18,8 @@ layout:
 
 * [ ] Tu lui as demandé de lire les pages [découvrir beta.gouv.fr](broken-reference)
 * [ ] _(Optionnel) La nouvelle recrue a un compte Github sur lequelle elle a activé l'_[_authentification double facteur_](https://ma-vie-administrative.fr/particuliers/ma-vie-connectee/authentification-double-facteur/)
-* [ ] Demander à la nouvelle recrue de créer une fiche sur [https://espace-membre.incubateur.net/onboarding](https://espace-membre.incubateur.net/onboarding).
-* [ ] Valider sur Github la création de la fiche [https://github.com/betagouv/beta.gouv.fr/pulls](https://github.com/betagouv/beta.gouv.fr/pulls)
-* [ ] Verifier que la nouvelle recrue reçoit bien ces 2 emails ( envoyés dans les 20 minutes qui suivent la validation de la fiche) :
+* [ ] Invite le nouveau membre via [https://espace-membre.incubateur.net/community/create](https://espace-membre.incubateur.net/community/create)
+* [ ] Vérifier que la nouvelle recrue reçoit bien ces 2 emails ( envoyés dans les 20 minutes qui suivent la validation de la fiche) :
 
 <!---->
 
@@ -33,9 +32,3 @@ layout:
 * [ ] Si elle est au statut d'indépendant, elle sait à qui adresser sa facture et comment
 * [ ] Si elle est contractuelle DINUM, elle s'est présentée au secrétariat de la DINUM
 * [ ] Tu as envoyé un mail de bienvenue à la nouvelle recrue
-
-## FAQ
-
-La nouvelle recrue ne se servira jamais de GitHub, est-ce essentiel de créer un compte ?
-
-* Si tu est certain·e qu'il·elle n'en aura jamais besoin, tu peux créer sa fiche pour à sa place et passer à l'étape suivante.
