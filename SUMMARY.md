@@ -286,6 +286,7 @@
   * [VaultWarden](les-outils-de-la-communaute/autres-services/vaultwarden/README.md)
     * [Migrer de DashLane vers VaultWarden](les-outils-de-la-communaute/autres-services/vaultwarden/migrer-de-dashlane-vers-vaultwarden.md)
   * [Grist](les-outils-de-la-communaute/autres/grist.md)
+  * [Sites Faciles](les-outils-de-la-communaute/autres-services/sites-faciles.md)
   * [Metabase](les-outils-de-la-communaute/autres/metabase/README.md)
     * [Metabase sur Scalingo](les-outils-de-la-communaute/autres/metabase/metabase.md)
   * [Welcome To The Jungle](les-outils-de-la-communaute/autres-services/welcome-to-the-jungle/README.md)
