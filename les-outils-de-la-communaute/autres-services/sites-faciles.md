@@ -14,7 +14,9 @@ description: Sites Faciles est l'outil de gestion de contenus (CMS) de l'État.
 
 **Pour aller plus loin :**&#x20;
 
-* [Visiter le site de Sites Faciles](https://sites-faciles.beta.numerique.gouv.fr/)
-* [Demander une démo ou la mise à disposition d'une instance](https://sites-faciles.beta.numerique.gouv.fr/contactez-nous/)
+* [Visiter le site de Sites Faciles](https://sites-faciles.beta.numerique.gouv.fr/?mtm\_campaign=docbeta)
+* [Demander une démo ou la mise à disposition d'une instance](#user-content-fn-1)[^1]
 * Discuter sur les canaux [Tchap](https://tchap.gouv.fr/#/room/#sites-faciles:agent.dinum.tchap.gouv.fr) et [Mattermost](https://mattermost.incubateur.net/betagouv/channels/startup-cms) dédiés
 * [Formuler une demande d'amélioration ](https://app-4f63e69c-74f0-49bd-aaa8-a64b1d4bf151.cleverapps.io/)
+
+[^1]: [https://sites-faciles.beta.numerique.gouv.fr/contactez-nous](https://sites-faciles.beta.numerique.gouv.fr/contactez-nous/)?mtm\_campaign=docbeta
