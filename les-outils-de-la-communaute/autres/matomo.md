@@ -4,7 +4,7 @@ description: Pour analyser le trafic sur son site.
 
 # Matomo
 
-## [![Sanity-check: B](https://camo.githubusercontent.com/8fac053d2be7851f30ce264d562be328c250301dec3e3ed1f3655103b63e7463/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73616e6974795f636865636b2d422d6c69676874626c7565)](https://sanity-check.numericite.eu/posts/3034a20a-dafd-4349-98da-14e5344fb13d) [![type: SAAS](https://camo.githubusercontent.com/dc800db5f4457563d5a832874f6ee38e0543ad0cb6aa4f0506475cdff095ea46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747970652d534141532d626c7565)](https://camo.githubusercontent.com/dc800db5f4457563d5a832874f6ee38e0543ad0cb6aa4f0506475cdff095ea46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747970652d534141532d626c7565)
+[![](https://img.shields.io/badge/sanity\_check-B-green)](https://sanity-check.numericite.eu/posts/3034a20a-dafd-4349-98da-14e5344fb13d) ![](https://img.shields.io/badge/open-source-green)
 
 ## C'est quoi en quelques mots?
 
@@ -12,13 +12,15 @@ Matomo est un logiciel d'analyse de sites web qui permet de collecter, suivre et
 
 Matomo propose des fonctionnalités telles que le suivi des pages vues, des clics, des téléchargements, des objectifs de conversion, des événements personnalisés, etc. Il permet également de mesurer l'efficacité des campagnes marketing, de suivre les performances des mots-clés et des pages spécifiques, et de générer des rapports détaillés sur l'activité du site.
 
-Pour consulter les statistiques de trafic des sites en `*.beta.gouv.fr` : [stats.beta.gouv.fr/](https://stats.beta.gouv.fr/index.php?module=MultiSites\&action=index\&idSite=1\&period=day\&date=yesterday).
+Pour consulter les statistiques de trafic des sites en `*.beta.gouv.fr` : [stats.beta.gouv.fr](https://stats.beta.gouv.fr/index.php?module=MultiSites\&action=index\&idSite=1\&period=day\&date=yesterday).
 
 C'est un outil en ligne géré par beta.gouv.
 
 ![matomo - home](../../.gitbook/assets/matomo-home.png)
 
-Plus d'infos sur le site officiel : https://matomo.org/
+Plus d'infos sur le site officiel : [https://matomo.org](https://matomo.org)
+
+Les [plugins matomo premium](https://plugins.matomo.org/premium) peuvent être installés à la demande, n'hésitez pas à nous solliciter si besoin d'en ajouter ou configuration particulière : cf [canal mattermost \~domaine-matomo](https://mattermost.incubateur.net/betagouv/channels/incubateur-matomo)
 
 ## Matomo, comment ça marche ?
 
@@ -28,7 +30,7 @@ Matomo est l'équivalent _open source_ de Google Analytics.
 
 ## Ajouter un site en beta.gouv.fr au Matomo mutualisé
 
-#### Aller dans  [le channel Mattermost incubateur-demandes-ops ](https://mattermost.incubateur.net/betagouv/channels/incubateur-ops) et faire une demande via le formulaire dédié :&#x20;
+#### Aller dans [le channel Mattermost incubateur-demandes-ops ](https://mattermost.incubateur.net/betagouv/channels/incubateur-ops)et faire une demande via le formulaire dédié :
 
 ## Recommandations pour utiliser Matomo sans bannière de consentement aux cookies
 
