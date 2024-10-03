@@ -13,7 +13,7 @@ Un éditeur permet d'enregistrer des "questions" (retranscrites en requêtes de 
 Metabase permet de publier les tableaux de bord ou de les intégrer dans un autre site via une `iframe`.
 
 * [Voir la documentation](https://www.metabase.com/docs/latest/) (en anglais)
-* Le [Metabase mutualisé](https://metabase.incubateur.net) de beta.gouv
+* Le [Metabase mutualisé](https://metabase.incubateur.net) de beta.gouv.&#x20;
 
 Cet outil s'adresse :
 
@@ -27,6 +27,12 @@ La gestion des données personnelles est un point d'attention important lors de 
 
 Il est conseillé de dupliquer vos données en les anonymisant dans une seconde base spécifique à Metabase.
 {% endhint %}
+
+###
+
+{% embed url="https://mattermost.incubateur.net/betagouv/channels/domaine-metabase" %}
+Canal de discussion dédié à Metabase sur mattermost : domaine-metabase
+{% endembed %}
 
 ### Recommandations
 
