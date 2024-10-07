@@ -31,7 +31,7 @@ hidden: true
 3 entreprises ou groupement d'entreprises ont remporté le marché :
 
 1. [NUMA](https://www.numa.co/) (contact :  [**thomas.l@numa.co**](mailto:thomas.l@numa.co))
-2. [Dynergie](https://www.dynergie.fr/) en sous-traitance avec Freelance Republik (contact :  coachbetagouv@dynergie.fr)
-3. [OCTO Technology](https://www.octo.com/) / Malt (contact du groupement : octo\_malt@octo.com)
+2. [Dynergie](https://www.dynergie.fr/) (contact :  coachbetagouv@dynergie.fr)
+3. [OCTO Technology](https://www.octo.com/) / [Malt](https://www.malt.fr/) (contact du groupement : octo\_malt@octo.com)
 
 ### &#x20;<a href="#comment-beneficier-de-ce-marche" id="comment-beneficier-de-ce-marche"></a>
