@@ -1,8 +1,8 @@
 ---
+icon: '2'
 description: >-
   L'objectif de cette seconde étape est d'analyser et s’aligner sur les
   conditions nécessaires à la réussite de la pérennisation
-icon: '2'
 layout:
   title:
     visible: true
@@ -62,6 +62,10 @@ _**Exemple** : le service de dématérialisation des démarches administratives 
 {% endhint %}
 
 ***
+
+#### ⚒️ Outils
+
+{% file src="../../../../.gitbook/assets/Comparaison diverses structures juridiques.xls" %}
 
 {% content-ref url="choisir-une-structure-daccueil-adaptee.md" %}
 [choisir-une-structure-daccueil-adaptee.md](choisir-une-structure-daccueil-adaptee.md)
