@@ -1,13 +1,13 @@
 ---
+icon: suitcase
 description: >-
   🫱🏾‍🫲🏽Accompagner une personne non experte dans la sélection d’un profil
   pour un métier spécifique requiert une approche méthodique et structurée.
-icon: suitcase
 ---
 
 # L'aide au recrutement des référents métiers
 
-#### 1. Pourquoi ? 🤔
+### 1. Pourquoi ? 🤔
 
 La qualité des profils sélectionnés et embarqués au sein de la communauté [beta.gouv.fr](http://beta.gouv.fr) est déterminant pour assurer la qualité des services numériques qui sont produits par les équipes, et le respect des standards de qualité des produits.
 
@@ -19,7 +19,7 @@ En résumé, ce **pôle** permet d'assurer aux intrapreneurs et à leur équipe 
 
 ***
 
-#### 2. Que propose ce pôle ? 🎯
+### 2. Que propose ce pôle ? 🎯
 
 Le pôle propose un **accompagnement personnalisé** avec l’aide de **référents métiers** experts dans les domaines clés du numérique :
 
@@ -32,7 +32,7 @@ L’objectif est de garantir que chaque nouveau profil qui intègre la communaut
 
 ***
 
-#### 3. Qui sont ces référents ? 👥
+### 3. Qui sont ces référents ? 👥
 
 Le groupe est composé d'un réseau de **référents métiers**, chacun expert dans leur domaine :
 
@@ -44,7 +44,7 @@ Le groupe est composé d'un réseau de **référents métiers**, chacun expert d
 
 ***
 
-#### 4. Comment faire appel aux référents? 📞
+### 4. Comment faire appel aux référents? 📞
 
 1. 📝[**Remplis ce formulaire**](https://tally.so/r/wvBVDl) pour exprimer ton besoin d’accompagnement.
 2. 📧 **Par mail** : **animation@beta.gouv.fr** pour obtenir des informations ou poser vos questions.
