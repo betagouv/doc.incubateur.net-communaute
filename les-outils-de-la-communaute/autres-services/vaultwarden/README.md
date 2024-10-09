@@ -4,11 +4,15 @@ description: Gestionnaire de mots de passes partagés
 
 # VaultWarden
 
-L'équipe animation met à votre disposition une instance de vaulwarden pour vous permettre de gérer les mots de passes de votre équipe : [https://vaultwarden.incubateur.net](https://vaultwarden.incubateur.net)
+L'équipe animation met à votre disposition une instance de VaultWarden (équivalent de BitWarden) pour vous permettre de gérer les mots de passes de votre équipe : [https://vaultwarden.incubateur.net](https://vaultwarden.incubateur.net)
 
 Vous pouvez directement créer un nouveau en utilisant votre email @beta.gouv.fr
 
 Plusieurs clients ou extensions sont disponibles : [https://bitwarden.com/download](https://bitwarden.com/download/)
+
+{% hint style="info" %}
+Pour les extensions navigateur, pensez à préciser "auto-hébergé" et [https://vaultwarden.incubateur.net](https://vaultwarden.incubateur.net).
+{% endhint %}
 
 ## Fonctionnalités clés <a href="#fonctionnalit-c3-a9s-cl-c3-a9s" id="fonctionnalit-c3-a9s-cl-c3-a9s"></a>
 
