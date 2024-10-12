@@ -208,7 +208,7 @@ redirects:
     travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/emails/envoyer-des-mails-en-masse: les-outils-de-la-communaute/emails/envoyer-des-mails-en-masse/README.md
     travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/emails/envoyer-et-recevoir-des-mails-beta.gouv.fr/envoyer-et-recevoir-des-emails-beta.gouv.fr-avec-loffre-ovh-mx-plan: les-outils-de-la-communaute/emails/envoyer-et-recevoir-des-emails-beta.gouv.fr-avec-loffre-ovh-mx-plan.md
     travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/emails: les-outils-de-la-communaute/emails/README.md
-    travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/emails/envoyer-et-recevoir-des-mails-beta.gouv.fr: les-outils-de-la-communaute/emails
+    travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/emails/envoyer-et-recevoir-des-mails-beta.gouv.fr: les-outils-de-la-communaute/emails/README.md
     travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/gitbook/comment-contribuer-a-cette-documentation: les-outils-de-la-communaute/documentation/comment-contribuer-a-cette-documentation.md
     travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/gitbook/recommandations: les-outils-de-la-communaute/documentation/recommandations.md
     travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/grist: les-outils-de-la-communaute/autres/grist.md
@@ -226,6 +226,7 @@ redirects:
     travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/metabase/metabase: les-outils-de-la-communaute/autres/metabase/metabase.md
     travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/metabase: les-outils-de-la-communaute/autres/metabase/README.md
     travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/outils/liste-de-diffusion-et-adresses-de-contact: les-outils-de-la-communaute/emails/liste-de-diffusion-et-adresses-de-contact.md
+    travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/outils/mise-a-jour-de-mes-informations: les-outils-de-la-communaute/espace-membre/premier-pas-indispensable-creer-ta-fiche-membre.md
     travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/pad: les-outils-de-la-communaute/autres/pad.md
     travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute: les-outils-de-la-communaute/README.md
     travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/sentry: les-outils-de-la-communaute/autres/sentry.md
