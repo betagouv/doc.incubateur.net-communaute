@@ -28,27 +28,6 @@ Préalable : Choisir les URL, en se basant sur [cette documentation.](../gestion
 2. Faire [la demande de création de zone DNS](../gestion-au-quotidien/tech/support-tech.md) en précisant le compte OVH qui recevra la délégation.
 3. Une fois le ticket traité, accepter la demande de délégation et configurez votre zone DNS.
 
-#### Example avec AlwaysData
-
-1. Créer un compte sur [Always Data](https://admin.alwaysdata.com/) avec votre adresse mail `@beta.gouv.fr`.
-2. Ajouter le nouveau domaine. Dans l'interface, trouver le menu `domains`, puis le bouton `Add a domain` et suivre les instructions pour ajouter le domaine `ma-super-startup.incubateur.net`.
-3. Faire [la demande de création de zone DNS ](../gestion-au-quotidien/tech/support-tech.md)en précisant le compte alwaysdata qui recevra la délégation.
-4. Ajouter les entrées DNS
-   * Dans le menu `domains`, en face du nom de votre domaine cliquez sur le picto dans la colonne `details`, puis sur l'onglet `DNS Records`.
-   * Cliquez sur `Add DNS record`, et ajouter une entrée de type `ALIAS`, avec `ma-super-startup-staging.osc-fr1.scalingo.io` comme `value`.
-   *   Ajouter une deuxieme entrée DNS, cette fois de type `CNAME`, avec `www` comme `Hostname` et `ma-super-startup-staging.osc-fr1.scalingo.io` comme `value`.
-
-       Grâce à ces deux entrées DNS, les adressses `ma-super-startup.incubateur.net` et `www.ma-super-startup.incubateur.net` afficheront toute les deux l'application de `ma-super-startup-staging.osc-fr1.scalingo.io`.
-5.  Ajuster les réglages de l'hébergement Saas
-
-    Scalingo, comme Heroku, Clever-Cloud et d'autres hébergeurs Saas, demande de préciser les noms de domaines utilisés. Dans l'interface de gestion, section `Settings` pour Scalingo, on peut trouver une zone pour préciser le nouveau domaine (`ma-super-startup.incubateur.net` donc).
-
-    Pour garder la connexion https, il faut également activer l'option `force SSL`.
-
-Pour finir, vérifier que tout fonctionne bien en rafraîchissant la page `ma-super-startup.incubateur.net`.
-
-En cas de problème, vous pouvez trouver de l'aide sur le channel Mattermost `~incubateur-ops`.
-
 ## Migration hors des noms de domaine \*.beta.gouv.fr
 
 Lorsque ton produit n'est plus en version bêta ou que ta période d'incubation dans le réseau beta.gouv.fr est terminée, il est nécessaire de prévoir une migration vers un sous-domaine plus pérenne. Cette migration concerne les environnements de production, de développement, de tests, staging, etc.
