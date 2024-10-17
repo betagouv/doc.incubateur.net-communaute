@@ -308,7 +308,7 @@
   * [Growth hacking](solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/growth-hacking-acquisition.md)
   * [Atelier impact](solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/cauchemar-a-beta-la-mesure-dimpact.md)
   * [Conseil juridique et mise en conformité RGPD](solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/mise-en-conformite-rgpd-et-conseil-juridique.md)
-  * [L'aide au recrutement des référents métiers](solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/laide-au-recrutement-des-referents-metiers.md)
+  * [L'aide des référents métiers](solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/laide-au-recrutement-des-referents-metiers.md)
 * [🧑‍💻 Partager et consulter des ressources](solliciter-et-contribuer-a-la-communaute/partage-de-ressources.md)
 * [📣 Communiquer sur beta.gouv.fr à l'extérieur](solliciter-et-contribuer-a-la-communaute/communiquer-sur-beta.gouv.fr-a-lexterieur.md)
 
