@@ -16,7 +16,7 @@ L’incubateur de la DINUM est constitué d’une trentaine de personnes (agents
 
 ### :crown: L'équipe de Direction et Opérations
 
-Elle est constituée de 5 agents :
+Elle est constituée de 4 agents :
 
 * **Ishan Bhojwani**, Chef du département Incubateur de Services numériques
 * **Arthur Hatchuel**, Adjoint au Chef du département
