@@ -20,7 +20,6 @@ Elle est constituée de 5 agents :
 
 * **Ishan Bhojwani**, Chef du département Incubateur de Services numériques
 * **Arthur Hatchuel**, Adjoint au Chef du département
-* **Julien Dauphant**, Directeur Technique et Produits (CTO)
 * **Alice Pannetrat,** Directrice des opérations
 * **Emmanuelle Graff**, Responsable des opérations et de coordination de projets (PMO)
 
@@ -28,23 +27,21 @@ Elle est constituée de 5 agents :
 
 Les [**responsables de portefeuille** ](../../travailler-chez-beta.gouv.fr/les-differents-metiers/responsable-de-portefeuille/)s'occupent de soutenir les équipes produit et les incubateurs dans leurs travaux en fonction de leur périmètre ministériel :
 
-* **Yowa Muzadi** : Travail, Insertion et Armées
 * **Paul Burgun** : Justice
-* **Elsa Le Duigou** : Santé, Solidarités, Cybersécurité et IA
+* **Elsa Le Duigou** : Santé, Cybersécurité et IA
 * **Clémence Lopez** : Education Nationale, Enseignement supérieur, Sports
-* **Estelle Saget** : Jeunesse et Vie Associative
+* **Estelle Saget** : Jeunesse et Vie Associative, Solidarités et Inclusion
 * **Maël Inizan** : Logement
 * **Margot Sanchez** : Transition Ecologique
 * **Adrien Zemour** : Territoire, Affaires Etrangères et Culture
-* **Magali Marcel-Garreau** : Economie, Agriculture
-* **Thibault Desjardins** : Intérieur
+* **Arthur Hatchuel par interim de Magali Marcel-Garreau** : Economie, Agriculture
+* **Thibault Desjardins** : Intérieur, Armées et Travail
 
 ### :bullettrain\_front: Le pôle Accélération
 
 Ce pôle est en charge du [Fond d'Accélération des Startups d'Etat et de Territoires (FAST)](../../gerer-son-produit/la-vie-du-produit/acceleration/fonds-dacceleration-des-startups-detat.md) et en 2024 du Fonds Numérique pour la Planification Écologique. Il propose un accompagnement humain et financier. Il est composé de :
 
 * **Paul Burgun**, Responsable du pôle
-* **Arnaud Robin**, Chargé d'accélération
 * **Claire Duizabo**, Experte accélération
 * **Gauthier Nadaud**, Expert accélération
 * **Chaïb Martinez**, Expert accélération
@@ -55,16 +52,17 @@ Ce pôle est en charge du [Fond d'Accélération des Startups d'Etat et de Terri
 
 Le pôle garantit un environnement de travail le plus attractif possible, anime et outille le réseau des incubateurs ministériels, des intrapreneurs et des EIG, et fournit des expertises aux Startups d’État (tech, accessibilité...). Il est composé de :
 
-<figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
 * **Benjamin Doberset,** responsable de pôle
-* **Fanny Blanc**, animatrice de la communauté beta.gouv.fr
 * **Marine Purson**, animatrice chargée des relations institutionnelles et de la communication
-* **Lucas Charrier**, développeur en charge des outils techs de la communauté
+* **Julien Bouquillon,** référent technique (CTO) de la communauté
+* **Stéphane Maniaci, r**éférent qualité tech (Tech Lead)
+* **Lucas Charrier**, développeur en charge des outils tech de la communauté
 * **Amel Alili**, animatrice chargée d'assistance et du support
 * **Anne-Sophie Tranchet**, animatrice chargée des sujets d'Accessibilité et Design
 * **Thomas Ramé**, développeur chargé des outils techs de la communauté
-* **Julien Bouquillon** : animateur chargé du soutien à la communauté sur les aspects tech
+* **Divine Tende** (alternante), chargée d'animation de communauté et de communication
 
 _L'animation de la communauté beta.gouv.fr n'est pas l'exclusivité de l'incubateur de la DINUM : d'autres personnes peuvent et sont invitées à contribuer à la réussite du collectif (agents des incubateurs ministériels, freelances, etc.)._
 
@@ -72,35 +70,31 @@ _L'animation de la communauté beta.gouv.fr n'est pas l'exclusivité de l'incuba
 Contacter le pôle animation : animation@beta.gouv.fr ou directement sur Mattermost
 {% endhint %}
 
-### :jigsaw: Le pôle Produits incubés :
-
-Le pôle construit des produits numériques incubés à la DINUM (car liés à des politiques prioritaires du gouvernement ou des politiques pour lesquels il n'existe pas encore d'incubateur ministériel). Il est composé de :
-
-* **Stéphane Maniaci,** dev
-* **Livio Lumbroso**, directeur de produit
-* **Denis Beaudot**, dev
-
 ### :basketball: Le pôle Coaching produit
 
 Le pôle accompagne des produits numériques prioritaires et anime la communauté des coachs beta.gouv.fr. Il est constitué de :
 
 * **Maël Inizan,** responsable du pôle, coach
-* **Benoît Champy,** designer UX
+* **Benoît Champy,** coach produit
 * **Adrien Laville,** coach produit
-
-### :handshake: L'Accélérateur d'Initiatives Citoyennes (AIC)
-
-Le pôle AIC accompagne l'émergence de communs numériques issus de la société civile au service de politiques publiques. L'équipe est composée de 3 personnes :
-
-* **Emma Ghariani**, Directrice de l'AIC
-* **Juliette Langlet**, Coach AIC
-* **Virgile Deville**, Coach AIC
+* **Denis Baudot**, mentor technique, CTO des produits incubés à l'ISN
 
 ### :small\_red\_triangle: Le programme Entrepreneur(e)s d'Intérêt Général (EIG)
 
 Le programme facilite le recrutement d'entrepreneur(e)s aguerri(e)s, pour lancer et passer à l'échelle des services conçus selon l'approche beta.gouv.fr en soutien aux politiques publiques. Le pôle EIG est dirigé par :
 
 * **Thomas Parisot**, directeur de programme
+
+Les EIG sont :&#x20;
+
+* Luis Arias, CTO Réfugiés.info
+* Fabien Keller, CPO Écobalyse
+* Martin Letellier, CPO Mon Devis sans oubli
+* Nicolas Enjalbert, CPO Envergo
+* Benoît Vinceneux, CPO Datalma
+* Charles-André Richard, CTO Datalma
+* Romaric Haldenwang, CTO DossierFacile
+* Nadim Bellalahom, CPO Suite proactive
 
 Comment participer à la 7ème promotion du programme EIG ?
 

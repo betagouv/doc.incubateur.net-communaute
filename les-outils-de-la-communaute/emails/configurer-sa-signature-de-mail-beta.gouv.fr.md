@@ -1,29 +1,46 @@
+---
+description: >-
+  Il est obligatoire de permettre à tes interlocuteurs de savoir si tu es agent
+  public ou non, en particulier dans ta signature de mail.
+---
+
 # Configurer sa signature de mail
 
-**Il est obligatoire de permettre à vos interlocuteurs de savoir si vous êtes agents publics ou non**, en particulier dans votre signature de mail.
+Voici plusieurs propositions à toi d’en choisir **obligatoirement** une (✅ À faire ):
 
-Voici plusieurs propositions à vous d’en choisir **obligatoirement** une ( ✅ À faire ):
+### Si tu es prestataire pour un seul produit&#x20;
 
-* Si vous êtes prestataire pour un seul produit :
-  * \[Compétence] en prestation pour \[Nom du produit]
-  * Developpeur en prestation pour Envergo
-  * \[Compétence], \[Nom du produit], \[Externe ou Indépendant]
-  * Developpeur, Envergo, Externe
-  * Developpeur, Envergo, Indépendant (seulement si vous l’êtes)
-* Si vous êtes prestataire pour plusieurs produits ou en transverse :
-  * \[Compétence] en prestation pour \[Nom du produit 1] / \[Nom du produit 2 ]
-    * Developpeur en prestation pour Envergo et France Chaleur Urbaine
-  * \[Compétence], \[Nom du produit 1] / \[Nom du produit 2 ],\[Externe ou Indépendant]
-    * Developpeur, Envergo, France Chaleur Urbaine, Externe
-    * Developpeur, Envergo, France Chaleur Urbaine, Indépendant (seulement si vous l’êtes)
-  * \[Compétence 1] en prestation pour \[Nom du produit 1] / \[Compétence 2] en prestation pour \[Nom du produit 2 ]
-    * Developpeur en prestation pour Envergo Developpeur en prestation pour France Chaleur Urbaine
-  * \[Compétence] en prestation pour \[Nom de l’Incubateur des produits]
-    * Developpeur en prestation pour la Fabrique Numérique du MTE
-  * \[Compétence] en prestation pour le réseau / la communauté beta.gouv
-    * Developpeur en prestation pour le réseau / la communauté beta.gouv
+\[_Compétence_] en prestation pour \[_Nom du produit_]
 
-Vous pouvez aussi avoir **une signature par produits**
+> &#x20;_Développeur en prestation pour Envergo_
+
+\[_Compétence]_, \[_Nom du produit_], \[_Externe ou Indépendant_]
+
+> Développeur, Envergo, Externe
+
+### Si tu es prestataire pour plusieurs produits ou en transverse&#x20;
+
+\[_Compétence_] en prestation pour \[_Nom du produit 1_] / _\[Nom du produit 2_ ]
+
+> Developpeur en prestation pour Envergo et France Chaleur Urbaine
+
+\[_Compétence_], \[_Nom du produit 1_] / \[_Nom du produit 2_ ],\[_Externe ou Indépendant_]
+
+> Developpeur, Envergo, France Chaleur Urbaine, Externe
+
+\[_Compétence 1_] en prestation pour \[_Nom du produit 1_] / \[_Compétence 2_] en prestation pour \[_Nom du produit 2_]
+
+> Développeur en prestation pour Envergo / Développeur en prestation pour France Chaleur Urbaine
+
+\[_Compétence_] en prestation pour \[_Nom de l’Incubateur des produits_]
+
+> Développeur en prestation pour la Fabrique Numérique du MTE
+
+\[_Compétence_] en prestation pour le réseau / la communauté beta.gouv
+
+> Développeur en prestation pour le réseau / la communauté beta.gouv
+
+### Tu peux aussi avoir **une signature par produits**
 
 Vous **pouvez ajouter**
 
@@ -33,13 +50,7 @@ Vous **pouvez ajouter**
 * Si plusieurs missions, possibilité d’avoir plusieurs signatures ou une signature avec tous les produits ou une signature référent à un incubateur ou la communauté
 * Possibilité de faire un lien hypertexte vers son service ou [beta.gouv.fr](http://beta.gouv.fr)
 
-**Recapitulatif**
+### **Récapitulatif**
 
-| ❌ À ne pas faire                                                       | ❌ Exemple                                                 | ✅ À faire                                                                 | ✅ À faire                              |
-| ---------------------------------------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------- | -------------------------------------- |
-| Indiquer travailler pour / \[Compétence] \[Nom du produit/Institution] | Developpeur Envergo                                       |                                                                           |                                        |
-| Developpeur chez Envergo                                               |                                                           |                                                                           |                                        |
-| Developpeur pour Envergo                                               | Indiquer “en prestation pour” ou “en mission pour”        | Developpeur en prestation pour Envergo                                    |                                        |
-| Indiquer une institution en générale (DINUM, MTE etc)                  | Developpeur en prestation pour le Ministère de l’écologie | Indiquer son produit ou ses produits /incubateur / communauté beta.gouv   | Developpeur en prestation pour Envergo |
-| Intégrer le logo Marianne ou le logo d’un ministère                    |                                                           | Intégrer le logo de son produit ou de l’incubateur / communauté beta.gouv |                                        |
+<table><thead><tr><th width="199">❌ À ne pas faire</th><th>❌ Exemple</th><th>✅ À faire</th><th>✅ Exemple</th></tr></thead><tbody><tr><td>Indiquer travailler pour / [Compétence] [Nom du produit/Institution]</td><td>Développeur (chez/pour) Envergo</td><td>Indiquer “en prestation pour” ou “en mission pour”</td><td>Développeur en prestation pour Envergo</td></tr><tr><td>Indiquer une institution en générale (DINUM, MTE etc)</td><td>Developpeur en prestation pour le Ministère de l’écologie</td><td>Indiquer son produit ou ses produits /incubateur / communauté beta.gouv</td><td>Développeur en prestation pour Envergo</td></tr><tr><td>Intégrer le logo Marianne ou le logo d’un ministère</td><td></td><td>Intégrer le logo de son produit ou de l’incubateur / communauté beta.gouv</td><td></td></tr></tbody></table>
 
