@@ -18,11 +18,13 @@ Pour le reste (dev, pré-prod), il faut utiliser ma-startup.incubateur.net
 
 Nous pouvons vous déléguer la gestion de votre Zone DNS sur OVH ou autre fournisseur de votre choix.
 
+Vous serez alors autonome sur la gestion de votre zone DNS et devrez gérer vous-même les éventuels frais afférents comme les boites emails.&#x20;
+
 ### Etapes
 
 Préalable : Choisir les URL, en se basant sur [cette documentation.](../gestion-au-quotidien/tech/choisir-son-nom-de-domaine.md) On prendra ici comme exemple l'adresse `ma-startup.incubateur.net`, une url classique chez beta.gouv pour un site de staging.
 
-#### Example avec OVH
+#### Exemple avec OVH
 
 1. Créer [un compte OVH](https://www.ovh.com/auth/) **avec votre adresse (beta.)gouv.fr**
 2. Faire [la demande de création de zone DNS](../gestion-au-quotidien/tech/support-tech.md) en précisant le compte OVH qui recevra la délégation.
