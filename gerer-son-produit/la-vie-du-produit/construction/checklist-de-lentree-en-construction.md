@@ -8,7 +8,7 @@ hidden: true
 
 # 📋 Checklist de l'entrée en construction
 
-* [ ] &#x20;la fiche produit est publiée et mentionne obligatoirement un objectif d’impact à 6 mois.
+* [ ] publier la fiche produit et y mentionner obligatoirement un objectif d’impact à 6 mois.
 * [ ] annoncer son lancement sur Mattermost dans le canal "général" de l'espace Communauté, avec un lien vers sa fiche produit.
 * [ ] demander une lettre de mission qui porte politiquement le produit, qui protège ton temps d'intrapreneur (2j/semaine à minima) et ton autonomie.
 * [ ] valider le coach avec ton responsable transverse d'incubateur ou celui de la DINUM. Un bon coach d'investigation n'est pas toujours le bon coach de construction.
