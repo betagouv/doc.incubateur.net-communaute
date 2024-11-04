@@ -4,7 +4,7 @@ description: >-
   démarrage d'une phase de construction
 ---
 
-# Conseils pour les coachs
+# 🧰 Kit de démarrage pour les coachs en construction
 
 Cette fiche pratique a été conçue sur la base du retour d'expérience de plusieurs coachs ayant accompagné des Startups d’Etat en phase de construction.
 
