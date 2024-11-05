@@ -325,7 +325,7 @@
       * [Modèle de guide de lancement](lancer-un-service-numerique/je-souhaite-lancer-une-startup-detat/chronologie-dune-appel-a-innovateur/3.-contenu-de-lappel-a-intrapreneur/modele-de-guide-de-lancement.md)
     * [4. Mobiliser les agents et trouver les bons problèmes](lancer-un-service-numerique/je-souhaite-lancer-une-startup-detat/chronologie-dune-appel-a-innovateur/4.-sensibiliser-et-mobiliser-les-agents-talents-et-des-bons-problemes.md)
     * [5. Sélectionner les meilleures candidatures pour participer au jury final](lancer-un-service-numerique/je-souhaite-lancer-une-startup-detat/chronologie-dune-appel-a-innovateur/5.-selection-des-meilleures-candidatures-pour-participer-au-jury-final.md)
-    * [6.-choix-des-investigations-retenues.md](lancer-un-service-numerique/je-souhaite-lancer-une-startup-detat/chronologie-dune-appel-a-innovateur/6.-choix-des-investigations-retenues.md)
+    * [6. Choix des investigations retenues](lancer-un-service-numerique/je-souhaite-lancer-une-startup-detat/chronologie-dune-appel-a-innovateur/6.-choix-des-investigations-retenues.md)
   * [🗓️ Organiser une journée de sélection d'innovateurs](lancer-un-service-numerique-dans-mon-administration/je-souhaite-lancer-une-startup-detat/journee-de-selection/README.md)
     * [Embarquer des intrapreneurs en investigation](lancer-un-service-numerique-dans-mon-administration/je-souhaite-lancer-une-startup-detat/journee-de-selection/embarquer-les-intras-en-investigation.md)
 * [👨‍🔬 Créer un incubateur de services numériques](lancer-un-service-numerique/gerer-son-incubateur.md)
