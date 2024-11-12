@@ -19,7 +19,7 @@ hidden: true
 
 {% hint style="info" %}
 La certification des intras est proposée 2 fois dans l'année.\
-Une première session a lieu en Mai et une seconde au mois de Décembre.
+Une première session a lieu en avril et une seconde au mois de novembre.
 {% endhint %}
 
 ## Préparer sa certification
@@ -37,7 +37,7 @@ Le déroulé de cette certification pour les intras vise à évaluer ces 8 comp�
 
 ## Prérequis d'une certification
 
-* Sont éligibles à cette certification les agent·e·s public·que·s ayant intégré le programme d’intrapreneuriat de beta.gouv.fr et ayant élaboré un service numérique répondant aux besoins des utilisateurs.
+* Sont éligibles à cette certification les agent·e·s de droit public et de droit privé ayant intégré le programme d’intrapreneuriat de beta.gouv.fr et ayant élaboré un service numérique répondant aux besoins des utilisateurs.
 
 ## Déroulé d'une certification
 
@@ -56,7 +56,7 @@ Cette certification est entièrement financée par beta.gouv.fr pour tous les in
 
 ### 1- Inscription
 
-Tous les 6 mois, nous lançons une nouvelle session de certification. Le lien d'inscription est renseigné sur le Mattermost de Beta ou dans l'infolettre interne de beta.
+Tous les 6 mois, nous lançons une nouvelle session de certification. Le lien d'inscription est renseigné sur le Mattermost de beta.gouv.fr ou dans l'infolettre interne de beta.
 
 ### 2- Complétion du dossier
 
