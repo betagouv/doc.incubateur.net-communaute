@@ -2,7 +2,7 @@
 
 ## Reconnaissance de nouvelles compétences
 
-Les intrapreneur·euse·s, membres des Startups d’État ou de Territoires, s’engagent dans une aventure professionnelle inédite. Hors des sentiers battus des carrières classiques des agents publics, ils montent et animent des équipes pluridisciplinaires pour résoudre les problèmes des politiques publiques que portent leur organisation.
+Les intrapreneur·euse·s, membres des Startups d’État ou de Territoires, s’engagent dans une aventure professionnelle inédite. Hors des sentiers battus des carrières classiques des agents, ils montent et animent des équipes pluridisciplinaires pour résoudre les problèmes des politiques publiques que portent leur organisation.
 
 Qu’elles durent 6 mois ou 5 ans, **ces expériences riches en apprentissage n’entrent pas dans les parcours RH de leurs administrations**. Ainsi ces agents, fonctionnaires ou contractuels, n’ont pas les moyens de **faire valoir les nouvelles compétences acquises** au cours de cette expérience intrapreneuriale dans le cadre de leur carrière publique.
 
