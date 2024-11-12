@@ -37,7 +37,7 @@ Le déroulé de cette certification pour les intras vise à évaluer ces 8 comp�
 
 ## Prérequis d'une certification
 
-* Sont éligibles à cette certification les agent·e·s public·que·s ayant intégré le programme d’intrapreneuriat de beta.gouv.fr et ayant élaboré un service numérique répondant aux besoins des utilisateurs.
+* Sont éligibles à cette certification les agent·e·s de droit public ou de droit privé ayant intégré le programme d’intrapreneuriat de beta.gouv.fr et ayant élaboré un service numérique répondant aux besoins des utilisateurs.
 
 ## Déroulé d'une certification
 
