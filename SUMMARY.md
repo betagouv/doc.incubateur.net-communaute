@@ -172,6 +172,7 @@
     * [☄️ Définir et mesurer l'impact](gerer-son-produit/la-vie-du-produit/investigation/definir-et-mesurer-limpact.md)
     * [🤝 Relations sponsors](gerer-son-produit/la-vie-du-produit/investigation/comment-repondre-a-un-sponsor-qui-demande-une-roadmap-produit.md)
     * [📚 Ressources utiles pour l'investigation](gerer-son-produit/la-vie-du-produit/investigation/ressources-utiles-pour-linvestigation.md)
+    * [L'espace collaboratif d'incubation produit (sur figjam)](gerer-son-produit/la-vie-du-produit/investigation/lespace-collaboratif-dincubation-produit-sur-figjam.md)
   * [2️⃣ Construction](gerer-son-produit/la-vie-du-produit/construction/README.md)
     * [📋 Checklist de la phase de construction](gerer-son-produit/la-vie-du-produit/construction/la-checklist-de-la-phase-de-construction.md)
     * [🟣 Retours d'expérience](gerer-son-produit/la-vie-du-produit/construction/3-retours-dexperience-de-coachs.md)

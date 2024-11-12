@@ -51,6 +51,7 @@ L'objectif est de rendre votre travail découvrable facilement pour toute person
 * Le bon problème attendu !
 * Documentation : [Ressources et outils pour une investigation](https://pad.incubateur.net/fYKvdWPASNKzpwAWEcZyGA)​
 * Checklist : [bonnes pratiques pour une investigation et rôle du coach](https://pad.incubateur.net/dbob\_tzxRMSMMMpRGcjZyw)
+* [L'Espace Numérique d'Incubation Produit ](../../../../gerer-son-produit/la-vie-du-produit/investigation/lespace-collaboratif-dincubation-produit-sur-figjam.md):  un tableau Figjam avec les canvas pour l'investigation
 
 ### Pour préparer le comité d'investissement <a href="#pour-preparer-le-comite-dinvestissement" id="pour-preparer-le-comite-dinvestissement"></a>
 
