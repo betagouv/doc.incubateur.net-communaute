@@ -31,11 +31,10 @@ Vérifier les risques associés à chaque service (liste non exhaustive) :
 * Mailjet
   * La liste des emails, les noms sont disponible à partir de la clé API
   * Demander la liste des appels API et les IPs pour voir les accès frauduleux
-* Sendinblue
+* Brevo (ex Sendinblue)
   * La liste des emails, des noms et l'ensemble des emails sont disponible à partir de Github
-* Gitlab
-* Scalingo
-* Clever Cloud
+* Github / Gitlab
+* Clever Cloud / Scalingo
 
 ## 2. Rédiger un rapport d'incident et le transmettre
 
