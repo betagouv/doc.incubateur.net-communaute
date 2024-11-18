@@ -331,3 +331,7 @@
   * [🗓️ Organiser une journée de sélection d'innovateurs](lancer-un-service-numerique-dans-mon-administration/je-souhaite-lancer-une-startup-detat/journee-de-selection/README.md)
     * [Embarquer des intrapreneurs en investigation](lancer-un-service-numerique-dans-mon-administration/je-souhaite-lancer-une-startup-detat/journee-de-selection/embarquer-les-intras-en-investigation.md)
 * [👨‍🔬 Créer un incubateur de services numériques](lancer-un-service-numerique/gerer-son-incubateur.md)
+
+## Besoin d'aide ?
+
+* [Besoin d'aide ?](besoin-daide/besoin-daide.md)
