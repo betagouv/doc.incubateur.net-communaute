@@ -120,6 +120,7 @@ redirects:
     gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-gere-mon-produit-et-son-impact/nommer-votre-service: gerer-son-produit/la-vie-du-produit/investigation/nommer-votre-service.md
     gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-gere-mon-produit-et-son-impact: gerer-son-produit/la-vie-du-produit/investigation/definir-et-mesurer-limpact.md
     gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-gere-mon-produit-et-son-impact/situation-dysfonctionnelle: travailler-chez-beta.gouv.fr/vie-quotidienne-et-bien-etre/gerer-des-situations-comliquees/situation-dysfonctionnelle.md
+    gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-gere-mon-produit-et-son-impact/definir-et-mesurer-limpact: gerer-son-produit/la-vie-du-produit/investigation/definir-et-mesurer-limpact.md
     gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-securise-mon-produit/foire-aux-questions-sur-la-mise-en-conformite-des-services-numeriques/analyse-dimpact-relative-a-la-protection-des-donnees-aipd: gerer-son-produit/les-standards/protection-des-donnees-personnelles/analyse-dimpact-relative-a-la-protection-des-donnees-aipd.md
     gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-securise-mon-produit/foire-aux-questions-sur-la-mise-en-conformite-des-services-numeriques/echanges-de-fichiers-de-donnees-personnelles: gerer-son-produit/les-standards/protection-des-donnees-personnelles/echanges-de-fichiers-de-donnees-personnelles.md
     gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-securise-mon-produit/foire-aux-questions-sur-la-mise-en-conformite-des-services-numeriques/information-et-consentement-des-usagers: gerer-son-produit/les-standards/protection-des-donnees-personnelles/information-et-consentement-des-usagers.md
@@ -245,3 +246,4 @@ redirects:
     travailler-a-beta-gouv/se-former/les-formations-a-venir: travailler-chez-beta.gouv.fr/se-former/les-formations-a-venir.md
     travailler-a-beta-gouv/se-former: travailler-chez-beta.gouv.fr/se-former/README.md
     outils/liste-de-diffusion-et-adresses-de-contact: les-outils-de-la-communaute/emails/liste-de-diffusion-et-adresses-de-contact.md
+    
