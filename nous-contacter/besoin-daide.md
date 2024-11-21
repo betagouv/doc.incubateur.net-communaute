@@ -1,6 +1,6 @@
 ---
-description: Nous sommes là pour vous aider
 icon: comment-question
+description: Nous sommes là pour vous aider
 ---
 
 # Besoin d'aide ?
@@ -22,7 +22,7 @@ Avez vous consulté notre [**FAQ** ](https://faq-betagouv.crisp.help/fr/)**?** V
 Obtenez une réponse en temps réel grâce à notre service de **chat en direct**. \
 Un membre de l’équipe animation est disponible pour répondre à vos questions et vous guider pas à pas.
 
-**Le chat est disponible sur notre** [**FAQ** ](https://faq-betagouv.crisp.help/fr/)**ou sur l'espace membre via le lien "Support" dans l'entête de page.**
+**Le chat est disponible sur notre** [**FAQ** ](https://faq-betagouv.crisp.help/fr/)**ou sur** [**l'espace membre**](https://espace-membre.incubateur.net/) **via le lien "Support" dans l'entête de page.**
 
 ### **2. Contact par e-mail**
 
