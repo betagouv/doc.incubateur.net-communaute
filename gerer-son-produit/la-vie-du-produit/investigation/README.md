@@ -41,3 +41,8 @@ Vous pouvez parcourir les pages de ce guide pour obtenir de plus amples informat
 {% content-ref url="ressources-utiles-pour-linvestigation.md" %}
 [ressources-utiles-pour-linvestigation.md](ressources-utiles-pour-linvestigation.md)
 {% endcontent-ref %}
+
+{% content-ref url="lespace-collaboratif-dincubation-produit-sur-figjam.md" %}
+[lespace-collaboratif-dincubation-produit-sur-figjam.md](lespace-collaboratif-dincubation-produit-sur-figjam.md)
+{% endcontent-ref %}
+
