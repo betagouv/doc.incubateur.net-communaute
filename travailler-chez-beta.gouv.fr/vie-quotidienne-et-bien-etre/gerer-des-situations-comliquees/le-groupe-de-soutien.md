@@ -17,9 +17,17 @@ Les membres du groupe de soutien ne sont pas : des psychologues, des médecins, 
 
 Bienveillance, confidentialité, entraide, solidarité, humilité, respect, écoute, discrétion (dans la limite des obligations des agent.e.s publics)
 
-### 👂Comment se passe une écoute ?
+### 📞Comment contacter le groupe de soutien ?
 
-Tu peux contacter le groupe de soutien par l’adresse email [soutien@beta.gouv.fr](mailto:soutien@beta.gouv.fr), par le[ formulaire tally ](https://tally.so/r/w8xAgr)ou directement sur mattermost/tchap/email. Un.e membre du groupe de soutien qui n’a pas de lien avec l’équipe en question peut prendre l’écoute selon ses disponibilités.&#x20;
+Tu peux contacter le groupe de soutien :&#x20;
+
+* en envoyant un email à [soutien@beta.gouv.fr](mailto:soutien@beta.gouv.fr) ;
+* en remplissant le[ formulaire Tally ](https://tally.so/r/w8xAgr);
+* en contactant l'un des membres directement sur Mattermost, Tchap ou sur son email beta.gouv.fr.
+
+Si tu contactes le groupe, un.e membre du groupe de soutien qui n’a pas de lien avec ton équipe assurera l’écoute.
+
+### 👂Comment se passe une écoute ?
 
 Il s’agit d’une écoute, le but et de recueillir la parole, sans jugement et sans donner son avis. Si tu le désires, il est possible de te mettre en relation avec un.e membre de la hiérarchie ou une association.
 
