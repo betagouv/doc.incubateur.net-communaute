@@ -40,6 +40,7 @@
     * [En construction](travailler-chez-beta.gouv.fr/les-differents-metiers/coach.e/en-construction/README.md)
       * [🧰 Kit de démarrage pour les coachs en construction](travailler-chez-beta.gouv.fr/les-differents-metiers/coach.e/en-construction/conseils-pour-les-coachs.md)
     * [Le coach, la SET et la mesure d'impact](travailler-chez-beta.gouv.fr/les-differents-metiers/coach.e/le-coach-la-startup-detat-et-la-mesure-dimpact.md)
+    * [🤔 Problématiques de coaching](travailler-chez-beta.gouv.fr/les-differents-metiers/coach.e/problematiques-de-coaching.md)
   * [Développeur.se](travailler-chez-beta.gouv.fr/les-differents-metiers/developpeur.se/README.md)
     * [🧰 Kit de démarrage dev](travailler-chez-beta.gouv.fr/les-differents-metiers/developpeur.se/kit-de-demarrage.md)
   * [Gestionnaire de produit (PO/PM)](travailler-chez-beta.gouv.fr/les-differents-metiers/gestionnaire-de-produit-PO-PM/README.md)

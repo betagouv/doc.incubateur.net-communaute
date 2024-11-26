@@ -47,15 +47,16 @@ L'objectif est de rendre votre travail découvrable facilement pour toute person
 
 ### De la documentation pour monter en compétence sur le sujet de l'investigation : <a href="#de-la-documentation-pour-monter-en-competence-sur-le-sujet-de-linvestigation" id="de-la-documentation-pour-monter-en-competence-sur-le-sujet-de-linvestigation"></a>
 
-* le support de [formation Investigation de Karel et Sabine](https://docs.google.com/presentation/d/1YCM9A1aoge-0YbSEowamOX939-JftdYfJd6QnZZRFzw/edit#slide=id.g89cb07a65b\_1\_1448)​
+* le support de [formation Investigation de Karel et Sabine](https://docs.google.com/presentation/d/1YCM9A1aoge-0YbSEowamOX939-JftdYfJd6QnZZRFzw/edit#slide=id.g89cb07a65b_1_1448)​
 * Le bon problème attendu !
 * Documentation : [Ressources et outils pour une investigation](https://pad.incubateur.net/fYKvdWPASNKzpwAWEcZyGA)​
-* Checklist : [bonnes pratiques pour une investigation et rôle du coach](https://pad.incubateur.net/dbob\_tzxRMSMMMpRGcjZyw)
+* Checklist : [bonnes pratiques pour une investigation et rôle du coach](https://pad.incubateur.net/dbob_tzxRMSMMMpRGcjZyw)
 * [L'Espace Numérique d'Incubation Produit ](../../../../gerer-son-produit/la-vie-du-produit/investigation/lespace-collaboratif-dincubation-produit-sur-figjam.md):  un tableau Figjam avec les canvas pour l'investigation
+* Les [principales problématiques de coaching](../problematiques-de-coaching.md) et pistes de solutions
 
 ### Pour préparer le comité d'investissement <a href="#pour-preparer-le-comite-dinvestissement" id="pour-preparer-le-comite-dinvestissement"></a>
 
-* La [grille d'évaluation à la fin de l'investigation](https://beta.gouv.fr/content/docs/grille\_lancement.pdf)​
+* La [grille d'évaluation à la fin de l'investigation](https://beta.gouv.fr/content/docs/grille_lancement.pdf)​
 * Documentation : [Préparer un comité d'investissement](../../../../gerer-son-produit/gestion-au-quotidien/budget/preparer-un-comite-dinvestissement/)​
 * Exemples de supports de fin d'investigation et comité d'investissement : demandez sur le Mattermost, #incubateur-investigation
 
@@ -75,7 +76,7 @@ L'objectif est de rendre votre travail découvrable facilement pour toute person
 
 L'investigation peut être considérée comme réussie si :
 
-* **J'arrive à répondre à toutes les questions de la** [**grille d'évaluation à la fin de l'investigation**](https://beta.gouv.fr/content/docs/grille\_lancement.pdf) avec la plus grande certitude possible (quel est le problème, sa taille, qui sont les utilisateurs, l'intrapreneur/e est-elle adapté.e, l'administration est-elle prête à la méthode, a-t-on trouvé une stratégie des 6 premiers mois qui soit réaliste, est-on sûr qu'il n'existe pas déjà une solution au problème, etc) ;
+* **J'arrive à répondre à toutes les questions de la** [**grille d'évaluation à la fin de l'investigation**](https://beta.gouv.fr/content/docs/grille_lancement.pdf) avec la plus grande certitude possible (quel est le problème, sa taille, qui sont les utilisateurs, l'intrapreneur/e est-elle adapté.e, l'administration est-elle prête à la méthode, a-t-on trouvé une stratégie des 6 premiers mois qui soit réaliste, est-on sûr qu'il n'existe pas déjà une solution au problème, etc) ;
 * **L'intrapreneur/e et sa hiérarchie, notamment le ou la sponsor, ont compris l'approche beta.gouv.fr et nous font confiance** ;
 * **J'ai un avis clair quant à s'il faut lancer ou non la Startup d'Etat**, j'ai réussi à convaincre plusieurs membres de la communauté beta.gouv.fr de mon point de vue (par exemple lors de la répétition du comité d'investissement) ;
 * Si je pense qu'il faut lancer la Startup d'Etat, **j'ai une idée plus ou moins précise du backlog des prochaines semaines** afin d'arriver rapidement à un MVP qui pourra être utilisé par un premier cercle de bêta-testeurs - je peux par exemple proposer de les formaliser en utilisant la [méthode des OKR](https://www.welcometothejungle.com/fr/articles/methode-okr-objectives-results) ; j'ai également une vision à +36 mois de ce à quoi pourrait ressembler la Startup d'Etat en cas de réussite.
