@@ -115,7 +115,7 @@ _Ecoute et orientation pour apaiser, informer, conseiller toute personne en dét
 {% hint style="success" %}
 ### 🙋‍♀️🙋‍♂️ Rejoindre le groupe&#x20;
 
-Pour rejoindre le groupe tu dois faire une candidature spontanée et avoir suivi la formation PSSM ou autre formation sensibilisant à l’écoute.
+Pour rejoindre le groupe tu dois faire une candidature spontanée à soutien@beta.gouv.fr  et avoir suivi la formation PSSM ou autre formation sensibilisant à l’écoute.
 {% endhint %}
 
 
