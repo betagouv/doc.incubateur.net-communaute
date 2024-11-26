@@ -103,16 +103,16 @@ La plateforme Welcome to the Jungle est un outil supplémentaire qui permet d’
 _**Rappeler les valeurs de beta**_\
 Rappeler lors des échanges, l’importance des valeurs de beta et de notre culture de travail. S’assurer que le candidat les a lues et s'y reconnait.\
 \
-_**Aller voir les candidatures spontanées**_\
+&#xNAN;_**Aller voir les candidatures spontanées**_\
 Le site vitrine du welcom to the jungle permet les candidatures spontanées, n’hésitez pas à regarder si des profils peuvent vous intéresser. Pour ce faire se rendre dans l’offre “candidature spontanée”.
 
 _**Mettre à jour le Welcome Kit**_\
 Mettre à jour la carte des candidats tout au long du process de sélection.\
 \
-_**Faire attention aux biais**_\
+&#xNAN;_**Faire attention aux biais**_\
 Nous sommes tous biaisés, y faire attention et [se sensibiliser](https://mozaikrh.com/11-biais-cognitifs-a-connaitre-pour-mieux-recruter/) si ce n'est pas déjà fait !\
 \
-_**Rester respectueux dans ses commentaires**_\
+&#xNAN;_**Rester respectueux dans ses commentaires**_\
 Les commentaires que vous laisseraient sur la fiche d'un candidat seront accessibles à toute la communauté, rester donc professionnel et respectueux. Par ailleurs, la loi condamne tout propos discriminant ou haineux. Enfin, un candidat peut vous demander d'avoir accès aux informations que vous avez sur lui dont les commentaires.
 
 </details>

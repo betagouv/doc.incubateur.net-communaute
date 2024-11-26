@@ -28,7 +28,7 @@ Présentation de l'approche produit
 
 Samuel AZOULAY, 2014. Mémoire de Master 2 recherche, Panthéon Assas, Paris II.
 
-**Analyse des Startups d'État sous l'angle de la valeur publique **_**(en anglais)**_
+**Analyse des Startups d'État sous l'angle de la valeur publique&#x20;**_**(en anglais)**_
 
 [**When the French State works in startup mode — A public value approach to the French digital services incubator**](https://raw.github.com/wiki/sgmap/beta.gouv.fr/files/StateStartups-Foucaud.pdf).
 

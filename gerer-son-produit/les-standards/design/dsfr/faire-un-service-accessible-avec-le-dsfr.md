@@ -6,7 +6,7 @@
 
 {% hint style="info" %}
 Ce contenu est aussi disponible sous la forme de webinaire\
-🖥️ [**Support de présentation**](https://docs.google.com/presentation/d/1fqlKT51fbjqu0OrU30OLvQK5CURFcDZmJHMcZsvauCI/edit#slide=id.g2072cd81032\_0\_144)
+🖥️ [**Support de présentation**](https://docs.google.com/presentation/d/1fqlKT51fbjqu0OrU30OLvQK5CURFcDZmJHMcZsvauCI/edit#slide=id.g2072cd81032_0_144)
 {% endhint %}
 
 ### Le DSFR aide à une base saine <a href="#le-dsfr-aide-a-une-base-saine" id="le-dsfr-aide-a-une-base-saine"></a>
@@ -14,11 +14,11 @@ Ce contenu est aussi disponible sous la forme de webinaire\
 Nativement, les composants officiels du DSFR sont **déjà accessibles**. Concrètement, le DSFR aide à être [conforme au RGAA](https://accessibilite.numerique.gouv.fr/) :
 
 * **40 %** des critères sont **nativement inclus** dans le DSFR.\
-  _Par exemple : le critère 11.1 « Chaque champ de formulaire a-t-il une étiquette ? »_
+  &#xNAN;_&#x50;ar exemple : le critère 11.1 « Chaque champ de formulaire a-t-il une étiquette ? »_
 * **30 %** des critères sont **documentés** dans le DSFR.\
-  _Par exemple : le Critère 11.2 « Chaque étiquette associée à un champ de formulaire est-elle pertinente ? »_
+  &#xNAN;_&#x50;ar exemple : le Critère 11.2 « Chaque étiquette associée à un champ de formulaire est-elle pertinente ? »_
 * **30 %** des critères sont « **hors DSFR** ».\
-  _Par exemple : le Critère 11.3 « Dans chaque formulaire, chaque étiquette associée à un champ de formulaire ayant la même fonction et répété plusieurs fois dans une même page ou dans un ensemble de pages est-elle cohérente ? »_
+  &#xNAN;_&#x50;ar exemple : le Critère 11.3 « Dans chaque formulaire, chaque étiquette associée à un champ de formulaire ayant la même fonction et répété plusieurs fois dans une même page ou dans un ensemble de pages est-elle cohérente ? »_
 
 ### Créer ses propres composants <a href="#creer-ses-propres-composants" id="creer-ses-propres-composants"></a>
 

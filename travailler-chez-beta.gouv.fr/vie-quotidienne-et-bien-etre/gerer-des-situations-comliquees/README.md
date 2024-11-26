@@ -1,4 +1,8 @@
-# Gérer des situations comliquées
+# Gérer des situations compliquées
+
+{% content-ref url="le-groupe-de-soutien.md" %}
+[le-groupe-de-soutien.md](le-groupe-de-soutien.md)
+{% endcontent-ref %}
 
 {% content-ref url="situation-dysfonctionnelle.md" %}
 [situation-dysfonctionnelle.md](situation-dysfonctionnelle.md)

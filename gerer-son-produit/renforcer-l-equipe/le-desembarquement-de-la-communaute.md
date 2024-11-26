@@ -5,14 +5,14 @@ description: >-
   d'Etat.
 ---
 
-# Le désembarquement de la communauté
+# Désembarquer un membre de son équipe
 
 ### Objectif : sécuriser les équipes et clarifier les options de sortie
 
 Un départ, qu'il soit choisi ou non, n'est pas une situation confortable à gérer; d'autant plus dans une communauté qui grandit et où les équipes sont autonomes dans leur recrutement. Le sujet de la fin de mission reste donc extrêmement tabou.&#x20;
 
 \
-_Qui s'en occupe ? Comment cela se passe ? Quelles contraintes reglémentaires ? Quelles options de mise en sécurité des prestataires, du sponsor, des décisionnaires ?_&#x20;
+&#xNAN;_&#x51;ui s'en occupe ? Comment cela se passe ? Quelles contraintes reglémentaires ? Quelles options de mise en sécurité des prestataires, du sponsor, des décisionnaires ?_&#x20;
 
 \
 **Le but : démystifier le départ d'une personne prestataire dans une startup d'Etat, outiller les coachs et intrapreneureuses sur les obligations réglementaires, partager des exemples de bonnes pratiques.**&#x20;
@@ -28,7 +28,7 @@ Il existe autant de situations amenant un départ et une manière de le gérer q
 
 ### Les obligations réglementaires
 
-A la publication et notification du marché en XXX, était prévu un préavis de 3 jours pour toute sortie d'équipe. Cependant, un avenant à ce marché, datant du XXXXXX, a rallongé cette période de préavis : **doit donc être prévue une période d'**_**au moins 1 mois**_** entre le moment où l'équipe acte de la fin d'une mission d'un prestataire, et la fin officielle de collaboration avec cette personne**.&#x20;
+A la publication et notification du marché en XXX, était prévu un préavis de 3 jours pour toute sortie d'équipe. Cependant, un avenant à ce marché, datant du XXXXXX, a rallongé cette période de préavis : **doit donc être prévue une période d'**_**au moins 1 mois**_**&#x20;entre le moment où l'équipe acte de la fin d'une mission d'un prestataire, et la fin officielle de collaboration avec cette personne**.&#x20;
 
 {% hint style="info" %}
 **Rôle de l'entreprise attributaire :** \

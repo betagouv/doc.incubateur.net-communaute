@@ -26,7 +26,7 @@ Votre **posture** est importante pour que l’usager se sente à l’aise :
 
 **Recommandations de Caroline Lawson, UX Researcher :**
 
-> &#x20;**"**Je ne me place jamais face à un usager avec une table entre lui et moi. Ça peut faire interrogatoire, pire si nous sommes plusieurs. En face, l’usager peut se sentir gêné, obligé de nous regarder, et se sentir observé."&#x20;
+> &#x20;**"**&#x4A;e ne me place jamais face à un usager avec une table entre lui et moi. Ça peut faire interrogatoire, pire si nous sommes plusieurs. En face, l’usager peut se sentir gêné, obligé de nous regarder, et se sentir observé."&#x20;
 
 > "**S’il y a un canapé**, je m’assois à côté de l’usager, avec mon ordinateur sur les genoux."
 
