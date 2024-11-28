@@ -30,6 +30,14 @@ beta.gouv.fr est une communauté qui compte des centaines de membres aux statuts
 [les-differents-statuts](../../travailler-chez-beta.gouv.fr/les-differents-statuts/)
 {% endcontent-ref %}
 
+Tout au long du processus de renforcement de ton équipe, tu peux t'appuyer sur les référents métier :&#x20;
+
+{% content-ref url="../../solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/laide-au-recrutement-des-referents-metiers.md" %}
+[laide-au-recrutement-des-referents-metiers.md](../../solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/laide-au-recrutement-des-referents-metiers.md)
+{% endcontent-ref %}
+
+Retrouve également toutes nos fiches conseil pour t'aider dans le processus :
+
 {% content-ref url="conseils-pour-le-recrutement.md" %}
 [conseils-pour-le-recrutement.md](conseils-pour-le-recrutement.md)
 {% endcontent-ref %}
