@@ -1,2 +1,2 @@
-# 🏃‍♀️ Gestion au quotidien
+# 🏃 Gestion au quotidien
 

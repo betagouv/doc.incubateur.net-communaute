@@ -208,7 +208,7 @@
         * [Service à Compétence Nationale (SCN)](gerer-son-produit/la-vie-du-produit/perennisation/trajectoires-de-perennisation/4.-constitution-dune-structure-juridique-dediee-gip-scic-sas-scn-etc./service-a-competence-nationale-scn/README.md)
           * [De la startup d'Etat au service à compétence nationale](gerer-son-produit/la-vie-du-produit/perennisation/trajectoires-de-perennisation/4.-constitution-dune-structure-juridique-dediee-gip-scic-sas-scn-etc./service-a-competence-nationale-scn/de-la-startup-detat-au-service-a-competence-nationale.md)
           * [Création d'un SCN : mode d'emploi](gerer-son-produit/la-vie-du-produit/perennisation/trajectoires-de-perennisation/4.-constitution-dune-structure-juridique-dediee-gip-scic-sas-scn-etc./service-a-competence-nationale-scn/creation-dun-scn-mode-demploi.md)
-* [🏃‍♀️ Gestion au quotidien](gerer-son-produit/gestion-au-quotidien/README.md)
+* [🏃 Gestion au quotidien](gerer-son-produit/gestion-au-quotidien/README.md)
   * [💰 Budget](gerer-son-produit/gestion-au-quotidien/budget/README.md)
     * [💲 La facturation de A à Z](gerer-son-produit/gestion-au-quotidien/budget/la-facturation-de-a-a-z/README.md)
     * [Lever les fonds \[to do\]](gerer-son-produit/gestion-au-quotidien/budget/lever-des-fonds-en-construction.md)
