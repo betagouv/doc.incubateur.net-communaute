@@ -14,15 +14,11 @@ layout:
 
 # Trajectoires de pérennisation
 
-## 💡Pourquoi la trajectoire choisie est-elle importante ?
+Lorsque le service numérique atteint une certaine maturité et entre en phase de pérennisation, on se pose la question de la meilleure structure pour continuer à opérer le service en vitesse de croisière.&#x20;
 
-La Start-up d’Etat est définie comme _« une équipe dédiée et autonome qui développe une solution à un problème de politique publique dans une approche incrémentale »_.
+Le meilleur scénario est toujours de maintenir le fonctionnement de l'équipe produit pour capitaliser sur ses acquis et en faire un catalyseur de la transformation numérique de son administration. Cependant, ce scénario n'étant pas toujours possible, il est parfois nécessaire de transférer le produit numérique à une structure d'accueil. Dans certains cas (relativement marginaux), la Startup d'État peut se constituer en structure juridique autonome (GIP, SCN, etc).
 
-Elle va être développée et portée au sein d’une administration sans disposer de la personnalité juridique à sa naissance, l’administration se chargeant de son financement et de sa sécurité juridique.
-
-La question se pose de savoir, une fois le développement au sein de l'administration lancé quelle forme sera la plus à même de permettre à la solution de répondre au problème de politique publique le plus efficacement.
-
-## 👇Quelques formes possibles de pérennisation
+## 👇Quelques trajectoires de pérennisation
 
 {% content-ref url="1.-poursuite-de-lexploitation-du-service-au-sein-de-son-incubateur/" %}
 [1.-poursuite-de-lexploitation-du-service-au-sein-de-son-incubateur](1.-poursuite-de-lexploitation-du-service-au-sein-de-son-incubateur/)

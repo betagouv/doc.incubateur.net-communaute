@@ -190,7 +190,7 @@
       * [Préparer le service à la sortie d'incubation : check-list](gerer-son-produit/la-vie-du-produit/perennisation/preparer-la-perennisation/preparer-le-service-a-la-sortie-dincubation-check-list.md)
       * [Mettre en oeuvre la pérennisation](gerer-son-produit/la-vie-du-produit/perennisation/preparer-la-perennisation/mettre-en-oeuvre-la-perennisation.md)
     * [Trajectoires de pérennisation](gerer-son-produit/la-vie-du-produit/perennisation/trajectoires-de-perennisation/README.md)
-      * [Poursuite de l'exploitation de son service au sein de son incubateur](gerer-son-produit/la-vie-du-produit/perennisation/trajectoires-de-perennisation/1.-poursuite-de-lexploitation-du-service-au-sein-de-son-incubateur/README.md)
+      * [Poursuite de l'exploitation du produit au sein de son administration](gerer-son-produit/la-vie-du-produit/perennisation/trajectoires-de-perennisation/1.-poursuite-de-lexploitation-du-service-au-sein-de-son-incubateur/README.md)
       * [Transfert vers une structure d'accueil](gerer-son-produit/la-vie-du-produit/perennisation/trajectoires-de-perennisation/2.-choix-dune-structure-daccueil-en-gardant-lequipe-de-la-startup-detat/README.md)
       * [Constitution d'une structure juridique dédiée](gerer-son-produit/la-vie-du-produit/perennisation/trajectoires-de-perennisation/4.-constitution-dune-structure-juridique-dediee-gip-scic-sas-scn-etc./README.md)
         * [GIP - Groupement d'Intérêt Public](gerer-son-produit/la-vie-du-produit/perennisation/trajectoires-de-perennisation/4.-constitution-dune-structure-juridique-dediee-gip-scic-sas-scn-etc./1-gip-groupement-dinteret-public/README.md)
