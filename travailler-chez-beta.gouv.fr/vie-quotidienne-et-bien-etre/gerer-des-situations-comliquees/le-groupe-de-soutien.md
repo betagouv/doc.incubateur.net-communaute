@@ -1,6 +1,6 @@
 # Le groupe de soutien
 
-Une équipe de bénévoles (agent.e.s et freelances) appartenant à la communauté beta.gouv.fr ont formé un groupe de soutien. Les membres du groupe de soutien sont actuellement : _Amel Alili, Caroline Lawson, Clémence Lopez, Denis Baudot, Fanny Blanc, Florian Briand , Mélodie Dahi, Rebecca Dumazert._
+Une équipe de bénévoles (agent.e.s et freelances) appartenant à la communauté beta.gouv.fr ont formé un groupe de soutien. Les membres du groupe de soutien sont actuellement : _Amel Alili, Caroline Lawson, Clémence Lopez, Denis Baudot, Fanny Blanc, Florian Briand , Mélodie Dahi, Emmanuel Gaillot, Elsa Le Duigou, Olivier Boudou et Marine Purson._
 
 ### 🎯 Objectif du groupe
 
