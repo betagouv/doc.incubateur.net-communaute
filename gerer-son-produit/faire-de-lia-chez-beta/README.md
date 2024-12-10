@@ -22,7 +22,7 @@ En plus de bien définir le problème selon [le cadre type de la méthode beta](
 
 **Peut-être que votre solution existe déjà, partiellement, ou qu’elle a déjà été tentée ailleurs dans l’administration**.
 
-Vous pouvez retrouver dans [ce tableau](https://grist.incubateur.net/o/beta-gouv-ia/9wTgwEbwqmwW/Ressources?utm\_id=share-doc) les initiatives de briques IA dans l’État et les services déconcentrés. L’idée et de mutualiser les apprentissages et des expérimentations, afin que le commun profite à l’ensemble des produits opérés en interministériel. C'est ouvert et collaboratif : n'hésitez pas à rajouter/étoffer si vous connaissez un produit pour lequel il manque des informations ou à rajouter d'autres services dans l'État qui mériteraient d'y figurer.
+Vous pouvez retrouver dans [ce tableau](https://grist.incubateur.net/o/beta-gouv-ia/9wTgwEbwqmwW/Ressources?utm_id=share-doc) les initiatives de briques IA dans l’État et les services déconcentrés. L’idée et de mutualiser les apprentissages et des expérimentations, afin que le commun profite à l’ensemble des produits opérés en interministériel. C'est ouvert et collaboratif : n'hésitez pas à rajouter/étoffer si vous connaissez un produit pour lequel il manque des informations ou à rajouter d'autres services dans l'État qui mériteraient d'y figurer.
 
 {% hint style="warning" %}
 Il se peut aussi que certaines informations soient erronées, puisque que c’est collaboratif. Pour toute question quant à ce commun : [elsa.le-duigou@beta.gouv.fr](mailto:elsa.le-duigou@beta.gouv.fr).
@@ -36,9 +36,9 @@ Il se peut aussi que certaines informations soient erronées, puisque que c’es
 
 ## Mettre en œuvre son idée <a href="#mettre-en-oeuvre-son-idee" id="mettre-en-oeuvre-son-idee"></a>
 
-### 💰 Se faire financer : l’incubateur All_Ia_nce <a href="#se-faire-financer-lincubateur-alliance" id="se-faire-financer-lincubateur-alliance"></a>
+### 💰 Se faire financer : l’incubateur ALLiaNCE <a href="#se-faire-financer-lincubateur-alliance" id="se-faire-financer-lincubateur-alliance"></a>
 
-**Lancé en 2024 à la DINUM, All**_**Ia**_**nce est un incubateur public-privé qui finance des briques IA qui respectent les standards beta.gouv, notamment qui s’engagent à libérer leur code et répondent à un cas d’usage de l’administration à impact social.**
+**Lancé en 2024 à la DINUM, All**_**Ia**_**nce est un incubateur qui finance des briques IA qui respectent les standards beta.gouv, notamment qui s’engagent à libérer leur code et répondent à un cas d’usage de l’administration à impact social.**
 
 Plus d’informations, rendez-vous sur le site, notamment pour retrouver les produits financés : [https://alliance.numerique.gouv.fr/](https://alliance.numerique.gouv.fr/).
 
@@ -48,7 +48,7 @@ Les tickets d’entrée permettent en général de financer un expert de la donn
 
 Si vous avez consulté le guide pour définir un problème métier actionnable par l'IA, que vous êtes une administration et que vous avez un cas d’usage pertinent, vous êtes peut-être éligibles. Voici la marche à suivre pour tenter de bénéficier d'une aide financière :thumbsup:
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>📅 <strong>Repérer le prochain rendez-vous des partenaires (facultatif)</strong></td><td>Il est possible d'aller au mensuel All<em>ia</em>nce qui réuni les administrations intéressées et les fournisseurs (publics ou privés). En général, c’est bien d’arriver avec un pitch car les administrations sont encouragées à parler de leur problématique durant l’évènement. Le calendrier des prochaines dates est <a href="https://alliance.numerique.gouv.fr/actualites/">ici</a>.</td><td></td></tr><tr><td><strong>🎤 Préparer son pitch</strong></td><td><p></p><p>Partir du problème vu de l’agent ou du citoyen concerné</p><ul><li>Donner des chiffres sur l’irritant</li><li>Donner des chiffres sur le volume d’opérations</li><li>Citer les données qui pourraient être utilisées</li><li>Définir une métrique d'impact</li></ul></td><td></td></tr><tr><td><strong>📃 Commencer à réfléchir à une fiche action</strong></td><td>À partir de ces éléments, décrivez votre idée de produit en suivant ce <a href="https://alliance.numerique.gouv.fr/les-produits-incub%C3%A9s/mod%C3%A8le-de-fiche-action/">modèle de fiche action</a>. C’est sur cette base que le financement chez All<em>Ia</em>nce est possible. Il faut ensuite l’envoyer à l’adresse contact ci-dessous. Vous pouvez vous faire accompagner en demandant de l’aide sur le canal mattermost #domaine-ia.</td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>📅 <strong>Repérer le prochain rendez-vous des partenaires (facultatif)</strong></td><td>Il est possible d'aller au mensuel All<em>ia</em>nce qui réuni les administrations intéressées et les fournisseurs (publics ou privés). En général, c’est bien d’arriver avec un pitch car les administrations sont encouragées à parler de leur problématique durant l’évènement. Le calendrier des prochaines dates est <a href="https://alliance.numerique.gouv.fr/actualites/">ici</a>.</td><td></td></tr><tr><td><strong>🎤 Préparer son pitch</strong></td><td><p>Partir du problème vu de l’agent ou du citoyen concerné</p><ul><li>Donner des chiffres sur l’irritant</li><li>Donner des chiffres sur le volume d’opérations</li><li>Citer les données qui pourraient être utilisées</li><li>Définir une métrique d'impact</li></ul></td><td></td></tr><tr><td><strong>📃 Commencer à réfléchir à une fiche action</strong></td><td>À partir de ces éléments, décrivez votre idée de produit en suivant ce <a href="https://alliance.numerique.gouv.fr/les-produits-incub%C3%A9s/mod%C3%A8le-de-fiche-action/">modèle de fiche action</a>. C’est sur cette base que le financement chez All<em>Ia</em>nce est possible. Il faut ensuite l’envoyer à l’adresse contact ci-dessous. Vous pouvez vous faire accompagner en demandant de l’aide sur le canal mattermost #domaine-ia.</td><td></td></tr></tbody></table>
 
 {% hint style="info" %}
 Le contact de l'équipe alliance : [**alliance@mail.numerique.gouv.fr**](mailto:alliance@mail.numerique.gouv.fr).
@@ -76,24 +76,25 @@ Le cas d’usage métier Albert le plus évident est l’assistance à la répon
 
 **L'api Albert**
 
-L'api permet d'avoir accès à une version d'Albert généraliste basée sur un modèle libre (Llama3.1 étant la dernière version utilisée), et qui peut être amélioré par du RAG. Elle permet notamment d'ouvrir à des cas d'usage de traduction, de synthèse de document, et des intégrations diverses dans des produits.
+L'api permet d'avoir accès à une version d'Albert généraliste basée sur un modèle libre (Llama3.1 étant la dernière version utilisée). Elle permet notamment d'ouvrir à des cas d'usage de traduction, de synthèse de document, et des intégrations diverses dans des produits.
 
 **Comment avoir accès à Albert ?**
 
 En fonction de votre besoin et de votre situation, vous pouvez être accompagnés directement, utiliser l'API d'Albert, ou piocher sans demander dans les modèles ouverts :
 
 * **Avoir les accès à l’API Albert** : pour des raisons de disponibilité du calcul, l’usage de l’api est encore limité, vous pouvez joindre l’équipe d'Albert pour demander l’accès en utilisant le [formulaire de contact](https://grist.incubateur.net/o/docs/forms/7XgFxGuAvaSCJGUvUbJnsq/23) ;
-* **Essayer l'API d'Albert à partir de Tchap** : trouver Albert dans "personnes" dans la barre de recherche Tchap et demander l'accès à l'adresse indiquée ;
 * **Utiliser les modèles ouverts** : les modèles conversationnels Albert-Light et Guillaume Tell (Albert) sont ouverts sur Hugging Face en libre service depuis la plateforme [AgentPublic](https://huggingface.co/AgentPublic). À noter que LLaMandement-13B, un modèle développé par la DGFIP plutôt adapté à la synthèse de texte, est également disponible sur AgentPublic ;
 * **Être accompagné directement par l’équipe d’Étalab** et bénéficier d’un accompagnement personnalisé. Pour l'instant cette option est limitée aux équipes déjà accompagnées.
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><p><strong>Albert</strong> <strong>Api</strong></p><p></p><p>modèles utilisés : Llama 2, Mistral 7b, Llama 3.1</p><p></p><p>RAG</p></td><td></td><td></td></tr><tr><td><p><strong>Modèles métiers</strong></p><p></p><p>fine-tunés sur la documentation métier</p></td><td></td><td></td></tr><tr><td><p><strong>Maintenance</strong></p><p></p><p>Non assurée (expérimentation)</p></td><td></td><td></td></tr><tr><td><p><strong>Éligibilité</strong></p><p></p><p>Services de l'État et des territoires</p></td><td></td><td></td></tr><tr><td><p><strong>Facturation</strong></p><p></p><p>Gratuit (mais expérimentation)</p></td><td></td><td></td></tr></tbody></table>
+### Albert-api
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Socle fondamental qui permet de centraliser l'accès</strong> </td><td>Rate-limiting, dispatcheur, brique portail</td><td></td></tr><tr><td><p><strong>Modèles disponibles</strong></p><p><strong>Completions</strong> : Llama 3-8B, Mistral 7b, Llama 3.1, Llamma 70B, Gemma 2- 9B </p><p></p><p><strong>Embeddings</strong> : bge-m3, multilingual-e5-large</p><p>[dernière mise à jour le 10/12/14]</p><p><br><a href="https://albert.api.etalab.gouv.fr/status/api">Liste des modèles disponibles</a><br></p><p></p></td><td></td><td></td></tr><tr><td><p><strong>Services avancés</strong> </p><p>Un module de RAG</p><p>Une plateforme d'évaluation </p><p>Fonction-calling</p></td><td></td><td></td></tr><tr><td><p><strong>Éligibilité</strong></p><p>Services de l'État et des territoires</p></td><td></td><td></td></tr><tr><td><p><strong>Maintenance</strong></p><p>Non assurée (expérimentation)</p></td><td></td><td></td></tr><tr><td><p><strong>Facturation</strong></p><p>Gratuit (mais expérimentation)</p></td><td></td><td></td></tr></tbody></table>
 
 ### 🧰 Utiliser d’autres modèles : quelques ressources supplémentaires <a href="#utiliser-dautres-modeles-quelques-ressources-supplementaires" id="utiliser-dautres-modeles-quelques-ressources-supplementaires"></a>
 
 * Vous pouvez trouver toutes sortes de modèles sur [Hugging Face](https://huggingface.co/), classifiés en fonction de la tâche ;
 * Certains services Cloud comme Scaleway proposent une plateforme en SaaS qui permet d’utiliser des modèles ouverts ou semi-ouverts comme Mistral ou LLama, et de louer la puissance de calcul (ou acheter au token) tout en respectant les standards européens d'hébergement ;
-* Si votre besoin n’implique pas d’utiliser des données sensibles, il est possible de faire ses premiers tests —tout en respectant le cadre légal— avec des modèles propriétaires (même ChatGPT !).
+* Si votre besoin n’implique pas d’utiliser des données sensibles, il est possible de faire ses premiers tests —tout en respectant le cadre légal— avec des modèles propriétaires.
 
 {% hint style="info" %}
 Si vous n’êtes pas sûrs de vous, vous pouvez consulter la fiche dédiée [Quels points de vigilance avoir lorsque vous dialoguez avec ChatGPT ?](https://pad.numerique.gouv.fr/teCWpmkGSlG970GLe4aTDQ) ou demander de l'aide sur le Mattermost de la communauté.
