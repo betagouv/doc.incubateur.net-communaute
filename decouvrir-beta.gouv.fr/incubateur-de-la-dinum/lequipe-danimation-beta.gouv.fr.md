@@ -6,9 +6,7 @@ description: >-
 
 # L'équipe d'animation beta.gouv.fr
 
-{% hint style="success" %}
 Pour contacter facilement l'incubateur de la DINUM, transmet un mail à _**dinum@beta.gouv.fr**_ ou utilise la chaîne [_**\~incubateur-animation**_](https://mattermost.incubateur.net/betagouv/channels/incubateur-animation) sur Mattermost.
-{% endhint %}
 
 L’incubateur de la DINUM est constitué d’une trentaine de personnes (agents publics fonctionnaires ou contractuels, ou indépendants) ayant pour mission de conduire le programme beta.gouv.fr, d'assure sa bonne conduite et son développement. La vision de l'incubateur est de diffuser l'approche beta.gouv.fr au sein de l'administration. En tant que département de la DINUM, elle-même placée sous l'autorité du Premier Ministre, l'incubateur assure ses missions en interministériel, interagissant ainsi avec l'ensemble des administrations publiques membres du réseau beta.gouv.fr.
 
@@ -52,7 +50,7 @@ Ce pôle est en charge du [Fond d'Accélération des Startups d'Etat et de Terri
 
 Le pôle garantit un environnement de travail le plus attractif possible, anime et outille le réseau des incubateurs ministériels, des intrapreneurs et des EIG, et fournit des expertises aux Startups d’État (tech, accessibilité...). Il est composé de :
 
-<figure><img src="../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/team_animation (1).jpg" alt=""><figcaption></figcaption></figure>
 
 * **Benjamin Doberset,** responsable de pôle
 * **Marine Purson**, animatrice chargée des relations institutionnelles et de la communication
@@ -61,7 +59,6 @@ Le pôle garantit un environnement de travail le plus attractif possible, anime 
 * **Lucas Charrier**, développeur en charge des outils tech de la communauté
 * **Amel Alili**, animatrice chargée d'assistance et du support
 * **Anne-Sophie Tranchet**, animatrice chargée des sujets d'Accessibilité et Design
-* **Thomas Ramé**, développeur chargé des outils techs de la communauté
 * **Divine Tende** (alternante), chargée d'animation de communauté et de communication
 
 _L'animation de la communauté beta.gouv.fr n'est pas l'exclusivité de l'incubateur de la DINUM : d'autres personnes peuvent et sont invitées à contribuer à la réussite du collectif (agents des incubateurs ministériels, freelances, etc.)._
