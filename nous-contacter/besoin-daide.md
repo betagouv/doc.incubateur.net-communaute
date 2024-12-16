@@ -11,7 +11,8 @@ Que vous ayez une question, rencontriez un problème ou souhaitiez simplement en
 
 ### **Notre FAQ**
 
-Avez vous consulté notre [**FAQ** ](https://faq-betagouv.crisp.help/fr/)**?** Vous y trouverez une liste des questions les plus fréquentes avec des réponses détaillées qui pourraient résoudre votre problème immédiatement.
+Avez vous consulté notre [**FAQ** ](https://faq-betagouv.crisp.help/fr/)**?** Vous y trouverez une liste des questions les plus fréquentes avec des réponses détaillées qui pourraient résoudre votre problème immédiatement.\
+Vous n'avez pas trouvé la réponse à votre question ? N'hésitez pas à nous transmettre votre question [via ce formulaire](https://tally.so/r/w4Pj6B). Nous l’ajouterons à la FAQ pour en faire profiter d'autres utilisateurs !
 
 ***
 
@@ -22,7 +23,7 @@ Avez vous consulté notre [**FAQ** ](https://faq-betagouv.crisp.help/fr/)**?** V
 Obtenez une réponse en temps réel grâce à notre service de **chat en direct**. \
 Un membre de l’équipe animation est disponible pour répondre à vos questions et vous guider pas à pas.
 
-**Le chat est disponible sur notre** [**FAQ** ](https://faq-betagouv.crisp.help/fr/)**ou sur** [**l'espace membre**](https://espace-membre.incubateur.net/) **via le lien "Support" dans l'entête de page.**
+**Le chat est disponible sur ce guide, notre** [**FAQ** ](https://faq-betagouv.crisp.help/fr/)**ou sur** [**l'espace membre**](https://espace-membre.incubateur.net/)**.**
 
 ### **2. Contact par e-mail**
 
