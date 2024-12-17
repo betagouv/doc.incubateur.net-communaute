@@ -46,18 +46,7 @@ Les prix de ces UO ne sont pas publics (pour respecter le secret des affaires). 
 
 Les UO peuvent être fractionnées (exemple: tu peux acheter 0,5 UO de dev). Tu peux donc **commander une quantité d'UO adaptée à ton besoin et ton budget**.
 
-Pour avoir une première idée du coût de chaque prestation/profil, la [grille indicative des revenus observés](../../../travailler-chez-beta.gouv.fr/les-differents-statuts/independants-freelances/observatoire-revenus.md) peut aider. On y trouve une estimation de ce qu'un prestataire freelance peut espérer être payé pour une journée de prestation en France. On parle TJM (Taux Journalier Moyen).
-
-Il faut donc partir de ce qu'une journée de prestation pourrait coûter (le TJM), y ajouter un certain nombre de frais (dont la TVA) et multiplier par la durée de la prestation souhaitée.&#x20;
-
-_Exemple_ : un UX designer expérimenté à 3 jours par semaine pendant 1 mois (soit 14 jours de travail), avec un markup de l'attributaire du marché (exemple : 10%), et une TVA à 20%, va coûter :
-
-$$
-14   jours \times 550€ de TJM\times 1,10 \times 1,20 = 10 164€
-$$
-
-\
-Ce calcul permet d'**obtenir une estimation**, pour bien répartir le budget.&#x20;
+Pour avoir une première idée du coût de chaque prestation/profil, la [grille indicative des revenus observés](../../../travailler-chez-beta.gouv.fr/les-differents-statuts/independants-freelances/observatoire-revenus.md) peut aider.&#x20;
 
 ### Étape 2 : Demander un devis à une **entreprise** <a href="#etape-2-contacter-lentreprise-titulaire-du-marche-pour-exprimer-son-besoin-en-prestation" id="etape-2-contacter-lentreprise-titulaire-du-marche-pour-exprimer-son-besoin-en-prestation"></a>
 
