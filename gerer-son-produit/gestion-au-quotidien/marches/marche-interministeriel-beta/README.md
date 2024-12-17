@@ -6,7 +6,9 @@ description: >-
 hidden: true
 ---
 
-# Marché interministeriel beta
+# Marché interministériel de réalisation de produit
+
+Ce marché de **construction de produit** permet de faire appel à des prestations de développement, design, déploiement (_business development_).
 
 ### Où trouver le cahier des charges de ce marché ? <a href="#ou-trouver-le-cahier-des-charges-de-ce-marche" id="ou-trouver-le-cahier-des-charges-de-ce-marche"></a>
 
@@ -20,7 +22,7 @@ hidden: true
 
 ### Quelles sont les entreprises titulaires de ce marché ? <a href="#quelles-sont-les-entreprises-titulaires-de-ce-marche" id="quelles-sont-les-entreprises-titulaires-de-ce-marche"></a>
 
-**1er titulaire : la Zone (groupement solidaire de coopératives)**
+#### **1er titulaire : la Zone (groupement solidaire de coopératives)**
 
 Le groupement est constitué de six Sociétés Coopératives et Participatives (SCOP) regroupant des experts en développement de produit et en accompagnement agile, et deux coopératives d'entrepreneurs (Coopératives d’Activités et d’Emploi (CAE)).
 
@@ -33,33 +35,33 @@ Le groupement est constitué de six Sociétés Coopératives et Participative
 * [Omnicité](https://omnicite.fr/) : coopérative d'entrepreneur·e·s
 * [Solstice](https://solstice.coop/) : coopérative d'entrepreneur·e·s
 
-**Contact** : contact@la.zone ; devis@la.zone
+Contact : **contact@la.zone ; devis@la.zone**
 
-
-
-**2e titulaire : groupement conjoint OCTO / MALT**
+#### **2e titulaire : groupement conjoint OCTO / MALT**
 
 * [Octo Technology](https://www.octo.com/) (mandataire) : cabinet de conseil et de réalisation IT, déjà titulaire du précédent marché
 * [Malt](https://www.malt.fr/) : plateforme de freelances
 
-Contact : [**octo\_malt@octo.com**](mailto:octo\_malt@octo.com)
+Contact : [**octo\_malt@octo.com**](mailto:octo_malt@octo.com)
 
-
-
-~~**3e titulaire : Benext**~~
+#### ~~**3e titulaire : Benext**~~
 
 * [~~Benext~~](https://www.benextcompany.com/) ~~: Full Stack Product Company~~
 
 (Au 1er avril 2022, la société Benext a fusionné avec OCTO).
 
-
-
-**4e titulaire : groupement conjoint INETUM / LBC**
+#### **4e titulaire : groupement conjoint INETUM / LBC**
 
 * [Inetum](https://gfi.world/fr-fr/) (mandataire) : entreprise de services du numérique (ESN) française
 * [Little Big Connection](https://www.littlebigconnection.com/fr/) : plateforme de freelances
 
 Contact : [**client.beta.gouv@inetum.com**](mailto:client.beta.gouv@inetum.com)
+
+### Comment utiliser ce marché ? <a href="#foire-aux-questions" id="foire-aux-questions"></a>
+
+{% content-ref url="../" %}
+[..](../)
+{% endcontent-ref %}
 
 ### Foire aux questions <a href="#foire-aux-questions" id="foire-aux-questions"></a>
 

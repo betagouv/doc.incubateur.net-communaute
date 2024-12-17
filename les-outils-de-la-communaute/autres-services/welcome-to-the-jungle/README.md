@@ -64,8 +64,8 @@ Assurez-vous que la case Welcome est bien cochée pour que votre offre soit diff
 
 En cas de diffusion d'une offre en prestation (ex : freelance), suivre le process détaillé ici :
 
-{% content-ref url="../../../gerer-son-produit/gestion-au-quotidien/budget/obtenir-une-prestation/" %}
-[obtenir-une-prestation](../../../gerer-son-produit/gestion-au-quotidien/budget/obtenir-une-prestation/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 Le compte LinkedIn de beta.gouv.fr est un excellent relais pour diffuser l'annonce.

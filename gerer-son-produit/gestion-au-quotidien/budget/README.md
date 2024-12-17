@@ -8,8 +8,8 @@
 [lever-des-fonds-en-construction.md](lever-des-fonds-en-construction.md)
 {% endcontent-ref %}
 
-{% content-ref url="obtenir-une-prestation/" %}
-[obtenir-une-prestation](obtenir-une-prestation/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="preparer-la-fin-dannee-budgetaire.md" %}
@@ -22,4 +22,4 @@
 
 **Pour préparer puis gérer au mieux le budget de votre Startup d'État ou de Territoire, voici un** [**modèle**](https://docs.google.com/spreadsheets/d/1JSVnmruZq0iufjpxabnYKaHcR1XBygL0MXkYOm7nz3E/edit?usp=sharing)**.**
 
-Pour un avoir un première approche du budget, vous pouvez vous référer à ce [support de formation.](https://docs.google.com/presentation/d/1WtBGNns3pwTEXbWXIFPALav9IlGUbPsfpxDpPXI12Js/edit#slide=id.g158d87f59ba\_0\_8)
+Pour un avoir un première approche du budget, vous pouvez vous référer à ce [support de formation.](https://docs.google.com/presentation/d/1WtBGNns3pwTEXbWXIFPALav9IlGUbPsfpxDpPXI12Js/edit#slide=id.g158d87f59ba_0_8)

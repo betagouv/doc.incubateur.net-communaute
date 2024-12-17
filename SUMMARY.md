@@ -212,7 +212,6 @@
   * [💰 Budget](gerer-son-produit/gestion-au-quotidien/budget/README.md)
     * [💲 La facturation de A à Z](gerer-son-produit/gestion-au-quotidien/budget/la-facturation-de-a-a-z/README.md)
     * [Lever les fonds \[to do\]](gerer-son-produit/gestion-au-quotidien/budget/lever-des-fonds-en-construction.md)
-    * [😊 Obtenir une prestation](gerer-son-produit/gestion-au-quotidien/budget/obtenir-une-prestation/README.md)
     * [Préparer la fin d'année budgétaire](gerer-son-produit/gestion-au-quotidien/budget/preparer-la-fin-dannee-budgetaire.md)
     * [Préparer un comité d'investissement](gerer-son-produit/gestion-au-quotidien/budget/preparer-un-comite-dinvestissement/README.md)
   * [⚖️ Juridique](gerer-son-produit/gestion-au-quotidien/cadrer-juridiquement-son-produit/README.md)

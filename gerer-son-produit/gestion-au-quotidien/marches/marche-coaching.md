@@ -7,6 +7,8 @@ hidden: true
 
 # Marché interministériel de mentorat
 
+Ce marché de **mentorat** permet de faire appel à des prestations de coaching.
+
 ### Où trouver les cahiers des charges de ce marché ? <a href="#ou-trouver-le-cahier-des-charges-de-ce-marche" id="ou-trouver-le-cahier-des-charges-de-ce-marche"></a>
 
 {% embed url="https://www.data.gouv.fr/fr/datasets/cctp-accompagnement-de-la-dinum-a-lanimation-dincubateurs-de-services-publics-numeriques/" %}
@@ -31,7 +33,12 @@ hidden: true
 3 entreprises ou groupement d'entreprises ont remporté le marché :
 
 1. [NUMA](https://www.numa.co/) (contact :  [**thomas.l@numa.co**](mailto:thomas.l@numa.co))
-2. [Dynergie](https://www.dynergie.fr/) (contact :  coachbetagouv@dynergie.fr)
-3. [OCTO Technology](https://www.octo.com/) / [Malt](https://www.malt.fr/) (contact du groupement : octo\_malt@octo.com)
+2. [Dynergie](https://www.dynergie.fr/) (contact :  [coachbetagouv@dynergie.fr](mailto:coachbetagouv@dynergie.fr))
+3. [OCTO Technology](https://www.octo.com/) / [Malt](https://www.malt.fr/) (contact : [octo\_malt@octo.com](mailto:octo_malt@octo.com))
 
-### &#x20;<a href="#comment-beneficier-de-ce-marche" id="comment-beneficier-de-ce-marche"></a>
+### Comment utiliser ce marché ?
+
+{% content-ref url="./" %}
+[.](./)
+{% endcontent-ref %}
+
