@@ -24,7 +24,7 @@ Les supports contractuels et marchés publics varient d’une administration à 
 
 La communauté [beta.gouv.fr](http://beta.gouv.fr/) valorise l’autonomie et le travail asynchrone ou à distance. Chaque membre doit pouvoir choisir s’il prefère travailler dans des bureaux communs, chez lui ou dans des tiers lieux.
 
-Néanmoins, les produits construits au sein de l’écosystème [beta.gouv.fr](http://beta.gouv.fr/) reposent sur le travail en équipe : ce choix doit donc être concerté. Par ailleurs, afin de favoriser la cohésion d’équipe et son efficacité, des moments en présentiel peuvent être nécessaires. Dans ce cas, la plue value du travail en commun dans un même lieu doit clairement être identifiée.
+Néanmoins, les produits construits au sein de l’écosystème [beta.gouv.fr](http://beta.gouv.fr/) reposent sur le travail en équipe : ce choix doit donc être concerté. Par ailleurs, afin de favoriser la cohésion d’équipe et son efficacité, des moments en présentiel peuvent être nécessaires. Dans ce cas, la plus-value du travail en commun dans un même lieu doit clairement être identifiée.
 
 Enfin, certaines activités inhérentes au produit, comme la rencontre d’usagers, ou la participation à la communauté nécessitent des déplacements.
 
