@@ -1,14 +1,14 @@
 # Processus pour passer une commande (coté titulaire)
 
 _**Référent budget/commande pour la Fabrique Numérique :**_\
-_Si vous avez des questions, veuillez contacter : Benjamin (benjamin.doberset@beta.gouv.fr) ou Samuel (samuel.goldszmidt@developpement-durable.gouv.fr). Utiliser aussi le mattermost._
+&#xNAN;_&#x53;i vous avez des questions, veuillez contacter : Benjamin (benjamin.doberset@beta.gouv.fr) ou Samuel (samuel.goldszmidt@developpement-durable.gouv.fr). Utiliser aussi le mattermost._
 
 _Pour le suivi des commandes, s'ils ne vous répondent pas, vous pouvez contacter cathie ( cathie.pailot@developpement-durable.gouv.fr ) puis notre service budgétaire (bab.dr.snum.sg@developpement-durable.gouv.fr)._
 
 **Document de suivi budgétaire :**
 
-[Le tableau de suivi des commandes \
-](https://www.notion.so/lafabnum/Suivi-des-bons-de-commande-BC-9e2e7dae11c740ce99a2e9e87cb3873c)[Le tableau de suivi macro fabrique numérique](https://docs.google.com/spreadsheets/d/1\_3BN-avzUNgh-DCD\_95VL0didj8QSv4CNnASsIHnwPw/edit?usp=sharing)
+[Le tableau de suivi des commandes\
+](https://www.notion.so/lafabnum/Suivi-des-bons-de-commande-BC-9e2e7dae11c740ce99a2e9e87cb3873c)[Le tableau de suivi macro fabrique numérique](https://docs.google.com/spreadsheets/d/1_3BN-avzUNgh-DCD_95VL0didj8QSv4CNnASsIHnwPw/edit?usp=sharing)
 
 **Délai**
 
@@ -21,17 +21,16 @@ De la demande d'achat au bon de commande = 15 jours
 Du dépôt de pv au service fait = 1 semaine
 
 {% hint style="info" %}
-Pour comprendre l’ensemble du circuit d’un bon de commande, de l’expression de besoin à la facturation, se référer à ce [schéma](https://miro.com/app/board/uXjVO-zTnXY=/?share\_link\_id=17201334548).
+Pour comprendre l’ensemble du circuit d’un bon de commande, de l’expression de besoin à la facturation, se référer à ce [schéma](https://miro.com/app/board/uXjVO-zTnXY=/?share_link_id=17201334548).
 {% endhint %}
 
 ### Etape 1 : Emission du devis
 
-Vous recevez une demande de devis pour une prestation. \
-Si c'est une première prestation, vous proposez des profils pour la réaliser et vous discutez avec sur le choix des profils. L'équipe peut aussi faire des recherches en parallèle.\
+Vous recevez une demande de devis pour une prestation.\
+Si c'est une première prestation, vous proposez des profils pour la réaliser et vous discutez avec sur le choix des profils. L'équipe peut aussi faire des recherches en parallèle.\\
 
-
-Une fois le profil sélectionné ou lorsqu'il s'agit d'un profil qui travaille déjà pour l'équipe, **vous réalisez un devis que vous envoyez à l'intrapreneur avec** \
-**en copie COMMANDE-FAB-NUM@developpement-durable.gouv.fr.**&#x20;
+Une fois le profil sélectionné ou lorsqu'il s'agit d'un profil qui travaille déjà pour l'équipe, **vous réalisez un devis que vous envoyez à l'intrapreneur avec**\
+**en copie COMMANDE-FAB-NUM@developpement-durable.gouv.fr.**
 
 <details>
 
@@ -42,17 +41,15 @@ Les dates doivent toujours être utlétrieurs à la transmission du devis. Comme
 
 **Indiquer la fabrique numérique comme commanditaire.**
 
-Si le marché interménistériel est opéré par la DINUM et que vous discutez directement avec l'intra, c'est bien la fabrique numérique qui passe la commande. Indiquer ainsi : \
+Si le marché interménistériel est opéré par la DINUM et que vous discutez directement avec l'intra, c'est bien la fabrique numérique qui passe la commande. Indiquer ainsi :\
 \
 Ministère de la Transition Ecologique, DNUM/UNI/La Fabrique Numérique Paris La Défense - Cedex 92055
-
-
 
 </details>
 
 ### Etape 2 : Transformation du devis en bon de commande
 
-L’intra valide le devis par retour de mail, Benjamin/Samuel créé une carte sur [le tableau de suivi des commandes  ](https://www.notion.so/lafabnum/Suivi-des-bons-de-commande-BC-9e2e7dae11c740ce99a2e9e87cb3873c)dans la colonne devis validé et tag cathie. Cathie intègre dans chorus le devis pour le transformer en demande d’achat puis complète le [tableau de suivi ](https://www.notion.so/lafabnum/Suivi-des-bons-de-commande-BC-9e2e7dae11c740ce99a2e9e87cb3873c)et [le tableau de suivi macro ](https://docs.google.com/spreadsheets/d/1\_3BN-avzUNgh-DCD\_95VL0didj8QSv4CNnASsIHnwPw/edit#gid=530195431)avec les nouveaux éléments. Frederic valide les da dès qu’il les voit dans chorus. Les différents services budgétaires valident puis envoie le bon de commande à la fabrique et Cathie l’intègre dans [le tableau de suivi des commandes](https://www.notion.so/lafabnum/Suivi-des-bons-de-commande-BC-9e2e7dae11c740ce99a2e9e87cb3873c) et le[ tableau de suivi macro](https://docs.google.com/spreadsheets/d/1\_3BN-avzUNgh-DCD\_95VL0didj8QSv4CNnASsIHnwPw/edit?usp=sharing) en taguant les titulaires et déplaçant la carte dans la colonne "bc envoyé au titulaire."
+L’intra valide le devis par retour de mail, Benjamin/Samuel créé une carte sur [le tableau de suivi des commandes ](https://www.notion.so/lafabnum/Suivi-des-bons-de-commande-BC-9e2e7dae11c740ce99a2e9e87cb3873c)dans la colonne devis validé et tag cathie. Cathie intègre dans chorus le devis pour le transformer en demande d’achat puis complète le [tableau de suivi ](https://www.notion.so/lafabnum/Suivi-des-bons-de-commande-BC-9e2e7dae11c740ce99a2e9e87cb3873c)et [le tableau de suivi macro ](https://docs.google.com/spreadsheets/d/1_3BN-avzUNgh-DCD_95VL0didj8QSv4CNnASsIHnwPw/edit#gid=530195431)avec les nouveaux éléments. Frederic valide les da dès qu’il les voit dans chorus. Les différents services budgétaires valident puis envoie le bon de commande à la fabrique et Cathie l’intègre dans [le tableau de suivi des commandes](https://www.notion.so/lafabnum/Suivi-des-bons-de-commande-BC-9e2e7dae11c740ce99a2e9e87cb3873c) et le[ tableau de suivi macro](https://docs.google.com/spreadsheets/d/1_3BN-avzUNgh-DCD_95VL0didj8QSv4CNnASsIHnwPw/edit?usp=sharing) en taguant les titulaires et déplaçant la carte dans la colonne "bc envoyé au titulaire."
 
 <details>
 
@@ -70,7 +67,7 @@ Tant que la DA n'est pas faite, aucune commande n'est demandée. N'hésitez pas 
 
 ### Etape 3 : Validation de la prestation réalisée
 
-Pour valider une prestation partiellement ou totalement, le titulaire dépose un PV de livraison en utilisant [**le modèle suivant**](https://docs.google.com/document/d/1LrcOaots1WCRLdTA3\_cCOv2hg8av17mV9K1WpL-2yec/edit?usp=sharing) et **déplace la carte dans la colonne" PV à signer** "en taguant Benjamin/Samuel et l’intra. Une fois que les deux ont signés, Benjamin/Samuel décale la carte dans la colonne "PV à intégrer à chorus", Cathie l'intégre et créé un service fait.
+Pour valider une prestation partiellement ou totalement, le titulaire dépose un PV de livraison en utilisant [**le modèle suivant**](https://docs.google.com/document/d/1LrcOaots1WCRLdTA3_cCOv2hg8av17mV9K1WpL-2yec/edit?usp=sharing) et **déplace la carte dans la colonne" PV à signer** "en taguant Benjamin/Samuel et l’intra. Une fois que les deux ont signés, Benjamin/Samuel décale la carte dans la colonne "PV à intégrer à chorus", Cathie l'intégre et créé un service fait.
 
 <details>
 

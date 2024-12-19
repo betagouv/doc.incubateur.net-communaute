@@ -110,7 +110,7 @@ Par exemple :
 Pour recevoir une notification de Slack à chaque "🚀", vous pouvez également rajouter `:rocket:` dans votre [liste des mots-clefs](https://get.slack.help/hc/fr-fr/articles/201398467-Notifications-des-mots-cl%C3%A9s).
 
 _Cette convention est encore neuve, et en cours d'expérimentation (avril 2017)._\
-_Plus de détails_ [_par ici_](http://kemenaran.winosx.com/posts/partager-les-succes/)_._
+&#xNAN;_&#x50;lus de détails_ [_par ici_](http://kemenaran.winosx.com/posts/partager-les-succes/)_._
 
 ### 💩 : négativité inutile.
 

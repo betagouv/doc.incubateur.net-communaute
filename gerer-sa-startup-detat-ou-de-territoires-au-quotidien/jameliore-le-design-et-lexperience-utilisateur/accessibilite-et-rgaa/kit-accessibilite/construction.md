@@ -40,7 +40,7 @@ Formez vous grâce à l'atelier **« Vérifier l'accessibilité de mon service �
 
 ### 10 choses faciles à vérifier
 
-En attendant l'atelier, vous pouvez déjà faire un petit tour d'horizon de votre service pour vérifier que :&#x20;
+En attendant l'atelier, vous pouvez déjà faire un petit tour d'horizon de votre service pour vérifier que :
 
 {% tabs %}
 {% tab title="Navigation" %}
@@ -72,8 +72,6 @@ La balise titre est la première chose lue par un lecteur d'écran : elle doit d
 **Les titres respectent un ordre hiérarchique**
 
 Les titres de la page sont cohérents : il n'y a pas de trous dans les niveaux (de h1 à h6).
-
-![Hiérarchie des titres en accueil d'api.gouv.fr dans l'extension HeadingsMap](../../../../.gitbook/assets/Capture%20d%u2019e%CC%81cran%202020-05-25%20a%CC%80%2015.52.31.png)
 
 {% hint style="info" %}
 Je vérifie avec l'extension [HeadingsMap pour Firefox](https://addons.mozilla.org/fr/firefox/addon/headingsmap/)
