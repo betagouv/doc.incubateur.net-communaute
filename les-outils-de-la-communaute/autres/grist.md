@@ -4,7 +4,7 @@ Grist est à la croisée des chemins entre un tableur collaboratif type Excel et
 
 C'est une solution open-source qui propose également une API
 
-L'équipe de l'opérateur de la DINUM propose une instance GRIST pour notre communauté sur [https://grist.incubateur.net](https://grist.incubateur.net).
+L'équipe de l'opérateur de la DINUM propose une instance GRIST pour notre communauté sur [https://grist.numerique.gouv.fr](https://grist.numerique.gouv.fr).
 
 👉 [Documentation en Français pour GRIST](https://au-carre.gitbook.io/doc-grist)
 
