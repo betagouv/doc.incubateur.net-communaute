@@ -2,9 +2,8 @@
 
 Une équipe tech transverse existe au sein de l'incubateur de la DINUM. Son rôle est de s'assurer que les devs de la communauté puissent contribuer dans les meilleurs conditions et dans [le respect des standards beta.gouv.fr.](../../les-standards/)
 
-* [Julien Dauphant](mailto:julien.dauphant@beta.gouv.fr) (Directeur technique et produit)
-* [Julien Bouquillon](mailto:julien.bouquillon@beta.gouv.fr) (Lead Devops)
-* [Denis Baudot](mailto:denis.baudot@beta.gouv.fr) (Lead dev)
+* [Denis Baudot](mailto:denis.baudot@beta.gouv.fr) (Responsable technique ISN)
+* [Julien Bouquillon](mailto:julien.bouquillon@beta.gouv.fr) (Responsable technique communauté)
 * [Stéphane Maniaci](mailto:stephane.maniaci@beta.gouv.fr) (Lead dev)
 * [Lucas Charrier](mailto:lucas.charrier@beta.gouv.fr) (Lead dev))
 * [Thomas Ramé](mailto:thomas.rame@beta.gouv.fr) (Lead dev))
