@@ -297,6 +297,7 @@
   * [YesWeHack](les-outils-de-la-communaute/autres/yeswehack.md)
   * [UpDown.io](les-outils-de-la-communaute/autres-services/updown.io.md)
   * [Tchap](les-outils-de-la-communaute/autres-services/tchap.md)
+  * [Tally](les-outils-de-la-communaute/autres-services/tally.md)
 
 ## Solliciter et contribuer à la communauté
 
