@@ -218,7 +218,7 @@
     * ["L'expérimentation" : différence entre le sens commun et la définition juridique](gerer-son-produit/gestion-au-quotidien/cadrer-juridiquement-son-produit/lexperimentation-difference-entre-le-sens-commun-et-la-definition-juridique.md)
     * [Faire une liste d'entreprises non-exhaustive](gerer-son-produit/gestion-au-quotidien/cadrer-juridiquement-son-produit/faire-une-liste-dentreprises-non-exhaustive.md)
     * [Concurrence avec le secteur privé](gerer-son-produit/gestion-au-quotidien/cadrer-juridiquement-son-produit/concurrence-avec-le-secteur-prive.md)
-  * [🛍️ Marchés](gerer-son-produit/gestion-au-quotidien/marches/README.md)
+  * [🛍️ Marchés beta](gerer-son-produit/gestion-au-quotidien/marches/README.md)
     * [Marché interministériel de réalisation de produit](gerer-son-produit/gestion-au-quotidien/marches/marche-interministeriel-beta/README.md)
       * [Je suis un des attributaires du marché](gerer-son-produit/gestion-au-quotidien/marches/marche-interministeriel-beta/je-suis-un-des-attributaires-du-marche.md)
       * [Je suis une administration bénéficiaire du marché interministériel](gerer-son-produit/gestion-au-quotidien/marches/marche-interministeriel-beta/je-suis-une-administration-beneficiaire-du-marche-interministeriel.md)
