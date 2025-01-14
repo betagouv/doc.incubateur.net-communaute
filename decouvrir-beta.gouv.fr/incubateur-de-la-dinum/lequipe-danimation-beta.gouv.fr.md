@@ -25,14 +25,12 @@ Elle est constituée de 4 agents :
 
 Les [**responsables de portefeuille** ](../../travailler-chez-beta.gouv.fr/les-differents-metiers/responsable-de-portefeuille/)s'occupent de soutenir les équipes produit et les incubateurs dans leurs travaux en fonction de leur périmètre ministériel :
 
-* **Paul Burgun** : Justice
 * **Elsa Le Duigou** : Santé, Cybersécurité et IA
 * **Clémence Lopez** : Education Nationale, Enseignement supérieur, Sports
-* **Estelle Saget** : Jeunesse et Vie Associative, Solidarités et Inclusion
+* **Estelle Saget** : Jeunesse et Vie Associative, Solidarités et Inclusion, Justice
 * **Maël Inizan** : Logement
-* **Margot Sanchez** : Transition Ecologique
-* **Adrien Zemour** : Territoire, Affaires Etrangères et Culture
-* **Arthur Hatchuel par interim de Magali Marcel-Garreau** : Economie, Agriculture
+* **Adrien Zemour** : Territoire, Affaires Etrangères, Transition Ecologique et Culture
+* **Arthur Hatchuel par interim de Magali Marcel-Garreau** : Economie et Finances publiques, Agriculture
 * **Thibault Desjardins** : Intérieur, Armées et Travail
 
 ### :bullettrain\_front: Le pôle Accélération
