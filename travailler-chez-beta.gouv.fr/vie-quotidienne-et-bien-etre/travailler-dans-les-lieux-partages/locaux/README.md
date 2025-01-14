@@ -43,10 +43,10 @@ Une imprimante est disponible physiquement au fond de la salle de droite, et sur
 
 ### Accès visiteur à la journée à Ségur
 
-Si tu souhaites venir travailler dans ces locaux, la marche à suivre est simple :&#x20;
+Si tu souhaites venir travailler dans ces locaux, la marche à suivre est simple :
 
-1. Au moins un jour avant, signaler sa venue à un agent de l'incubateur de la DINUM ou demander sur le canal mattermost [#bureaux-Ségur](https://mattermost.incubateur.net/betagouv/channels/bureaux-segur) qu'on t'y invite.\
-   Pour cela, un agent de l'Incubateur devra envoyer un mail à **accueil-segur@segur.gouv.fr** au minimum 24h avant ta venue. Ce mail doit être envoyé d'une adresse mail @beta.gouv.fr ou autre mail d'agent public.
+1. Au moins un jour avant, signaler sa venue à un agent de l'incubateur de la DINUM ou demander sur le canal mattermost [#bureaux-Ségur](https://mattermost.incubateur.net/betagouv/channels/bureaux-segur) qu'on t'y invite. Tu pourras remplir un formulaire d'accès présent dans l'entête de ce canal.\
+   Si tu connais un agent de l'Incubateur, il peut également envoyer un mail à **accueil-segur@segur.gouv.fr** au minimum 24h avant ta venue. Ce mail doit être envoyé d'une adresse mail @beta.gouv.fr ou autre mail d'agent public.
 2. Le jour J, se munir d'une pièce d'identité.
 3. Se rendre à l'accueil au 20 avenue de Ségur.
 4. À l'accueil, indiquer qu'un rendez-vous a été pris avec l'Incubateur de services numériques de la DINUM, en indiquant bien le nom de la personne visitée.
@@ -79,4 +79,3 @@ Les réservations de salles de réunion ne peuvent se faire que par les agents d
 ### Accès local vélo avec son badge permanent
 
 Aller voir M. Delplace au 1.507 pour qu'il active les accès pour votre badge (il doit pouvoir faire ça au téléphone mais pas sûr). L'accès se fait rue d'Estrées, il faut passer par la petite porte à droite du portail voiture. Il faut descendre et le local vélo est en bas à gauche, la porte de l'accès est rouge. Il y a un petit ascenseur, en sortant au bout du local à vélo puis sur la gauche. Cet ascenseur permet d'accès au niveau de l'accueil et au 1er étage.
-
