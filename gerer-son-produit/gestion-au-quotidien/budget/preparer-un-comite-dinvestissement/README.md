@@ -1,15 +1,21 @@
 ---
-hidden: true
 icon: face-glasses
+hidden: true
 ---
 
 # Préparer un comité d'investissement
 
 #### Exemple de template
 
-{% embed url="https://docs.google.com/presentation/d/1adgG9Y0ZwRERA12RYPBSFyCZUw-BimY64aX1xZnv6TQ/edit?usp=sharing" %}
-Exemple de template
+{% embed url="https://docs.google.com/presentation/d/1rVv7wItVNP1gQw4lz5TbWuV32hBq_EZ4EUJNnx4CvgY/edit#slide=id.g31b4f8b424f_0_207" %}
+Modèle de présentation pour comité d'investissement avec les essentiels
 {% endembed %}
+
+{% hint style="success" %}
+Vous pouvez aussi télécharger une version pptx ci-dessous. N'oubliez pas de remplacer le logo avec celui de votre administration, ainsi que la mention DINUM par celle de votre administration. Pour le faire sur toutes les vues en même temps, il suffit d'aller dans `format > modifier le thème` .
+{% endhint %}
+
+{% file src="../../../../.gitbook/assets/Modèle présentation produit.pptx" %}
 
 ## Qu'est-ce qu'un comité d'investissement ?
 
