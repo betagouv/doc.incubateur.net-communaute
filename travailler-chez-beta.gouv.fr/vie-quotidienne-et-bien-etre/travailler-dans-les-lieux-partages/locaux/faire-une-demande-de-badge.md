@@ -51,6 +51,9 @@ Exemple de mail :
 
 > Bonjour, Pourriez-vous s'il vous plaît laisser monter xxxxxx tous les matins des prochains jours en salle 5.515 ? Il s'agit d'une nouvelle personne collaborant avec l'incubateur de services numériques de la DINUM. Nous avons effectué sa demande de badge il y a quelques jours, mais ce-dernier n'est pas encore arrivé. Merci beaucoup !
 
+Tu peux également remplir[ ce formulaire de demande d'accès](https://tally.so/r/w8AJjP) pour qu'un membre de l'équipe animation puisse la traiter.\
+**Attention : toute demande réalisée moins de 24h avant la date de venue souhaitée, ne pourra être traitée.**
+
 ## ⏲️ Comment renouveler un badge qui a expiré ?
 
 Ton badge d'accès à Ségur a une durée de validité qui dépend principalement de la durée de tes dates de mission. N'oublie pas de renouveler ce badge dès que ta mission est elle-même prolongée.
@@ -62,8 +65,6 @@ N'oublie pas de mettre à jour ta date de fin de mission sur ton espace membre o
 {% endhint %}
 
 Les services de la DINUM désactivent automatiquement les badges qui ne sont pas utilisés régulièrement. Si tu ne viens pas au moins deux fois par semaine dans les locaux, tu peux simplement demander un accès à la journée à Ségur.
-
-
 
 {% hint style="info" %}
 **Une erreur dans cette fiche ?**\
