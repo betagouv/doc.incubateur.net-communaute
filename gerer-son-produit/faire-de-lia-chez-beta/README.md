@@ -22,7 +22,7 @@ En plus de bien définir le problème selon [le cadre type de la méthode beta](
 
 **Peut-être que votre solution existe déjà, partiellement, ou qu’elle a déjà été tentée ailleurs dans l’administration**.
 
-Vous pouvez retrouver dans [ce tableau](https://grist.incubateur.net/o/beta-gouv-ia/9wTgwEbwqmwW/Ressources?utm_id=share-doc) les initiatives de briques IA dans l’État et les services déconcentrés. L’idée et de mutualiser les apprentissages et des expérimentations, afin que le commun profite à l’ensemble des produits opérés en interministériel. C'est ouvert et collaboratif : n'hésitez pas à rajouter/étoffer si vous connaissez un produit pour lequel il manque des informations ou à rajouter d'autres services dans l'État qui mériteraient d'y figurer.
+Vous pouvez retrouver dans [ce tableau](https://grist.numerique.gouv.fr/o/beta-gouv-ia/9wTgwEbwqmwW/Produits-IA-dans-lEtat?utm_id=share-doc) les initiatives de briques IA dans l’État et les services déconcentrés. L’idée et de mutualiser les apprentissages et des expérimentations, afin que le commun profite à l’ensemble des produits opérés en interministériel. C'est ouvert et collaboratif : n'hésitez pas à rajouter/étoffer si vous connaissez un produit pour lequel il manque des informations ou à rajouter d'autres services dans l'État qui mériteraient d'y figurer.
 
 {% hint style="warning" %}
 Il se peut aussi que certaines informations soient erronées, puisque que c’est collaboratif. Pour toute question quant à ce commun : [elsa.le-duigou@beta.gouv.fr](mailto:elsa.le-duigou@beta.gouv.fr).
