@@ -1,4 +1,4 @@
-# 🇫🇷 Les services numériques à impact national
+# Les services numériques à impact national
 
 Le programme beta.gouv.fr a pour objectif principal de construire des services numérique de grande qualité, qui résolvent réellement le problème des citoyennes et des citoyens, en ayant un impact direct sur leur vie quotidienne. Afin d'évaluer notre succès, nous dénombrons chaque année le nombre de **services publics numériques ayant un impact national** conçus dans le programme beta.gouv.fr.
 

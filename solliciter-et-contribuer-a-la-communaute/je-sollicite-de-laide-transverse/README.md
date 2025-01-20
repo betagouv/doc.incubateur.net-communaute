@@ -7,7 +7,7 @@ Si votre service numérique fait partie du réseau beta.gouv.fr, vous avez accè
 ### Aides financières
 
 * **financement des investigations** (environ 15k€ / investigation), à condition d'avoir identifié un problème à investiguer, et de mobiliser sponsor et intrapreneur. Pour déclencher ce ticket, contactez un membre de [l'équipe d'animation de beta.gouv.fr](../../decouvrir-beta.gouv.fr/incubateur-de-la-dinum/lequipe-danimation-beta.gouv.fr.md).
-* **financement de l'accompagnement à la pérennisation / au transfert des produits** (environ 30k€ / produit), à la condition de justifier que le produit a un intérêt interministériel ou qu'il est susceptible de devenir un [service numérique à impact national](../../decouvrir-beta.gouv.fr/services-numeriques-a-impact-national.md). Pour déclencher ce ticket, contactez un membre de l'[équipe d'animation de beta.gouv.fr](../../decouvrir-beta.gouv.fr/incubateur-de-la-dinum/lequipe-danimation-beta.gouv.fr.md).
+* **financement de l'accompagnement à la pérennisation / au transfert des produits** (environ 30k€ / produit), à la condition de justifier que le produit a un intérêt interministériel ou qu'il est susceptible de devenir un [service numérique à impact national](../../decouvrir-beta.gouv.fr/limpact-du-programme-beta.gouv.fr/services-numeriques-a-impact-national.md). Pour déclencher ce ticket, contactez un membre de l'[équipe d'animation de beta.gouv.fr](../../decouvrir-beta.gouv.fr/incubateur-de-la-dinum/lequipe-danimation-beta.gouv.fr.md).
 * **cofinancement de l'accélération de votre service** via les appels réguliers du Fonds d'accélération des Startups d'État (FAST) : plus d'informations [sur la page FAST](../../gerer-son-produit/la-vie-du-produit/acceleration/fonds-dacceleration-des-startups-detat.md).
 
 ### Aide transverse
@@ -67,7 +67,7 @@ D'une manière générale, la chaine 🔒[_**\~incubateur-**_](https://mattermos
 
 ### Développement
 
-Au cours du développement, il est possible de faire une demande d'aide en s'adressant aux membres de l'incubateur inscrits aux équipes \_dev\_techno (ex: [\_dev\_javascript](https://github.com/orgs/betagouv/teams/\_dev\_javascript)). Pour ce faire, il faut :
+Au cours du développement, il est possible de faire une demande d'aide en s'adressant aux membres de l'incubateur inscrits aux équipes \_dev\_techno (ex: [\_dev\_javascript](https://github.com/orgs/betagouv/teams/_dev_javascript)). Pour ce faire, il faut :
 
 * Ajouter la team de la techno concernée au projet
 * Assigner la team en review d'une PR ou la mentionner au cours d'une discussion.
