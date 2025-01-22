@@ -10,25 +10,16 @@ Le **Pôle Numérique Inclusif** est un pôle d’expertise transverse qui s’a
 
 ### Que propose le Pôle Numérique Inclusif ? <a href="#que-propose-le-pole-numerique-inclusif" id="que-propose-le-pole-numerique-inclusif"></a>
 
-**Des événements**
+**Des webinaires et ateliers pour former les membres**&#x20;
 
-* **🎓 Sensibilisation à l’accessibilité numérique, chaque mois (2 h)** : pour comprendre les enjeux, les obligations légales et découvrir comment concevoir un service numérique accessible.
-* **▶️ Webinaire ou ateliers** chaque mois, sur des sujets spécifiques (design inclusif, DSFR…)
+* **▶️ Webinaire ou ateliers,** à distance ou lors des forums
+* Pour tous les profils (tech, design, intrapreneur, coach...)
+* [Inscrivez-vous sur l'Espace Membre](https://espace-membre.incubateur.net/formations?filter=Accessibilit%C3%A9)
 
 **Des accompagnements personnalisés pour les équipes**
 
-* ⚡ **Audit Flash** : repérage des problèmes d’accessibilité et priorisation.
-* ✏️ **Content Design** : simplification de contenu pour un service plus inclusif.
+* ⚡ **Pré-Audit** : repérage des problèmes d’accessibilité et priorisation.
 * 🧠 **Roadmap Accessibilité** : création d’un plan personnalisé, selon le cycle de vie des équipes
-
-### Qui compose ce pole ? <a href="#qui-compose-ce-pole" id="qui-compose-ce-pole"></a>
-
-Le pole est une équipe pluridisciplinaire d’expertes en accessibilité :
-
-* Anne-Sophie, UX Designer
-* Gauthier, dev
-* Romy, coach
-* Amandine, facilitatrice
 
 ### Comment nous contacter ? <a href="#comment-nous-contacter" id="comment-nous-contacter"></a>
 
@@ -37,3 +28,12 @@ Le pole est une équipe pluridisciplinaire d’expertes en accessibilité :
 * Par [**formulaire**](https://docs.google.com/forms/d/1L4DOpBS9ibJWmWyypOOyB86ExGPLz-IwUuunazugsBU/edit?usp=mail_response_notification\&urp=gmail_link)
 * Sur **Mattermost**, dans le canal [#domaine-accessibilité](https://mattermost.incubateur.net/betagouv/channels/c015lnmttj9)
 {% endhint %}
+
+### Qui compose ce pôle ? <a href="#qui-compose-ce-pole" id="qui-compose-ce-pole"></a>
+
+Le pôle est une équipe pluridisciplinaire d’expertes en accessibilité :
+
+* Anne-Sophie, UX Designer
+* Gauthier, dev
+* Romy, coach
+* Sabrina, produit
