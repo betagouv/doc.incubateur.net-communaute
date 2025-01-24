@@ -73,7 +73,7 @@ Voici les bonnes pratiques et règles à suivre pour que l’utilisation de la p
 
 #### 1. Indiquer clairement qu’il s’agit d’une mission <a href="#id-1-indiquer-clairement-quil-sagit-dune-mission" id="id-1-indiquer-clairement-quil-sagit-dune-mission"></a>
 
-* Le titre de l’offre doit mentionner que c’est une mission. Par exemple : Chargé de déploiement pour Envergo \[Mission de prestation]
+* Le titre de l’offre doit mentionner que c’est une mission. Par exemple : \[Mission]Chargé de déploiement pour Envergo&#x20;
 * La description de l’offre doit indiquer dès le début que c’est une mission avec votre titulaire et non un poste. Exemple : 🪧 Offre de mission via NUMA, le titulaire de notre marché public.
 * Pour rappel, la diffusion de l’offre de mission doit se faire uniquement après avoir sollicité le titulaire du marché public.
 
