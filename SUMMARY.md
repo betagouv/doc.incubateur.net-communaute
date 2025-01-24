@@ -55,7 +55,7 @@
     * [Devenir freelance](travailler-chez-beta.gouv.fr/les-differents-statuts/independants-freelances/devenir-freelance.md)
     * [Charte des freelances](travailler-chez-beta.gouv.fr/les-differents-statuts/independants-freelances/charte-des-freelances.md)
     * [Observatoire des revenus](travailler-chez-beta.gouv.fr/les-differents-statuts/independants-freelances/observatoire-revenus.md)
-    * [Recommandation pour la prise en charge des frais des freelances](travailler-chez-beta.gouv.fr/les-differents-statuts/independants-freelances/recommandation-pour-la-prise-en-charge-des-frais-des-freelances.md)
+    * [Recommandations pour la prise en charge des frais de déplacements](travailler-chez-beta.gouv.fr/les-differents-statuts/independants-freelances/recommandation-pour-la-prise-en-charge-des-frais-des-freelances.md)
   * [Salariés des sociétés de prestation](travailler-chez-beta.gouv.fr/les-differents-statuts/salaries-des-societes-de-prestation/README.md)
 * [🙋 Candidater chez beta.gouv.fr](travailler-chez-beta.gouv.fr/guide-pour-les-candidats.md)
 * [🐥 Débuter chez beta.gouv.fr](travailler-chez-beta.gouv.fr/to-do-darrivee/README.md)
