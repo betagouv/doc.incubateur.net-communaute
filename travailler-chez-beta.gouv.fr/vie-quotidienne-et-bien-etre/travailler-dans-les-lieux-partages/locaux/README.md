@@ -7,7 +7,7 @@ description: >-
 
 # Les locaux de la DINUM à Paris
 
-L'appartenance à la communauté beta.gouv.fr te donne la possibilité de venir travailler dans les locaux de la DINUM en plus de tes espaces de travail habituels (ton espace de coworking, ton administration, chez toi…). Ils se situen au 20 avenue de Ségur, 75007 Paris.
+L'appartenance à la communauté beta.gouv.fr te donne la possibilité de venir travailler dans les locaux de la DINUM en plus de tes espaces de travail habituels (ton espace de coworking, ton administration, chez toi…). Ils se situent au 20 avenue de Ségur, 75007 Paris.
 
 ## Informations pratiques
 
