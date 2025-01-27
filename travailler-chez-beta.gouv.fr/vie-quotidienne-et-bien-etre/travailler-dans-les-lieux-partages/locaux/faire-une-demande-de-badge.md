@@ -10,8 +10,15 @@ hidden: true
 
 ## 🧑🏽‍💻 Comment réaliser ta demande ?
 
-* **Complétez le formulaire ci-dessous et envoyez le par mail** au moins 7 jours ouvrés avant votre date d'arrivée souhaitée **à votre référent ISN/DINUM**, c'est-à-dire un membre de l'équipe ISN/DINUM avec qui vous êtes régulièrement en contact et qui vient souvent à Ségur. \
-  **N'oubliez pas de joindre votre photo d'identité sur fond blanc.**
+*   **Complétez le formulaire ci-dessous et envoyez le par mail** au moins 7 jours ouvrés avant votre date d'arrivée souhaitée **à votre référent ISN/DINUM**, c'est-à-dire un membre de l'équipe ISN/DINUM avec qui vous êtes régulièrement en contact et qui vient souvent à Ségur.&#x20;
+
+    **Ne pas modifier les lignes 6 (N° de salles), 7 (adresse mail), 15 (numéro de bdc chorus), 17 (détail sur la photo), 18 (signataire habilité).**\
+    **N'oubliez pas de joindre votre photo d'identité sur fond blanc.**
+
+{% file src="../../../../.gitbook/assets/Formulaire accueil d'un prestataire modifiée .xlsx" %}
+
+
+
 * Une fois le mail reçu, votre référent vérifie que votre demande est conforme et la transfère à [logistique-dinum@pm.gouv.fr](mailto:logistique-dinum@pm.gouv.fr) et [rh-dinum@pm.gouv.fr](mailto:rh-dinum@pm.gouv.fr) avec Ishan Bhojwani en copie, au moins 5 jours ouvrés avant votre date d'arrivée souhaitée.
 * Une fois votre badge édité, votre référent sera prévenu, pourra aller le chercher et vous en informer.
 
@@ -37,7 +44,7 @@ Tu peux également remplir[ ce formulaire de demande d'accès](https://tally.so/
 
 Ton badge d'accès à Ségur a une durée de validité qui dépend principalement de la durée de tes dates de mission. N'oublie pas de renouveler ce badge dès que ta mission est elle-même prolongée.
 
-**Pour renouveler ton badge, envoie**
+**Pour renouveler ton badge, suit la même procédure que pour la demande de badge ets sélectionne " prolongation" dans l'objet de la demande (ligne 2 du formulaire).**
 
 {% hint style="info" %}
 N'oublie pas de mettre à jour ta date de fin de mission sur ton espace membre ou nous ne pourrons demander la prolongation de ton badge !
