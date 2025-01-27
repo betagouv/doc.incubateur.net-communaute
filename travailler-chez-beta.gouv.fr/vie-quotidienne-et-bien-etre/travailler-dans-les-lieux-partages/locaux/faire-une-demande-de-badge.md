@@ -1,47 +1,26 @@
 ---
 description: >-
-  Si tu envisages de travailler au moins deux jours par semaine dans les locaux
-  de beta.gouv.fr situés à Ségur, suis les étapes ci-dessous pour obtenir un
-  badge permanent d’accès.
+  Si tu envisages de travailler en moyenne deux jours par semaine dans les
+  locaux de beta.gouv.fr situés à Ségur, suis les étapes ci-dessous pour obtenir
+  un badge permanent d’accès.
 hidden: true
 ---
 
 # Demander ou prolonger un badge
 
-{% hint style="danger" %}
-La procédure de demande et de renouvellement des badges est en cours de modification. Cette page sera mise à jour quand la procédure sera finalisée.
-{% endhint %}
-
-{% hint style="info" %}
-1. **Éligibilité :** Ce processus s'applique uniquement si tu prévois d'être présent(e) dans nos locaux au moins deux jours par semaine.
-2. **Politique de fréquence :** Les demandes de badge pour une fréquence inférieure à deux jours par semaine seront refusées. De plus, sois conscient(e) que les services de la DINUM désactivent automatiquement les badges qui ne sont pas utilisés régulièrement.
-3. **Accès occasionnel :** Si tu prévois de venir moins de deux fois par semaine, consulte la dernière partie de cette documentation pour connaître la procédure relative aux accès ponctuels : [#que-faire-tant-que-je-nai-pas-de-badge](faire-une-demande-de-badge.md#que-faire-tant-que-je-nai-pas-de-badge "mention")
-{% endhint %}
-
-## 🗃️ Quelles sont les informations à préparer ?
-
-* **Période durant laquelle tu vas demander un accès à Segur**. Elle correspond à celle de ta mission dans une Startup d'Etat.\
-  N'oublie pas de [prolonger la durée de validité de ton badge](https://doc.incubateur.net/communaute/decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/locaux/badge-pour-travailler-a-segur/prolonger-la-duree-de-validite-de-mon-badge) si ta mission est renouvelée.
-* **Ton email @beta.gouv.fr** ([Comment avoir un email @beta.gouv.fr](../../../travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/emails/));
-* Un **photo ou un scan, recto-verso, de ta carte d'identité** ou de ton passeport en cours de validité au format JPEG (\*.jpg) ou PDF ;
-* Une **photo d'identité couleur** prise de face sur un fond neutre au format JPEG (\*.jpg).
-
 ## 🧑🏽‍💻 Comment réaliser ta demande ?
 
-{% hint style="info" %}
-Les demandes de badge pour des fréquences de passage de moins de 2 jours par semaine seront systématiquement refusées.
-{% endhint %}
-
-* Connecte toi sur [ton espace membre](https://espace-membre.incubateur.net/)
-* Remplis le formulaire dans la partie "Badge"
-* Tu recevras des mails concernant la prise en charge de ta demande
+* **Complétez le formulaire ci-dessous et envoyez le par mail** au moins 7 jours ouvrés avant votre date d'arrivée souhaitée **à votre référent ISN/DINUM**, c'est-à-dire un membre de l'équipe ISN/DINUM avec qui vous êtes régulièrement en contact et qui vient souvent à Ségur. \
+  **N'oubliez pas de joindre votre photo d'identité sur fond blanc.**
+* Une fois le mail reçu, votre référent vérifie que votre demande est conforme et la transfère à [logistique-dinum@pm.gouv.fr](mailto:logistique-dinum@pm.gouv.fr) et [rh-dinum@pm.gouv.fr](mailto:rh-dinum@pm.gouv.fr) avec Ishan Bhojwani en copie, au moins 5 jours ouvrés avant votre date d'arrivée souhaitée.
+* Une fois votre badge édité, votre référent sera prévenu, pourra aller le chercher et vous en informer.
 
 ## 🕰️ Combien de temps pour obtenir ton badge ?
 
 Une fois ta demande de badge effectuée, il te faudra attendre quelques jours, voire quelques semaines avant l'émission du badge.
 
 Les badges sont produits à Ségur mais **inutile d'aller le chercher toi-même.**\
-Tu peux te rapprocher de l'équipe Animation de la communauté (communaute@beta.gouv.fr) en cas de besoin.
+
 
 ## ✨ Que faire tant que je n'ai pas de badge ?
 
@@ -58,13 +37,11 @@ Tu peux également remplir[ ce formulaire de demande d'accès](https://tally.so/
 
 Ton badge d'accès à Ségur a une durée de validité qui dépend principalement de la durée de tes dates de mission. N'oublie pas de renouveler ce badge dès que ta mission est elle-même prolongée.
 
-**Pour renouveler ton badge, tu peux te rendre sur** [**ton espace membre** ](https://espace-membre.incubateur.net/)**pour faire ta demande.**
+**Pour renouveler ton badge, envoie**
 
 {% hint style="info" %}
 N'oublie pas de mettre à jour ta date de fin de mission sur ton espace membre ou nous ne pourrons demander la prolongation de ton badge !
 {% endhint %}
-
-Les services de la DINUM désactivent automatiquement les badges qui ne sont pas utilisés régulièrement. Si tu ne viens pas au moins deux fois par semaine dans les locaux, tu peux simplement demander un accès à la journée à Ségur.
 
 {% hint style="info" %}
 **Une erreur dans cette fiche ?**\
