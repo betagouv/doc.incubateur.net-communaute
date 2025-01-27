@@ -36,11 +36,13 @@ Le Lieu de la transformation publique est un espace commun dédié aux travaux d
 
 Il est accessible uniquement sur réservation en remplissant le formulaire suivant : [https://www.demarches-simplifiees.fr/commencer/reservation-lieu-transformation-publique](https://www.demarches-simplifiees.fr/commencer/reservation-lieu-transformation-publique)
 
-### Le GIP de l'inclusion
+### La Plateforme de l'inclusion
 
 6 Boulevard St Denis, 75010 Paris
 
-Faire une demande sur le canal Mattermost [\~gip-inclusion-locaux](https://mattermost.incubateur.net/betagouv/channels/gip-inclusion-locaux)
+Il arrive que des places soient inoccupées dans les locaux du [GIP Plateforme de l'inclusion](https://inclusion.gouv.fr) et de [la Mednum](https://lamednum.coop).
+
+Faire une demande sur le canal Mattermost [\~gip-inclusion-locaux](https://mattermost.incubateur.net/betagouv/channels/gip-inclusion-locaux), pour voir s'il reste de la place et qui sera là pour vous ouvrir.
 
 ### [Le LAB National de Pôle emploi](https://www.lelab.pole-emploi.fr/)
 
