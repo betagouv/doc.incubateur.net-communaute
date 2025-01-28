@@ -6,7 +6,8 @@ Nous avons pris une licence afin de la partager avec les startups d'Etat souhait
 
 ## Comment demander son accès à Tally ? <a href="#comment-demander-son-acces-a-tally" id="comment-demander-son-acces-a-tally"></a>
 
-Rien de plus simple ! Envoie un mail à animation@beta.gouv.fr en précisant le nom de ta startup d'Etat afin de demander un accès. \
+Rien de plus simple ! \
+Tu peux faire une demande d'accès via un [ticket OPS sur le channel mattermost](https://mattermost.incubateur.net/betagouv/channels/incubateur-demandes-ops). \
 Si ta startup a déjà un compte, tu pourras te faire inviter pas un membre ayant déjà un accès.
 
 {% hint style="info" %}
