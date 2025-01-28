@@ -14,4 +14,6 @@ Si ta startup a déjà un compte, tu pourras te faire inviter pas un membre ayan
 Pour des raisons de sécurité, une règle est à respecter : Seuls les mails d'agents publics ou les mails beta.gouv.fr sont autorisés à rejoindre les espaces de travail. Chaque compte ajouté ne respectant pas cette règle sera supprimé.
 {% endhint %}
 
+{% include "../../.gitbook/includes/presentation-tally.md" %}
+
 <figure><img src="../../.gitbook/assets/imagetally.png" alt=""><figcaption></figcaption></figure>
