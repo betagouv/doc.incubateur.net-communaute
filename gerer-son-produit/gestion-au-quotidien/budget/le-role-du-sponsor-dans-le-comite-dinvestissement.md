@@ -1,13 +1,14 @@
-# 🏦 Le rôle du sponsor dans le  "Comité d'Investissement"
+# 🏦 Le rôle du sponsor dans le comité d'investissement
 
-### Qu'est-ce qu'un Comité d'Investissement ?
+### Qu'est-ce qu'un comité d'investissement ?
 
-Le comité d'investissement est pensé pour vous simplifier le pilotage de vos projets numériques. Ce format simplifié vous permets de vous focaliser sur l'essentiel, à savoir : obtenir un impact rapide dans un budget contenu.\
-Le comité d'investissement a **un objectif unique**: décider, au regard de l'impact, du montant à investir sur les 6 prochains mois.
+Le comité d'investissement est un moment structurant de la vie d'une startup d'Etat, ayant lieu tous les 6 mois et réunissant l'équipe du produit, le(s) sponsor(s) et les parties prenantes au produit, dans **un objectif unique** : décider, au regard de l'impact, du montant à investir sur les 6 prochains mois.
 
-Un comité d'investissement se déroule tous les 6 mois (ou à minima tous les ans). Il permet de faire le point sur l'impact obtenu par l'équipe en charge du produit, de fixer les prochains objectifs et d'**arbitrer les investissements** consentis par l'administration.
+Il permet de faire le point sur l'atteint des objectifs fixés précédemment, sur l'impact obtenu par l'équipe en charge du produit, de fixer les prochains objectifs et d'**arbitrer les investissements** consentis par la (ou les) administration(s) sponsor(s).
 
-Si le service n'a pas réussi à prouver son utilité, c'est au comité d'investissement qu'est décidé son arrêt ; ou au contraire, si les résultats du service sont probants, le comité d'investissement décide de continuer d'investir.
+Si le service n'a pas réussi à prouver son utilité, c'est au comité d'investissement qu'est décidé son arrêt ; au contraire, si les résultats du service sont probants, le comité d'investissement décide de continuer d'investir.\
+\
+Le comité d'investissement est pensé pour simplifier le pilotage par le sponsor de ses projets numériques. Ce format simplifié lui permet de se focaliser sur l'essentiel, à savoir : obtenir un impact rapide dans un budget contenu.
 
 ### Quel est le déroulé du comité ?
 
@@ -15,10 +16,10 @@ Le format du comité d'investissement est structuré, avec un ordre du jour pré
 \
 Première partie (\~15 min) :
 
-* **Présentation des résultats** atteint sur la période écoulée
+* **Présentation des résultats** atteints sur la période écoulée
 * **Objectifs d'impact** pour les 6 prochains mois
-* **Demande de** **budget** pour atteindre l'objectif proposé
-* Si besoin, remontée de blocage institutionnel et demande d'aide de l'équipe
+* **Demande de** **budget** pour atteindre les objectifs proposés
+* Si besoin, remontée de blocages institutionnels et demandes d'aide de l'équipe
 
 Deuxième Partie (\~45 min):
 
@@ -28,8 +29,9 @@ Deuxième Partie (\~45 min):
 ### Qui participe ?
 
 * L'ensemble de l'équipe
-* Le responsable de portefeuille de l'incubateur de votre ministère ou de la DINUM
-* Le sponsor
+* Le responsable de portefeuille de l'incubateur du ministère concerné ou de la DINUM
+* Le(s) sponsor(s)
+* D'autres parties prenantes institutionnelles si concernées par le produit
 
 ### Qui est le sponsor ?
 
@@ -67,7 +69,7 @@ Option 3 : ☹️Vous n'êtes pas du tout convaincu:
 
 * Vous n'accordez pas de budget, l'équipe est dissoute et le produit "meurt"
 
-**Attention : Le montant total d'investissement n'a aucune importance**. D'ailleurs celui-ci tends à augmenter d'un comité au suivant. **Il n'y a que le ratio coût/impact qui importe**. Celui-ci baisse généralement d'un comité au suivant, parfois de plusieurs ordres de grandeur.
+**Attention : Le montant total d'investissement n'est pas le critère principal.** D'ailleurs celui-ci tend à augmenter d'un comité au suivant. **Il n'y a que le ratio coût/impact qui importe**. Celui-ci baisse généralement d'un comité au suivant, parfois de plusieurs ordres de grandeur.
 
 ### Comment préparer le comité ?
 
