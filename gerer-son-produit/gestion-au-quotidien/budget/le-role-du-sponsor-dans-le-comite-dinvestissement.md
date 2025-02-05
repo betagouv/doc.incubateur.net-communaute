@@ -1,0 +1,104 @@
+# 🏦 Le rôle du sponsor dans le  "Comité d'Investissement"
+
+#### Qu'est-ce qu'un Comité d'Investissement ?
+
+Le comité d'investissement est pensé pour vous simplifier le pilotage de vos projets numériques. Ce format simplifié vous permets de vous focaliser sur l'essentiel, à savoir : obtenir un impact rapide dans un budget contenu.\
+Le comité d'investissement a **un objectif unique**: décider, au regard de l'impact, du montant à investir sur les 6 prochains mois.
+
+Un comité d'investissement se déroule tous les 6 mois (ou à minima tous les ans). Il permet de faire le point sur l'impact obtenu par l'équipe en charge du produit, de fixer les prochains objectifs et d'**arbitrer les investissements** consentis par l'administration.
+
+Si le service n'a pas réussi à prouver son utilité, c'est au comité d'investissement qu'est décidé son arrêt ; ou au contraire, si les résultats du service sont probants, le comité d'investissement décide de continuer d'investir.
+
+#### Quel est le déroulé du comité ?
+
+Le format du comité d'investissement est structuré, avec un ordre du jour précis. Il se découpe généralement en 2 grandes phases :\
+\
+Première partie (\~15 min) :
+
+* **Présentation des résultats** atteint sur la période écoulée
+* **Objectifs d'impact** pour les 6 prochains mois
+* **Demande de** **budget** pour atteindre l'objectif proposé
+* Si besoin, remontée de blocage institutionnel et demande d'aide de l'équipe
+
+Deuxième Partie (\~45 min):
+
+* Discussions et questions
+* **Annonce de la décision d'investissement** par le sponsor
+
+#### &#x20;Qui participe ?
+
+* L'ensemble de l'équipe
+* Le responsable de portefeuille de l'incubateur de votre ministère ou de la DINUM
+* Le sponsor
+
+#### Qui est le sponsor ?
+
+Le sponsor est **l'investisseur**, celui ou celle qui **donne le budget et l'autonomie** nécessaire à l'équipe pour obtenir de l'impact. Le plus souvent ce sont des directeurs d'administration "métiers" mais cela peut être une ministre, un incubateur ou une collectivité.\
+
+
+#### Quel est le rôle et la posture du sponsor ?
+
+Le sponsor écoute et questionne l'équipe en charge du produit. Il prend ensuite une décision budgétaire. Le sponsor n'achète pas une prestation de développement, **il n'achète pas des fonctionnalités** ou des lignes de codes, mais **il investit pour obtenir un résultat concret**, un impact.\
+\
+Pour prendre la meilleure décision d'investissement, le sponsor préfèrera challenger l'équipe sur ses résultats et ses objectifs d'impact, (par exemple en demandant des précisions sur le ratio coût/impact) plutôt que sur les prochaines fonctionnalités, ou sur la ventilation de son budget.\
+\
+Le retour sur investissement d'un service publique numérique est rarement mesurable en euros.\
+Le sponsor investisseur doit donc questionner/challenger l'équipe sur son choix de métrique d'impact. Le sponsor doit s'assurer que la mesure reflète bien l'objectif de politique publique visée.
+
+#### Quelle décision doit prendre le sponsor ?
+
+En fonction de la maturité (l'âge) du produit, le sponsor vérifiera 2 choses:
+
+* Le produit a eu un premier impact : l'équipe a-t-elle résolu un premier problème pour quelques utilisateurs ?
+* Le produit donne des perspectives intéressantes de passage à l'échelle : le coût pour résoudre le problème du 100ème ou du 10 000ème bénéficiaire est-il significativement plus faible que si la solution numérique n'existait pas ?
+
+\
+En fonction des explications de l'équipe, **3 options s'offrent au sponsor**:\
+Option 1 : 🤩 Vous êtes convaincu
+
+* Vous accordez un budget à l'équipe\
+
+
+Option 2 :🤔Vous n'êtes pas sûr:
+
+* Vous reconduisez temporairement (\~1 ou 2 mois) le même budget pour permettre à l'équipe d'apporter plus d'éléments concernant leur impact actuel ou futur. Vous organisez un nouveau comité. Vous pouvez demander à la DINUM de participer pour donner un avis extérieur.\
+
+
+Option 3 : ☹️Vous n'êtes pas du tout convaincu:
+
+* Vous n'accordez pas de budget, l'équipe est dissoute et le produit "meurt"
+
+**Attention : Le montant total d'investissement n'a aucune importance**. D'ailleurs celui-ci tends à augmenter d'un comité au suivant. **Il n'y a que le ratio coût/impact qui importe**. Celui-ci baisse généralement d'un comité au suivant, parfois de plusieurs ordres de grandeur.
+
+#### Comment préparer le comité ?
+
+Une semaine en amont, l'équipe envoie la présentation et le budget demandé.\
+\
+Le comité est avant tout une instance de décision budgétaire. C'est pourquoi le sponsor vérifie, plusieurs mois en amont, que la ligne budgétaire identifiée dispose, à minima, du montant consommé sur les 6 mois précédents.\
+\
+Le sponsor peut aussi se préparer en :
+
+* en consultant la page statistique de l'équipe ([disponible ici](https://beta.gouv.fr/startups)).
+* en lisant les éventuelles dernières newsletter de l'équipe
+* en partageant à l'équipe les dernières priorités, actualités et objectifs, liés au problème de politique publique que le produit vise résoudre.
+* en envoyant en amont des questions à l'équipe produit
+
+\
+Cas particulier: l'investigation\
+S'il s'agit du premier comité d'investissement (aussi appelé comité de fin d'investigation), le sponsor doit avoir identifié une ligne budgétaire lui permettant d'investir environ 200k€. Dans le cas contraire, le comité d'investissement ne peut pas se tenir.\
+
+
+#### Quels sont les pièges à éviter ?
+
+* Finir le comité sans décision d'investissement.\
+  En pratique, il n'est pas possible de mettre en pause les travaux. L'équipe est constituée principalement de freelances qui ne peuvent pas travailler sans bons de commande. Sans visibilité budgétaire, les freelances quitteront définitivement l'équipe imposant des délais et des couts financiers très importants pour reconstituer une autre équipe capable de continuer.
+* Oublier de communiquer la décision d'investissement à l'équipe achat dès la fin du comité.\
+  Il faut compter environ 1 mois pour passer une commande sur le [marché beta.gouv](https://doc.incubateur.net/communaute/gerer-son-produit/gestion-au-quotidien/marches). Pour assurer une continuité des travaux de l'équipe, sans pause entre les bons de commande, chaque jour compte.
+* Demander à l'équipe d'ajouter une fonctionnalité.\
+  C'est l'équipe qui priorise les fonctionnalités en fonction des besoins des utilisateurs et des perspectives d'impact. Imposer une fonctionnalité va couter du temps et de l'argent à l'équipe, sans certitude que ce soit utile pour les utilisateurs.
+* Se contenter de mesures d'usages.\
+  Les mesures d'usages ne permettent pas de savoir si le produit a un impact positif sur la politique publique concernée. Si l'équipe ne mesure pas, ou mal son impact, cela augmente fortement les risques que l'équipe priorise mal ses développements et ses dépenses. Par ailleurs, sans mesure de l'impact il est difficile de justifier de la bonne utilisation de l'argent publique.\
+  \
+  **Annexe:**
+
+![image.png](https://docs.numerique.gouv.fr/media/b94eef93-56b4-4ab4-bee7-116fc310b278/attachments/82997411-9039-4ead-997c-67e0c10a11bb.png)
