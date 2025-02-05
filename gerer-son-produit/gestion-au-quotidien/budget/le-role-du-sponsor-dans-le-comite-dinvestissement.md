@@ -60,19 +60,19 @@ En fonction de la maturité (l'âge) du produit, le sponsor vérifiera 2 choses:
 \
 En fonction des explications de l'équipe, **3 options s'offrent au sponsor**:\
 \
-Option 1 : 🤩 Vous êtes convaincu
+**Option 1 : 🤩 Vous êtes convaincu**
 
 * Vous accordez un budget à l'équipe
 
-Option 2 :🤔Vous n'êtes pas sûr:
+**Option 2 :🤔Vous n'êtes pas sûr:**
 
 * Vous reconduisez temporairement (\~1 ou 2 mois) le même budget pour permettre à l'équipe d'apporter plus d'éléments concernant leur impact actuel ou futur. Vous organisez un nouveau comité. Vous pouvez demander à la DINUM de participer pour donner un avis extérieur.
 
-Option 3 : ☹️Vous n'êtes pas du tout convaincu:
+**Option 3 : ☹️Vous n'êtes pas du tout convaincu:**
 
 * Vous n'accordez pas de budget, l'équipe est dissoute et le produit "meurt"
 
-**Attention : Le montant total d'investissement n'est pas le critère principal.** D'ailleurs celui-ci tend à augmenter d'un comité au suivant. **Il n'y a que le ratio coût/impact qui importe**. Celui-ci baisse généralement d'un comité au suivant, parfois de plusieurs ordres de grandeur.
+**Attention : Le montant total d'investissement n'est pas un critère très pertinent.** D'ailleurs  il est normal que celui-ci augmente d'un comité au suivant. **Il n'y a que le ratio coût/impact qui importe**. Celui-ci baisse généralement d'un comité au suivant, parfois de plusieurs ordres de grandeur.
 
 ### Comment préparer le comité ?
 
@@ -94,16 +94,15 @@ S'il s'agit du premier comité d'investissement (aussi appelé comité de fin d'
 
 ### Quels sont les pièges à éviter ?
 
-* Finir le comité sans décision d'investissement.\
+* **Finir le comité sans décision d'investissement.**\
   En pratique, il n'est pas possible de mettre en pause les travaux. L'équipe est constituée principalement de freelances qui ne peuvent pas travailler sans bons de commande. Sans visibilité budgétaire, les freelances quitteront définitivement l'équipe imposant des délais et des couts financiers très importants pour reconstituer une autre équipe capable de continuer.
-* Oublier de communiquer la décision d'investissement à l'équipe achat dès la fin du comité.\
+* **Oublier de communiquer la décision d'investissement à l'équipe achat dès la fin du comité.**\
   Il faut compter environ 1 mois pour passer une commande sur le [marché beta.gouv](https://doc.incubateur.net/communaute/gerer-son-produit/gestion-au-quotidien/marches). Pour assurer une continuité des travaux de l'équipe, sans pause entre les bons de commande, chaque jour compte.
-* Demander à l'équipe d'ajouter une fonctionnalité.\
+* **Demander à l'équipe d'ajouter une fonctionnalité.**\
   C'est l'équipe qui priorise les fonctionnalités en fonction des besoins des utilisateurs et des perspectives d'impact. Imposer une fonctionnalité va couter du temps et de l'argent à l'équipe, sans certitude que ce soit utile pour les utilisateurs.
-*   Se contenter de mesures d'usages.\
+*   **Se contenter de mesures d'usages.**\
     Les mesures d'usages ne permettent pas de savoir si le produit a un impact positif sur la politique publique concernée. Si l'équipe ne mesure pas, ou mal son impact, cela augmente fortement les risques que l'équipe priorise mal ses développements et ses dépenses. Par ailleurs, sans mesure de l'impact il est difficile de justifier de la bonne utilisation de l'argent publique.\
     \
-    **Annexe:**\
     \
 
 
