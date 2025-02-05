@@ -45,7 +45,10 @@ Le sponsor écoute et questionne l'équipe en charge du produit. Il prend ensuit
 Pour prendre la meilleure décision d'investissement, le sponsor préfèrera challenger l'équipe sur ses résultats et ses objectifs d'impact, (par exemple en demandant des précisions sur le ratio coût/impact) plutôt que sur les prochaines fonctionnalités, ou sur la ventilation de son budget.\
 \
 Le retour sur investissement d'un service publique numérique est rarement mesurable en euros.\
-Le sponsor investisseur doit donc questionner/challenger l'équipe sur son choix de métrique d'impact. Le sponsor doit s'assurer que la mesure reflète bien l'objectif de politique publique visée.
+Le sponsor investisseur doit donc questionner/challenger l'équipe sur son choix de métrique d'impact. Le sponsor doit s'assurer que la mesure reflète bien l'objectif de politique publique visée.\
+
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### Quelle décision doit prendre le sponsor ?
 
@@ -104,4 +107,4 @@ S'il s'agit du premier comité d'investissement (aussi appelé comité de fin d'
     \
 
 
-    <figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
