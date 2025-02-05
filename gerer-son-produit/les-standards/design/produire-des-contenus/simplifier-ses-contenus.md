@@ -7,7 +7,7 @@
 {% hint style="info" %}
 Ce contenu est aussi disponible sous forme de webinaire :
 
-* **🖥️** [**Support de présentation**](https://docs.google.com/presentation/d/1ykD\_SGTHNgMHyTewSqBQU0pTBJr3gLOeuNHvndGxd9k/edit?usp=sharing)
+* **🖥️** [**Support de présentation**](https://docs.google.com/presentation/d/1ykD_SGTHNgMHyTewSqBQU0pTBJr3gLOeuNHvndGxd9k/edit?usp=sharing)
 * ▶️ [**Visio du webinaire**](https://bbb-dinum-scalelite.visio.education.fr/playback/presentation/2.3/87785ffa751d94980ff8dab4007b2daa8de53178-1687250969999) (à partir de la 15ème minute)
 {% endhint %}
 
@@ -23,7 +23,7 @@ L’étude menée par [Avec les mots](https://www.avecdesmots.com/les-francais-c
 
 Il est important de réaliser que les producteurs de contenus n'écrivent pas consciemment compliqué. On a tendance à estimer nos propres contenus plus simples que ceux des autres.
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Enquête menée par la DITP (2020-2022) auprès de 700 agents publics</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Enquête menée par la DITP (2020-2022) auprès de 700 agents publics</p></figcaption></figure>
 
 D'autres biais peuvent complexifier nos contenus :
 
