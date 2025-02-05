@@ -2,7 +2,7 @@
 hidden: true
 ---
 
-# \[TO DO] Lever les fonds
+# 💶 Augmenter son budget en postulant à des fonds \[to do]
 
 ## Les guichets de financement 2024
 
