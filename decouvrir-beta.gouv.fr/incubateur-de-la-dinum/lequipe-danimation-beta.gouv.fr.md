@@ -48,7 +48,7 @@ Ce pôle est en charge du [Fond d'Accélération des Startups d'Etat et de Terri
 
 Le pôle garantit un environnement de travail le plus attractif possible, anime et outille le réseau des incubateurs ministériels, des intrapreneurs et des EIG, et fournit des expertises aux Startups d’État (tech, accessibilité...). Il est composé de :
 
-<figure><img src="../../.gitbook/assets/team_animation (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screen_equipe animation.png" alt=""><figcaption></figcaption></figure>
 
 * **Benjamin Doberset,** responsable de pôle
 * **Marine Purson**, animatrice chargée des relations institutionnelles et de la communication
@@ -58,8 +58,10 @@ Le pôle garantit un environnement de travail le plus attractif possible, anime 
 * **Amel Alili**, animatrice chargée d'assistance et du support
 * **Anne-Sophie Tranchet**, animatrice chargée des sujets d'Accessibilité et Design
 * **Divine Tende** (alternante), chargée d'animation de communauté et de communication
+* **Nicolas Tourneur,** chargé des ressources humaines de la communauté
+* **Marine-Pétroline Soichot,** chargée de formation
 
-_L'animation de la communauté beta.gouv.fr n'est pas l'exclusivité de l'incubateur de la DINUM : d'autres personnes peuvent et sont invitées à contribuer à la réussite du collectif (agents des incubateurs ministériels, freelances, etc.)._
+L'animation de la communauté beta.gouv.fr n'est pas l'exclusivité de l'incubateur de la DINUM : d'autres personnes peuvent et sont invitées à contribuer à la réussite du collectif (agents des incubateurs ministériels, freelances, etc.).
 
 {% hint style="info" %}
 Contacter le pôle animation : animation@beta.gouv.fr ou directement sur Mattermost
