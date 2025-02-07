@@ -2,7 +2,7 @@
 
 ### Qu'est-ce qu'un comité d'investissement ?
 
-Le comité d'investissement est un moment structurant de la vie d'une startup d'Etat, ayant lieu tous les 6 mois et réunissant l'équipe du produit, le(s) sponsor(s) et les parties prenantes au produit, dans **un objectif unique** : décider, au regard de l'impact, du montant à investir sur les 6 prochains mois.
+Le comité d'investissement est un moment structurant de la vie d'une startup d'Etat, ayant lieu tous les 6 mois et réunissant l'équipe du produit, le(s) sponsor(s) et les parties prenantes au produit, dans **un objectif principal** : décider, au regard de l'impact, du montant à investir sur les 6 prochains mois.
 
 Il permet de faire le point sur l'atteinte des objectifs fixés précédemment, sur l'impact obtenu par l'équipe en charge du produit, de fixer les prochains objectifs et d'**arbitrer les investissements** consentis par la (ou les) administration(s) sponsor(s).
 
@@ -72,7 +72,7 @@ En fonction des explications de l'équipe, **3 options s'offrent au sponsor**:\
 
 * Vous n'accordez pas de budget, l'équipe est dissoute et le produit "meurt"
 
-**Attention : Le montant total d'investissement n'est pas un critère très pertinent.** D'ailleurs  il est normal que celui-ci augmente d'un comité au suivant. **Il n'y a que le ratio coût/impact qui importe**. Celui-ci baisse généralement d'un comité au suivant, parfois de plusieurs ordres de grandeur.
+**Attention : Le montant total d'investissement n'est pas un critère très pertinent.** D'ailleurs il est normal que le montant total soit très faible mais augmente d'un comité au suivant. **Le ratio coût/impact est a préféré** . Celui-ci baisse généralement d'un comité au suivant, parfois de plusieurs ordres de grandeur.
 
 ### Comment préparer le comité ?
 
@@ -87,9 +87,8 @@ Le sponsor peut aussi se préparer en :
 * en partageant à l'équipe les dernières priorités, actualités et objectifs, liés au problème de politique publique que le produit vise résoudre.
 * en envoyant en amont des questions à l'équipe produit
 
-\
-Cas particulier: l'investigation\
-S'il s'agit du premier comité d'investissement (aussi appelé comité de fin d'investigation), le sponsor doit avoir identifié une ligne budgétaire lui permettant d'investir environ 200k€. Dans le cas contraire, le comité d'investissement ne peut pas se tenir.\
+**Cas particulier: l'investigation**\
+S'il s'agit du premier comité d'investissement (aussi appelé comité de fin d'investigation), le sponsor doit avoir identifié une ligne budgétaire lui permettant d'investir environ 150 ou 200k€. Dans le cas contraire, le comité d'investissement ne permettra pas de lancer le projet.\
 
 
 ### Quels sont les pièges à éviter ?
@@ -103,7 +102,6 @@ S'il s'agit du premier comité d'investissement (aussi appelé comité de fin d'
 *   **Se contenter de mesures d'usages.**\
     Les mesures d'usages ne permettent pas de savoir si le produit a un impact positif sur la politique publique concernée. Si l'équipe ne mesure pas, ou mal son impact, cela augmente fortement les risques que l'équipe priorise mal ses développements et ses dépenses. Par ailleurs, sans mesure de l'impact il est difficile de justifier de la bonne utilisation de l'argent publique.\
     \
-    \
 
 
-    <figure><img src="../../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>

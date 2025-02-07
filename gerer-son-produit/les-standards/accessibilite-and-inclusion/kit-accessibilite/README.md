@@ -10,7 +10,7 @@ description: >-
 
 La conformité ne s'atteint pas en un jour et ça n'est pas grave : c'est **l'engagement vers la démarche qui est important** !
 
-<figure><img src="../../../../.gitbook/assets/image (1).png" alt="Version visuelle du plan des différentes étapes de mise en accessibilité"><figcaption><p>Roadmap Accessibilité</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1).png" alt="Version visuelle du plan des différentes étapes de mise en accessibilité"><figcaption><p>Roadmap Accessibilité</p></figcaption></figure>
 
 {% content-ref url="investigation.md" %}
 [investigation.md](investigation.md)

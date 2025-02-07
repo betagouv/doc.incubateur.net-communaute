@@ -15,7 +15,7 @@ Chaque site conçu chez beta.gouv.fr doit :
 * **afficher l’**[**état de conformité**](https://accessibilite.numerique.gouv.fr/obligations/mentions-et-pages-obligatoires/) **du site** sur la page d’accueil
 * **publier une** [**déclaration de conformité**](https://betagouv.github.io/a11y-generateur-declaration/)
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Démarche Simplifiées affiche sa mention de conformité (partiellement conforme) en fin de page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Démarche Simplifiées affiche sa mention de conformité (partiellement conforme) en fin de page</p></figcaption></figure>
 
 Ces obligations sont valables dès la mise en ligne du site, même si le service n'a pas encore été audité (on indiquera alors la mention "Accessibilité : non conforme")
 
