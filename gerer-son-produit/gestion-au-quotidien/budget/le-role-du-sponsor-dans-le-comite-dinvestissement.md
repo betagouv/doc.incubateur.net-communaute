@@ -72,7 +72,7 @@ En fonction des explications de l'équipe, **3 options s'offrent au sponsor**:\
 
 * Vous n'accordez pas de budget, l'équipe est dissoute et le produit "meurt"
 
-**Attention : Le montant total d'investissement n'est pas un critère très pertinent.** D'ailleurs il est normal que le montant total soit très faible mais augmente d'un comité au suivant. **Le ratio coût/impact est a préféré** . Celui-ci baisse généralement d'un comité au suivant, parfois de plusieurs ordres de grandeur.
+**Attention : Le montant total d'investissement n'est pas un critère très pertinent.** D'ailleurs il est normal que le montant total soit très faible mais augmente d'un comité au suivant. **Le ratio coût/impact est à préférer** . Celui-ci baisse généralement d'un comité au suivant, parfois de plusieurs ordres de grandeur.
 
 ### Comment préparer le comité ?
 
