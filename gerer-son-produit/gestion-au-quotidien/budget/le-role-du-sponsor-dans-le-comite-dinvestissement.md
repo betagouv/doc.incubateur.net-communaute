@@ -2,13 +2,7 @@
 
 ### Qu'est-ce qu'un comité d'investissement ?
 
-Le comité d'investissement est un moment structurant de la vie d'une startup d'Etat, ayant lieu tous les 6 mois et réunissant l'équipe du produit, le(s) sponsor(s) et les parties prenantes au produit, autour d'**un objectif principal** : décider, au regard de l'impact, du montant à investir sur les 6 prochains mois.
-
-Il permet de faire le point sur l'atteinte des objectifs fixés précédemment, sur l'impact obtenu par l'équipe en charge du produit, permets de fixer les prochains objectifs et d'**arbitrer les investissements** consentis par la (ou les) administration(s) sponsor(s).
-
-Si le service n'a pas réussi à prouver son utilité, c'est au comité d'investissement qu'est décidé son arrêt ; au contraire, si les résultats du service sont probants, le comité d'investissement décide de continuer d'investir.\
-\
-Le comité d'investissement est pensé pour simplifier le pilotage par le sponsor de ses projets numériques. Ce format simplifié lui permet de se focaliser sur l'essentiel, à savoir : obtenir un impact rapide dans un budget contenu.
+Le comité d'investissement réunit l'équipe du produit, le(s) sponsor(s) et les parties prenantes, avec pour **objectif principal** de décider, au regard de l'impact, du montant à investir sur les 6 prochains mois. Il permet de faire le point sur l'atteinte des objectifs fixés précédemment, de fixer les prochains objectifs et d'**arbitrer les investissements**. Le comité d'investissement décide de continuer ou d'arrêter un service en fonction de son utilité et de ses résultats.
 
 ### Quel est le déroulé du comité ?
 
