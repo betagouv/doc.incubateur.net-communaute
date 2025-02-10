@@ -13,7 +13,7 @@ description: >-
 
 * [ ] Si ce n'est pas déjà fait : [créer sa fiche membre](../../les-outils-de-la-communaute/espace-membre/premier-pas-indispensable-creer-ta-fiche-membre.md)
 * [ ] Lire l'email de bienvenue dans la communauté et regarder [la vidéo de présentation de beta.gouv](https://www.youtube.com/watch?v=TvFlxDMlbfo)
-* [ ] Prendre connaissance [des modalités de travail et de la culture d'organisation de beta.gouv.fr](../../decouvrir-beta.gouv.fr/valeurs/)
+* [ ] Prendre connaissance [des modalités de travail et de la culture d'organisation de beta.gouv.fr](../../decouvrir-beta.gouv.fr/valeurs.md)
 * [ ] Découvrir son équipe :
   * [ ] Rejoindre ses canaux sur Mattermost
   * [ ] S'imprégner de la mission sur la **fiche produit** disponible sur beta.gouv.fr/startups.
@@ -45,18 +45,18 @@ description: >-
 
 A l'exception des cas où ton administration publique de rattachement ne dispose pas encore d'un incubateur maison (auquel cas tu es rattachée par défaut à l'[incubateur de la DINUM](../../decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/)), nous t'invitons à découvrir si ce n'est pas déjà fait les espaces de documentation spécifiques à ta structure.
 
-| Nom de l'incubateur                       | Liens utiles                                                                                                                                                         |
-| ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Fabrique numérique des Affaires sociales  | [site internet ](https://www.fabrique.social.gouv.fr) - [documentation technique](https://github.com/SocialGouv/www/wiki/Social-Gouv-Tech-Welcome-Pack-%F0%9F%96%96) |
-| Fabrique numérique de l'Écologie          | [documentation](https://fabrique-numerique.gitbook.io/guide/)                                                                                                        |
-| Fabrique numérique des Armées             |                                                                                                                                                                      |
-| Fabrique Pôle emploi                      |                                                                                                                                                                      |
-| Lab MI (ministère de l'Intérieur)         |                                                                                                                                                                      |
-| Incubateur des territoires                | [site internet](https://incubateur.anct.gouv.fr)                                                                                                                     |
-| Incubateur du ministère de l'économie     |                                                                                                                                                                      |
-| Atelier numérique de la culture           | [documentation](https://atelier-numerique.gitbook.io/atelier-numerique-le-guide/)                                                                                    |
-| Atelier numérique des affaires étrangères |                                                                                                                                                                      |
-| Incubateur de l'ANSSI                     |                                                                                                                                                                      |
+| Nom de l'incubateur                       | Liens utiles                                                                                                                                                        |
+| ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Fabrique numérique des Affaires sociales  | [site internet ](https://www.fabrique.social.gouv.fr)- [documentation technique](https://github.com/SocialGouv/www/wiki/Social-Gouv-Tech-Welcome-Pack-%F0%9F%96%96) |
+| Fabrique numérique de l'Écologie          | [documentation](https://fabrique-numerique.gitbook.io/guide/)                                                                                                       |
+| Fabrique numérique des Armées             |                                                                                                                                                                     |
+| Fabrique Pôle emploi                      |                                                                                                                                                                     |
+| Lab MI (ministère de l'Intérieur)         |                                                                                                                                                                     |
+| Incubateur des territoires                | [site internet](https://incubateur.anct.gouv.fr)                                                                                                                    |
+| Incubateur du ministère de l'économie     |                                                                                                                                                                     |
+| Atelier numérique de la culture           | [documentation](https://atelier-numerique.gitbook.io/atelier-numerique-le-guide/)                                                                                   |
+| Atelier numérique des affaires étrangères |                                                                                                                                                                     |
+| Incubateur de l'ANSSI                     |                                                                                                                                                                     |
 
 ## Le premier mois
 
@@ -70,7 +70,7 @@ A l'exception des cas où ton administration publique de rattachement ne dispose
   * [ ] Rencontre bizdev : comment déployer les startups 🔒`#incubateur-bizdev`
   * [ ] Rencontre intra : comment les agents publiques créent leurs startups 🔒`#domaine-intrapreneurs`
   * [ ] Organiser ta propre rencontre sur un sujet qui te botte !
-* [ ] \[Si tu rejoins une nouvelle startup], créer avec ton équipe une **fiche produit** sur beta.gouv.fr, [directement sur Github](https://github.com/betagouv/beta.gouv.fr/tree/master/content/\_startups) en passant par l'interface de gestion des fiches produits sur l'espace membre. Tu peux t'inspirer [des autres produits](https://beta.gouv.fr/startups/) pour le format et contenu.
+* [ ] \[Si tu rejoins une nouvelle startup], créer avec ton équipe une **fiche produit** sur beta.gouv.fr, [directement sur Github](https://github.com/betagouv/beta.gouv.fr/tree/master/content/_startups) en passant par l'interface de gestion des fiches produits sur l'espace membre. Tu peux t'inspirer [des autres produits](https://beta.gouv.fr/startups/) pour le format et contenu.
 
 ## Au cours des 6 premiers mois
 

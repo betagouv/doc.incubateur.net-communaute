@@ -1,7 +1,8 @@
 ---
 description: >-
-  🧭 Toutes les ressources pour aider les membres de la communauté à s'y
-  retrouver dans l'organisation beta.gouv.fr.
+  Tu découvriras ici l'ensemble des règles, principes et bonnes pratiques qui
+  organisent la communauté beta.gouv ainsi que toutes autres ressources te
+  permettant de mieux t'y retrouver !
 layout:
   title:
     visible: true
@@ -17,11 +18,14 @@ layout:
 
 # 👋 Bienvenue sur le guide de la communauté beta.gouv.fr
 
+\
+
+
 {% hint style="info" %}
 **Gagne du temps** en utilisant le moteur de recherche en haut à droite de l'écran **"Rechercher".**
 {% endhint %}
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>🆕 Découvrir beta.gouv.fr</strong> </td><td></td><td></td><td><a href=".gitbook/assets/bf05f48f-8a72-42ee-a52b-1de476aa046d.webp">bf05f48f-8a72-42ee-a52b-1de476aa046d.webp</a></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>🥳 Je me tiens informé(e) des évènements à venir</strong></td><td></td><td></td><td><a href=".gitbook/assets/photos forum.png">photos forum.png</a></td><td><a href="decouvrir-beta.gouv.fr/la-communaute-todo/les-rituels/">les-rituels</a></td></tr><tr><td><strong>🧑🏽‍🤝‍👩🏼Je découvre l'Incubateur de services numériques de la DINUM</strong></td><td></td><td></td><td><a href=".gitbook/assets/photo equipe.png">photo equipe.png</a></td><td><a href="decouvrir-beta.gouv.fr/incubateur-de-la-dinum/">incubateur-de-la-dinum</a></td></tr><tr><td><strong>📖 J'accède aux formations proposées à la communauté</strong></td><td></td><td></td><td><a href=".gitbook/assets/métiersbeta.webp">métiersbeta.webp</a></td><td><a href="travailler-chez-beta.gouv.fr/se-former/">se-former</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>🆕 Découvrir beta.gouv.fr</strong></td><td></td><td></td><td><a href=".gitbook/assets/bf05f48f-8a72-42ee-a52b-1de476aa046d.webp">bf05f48f-8a72-42ee-a52b-1de476aa046d.webp</a></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>🥳 Je me tiens informé(e) des évènements à venir</strong></td><td></td><td></td><td><a href=".gitbook/assets/photos forum.png">photos forum.png</a></td><td><a href="decouvrir-beta.gouv.fr/la-communaute-todo/les-rituels/">les-rituels</a></td></tr><tr><td><strong>🧑🏽‍🤝‍👩🏼Je découvre l'Incubateur de services numériques de la DINUM</strong></td><td></td><td></td><td><a href=".gitbook/assets/photo equipe.png">photo equipe.png</a></td><td><a href="decouvrir-beta.gouv.fr/incubateur-de-la-dinum/">incubateur-de-la-dinum</a></td></tr><tr><td><strong>📖 J'accède aux formations proposées à la communauté</strong></td><td></td><td></td><td><a href=".gitbook/assets/métiersbeta.webp">métiersbeta.webp</a></td><td><a href="travailler-chez-beta.gouv.fr/se-former/">se-former</a></td></tr></tbody></table>
 
 ## Pour bien démarrer, choisis ta situation :
 
@@ -29,7 +33,7 @@ layout:
 [to-do-darrivee](travailler-chez-beta.gouv.fr/to-do-darrivee/)
 {% endcontent-ref %}
 
-### Tu as repéré une erreur dans ce guide ? Tu as des idées de documentation ?&#x20;
+### Tu as repéré une erreur dans ce guide ? Tu as des idées de documentation ?
 
 {% content-ref url="les-outils-de-la-communaute/documentation/comment-contribuer-a-cette-documentation.md" %}
 [comment-contribuer-a-cette-documentation.md](les-outils-de-la-communaute/documentation/comment-contribuer-a-cette-documentation.md)
@@ -53,8 +57,8 @@ layout:
 [observatoire-revenus.md](travailler-chez-beta.gouv.fr/les-differents-statuts/independants-freelances/observatoire-revenus.md)
 {% endcontent-ref %}
 
-{% content-ref url="decouvrir-beta.gouv.fr/valeurs/" %}
-[valeurs](decouvrir-beta.gouv.fr/valeurs/)
+{% content-ref url="decouvrir-beta.gouv.fr/valeurs.md" %}
+[valeurs.md](decouvrir-beta.gouv.fr/valeurs.md)
 {% endcontent-ref %}
 
 {% content-ref url="gerer-son-produit/les-standards/accessibilite-and-inclusion/" %}

@@ -1,8 +1,8 @@
 # 🤗 La communauté
 
-La **communauté beta.gouv.fr** désigne toutes les personnes qui travaillent au sein du réseau beta.gouv.fr, quel que soit leur rôle, leur statut, leur incubateur, leur rattachement.
+**La communauté beta.gouv.fr** est constituée de l’ensemble des membres des produits et des incubateurs référencés sur la page réseau d’incubateurs du site beta.gouv.fr .
 
-Tous les membres sont référencés sur la [page Communauté](https://beta.gouv.fr/communaute/) et peuvent être contactés sur l'espace Mattersmost ; on parle parfois aussi de **réseau beta.gouv.fr** pour désigner le [réseau des](https://beta.gouv.fr/approche/incubateurs)[ incubateurs](../les-incubateurs-du-reseau-beta.gouv.fr-to-do/) dans lesquels sont incubés les produits numériques.
+Tous les membres doivent être inscrits sur l'espace membre et sont référencés sur la [page Communauté](https://beta.gouv.fr/communaute/). Ils peuvent  par défaut être contactés sur l'espace Mattersmost mais vous trouverez d'autres contacts sur leur fiche membre, dans l'espace membre.
 
 {% content-ref url="les-rituels/" %}
 [les-rituels](les-rituels/)

@@ -1,6 +1,7 @@
 # Table of contents
 
 * [👋 Bienvenue sur le guide de la communauté beta.gouv.fr](README.md)
+  * [Destination et périmètre de la documentation](readme/destination-et-perimetre-de-la-documentation.md)
 
 ## Découvrir beta.gouv.fr
 
@@ -9,8 +10,7 @@
 * [🚀 L'impact du programme beta.gouv.fr](decouvrir-beta.gouv.fr/limpact-du-programme-beta.gouv.fr/README.md)
   * [Les services numériques à impact national](decouvrir-beta.gouv.fr/limpact-du-programme-beta.gouv.fr/services-numeriques-a-impact-national.md)
   * [Bilans du programme](decouvrir-beta.gouv.fr/limpact-du-programme-beta.gouv.fr/bilans-du-programme.md)
-* [💚 Les valeurs](decouvrir-beta.gouv.fr/valeurs/README.md)
-  * [Code de conduite](decouvrir-beta.gouv.fr/valeurs/normes-de-conduite.md)
+* [💚 Les valeurs](decouvrir-beta.gouv.fr/valeurs.md)
 * [🧪 L'incubateur de la DINUM](decouvrir-beta.gouv.fr/incubateur-de-la-dinum/README.md)
   * [L'équipe d'animation beta.gouv.fr](decouvrir-beta.gouv.fr/incubateur-de-la-dinum/lequipe-danimation-beta.gouv.fr.md)
 * [⚛️ Les incubateurs du réseau beta.gouv.fr](decouvrir-beta.gouv.fr/les-incubateurs-du-reseau-beta.gouv.fr-to-do/README.md)
@@ -19,6 +19,11 @@
   * [🎨 Atelier numérique de la culture](https://atelier-numerique.gitbook.io/atelier-numerique-le-guide)
   * [📍 Incubateur des territoires](https://incubateur.anct.gouv.fr/)
 * [🤗 La communauté](decouvrir-beta.gouv.fr/la-communaute-todo/README.md)
+  * [Régles et normes de travail](decouvrir-beta.gouv.fr/la-communaute-todo/normes-de-conduite/README.md)
+    * [Règles sur la liberté d'expression](decouvrir-beta.gouv.fr/la-communaute-todo/normes-de-conduite/regles-sur-la-liberte-dexpression/README.md)
+      * [Le principe de neutralité](decouvrir-beta.gouv.fr/la-communaute-todo/normes-de-conduite/regles-sur-la-liberte-dexpression/le-principe-de-neutralite.md)
+    * [Organisation horizontale et prise de décision](decouvrir-beta.gouv.fr/la-communaute-todo/normes-de-conduite/organisation-horizontale-et-prise-de-decision/README.md)
+      * [Obéissance hiérarchique](decouvrir-beta.gouv.fr/la-communaute-todo/normes-de-conduite/organisation-horizontale-et-prise-de-decision/obeissance-hierarchique.md)
   * [Les rituels](decouvrir-beta.gouv.fr/la-communaute-todo/les-rituels/README.md)
     * [Le forum mensuel beta.gouv.fr](decouvrir-beta.gouv.fr/la-communaute-todo/les-rituels/seminaire.md)
     * [Les clubs de partage d'expérience](decouvrir-beta.gouv.fr/la-communaute-todo/les-rituels/clubs-de-partage-dexperience.md)

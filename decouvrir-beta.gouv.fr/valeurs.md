@@ -1,7 +1,9 @@
 # 💚 Les valeurs
 
 {% hint style="info" %}
-Nos valeurs sont le reflet de l'idéal de notre communauté, le but à atteindre. Elles sont immuables, cependant nous sommes conscients que la communauté est, elle, en perpétuelle évolution. Par conséquent, il nous incombe de régulièrement nous évaluer et d'entreprendre des actions pour nous approcher toujours plus de cet idéal.
+Nos valeurs sont le reflet de l'idéal de notre communauté, le but à atteindre. Elles sont immuables mais la communauté est en constante évolution. Par conséquent, il nous incombe de nous évaluer régulièrement et d'entreprendre des actions pour nous approcher toujours plus de cet idéal, notamment en améliorant nos standards.\
+\
+[**Les valeurs sont résumées dans le manifeste beta.gouv.fr.**](https://beta.gouv.fr/manifeste)
 {% endhint %}
 
 ### **Une volonté : défendre l’intérêt général par le service public**
@@ -29,12 +31,12 @@ Au sein d’une équipe beta.gouv.fr, il n’y pas d’un côté des personnes q
 Au lieu de passer beaucoup de temps à élaborer une feuille de route ou un cahier des charges détaillé, on va préférer rapidement identifier un problème actionnable et bricoler une première version - imparfaite ! - de la solution. On va regarder l’usage de cette première version de solution, et l’améliorer petit à petit. Par exemple, au lieu de sortir un projet numérique qui est censé tout révolutionner à sa sortie mais seulement dans dix ans, on développe une première version sans code - une feuille de calcul, un site en ligne pré-construit, un formulaire en ligne - sur un périmètre - territorial, d’usager – restreint. A partir des retours des usagers, on améliore peu à peu ce mode conciergerie et une fois qu’on a assez de connaissance et qu’on est sûr que des usagers l’utiliseront, on développe un produit en propre. Par la suite, on essaye de faire passer ce produit à l'échelle tout en continuant à le modifier pour qu’ils répondent mieux aux problèmes des usagers.
 
 {% hint style="info" %}
-À ce sujet, vous pouvez utilement lire le billet de blog [_The strategy is delivery_](https://mikebracken.com/blog/the-strategy-is-delivery-again/)_,_ où **Mike Bracken**, co-fondateur du [Government Digital Service](https://fr.wikipedia.org/wiki/Government\_Digital\_Service), raconte pourquoi en matière de services numériques, il vaut mieux ne pas perdre de temps à élaborer une stratégie long-terme où tout a été pensé à l'avance.
+À ce sujet, vous pouvez utilement lire le billet de blog [_The strategy is delivery_](https://mikebracken.com/blog/the-strategy-is-delivery-again/)_,_ où **Mike Bracken**, co-fondateur du [Government Digital Service](https://fr.wikipedia.org/wiki/Government_Digital_Service), raconte pourquoi en matière de services numériques, il vaut mieux ne pas perdre de temps à élaborer une stratégie long-terme où tout a été pensé à l'avance.
 {% endhint %}
 
 **Avoir le droit à l’erreur**
 
-Nous savons que nous commettons toutes et tous des erreurs, et savons aussi que ceux-ci permettent d'apprendre et de progresser. Trop de services numériques publics ne fonctionnent pas vraiment, sans que personne ne l'assume car classiquement, l'administration n'a pas le droit à l'erreur. Chez beta.gouv.fr, les équipes peuvent tester des solutions qui parfois ne trouveront pas leur public. Dans ces cas-là, nous les invitons à prendre acte et à documenter, via un [post-mortem](https://fr.wikipedia.org/wiki/Retour\_d'exp%C3%A9rience) (retour d'expérience).
+Nous savons que nous commettons toutes et tous des erreurs, et savons aussi que ceux-ci permettent d'apprendre et de progresser. Trop de services numériques publics ne fonctionnent pas vraiment, sans que personne ne l'assume car classiquement, l'administration n'a pas le droit à l'erreur. Chez beta.gouv.fr, les équipes peuvent tester des solutions qui parfois ne trouveront pas leur public. Dans ces cas-là, nous les invitons à prendre acte et à documenter, via un [post-mortem](https://fr.wikipedia.org/wiki/Retour_d'exp%C3%A9rience) (retour d'expérience).
 
 **Faire pour et avec les usagers**
 
