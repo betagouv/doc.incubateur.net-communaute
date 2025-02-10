@@ -19,7 +19,7 @@
   * [🎨 Atelier numérique de la culture](https://atelier-numerique.gitbook.io/atelier-numerique-le-guide)
   * [📍 Incubateur des territoires](https://incubateur.anct.gouv.fr/)
 * [🤗 La communauté](decouvrir-beta.gouv.fr/la-communaute-todo/README.md)
-  * [Régles et normes de travail](decouvrir-beta.gouv.fr/la-communaute-todo/normes-de-conduite/README.md)
+  * [Régles et bonnes pratiques de travail](decouvrir-beta.gouv.fr/la-communaute-todo/normes-de-conduite/README.md)
     * [Règles sur la liberté d'expression](decouvrir-beta.gouv.fr/la-communaute-todo/normes-de-conduite/regles-sur-la-liberte-dexpression/README.md)
       * [Le principe de neutralité](decouvrir-beta.gouv.fr/la-communaute-todo/normes-de-conduite/regles-sur-la-liberte-dexpression/le-principe-de-neutralite.md)
     * [Organisation horizontale et prise de décision](decouvrir-beta.gouv.fr/la-communaute-todo/normes-de-conduite/organisation-horizontale-et-prise-de-decision/README.md)
