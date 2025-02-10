@@ -18,6 +18,6 @@ D’une façon générale, le juge estime qu’un attributaire ne dispose d’au
 
 * Indépendants
 
-Les indépendants exécutent des prestations de service confiées par les attributaires. Il en résulte que les droits et obligations des freelances relèvent des contrats spécifiques avec les attributaires. Il faut se référer au contenu de ce contrat pour déterminer les modalités de résiliation ou de retrait d’une prestation.
+Les indépendants exécutent des prestations de service confiées par les attributaires. Il en résulte que les droits et obligations des indépendants relèvent des contrats spécifiques avec les attributaires. Il faut se référer au contenu de ce contrat pour déterminer les modalités de résiliation ou de retrait d’une prestation.
 
 </details>
