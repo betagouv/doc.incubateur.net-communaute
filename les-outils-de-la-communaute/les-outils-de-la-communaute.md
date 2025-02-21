@@ -4,7 +4,11 @@ hidden: true
 
 # Les outils de la communauté
 
-###
+L'équipe beta.gouv propose plusieurs services partagés en mode "best effort".
+
+Votre équipe est libre de déployer ses propres services au besoin.
+
+La communauté beta.gouv.fr bénéficie de tous les services proposés par [la suite numérique](https://lasuite.numerique.gouv.fr/).
 
 ### Les outils indispensables
 
