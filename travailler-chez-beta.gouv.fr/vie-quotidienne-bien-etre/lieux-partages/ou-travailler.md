@@ -40,7 +40,7 @@ Il est accessible uniquement sur réservation en remplissant le formulaire suiva
 
 6 Boulevard St Denis, 75010 Paris
 
-Il arrive que des places soient inoccupées dans les locaux du [GIP Plateforme de l'inclusion](https://inclusion.gouv.fr) et de [la Mednum](https://lamednum.coop).
+Il arrive que des places soient inoccupées dans les locaux du [GIP Plateforme de l'inclusion](https://inclusion.gouv.fr) et de [la Mednum](https://lamednum.coop) pour des individus. Les salles de réunion ne sont malheureusement pas disponibles pour accueillir des groupes extérieurs.
 
 Faire une demande sur le canal Mattermost [\~gip-inclusion-locaux](https://mattermost.incubateur.net/betagouv/channels/gip-inclusion-locaux), pour voir s'il reste de la place et qui sera là pour vous ouvrir.
 
