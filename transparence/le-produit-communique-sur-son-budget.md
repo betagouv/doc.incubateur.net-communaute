@@ -1,0 +1,1 @@
+# Le produit communique sur son budget.

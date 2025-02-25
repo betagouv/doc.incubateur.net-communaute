@@ -1,0 +1,1 @@
+# Le service n'utilise pas des adresses mail "ne-pas-répondre" ou "no-reply".

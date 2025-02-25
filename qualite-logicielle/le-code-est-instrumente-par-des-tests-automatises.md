@@ -1,0 +1,1 @@
+# Le code est instrumenté par des tests automatisés.

@@ -1,0 +1,1 @@
+# Le code est écrit en utilisant les standards du langage et du framework.

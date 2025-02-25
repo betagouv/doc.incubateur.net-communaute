@@ -1,0 +1,1 @@
+# L'équipe a des rituels de recherche utilisateurs.

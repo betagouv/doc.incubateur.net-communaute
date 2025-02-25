@@ -1,0 +1,1 @@
+# Les environnements de dev/recette n'utilisent pas directement les données de prod.

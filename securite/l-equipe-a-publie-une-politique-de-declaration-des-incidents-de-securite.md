@@ -1,0 +1,1 @@
+# L'équipe a publié une politique de déclaration des incidents de sécurité.

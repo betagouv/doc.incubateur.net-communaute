@@ -1,0 +1,1 @@
+# L'équipe a mis en place un outil d'analyse statique du code type SonarCloud.

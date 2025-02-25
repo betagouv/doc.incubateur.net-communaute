@@ -1,0 +1,1 @@
+# Le produit a une politique de confidentialité.

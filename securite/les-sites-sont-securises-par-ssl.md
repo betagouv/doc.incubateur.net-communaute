@@ -1,0 +1,1 @@
+# Les sites sont sécurisés par SSL

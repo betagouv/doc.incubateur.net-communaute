@@ -1,0 +1,1 @@
+# L'équipe a une personne avec la compétence front accessibilité.

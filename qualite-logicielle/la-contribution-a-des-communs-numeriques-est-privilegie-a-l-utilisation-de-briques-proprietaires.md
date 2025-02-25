@@ -1,0 +1,1 @@
+# La contribution à des communs numériques est privilégié à l'utilisation de briques propriétaires.

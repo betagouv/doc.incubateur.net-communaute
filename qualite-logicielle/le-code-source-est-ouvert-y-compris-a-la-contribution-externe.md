@@ -1,0 +1,1 @@
+# Le code source est ouvert, y compris à la contribution externe.

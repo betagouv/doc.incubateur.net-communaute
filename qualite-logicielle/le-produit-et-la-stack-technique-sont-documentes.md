@@ -1,0 +1,1 @@
+# Le produit et la stack technique sont documentés.

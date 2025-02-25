@@ -1,0 +1,1 @@
+# Le produit a des CGU.
