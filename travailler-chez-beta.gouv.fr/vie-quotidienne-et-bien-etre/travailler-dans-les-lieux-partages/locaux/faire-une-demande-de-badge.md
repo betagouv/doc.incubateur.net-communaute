@@ -50,6 +50,10 @@ Ton badge d'accès à Ségur a une durée de validité qui dépend principalemen
 N'oublie pas de mettre à jour ta date de fin de mission sur ton espace membre ou nous ne pourrons demander la prolongation de ton badge !
 {% endhint %}
 
+## ⚠️ Rend ton badge quanc ta mission est terminée !
+
+Le badge doit obligatoirement être rendu aux services RH de la DINUM ou à défaut à votre référent.
+
 {% hint style="info" %}
 **Une erreur dans cette fiche ?**\
 Informez-nous sur [#incubateur-documentation](https://mattermost.incubateur.net/betagouv/channels/incubateur-documentation) ou à dinum@beta.gouv.fr

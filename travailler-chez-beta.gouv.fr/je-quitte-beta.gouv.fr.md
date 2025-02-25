@@ -17,6 +17,7 @@ Tu peux mettre à jour tes dates de mission [sur l'espace-membre](../les-outils-
 * [ ] Renseigner ta date de départ exacte dans [ton espace membre](../les-outils-de-la-communaute/espace-membre.md).
 * [ ] Retirer tes droits d'écriture de [l'agenda public de l'incubateur](https://calendar.google.com/calendar/embed?src=0ieonqap1r5jeal5ugeuhoovlg%40group.calendar.google.com\&ctz=Europe/Paris).
 * [ ] Si tu utilises GitHub : quitter l'organisation BetaGouv
+* [ ] Rendre les badges d'accès aux locaux (Ségur, Plateforme de l'inclusion etc)
 
 #### C'est optionnel
 
@@ -24,8 +25,6 @@ Tu peux mettre à jour tes dates de mission [sur l'espace-membre](../les-outils-
 * [ ] Faire un debrief d'une demi-heure de ton passage à l'Incubateur avec [un·e permanent·e](../decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/lequipe-danimation-beta.gouv.fr.md), pour qu'on puisse s'améliorer.
 * [ ] Annoncer la date de ton pot de départ sur [#general](https://mattermost.incubateur.net/betagouv/channels/town-square)
 * [ ] [Désactiver ton compte Mattermost](je-quitte-beta.gouv.fr.md#que-va-devenir-ton-compte-mattermost)
-
-
 
 ## Que se passe-t-il après ma date de fin de mission ?
 
