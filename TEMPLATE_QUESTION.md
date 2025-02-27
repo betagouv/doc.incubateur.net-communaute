@@ -9,7 +9,7 @@ roles:
 Description claire de la règle, ses enjeux, motivations, etc, succinte
 si possible (pas plus de quelques paragraphes).
 
-## Checklist
+## Critères
 
 - [ ] comment vérifier la règle
 

@@ -26,7 +26,7 @@ L'écosystème Beta est construit autour de l'open-source. Ce modèle
 permet de favoriser la transparence des produits, facilite la
 contribution et la maintenance.
 
-## Checklist
+## Critères
 
 - [ ] le code est librement consultable sur une forge comme GitHub ou GitLab.
 
