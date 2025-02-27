@@ -3,7 +3,7 @@
 ## Description
 
 Pour assurer la sécurité de votre projet, il est important que vos
-dépendances soit maintenues à jour. Des outils d'analyse et de mise à
+dépendances soient maintenues à jour. Des outils d'analyse et de mise à
 jour automatiques existent pour automatiser cette veille, comme
 [Dependabot](https://github.com/dependabot).
 
