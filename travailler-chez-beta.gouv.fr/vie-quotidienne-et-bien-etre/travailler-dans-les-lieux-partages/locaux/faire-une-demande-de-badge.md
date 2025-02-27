@@ -13,6 +13,7 @@ hidden: true
 *   **Complétez le formulaire ci-dessous et envoyez le par mail** au moins 7 jours ouvrés avant votre date d'arrivée souhaitée **à votre référent ISN/DINUM**, c'est-à-dire un membre de l'équipe ISN/DINUM avec qui vous êtes régulièrement en contact et qui vient souvent à Ségur.&#x20;
 
     **Ne pas modifier les lignes 6 (N° de salles), 7 (adresse mail), 15 (numéro de bdc chorus), 17 (détail sur la photo), 18 (signataire habilité).**\
+    **Ne pas indiquer une date de validité de plus d'un an !**\
     **N'oubliez pas de joindre votre photo d'identité sur fond blanc.**
 
 {% file src="../../../../.gitbook/assets/Formulaire accueil d'un prestataire modifiée .xlsx" %}
