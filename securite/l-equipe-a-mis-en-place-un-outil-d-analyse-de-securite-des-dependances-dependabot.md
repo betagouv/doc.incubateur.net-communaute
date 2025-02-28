@@ -1,1 +1,0 @@
-# L'équipe a mis en place un outil d'analyse de sécurité des dépendances (Dépendabot).
