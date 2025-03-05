@@ -3,4 +3,15 @@ from: construction
 ---
 # Le code est open-source
 
-Les produits du réseau doivent être développés en open-source.
+## Description
+
+Les produits du réseau doivent être développés en open-source pour encourager la transparence et la collaboration.
+
+## Critères
+
+- [ ] Le code est hébergé sur une plateforme publique.
+- [ ] Les contributions externes sont encouragées.
+
+## Ressources
+
+- [GitHub Open Source](https://github.com/open-source)

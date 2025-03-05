@@ -6,7 +6,7 @@ require 'active_support/core_ext/enumerable'
 
 # StructureChecker checks our rules headers
 class StructureChecker
-  REQUIRED_HEADERS = %w[Description Critères Références].freeze
+  REQUIRED_HEADERS = %w[Description Critères Ressources].freeze
 
   class << self
     def call(filename)
