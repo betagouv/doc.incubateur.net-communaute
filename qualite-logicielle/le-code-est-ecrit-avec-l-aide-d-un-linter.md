@@ -9,7 +9,7 @@ Des outils d'analyse/formattage de code, les linters, sont disponibles pour éva
 - [ ] Un linter est en place sur le projet.
 - [ ] L'intégration (CI/CD) intègre le linter.
 
-## Références
+## Ressources
 
 * Javascript :
   * [ESLint](https://eslint.org/)

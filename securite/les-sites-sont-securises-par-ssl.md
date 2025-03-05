@@ -8,7 +8,7 @@ SSL (Secure Sockets Layer) est un protocole de sécurité qui établit une conne
 
 Votre environnement de production opère des connexions sécurisés via HTTPS. Les requêtes non sécurisées (HTTP) sont automatiquement redirigées vers la version sécurisée.
 
-## Références
+## Ressources
 
 - [Configurer le SSL sur Scalingo](https://doc.scalingo.com/platform/app/ssl)
 - [Header HTTP HSTS](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Strict-Transport-Security)

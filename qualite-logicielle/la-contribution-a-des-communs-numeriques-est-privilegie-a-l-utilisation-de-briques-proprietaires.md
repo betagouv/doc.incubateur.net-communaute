@@ -10,4 +10,4 @@ Quand cela est possible, l'équipe contribue aux projets open-source utilisés.
 
 - [ ] Le produit est basé uniquement sur des composants open-source
 
-## Références
+## Ressources
