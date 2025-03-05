@@ -6,7 +6,7 @@
 
 require_relative '../../scripts/check_document_structure'
 
-EXCLUDED = ['README.md', 'TEMPLATE_QUESTION.md'].freeze
+EXCLUDED = ['README.md'].freeze
 
 changed_files = `git diff --cached --name-only --diff-filter=AM`
                 .strip
@@ -14,7 +14,7 @@ changed_files = `git diff --cached --name-only --diff-filter=AM`
 
 rules = changed_files
         .select { |file| file.end_with?('.md') }
-        .reject { |file| EXCLUDED.include?(file) }
+        .reject { |file| EXCLUDED.include?(File.basename(file)) }
 
 rules.each do |file|
   StructureChecker.call(file)
