@@ -19,5 +19,7 @@ def rename_file_based_on_header(file_path)
   puts "File renamed to: #{new_file_path}"
 end
 
-# Example usage
-rename_file_based_on_header('accessibilite/l-equipe-a-identifie-ses-problematiques-specifiques-cartographie-contenus-simplifies-dataviz-appli-metier.md')
+# Process each file provided in ARGV
+ARGV.each do |file_path|
+  rename_file_based_on_header(file_path)
+end
