@@ -7,6 +7,7 @@ Le projet utilise des tests automatisés pour garantir la qualité du code et pr
 ## Critères
 
 - [ ] Une suite de tests automatisés est en place.
+- [ ] La suite de tests est intégrée dans la CI/CD du projet
 - [ ] Les tests sont exécutés à chaque déploiement.
 
 ## Ressources
