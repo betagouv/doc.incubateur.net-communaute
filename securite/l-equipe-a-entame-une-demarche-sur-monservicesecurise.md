@@ -1,8 +1,10 @@
-# L'équipe a entamé une démarche sur MonServiceSécurisé.
+# L'équipe a entamé une démarche sur MonServiceSécurisé
 
 ## Description
 
-L'équipe a initié une démarche pour renforcer la sécurité du service en utilisant MonServiceSécurisé, une plateforme dédiée à la sécurité des services numériques.
+L'équipe a initié une démarche pour renforcer la sécurité du service en
+utilisant MonServiceSécurisé, une plateforme dédiée à la sécurité des services
+numériques.
 
 ## Critères
 

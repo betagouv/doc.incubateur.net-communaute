@@ -1,8 +1,9 @@
-# L'équipe a des rituels de recherche utilisateurs.
+# L'équipe a des rituels de recherche utilisateurs
 
 ## Description
 
-L'équipe organise régulièrement des sessions de recherche utilisateurs pour recueillir des retours et améliorer le produit.
+L'équipe organise régulièrement des sessions de recherche utilisateurs pour
+recueillir des retours et améliorer le produit.
 
 ## Critères
 

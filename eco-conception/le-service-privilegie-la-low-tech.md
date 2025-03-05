@@ -2,7 +2,8 @@
 
 ## Description
 
-Le service adopte une approche low-tech pour minimiser l'impact environnemental et maximiser l'efficacité.
+Le service adopte une approche low-tech pour minimiser l'impact environnemental
+et maximiser l'efficacité.
 
 ## Critères
 

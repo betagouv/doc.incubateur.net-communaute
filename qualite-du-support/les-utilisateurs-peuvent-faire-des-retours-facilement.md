@@ -1,8 +1,9 @@
-# Les utilisateurs peuvent faire des retours facilement.
+# Les utilisateurs peuvent faire des retours facilement
 
 ## Description
 
-Le service met en place des mécanismes simples et accessibles pour que les utilisateurs puissent donner leur avis et signaler des problèmes.
+Le service met en place des mécanismes simples et accessibles pour que les
+utilisateurs puissent donner leur avis et signaler des problèmes.
 
 ## Critères
 

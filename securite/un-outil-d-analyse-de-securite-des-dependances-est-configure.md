@@ -2,7 +2,10 @@
 
 ## Description
 
-Pour assurer la sécurité de votre projet, il est important que vos dépendances soient maintenues à jour. Des outils d'analyse et de mise à jour automatiques existent pour automatiser cette veille, comme [Dependabot](https://github.com/dependabot).
+Pour assurer la sécurité de votre projet, il est important que vos dépendances
+soient maintenues à jour. Des outils d'analyse et de mise à jour automatiques
+existent pour automatiser cette veille, comme
+[Dependabot](https://github.com/dependabot).
 
 ## Critères
 
@@ -10,4 +13,4 @@ Pour assurer la sécurité de votre projet, il est important que vos dépendance
 
 ## Ressources
 
-- [Dependabot Quickstart Guide](https://docs.github.com/fr/code-security/getting-started/dependabot-quickstart-guide)
+- [Documentation Dependabot](https://docs.github.com/fr/code-security/getting-started/dependabot-quickstart-guide)

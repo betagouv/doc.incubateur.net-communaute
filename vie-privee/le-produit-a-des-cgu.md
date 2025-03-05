@@ -1,8 +1,9 @@
-# Le produit a des CGU.
+# Le produit a des CGU
 
 ## Description
 
-Le produit dispose de Conditions Générales d'Utilisation (CGU) claires et accessibles, définissant les droits et obligations des utilisateurs.
+Le produit dispose de Conditions Générales d'Utilisation (CGU) claires et
+accessibles, définissant les droits et obligations des utilisateurs.
 
 ## Critères
 

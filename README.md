@@ -35,6 +35,28 @@ contribution et la maintenance.
 https://doc.incubateur.net/communaute/gerer-son-produit/les-standards/eco-conception#des-services-durables
 ```
 
+## Syntaxe
+
+Pour garantir l'homogénéité des règles, le linter
+[markdownlint](https://github.com/DavidAnson/markdownlint) est utilisé
+pour les fiches, par exemple :
+
+- les titres ne doivent pas finir par des points ;
+- le corps de texte ne doit pas dépasser 80 caractères ;
+- les marqueurs de liste doivent être homogènes ;
+- etc.
+
+Vous pouvez consulter la [liste des
+règles](https://github.com/DavidAnson/markdownlint?tab=readme-ov-file#rules--aliases)
+et installer [une extension pour votre
+éditeur](https://github.com/DavidAnson/markdownlint?tab=readme-ov-file#related).
+
+Pour lancer le linting :
+
+```sh
+npm run lint
+```
+
 ## Feuille de route
 
 - [ ] remplir les descriptions : pourquoi règle X ? peut-être même une checklist pour vérifier [façon WCAG](https://www.w3.org/TR/2016/NOTE-WCAG20-TECHS-20161007/H90))

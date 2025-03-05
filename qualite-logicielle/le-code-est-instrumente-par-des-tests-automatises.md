@@ -1,8 +1,9 @@
-# Le code est instrumenté par des tests automatisés.
+# Le code est instrumenté par des tests automatisés
 
 ## Description
 
-Le projet utilise des tests automatisés pour garantir la qualité du code et prévenir les régressions lors des mises à jour.
+Le projet utilise des tests automatisés pour garantir la qualité du code et
+prévenir les régressions lors des mises à jour.
 
 ## Critères
 

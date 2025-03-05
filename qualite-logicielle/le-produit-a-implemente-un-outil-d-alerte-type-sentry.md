@@ -1,8 +1,9 @@
-# Le produit a implementé un outil d'alerte type Sentry.
+# Le produit a implementé un outil d'alerte type Sentry
 
 ## Description
 
-Le produit utilise un outil de monitoring et d'alerte pour détecter et signaler les erreurs en temps réel.
+Le produit utilise un outil de monitoring et d'alerte pour détecter et signaler
+les erreurs en temps réel.
 
 ## Critères
 

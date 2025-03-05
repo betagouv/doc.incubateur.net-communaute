@@ -1,8 +1,9 @@
-# Le produit suit ses bonnes pratiques sur le Dashlord.
+# Le produit suit ses bonnes pratiques sur le Dashlord
 
 ## Description
 
-Le produit utilise Dashlord pour suivre et améliorer ses pratiques en matière de qualité, de sécurité et de performance.
+Le produit utilise Dashlord pour suivre et améliorer ses pratiques en matière
+de qualité, de sécurité et de performance.
 
 ## Critères
 

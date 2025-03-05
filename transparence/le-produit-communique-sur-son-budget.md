@@ -1,8 +1,9 @@
-# Le produit communique sur son budget.
+# Le produit communique sur son budget
 
 ## Description
 
-Le produit publie régulièrement des informations sur son budget pour assurer la transparence financière et l'engagement des parties prenantes.
+Le produit publie régulièrement des informations sur son budget pour assurer la
+transparence financière et l'engagement des parties prenantes.
 
 ## Critères
 

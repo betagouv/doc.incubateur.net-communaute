@@ -1,8 +1,9 @@
-# La fiche du service est à jour.
+# La fiche du service est à jour
 
 ## Description
 
-La fiche descriptive du service est régulièrement mise à jour pour refléter les dernières informations et évolutions du projet.
+La fiche descriptive du service est régulièrement mise à jour pour refléter les
+dernières informations et évolutions du projet.
 
 ## Critères
 

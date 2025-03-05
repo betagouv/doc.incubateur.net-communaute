@@ -1,8 +1,9 @@
-# Le service utilise le DSFR.
+# Le service utilise le DSFR
 
 ## Description
 
-Le service utilise le Design System de l'État Français (DSFR) pour assurer une cohérence visuelle et fonctionnelle avec les autres services publics.
+Le service utilise le Design System de l'État Français (DSFR) pour assurer une
+cohérence visuelle et fonctionnelle avec les autres services publics.
 
 ## Critères
 
