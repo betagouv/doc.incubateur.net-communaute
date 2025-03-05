@@ -10,7 +10,13 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: latest
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.4.2
+          bundler-cache: true
       - name: "Installing project dependencies"
         run: npm i
       - name: "Linting with markdownlint"
-        run: npm run lint
+        run: make lint-md
+      - name: "Linting filenames"
+        run: make lint-filenames
