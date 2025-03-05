@@ -12,3 +12,4 @@ L'équipe a élaboré un plan d'action pour garantir que le produit respecte les
 ## Ressources
 
 - [Accessibilité numérique](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/)
+- [Liste des formations accessibilité proposées à Beta](https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/se-former/se-former-en-ligne/formation-a-laccessibilite)
