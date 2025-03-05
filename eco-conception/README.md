@@ -1,8 +1,9 @@
 # Éco-conception
 
-L'internet est une immense source de consommation d'énergie. Si
-c'était un pays, il serait le 3ᵉ plus gros consommateur d’électricité
-au monde, juste derrière les États-Unis et la Chine.
+[Le numérique consomme énormément d'énergie](https://infos.ademe.fr/magazine-janvier-2025/numerique-quel-impact-environnemental-en-2022/).
+
+Si c'était un pays, il serait le 3ᵉ plus gros consommateur
+d’électricité au monde, juste derrière les États-Unis et la Chine.
 
 L'éco-conception est essentielle pour minimiser l'impact
 environnemental des produits numériques. En intégrant des pratiques
