@@ -2,7 +2,8 @@
 
 ## Description
 
-Les APIs du projet sont documentées de manière claire et accessible à l'aide d'outils comme Swagger pour faciliter leur utilisation par les développeurs.
+Les APIs du projet sont documentées de manière claire et accessible à l'aide
+d'outils comme Swagger pour faciliter leur utilisation par les développeurs.
 
 ## Critères
 

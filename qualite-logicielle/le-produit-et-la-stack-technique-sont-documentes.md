@@ -1,8 +1,9 @@
-# Le produit et la stack technique sont documentés.
+# Le produit et la stack technique sont documentés
 
 ## Description
 
-La documentation du produit et de la stack technique est complète et à jour, facilitant la compréhension et la maintenance du projet.
+La documentation du produit et de la stack technique est complète et à jour,
+facilitant la compréhension et la maintenance du projet.
 
 ## Critères
 

@@ -1,8 +1,9 @@
-# Le service n'utilise pas des adresses mail "ne-pas-répondre" ou "no-reply".
+# Le service n'utilise pas des adresses mail "ne-pas-répondre" ou "no-reply"
 
 ## Description
 
-Le service s'assure que toutes les communications par e-mail permettent aux utilisateurs de répondre et d'interagir facilement.
+Le service s'assure que toutes les communications par e-mail permettent aux
+utilisateurs de répondre et d'interagir facilement.
 
 ## Critères
 

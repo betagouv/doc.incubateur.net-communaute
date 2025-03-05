@@ -1,8 +1,10 @@
-# Les environnements de dev/recette n'utilisent pas directement les données de prod.
+# Les données de production ne sont utilisées qu'en production
 
 ## Description
 
-Pour garantir la sécurité et la confidentialité, les environnements de développement et de recette n'utilisent pas directement les données de production.
+Pour garantir la sécurité et la confidentialité, les environnements de
+développement et de recette n'utilisent pas directement les données de
+production.
 
 ## Critères
 
@@ -11,4 +13,4 @@ Pour garantir la sécurité et la confidentialité, les environnements de dével
 
 ## Ressources
 
-- [Bonnes pratiques de gestion des données](https://www.example.com/bonnes-pratiques-donnees)
+-

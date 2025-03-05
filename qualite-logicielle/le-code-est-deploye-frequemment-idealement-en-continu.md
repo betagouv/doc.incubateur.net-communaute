@@ -1,8 +1,9 @@
-# Le code est déployé fréquemment, idéalement en continu.
+# Le code est déployé fréquemment, idéalement en continu
 
 ## Description
 
-Le projet adopte des pratiques de déploiement continu pour assurer des mises à jour régulières et une livraison rapide des nouvelles fonctionnalités.
+Le projet adopte des pratiques de déploiement continu pour assurer des mises à
+jour régulières et une livraison rapide des nouvelles fonctionnalités.
 
 ## Critères
 

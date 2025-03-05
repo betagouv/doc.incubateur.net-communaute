@@ -1,8 +1,10 @@
-# Le produit a des mentions légales.
+# Le produit a des mentions légales
 
 ## Description
 
-Le produit affiche des mentions légales complètes, conformément aux exigences légales, pour informer les utilisateurs sur l'identité de l'éditeur et les conditions d'utilisation.
+Le produit affiche des mentions légales complètes, conformément aux exigences
+légales, pour informer les utilisateurs sur l'identité de l'éditeur et les
+conditions d'utilisation.
 
 ## Critères
 
