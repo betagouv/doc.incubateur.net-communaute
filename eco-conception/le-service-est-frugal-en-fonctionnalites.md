@@ -12,3 +12,4 @@ Le service est conçu pour être simple et efficace, en évitant les fonctionnal
 ## Ressources
 
 - [Eco-conception numérique](https://ecoconception-numerique.com/)
+- [Référentiel général d'écoconception de services numériques (RGESN) - 2024](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/)
