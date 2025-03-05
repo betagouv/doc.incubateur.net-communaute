@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'active_support/core_ext/string'
 
 def rename_file_based_on_header(file_path, fix: false)
@@ -20,6 +22,7 @@ def rename_file_based_on_header(file_path, fix: false)
       puts "File renamed to: #{new_file_path}"
     else
       puts "File needs renaming: #{file_path} -> #{new_file_path}"
+      puts 'You can use `make fix-filenames` to fix it.'
       return false
     end
   end
@@ -30,8 +33,8 @@ end
 mode = ARGV.delete_at(0)
 
 # Process each file provided in ARGV
-exit_status = ARGV.map do |file_path|
+success = ARGV.all? do |file_path|
   rename_file_based_on_header(file_path, fix: mode == '--fix')
-end.all?
+end
 
-exit(1) unless exit_status
+exit(1) unless success

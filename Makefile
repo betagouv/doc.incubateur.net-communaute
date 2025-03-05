@@ -14,3 +14,6 @@ lint-md:
 
 lint-filenames:
 	bundle exec ruby scripts/rename_file_based_on_header.rb $(RULES)
+
+fix-filenames:
+	bundle exec ruby scripts/rename_file_based_on_header.rb --fix $(RULES)
