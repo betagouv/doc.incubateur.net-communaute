@@ -15,8 +15,6 @@ GitHub](./.github/ISSUE_TEMPLATE/l-equipe-propose-propose-un-nouveau-standard.md
 nom du fichier doit refléter le nom de la règle, et peut-être
 automatiquement ajusté avec `make fix-filenames`.
 
-## Syntaxe
-
 Pour garantir l'homogénéité des règles, le linter
 [markdownlint](https://github.com/DavidAnson/markdownlint) est utilisé
 pour les fiches, par exemple :
