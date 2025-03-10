@@ -15,8 +15,8 @@ l'importance du standard, le pourquoi du comment.
 Pour savoir si le standard est bien observé, proposez ici une liste de
 vérifications à effectuer :
 
-- [ ] souquer les artibuses ;
-- [ ] etc.
+- souquer les artibuses ;
+- etc.
 
 ## Ressources
 

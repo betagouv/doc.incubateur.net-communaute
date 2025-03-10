@@ -7,8 +7,8 @@ normes d'accessibilité en vigueur.
 
 ## Critères
 
-- [ ] Un plan d'action détaillé est documenté.
-- [ ] Des échéances claires sont définies pour chaque étape.
+- Un plan d'action détaillé est documenté.
+- Des échéances claires sont définies pour chaque étape.
 
 ## Ressources
 

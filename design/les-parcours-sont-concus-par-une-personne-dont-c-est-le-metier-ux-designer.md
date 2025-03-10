@@ -7,8 +7,8 @@ utilisateurs pour garantir une expérience fluide et intuitive.
 
 ## Critères
 
-- [ ] Un UX Designer est impliqué dans le projet.
-- [ ] Les parcours utilisateurs sont régulièrement évalués et optimisés.
+- Un UX Designer est impliqué dans le projet.
+- Les parcours utilisateurs sont régulièrement évalués et optimisés.
 
 ## Ressources
 

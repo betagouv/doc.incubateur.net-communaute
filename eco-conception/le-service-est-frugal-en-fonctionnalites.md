@@ -7,8 +7,8 @@ fonctionnalités superflues qui pourraient compliquer l'expérience utilisateur.
 
 ## Critères
 
-- [ ] Les fonctionnalités sont régulièrement évaluées pour leur pertinence.
-- [ ] Les utilisateurs sont consultés pour valider l'utilité des
+- Les fonctionnalités sont régulièrement évaluées pour leur pertinence.
+- Les utilisateurs sont consultés pour valider l'utilité des
 fonctionnalités.
 
 ## Ressources

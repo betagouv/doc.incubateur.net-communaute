@@ -7,8 +7,8 @@ place pour garantir une réponse rapide et efficace en cas de problème.
 
 ## Critères
 
-- [ ] La politique est documentée et accessible.
-- [ ] Les membres de l'équipe sont formés à la procédure.
+- La politique est documentée et accessible.
+- Les membres de l'équipe sont formés à la procédure.
 
 ## Ressources
 

@@ -7,8 +7,8 @@ cohérence visuelle et fonctionnelle avec les autres services publics.
 
 ## Critères
 
-- [ ] Le DSFR est intégré dans le projet.
-- [ ] Les composants DSFR sont utilisés dans les interfaces.
+- Le DSFR est intégré dans le projet.
+- Les composants DSFR sont utilisés dans les interfaces.
 
 ## Ressources
 

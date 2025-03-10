@@ -8,8 +8,8 @@ production.
 
 ## Critères
 
-- [ ] Des données fictives ou anonymisées sont utilisées en dev/recette.
-- [ ] Les accès aux données de production sont restreints.
+- Des données fictives ou anonymisées sont utilisées en dev/recette.
+- Les accès aux données de production sont restreints.
 
 ## Ressources
 

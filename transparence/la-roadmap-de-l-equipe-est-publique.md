@@ -11,8 +11,8 @@ produit et son évolution technique.
 
 ## Critères
 
-- [ ] La roadmap est publiée sur une plateforme accessible.
-- [ ] Les mises à jour sont régulières et transparentes.
+- La roadmap est publiée sur une plateforme accessible.
+- Les mises à jour sont régulières et transparentes.
 
 ## Ressources
 

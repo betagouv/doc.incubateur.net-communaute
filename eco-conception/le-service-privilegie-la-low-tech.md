@@ -7,8 +7,8 @@ et maximiser l'efficacité.
 
 ## Critères
 
-- [ ] Les solutions low-tech sont privilégiées dans le développement.
-- [ ] L'impact environnemental est régulièrement évalué.
+- Les solutions low-tech sont privilégiées dans le développement.
+- L'impact environnemental est régulièrement évalué.
 
 ## Ressources
 

@@ -7,8 +7,8 @@ de qualité, de sécurité et de performance.
 
 ## Critères
 
-- [ ] Dashlord est configuré pour le projet.
-- [ ] Les indicateurs de performance sont régulièrement analysés.
+- Dashlord est configuré pour le projet.
+- Les indicateurs de performance sont régulièrement analysés.
 
 ## Ressources
 

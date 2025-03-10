@@ -9,6 +9,6 @@ Quand cela est possible, l'équipe contribue aux projets open-source utilisés.
 
 ## Critères
 
-- [ ] Le produit est basé uniquement sur des composants open-source
+- Le produit est basé uniquement sur des composants open-source
 
 ## Ressources

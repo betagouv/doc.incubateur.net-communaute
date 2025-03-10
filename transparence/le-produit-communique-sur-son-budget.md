@@ -7,8 +7,8 @@ transparence financière et l'engagement des parties prenantes.
 
 ## Critères
 
-- [ ] Les rapports budgétaires sont publiés annuellement.
-- [ ] Les dépenses et les prévisions sont clairement détaillées.
+- Les rapports budgétaires sont publiés annuellement.
+- Les dépenses et les prévisions sont clairement détaillées.
 
 ## Ressources
 

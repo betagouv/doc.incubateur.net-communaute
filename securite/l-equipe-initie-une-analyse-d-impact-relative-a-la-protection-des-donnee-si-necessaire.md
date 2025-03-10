@@ -8,8 +8,8 @@ réglementations.
 
 ## Critères
 
-- [ ] Une analyse d'impact est documentée.
-- [ ] Les recommandations sont mises en œuvre.
+- Une analyse d'impact est documentée.
+- Les recommandations sont mises en œuvre.
 
 ## Ressources
 

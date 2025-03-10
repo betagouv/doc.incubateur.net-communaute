@@ -8,8 +8,8 @@ numériques.
 
 ## Critères
 
-- [ ] Une évaluation de sécurité a été réalisée.
-- [ ] Des mesures correctives ont été mises en place.
+- Une évaluation de sécurité a été réalisée.
+- Des mesures correctives ont été mises en place.
 
 ## Ressources
 
