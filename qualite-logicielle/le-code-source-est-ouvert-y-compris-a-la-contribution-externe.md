@@ -7,8 +7,8 @@ la collaboration et l'amélioration continue.
 
 ## Critères
 
-- [ ] Le code source est accessible publiquement.
-- [ ] Des guidelines de contribution sont disponibles.
+- Le code source est accessible publiquement.
+- Des guidelines de contribution sont disponibles.
 
 ## Ressources
 

@@ -7,8 +7,8 @@ facilitant la compréhension et la maintenance du projet.
 
 ## Critères
 
-- [ ] Une documentation détaillée est disponible.
-- [ ] La documentation est régulièrement mise à jour.
+- Une documentation détaillée est disponible.
+- La documentation est régulièrement mise à jour.
 
 ## Ressources
 

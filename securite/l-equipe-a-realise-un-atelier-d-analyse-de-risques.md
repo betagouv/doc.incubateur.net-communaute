@@ -7,8 +7,8 @@ liés au projet, afin de mettre en place des mesures de mitigation.
 
 ## Critères
 
-- [ ] Un rapport d'analyse de risques est disponible.
-- [ ] Des actions correctives ont été définies.
+- Un rapport d'analyse de risques est disponible.
+- Des actions correctives ont été définies.
 
 ## Ressources
 

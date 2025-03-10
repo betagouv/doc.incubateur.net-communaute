@@ -11,8 +11,8 @@ fichiers.
 
 ## Critères
 
-- [ ] Un linter est en place sur le projet.
-- [ ] L'intégration (CI/CD) intègre le linter.
+- Un linter est en place sur le projet.
+- L'intégration (CI/CD) intègre le linter.
 
 ## Ressources
 

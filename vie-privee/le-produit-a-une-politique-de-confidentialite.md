@@ -7,8 +7,8 @@ comment les données des utilisateurs sont collectées, utilisées et protégée
 
 ## Critères
 
-- [ ] La politique de confidentialité est publiée sur le site.
-- [ ] Les utilisateurs sont informés des modifications de la politique.
+- La politique de confidentialité est publiée sur le site.
+- Les utilisateurs sont informés des modifications de la politique.
 
 ## Ressources
 

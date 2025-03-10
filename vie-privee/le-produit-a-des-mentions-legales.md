@@ -8,8 +8,8 @@ conditions d'utilisation.
 
 ## Critères
 
-- [ ] Les mentions légales sont accessibles depuis le site.
-- [ ] Les informations sont à jour et conformes aux réglementations.
+- Les mentions légales sont accessibles depuis le site.
+- Les informations sont à jour et conformes aux réglementations.
 
 ## Ressources
 

@@ -7,8 +7,8 @@ utilisateurs de répondre et d'interagir facilement.
 
 ## Critères
 
-- [ ] Aucune adresse "ne-pas-répondre" n'est utilisée.
-- [ ] Les utilisateurs peuvent facilement contacter le support.
+- Aucune adresse "ne-pas-répondre" n'est utilisée.
+- Les utilisateurs peuvent facilement contacter le support.
 
 ## Ressources
 

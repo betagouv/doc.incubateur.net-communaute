@@ -12,8 +12,8 @@ la liste des membres, l'URL du code source, etc.
 
 ## Critères
 
-- [ ] La fiche est complète et publiée sur [l'annuaire des réalisations](https://beta.gouv.fr/realisations/)
-- [ ] Les informations sont régulièrement vérifiées et mises à jour.
+- La fiche est complète et publiée sur [l'annuaire des réalisations](https://beta.gouv.fr/realisations/)
+- Les informations sont régulièrement vérifiées et mises à jour.
 
 ## Ressources
 

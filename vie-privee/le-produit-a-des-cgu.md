@@ -7,8 +7,8 @@ accessibles, définissant les droits et obligations des utilisateurs.
 
 ## Critères
 
-- [ ] Les CGU sont publiées sur le site.
-- [ ] Les utilisateurs sont informés des mises à jour des CGU.
+- Les CGU sont publiées sur le site.
+- Les utilisateurs sont informés des mises à jour des CGU.
 
 ## Ressources
 

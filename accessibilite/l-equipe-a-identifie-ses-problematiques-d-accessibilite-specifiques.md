@@ -8,6 +8,6 @@ dataviz, et les applications métier.
 
 ## Critères
 
-- [ ] TODO
+- TODO
 
 ## Ressources

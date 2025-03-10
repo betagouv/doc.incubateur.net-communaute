@@ -11,8 +11,8 @@ Discussions.
 
 ## Critères
 
-- [ ] Un formulaire de retour est disponible sur le site.
-- [ ] Les retours sont traités rapidement.
+- Un formulaire de retour est disponible sur le site.
+- Les retours sont traités rapidement.
 
 ## Ressources
 

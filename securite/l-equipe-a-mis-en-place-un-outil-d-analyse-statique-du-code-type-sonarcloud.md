@@ -7,8 +7,8 @@ vulnérabilités et améliorer la qualité du code.
 
 ## Critères
 
-- [ ] SonarCloud est configuré pour le projet.
-- [ ] Les rapports d'analyse sont régulièrement examinés.
+- SonarCloud est configuré pour le projet.
+- Les rapports d'analyse sont régulièrement examinés.
 
 ## Ressources
 

@@ -9,7 +9,7 @@ existent pour automatiser cette veille, comme
 
 ## Critères
 
-- [ ] Un outil d'analyse de sécurité type Dependabot est configuré.
+- Un outil d'analyse de sécurité type Dependabot est configuré.
 
 ## Ressources
 

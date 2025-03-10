@@ -8,8 +8,8 @@ accessibles à tous.
 
 ## Critères
 
-- [ ] Une personne est identifiée comme référent accessibilité.
-- [ ] Des formations régulières sont organisées.
+- Une personne est identifiée comme référent accessibilité.
+- Des formations régulières sont organisées.
 
 ## Ressources
 

@@ -7,8 +7,8 @@ jour régulières et une livraison rapide des nouvelles fonctionnalités.
 
 ## Critères
 
-- [ ] Un pipeline CI/CD est en place.
-- [ ] Les déploiements sont automatisés et fréquents.
+- Un pipeline CI/CD est en place.
+- Les déploiements sont automatisés et fréquents.
 
 ## Ressources
 
