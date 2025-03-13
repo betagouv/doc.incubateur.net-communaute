@@ -7,9 +7,9 @@ description: >-
 
 # Les lieux de la communauté
 
-Des membres de la communauté beta.gouv.fr travaillent un peu partout en France. Il existe une carte qui les recense. Tous les membres qui le souhaitent peuvent la [consulter](http://umap.openstreetmap.fr/fr/map/la-communaute-betagouv\_498937) ou la [mettre à jour](http://umap.openstreetmap.fr/fr/map/anonymous-edit/498937:rNZ9vgD45VPxZlCh2TPIJoO6K0A) (pour ajouter une position, cliquez en haut à droite sur le stylo puis sur Ajouter un marqueur. Dans le marqueur, saisi ton nom-prénom, pour pouvoir être contacté·e sur Mattermost). Tu pourras ainsi peut-être trouver un membre près de chez toi pour télétravailler ensemble, partager un coworking ou tout simplement un ☕️.
+Des membres de la communauté beta.gouv.fr travaillent un peu partout en France. Il existe une carte qui les recense. Tous les membres qui le souhaitent peuvent la [consulter](http://umap.openstreetmap.fr/fr/map/la-communaute-betagouv_498937) ou la [mettre à jour](http://umap.openstreetmap.fr/fr/map/anonymous-edit/498937:rNZ9vgD45VPxZlCh2TPIJoO6K0A) (pour ajouter une position, cliquez en haut à droite sur le stylo puis sur Ajouter un marqueur. Dans le marqueur, saisi ton nom-prénom, pour pouvoir être contacté·e sur Mattermost). Tu pourras ainsi peut-être trouver un membre près de chez toi pour télétravailler ensemble, partager un coworking ou tout simplement un ☕️.
 
-[![Carte de la communauté](../../.gitbook/assets/carte\_communaute.png)](http://umap.openstreetmap.fr/fr/map/la-communaute-betagouv\_498937)
+[![Carte de la communauté](../../.gitbook/assets/carte_communaute.png)](http://umap.openstreetmap.fr/fr/map/la-communaute-betagouv_498937)
 
 ## Paris
 
@@ -96,7 +96,7 @@ Infos et réservation : [https://www.malt.fr/c/freelancers/coworking-space](http
 
 Une question ? 👉 [\~bureaux-bretagne](https://mattermost.incubateur.net/betagouv/channels/bureaux-bretagne)
 
-### [La Cordée](https://www.la-cordee.net/cordee/rennes/rennes-lices/?utm\_source=google\&utm\_medium=cpc\&gclid=Cj0KCQjwkt6aBhDKARIsAAyeLJ0CY3JIdbyvCtTvptDjI3Pw0Jtln16y1pwkmcTSsHaw6xEvFmErhiMaArykEALw\_wcB)
+### [La Cordée](https://www.la-cordee.net/cordee/rennes/rennes-lices/?utm_source=google\&utm_medium=cpc\&gclid=Cj0KCQjwkt6aBhDKARIsAAyeLJ0CY3JIdbyvCtTvptDjI3Pw0Jtln16y1pwkmcTSsHaw6xEvFmErhiMaArykEALw_wcB)
 
 1 Carrefour Jouaust 35000 Rennes\
 Pourquoi : travailler Pré-requis :
@@ -124,7 +124,7 @@ Une question ? 👉 [\~bureaux-betalyon](https://mattermost.incubateur.net/betag
 
 ## Nantes
 
-Une question ? 👉 [\~bureaux-Nantes](https://mattermost.incubateur.net/betagouv/channels/nantes-coworking)&#x20;
+Une question ? 👉 [\~bureaux-Nantes](https://mattermost.incubateur.net/betagouv/channels/nantes-coworking)
 
 ### [Etat’LIN](https://www.prefectures-regions.gouv.fr/pays-de-la-loire/Region-et-institutions/Organisation-administrative-de-la-region/Secretariat-General-pour-les-Affaires-Regionales-SGAR/Etat-LIN-le-Laboratoire-d-innovation-territoriale-de-l-Etat-en-region-Pays-de-la-Loire/Etat-LIN-c-est-quoi/#titre)
 
@@ -203,7 +203,7 @@ laboratoire-numerique@asp-public.fr
 
 ### Siilab
 
-35 Rue Boucher de Perthes 59000 Lille
+[2 Bd de Strasbourg, 59000 Lille](https://www.google.fr/maps/place/Siilab/@50.6178911,3.0487229,17z/data=!3m1!4b1!4m6!3m5!1s0x47c2d5823024b6bd:0x99b62686d16b46eb!8m2!3d50.6178877!4d3.0512978!16s%2Fg%2F11h2f0038q?entry=tts\&g_ep=EgoyMDI1MDMwNC4wIPu8ASoASAFQAw%3D%3D)
 
 christophe.trouillard@jscs.gouv.fr
 
