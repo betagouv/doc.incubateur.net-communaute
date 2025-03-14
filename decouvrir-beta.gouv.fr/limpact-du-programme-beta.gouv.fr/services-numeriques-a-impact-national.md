@@ -19,6 +19,16 @@ Le programme beta.gouv.fr a pour objectif principal de construire des services n
 
 ## Liste des services numériques à impact national
 
+**En 2024 :**&#x20;
+
+* Réfugiés.info
+* Acceslibre
+* MonServiceSécurisé
+* Mano
+* France Chaleur Urbaine
+* A-JUST
+* France VAE
+
 **En 2023 :**
 
 * DomiFa
