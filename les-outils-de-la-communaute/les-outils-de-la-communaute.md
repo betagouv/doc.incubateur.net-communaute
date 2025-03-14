@@ -18,5 +18,3 @@ La communauté beta.gouv.fr bénéficie de tous les services proposés par [la s
 
 
 
-{% include "../.gitbook/includes/autres-services.md" %}
-

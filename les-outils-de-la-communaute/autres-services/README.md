@@ -10,5 +10,3 @@ La communauté beta.gouv.fr bénéficie de tous les services proposés par [la s
 [support-tech.md](../../gerer-son-produit/gestion-au-quotidien/tech/support-tech.md)
 {% endcontent-ref %}
 
-{% include "../../.gitbook/includes/autres-services.md" %}
-

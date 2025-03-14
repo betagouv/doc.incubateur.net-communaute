@@ -6,6 +6,26 @@ description: >-
 
 # Bilans du programme
 
+## Bilan 2024
+
+**🚀 En 2024, le réseau beta.gouv.fr a connu une croissance importante :**&#x20;
+
+* 15 nouvelles administrations ont rejoint le réseau ;
+* 3 nouveaux incubateurs ont émergé : la ruche numérique au ministère de l'Agriculture, l'incubateur de l'Éducation nationale et Accélérema au Cerema ;
+* 50 produits ont démarré leur phase de construction en 2025.
+
+**💥 L'impact des services conçus selon l'approche beta.gouv.fr se renforce :**&#x20;
+
+* 30 services numérique à impact national au total, dont 7 nommés en 2024 ;
+* 258 services en cours dʼaccompagnement ou pérennisés dans le réseau.
+
+🔁 **Le déploiement de l'approche beta.gouv.fr continue :**&#x20;
+
+* 217 nouveaux agents publics ont rejoint le réseau beta.gouv.fr, en tant qu'intrapreneurs ou en tant que membre transverse d'un incubateur ;
+* 11 intrapreneurs ont été certifiés.
+
+{% file src="../../.gitbook/assets/Bilan 2024 beta.gouv.fr.pdf" %}
+
 ## Bilan 2023
 
 Le programme beta.gouv.fr en 2023, en quelques chiffres :
