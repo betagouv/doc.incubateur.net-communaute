@@ -14,4 +14,4 @@ Le produit publie régulièrement ses statistiques d'impact.
 
 ## Ressources
 
-- [doc.incubateur.net : définir est mesurer l'impact](https://doc.incubateur.net/communaute/gerer-son-produit/la-vie-du-produit/investigation/definir-et-mesurer-limpact)
+- [Définir et mesurer l'impact sur la documentation de l'incubateur](https://doc.incubateur.net/communaute/gerer-son-produit/la-vie-du-produit/investigation/definir-et-mesurer-limpact)
