@@ -47,25 +47,25 @@ Le fichier résultant (`./standards-beta.yml`) aura cette forme :
 
 ```yml
 ---
-accessibilite:
-- title: L'équipe a identifié ses problématiques d'accessibilité spécifiques
-  description: |-
-    Décrivez ici les problématiques spécifiques que l'équipe a
-    identifiées, telles que la cartographie, les contenus simplifiés, la
-    dataviz, et les applications métier.
-  criteria:
-  - "- TODO"
-  id: l-equipe-a-identifie-ses-problematiques-d-accessibilite-specifiques
+accessibilité:
 - title: L'équipe a un plan d'action pour la mise en conformité
   description: |-
     L'équipe a élaboré un plan d'action pour garantir que le produit respecte les
     normes d'accessibilité en vigueur.
   criteria:
-  - "- Un plan d'action détaillé est documenté."
-  - "- Des échéances claires sont définies pour chaque étape."
+  - Un plan d'action détaillé est documenté.
+  - Des échéances claires sont définies pour chaque étape.
   resources:
   - "[Accessibilité numérique](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/)"
   id: l-equipe-a-un-plan-d-action-pour-la-mise-en-conformite
+- title: L'équipe a une personne avec la compétence front accessibilité
+  description: |-
+    Une personne au sein de l'équipe possède des compétences spécialisées en
+    accessibilité front-end pour garantir que les interfaces utilisateur sont
+    accessibles à tous.
+  criteria:
+  - Une personne est identifiée comme référent accessibilité.
+  - Des formations régulières sont organisées.
 # [...]
 ```
 
