@@ -8,8 +8,7 @@ La conception technique du produit respecte les "12 facteurs".
 
 ## Critères
 
-- Une documentation détaillée est disponible.
-- La documentation est régulièrement mise à jour.
+- L'application est redéployable rapidement sur un fournisseur cloud.
 - Le produit respecte les 12 facteurs.
 
 ## Ressources
