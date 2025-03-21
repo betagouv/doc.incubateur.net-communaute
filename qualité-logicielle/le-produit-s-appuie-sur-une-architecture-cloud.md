@@ -8,6 +8,7 @@ La conception technique du produit respecte les "12 facteurs".
 
 ## Critères
 
+- Le déploiement est automatisé
 - L'application est redéployable rapidement sur un fournisseur cloud.
 - Le produit respecte les 12 facteurs.
 
