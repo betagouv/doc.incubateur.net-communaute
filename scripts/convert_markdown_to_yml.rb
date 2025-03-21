@@ -42,7 +42,7 @@ class MarkdownFile
 
   def extract_criteria
     if content =~ /## Critères\n\n(.+?)\n\n##/m
-      yml_data['criteria'] = $1.strip.split("\n").map { |c| c.gsub(/^- \[ \] /, '').strip }
+      yml_data['criteria'] = $1.strip.split("\n").map { |c| c.gsub(/^- /, '').strip }
     end
   end
 
