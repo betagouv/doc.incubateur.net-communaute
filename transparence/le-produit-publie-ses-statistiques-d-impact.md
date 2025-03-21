@@ -2,7 +2,8 @@
 
 ## Description
 
-L’impact doit être **caractérisé de façon mesurable** et afficher la contribution du produit à la politique publique concernée.
+L’impact doit être **caractérisé de façon mesurable** et afficher la
+contribution du produit à la politique publique concernée.
 
 Le produit publie régulièrement ses statistiques d'impact.
 
