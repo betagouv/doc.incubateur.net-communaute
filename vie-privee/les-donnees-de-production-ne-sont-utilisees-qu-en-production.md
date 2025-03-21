@@ -12,5 +12,3 @@ production.
 - Les accès aux données de production sont restreints.
 
 ## Ressources
-
--
