@@ -19,7 +19,7 @@ Elle est constituée de 4 agents :
 * **Ishan Bhojwani**, Chef du département Incubateur de Services numériques
 * **Arthur Hatchuel**, Adjoint au Chef du département
 * **Alice Pannetrat,** Directrice des opérations
-* **Emmanuelle Graff**, Responsable des opérations et de coordination de projets (PMO)
+* **Emmanuelle Graff**, Responsable de coordination administrative et financière
 
 ### :briefcase: Le pôle Partenariats / Responsables de portefeuille ministériel
 
@@ -78,20 +78,7 @@ Le pôle accompagne des produits numériques prioritaires et anime la communaut�
 
 ### :small\_red\_triangle: Le programme Entrepreneur(e)s d'Intérêt Général (EIG)
 
-Le programme facilite le recrutement d'entrepreneur(e)s aguerri(e)s, pour lancer et passer à l'échelle des services conçus selon l'approche beta.gouv.fr en soutien aux politiques publiques. Le pôle EIG est dirigé par :
-
-* **Thomas Parisot**, directeur de programme
-
-Les EIG sont :&#x20;
-
-* Luis Arias, CTO Réfugiés.info
-* Fabien Keller, CPO Écobalyse
-* Martin Letellier, CPO Mon Devis sans oubli
-* Nicolas Enjalbert, CPO Envergo
-* Benoît Vinceneux, CPO Datalma
-* Charles-André Richard, CTO Datalma
-* Romaric Haldenwang, CTO DossierFacile
-* Nadim Bellalahom, CPO Suite proactive
+Le programme facilite le recrutement d'entrepreneur(e)s aguerri(e)s, pour lancer et passer à l'échelle des services conçus selon l'approche beta.gouv.fr en soutien aux politiques publiques. Le pôle EIG est dirigé par **Thomas Parisot**, directeur de programme
 
 Comment participer à la 7ème promotion du programme EIG ?
 

@@ -11,7 +11,7 @@
   * [Les services numériques à impact national](decouvrir-beta.gouv.fr/limpact-du-programme-beta.gouv.fr/services-numeriques-a-impact-national.md)
   * [Bilans du programme](decouvrir-beta.gouv.fr/limpact-du-programme-beta.gouv.fr/bilans-du-programme.md)
 * [💚 Les valeurs](decouvrir-beta.gouv.fr/valeurs.md)
-* [🧪 L'incubateur de la DINUM](decouvrir-beta.gouv.fr/incubateur-de-la-dinum/README.md)
+* [🧪 L'incubateur de services numériques de la DINUM](decouvrir-beta.gouv.fr/incubateur-de-la-dinum/README.md)
   * [L'équipe d'animation beta.gouv.fr](decouvrir-beta.gouv.fr/incubateur-de-la-dinum/lequipe-danimation-beta.gouv.fr.md)
 * [⚛️ Les incubateurs du réseau beta.gouv.fr](decouvrir-beta.gouv.fr/les-incubateurs-du-reseau-beta.gouv.fr-to-do/README.md)
   * [🌎 Fabrique numérique du MTE - MCT](decouvrir-beta.gouv.fr/les-incubateurs-du-reseau-beta.gouv.fr-to-do/fabrique-numerique-du-mte-mct.md)
