@@ -2,7 +2,7 @@
 
 **La communauté beta.gouv.fr** est constituée de l’ensemble des membres des produits et des incubateurs référencés sur la page réseau d’incubateurs du site beta.gouv.fr .
 
-Tous les membres doivent être inscrits sur l'espace membre et sont référencés sur la [page Communauté](https://beta.gouv.fr/communaute/). Ils peuvent  par défaut être contactés sur l'espace Mattersmost mais vous trouverez d'autres contacts sur leur fiche membre, dans l'espace membre.
+Tous les membres doivent être inscrits sur l'espace membre et sont référencés sur la [page Communauté](https://beta.gouv.fr/communaute/).&#x20;
 
 {% content-ref url="les-rituels/" %}
 [les-rituels](les-rituels/)

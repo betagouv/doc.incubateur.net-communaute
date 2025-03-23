@@ -1,20 +1,20 @@
 ---
 description: >-
   Comment travaillons nous ensemble  ? Cette page clarifie ce à quoi on peut
-  s'attendre les un·e·s des autres au sein de beta.gouv.fr.
+  s'attendre au sein de beta.gouv.fr.
 ---
 
-# Régles et normes de travail
+# Bonnes pratiques de travail
 
 Cette page référence les règles et bonnes pratiques de travail chez beta.gouv.fr. Elles participent à la création d'une culture fondée sur la recherche de **l'impact**, la **rapidité** d'exécution, **l'amélioration** **continue**, la **transparence** et **l'autonomie** des équipes
 
-### Les bonnes pratiques par l'exemple
+## Les bonnes pratiques par l'exemple : la charte beta.gouv.fr
 
-Voici des exemples concrets de nos valeurs et comment nous pouvons travailler ensemble.
+La "charte beta.gouv.fr" présente nos bonnes pratiques de collaboration par l'exemple.&#x20;
 
 <details>
 
-<summary>Les exemples concrets</summary>
+<summary>La charte beta.gouv.fr</summary>
 
 Ici, on a le droit…
 
@@ -56,50 +56,71 @@ Ici, on a le droit…
 
 _Cette charte est librement inspirée de celle de_ [_Gov.UK_](https://twitter.com/gilest/status/735131901900521472)_._
 
-<img src="../../../.gitbook/assets/image%20(22)%20(2)%20(1)%20(1)%20(1)%20(1)%20(1)%20(1).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image%20(22)%20(2)%20(1)%20(1)%20(1)%20(1)%20(1)%20(1).png" alt="" data-size="original">
 
 </details>
 
-### Maintenir un environnement de travail fondé sur la confiance, l'écoute et le respect mutuel (et non sur le paternalisme autoritaire)
+## Principes de collaboration en équipe
 
-#### Travailler dans un environnement sain et protecteur
+### Se méfier [des réunions](https://blog.alan.com/bien-etre-au-travail/no-meeting-policy) et du temps morcelé
 
-La communauté beta.gouv.fr est particulièrement vigilante à toute forme de discrimination ou harcèlement au travail : chacun a le droit de travailler dans un environnement qui le respecte et le protège. Dans le cas contraire, [vous pouvez utiliser notre guide](../../../travailler-chez-beta.gouv.fr/vie-quotidienne-et-bien-etre/gerer-des-situations-comliquees/), f[aire appel au groupe de soutien](../../../travailler-chez-beta.gouv.fr/vie-quotidienne-et-bien-etre/gerer-des-situations-comliquees/le-groupe-de-soutien.md), [à l'équipe Animation & Expertise](https://doc.incubateur.net/communaute/nous-contacter/besoin-daide) et à [vos responsables d'incubateurs.](https://beta.gouv.fr/incubateurs/)
+Privilégier autant que possible [la communication asynchrone](https://basecamp.com/guides/how-we-communicate) avec les mails ou les discussions à l'écrit sur Mattermost. N'oublions pas qu'une heure de réunion à 5 ne correspond pas à une heure de travail mais à 5 heures travaillées. Une réunion, c'est l'option du dernier recours, quand tout le reste n'a pas fonctionné. (Bien sûr, une réunion peut parfois être nécessaire, que ce soit pour acter une décision importante ou pour créer des relations interpersonnelles).
 
-**Piloter les équipes sur la base de leur impact et non par les moyens.**
+### **La** [**loi des deux pieds**](http://www.alidade-conseil.com/2016/11/01/connaissez-vous-la-loi-des-deux-pieds/)
 
-Appliquer le contrat d'une [équipe autonome](https://blog.beta.gouv.fr/general/2016/11/28/equipes-autonomes/) : les demandeurs sont souverains sur la finalité (quel est l'objectif en termes d'impact); les mandatés sont souverains sur les moyens (comment je fais pour atteindre cet impact).
+Lorsque les réunions s'avèrent nécessaires, les personnes présentes et motivées sont légitimes pour discuter de n’importe quel sujet ; chacune a le droit de se retirer “avec ses deux pieds” en ne participant pas ou en quittant les réunions ou discussions.
 
-**Eviter les comportement de "petit chef" et les manifestations d'autorité**.
+### Limiter les coûts de coordination
 
-Aux “chef·fe·s”, on préfèrera les personnes “responsables” sur des périmètres bien définis. Derrière la responsabilité se cache une redevabilité : une personne responsable d’un sujet rend des comptes sur son impact.
+D'une manière générale, **tenir compte des coûts de coordination** (une personne à temps complet est souvent bien plus efficace que cinq personnes à 20% de leur temps) et **limiter le nombre de personnes impliquées dans chaque sujet**.
 
-**Déléguer et avoir confiance par défaut**
+### Refuser le ["présentéisme"](https://www.linkedin.com/pulse/prendre-son-temps-cest-de-largent-pr%C3%A9sent%C3%A9isme-remi-rommelard/), préférer la documentation systématique
 
-On ne peut pas tout faire et il faut donc savoir déléguer même lorsqu'on est peu. Déléguer ne veut pas dire abandonner mais laisser une autre personne responsable de la réalisation de la tâche. En retour elle peut vous tenir au courant de l'avancée de ses résultats (et non des moyens qu'elle met en oeuvre). De plus, quand on travaille en équipe, il faut par défaut accorder sa confiance à ses collègues, c'est à dire que même en cas d'erreur, penser que l'autre a voulu bien faire.
+Ce n'est pas parce que quelqu'un n'est pas présent (physiquement ou non) à une réunion qu'il ne travaille pas. On juge les personnes sur leurs résultats et non sur leurs efforts ou leurs horaires. \
+En corollaire, ne jamais oublier que tout ce qui se dit dans une pièce ne sert que les gens de la pièce ; si ce n'est écrit nulle part, les autres n'en profiteront pas (parmi les autres, il y a aussi les nouvelles recrues à venir). La **documentation quasi-systématique** fait donc partie de notre culture.
 
-**Se traiter en adulte**
+### Lutter contre les asymétries d'informations en interne
 
-Nous invitons les membres à :
+**En interne, communiquer avec son équipe sur des canaux publics. Eviter les messages privés.** La circulation de l'information permet de mieux faire fonctionner l'organisation, d'éviter les frustrations, les prises de pouvoir individuelles non désirables, les rumeurs infondées, les fantasmes. La transparence est la contrepartie de l'autonomie concédée aux équipes : elle empêche les gens de faire n'importe quoi, parce que tout le monde voit. Ce qui est visible est plus facilement améliorable.
 
-* présupposer de la compétence de l'autre, ainsi que de son engagement en faveur d'un meilleur service public ;
-* se dire les choses ; le monde est comme il est, ce n'est pas parce qu'on se le dit que ça sera pire ;
-* ne pas [infliger de l'aide](https://mixitconf.org/en/2018/vous-arrive-t-il-d-infliger-de-l-aide-) ;
-* formuler des [requêtes, non des exigences](https://apprendreaeduquer.fr/comment-faire-difference-requete-exigence-en-cnv-79/) : "non" doit toujours rester une réponse acceptable ;
-* savoir [formuler et recevoir des retours](https://www.octo.academy/fr/formation/134-donner-et-recevoir-des-feedbacks-efficaces) efficaces et optionnels - le feedback demande un effort à la personne qui le donne, et a également pour objectif d'aider la personne réceptrice à s'améliorer ;
-* adopter une posture d'écoute attentive et active, à poser des questions pour comprendre le contexte de ses collaborateurs et collaboratrices ;
-* traiter les identités et cultures des autres avec respect, à faire des efforts pour prononcer les noms des personnes correctement et à se référer à elles avec le pronom qu'elles préfèrent ;
-* éviter le vocabulaire d’érotisation ou de sexualisation dans le contexte professionnel en général ;
-* ne pas interrompre de manière répétée des personnes en réunion ou dans des discussions, par exemple en parlant plus fort qu'elles.
-
-{% hint style="info" %}
-Parce que ce genre de comportement arrive souvent de manière non intentionnelle, chaque membre de la communauté est invité à porter une vigilance maximale à leur égard. **Si une personne est rappelée à l’ordre sur ce point, il lui est suggéré de simplement en prendre note, remercier brièvement celle ou celui qui l’a rappelée à l’ordre, et ne pas chercher à se justifier.**
+{% hint style="success" %}
+Lorsque vous travaillez avec votre équipe sur un outil de messagerie collaborative comme [Mattermost](../../les-outils-de-la-communaute/mattermost/), la norme chez beta.gouv.fr consiste à **partager toutes les chaînes de discussion concernant votre produit avec toute votre équipe dont le ou la coach et à limiter au maximum les échanges bilatéraux en messages privés**, mais aussi avec toutes les personnes qui interviennent régulièrement en soutien (responsables d'incubateur, responsables techniques de l'incubateur, responsables techniques). Cela permet notamment d'assurer la circulation de l'information et de limiter les demandes de reporting.
 {% endhint %}
 
-### 🗣 Conseils pour bien communiquer entre nous
+**En externe, partager le maximum d'apprentissages, en transparence**. Les codes sources, pages de statistiques, apprentissages et budgets de vos produits numériques devraient être publiques. Lorsque vous êtes responsable d'une tâche, documentez votre action, le protocole que vous avez choisi, les apprentissages dont vous avez bénéficié, et partagez le lien de cette documentation dans l'espace de votre équipe : cela lui permettra de prendre le relai si vous êtes en congés ou si vous êtes absent.
+
+{% hint style="success" %}
+L'exemple du service Mon Entreprise :
+
+* [Un code source public](https://github.com/betagouv/mon-entreprise/)
+* [Une page de statistiques publique](https://mon-entreprise.fr/stats)
+* [Une page détaillant le budget du service](https://mon-entreprise.fr/budget)
+* [Une page donnant des informations sur les avancées du service](https://mon-entreprise.fr/nouveaut%C3%A9s/mai-2021)
+{% endhint %}
+
+### Limiter le reporting au minimum
+
+Documenter n'est pas reporter ! Le temps passé à faire du reporting à sa hiérarchie est autant de temps passé à ne pas s'occuper des problèmes de ses utilisateurs. Si la hiérarchie a besoin d'information, **transmettez l'information à la source** (page de statistiques publique, code source, backlog produit). Adopter des pratiques de transparence permet souvent de limiter les demandes de reporting.
+
+### Piloter les équipes par l'impact : autonomie, confiance et responsabilité
+
+beta.gouv.fr a pour mission de diffuser au sein de l'administration publique des principes de pilotage par l'impact, (par opposition au pilotage par les moyens). Le rôle du leadership devient alors celui de soutenir l’autonomie des équipes, sans recourir à des comportements autoritaires ou micro-managers.&#x20;
+
+* **Piloter par l'impact, pas par les moyens.** [Les équipes sont autonomes](https://blog.beta.gouv.fr/general/2016/11/28/equipes-autonomes/) : les demandeurs fixent l’objectif en termes d’impact, les équipes choisissent les moyens pour l’atteindre.
+* **Remplacer l’autorité par la responsabilité.** Éviter les comportements de “[petit chef](https://fr.wikipedia.org/wiki/Bullshit_jobs)” : chaque responsable a un périmètre clair et rend des comptes sur les résultats, pas sur la manière de faire.
+* **Faire confiance par défaut.** Travailler en équipe implique de partir du principe que chacun fait de son mieux, y compris en cas d’erreur.
+
+{% content-ref url="../../gerer-son-produit/la-vie-du-produit/investigation/comment-repondre-a-un-sponsor-qui-demande-une-roadmap-produit.md" %}
+[comment-repondre-a-un-sponsor-qui-demande-une-roadmap-produit.md](../../gerer-son-produit/la-vie-du-produit/investigation/comment-repondre-a-un-sponsor-qui-demande-une-roadmap-produit.md)
+{% endcontent-ref %}
+
+## 🗣 Conseils pour bien communiquer entre nous
 
 {% tabs %}
 {% tab title="Demander du feedback" %}
+Nous invitons à savoir [formuler et recevoir des retours](https://www.octo.academy/fr/formation/134-donner-et-recevoir-des-feedbacks-efficaces) efficaces et optionnels - le feedback demande un effort à la personne qui le donne, et a également pour objectif d'aider la personne réceptrice à s'améliorer.
+
+\
 Pour donner un feedback (positif ou négatif) ou pour exprimer un désaccord avec bienveillance, partez du principe que la personne à qui vous vous adressez est:
 
 * compétente
@@ -110,6 +131,8 @@ Tentez de rester factuel dans votre communication. Evitez de porter un jugement 
 {% endtab %}
 
 {% tab title="Demander un service" %}
+Nous invitons à formuler des [requêtes, non des exigences](https://apprendreaeduquer.fr/comment-faire-difference-requete-exigence-en-cnv-79/) : "non" doit toujours rester une réponse acceptable.\
+\
 Pour demander ou proposer…
 
 ```
@@ -136,49 +159,14 @@ Tentez d'éviter tout ce qui relève de l’injonction:
 
 Mais aussi, toutes les paroles qui parasitent une communication claire et bienveillante, par exemple: Les petites piques. Le passif-agressif. Les expressions d’impatience, d’agacement.
 {% endtab %}
+
+{% tab title="Autres bonnes pratiques" %}
+Nous invitons les membres de beta.gouv.fr à :
+
+* présupposer de la compétence de l'autre, ainsi que de son engagement en faveur d'un meilleur service public ;
+* se dire les choses ; le monde est comme il est, ce n'est pas parce qu'on se le dit que ça sera pire ;
+* ne pas [infliger de l'aide](https://mixitconf.org/en/2018/vous-arrive-t-il-d-infliger-de-l-aide-) ;
+* adopter une posture d'écoute attentive et active, à poser des questions pour comprendre le contexte de ses collaborateurs et collaboratrices.
+{% endtab %}
 {% endtabs %}
 
-### **Se méfier** [**des réunions**](https://blog.alan.com/bien-etre-au-travail/no-meeting-policy) **et du temps morcelé**
-
-Privilégier autant que possible [la communication asynchrone](https://basecamp.com/guides/how-we-communicate) avec les mails ou les discussions à l'écrit sur Mattermost. \
-N'oublions pas qu'une heure de réunion à 5 ne correspond pas à une heure de travail mais à 5 heures travaillées. Une réunion, c'est l'option du dernier recours, quand tout le reste n'a pas fonctionné. (Bien sûr, une réunion peut parfois être nécessaire, que ce soit pour acter une décision importante ou pour créer des relations interpersonnelles).
-
-### **Refuser le** [**"présentéisme"**](https://www.linkedin.com/pulse/prendre-son-temps-cest-de-largent-pr%C3%A9sent%C3%A9isme-remi-rommelard/)**, préférer la documentation systématique**
-
-Ce n'est pas parce que quelqu'un n'est pas présent (physiquement ou non) à une réunion qu'il ne travaille pas. On juge les personnes sur leurs résultats et non sur leurs efforts ou leurs horaires. \
-En corollaire, ne jamais oublier que tout ce qui se dit dans une pièce ne sert que les gens de la pièce ; si ce n'est écrit nulle part, les autres n'en profiteront pas (parmi les autres, il y a aussi les nouvelles recrues à venir). La **documentation quasi-systématique** fait donc partie de notre culture.
-
-### **La** [**loi des deux pieds**](http://www.alidade-conseil.com/2016/11/01/connaissez-vous-la-loi-des-deux-pieds/)
-
-Lorsque les réunions s'avèrent nécessaires, les personnes présentes et motivées sont légitimes pour discuter de n’importe quel sujet ; chacune a le droit de se retirer “avec ses deux pieds” en ne participant pas ou en quittant les réunions ou discussions.
-
-### **Limiter le reporting au minimum**
-
-Documenter n'est pas reporter ! Le temps passé à faire du reporting à sa hiérarchie est autant de temps passé à ne pas s'occuper des problèmes de ses utilisateurs. Si la hiérarchie a besoin d'information, transmettez l'information à la source (page de statistiques publique, code source, backlog produit). Adopter des pratiques de transparence permet souvent de limiter les demandes de reporting (voir paragraphe suivant).
-
-{% content-ref url="../../../gerer-son-produit/la-vie-du-produit/investigation/comment-repondre-a-un-sponsor-qui-demande-une-roadmap-produit.md" %}
-[comment-repondre-a-un-sponsor-qui-demande-une-roadmap-produit.md](../../../gerer-son-produit/la-vie-du-produit/investigation/comment-repondre-a-un-sponsor-qui-demande-une-roadmap-produit.md)
-{% endcontent-ref %}
-
-D'une manière générale, **tenir compte des coûts de coordination** (une personne à temps complet est souvent bien plus efficace que cinq personnes à 20% de leur temps) et **limiter le nombre de personnes impliquées dans chaque sujet**.
-
-### Lutter contre les asymétries d'informations en interne
-
-**En interne, communiquer avec son équipe sur des canaux publics. Eviter les messages privés.** La circulation de l'information permet de mieux faire fonctionner l'organisation, d'éviter les frustrations, les prises de pouvoir individuelles non désirables, les rumeurs infondées, les fantasmes. La transparence est la contrepartie de l'autonomie concédée aux équipes : elle empêche les gens de faire n'importe quoi, parce que tout le monde voit. Ce qui est visible est plus facilement améliorable.
-
-{% hint style="success" %}
-Lorsque vous travaillez avec votre équipe sur un outil de messagerie collaborative comme [Mattermost](../../../les-outils-de-la-communaute/mattermost/), la norme chez beta.gouv.fr consiste à **partager toutes les chaînes de discussion concernant votre produit avec toute votre équipe dont le ou la coach et à limiter au maximum les échanges bilatéraux en messages privés**, mais aussi avec toutes les personnes qui interviennent régulièrement en soutien (responsables d'incubateur, responsables techniques de l'incubateur, responsables techniques). Cela permet notamment d'assurer la circulation de l'information et de limiter les demandes de reporting.
-{% endhint %}
-
-**En externe, partager le maximum d'apprentissages, en transparence**. Les codes sources, pages de statistiques, apprentissages et budgets de vos produits numériques devraient être publiques. Lorsque vous êtes responsable d'une tâche, documentez votre action, le protocole que vous avez choisi, les apprentissages dont vous avez bénéficié, et partagez le lien de cette documentation dans l'espace de votre équipe : cela lui permettra de prendre le relai si vous êtes en congés ou si vous êtes absent.
-
-{% hint style="success" %}
-L'exemple du service Mon Entreprise :
-
-* [Un code source public](https://github.com/betagouv/mon-entreprise/)
-* [Une page de statistiques publique](https://mon-entreprise.fr/stats)
-* [Une page détaillant le budget du service](https://mon-entreprise.fr/budget)
-* [Une page donnant des informations sur les avancées du service](https://mon-entreprise.fr/nouveaut%C3%A9s/mai-2021)
-{% endhint %}
-
-###
