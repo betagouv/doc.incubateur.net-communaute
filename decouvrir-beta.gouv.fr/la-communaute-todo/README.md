@@ -4,6 +4,14 @@
 
 Tous les membres doivent être inscrits sur l'espace membre et sont référencés sur la [page Communauté](https://beta.gouv.fr/communaute/).&#x20;
 
+{% content-ref url="normes-de-conduite.md" %}
+[normes-de-conduite.md](normes-de-conduite.md)
+{% endcontent-ref %}
+
+{% content-ref url="regles-de-vie-de-la-communaute.md" %}
+[regles-de-vie-de-la-communaute.md](regles-de-vie-de-la-communaute.md)
+{% endcontent-ref %}
+
 {% content-ref url="les-rituels/" %}
 [les-rituels](les-rituels/)
 {% endcontent-ref %}
