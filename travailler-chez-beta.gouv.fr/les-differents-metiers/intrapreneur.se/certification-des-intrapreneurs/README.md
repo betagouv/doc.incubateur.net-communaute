@@ -56,7 +56,7 @@ Cette certification est entièrement financée par beta.gouv.fr pour tous les in
 
 ### 1- Inscription
 
-Tous les 6 mois, nous lançons une nouvelle session de certification. Le lien d'inscription est renseigné sur le canal Général de Mattermost ou dans [l'infolettre interne de la communauté](../../../../decouvrir-beta.gouv.fr/la-communaute-todo/sinformer-sur-la-vie-de-la-communaute.md).
+Tous les 6 mois, nous lançons une nouvelle session de certification. Le lien d'inscription est renseigné sur le canal Général de Mattermost ou dans [l'infolettre interne de la communauté](../../../../decouvrir-beta.gouv.fr/la-communaute/sinformer-sur-la-vie-de-la-communaute.md).
 
 ### 2- Complétion du dossier
 

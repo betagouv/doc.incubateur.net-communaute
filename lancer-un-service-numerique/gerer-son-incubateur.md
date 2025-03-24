@@ -22,7 +22,7 @@ Vous êtes une administration publique ? beta.gouv.fr peut vous accompagner dans
 
 **Un incubateur n'est pas nécessaire pour lancer une startup d'État** : une administration peut lancer un produit selon l'approche startup d'État en concluant un partenariat avec l'incubateur de la DINUM. Un incubateur est utile lorsque l'administration souhaite industrialiser l'approche, par exemple en lançant un[ appel à intrapreneurs](je-souhaite-lancer-une-startup-detat/chronologie-dune-appel-a-innovateur/).
 
-Pour en savoir plus : contacter dinum@beta.gouv.fr&#x20;
+Pour en savoir plus : contacter dinum@beta.gouv.fr
 
 ## L'organisation type d'un incubateur
 
@@ -52,8 +52,8 @@ En tant qu'incubateur du réseau beta.gouv.fr, les équipes qui suivent l'approc
 * mise en avant des services numériques et de l'incubateur sur le site internet [beta.gouv.fr](broken-reference/) ;
 * accès au [Mattermost](../les-outils-de-la-communaute/mattermost/) beta.gouv.fr ;
 * relai des campagnes de recrutement sur les réseaux beta.gouv.fr (site internet, réseaux sociaux) ;
-* invitation des membres des équipes aux “[clubs](../decouvrir-beta.gouv.fr/la-communaute-todo/les-rituels/clubs-de-partage-dexperience.md)” beta.gouv.fr et réflexions transverses (séminaires, réseaux de partage d’expérience entre coachs, intrapreneurs ou chefs de produit, développeurs, designers, chargés de déploiement, etc) ;
-* rencontres de la communauté :[ forum beta.gouv ](../decouvrir-beta.gouv.fr/la-communaute-todo/les-rituels/seminaire.md)et événements de socialisation ;
+* invitation des membres des équipes aux “[clubs](../decouvrir-beta.gouv.fr/la-communaute/les-rituels/clubs-de-partage-dexperience.md)” beta.gouv.fr et réflexions transverses (séminaires, réseaux de partage d’expérience entre coachs, intrapreneurs ou chefs de produit, développeurs, designers, chargés de déploiement, etc) ;
+* rencontres de la communauté :[ forum beta.gouv ](../decouvrir-beta.gouv.fr/la-communaute/les-rituels/seminaire.md)et événements de socialisation ;
 * possibilité d’accueillir ponctuellement l’équipe dans les [locaux](../travailler-chez-beta.gouv.fr/vie-quotidienne-et-bien-etre/travailler-dans-les-lieux-partages/locaux/) de l’incubateur de la DINUM (échanges, revues de portefeuille, ateliers) ;
 * accès aux [formations](../travailler-chez-beta.gouv.fr/se-former/les-formations-a-venir.md) organisées par la communauté et aux ressources communes, notamment la formation Alpha ;
 * mise en avant des produits à impact via les canaux de communication de beta.gouv.fr.

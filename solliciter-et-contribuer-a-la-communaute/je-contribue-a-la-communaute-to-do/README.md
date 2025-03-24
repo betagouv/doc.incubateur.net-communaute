@@ -18,8 +18,8 @@ Chaque membre de la communauté est également livre d'organiser un événement 
 [agenda-de-la-communaute.md](../../les-outils-de-la-communaute/agenda-de-la-communaute.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../decouvrir-beta.gouv.fr/la-communaute-todo/les-rituels/" %}
-[les-rituels](../../decouvrir-beta.gouv.fr/la-communaute-todo/les-rituels/)
+{% content-ref url="../../decouvrir-beta.gouv.fr/la-communaute/les-rituels/" %}
+[les-rituels](../../decouvrir-beta.gouv.fr/la-communaute/les-rituels/)
 {% endcontent-ref %}
 
 ## **⭐️ Participer à ou organiser une formation pour la communauté**
@@ -50,7 +50,7 @@ La documentation est maintenue à jour par toute la communauté. Tu trouveras ci
 
 ## 🎙️ **Partager tes apprentissages**
 
-Tu voudrais proposer un nouvel outil qui pourrait être utile à toute la communauté ou à certaines équipes ? Tu veux partager un retour d'expérience ? Toutes les informations sont disponibles dans la rubrique "Partager mes apprentissages"&#x20;
+Tu voudrais proposer un nouvel outil qui pourrait être utile à toute la communauté ou à certaines équipes ? Tu veux partager un retour d'expérience ? Toutes les informations sont disponibles dans la rubrique "Partager mes apprentissages"
 
 {% content-ref url="partager-ses-apprentissages/" %}
 [partager-ses-apprentissages](partager-ses-apprentissages/)
@@ -64,4 +64,3 @@ Et si tu n'as que quelques minutes ou du temps uniquement ponctuel, voilà quelq
 * Faire un tour sur le canal [\~incubateur-help](https://mattermost.incubateur.net/betagouv/channels/incubateur-help) sur Mattermost pour éventuellement répondre à des questions posées
 * Lire ou relire la documentation et le site beta.gouv.fr et [corriger les coquilles ou informations obsolètes sur lesquelles tu tombes](./#contribuer-a-la-documentation)
 * Tester un produit d'une startup, consulter une page stat et éventuellement faire un retour à l'équipe concernée
-
