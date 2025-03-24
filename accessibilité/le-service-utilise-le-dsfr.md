@@ -13,3 +13,4 @@ cohérence visuelle et fonctionnelle avec les autres services publics.
 ## Ressources
 
 - [DSFR](https://www.systeme-de-design.gouv.fr/)
+- [Périmètre d'application du DSFR](https://www.systeme-de-design.gouv.fr/prise-en-main-et-perimetre/perimetre-d-application)
