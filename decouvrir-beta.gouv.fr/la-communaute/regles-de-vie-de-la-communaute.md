@@ -6,7 +6,7 @@ description: >-
 
 # Règles de vie de la communauté
 
-**Si la liberté d'expression est et demeure la règle au sein des espaces de travail animés par beta.gouv.fr, quelques principes viennent l'encadrer.** Il s'agit précisément de garantir l'égalité de tous devant le service public, de préserver la neutralité de l'administration de même qu'un environnement de travail serein, favorisant le respect mutuel que chacune et chacun est en droit d'attendre d'une communauté. Ce cadre s'applique de fait à tous les membres de la communauté, avec certaines considérations particulières pour les agents publics, en particulier dans les espaces mis à disposition par [beta.gouv.fr](http://beta.gouv.fr) (événements, forums mensuels, espaces de discussion en ligne, etc).
+**Si la liberté d'expression est et demeure la règle au sein des espaces de travail animés par beta.gouv.fr, quelques principes viennent l'encadrer.** Il s'agit précisément de garantir l'égalité de tous devant le service public, de préserver la neutralité de l'administration de même qu'un environnement de travail serein, favorisant le respect mutuel que chacune et chacun est en droit d'attendre d'une communauté. Ce cadre s'applique de fait à tous les membres de la communauté, avec certaines considérations particulières pour les agents publics, en particulier dans les espaces mis à disposition par [beta.gouv.fr](http://beta.gouv.fr) (événements, forums mensuels, espaces de discussion en ligne, etc.).
 
 ## Respect des droits et lutte contre le harcèlement
 
@@ -44,7 +44,7 @@ Par ailleurs, il est attendu de toutes et tous de participer à la bienveillance
 Dans le cadre des activités et espaces gérés par [beta.gouv.fr](http://beta.gouv.fr) comme le Mattermost ou les forums ouverts, une modération peut être effectuée par la DINUM qui peut agir suite à signalement (à [animation@beta.gouv.fr](mailto:animation@beta.gouv.fr) ou directement au responsable du pôle animation et expertises de l’incubateur de la DINUM - [benjamin.doberset@beta.gouv.fr](mailto:benjamin.doberset@beta.gouv.fr)).
 
 * Processus de modération
-  1. Documenter les faits reprochés (note, capture d’écran etc.) ;
+  1. Documenter les faits reprochés (note, capture d’écran, etc.) ;
   2. Contacter la personne concernée, lui donner la possibilité de s'expliquer ;
   3. Si besoin, contacter un référent laïcité et déontologue, juridique et / ou RH et / ou achat.
   4. Décider de la mesure appropriée dans le cadre de la communauté [beta.gouv.fr](http://beta.gouv.fr) (exemple : rappel à l’ordre, suppression du message problématique, bannissement de l’espace ou de l’événement, dépôt de plainte).
