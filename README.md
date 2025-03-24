@@ -29,6 +29,10 @@ règles](https://github.com/DavidAnson/markdownlint?tab=readme-ov-file#rules--al
 et installer [une extension pour votre
 éditeur](https://github.com/DavidAnson/markdownlint?tab=readme-ov-file#related).
 
+Deux extensions sont automatiquement recommandées pour les
+utilisateurs de VSCode : le linter ainsi qu'un plugin qui permet
+d'aligner le texte sur 80 colonnes (avec la commande Alt-Q).
+
 Pour lancer le linting :
 
 ```sh
