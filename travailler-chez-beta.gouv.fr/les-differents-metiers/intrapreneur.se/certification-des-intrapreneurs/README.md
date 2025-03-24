@@ -1,11 +1,11 @@
 ---
 description: >-
-  La certification des compétences professionnelles des intras de Startup d'Etat
+  La certification des compétences professionnelles des intras de startup d'État
   et de Territoires.
 hidden: true
 ---
 
-# 🎖️ Certification des intrapreneur·e·s
+# 🎖️ Certification des intras
 
 {% file src="../../../../.gitbook/assets/Méthodologies d’entrepreneuriat appliquées aux projets numériques - Compétences attestées.pdf" %}
 
@@ -19,7 +19,7 @@ hidden: true
 
 {% hint style="info" %}
 La certification des intras est proposée 2 fois dans l'année.\
-Une première session a lieu en Mai et une seconde au mois de Décembre.
+Une première session a lieu en mai et une seconde au mois de décembre.
 {% endhint %}
 
 ## Préparer sa certification
@@ -37,7 +37,7 @@ Le déroulé de cette certification pour les intras vise à évaluer ces 8 comp�
 
 ## Prérequis d'une certification
 
-* Sont éligibles à cette certification les agent·e·s de droit public ou de droit privé ayant intégré le programme d’intrapreneuriat de beta.gouv.fr et ayant élaboré un service numérique répondant aux besoins des utilisateurs.
+* Sont éligibles à cette certification les agents de droit public ou de droit privé ayant intégré le programme d’intrapreneuriat de beta.gouv.fr et ayant élaboré un service numérique répondant aux besoins des utilisateurs.
 
 ## Déroulé d'une certification
 
@@ -51,18 +51,18 @@ Le déroulé de cette certification pour les intras vise à évaluer ces 8 comp�
 | 6. Courrier à l'administration | \~Jour 40 |         |
 
 {% hint style="info" %}
-Cette certification est entièrement financée par beta.gouv.fr pour tous les intrapreneurs membres du réseau des incubateurs de Startup d'Etat et de Territoires.
+Cette certification est entièrement financée par beta.gouv.fr pour tous les intrapreneurs membres du réseau des incubateurs de startup d'État et de Territoires.
 {% endhint %}
 
 ### 1- Inscription
 
-Tous les 6 mois, nous lançons une nouvelle session de certification. Le lien d'inscription est renseigné sur le Mattermost de Beta ou dans l'infolettre interne de beta.
+Tous les 6 mois, nous lançons une nouvelle session de certification. Le lien d'inscription est renseigné sur le canal Général de Mattermost ou dans [l'infolettre interne de la communauté](../../../../decouvrir-beta.gouv.fr/la-communaute-todo/sinformer-sur-la-vie-de-la-communaute.md).
 
 ### 2- Complétion du dossier
 
 L'intra complète un dossier préparatoire à l’évaluation contenant ces éléments :
 
-* Lien du site de la Startup d’État
+* Lien du site de la startup d’État
 * Lien de la fiche produit
 * Compte-rendu d’entretiens utilisateur, avec la liste des questions posées
 * Maquette du site ou application (design des écrans ou captures écran du produit réalisé)
@@ -89,11 +89,11 @@ Le coach certificateur et l'intra réalisent l’entretien d’évaluation de 60
 
 ### 5- Résultat
 
-Quelques jours après, le coach informe l'intra du résultat de la certification. Les lauréats reçoivent un document officialisant leur certification. En 2020, 100% des candidats ont été lauréats.
+Quelques jours après, le coach informe l'intra du résultat de la certification. Les lauréats reçoivent un document officialisant leur certification. En 2020, 100 % des candidats ont été lauréats.
 
 ### 6- Courrier à l'administration
 
-Beta.gouv propose d'officialiser cette certification aux administrations des lauréats.
+beta.gouv.fr propose d'officialiser cette certification aux administrations des lauréats.
 
 En informant le DRH et la hiérarchie de l'intra, ces compétences seront valorisées dans le dossier personnel et lors de l'entretien d'évaluation annuel.
 

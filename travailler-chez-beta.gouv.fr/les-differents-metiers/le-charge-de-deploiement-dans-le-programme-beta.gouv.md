@@ -1,19 +1,19 @@
-# Chargé et chargée de déploiement
+# Chargé / chargée de déploiement
 
 {% hint style="info" %}
-Dans les startups privées, ce sont les commerciaux, business developers ou ingénieurs d'affaires. Chez beta.gouv.fr, on les appelle les chargé·e·s de déploiement. Dans les deux cas, il s'agit de **trouver des utilisateurs** pour son service numérique ; dans le privé, le but est souvent de maximiser le revenu de l'entreprise, alors que dans le public, l'objectif est de **maximiser l'impact** (social, environnemental, etc) du service numérique.\
-Selon les équipes, les chargés de déploiement peuvent également assurer des missions de **support utilisateur** (_customer success_ dans le privé).
+Dans les startups privées, ce sont les commerciaux, business developers ou ingénieurs d'affaires. Chez beta.gouv.fr, on les appelle les chargés et chargées de déploiement. Dans les deux cas, il s'agit de **trouver des utilisateurs** pour un service numérique ; dans le privé, le but est souvent de maximiser le revenu de l'entreprise, alors que dans le public, l'objectif est de **maximiser l'impact** (social, environnemental, etc) du service numérique.\
+
+
+Selon les équipes, les personnes chargées de déploiement peuvent également assurer des missions de **support utilisateur** (_customer success_ dans le privé).
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-01-31 101742.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-01-31 101742.png" alt=""><figcaption></figcaption></figure>
 
-Les produits chez beta sont construits de manière la plus frugale possible. En phase de construction les équipes sont constituées de 4-5 personnes avec souvent d’un·e seul·e chargé·e de déploiement qui doit assurer plusieurs rôles au sein de l’équipe.
+Les produits chez beta.gouv.fr sont construits de manière la plus frugale possible. En phase de construction les équipes sont constituées de 4-5 personnes avec souvent une seule personne chargée du déploiement qui doit assurer plusieurs rôles au sein de l’équipe.
 
-Selon la taille et le stade d’avancement de la startup, les chargé·e·s de déploiement ont diverses missions et casquettes.
+Selon la taille et le stade d’avancement de la startup, les personnes chargées du déploiement ont diverses missions et casquettes.
 
-#### Axes de mission des chargé(e)s de déploiement
-
-Les **différents axes de mission** des chargé(e)s de déploiement :
+## Axes de mission des chargés et chargées de déploiement
 
 * Acquisition de nouveaux utilisateurs (B2B/B2C/B2B2C)
 * Relation et support utilisateurs
@@ -22,26 +22,22 @@ Les **différents axes de mission** des chargé(e)s de déploiement :
 * Rédaction de contenus
 * Marketing relationnel et growth hacking
 
-**De là se dégagent deux casquettes que l’on retrouve souvent chez les chargés ou chargées de déploiement de** [**beta.gouv.fr**](http://beta.gouv.fr) **: le/la développeur / développeuse commercial(e) et le/la chargé/chargée de relation clientèle.**
+**Il y a deux casquettes que l’on retrouve souvent chez les chargés ou chargées de déploiement de** [**beta.gouv.fr**](http://beta.gouv.fr) **: le/la développeur/développeuse commercial(e) et le/la chargé/chargée de relation clientèle.**
 
-### 1. Le/la développeur / développeuse commercial.e
+### 1. Le/la développeur/développeuse commercial(e)
 
-<div align="left">
+<div align="left"><figure><img src="../../.gitbook/assets/Sales (1).png" alt="" width="250"><figcaption></figcaption></figure></div>
 
-<figure><img src="../../../.gitbook/assets/Sales (1).png" alt="" width="250"><figcaption></figcaption></figure>
-
-</div>
-
-_Objectifs attendus_
+**Objectifs attendus**
 
 * Acquisition de nouveaux utilisateurs
 * Affinement de la proposition de valeur et pitch produit
 
-_**La mission en quelques lignes**_
+**La mission en quelques lignes**
 
-Le _Sales_ est un métier de chasseur. De nature curieuse, le/la _Sales_ n’hésitera pas à sortir des sentiers battus et à mettre le pied dans la porte pour trouver de nouveaux utilisateurs. Il s’agit également d’être capable de cerner un produit et les besoins particuliers de chacun afin de mieux le “vendre” aux utilisateurs. Enfin le/la sales doit maîtriser l’art du pitch les techniques de négociations et d’argumentation nécessaires à l’acquisition de nouveaux utilisateurs.
+Le _Sales_ est un métier de chasseur. De nature curieuse, le/la _Sales_ n’hésitera pas à sortir des sentiers battus et à mettre le pied dans la porte pour trouver de nouveaux utilisateurs. Il s’agit également d’être capable de cerner un produit et les besoins particuliers de chacun afin de mieux le “vendre” aux utilisateurs. Enfin le/la sales doit maîtriser l’art du pitch, les techniques de négociations et d’argumentation nécessaires à l’acquisition de nouveaux utilisateurs.
 
-_Actions principales_
+**Actions principales**
 
 * Investiguer pour déterminer les besoins des usagers
 * Développer le portefeuille d’usagers
@@ -49,47 +45,43 @@ _Actions principales_
 * Créer et développer une stratégie en lien avec l'équipe des chargés de déploiement et/ou l'intrapreneur
 * Analyser les résultats et assurer le suivi
 
-### 2. Le/la chargé / chargée de la relation clientèle
+### 2. Le/la chargé/chargée de la relation clientèle
 
-<div align="left">
+<div align="left"><img src="../../.gitbook/assets/Customer Success  (1).png" alt="" width="250"></div>
 
-<img src="../../../.gitbook/assets/Customer Success  (1).png" alt="" width="250">
-
-</div>
-
-_Objectifs attendus_
+**Objectifs attendus**
 
 * Accompagnement utilisateurs afin de faciliter la rétention
 * Amélioration du produit grâce aux retours utilisateurs
 
-_La mission en quelques lignes_
+**La mission en quelques lignes**
 
-Le customer success est un métier de lien. Il s’agit d’être capable de construire et de soigner des relations avec les usagers. La patience et le sens de la pédagogie sont des compétences clés afin d’accompagner au mieux les usagers à l’utilisation du produit numérique. Enfin, ce métier requiert une bonne capacité d’écoute et d’être force de propositions afin de faire remonter les retours utilisateurs.
+Le &#x43;_&#x75;stomer success_ est un métier de lien. Il s’agit d’être capable de construire et de soigner des relations avec les usagers. La patience et le sens de la pédagogie sont des compétences clés afin d’accompagner au mieux les usagers à l’utilisation du produit numérique. Enfin, ce métier requiert une bonne capacité d’écoute et d’être force de propositions afin de faire remonter les retours utilisateurs.
 
-_Actions principales_
+**Actions principales**
 
 * Gestion du portefeuille utilisateurs du produit
-* Ecoute des utilisateurs afin d’identifier et répondre à leurs besoins/ leurs attentes ;
-* Conception d’une stratégie de fidélisation et d’engagement utilisateur;
-* Accompagnement des utilisateurs dans la découverte et l'embarquement dans le produit/ service et tout au long de l’utilisation du produit ;
-* Gestion des réclamations et remontée des retours utilisateurs.
+* Écoute des utilisateurs afin d’identifier et répondre à leurs besoins/ leurs attentes
+* Conception d’une stratégie de fidélisation et d’engagement utilisateur
+* Accompagnement des utilisateurs dans la découverte et l'embarquement dans le produit/ service et tout au long de l’utilisation du produit
+* Gestion des réclamations et remontée des retours utilisateurs
 
-<mark style="background-color:purple;">**Versatile, le/la chargé.e de déploiement peut aussi revêtir d’autres formes tel que Key Account Manager, Growth Hacker ou encore Community Manager.**</mark>
+
+
+**Versatile, le métier du déploiement peut aussi revêtir d’autres formes tel que&#x20;**_**Key Account Manager, Growth Hacker**_**&#x20;ou encore&#x20;**_**Community Manager**_**.**
 
 ### **Community Builder / Manager**
 
-<div align="left">
+<div align="left"><figure><img src="../../.gitbook/assets/Animation de la communautéSuccess .png" alt="" width="250"><figcaption></figcaption></figure></div>
 
-<figure><img src="../../../.gitbook/assets/Animation de la communautéSuccess .png" alt="" width="250"><figcaption></figcaption></figure>
+**La mission en quelques lignes**
 
-</div>
+Le ou la _Community manager_ (animateur ou animatrice de communautés web) a pour mission de fédérer les utilisateurs ou plus largement la communauté autour de pôles d'intérêts communs (marque, produits, valeurs...), d'animer et de faire respecter les règles éthiques des communautés. Il/elle définit des contenus pour chaque cible (images, vidéos, articles, jeux concours...), planifie la production, publie et anime les réseaux sociaux et évalue l’efficacité des actions. Il/elle contribue ainsi à développer la présence du produit sur Internet.
 
-_Description :_ Le ou la community manager (animateur ou animatrice de communautés web) a pour mission de fédérer les utilisateurs ou plus largement la communauté autour de pôles d'intérêts communs (marque, produits, valeurs...), d'animer et de faire respecter les règles éthiques des communautés. Il/elle définit des contenus pour chaque cible (images, vidéos, articles, jeux concours...), planifie la production, publie et anime les réseaux sociaux et évalue l’efficacité des actions. Il/elle contribue ainsi à développer la présence du produit sur Internet.
-
-_Actions_ :
+**Actions principales**
 
 * Participer à la création des valeurs de la communauté : culture, codes sociaux et langagiers...
-* Définir les objectifs et les indicateurs permettant de suivre l’audience et le développement de la communauté (reporting avec nombre de « posts », d’intéractions, qualité des réponses...)
+* Définir les objectifs et les indicateurs permettant de suivre l’audience et le développement de la communauté (reporting avec nombre de « posts », d’interactions, qualité des réponses...)
 * Planifier et suivre les actions de recrutement de membres en ligne (partenariats, parrainage, campagne d'e-mailing...)
 * Rédiger, relayer et animer les contenus permettant le développement de la visibilité du produit
 * Rechercher de nouveaux médias sociaux permettant d'étendre l'influence de la communauté
@@ -97,15 +89,13 @@ _Actions_ :
 
 ### **Growth Hacker**
 
-<div align="left">
+<div align="left"><figure><img src="../../.gitbook/assets/Expertise croissance Success .png" alt="" width="250"><figcaption></figcaption></figure></div>
 
-<figure><img src="../../../.gitbook/assets/Expertise croissance Success .png" alt="" width="250"><figcaption></figcaption></figure>
+**La mission en quelques lignes**
 
-</div>
+Le/la _Growth Hacker_ est la personne qui déclenche la croissance accélérée et ce, en peu de temps et avec des moyens limités (phase d’accélération). Son objectif est de créer la réputation du produit et un afflux de trafic grâce aux outils de marketing digital. Il/elle est en quelque sorte un prospecteur de masse, qui doit acquérir un très grand nombre d’adhérents/d’utilisateurs en peu de temps, pour faire décoller le produit. Cette activité est donc une arme de marketing massive.
 
-_Description :_ Le/la Growth Hacker est le déclencheur/déclencheuse de la croissance accélérée et ce, en peu de temps et avec des moyens limités (phase d’accélération). Son objectif est de créer la réputation du produit et un afflux de trafic grâce aux outils de marketing digital. Il/elle est en quelque sorte un prospecteur de masse, qui doit acquérir un très grand nombre d’adhérents/d’utilisateurs en peu de temps, pour faire décoller le produit. Cette activité est donc une arme de marketing massive.
-
-_Actions :_
+**Actions principales**
 
 * Acquisition : développer une stratégie de contenu pour générer du trafic et des leads, via du référencement naturel principalement (SEO) et des campagnes emailing
 * Activation : rendre le visiteur/utilisateur actif (création d’un compte, boutons call to Action, etc.)
@@ -116,15 +106,13 @@ _Actions :_
 
 ### **Key Account Manager**
 
-<div align="left">
+<div align="left"><figure><img src="../../.gitbook/assets/Gestion des grands comptes.png" alt="" width="250"><figcaption></figcaption></figure></div>
 
-<figure><img src="../../../.gitbook/assets/Gestion des grands comptes.png" alt="" width="250"><figcaption></figcaption></figure>
+**La mission en quelques lignes**
 
-</div>
+Un _Key Account Manager_ (KAM) - ou Responsable de Développement Grands Comptes - est une personne experte de l’approche client et du management de l’activité commerciale. Il/elle développe, gère et maintient de bonnes relations avec les clients, partenaires ou institutionnels. Il s’agit de partenaires stratégiques qui représentent une partie significative du développement et de la réussite de la startup. Pour ce faire, il/elle doit comprendre les besoins et les attentes des partenaires clés pour développer des offres adaptées, construire des partenariats stratégiques et préserver la relation sur le long terme. Pour cela, il/elle travaille en étroite collaboration avec les différentes équipes internes (marketing, produit, développement…).
 
-_Description :_ Un Key Account Manager (KAM) - ou Responsable de Développement Grands Comptes - est un.e expert.e de l’approche client et du management de l’activité commerciale. Il/elle est chargé.e de développer, gérer et maintenir de bonnes relations avec les clients, partenaires ou institutionnels. Il s’agit de partenaires stratégiques qui représentent une partie significative du développement et de la réussite de la Startup. Pour ce faire, il/elle doit comprendre les besoins et les attentes des partenaires clés pour développer des offres adaptées, construire des partenariats stratégiques et préserver la relation sur le long terme. Pour cela, il travaille en étroite collaboration avec les différentes équipes internes (marketing, produit, développement…).
-
-_Actions :_
+**Actions principales**
 
 * Analyser les besoins des différentes parties prenantes et proposer des solutions commerciales adaptées
 * Participer à la stratégie commerciale de la startup en établissant des objectifs de développement et de réalisation.

@@ -1,7 +1,7 @@
 ---
 description: >-
   Cette page vise à répondre aux principales questions que des personnes
-  développeuses pourraient se poser en arrivant chez beta.gouv. Une session
+  développeuses peuvent se poser en arrivant chez beta.gouv.fr. Une session
   d'embarquement est également prévue pour t'accueillir !
 ---
 
@@ -9,7 +9,7 @@ description: >-
 
 L'objectif des 6 premiers mois est d'**avoir de l'impact sur au moins un usager**, en écrivant du code de qualité en terme d'accessibilité (front), sécurité (back) et données utilisateurs (RGPD).
 
-La communauté beta.gouv est composée de **près de 300 développeur/euses qui peuvent t'aider à monter à bord** ! Assures-toi que tu as bien rejoins le canal [`~domaine-dev`](https://mattermost.incubateur.net/betagouv/channels/domaine-dev) sur Mattermost, et n'hésite pas à y faire coucou quand tu arrives 👋
+La communauté beta.gouv est composée de **près de 300 développeur et développeuses qui peuvent t'aider à monter à bord** ! Assure toi que tu as bien rejoins le canal [`~domaine-dev`](https://mattermost.incubateur.net/betagouv/channels/domaine-dev) sur Mattermost, et n'hésite pas à y faire coucou quand tu arrives 👋 !
 
 ## Faut-il commencer à coder dès le début ?
 
@@ -24,7 +24,7 @@ Beaucoup d'outils "No Code" ne sont pas hébergés en France et/ou ne sont pas a
 {% hint style="info" %}
 Si tu viens de rejoindre la communauté, Bienvenue !\
 \
-Pense à t'inscrire [à la prochaine session d'embarquement dédiée aux devs](https://airtable.com/shrUCbUT72KtKefsu) si ça n'est pas déjà fait. (voir aussi [les slides](https://docs.google.com/presentation/d/1PJsI2N0ja5--j\_\_dDlrOXQKt\_v9hTsV2uvODOOmZW68/edit#slide=id.g2df92dfbab2\_0\_405)).\
+Pense à t'inscrire [à la prochaine session d'embarquement dédiée aux devs](https://airtable.com/shrUCbUT72KtKefsu) si ça n'est pas déjà fait. (voir aussi [les slides](https://docs.google.com/presentation/d/1PJsI2N0ja5--j__dDlrOXQKt_v9hTsV2uvODOOmZW68/edit#slide=id.g2df92dfbab2_0_405)).\
 \
 Identifie [tes référent(e)s tech](../../../gerer-son-produit/gestion-au-quotidien/tech/to-do-liens-avec-les-referents-techs.md) qui sont à ta disposition tout au long de ton parcours
 {% endhint %}
@@ -67,7 +67,7 @@ Ne pas respecter les standards de qualité devra être justifié.
 [.](./)
 {% endcontent-ref %}
 
-Pour t'aider à situer ta Startup d'État par rapport à ces standards de qualité, ajoute ton url à l'outil [DashLord](https://dashlord.incubateur.net) en ouvrant une PR [ici](https://github.com/betagouv/dashlord/blob/main/dashlord.yml). Tu trouveras plus d'informations sur la page ci-dessous.
+Pour t'aider à situer ta startup d'État par rapport à ces standards de qualité, ajoute ton url à l'outil [DashLord](https://dashlord.incubateur.net) en ouvrant une PR [ici](https://github.com/betagouv/dashlord/blob/main/dashlord.yml). Tu trouveras plus d'informations sur la page ci-dessous.
 
 {% content-ref url="../../../les-outils-de-la-communaute/dashlord/" %}
 [dashlord](../../../les-outils-de-la-communaute/dashlord/)
@@ -91,7 +91,7 @@ Dans le cadre du travail avec l'administration, il est important de connaître l
 
 ### Demander de l'aide
 
-Il est crucial de ne pas rester seul face à des choix technologiques potentiellement structurants pour la suite du produit — surtout lorsqu'on est le premier profil technique recruté sur une Startup d'Etat. Tu peux t'appuyer sur de multiples ressources au sein de la communauté
+Il est crucial de ne pas rester seul face à des choix technologiques potentiellement structurants pour la suite du produit — surtout lorsqu'on est le premier profil technique recruté sur une startup d'Etat. Tu peux t'appuyer sur de multiples ressources au sein de la communauté
 
 {% content-ref url="../../../gerer-son-produit/gestion-au-quotidien/tech/support-tech.md" %}
 [support-tech.md](../../../gerer-son-produit/gestion-au-quotidien/tech/support-tech.md)

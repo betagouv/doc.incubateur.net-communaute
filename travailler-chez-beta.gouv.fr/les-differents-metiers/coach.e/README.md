@@ -1,28 +1,28 @@
-# Coach.e
+# Coach
 
-## À quoi ça sert une personne qui coache une Startup d'État ?
+## À quoi ça sert une personne qui coache une startup d'État ?
 
 {% hint style="info" %}
 extrait de l'appel d'offre « Accompagnement »
 {% endhint %}
 
-> Pour démultiplier l’émergence de ces équipes et de leurs produits numériques au sein de l’administration, la DINUM (ex-DINSIC) doit être accompagnée par des experts issus de l’économie numérique au profil d’entrepreneurs, en capacité d’articuler objectifs stratégiques et mise en œuvre opérationnelle.
+> Pour démultiplier l’émergence de ces équipes et de leurs produits numériques au sein de l’administration, la DINUM doit être accompagnée par des experts issus de l’économie numérique au profil d’entrepreneurs, en capacité d’articuler objectifs stratégiques et mise en œuvre opérationnelle.
 >
-> Il s’agit de contribuer à la transformation numérique de l’Etat :
+> Il s’agit de contribuer à la transformation numérique de l’État :
 >
-> * En accompagnant des équipes produits autonomes chargées de résoudre un problème de politique publique, de façon itérative et toujours au contact des utilisateurs ;
-> * En partageant des compétences et des méthodes issues de l’économie numérique pour améliorer la qualité des services publics ;
+> * en accompagnant des équipes produits autonomes chargées de résoudre un problème de politique publique, de façon itérative et toujours au contact des utilisateurs ;
+> * en partageant des compétences et des méthodes issues de l’économie numérique pour améliorer la qualité des services publics ;
 > * En accompagnant quand nécessaire les administrations publiques partenaires dans les évolutions organisationnelles et managériales qu’impliquent le numérique.
 >
 > Les experts retenus, appelés ici « coachs » \[...]
 
 Il s'agit donc pour la coache, d'**accompagner** et de **partager des savoir-faire**.
 
-Une [présentation](https://docs.google.com/presentation/d/12aEGovHBZYH-xeskRalvhPhGhDG971hibddiGj5f\_AU/edit?usp=sharing) datant d'octobre 2020 cartographie les différentes nuances du rôle de coach chez beta.gouv.fr.
+Une [présentation](https://docs.google.com/presentation/d/12aEGovHBZYH-xeskRalvhPhGhDG971hibddiGj5f_AU/edit?usp=sharing) datant d'octobre 2020 cartographie les différentes nuances du rôle de coach chez beta.gouv.fr.
 
 ## Quel est le niveau d'intervention d'une personne qui coache ?
 
-Les éléments partagés ici peuvent servir de référence et non de normes. Ils reflètent d'une part ce que nous avons observé chez beta.gouv, d'autre part l'exigence d'éthique budgétaire liée à notre mission d'intérêt général. Ce document a une valeur indicative et pourra évoluer en fonction du marché et des retours des équipes.
+Les éléments partagés ici peuvent servir de référence et non de normes. Ils reflètent d'une part ce que nous avons observé chez beta.gouv.fr, d'autre part l'exigence d'éthique budgétaire liée à notre mission d'intérêt général. Ce document a une valeur indicative et pourra évoluer en fonction du marché et des retours des équipes.
 
 | Phase                                                                        | Nombre de jours indicatifs sur la période | Nombre de jours indicatifs par semaine | Implication  | But                                                   |
 | ---------------------------------------------------------------------------- | ----------------------------------------- | -------------------------------------- | ------------ | ----------------------------------------------------- |
@@ -41,15 +41,15 @@ Un échange entre le coach, l'intra et le co-animateur ou la co-animatrice perme
 
 ## Quelle différence avec un(e) responsable de produit ?
 
-Certaines équipes sont composées d'un(e) [gestionnaire de produit ](../gestionnaire-de-produit-PO-PM/)(parfois responsable de produit, appelé(e) chef(fe) de produit, _product manager_ ou _product owner_).
+Certaines équipes sont composées d'une personne [gestionnaire de produit ](../gestionnaire-de-produit-PO-PM/)(parfois responsable de produit, appelé(e) chef ou cheffe de produit, _product manager_ ou _product owner_).
 
-C'est le cas lorsque qu'il n'y a plus d'intrapreneur dans l'équipe ou que celui ou celle-ci n'a pas assez de temps à consacrer au produit, ou parce qu'on a choisi d'associer une personne à l'intrapreneur (rôle d'entrepreneur associé).
+C'est le cas lorsque qu'il n'y a plus d'intra dans l'équipe ou que celui ou celle-ci n'a pas assez de temps à consacrer au produit, ou parce qu'on a choisi d'associer une personne à l'intrapreneur (rôle d'entrepreneur associé).
 
 Le gestionnaire de produit est différent du coach car il conçoit avec l'équipe à la différence du coach qui accompagne.
 
 ## **Quel est le rôle du coach ?**
 
-Le rôle du coach au sein d’une start-up d’état comprend, mais ne se limite pas à :
+Le rôle du coach au sein d’une startup d’État comprend, mais ne se limite pas à :
 
 * être garant de l’impact de l’équipe, l’aider à fixer des objectifs d’impact ;
 * aider à la mise en place d’une équipe, par le recrutement des développeurs, des chargés de déploiement, des designers ;
@@ -58,15 +58,15 @@ Le rôle du coach au sein d’une start-up d’état comprend, mais ne se limite
 * travailler en binôme avec l’intra pour le préserver des réflexes et attentes du reste de la structure et qui pourraient nuire à l’objectif de mise en production en moins de 6 mois ;
 * être un appui dans l’organisation de l’équipe : médiation au sein de l’équipe et mise en place de rituels d’équipe.
 
-Le coach doit s’adapter à la configuration de l’équipe qui dépend de l’engagement de l’intrapreneur et de la répartition des rôles. Son rôle, à terme, est de faire monter en compétences l’équipe pour lui permettre de s’autonomiser petit à petit (et non pas “faire à la place” de l’équipe). Il doit aussi maîtriser la culture de Beta.gouv; la durée de son expérience en SET est fortement valorisée.
+Le coach doit s’adapter à la configuration de l’équipe qui dépend de l’engagement de l’intrapreneur et de la répartition des rôles. Son rôle, à terme, est de faire monter en compétences l’équipe pour lui permettre de s’autonomiser petit à petit (et non pas “faire à la place” de l’équipe). Il doit aussi maîtriser la culture de beta.gouv.fr ; la durée de son expérience en SET est fortement valorisée.
 
-Lecture conseillée pour approfondir cette discussion : l’excellente “[cartographie de pratiques de coaching à beta.gouv.fr](https://docs.google.com/presentation/d/12aEGovHBZYH-xeskRalvhPhGhDG971hibddiGj5f\_AU/edit#slide=id.p)” de Raphael.\\
+Lecture conseillée pour approfondir cette discussion : l’excellente “[cartographie de pratiques de coaching à beta.gouv.fr](https://docs.google.com/presentation/d/12aEGovHBZYH-xeskRalvhPhGhDG971hibddiGj5f_AU/edit#slide=id.p)” de Raphael.
 
 ***
 
 ## **Quelles compétences pour être coach ?**
 
-D’expérience, les meilleurs coachs avec qui nous avons travaillé chez[ beta.gouv.fr](http://beta.gouv.fr) ont une expérience entrepreneuriale et savent un peu tout faire (tech, design, bizdev, politique, etc). Ils et elles ont du vécu et savent gérer des situations complexes.
+D’expérience, les meilleurs coachs avec qui nous avons travaillé chez[ beta.gouv.fr](http://beta.gouv.fr) ont une expérience entrepreneuriale et savent un peu tout faire (tech, design, bizdev, politique, etc.). Ils et elles ont du vécu et savent gérer des situations complexes.
 
 Ce sont des personnes qui ont l’expérience de lancer des produits de la page blanche au 1er puis à 1000 utilisateurs.
 
@@ -104,7 +104,7 @@ Aide pour acquérir cette compétence : Lire des références dans le domaine (R
 
 Aide pour acquérir cette compétence :
 
-* Suivre la formation “chargé.e de déploiement chez Beta : [https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/le-metier-de-charge.e-de-deploiement-chez-beta.gouv](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/le-metier-de-charge.e-de-deploiement-chez-beta.gouv)
+* Suivre la formation chargé.e de déploiement chez beta.gouv.fr : [https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/le-metier-de-charge.e-de-deploiement-chez-beta.gouv](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/le-metier-de-charge.e-de-deploiement-chez-beta.gouv)
 * Participer au Club bizdev mensuel
 
 **Animation d’équipe**
@@ -115,7 +115,7 @@ Rituels d’équipe (mise en place d’outils partagés (Trello, Airtable, etc),
 
 ***
 
-**Connaître la culture Beta.gouv**
+**Connaître la culture beta.gouv.fr**
 
 Être en mesure d’expliquer et de transmettre cette culture à l’intrapreneur et les nouveaux membres de l’équipe. s’impliquer au sein de la communauté.
 

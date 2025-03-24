@@ -2,10 +2,10 @@
 description: Comment bien utiliser un designer dans un projet ?
 ---
 
-# Designer.euse
+# Designeuse / designer
 
 {% hint style="info" %}
-Chez beta.gouv.fr, les designers ont pour objectif d'aider les équipes à **comprendre les utilisateurs et leurs besoins** et à **concevoir des interfaces les plus accessibles possibles** pour construire les bons services, de la bonne façon.
+Chez beta.gouv.fr, les designers et designeuses ont pour objectif d'aider les équipes à **comprendre les utilisateurs et leurs besoins** et à **concevoir des interfaces les plus accessibles possibles** pour construire les bons services, de la bonne façon.
 {% endhint %}
 
 {% embed url="https://vimeo.com/415190106" %}
