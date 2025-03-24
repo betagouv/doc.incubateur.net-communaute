@@ -8,8 +8,7 @@ accessibles à tous.
 
 ## Critères
 
-- Une personne est identifiée comme référent accessibilité.
-- Des formations régulières sont organisées.
+- Le code HTML produit est sémantique.
 
 ## Ressources
 
