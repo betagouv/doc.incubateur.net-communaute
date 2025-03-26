@@ -12,4 +12,4 @@ transparence financière et l'engagement des parties prenantes.
 
 ## Ressources
 
-- [Guide de transparence budgétaire](https://www.example.com/guide-transparence-budgetaire)
+- [Publier son budget sur la documentation Beta](https://doc.incubateur.net/communaute/gerer-son-produit/les-standards/transparence/publier-son-budget)
