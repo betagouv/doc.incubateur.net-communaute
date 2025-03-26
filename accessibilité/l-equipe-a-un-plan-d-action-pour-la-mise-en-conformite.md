@@ -12,7 +12,5 @@ normes d'accessibilité en vigueur.
 
 ## Ressources
 
-- [Accessibilité numérique]
-  (<https://www.numerique.gouv.fr/publications/rgaa-accessibilite/>)
-- [Liste des formations accessibilité proposées à Beta]
-  (<https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/se-former/se-former-en-ligne/formation-a-laccessibilite>)
+- [Accessibilité numérique](<https://www.numerique.gouv.fr/publications/rgaa-accessibilite/>)
+- [Liste des formations accessibilité proposées à Beta](<https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/se-former/se-former-en-ligne/formation-a-laccessibilite>)
