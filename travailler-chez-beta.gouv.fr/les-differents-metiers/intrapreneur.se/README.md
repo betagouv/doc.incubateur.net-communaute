@@ -72,7 +72,3 @@ Découvrez l'offre de service d'accompagnement des carrières des intras sur not
 * [Les pratiques intrapreunariales dans le secteur public : une étude de cas de l’entreprise Embrapa](https://pad.incubateur.net/kHFy0e1oTOSCbZAsQT24hg?view)
 
 Pour en savoir plus sur les infos utiles liées au métier d'intra, consultez le lien ci-dessous :
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
