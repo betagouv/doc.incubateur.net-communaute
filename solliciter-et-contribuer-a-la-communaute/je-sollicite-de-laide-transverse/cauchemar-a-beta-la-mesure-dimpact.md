@@ -1,4 +1,8 @@
-# cauchemar-a-beta-la-mesure-dimpact.md
+---
+hidden: true
+---
+
+# Atelier impact
 
 ## #Acte 2 : "60 minutes pour faire un pas de plus vers des métriques utiles et utilisables"
 
