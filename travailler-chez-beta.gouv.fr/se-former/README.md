@@ -13,7 +13,7 @@ Nous ne disposons pas d'une "stratégie" de formation. Néanmoins nous avons ini
   * [Les replays des formations](https://www.youtube.com/playlist?list=PL1x4mOvpkEHopyiZHZdqXO8ageS6BYSu8)
 * [des formations récurrentes](les-formations-a-venir.md)
 * des [groupes de partage d'expérience](../../decouvrir-beta.gouv.fr/la-communaute/les-rituels/clubs-de-partage-dexperience.md) sous forme de co-développement professionnels.
-* une[ certification pour les intrapreneurs](../les-differents-metiers/intrapreneur.se/certification-des-intrapreneurs/).
+* une[ certification pour les intrapreneurs](../les-differents-metiers/intrapreneur/certification-des-intrapreneurs/).
 
 Au sein de chaque incubateur ou Fabrique numérique membre du réseau beta.gouv.fr, il existe également des actions de formation.
 
@@ -33,8 +33,8 @@ Retrouve aussi les autres sections qui concernent la rubrique "Se former et évo
 [clubs-de-partage-dexperience.md](../../decouvrir-beta.gouv.fr/la-communaute/les-rituels/clubs-de-partage-dexperience.md)
 {% endcontent-ref %}
 
-{% content-ref url="../les-differents-metiers/intrapreneur.se/certification-des-intrapreneurs/" %}
-[certification-des-intrapreneurs](../les-differents-metiers/intrapreneur.se/certification-des-intrapreneurs/)
+{% content-ref url="../les-differents-metiers/intrapreneur/certification-des-intrapreneurs/" %}
+[certification-des-intrapreneurs](../les-differents-metiers/intrapreneur/certification-des-intrapreneurs/)
 {% endcontent-ref %}
 
 {% content-ref url="animer-une-formation.md" %}
