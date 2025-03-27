@@ -215,7 +215,7 @@
 * [🏃 Gestion au quotidien](gerer-son-produit/gestion-au-quotidien/README.md)
   * [💰 Budget](gerer-son-produit/gestion-au-quotidien/budget/README.md)
     * [💲 La facturation de A à Z](gerer-son-produit/gestion-au-quotidien/budget/la-facturation-de-a-a-z/README.md)
-    * [💶 Augmenter son budget en postulant à des fonds](gerer-son-produit/gestion-au-quotidien/budget/lever-des-fonds-en-construction.md)
+    * [💶 Augmenter son budget en postulant à des fonds](gerer-son-produit/gestion-au-quotidien/budget/lever-des-fonds.md)
     * [Préparer un comité d'investissement](gerer-son-produit/gestion-au-quotidien/budget/preparer-un-comite-dinvestissement/README.md)
     * [🏦 Le rôle du sponsor dans le comité d'investissement](gerer-son-produit/gestion-au-quotidien/budget/le-role-du-sponsor-dans-le-comite-dinvestissement.md)
     * [Préparer la fin d'année budgétaire](gerer-son-produit/gestion-au-quotidien/budget/preparer-la-fin-dannee-budgetaire.md)

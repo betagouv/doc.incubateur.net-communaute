@@ -1,6 +1,6 @@
 # 💶 Augmenter son budget en postulant à des fonds
 
-## Les guichets de financement 2025 (en construction)
+## Les guichets de financement 2025
 
 Outre les fonds alloués par leurs sponsors, les startups peuvent solliciter des fonds auprès d'un certain nombre de guichets de financement.
 

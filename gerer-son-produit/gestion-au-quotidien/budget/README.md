@@ -4,8 +4,8 @@
 [la-facturation-de-a-a-z](la-facturation-de-a-a-z/)
 {% endcontent-ref %}
 
-{% content-ref url="lever-des-fonds-en-construction.md" %}
-[lever-des-fonds-en-construction.md](lever-des-fonds-en-construction.md)
+{% content-ref url="lever-des-fonds.md" %}
+[lever-des-fonds.md](lever-des-fonds.md)
 {% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}
