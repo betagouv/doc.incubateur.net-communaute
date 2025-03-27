@@ -30,11 +30,11 @@
 
 * [👷‍♀️ Les différents métiers](travailler-chez-beta.gouv.fr/les-differents-metiers/README.md)
   * [Intrapreneur / intrapreneure](travailler-chez-beta.gouv.fr/les-differents-metiers/intrapreneur.se/README.md)
-    * [Les infos utiles de l'intra](travailler-chez-beta.gouv.fr/les-differents-metiers/intrapreneur.se/les-infos-utiles-de-lintra.md)
     * [🎖️ Certification des intras](travailler-chez-beta.gouv.fr/les-differents-metiers/intrapreneur.se/certification-des-intrapreneurs/README.md)
       * [🤔 Pourquoi une certification des compétences des intras ?](travailler-chez-beta.gouv.fr/les-differents-metiers/intrapreneur.se/certification-des-intrapreneurs/pourquoi-une-certification-des-competences-des-intras.md)
       * [🌟 C'est quoi une certification de compétences ?](travailler-chez-beta.gouv.fr/les-differents-metiers/intrapreneur.se/certification-des-intrapreneurs/cest-quoi-une-certification-de-competences.md)
       * [🎦 Vidéos de révision](travailler-chez-beta.gouv.fr/les-differents-metiers/intrapreneur.se/certification-des-intrapreneurs/videos-de-revisions.md)
+    * [💼 Accompagnement de carrières des intras](travailler-chez-beta.gouv.fr/les-differents-metiers/intrapreneur.se/accompagnement-de-carrieres-des-intras.md)
   * [Designeuse / designer](travailler-chez-beta.gouv.fr/les-differents-metiers/comprendre-le-role-du-design.md)
   * [Chargé / chargée de déploiement](travailler-chez-beta.gouv.fr/les-differents-metiers/le-charge-de-deploiement-dans-le-programme-beta.gouv.md)
   * [Coach](travailler-chez-beta.gouv.fr/les-differents-metiers/coach.e/README.md)
