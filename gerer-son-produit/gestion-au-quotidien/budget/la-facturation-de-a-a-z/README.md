@@ -1,6 +1,5 @@
 ---
 description: Comprendre les grandes étapes de la facturation, du livrable au paiement.
-hidden: true
 ---
 
 # 💲 La facturation de A à Z
@@ -49,7 +48,7 @@ Les entreprises titulaires des marchés de la DINUM sont invités à transmettre
 
 <summary>Processus pour la Fabrique numérique du MTE</summary>
 
-L’attributaire dépose le PV livraison sur le[ notion ](https://www.notion.so/lafabnum/Suivi-des-bons-de-commande-BC-9e2e7dae11c740ce99a2e9e87cb3873c)en **décalant la carte dans la colonne “PV à signer”** et notifie l’intra + responsable de portefeuille.&#x20;
+L’attributaire dépose le PV livraison sur le[ notion ](https://www.notion.so/lafabnum/Suivi-des-bons-de-commande-BC-9e2e7dae11c740ce99a2e9e87cb3873c)en **décalant la carte dans la colonne “PV à signer”** et notifie l’intra + responsable de portefeuille.
 
 L'intra et le responsable de portefeuille signent.
 
@@ -65,7 +64,7 @@ Si le service fait est correct, le service fait est enregistré dans le logiciel
 
 ### Étape 4 : le titulaire dépose sa facture dans le logiciel Chorus Pro. <a href="#id-5-le-titulaire-depose-sa-facture-dans-le-logiciel-chorus" id="id-5-le-titulaire-depose-sa-facture-dans-le-logiciel-chorus"></a>
 
-Pour être payé, l'entreprise titulaire doit déposer sa facture dans [CHORUS Pro](https://portail.chorus-pro.gouv.fr/aife\_csm/?id=aife\_index). Il peut le faire au moment où il dépose le PVSF ou lorsque celui-ci est enregistré.
+Pour être payé, l'entreprise titulaire doit déposer sa facture dans [CHORUS Pro](https://portail.chorus-pro.gouv.fr/aife_csm/?id=aife_index). Il peut le faire au moment où il dépose le PVSF ou lorsque celui-ci est enregistré.
 
 ### Étape 5 : le comptable public réalise le paiement
 

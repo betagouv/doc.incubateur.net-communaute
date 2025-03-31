@@ -8,10 +8,6 @@
 [lever-des-fonds.md](lever-des-fonds.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
 {% content-ref url="preparer-la-fin-dannee-budgetaire.md" %}
 [preparer-la-fin-dannee-budgetaire.md](preparer-la-fin-dannee-budgetaire.md)
 {% endcontent-ref %}

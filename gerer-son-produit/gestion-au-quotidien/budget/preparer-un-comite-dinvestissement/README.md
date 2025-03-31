@@ -1,11 +1,22 @@
 ---
 icon: face-glasses
-hidden: true
 ---
 
 # Préparer un comité d'investissement
 
-#### Exemple de template
+## Qu'est-ce qu'un comité d'investissement ?
+
+Le comité d'investissement est l'instance de pilotage principal d'un produit numérique. Il a lieu régulièrement, au moins tous les 6 mois, et permet de faire le point sur l'impact obtenu par l'équipe du produit et d'arbitrer sur les objectifs et les investissements consentis par les administrations qui financent le service.
+
+**Si le service n'a pas réussi à prouver son utilité ou sa pertinence, c'est donc au comité d'investissement qu'est décidé son arrêt ; ou au contraire, si les résultats du service sont particulièrement probants, le comité d'investissement peut statuer sur le renforcement des moyens, son accélération ou sa pérennisation.**
+
+Au-delà du pilotage régulier par l’impact, le comité revêt d’autres fonctions :&#x20;
+
+* rappeler et sensibiliser à la démarche les directions générales tout en les impliquant dans la décision ;
+* engager les sponsors de proximité et leur permettre de confirmer les orientations et les attentes en termes d'impact ;
+* montrer aux directions l'intérêt du produit en rendant compte de ses résultats en invitant des usagers et partenaires.
+
+#### Exemple de présentation de comité d'investissement
 
 {% embed url="https://docs.google.com/presentation/d/1rVv7wItVNP1gQw4lz5TbWuV32hBq_EZ4EUJNnx4CvgY/edit#slide=id.g31b4f8b424f_0_207" %}
 Modèle de présentation pour comité d'investissement avec les essentiels
@@ -17,43 +28,48 @@ Vous pouvez aussi télécharger une version pptx ci-dessous. N'oubliez pas de re
 
 {% file src="../../../../.gitbook/assets/Modèle présentation produit.pptx" %}
 
-## Qu'est-ce qu'un comité d'investissement ?
-
-Le comité d'investissement est l'instance de pilotage principal d'un produit numérique dans le programme beta.gouv.fr. Il a lieu tous les 6 mois ou tous les ans au moins et permet de faire le point sur l'impact obtenu par l'équipe du produit et d'arbitrer sur les objectifs et les investissements consentis par les administrations qui financent le service.
-
-Si le service n'a pas réussi à prouver son utilité ou sa pertinence, c'est donc au comité d'investissement qu'est décidé son arrêt ; ou au contraire, si les résultats du service sont particulièrement probants, le comité d'investissement peut statuer sur sa pérennisation.
-
 ## Ce qui sera attendu sur la forme <a href="#ce-qui-sera-attendu-sur-la-forme" id="ce-qui-sera-attendu-sur-la-forme"></a>
 
 ### Qui l'organise ?
 
-L’intrapreneur avec l’aide de son équipe. L'[équipe d'animation de beta.gouv.fr](../../../../decouvrir-beta.gouv.fr/incubateur-de-la-dinum/lequipe-danimation-beta.gouv.fr.md) et/ou le ou la responsable d'incubateur peuvent faciliter l'organisation. \
+Le comité est organisé par l’intra avec l’aide de son équipe. L'[équipe d'animation de beta.gouv.fr](../../../../decouvrir-beta.gouv.fr/incubateur-de-la-dinum/lequipe-danimation-beta.gouv.fr.md) et/ou le ou la responsable d'incubateur peuvent faciliter l'organisation.
+
+Les incubateurs sont garants de l'organisation de comités d'investissement pour l’ensemble des produits numériques qu'ils incubent.\
 \
-Avant d'organiser le comité, assure toi que le sponsor a bien compris son rôle d'investisseur; pour ça tu peux lui envoyer [cette fiche](../le-role-du-sponsor-dans-le-comite-dinvestissement.md) et en discuter avec lui/elle.
+Avant d'organiser le comité, assure toi que le sponsor a bien compris son rôle d'investisseur ; pour ça tu peux lui envoyer [cette fiche](../le-role-du-sponsor-dans-le-comite-dinvestissement.md) et en discuter avec lui/elle.
 
 ### Quand ? <a href="#quand" id="quand"></a>
 
-* Prévoyez 45 à 30 jours avant l'épuisement de l'enveloppe budgétaire allouée pour la période en cours ;
+* Prévoyez 45 à 30 jours avant l'épuisement de l'enveloppe budgétaire allouée pour la période en cours.
 * Attention : le délai administratif pour renouveler une convention de partenariat et relancer une demande de devis pour poursuivre avec les membres de l’équipe peut prendre plusieurs semaines.
 
 ### Quelle durée ? <a href="#quelle-duree" id="quelle-duree"></a>
 
-* Durée recommandée : 90 minutes, avec 10 à 15 minutes max de présentation par l'équipe produit, et 1h au moins de discussions.
+Durée recommandée : 50 minutes minimum
+
+* 30 minutes en présence de l'équipe
+  * 15 minutes max de présentation par l'équipe produit
+  * 15 minutes de questions/réponses et retours à l'équipe
+* 20 minutes de délibération, en présence ou non de l'équipe
 
 ### Qui doit être présent et invité ? <a href="#qui-doit-etre-present-et-invite" id="qui-doit-etre-present-et-invite"></a>
 
-* L’équipe de la Startup d'Etat : l’intra (obligatoirement) et ses co-équipiers (facultatif et s’ils le souhaitent)
-* Le ou la sponsor
-* Le ou la responsable de votre incubateur
+Le comité est obligatoirement composé de :
 
-En plus et de façon facultative :
+* L’équipe de la startup d'État : l’intra (obligatoirement) et ses co-équipiers (facultatif et s’ils le souhaitent)
+* L'administration sponsor représentée au plus haut niveau hiérarchique
+* Les autres directions métiers impliquées dans la thématique
+* Le ou la responsable de votre incubateur
+* La ou le responsable de portefeuille DINUM
+
+En plus, et de façon facultative :
 
 * La ou le secrétaire générale / directrice générale (si ce n’est pas déjà votre sponsor)
 * Un ou deux utilisateurs (ou leurs représentants)
 
-Cas particuliers des Startups d'Etat portées ou co-financées par beta.gouv (via le FAST par exemple):
+Cas particuliers des startups d'État portées ou co-financées par la DINUM (via le FAST par exemple):
 
-* un membre du comité de direction de la DINUM + un coanimatrice/eur.
+* un membre du comité de direction de la DINUM + le/la responsable de portefeuille
 
 ### Vos objectifs pour ce comité <a href="#vos-objectifs-pour-ce-comite" id="vos-objectifs-pour-ce-comite"></a>
 
@@ -67,9 +83,9 @@ Cas particuliers des Startups d'Etat portées ou co-financées par beta.gouv (vi
 2. Rappel des objectifs du comité
 3. Partager l’état d’avancement:
    * Rappel du problème et de ses conséquences
-   * la stratégie des 6 derniers mois
+   * La stratégie des 6 derniers mois
    * Le produit (démo)
-   * indicateurs et mesures d’impact observé <-- l’attente est souvent là\*\*
+   * Indicateurs et mesures d’impact observé : **l’attente est souvent ici !**
    * Votre stratégie pour les 6 prochains mois
 4. La demande de l’équipe
    * Taille/profil de l’équipe pressentie
@@ -80,6 +96,7 @@ Cas particuliers des Startups d'Etat portées ou co-financées par beta.gouv (vi
 
 ## Bonnes pratiques <a href="#bonnes-pratiques" id="bonnes-pratiques"></a>
 
+* Partager la présentation aux participants une semaine avant la tenue du comité.
 * Lire ou relire les conseils d’une intrapreneuse [“Le pitch à 6 mois”](https://blog.beta.gouv.fr/mtes/2018/10/05/le-pitch-a-6-mois/)​
 * Demander sur le canal #Domaine-intrapreneurs si d’autres intra peuvent partager le support de leur dernier comité d’investissement.
-* Organiser une répétition en sollicitant des membres de la communauté afin d’être challengé et pret le jour J.
+* Organiser une répétition publique en invitant les membres de la communauté afin d’être challengé et prêt le jour J.

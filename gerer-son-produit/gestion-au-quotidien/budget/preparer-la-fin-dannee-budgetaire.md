@@ -1,6 +1,6 @@
 ---
 description: >-
-  Les informations ci-dessous concernent les Startups d’État ou incubateurs
+  Les informations ci-dessous concernent les startups d’État ou incubateurs
   utilisant les marchés de la DINUM.
 hidden: true
 icon: calendar-days
@@ -8,9 +8,9 @@ icon: calendar-days
 
 # Préparer la fin d'année budgétaire
 
-Vous êtes intrapreneur·e·s au sein d'une Startups d'Etat ou responsable d'un incubateur ?
+Vous êtes intra au sein d'une startup d'État ou responsable d'un incubateur ?
 
-Voici quelques informations importantes concernant la gestion de votre budget. C'est un peu long et fastidieux, mais nous espèrons que ces informations vous permettront de ne pas avoir de (mauvaises) surprises d'ici la fin de l'année.
+Voici quelques informations importantes concernant la gestion de votre budget. C'est un peu long et fastidieux, mais nous espérons que ces informations vous permettront de ne pas avoir de (mauvaises) surprises d'ici la fin de l'année.
 
 ### C'est quoi la clôture budgétaire ?
 
