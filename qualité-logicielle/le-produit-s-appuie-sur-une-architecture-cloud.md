@@ -1,4 +1,4 @@
-# Le produit s'appuie sur une architecture cloud
+# Le produit s'appuie sur une architecture Cloud
 
 ## Description
 
