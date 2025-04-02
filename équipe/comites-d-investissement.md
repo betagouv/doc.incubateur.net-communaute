@@ -12,7 +12,3 @@ a minima tous les ans.
 ## Ressources
 
 - [Préparer un comité d'investissement](https://doc.incubateur.net/communaute/gerer-son-produit/gestion-au-quotidien/budget/preparer-un-comite-dinvestissement)
-
-
-
-
