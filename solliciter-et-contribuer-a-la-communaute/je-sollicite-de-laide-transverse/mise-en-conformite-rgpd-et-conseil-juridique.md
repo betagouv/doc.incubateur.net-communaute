@@ -6,6 +6,8 @@ En plus des intervenants de la DINUM, vous pouvez contacter des coachs conformit
 
 Tout le monde est disponible sur Mattermost, channel [#domaine-juridique](https://mattermost.incubateur.net/betagouv/channels/domaine-juridique).
 
+En asynchrone, un webinaire reprend [les questions les plus posées par les équipes beta.gouv.fr.](https://tube.numerique.gouv.fr/w/18C1ebBoBLkEi2QwCDe3ej)
+
 ## Qu’est-ce qu’on propose ?
 
 On vous propose de répondre rapidement à toute question liée à la conformité ou de nature “juridique”.
