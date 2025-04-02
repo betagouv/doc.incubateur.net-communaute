@@ -2,7 +2,8 @@
 
 ## Description
 
-L'équipe est autonome dans le pilotage de sa feuille de route et la priorisation de ses tâches.
+L'équipe est autonome dans le pilotage de sa feuille de route et
+la priorisation de ses tâches.
 
 ## Critères
 
