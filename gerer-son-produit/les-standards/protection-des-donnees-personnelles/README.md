@@ -72,10 +72,10 @@ Attention, la loi ne s'applique pas dans les cas de collecte, enregistrement ou 
 * [ ] Je choisis les bons outils.
   * 💡 Info et recommandation pour la gestion des cookies : [lien](https://beta.gouv.fr/suivi/)
 * [ ] Je recense toutes les données traitées et les finalités qui leur sont associées \[1 à 2h].
-  * 💡 [Tableau données-finalités](https://docs.google.com/document/d/1PQniGdnvLdjyEBbk1lFGzmG6rwnwD5bPCbvP\_XBOe4I/edit?usp=sharing) écrit par la startup Itou. Le vôtre sera plus simple !
+  * 💡 [Tableau données-finalités](https://docs.google.com/document/d/1PQniGdnvLdjyEBbk1lFGzmG6rwnwD5bPCbvP_XBOe4I/edit?usp=sharing) écrit par la startup Itou. Le vôtre sera plus simple !
 * [ ] Si mon produit rentre dans l'un des [critères de la CNIL](https://www.cnil.fr/sites/default/files/atoms/files/liste-traitements-aipd-non-requise.pdf) : j'initie une analyse d'impact relative à la protection des donnée (AIPD, aussi appelée EIVP).
-  * 💡 [Une AIPD, c'est quoi ?](https://www.cnil.fr/sites/default/files/atoms/files/infographie\_aipd.pdf)
-  * 💡 [Exemple d'AIPD](https://docs.google.com/document/d/1j\_1EESLdOHIa6bsYo3VSp-AJhPNPbQJKNRJnpJpRhKU/edit) pour la startup Itou.
+  * 💡 [Une AIPD, c'est quoi ?](https://www.cnil.fr/sites/default/files/atoms/files/infographie_aipd.pdf)
+  * 💡 [Exemple d'AIPD](https://docs.google.com/document/d/1j_1EESLdOHIa6bsYo3VSp-AJhPNPbQJKNRJnpJpRhKU/edit) pour la startup Itou.
 * [ ] Je sensibilise très tôt les membres de mon équipe aux bonnes pratiques individuelles de sécurité informatique, en particulier les personnes appelées à administer le service.
 * [ ] J'ajoute ma startup sur [MonServiceSécurisé, un service de l'ANSSI](https://www.monservicesecurise.ssi.gouv.fr), pour générer une liste personnalisée de mesures pour sécuriser mon service, découvrir son "indice cyber" et constituer facilement mon premier dossier d'homologation.
 * [ ] J'organise, en complément, un atelier d'analyse de risques en suivant le guide agile de l'ANSSI \[1 demi-journée en équipe complète].
@@ -115,3 +115,6 @@ _Mon produit a rencontré ses utilisateurs et démontré sa valeur en phase d'ex
 * Croire que c'est fini !
 {% endtab %}
 {% endtabs %}
+
+Un webinaire reprend [les questions les plus posées par les équipes beta.gouv.fr](https://tube.numerique.gouv.fr/w/18C1ebBoBLkEi2QwCDe3ej). \
+Pour avoir [un conseil plus poussé.](https://doc.incubateur.net/communaute/solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/mise-en-conformite-rgpd-et-conseil-juridique)
