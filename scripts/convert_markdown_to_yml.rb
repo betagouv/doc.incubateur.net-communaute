@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 require 'yaml'
+require 'active_support/core_ext/string'
 
 class MarkdownFile
   attr_reader :file_path, :content, :yml_data
@@ -42,7 +43,13 @@ class MarkdownFile
 
   def extract_criteria
     if content =~ /## Critères\n\n(.+?)\n\n##/m
-      yml_data['criteria'] = $1.strip.split("\n").map { |c| c.gsub(/^- /, '').strip }
+      yml_data['criteria'] =
+        $1
+        .strip
+        .split("\n-")
+        .map(&:squish)
+        .map { |crit| crit.delete_prefix('- ') }
+        .reject(&:empty?)
     end
   end
 
