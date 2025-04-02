@@ -2,7 +2,8 @@
 
 ## Description
 
-Un(e) responsable produit, agent public, est identifié et travaille, au moins à mi-temps, dans une équipe intégrée et autonome
+Un(e) responsable produit, agent public, est identifié et travaille,
+au moins à mi-temps, dans une équipe intégrée et autonome.
 
 ## Critères
 
