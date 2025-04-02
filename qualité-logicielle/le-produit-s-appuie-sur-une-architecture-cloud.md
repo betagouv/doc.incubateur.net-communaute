@@ -15,3 +15,4 @@ La conception technique du produit respecte les "12 facteurs".
 ## Ressources
 
 - [les 12 facteurs](https://blog.cellenza.com/cloud-2/12-factor-app-les-patterns-a-adopter-dans-le-developpement-dapplications-modernes/)
+- [doctrine d'utilisation de l'informatique en nuage par l'État](https://www.numerique.gouv.fr/services/cloud/doctrine/)
