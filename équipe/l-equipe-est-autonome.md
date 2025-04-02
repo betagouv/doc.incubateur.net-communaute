@@ -1,4 +1,4 @@
-# Une équipe autonome
+# L'équipe est autonome
 
 ## Description
 
