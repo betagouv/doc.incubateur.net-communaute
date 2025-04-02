@@ -1,4 +1,4 @@
-# Comités d'investissement
+# Des comités d'investissement sont organisés régulièrement
 
 ## Description
 
