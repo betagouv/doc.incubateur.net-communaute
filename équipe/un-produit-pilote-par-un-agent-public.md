@@ -1,4 +1,4 @@
-# Pilotée par un agent public
+# Un produit piloté par un agent public
 
 ## Description
 
