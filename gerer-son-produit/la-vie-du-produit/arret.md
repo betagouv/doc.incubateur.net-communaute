@@ -40,3 +40,46 @@ En cas d'arrêt d'un produit, il est recommandé de suivre les étapes suivantes
 2. rédiger, en cas de mise en dormance, un dossier technique permettant une reprise du produit là où il s’est arrêté si besoin le cas échéant (contacter le référent technique de votre incubateur ou celui de la DINUM) ;
 3. si vous êtes intra, contacter l'incubateur de la DINUM qui propose un accompagnement visant la valorisation ou le réemploi de vos compétences numériques ;
 4. si vous êtes freelance, contacter l'équipe animation de l'incubateur de la DINUM qui peut proposer un accompagnement selon votre profil.
+
+
+
+## Checklist fin de produit
+
+### Architecture et infrastructure
+
+☐ Schéma d’architecture du projet (frontend, backend, bases de données, services externes)  
+☐ Description de l’hébergement (fournisseur, configuration, accès)   
+☐ Explication des outils de monitoring et surveillance (Sentry, Matomo, logs, alertes)
+☐ Liste des SAAS et comptes externes
+
+### Code source et gestion des versions
+
+☐ Modifier le readme pour indiquer le statut d'arrêt  
+☐ Lien vers le dépôt Git et branches principales  
+☐ Instructions pour installer et exécuter le projet en local  
+☐ Liste des dépendances et versions utilisées  
+☐ Documentation des tests et du CI/CD (GitHub Actions, GitLab CI, etc.)
+
+### Base de données et données persistantes
+
+☐ Schéma des bases de données et description des tables principales  
+☐ Scripts de migration disponibles et bien documentés  
+☐ Dump anonymisé ou jeux de données fictifs pour test  
+☐ Assurez-vous d'avoir nettoyé vos machines et environnements des données.   
+
+### APIs et intégrations externes
+
+☐ Liste des endpoints API avec exemples de requêtes et de réponses (swagger?)  
+☐ Documentation sur l’accès aux services externes (Brevo, autres API)  
+☐ Explication des webhooks et des automatisations éventuelles  
+
+### Accès et droits
+
+☐ Explication des rôles et permissions des utilisateurs  (matrice de rôles)  
+☐ Liste des accès aux outils tiers et procédure de récupération des credentials  
+☐ Mettre les credentials sur vaultwarden  
+
+### Contexte et choix techniques
+
+☐ Motivation des choix technologiques majeurs  
+☐ Principales dettes techniques et axes d’amélioration/refacto  
