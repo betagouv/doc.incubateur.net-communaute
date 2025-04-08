@@ -7,6 +7,6 @@ la priorisation de ses tâches.
 
 ## Critères
 
-- l'équipe gère elle-même sa feuille de route
+- L'équipe gère elle-même sa feuille de route.
 
 ## Ressources
