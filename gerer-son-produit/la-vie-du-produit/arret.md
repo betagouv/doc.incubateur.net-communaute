@@ -9,7 +9,11 @@ description: >-
 Plusieurs circonstances peuvent amener un produit à s'arrêter, notamment :&#x20;
 
 * le produit n'a pas suffisamment d'impact par rapport à son coût ;
-* le produit n'est plus financé.
+* le produit n'est plus financé ;
+* le produit n'est plus porté par le métier ;
+* le produit n'est plus incarné par un intrapreneur.
+
+> Un produit a besoin d'un bon intra, d'un bon sponsor métier et d'un bon problème.
 
 ## Contexte
 
@@ -20,7 +24,7 @@ Cette page a été écrite dans un contexte de réductions budgétaires, début 
 Dans le cas où le produit n’a pas d’impact avéré suffisant par rapport à son coût,  il est proposé la procédure suivante :
 
 1. décision d’arrêt : lors du comité d’investissement, le comité décide de l’arrêt du financement de la startup par ses sponsors actuels.
-2. post-mortem : rédaction d’un post-mortem détaillant les raisons de l’échec du produit à trouver son impact.
+2. post-mortem : rédaction d’un post-mortem détaillant les raisons de l’échec du produit à trouver son impact (cf modèle ci-dessous)
 
 ## Arrêt lorsqu'un produit n'a plus de budget
 
@@ -36,7 +40,23 @@ Dans le cas où le produit a de l’impact ou un potentiel d’impact avéré ma
 
 En cas d'arrêt d'un produit, il est recommandé de suivre les étapes suivantes :
 
-1. rédiger un post-mortem détaillant les raisons de l’arrêt ;
-2. rédiger, en cas de mise en dormance, un dossier technique permettant une reprise du produit là où il s’est arrêté si besoin le cas échéant (contacter le référent technique de votre incubateur ou celui de la DINUM) ;
-3. si vous êtes intra, contacter l'incubateur de la DINUM qui propose un accompagnement visant la valorisation ou le réemploi de vos compétences numériques ;
-4. si vous êtes freelance, contacter l'équipe animation de l'incubateur de la DINUM qui peut proposer un accompagnement selon votre profil.
+1. mettre à jour la fiche beta du produit : contexte, problème, solution, étape, membres, budget, code source, ...
+2. rédiger un post-mortem détaillant les raisons de l’arrêt (cf modèle ci-dessous) et le publier en fin de fiche beta du produit ;
+3. rédiger, en cas de mise en dormance, un dossier technique permettant une reprise du produit là où il s’est arrêté si besoin (contacter le référent technique de votre incubateur ou celui de la DINUM) et l'ajouter dans les documents de la fiche beta du produit (documents ouverts uniquement aux membres de la communauté beta) ;
+4. si vous êtes intra, contacter l'incubateur de la DINUM qui propose un accompagnement visant la valorisation ou le réemploi de vos compétences numériques ;
+5. si vous êtes freelance, contacter l'équipe animation de l'incubateur de la DINUM qui peut proposer un accompagnement selon votre profil.
+
+## Modèle de post-mortem pour fiche beta
+
+Le post-mortem est rédigé par l'intrapreneur et le coach en lien avec le responsable de portefeuille.
+
+1. Les apprentissages
+2. Pourquoi on s'arrête
+3. Pour relancer le produit, voilà ce qu'on vous conseille (et pourquoi)
+
+## Modèle de dossier technique de reprise du produit
+
+{% hint style="info" %}
+A construire
+{% endhint %}
+
