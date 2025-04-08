@@ -7,6 +7,6 @@ au moins à mi-temps, dans une équipe intégrée et autonome.
 
 ## Critères
 
-- le produit est piloté par un agent public
+- Le produit est piloté par un(e) agent public.
 
 ## Ressources
