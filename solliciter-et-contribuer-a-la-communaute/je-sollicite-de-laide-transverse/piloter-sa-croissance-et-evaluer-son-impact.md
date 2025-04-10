@@ -12,29 +12,29 @@ Les ateliers en détail :
 
 ## Atelier 1 : Définir sa North Star Metric
 
-**Objectif** : aligner l’équipe sur un objectif commun
-**Organisation** : 1h30 avec l’équipe complète
-**Contenu** : reprendre les éléments pour creuser le problème (réel/majeur/actionnable), les cibles, le WHY
-**Livrables** : North Star Metric
+- **Objectif** : aligner l’équipe sur un objectif commun
+- **Organisation** : 1h30 avec l’équipe complète
+- **Contenu** : reprendre les éléments pour creuser le problème (réel/majeur/actionnable), les cibles, le WHY
+- **Livrables** : North Star Metric
 
 ---
 
 ## Atelier 2 : Définir ses indicateurs et son impact
 
-**Objectif** : définir nos indicateurs de performance et d’impact
-**Organisation** : 1h avec l’équipe complète
-**Contenu** : trouver les indicateurs autour de nos 5 concepts (utilisable, utilisé, utile impactant, efficient).
-**Livrables** : tous les indicateurs
+- **Objectif** : définir nos indicateurs de performance et d’impact
+- **Organisation** : 1h avec l’équipe complète
+- **Contenu** : trouver les indicateurs autour de nos 5 concepts (utilisable, utilisé, utile impactant, efficient).
+- **Livrables** : tous les indicateurs
 
 ---
 
 ## Atelier 3 : “Journée Croissance” : Aligner et prioriser ses actions
 
-**Objectif** : construire notre plan d’actions pour y arriver
-**Organisation** : une journée avec l’équipe complète (à minima un représentant de chaque métier)
-**Pré-requis** : avoir fait l’atelier 1
-**Contenu** : créer ou réaligner les actions AARRI et prioriser
-**Livrables** : plan d’action AARRI
+- **Objectif** : construire notre plan d’actions pour y arriver
+- **Organisation** : une journée avec l’équipe complète (à minima un représentant de chaque métier)
+- **Pré-requis** : avoir fait l’atelier 1
+- **Contenu** : créer ou réaligner les actions AARRI et prioriser
+- **Livrables** : plan d’action AARRI
 
 Pour l’atelier 3 :
 
@@ -47,6 +47,6 @@ Les **conditions d'éligibilités** de cet atelier sont :
 - être disponible en présentiel à Paris sur une journée
 - avoir défini une North Star Metric lors de l'atelier 1 (inclus dans le programme de la  journée)
 
-[Remplir le formulaire](https://tally.so/forms/mOEVYg/)
+[Remplir le formulaire](https://tally.so/r/3X1eVe)
 
 Si vous avez des questions, l’équipe du FAST est disponible au fast@beta.gouv.fr
