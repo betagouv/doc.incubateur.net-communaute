@@ -56,7 +56,47 @@ Le post-mortem est rédigé par l'intrapreneur et le coach en lien avec le respo
 
 ## Modèle de dossier technique de reprise du produit
 
-{% hint style="info" %}
-A construire
-{% endhint %}
+### Documentation générale
 
+☐ Documentation utilisateur du produit (pour le public)
+☐ Documentation métier du produit (pour l'équipe interne)
+☐ Tous liens ou fichiers concernant le produit 
+
+### Architecture et infrastructure
+
+☐ Schéma d’architecture du projet (frontend, backend, bases de données, services externes)  
+☐ Description de l’hébergement (fournisseur, configuration, accès)   
+☐ Explication des outils de monitoring et surveillance (Sentry, Matomo, logs, alertes)
+☐ Liste des SAAS et comptes externes
+
+### Code source et gestion des versions
+
+☐ Modifier le readme pour indiquer le statut d'arrêt  
+☐ Lien vers le dépôt Git et branches principales  
+☐ Instructions pour installer et exécuter le projet en local  
+☐ Liste des dépendances et versions utilisées  
+☐ Documentation des tests et du CI/CD (GitHub Actions, GitLab CI, etc.)
+
+### Base de données et données persistantes
+
+☐ Schéma des bases de données et description des tables principales  
+☐ Scripts de migration disponibles et bien documentés  
+☐ Dump anonymisé ou jeux de données fictifs pour test  
+☐ Assurez-vous d'avoir nettoyé vos machines et environnements des données.   
+
+### APIs et intégrations externes
+
+☐ Liste des endpoints API avec exemples de requêtes et de réponses (swagger?)  
+☐ Documentation sur l’accès aux services externes (Brevo, autres API)  
+☐ Explication des webhooks et des automatisations éventuelles  
+
+### Accès et droits
+
+☐ Explication des rôles et permissions des utilisateurs  (matrice de rôles)  
+☐ Liste des accès aux outils tiers et procédure de récupération des credentials  
+☐ Mettre les credentials sur vaultwarden  
+
+### Contexte et choix techniques
+
+☐ Motivation des choix technologiques majeurs  
+☐ Principales dettes techniques et axes d’amélioration/refacto 
