@@ -31,10 +31,6 @@ Si votre service numérique fait partie du réseau beta.gouv.fr, vous avez accè
 [aide-transverse-pole-numerique-inclusif.md](aide-transverse-pole-numerique-inclusif.md)
 {% endcontent-ref %}
 
-{% content-ref url="piloter-sa-croissance-et-evaluer-son-impact.md" %}
-[piloter-sa-croissance-et-evaluer-son-impact.md](piloter-sa-croissance-et-evaluer-son-impact.md)
-{% endcontent-ref %}
-
 {% content-ref url="../../decouvrir-beta.gouv.fr/incubateur-de-la-dinum/lequipe-danimation-beta.gouv.fr.md" %}
 [lequipe-danimation-beta.gouv.fr.md](../../decouvrir-beta.gouv.fr/incubateur-de-la-dinum/lequipe-danimation-beta.gouv.fr.md)
 {% endcontent-ref %}
