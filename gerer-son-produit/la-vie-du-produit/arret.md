@@ -45,6 +45,12 @@ En cas d'arrêt d'un produit, il est recommandé de suivre les étapes suivantes
 
 ## Checklist fin de produit
 
+### Documentation générale
+
+☐ Documentation utilisateur du produit (pour le public)
+☐ Documentation métier du produit (pour l'équipe interne)
+☐ Tous liens ou fichiers concernant le produit 
+
 ### Architecture et infrastructure
 
 ☐ Schéma d’architecture du projet (frontend, backend, bases de données, services externes)  
