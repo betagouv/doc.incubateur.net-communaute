@@ -1,4 +1,4 @@
-redirects:  
+redirects:
     kit-accessibilite: gerer-son-produit/les-standards/accessibilite-and-inclusion/kit-accessibilite/README.md
     check-accessibilite: travailler-chez-beta.gouv.fr/se-former/se-former-en-ligne/formation-a-laccessibilite/10-choses-faciles-a-verifier-pour-un-site-plus-accessible.md
     welcome: travailler-chez-beta.gouv.fr/to-do-darrivee/README.md
@@ -114,7 +114,7 @@ redirects:
     gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/standards-de-qualite-beta.gouv.fr: gerer-son-produit/les-standards/standards-de-qualite-beta.gouv.fr/README.md
     gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-gere-mon-produit-et-son-impact/choisir-ses-outils: gerer-son-produit/la-vie-du-produit/investigation/choisir-ses-outils.md
     gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-gere-mon-produit-et-son-impact/comment-repondre-a-un-sponsor-qui-demande-une-roadmap-produit: gerer-son-produit/la-vie-du-produit/investigation/comment-repondre-a-un-sponsor-qui-demande-une-roadmap-produit.md
-    gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-gere-mon-produit-et-son-impact/definir-et-mesurer-limpact/cauchemar-a-beta-la-mesure-dimpact: solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/cauchemar-a-beta-la-mesure-dimpact.md
+    gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-gere-mon-produit-et-son-impact/definir-et-mesurer-limpact/piloter-sa-croissance-et-evaluer-son-impact.md: solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/piloter-sa-croissance-et-evaluer-son-impact.md
     gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-gere-mon-produit-et-son-impact/definir-et-mesurer-limpact/le-coach-la-startup-detat-et-la-mesure-dimpact: travailler-chez-beta.gouv.fr/les-differents-metiers/coach.e/le-coach-la-startup-detat-et-la-mesure-dimpact.md
     gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-gere-mon-produit-et-son-impact/gerer-sa-fiche-produit: les-outils-de-la-communaute/espace-membre/gerer-sa-fiche-produit.md
     gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-gere-mon-produit-et-son-impact/nommer-votre-service: gerer-son-produit/la-vie-du-produit/investigation/nommer-votre-service.md
@@ -246,4 +246,3 @@ redirects:
     travailler-a-beta-gouv/se-former/les-formations-a-venir: travailler-chez-beta.gouv.fr/se-former/les-formations-a-venir.md
     travailler-a-beta-gouv/se-former: travailler-chez-beta.gouv.fr/se-former/README.md
     outils/liste-de-diffusion-et-adresses-de-contact: les-outils-de-la-communaute/emails/liste-de-diffusion-et-adresses-de-contact.md
-    
