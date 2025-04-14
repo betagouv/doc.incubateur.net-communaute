@@ -45,6 +45,8 @@ Nous souhaitons valoriser les compétences des intras et la certification afin q
 * Implication des RH dans la certification.
 * Discussions avec les corps de fonction publique pour intégrer ces compétences.
 
+{% embed url="https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/les-differents-metiers/intrapreneur/certification-des-intrapreneurs" %}
+
 ### Identifier et diffuser les opportunités professionnelles
 
 Les intras ont souvent du mal à se projeter dans leur prochain poste. Nous proposons dans le cadre de l'accompagnement carrières :
