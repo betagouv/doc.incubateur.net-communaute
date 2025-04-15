@@ -167,6 +167,8 @@
   * [Réseaux sociaux](gerer-son-produit/pourquoi-le-deploiement-dun-service-public-en-ligne-est-il-important/reseaux-sociaux.md)
   * [Organiser un jeu concours](gerer-son-produit/pourquoi-le-deploiement-dun-service-public-en-ligne-est-il-important/organiser-un-jeu-concours.md)
   * [Intégrer le bouton « Je donne mon avis »](gerer-son-produit/pourquoi-le-deploiement-dun-service-public-en-ligne-est-il-important/integrer-le-bouton-je-donne-mon-avis.md)
+  * [Communiquer sur son produit](gerer-son-produit/pourquoi-le-deploiement-dun-service-public-en-ligne-est-il-important/communiquer-sur-son-produit/README.md)
+    * [La photothèque : l'outil pour collecter et partager des images](gerer-son-produit/pourquoi-le-deploiement-dun-service-public-en-ligne-est-il-important/communiquer-sur-son-produit/la-phototheque-loutil-pour-collecter-et-partager-des-images.md)
 * [🧌 La vie du produit](gerer-son-produit/la-vie-du-produit/README.md)
   * [1️⃣ Investigation](gerer-son-produit/la-vie-du-produit/investigation/README.md)
     * [🔖 Définition](gerer-son-produit/la-vie-du-produit/investigation/cest-quoi-concretement.md)

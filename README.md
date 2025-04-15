@@ -1,7 +1,7 @@
 ---
 description: >-
   Tu découvriras ici l'ensemble des règles, principes et bonnes pratiques qui
-  organisent la communauté beta.gouv ainsi que toutes autres ressources te
+  organisent la communauté beta.gouv.fr ainsi que toutes autres ressources te
   permettant de mieux t'y retrouver !
 layout:
   title:
