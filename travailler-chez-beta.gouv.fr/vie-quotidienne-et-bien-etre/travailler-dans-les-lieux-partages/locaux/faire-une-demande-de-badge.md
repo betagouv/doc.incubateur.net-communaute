@@ -45,13 +45,13 @@ Tu peux également remplir[ ce formulaire de demande d'accès](https://tally.so/
 
 Ton badge d'accès à Ségur a une durée de validité qui dépend principalement de la durée de tes dates de mission. N'oublie pas de renouveler ce badge dès que ta mission est elle-même prolongée.
 
-**Pour renouveler ton badge, suit la même procédure que pour la demande de badge ets sélectionne " prolongation" dans l'objet de la demande (ligne 2 du formulaire).**
+**Pour renouveler ton badge, suis la même procédure que pour la demande de badge et sélectionne " prolongation" dans l'objet de la demande (ligne 2 du formulaire).**
 
 {% hint style="info" %}
 N'oublie pas de mettre à jour ta date de fin de mission sur ton espace membre ou nous ne pourrons demander la prolongation de ton badge !
 {% endhint %}
 
-## ⚠️ Rend ton badge quanc ta mission est terminée !
+## ⚠️ Rend ton badge quand ta mission est terminée !
 
 Le badge doit obligatoirement être rendu aux services RH de la DINUM ou à défaut à votre référent.
 
