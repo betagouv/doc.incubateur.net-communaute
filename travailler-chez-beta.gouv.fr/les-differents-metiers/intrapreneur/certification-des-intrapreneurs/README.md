@@ -37,11 +37,15 @@ Le déroulé de cette certification pour les intras vise à évaluer ces 8 comp�
 
 ## Prérequis d'une certification
 
-* Sont éligibles à cette certification les agents de droit public ou de droit privé ayant intégré le programme d’intrapreneuriat de beta.gouv.fr et ayant élaboré un service numérique répondant aux besoins des utilisateurs.
+* Sont éligibles à cette certification : \
+  \-  les agents de l'administration (Etat, collectivité locale, hôpital, établissement public, opérateur de l'Etat, etc.), fonctionnaires ou agents contractuels de droit public ou de droit privé, ayant intégré le programme [beta.gouv.fr](http://beta.gouv.fr/)  \
+  \- les agents ayant exercé un rôle d'intrapreneur à plein-temps pendant minimum 6 mois ou à temps partiel pendant 12 mois ; \
+  \- les intrapreneurs ayant connu une phase d'accélération et maîtrisant les étapes de construction d'un produit numérique. \
+  \- les agents n'ayant pas déjà passé la certification de Numa
 
 ## Déroulé d'une certification
 
-| Étapes                         | Délais    | Durées  |
+| Étapes                         | Délais    | Durée   |
 | ------------------------------ | --------- | ------- |
 | 1. Inscription                 | Jour 1    |         |
 | 2. Complétion du dossier       |           | \~ 4-5h |
@@ -57,6 +61,8 @@ Cette certification est entièrement financée par beta.gouv.fr pour tous les in
 ### 1- Inscription
 
 Tous les 6 mois, nous lançons une nouvelle session de certification. Le lien d'inscription est renseigné sur le canal Général de Mattermost ou dans [l'infolettre interne de la communauté](../../../../decouvrir-beta.gouv.fr/la-communaute/sinformer-sur-la-vie-de-la-communaute.md).
+
+Si tu souhaites être recontacté(e) pour la prochaine session, tu peux envoyer un mail à contact@beta.gouv.fr.
 
 ### 2- Complétion du dossier
 
@@ -98,5 +104,5 @@ beta.gouv.fr propose d'officialiser cette certification aux administrations des 
 En informant le DRH et la hiérarchie de l'intra, ces compétences seront valorisées dans le dossier personnel et lors de l'entretien d'évaluation annuel.
 
 {% hint style="info" %}
-Tu peux poser toutes tes questions sur [le salon Mattermost dédié aux intras ](https://mattermost.incubateur.net/betagouv/channels/domaine-intrapreneurs)ou à animation@beta.gouv.fr .
+Tu peux poser toutes tes questions sur [le salon Mattermost dédié aux intras ](https://mattermost.incubateur.net/betagouv/channels/domaine-intrapreneurs)ou à contact@beta.gouv.fr .
 {% endhint %}
