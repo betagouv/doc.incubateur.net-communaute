@@ -51,15 +51,15 @@ Le pôle garantit un environnement de travail le plus attractif possible, anime 
 <figure><img src="../../.gitbook/assets/screen_equipe animation.png" alt=""><figcaption></figcaption></figure>
 
 * **Benjamin Doberset,** responsable de pôle
-* **Marine Purson**, animatrice chargée des relations institutionnelles et de la communication
+* **Marine Purson**, référente relations institutionnelles et de la communication
 * **Julien Bouquillon,** référent technique (CTO) de la communauté
-* **Stéphane Maniaci, r**éférent qualité tech (Tech Lead)
+* **Stéphane Maniaci,** référent qualité tech (Tech Lead)
 * **Lucas Charrier**, développeur en charge des outils tech de la communauté
-* **Amel Alili**, animatrice chargée d'assistance et du support
-* **Anne-Sophie Tranchet**, animatrice chargée des sujets d'Accessibilité et Design
+* **Amel Alili**, chargée d'assistance et du support
+* **Anne-Sophie Tranchet**, référente accessibilité et design
 * **Divine Tende** (alternante), chargée d'animation de communauté et de communication
 * **Nicolas Tourneur,** chargé des ressources humaines de la communauté
-* **Marine-Pétroline Soichot,** chargée de formation
+* **Marine-Pétroline Soichot,** chargée d'ingéniérie pédagogique
 
 L'animation de la communauté beta.gouv.fr n'est pas l'exclusivité de l'incubateur de la DINUM : d'autres personnes peuvent et sont invitées à contribuer à la réussite du collectif (agents des incubateurs ministériels, freelances, etc.).
 

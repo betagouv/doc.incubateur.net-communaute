@@ -1,12 +1,12 @@
-# Bonne pratiques de "recrutement"
+# Bonnes pratiques de "recrutement"
 
 ## Répondre à tous les candidats
 
-_Il est important pour une personne qui souhaite travailler avec vous d'avoir une réponse qu'elle soit positive ou négative, notamment afin de ne pas bloquer la personne._
+Il est important pour une personne qui souhaite travailler avec vous d'avoir une réponse qu'elle soit positive ou négative, notamment afin de ne pas bloquer la personne.
 
 ### Modèles de réponses
 
-En cas de réponse favorable, adoptez un ton informel et un peu de créativité, bref soyez authentiques :)
+En cas de réponse favorable, adoptez un ton informel et un peu de créativité, bref soyez authentiques :).
 
 Pour les réponses négatives, prendre un peu plus de distance permet de marquer de la bienveillance à l'égard des candidat·e·s: c'est particulièrement important pour les juniors, nous avons adopté le modèle ci-dessous dans ce cas.
 
@@ -58,7 +58,7 @@ Lorsqu'une nouvelle personne vient travailler avec vous, elle participe aussi à
 A titre indicatif, voici 2 éléments qui te permettront de trouver une juste rémunération/prix :
 
 * pour le recrutement en direct d’agent public, tu [peux regarder la grille dinum](https://www.numerique.gouv.fr/publications/referentiel-remuneration-filiere-numerique/)
-* pour les prestations, tu peux te baser sur[ l’observatoire des revenus de la communauté Beta.gouv](https://metabase.incubateur.net/public/dashboard/554ff353-6104-4c25-a261-d8bdc40f75d5?date\_d%27arriv%25C3%25A9=past3years\~)
+* pour les prestations, tu peux te baser sur[ l’observatoire des revenus de la communauté Beta.gouv](https://metabase.incubateur.net/public/dashboard/554ff353-6104-4c25-a261-d8bdc40f75d5?date_d%27arriv%25C3%25A9=past3years~)
 
 ## Garantir un accueil premium
 
