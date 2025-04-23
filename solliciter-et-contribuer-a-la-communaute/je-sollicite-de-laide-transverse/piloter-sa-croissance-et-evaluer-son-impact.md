@@ -47,6 +47,3 @@ Les conditions d'éligibilités de cet atelier sont :
 
 Si vous avez des questions, l’équipe du FAST est disponible au fast@beta.gouv.fr
 
-
-
-\_\_\_
