@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🖼️ Galerie de portraits d’intrapreneurs beta.gouv.fr
 
 **À quoi ressemble un intrapreneur public aujourd’hui ?**
