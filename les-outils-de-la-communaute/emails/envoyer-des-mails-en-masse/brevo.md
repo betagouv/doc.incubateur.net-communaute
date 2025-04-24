@@ -6,7 +6,26 @@ Pour utiliser ce type de service, vous devez disposer de votre propre sous-domai
 
 Votre incubateur doit pouvoir vous fournir un compte Brevo dédié sur lequel vous serez autonomes.
 
-Vous pouvez faire une demande de compte brevo sur [\~incubateur-demandes-ops](https://mattermost.incubateur.net/betagouv/channels/incubateur-demandes-ops)
+### ✅ Comment demander un accès ?
+
+Rien de plus simple !\
+👉 Tu peux faire une demande en contactant [le support via le chat Crisp](https://go.crisp.chat/chat/embed/?website_id=1020533a-61b1-45cd-90ab-8d6f99fb006a) (icône en bas à droite de cette page) ou en envoyer une demande par email à : [contact@beta.gouv.f](mailto:contact@beta.gouv.fr)
+
+Il faudra indiquer :
+
+* le nom de votre produit ainsi que l'incubateur de rattachement
+* l’usage prévu (transactionnel, newsletter, test, etc.)
+* les membres de votre équipe à ajouter (adresse email pro)
+
+📌 L’accès est **gratuit** pour les équipes produit internes, dans la limite du quota du compte partagé.
+
+***
+
+#### ⚠️ Bonnes pratiques
+
+* Ne jamais importer de base de contacts non opt-in (RGPD)
+* Préférer une adresse email d’expéditeur liée à votre domaine
+* Surveiller les performances et éviter les envois massifs non ciblés
 
 ### Recommandations
 
