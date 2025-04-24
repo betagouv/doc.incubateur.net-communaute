@@ -12,6 +12,10 @@ Consultez les deux pages suivantes pour en savoir plus sur le rôle d'intraprene
 
 {% embed url="https://beta.gouv.fr/approche/intrapreneurs" %}
 
+{% content-ref url="galerie-de-portraits-dintrapreneurs-beta.gouv.fr.md" %}
+[galerie-de-portraits-dintrapreneurs-beta.gouv.fr.md](galerie-de-portraits-dintrapreneurs-beta.gouv.fr.md)
+{% endcontent-ref %}
+
 {% embed url="https://beta.gouv.fr/devenir-intrapreneur" %}
 
 La fiche métier « intrapreneur » est inscrite au répertoire des métiers de la fonction publique. Elle peut être présentée aux services RH pour expliquer les compétences et l'expérience de l'intrapreneur.

@@ -51,5 +51,9 @@ Nous souhaitons valoriser les compétences des intras et la certification afin q
 
 Les intras ont souvent du mal à se projeter dans leur prochain poste. Nous proposons dans le cadre de l'accompagnement carrières :
 
-* Présentation de parcours d'intras (à venir)
+* Présentation de parcours d'intras ;
 * Cartographie des fiches de poste pertinentes (diffusées au fil de l'eau dans les canaux intras)
+
+{% content-ref url="galerie-de-portraits-dintrapreneurs-beta.gouv.fr.md" %}
+[galerie-de-portraits-dintrapreneurs-beta.gouv.fr.md](galerie-de-portraits-dintrapreneurs-beta.gouv.fr.md)
+{% endcontent-ref %}

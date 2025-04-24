@@ -35,6 +35,7 @@
       * [🌟 C'est quoi une certification de compétences ?](travailler-chez-beta.gouv.fr/les-differents-metiers/intrapreneur/certification-des-intrapreneurs/cest-quoi-une-certification-de-competences.md)
       * [🎦 Vidéos de révision](travailler-chez-beta.gouv.fr/les-differents-metiers/intrapreneur/certification-des-intrapreneurs/videos-de-revisions.md)
     * [💼 Accompagnement de carrières des intras](travailler-chez-beta.gouv.fr/les-differents-metiers/intrapreneur/accompagnement-de-carrieres-des-intras.md)
+    * [🖼️ Galerie de portraits d’intrapreneurs beta.gouv.fr](travailler-chez-beta.gouv.fr/les-differents-metiers/intrapreneur/galerie-de-portraits-dintrapreneurs-beta.gouv.fr.md)
   * [Designeuse / designer](travailler-chez-beta.gouv.fr/les-differents-metiers/comprendre-le-role-du-design.md)
   * [Chargé / chargée de déploiement](travailler-chez-beta.gouv.fr/les-differents-metiers/le-charge-de-deploiement-dans-le-programme-beta.gouv.md)
   * [Coach](travailler-chez-beta.gouv.fr/les-differents-metiers/coach.e/README.md)
