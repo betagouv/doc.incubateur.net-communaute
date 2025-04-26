@@ -3,7 +3,7 @@
 require 'yaml'
 require 'active_support/core_ext/string'
 
-class MarkdownFile
+class StandardsMarkdownFile
   attr_reader :file_path, :content, :yml_data
 
   def initialize(file_path)
@@ -14,12 +14,13 @@ class MarkdownFile
   end
 
   def parse_content
+    yml_data['id'] = File.basename(file_path, '.md')
+
     extract_frontmatter
     extract_title
     extract_description
     extract_criteria
     extract_resources
-    yml_data['id'] = File.basename(file_path, '.md')
   end
 
   def extract_frontmatter
@@ -36,26 +37,32 @@ class MarkdownFile
   end
 
   def extract_description
-    if content =~ /## Description\n\n(.+?)\n\n##/m
-      yml_data['description'] = $1.strip
-    end
+    yml_data['description'] = extract_section('Description')
   end
 
   def extract_criteria
-    if content =~ /## Critères\n\n(.+?)\n\n##/m
-      yml_data['criteria'] =
-        $1
-        .strip
-        .split("\n-")
-        .map(&:squish)
-        .map { |crit| crit.delete_prefix('- ') }
-        .reject(&:empty?)
-    end
+    yml_data['criteria'] = extract_section('Critères')
   end
 
   def extract_resources
-    if content =~ /## Ressources\n\n(.+?)$/m
-      yml_data['resources'] = $1.strip.split("\n").map { |r| r.gsub(/^- /, '').strip }
+    yml_data['resources'] = extract_section('Ressources')
+  end
+
+  def extract_section(section_name)
+    section_regex = /## #{section_name}\n\n(.*?)(?=\n\n##|\z)/mi
+
+    return unless content =~ section_regex
+
+
+    section_text = $1.strip
+
+    case section_name.downcase
+    when 'critères'
+      section_text.split(/^- /).reject(&:empty?).map { |item| { 'label' => item.strip } }
+    when 'ressources'
+      section_text.split(/^- /).reject(&:empty?).map(&:strip).map(&:squish)
+    else
+      section_text
     end
   end
 end
@@ -68,15 +75,16 @@ class MarkdownToYAMLConverter
   end
 
   def compile_all_to_yml
-    all_data = {}
+    all_data = []
 
     Dir.glob('*/*.md').each do |file|
       next if file =~ /README|TEMPLATE_QUESTION/
 
-      markdown_file = MarkdownFile.new(file)
+      markdown_file = StandardsMarkdownFile.new(file)
       category = File.dirname(file)
-      all_data[category] ||= []
-      all_data[category] << markdown_file.yml_data
+      question_data = markdown_file.yml_data
+      question_data['category'] = category
+      all_data << question_data
     end
 
     File.write(EXPORT_FILENAME, all_data.to_yaml)
