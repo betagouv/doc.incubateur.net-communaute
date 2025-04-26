@@ -51,25 +51,29 @@ Le fichier résultant (`./standards-beta.yml`) aura cette forme :
 
 ```yml
 ---
-accessibilité:
-- title: L'équipe a un plan d'action pour la mise en conformité
+- id: l-equipe-a-un-plan-d-action-pour-la-mise-en-conformite
+  title: L'équipe a un plan d'action pour la mise en conformité
   description: |-
     L'équipe a élaboré un plan d'action pour garantir que le produit respecte les
     normes d'accessibilité en vigueur.
   criteria:
-  - Un plan d'action détaillé est documenté.
-  - Des échéances claires sont définies pour chaque étape.
+  - label: Un plan d'action détaillé est documenté.
+  - label: Des échéances claires sont définies pour chaque étape.
   resources:
   - "[Accessibilité numérique](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/)"
-  id: l-equipe-a-un-plan-d-action-pour-la-mise-en-conformite
-- title: L'équipe a une personne avec la compétence front accessibilité
+  - "[Liste des formations accessibilité proposées à Beta](https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/se-former/se-former-en-ligne/formation-a-laccessibilite)"
+  category: accessibilité
+- id: l-equipe-a-une-personne-avec-la-competence-front-accessibilite
+  title: L'équipe a une personne avec la compétence front accessibilité
   description: |-
     Une personne au sein de l'équipe possède des compétences spécialisées en
     accessibilité front-end pour garantir que les interfaces utilisateur sont
     accessibles à tous.
   criteria:
-  - Une personne est identifiée comme référent accessibilité.
-  - Des formations régulières sont organisées.
+  - label: Le code HTML produit est sémantique.
+  resources:
+  - "[Accessibilité web](https://www.w3.org/WAI/)"
+  category: accessibilité
 # [...]
 ```
 
