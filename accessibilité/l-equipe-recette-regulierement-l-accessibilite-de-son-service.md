@@ -13,7 +13,5 @@ minimal de qualité.
 
 ## Ressources
 
-- [Protocole Easy Checks du W3C]
-  (<https://www.w3.org/WAI/test-evaluate/easy-checks/>)
-- [10 choses faciles à vérifier pour un site plus accessible]
-  (<https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/se-former/se-former-en-ligne/formation-a-laccessibilite/10-choses-faciles-a-verifier-pour-un-site-plus-accessible>)
+- [Protocole Easy Checks du W3C](https://www.w3.org/WAI/test-evaluate/easy-checks/)
+- [10 choses faciles à vérifier pour un site plus accessible](https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/se-former/se-former-en-ligne/formation-a-laccessibilite/10-choses-faciles-a-verifier-pour-un-site-plus-accessible)

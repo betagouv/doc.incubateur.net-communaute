@@ -13,6 +13,4 @@ d'accessibilité, le schéma pluriannuel, et le plan d'action.
 
 ## Ressources
 
-- [Obligations déclaratives d'accessibilité sur le site
-  design.numerique.gouv.fr]
-  (<https://design.numerique.gouv.fr/accessibilite-numerique/cadre-legal/>)
+- [Obligations déclaratives d'accessibilité sur le site design.numerique.gouv.fr](https://design.numerique.gouv.fr/accessibilite-numerique/cadre-legal/)
