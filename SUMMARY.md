@@ -290,6 +290,7 @@
 * [📊 DashLord](les-outils-de-la-communaute/dashlord/README.md)
   * [FAQ DashLord](les-outils-de-la-communaute/dashlord/questions-reponses.md)
 * [📡 Autres services](les-outils-de-la-communaute/autres-services/README.md)
+  * [Docs](les-outils-de-la-communaute/autres-services/docs.md)
   * [GitHub](les-outils-de-la-communaute/autres/github.md)
   * [Matomo](les-outils-de-la-communaute/autres/matomo.md)
   * [Sentry](les-outils-de-la-communaute/autres/sentry.md)
