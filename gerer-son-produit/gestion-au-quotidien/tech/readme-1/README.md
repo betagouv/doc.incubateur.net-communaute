@@ -28,6 +28,7 @@ Pour éviter tout fuite de secret, pensez à installer un pre-commit hook type [
 **Quelles sont les premières personnes à alerter en cas de détection de fuite ?**
 
 * Dès la détection contacter l'équipe technique de votre incubateur et/ou [l'équipe ops ](mailto:dinum@beta.gouv.fr)de beta.gouv.fr
+* 👉 voir la liste des [référent(e)s tech](../to-do-liens-avec-les-referents-techs.md)
 * Dans un second temps, informer votre délégué à la protection des données (DPO) et le responsable de la sécurité des systèmes d'information (RSSI) de référence au sein de l'administration sponsor dans les heures qui suivent l'alerte.
 
 #### Quelles sont les premières personnes alertées en cas de fuite de données ?
