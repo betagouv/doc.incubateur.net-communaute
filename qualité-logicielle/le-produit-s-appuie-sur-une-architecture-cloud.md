@@ -4,7 +4,7 @@
 
 L’hébergement doit se faire exclusivement sur une architecture Cloud :
 
-- « Infrastructure as a Service » (laaS)
+- « Infrastructure as a Service » (IaaS)
 - « Platform as a Service » (PaaS)
 - « Software as a Service » (SaaS)
 
@@ -12,7 +12,7 @@ La conception technique du produit respecte les "12 facteurs".
 
 ## Critères
 
-- Le déploiement est automatisé
+- Le déploiement est automatisé.
 - L'application est redéployable rapidement sur un fournisseur cloud.
 - Le produit respecte les 12 facteurs.
 
