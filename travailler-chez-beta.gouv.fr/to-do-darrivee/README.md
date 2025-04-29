@@ -96,7 +96,7 @@ A l'exception des cas où ton administration publique de rattachement ne dispose
 * [ ] Participer à session de **présentation de ton incubateur**
 * [ ] Participer à toutes sessions visios de **focus thématiques obligatoires** (les invitations sont/seront dans ta boite webmail 😉)
   * [ ] #1 Fais semblant de naviguer avec grâce dans les méandres de l’administation
-  * [ ] #2 Evite les pièges du mode produit dans l’administration
+  * [ ] #2 Évite les pièges du mode produit dans l’administration
   * [ ] #3 Evite le piratage de ton ordi et de ton produit / Rends ton ordi et ton produit inviolable
   * [ ] #4 Maitrise le feedback pour bien travailler avec des gens différents
   * [ ] #5 Comment ne pas finir en prison quand on bosse sur un produit numérique
