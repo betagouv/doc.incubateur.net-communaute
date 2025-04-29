@@ -75,7 +75,7 @@ Tu peux la retrouver en version documentation juste après 👇.
 
 ### Découvre la documentation spécifique à ton incubateur
 
-A l'exception des cas où ton administration publique de rattachement ne dispose pas encore d'un incubateur maison (auquel cas tu es rattachée par défaut à l'[incubateur de la DINUM](../../decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/)), nous t'invitons à découvrir les espaces de documentation spécifiques à ta structure.
+A l'exception des cas où ton administration publique de rattachement ne dispose pas encore d'un incubateur maison (auquel cas tu es rattaché par défaut à l'[incubateur de la DINUM](../../decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/)), nous t'invitons à découvrir les espaces de documentation spécifiques à ta structure.
 
 | Nom de l'incubateur                       | Liens utiles                                                                                                                                                        |
 | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
