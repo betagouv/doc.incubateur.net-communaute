@@ -35,18 +35,17 @@ Tu peux la retrouver en version documentation juste après 👇.
 
 ##### Assimiler les enjeux de la communauté
 
-* [ ] Avant toute chose tu dois impérativement [créer ta fiche membre](../../les-outils-de-la-communaute/espace-membre/premier-pas-indispensable-creer-ta-fiche-membre.md)
-* [ ] Participer à [l'embarquement obligatoire dans la communauté](embarquement-dans-la-communaute.md)
-* [ ] Programmer un échange avec le titulaire de ton marché public
+* [ ] Avant toute chose tu dois impérativement [compléter ta fiche membre](../../les-outils-de-la-communaute/espace-membre/premier-pas-indispensable-creer-ta-fiche-membre.md)
+* [ ] Participer à [l'embarquement distanciel obligatoire dans la communauté](embarquement-dans-la-communaute.md)
+* [ ] Programmer un échange avec le titulaire de ton marché public si tu es prestataire
 * [ ] Lire l'email de bienvenue dans la communauté et regarder [la vidéo de présentation de beta.gouv](https://www.youtube.com/watch?v=TvFlxDMlbfo)
 * [ ] Prendre connaissance des [valeurs de beta.gouv.fr](../../decouvrir-beta.gouv.fr/valeurs.md)
 * [ ] Découvrir nos [standards de qualité ](../../gerer-son-produit/les-standards/)
 * [ ] Découvrir [les canaux mattermost recommandés](../../les-outils-de-la-communaute/mattermost/canaux-recommandes.md)
-* [ ] Explorer [ton espace membre](../../les-outils-de-la-communaute/espace-membre.md)
 * [ ] Découvrir [l'observatoire de beta.gouv](https://espace-membre.incubateur.net/metabase) et [y contribuer](https://espace-membre.incubateur.net/) via ton espace membre
 * [ ] Découvrir s'il y a d'autres membres de la communauté près de chez toi sur la [carte des membres](https://espace-membre.incubateur.net/map)
 * [ ] Découvrir [tous les lieux où travailler ou organiser des événements](../vie-quotidienne-et-bien-etre/travailler-dans-les-lieux-partages/)
-* [ ] T'abonner à [l'agenda public de l'incubateur](https://calendar.google.com/calendar/embed?src=0ieonqap1r5jeal5ugeuhoovlg%40group.calendar.google.com\&ctz=Europe/Paris) pour suivre les événements de la communauté
+* [ ] T'abonner à [l'agenda public de l'incubateur](https://webmail.numerique.gouv.fr/caldav/Y2FsOi8vMzcxLzA) pour suivre les événements de la communauté
 
 ##### Appréhender ton environnement
 
@@ -59,7 +58,7 @@ Tu peux la retrouver en version documentation juste après 👇.
   * [ ] Fixer des rencontres avec les membres clés de ton équipe
   * [ ] Créer tes comptes sur les outils de ton équipe
 
-#### Si tu es développeuse/développeur
+#### Si tu es développeuses ou développeurs
 
 * [ ] Lire notre [kit de démarrage](../les-differents-metiers/developpeur.se/kit-de-demarrage.md)
 * [ ] Participer à l'[embarquement dev](https://airtable.com/shrUCbUT72KtKefsu) spécifique à ton rôle
@@ -96,8 +95,8 @@ A l'exception des cas où ton administration publique de rattachement ne dispose
 * [ ] Participer à session de **présentation de ton incubateur**
 * [ ] Participer à toutes sessions visios de **focus thématiques obligatoires** (les invitations sont/seront dans ta boite webmail 😉)
   * [ ] #1 Fais semblant de naviguer avec grâce dans les méandres de l’administation
-  * [ ] #2 Évite les pièges du mode produit dans l’administration
-  * [ ] #3 Évite le piratage de ton ordi et de ton produit / Rends ton ordi et ton produit inviolable
+  * [ ] #2 Evite les pièges du mode produit dans l’administration
+  * [ ] #3 Evite le piratage de ton ordi et de ton produit / Rends ton ordi et ton produit inviolable
   * [ ] #4 Maitrise le feedback pour bien travailler avec des gens différents
   * [ ] #5 Comment ne pas finir en prison quand on bosse sur un produit numérique
   * [ ] #6 Recrute et chérie tes utilisateurs / Pas utilisateurs, pas d’impact ; pas impact, pas de budget; pas de budget …
@@ -113,7 +112,7 @@ A l'exception des cas où ton administration publique de rattachement ne dispose
 
 * [ ] Fixer avec le responsable de l'équipe produit les rituels de suivi de tes objectifs de mission
 * [ ] Partager ton rapport d'étonnement au responsable de l'équipe produit
-* [ ] Aider à ton tour quelqu'un en galère, par exemple en répondant à une demande d'aide sur la chaîne _\~incubateur-help_ du Mattermost
+* [ ] Aider à ton tour quelqu'un en galère, par exemple en répondant à une demande d'aide sur la chaîne _\~incubateur-entraide-communauté du Mattermost
 * [ ] S'investir dans la communauté en participant à une activité transverse --> [c'est par ici](../../solliciter-et-contribuer-a-la-communaute/je-contribue-a-la-communaute-to-do/)
 * [ ] Ajouter ton expérience chez [beta.gouv ](https://www.linkedin.com/company/betagouv/?originalSubdomain=fr) à ton profil LinkedIn
 
