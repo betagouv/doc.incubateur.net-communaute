@@ -59,7 +59,7 @@ Tu peux la retrouver en version documentation juste après 👇.
   * [ ] Fixer des rencontres avec les membres clés de ton équipe
   * [ ] Créer tes comptes sur les outils de ton équipe
 
-#### Si tu es développeuses ou développeurs
+#### Si tu es développeuse/développeur
 
 * [ ] Lire notre [kit de démarrage](../les-differents-metiers/developpeur.se/kit-de-demarrage.md)
 * [ ] Participer à l'[embarquement dev](https://airtable.com/shrUCbUT72KtKefsu) spécifique à ton rôle
