@@ -11,7 +11,7 @@ description: >-
 Le parcours d'embarquement est **obligatoire** pour tous les nouveaux prestataires rejoignant la communauté. Son but est de te permettre :
 - De te sentir appartenir à la communauté beta.gouv.fr
 - De comprendre ta mission et la pratique de ton métier à la sauce beta.gouv.fr
-- De connaitre les outils, les ressources, les statuts, ton incubateur et les personnes utiles pour toi
+- De connaître les outils, les ressources, les statuts, ton incubateur et les personnes utiles pour toi
 - D'être impactant pour ton équipe
 
 ## Ton parcours d'embarquement
