@@ -1,7 +1,7 @@
 ---
 description: >-
   Tu as rejoint une équipe, une startup ou un incubateur qui fait partie du réseau beta.gouv.fr ? Cette page est prévue pour t'aider à embarquer dans la communauté ! 
-  L'équipe animation a conçu pour toi, un parcours d'embarquement global qui te permettra d'appréhender le plus efficacement possible ton nouveau rôle.
+  L'équipe animation a conçu pour toi un parcours d'embarquement global qui te permettra d'appréhender le plus efficacement possible ton nouveau rôle.
 ---
 
 # 🐥 Débuter chez beta.gouv.fr
