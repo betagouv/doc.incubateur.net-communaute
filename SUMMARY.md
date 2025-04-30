@@ -319,7 +319,7 @@
 * [☝️ Demander de l'aide](solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/README.md)
   * [Le Pôle Numérique Inclusif](solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/aide-transverse-pole-numerique-inclusif.md)
   * [Growth hacking](solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/growth-hacking-acquisition.md)
-  * [Atelier impact](solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/piloter-sa-croissance-et-evaluer-son-impact.md)
+  * [Ateliers impact & croissance](solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/piloter-sa-croissance-et-evaluer-son-impact.md)
   * [Conseil juridique et mise en conformité RGPD](solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/mise-en-conformite-rgpd-et-conseil-juridique.md)
   * [L'aide des référents métiers](solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/laide-au-recrutement-des-referents-metiers.md)
 * [🧑‍💻 Partager et consulter des ressources](solliciter-et-contribuer-a-la-communaute/partage-de-ressources.md)
