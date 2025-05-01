@@ -44,9 +44,9 @@ Tu peux la consulter en version documentation juste ici 👇.
 * [ ] Lire la documentation sur nos [standards de qualité ](../../gerer-son-produit/les-standards/)
 * [ ] Découvrir [les canaux mattermost recommandés](../../les-outils-de-la-communaute/mattermost/canaux-recommandes.md)
 * [ ] Consulter [l'observatoire de beta.gouv.fr](https://espace-membre.incubateur.net/metabase) et [y contribuer](https://espace-membre.incubateur.net/) via ton espace membre
-* [ ] Découvrir s'il y a d'autres membres de la communauté près de chez toi sur la [carte des membres](https://espace-membre.incubateur.net/map)
+* [ ] Découvrir s'il y a d'autres membres de la communauté près de chez toi sur la [carte des membres](https://espace-membre.incubateur.net/community)
 * [ ] Découvrir [tous les lieux où travailler ou organiser des événements](../vie-quotidienne-et-bien-etre/travailler-dans-les-lieux-partages/)
-* [ ] T'abonner à [l'agenda public de l'incubateur](https://webmail.numerique.gouv.fr/caldav/Y2FsOi8vMzcxLzA) pour suivre les événements de la communauté
+* [ ] T'abonner à [l'agenda public de l'incubateur](https://calendar.google.com/calendar/u/0/r?cid=MGllb25xYXAxcjVqZWFsNXVnZXVob292bGdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) pour suivre les événements de la communauté
 
 ##### Appréhender ton environnement
 
@@ -71,11 +71,11 @@ Tu peux la consulter en version documentation juste ici 👇.
 
 #### Si tu es coach
 
-* [ ] Lire le [kit de démarrage](../../gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/construction/kit-de-demarrage.md)
+* [ ] Lire le [kit de démarrage](https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/les-differents-metiers/coach.e/en-construction/conseils-pour-les-coachs))
 
 ### Découvre la documentation spécifique à ton incubateur
 
-À l'exception des cas où ton administration de rattachement ne dispose pas encore de son propre incubateur (auquel cas tu es rattaché par défaut à l'[incubateur de la DINUM](../../decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/)), nous t'invitons à découvrir les espaces de documentation spécifiques à ton incubateur.
+À l'exception des cas où ton administration de rattachement ne dispose pas encore de son propre incubateur (auquel cas tu es rattaché par défaut à l'[incubateur de la DINUM](https://doc.incubateur.net/communaute/decouvrir-beta.gouv.fr/les-incubateurs-du-reseau-beta.gouv.fr), nous t'invitons à découvrir les espaces de documentation spécifiques à ton incubateur.
 
 | Nom de l'incubateur                       | Liens utiles                                                                                                                                                        |
 | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -101,7 +101,7 @@ Tu peux la consulter en version documentation juste ici 👇.
   * [ ] #4 Maitrise le feedback pour bien travailler avec des gens différents
   * [ ] #5 Comment ne pas finir en prison quand on bosse sur un produit numérique
   * [ ] #6 Recrute et chérie tes utilisateurs / Pas utilisateurs, pas d’impact ; pas impact, pas de budget; pas de budget …
-* [ ] Participer à un point de rencontre régulier :
+* [ ] Participer à un point de rencontre grâce aux clubs métiers :
   * [ ] Rencontre dev : partage sur les pratiques de développement informatiques 🔒`#domaine-dev`
   * [ ] Rencontre coach : comment accompagner une startup d'état 🔒`#incubateur-coaching`
   * [ ] Rencontre bizdev : comment déployer les startups 🔒`#incubateur-bizdev`
