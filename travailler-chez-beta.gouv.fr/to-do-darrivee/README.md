@@ -101,11 +101,7 @@ Tu peux la consulter en version documentation juste ici 👇.
   * [ ] #4 Maitrise le feedback pour bien travailler avec des gens différents
   * [ ] #5 Comment ne pas finir en prison quand on bosse sur un produit numérique
   * [ ] #6 Recrute et chérie tes utilisateurs / Pas utilisateurs, pas d’impact ; pas impact, pas de budget; pas de budget …
-* [ ] Participer à un point de rencontre grâce aux clubs métiers :
-  * [ ] Rencontre dev : partage sur les pratiques de développement informatiques 🔒`#domaine-dev`
-  * [ ] Rencontre coach : comment accompagner une startup d'état 🔒`#incubateur-coaching`
-  * [ ] Rencontre bizdev : comment déployer les startups 🔒`#incubateur-bizdev`
-  * [ ] Rencontre intra : comment les agents publiques créent leurs startups 🔒`#domaine-intrapreneurs`
+* [ ] Participer à un point de rencontre grâce aux [clubs métiers](https://doc.incubateur.net/communaute/decouvrir-beta.gouv.fr/la-communaute/les-rituels/clubs-de-partage-dexperience)
 * [ ] Co-construire avec le responsable de l'équipe produit tes objectifs de mission
 * [ ] [Si tu rejoins une nouvelle startup], créer avec ton équipe une **fiche produit** sur beta.gouv.fr, [directement sur Github](https://github.com/betagouv/beta.gouv.fr/tree/master/content/_startups) en passant par l'interface de gestion des fiches produits sur l'espace membre. Tu peux t'inspirer [des autres produits](https://beta.gouv.fr/startups/) pour le format et contenu
 
