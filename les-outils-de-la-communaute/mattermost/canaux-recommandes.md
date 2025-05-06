@@ -98,3 +98,25 @@ description: >-
 [\~bruit-musique](https://mattermost.incubateur.net/betagouv/channels/bruit-cuisine) _Des bonnes vibrations !_
 
 [\~domaine-datascience](https://mattermost.incubateur.net/betagouv/channels/domaine-datascience)
+
+### Les canaux locaux
+
+**Pour échanger avec les membres de la communauté proches de chez toi**
+
+[\~bureaux-bretagne](https://mattermost.incubateur.net/betagouv/channels/bureaux-bretagne)
+
+[\~bureaux-nantes](https://mattermost.incubateur.net/betagouv/channels/bureaux-nantes)
+
+[\~bureaux-bordeaux](https://mattermost.incubateur.net/betagouv/channels/bureaux-bordeaux)
+
+[\~bureaux-betalyon](https://mattermost.incubateur.net/betagouv/channels/bureaux-betalyon)
+
+[\~bureaux-marseille](https://mattermost.incubateur.net/betagouv/channels/bureaux-marseille)
+
+[\~bureaux-montpellier](https://mattermost.incubateur.net/betagouv/channels/bureaux-montpellier)
+
+[\~bureaux-strasbourg](https://mattermost.incubateur.net/betagouv/channels/bureaux-strasbourg)
+
+[\~bureaux-toulouse-chocolatine](https://mattermost.incubateur.net/betagouv/channels/bureaux-toulouse-chocolatine)
+
+[\~bureaux-sur-la-route](https://mattermost.incubateur.net/betagouv/channels/bureaux-sur-la-route)
