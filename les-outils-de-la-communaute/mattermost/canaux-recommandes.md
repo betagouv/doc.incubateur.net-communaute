@@ -21,6 +21,32 @@ description: >-
 
 [\~domaine-bizdev 🚀](https://mattermost.incubateur.net/betagouv/channels/incubateur-bizdev)
 
+### Les canaux "prés de chez toi"
+
+[\~bureau-bordeaux](https://mattermost.incubateur.net/betagouv/channels/bureaux-bordeaux)
+
+[\~bureau-bretagne](https://mattermost.incubateur.net/betagouv/channels/bureaux-bretagne)
+
+[\~bureau-betalyon](https://mattermost.incubateur.net/betagouv/channels/bureaux-betalyon)
+
+[\~bureau-marseille](https://mattermost.incubateur.net/betagouv/channels/bureaux-marseille)
+
+\~bureau-montpellier[^1]
+
+[\~bureau-nantes](https://mattermost.incubateur.net/betagouv/channels/nantes-coworking)
+
+[\~bureau-segur (paris)](https://mattermost.incubateur.net/betagouv/channels/bureaux-segur)
+
+[\~bureau-strasbourg](https://mattermost.incubateur.net/betagouv/channels/bureaux-strasbourg)
+
+[\~bureau-toulouse-chocolatine](canaux-recommandes.md#les-canaux-metiers)
+
+[\~bureau-coliving-champetre](https://mattermost.incubateur.net/betagouv/channels/bureaux-coliving-champetre)
+
+
+
+
+
 ### Les canaux pour faciliter votre quotidien
 
 **Pour ne pas rester coincé.e présentiel ou en ligne**
@@ -120,3 +146,5 @@ description: >-
 [\~bureaux-toulouse-chocolatine](https://mattermost.incubateur.net/betagouv/channels/bureaux-toulouse-chocolatine)
 
 [\~bureaux-sur-la-route](https://mattermost.incubateur.net/betagouv/channels/bureaux-sur-la-route)
+
+[^1]: 
