@@ -45,7 +45,7 @@ Tu peux la consulter en version documentation juste ici 👇.
 * [ ] Lire la documentation sur nos [standards de qualité ](../../gerer-son-produit/les-standards/)
 * [ ] Découvrir [les canaux mattermost recommandés](../../les-outils-de-la-communaute/mattermost/canaux-recommandes.md)
 * [ ] Consulter [l'observatoire de beta.gouv.fr](https://espace-membre.incubateur.net/metabase) et [y contribuer](https://espace-membre.incubateur.net/) via ton espace membre
-* [ ] Publie un message pour signaler ton arrivée aux membres de la communauté beta.gouv près de chez toi via ton [canal mattermost local](https://doc.incubateur.net/communaute/les-outils-de-la-communaute/mattermost/canaux-recommandes). Si aucun ne correspond, tu peux regarder si d'autres membres de la communauté sont près de chez toi sur la [carte des membres](https://espace-membre.incubateur.net/community)
+* [ ] Publier un message pour signaler ton arrivée aux membres de la communauté beta.gouv près de chez toi via ton [canal mattermost local](https://doc.incubateur.net/communaute/les-outils-de-la-communaute/mattermost/canaux-recommandes). Si aucun ne correspond, tu peux regarder si d'autres membres de la communauté sont près de chez toi sur la [carte des membres](https://espace-membre.incubateur.net/community)
 * [ ] Découvrir [tous les lieux où travailler ou organiser des événements](../vie-quotidienne-et-bien-etre/travailler-dans-les-lieux-partages/)
 * [ ] T'abonner à [l'agenda public de l'incubateur](https://calendar.google.com/calendar/u/0/r?cid=MGllb25xYXAxcjVqZWFsNXVnZXVob292bGdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) pour suivre les événements de la communauté
 
