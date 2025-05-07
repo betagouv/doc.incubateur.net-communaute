@@ -20,6 +20,9 @@ list-rules:
 echo-rules:
 	echo "the rules are $(RULES)"
 
+fix-md:
+	npm run lint -- -f
+
 lint-md:
 	npm run lint
 

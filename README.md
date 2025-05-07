@@ -36,7 +36,7 @@ d'aligner le texte sur 80 colonnes (avec la commande Alt-Q).
 Pour lancer le linting :
 
 ```sh
-make lint-filenames
+make lint
 ```
 
 ## Export
