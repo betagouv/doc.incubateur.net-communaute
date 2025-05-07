@@ -2,7 +2,7 @@
 
 ## Description
 
-Des outils d'analyse/formattage de code, les linters, sont disponibles pour
+Des outils d'analyse/formatage de code, les linters, sont disponibles pour
 évaluer et corriger votre base de code. Ils permettent d'assurer l'uniformité
 du code et d'aligner les développeurs sur le style à employer pour y
 contribuer. Ces linters peuvent aussi aller plus loin que la simple esthétique
