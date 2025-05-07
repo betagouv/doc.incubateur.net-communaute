@@ -10,7 +10,7 @@ De plus, une approche de Continuous Integration / Continuous
 Deployment (CI/CD) est mise en place pour faciliter le déploiement
 régulier et sécurisé des modifications.
 
-Le bon déroulement des tests intégré au pipeline CI/CD doit
+Le bon déroulement des tests intégrés au pipeline CI/CD doit
 conditionner l'évolution des changements et le déploiement dans les
 environnements de recette ou production.
 
