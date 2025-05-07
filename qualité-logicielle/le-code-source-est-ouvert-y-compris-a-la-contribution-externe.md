@@ -2,8 +2,10 @@
 
 ## Description
 
-Le projet est open-source et accepte les contributions externes pour encourager
-la collaboration et l'amélioration continue.
+Le projet est open-source et accepte les contributions externes pour
+encourager la collaboration et l'amélioration continue. Le README ou
+un fichier dédié (ex: `CONTRIBUTING.md`) permet aux potentiels
+contributeurs de mieux comprendre comment partager leur travail.
 
 ## Critères
 
@@ -12,4 +14,5 @@ la collaboration et l'amélioration continue.
 
 ## Ressources
 
+- [Enjeux de l'open-source sur Sillon](https://sillon.incubateur.net/docs/community-and-open-source/internet-base/)
 - [Open Source Guides](https://opensource.guide/)
