@@ -12,7 +12,7 @@ Sentry permet de réagir rapidement en cas d'incident, d'analyser un incident pa
 
 L'équipe animation met à disposition une instance sur [https://sentry.incubateur.net](https://sentry.incubateur.net)
 
-Vous pouvez faire une demande d'accès via un [ticket OPS sur le channel mattermost](https://mattermost.incubateur.net/betagouv/channels/incubateur-demandes-ops).
+Vous pouvez [demander un accès via l'espace membre](https://espace-membre.incubateur.net/services/sentry).
 
 ### Recommandations
 
