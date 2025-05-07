@@ -8,7 +8,7 @@ les erreurs en temps réel.
 ## Critères
 
 - Un outil d'alerte est configuré.
-- Les alertes sont surveillées et traitées rapidement.
+- Les alertes sont surveillées et traitées régulièrement.
 
 ## Ressources
 
