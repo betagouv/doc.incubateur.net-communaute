@@ -34,33 +34,55 @@ En cas de doute, vous pouvez contacter votre équipe juridique ou solliciter not
 
 #### Application mode PaaS
 
-Il existe des hébergeurs qui automatisent la mise en prod de votre application et gèrent la base de données. Ils sont recommandés pour le lancement d'une startup d'état (**Ne perdez pas du temps avec de l'ops** : concentrez-vous sur le produit).
+Il existe des hébergeurs qui automatisent la mise en prod de votre application et gèrent la base de données.
+
+Ces approches "sans serveur" appelées `Serverless`, permettent à votre équipe de développement de se passer de la gestion directe de serveurs (physiques ou virtualisés) et de se concentrer sur la production de code. Ces solutions sont **plus que recommandées** pour le lancement d'une startup d'état (**Ne perdez pas du temps avec de l'ops** : concentrez-vous sur le produit).
 
 Voici des exemples d'hébergeurs permettant d'héberger simplement une application : (non exhaustive)
 
 | Service           | Normes                                 |
 | ----------------- | -------------------------------------- |
-| 🇫🇷 Scalingo     | HDS, Zone basé sur un IaaS SecNumCloud |
-| 🇫🇷 Clever Cloud | HDS                                    |
+| 🇫🇷 Scalingo     | HDS, Zone basé sur un IaaS SecNumCloud  |
+| 🇫🇷 Clever Cloud | HDS                                     |
+| 🇫🇷 Scaleway     | HDS                                     |
 
-> Pour ces hébergeurs type `PaaS`, vous devez respecter les conventions de [The Twelve-factor app](https://12factor.net)) mais bénéficiez de nombreux avantages : scaling et sauvegardes automatiques, outillage de monitioring intégré, prix attractif...
+{% hint style="info" %}
+Pour lancer un premier hébergement avec très peu de frais, certains incubateurs proposent des marchés publics sur des hébergeurs PaaS, c'est le cas de Scalingo avec l'incubateur de la Dinum (ISN) et de la Fabrique Numérique de l'Ecologie. Rapprochez-vous des responsables techniques d'incubateur pour en savoir plus.
+{% endhint %}
+
+> Pour ces hébergeurs type `PaaS`, vous devez respecter les conventions de [The Twelve-factor app](https://12factor.net) mais bénéficiez de nombreux avantages : scaling et sauvegardes automatiques, outillage de monitioring intégré, prix attractif...
 
 #### Application mode IaaS
 
-Voici des exemples d'hébergeurs permettant de louer des machines virtuelles, serveurs ou ressources brutes.
+Si la charge de travail de votre application nécessite malgré tout un hébergement sur une machine dédiée, voici des exemples d'hébergeurs permettant de louer des machines virtuelles, serveurs ou ressources brutes :
 
 | Service           | Normes                                    |
 | ----------------- | ----------------------------------------- |
-| 🇫🇷 Outscale     | HDS, SecNumCloud                          |
-| 🇫🇷 OVH          | HDS, SecNumCloud sur certaines ressources |
-| 🇫🇷 Cloud Temple | HDS, SecNumCloud                          |
-| 🇫🇷 Scaleway     |                                           |
+| 🇫🇷 Outscale     | HDS, SecNumCloud                            |
+| 🇫🇷 OVH          | HDS, SecNumCloud sur certaines ressources   |
+| 🇫🇷 Cloud Temple | HDS, SecNumCloud                            |
+| 🇫🇷 Scaleway     | HDS                                         |
 
-> Choisissez l'hébergement en fonction des critères pour la start-up :
->
-> * Est-ce que je garde les données en France ? (c'est recommandé pour votre prod mais pour votre environnement de demo, c'est moins sensible)
-> * Quel est la confidentialité de mes données ? (quand on se lance, au début on n'a pas ou peu de données)
-> * Quel est le coût ? (tu as un coût, une journée dev peut équivaloir à 1 an d'hébergement sur certains de ces services: **si ça te fais gagner du temps, tu peux payer l'hébergement plus cher**)
+
+### Coûts cachés : IaaS vs PaaS/Serverless
+
+Afin de bénéficier de mêmes avantages que proposent les PaaS et afin également de respecter les standards et bonnes pratiques beta.gouv, l'approche IaaS implique des coûts cachés qui doivent être pris en compte :
+
+| Aspect | Approche IaaS (VM) | Approche PaaS/Serverless |
+| ------ | ------------------ | ------------------------ |
+| **Déploiement continu** | Nécessite de mettre en place et maintenir des pipelines CI/CD | Généralement intégré avec des workflows simples (blue/green deployment) |
+| **Intégrité des données** | Configuration manuelle des sauvegardes et de leur externalisation | Automatisé et inclus dans le service |
+| **Monitoring & Logs** | Mise en place d'outils de collecte et d'analyse des logs et métriques | Dashboards et alertes souvent préconfigurés |
+| **Sécurité** | Responsabilité complète de l'équipe (mises à jour OS, back-up, correctifs, etc.) | Partiellement gérée par le fournisseur |
+| **Réseau** | Configuration et sécurisation réseau manuelle (ex: firewall, accès SSH) | Gestion des accès simplifiée via interfaces web |
+| **Disponibilité** | Nécessite une configuration avancée pour assurer la rédondance | Généralement transparent et inclus dans l'offre |
+| **Mise à l'échelle** | Configuration manuelle ou scripts complexes | Automatique et transparente |
+| **Compétences requises** | Nécessite des compétences DevOps spécifiques | Peu de compétences opérationnelles requises |
+| **Coût réel** | Prix de l'infrastructure + temps d'ingénierie + maintenance | Prix du service (généralement plus prédictible) |
+
+Pour une Startup d'État en phase de lancement, ces coûts cachés ne peuvent pas être consacré au développement des fonctionnalités. Privilégier une approche PaaS ou Serverless permet de concentrer des ressources limitées sur la création de valeur pour les utilisateurs plutôt que sur la maintenance et les opérations d'une infrastructure.
+
+> **Recommandation** : Ne passez à une approche IaaS que lorsque les limites techniques ou économiques du PaaS sont clairement atteintes et documentées. Dans la grande majorité des cas, les solutions PaaS sont largement suffisantes pour les besoins des startups d'État, même à l'échelle.
 
 #### Hébergements d'images et de fichiers
 
