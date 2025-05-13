@@ -43,6 +43,10 @@ Le déroulé de cette certification pour les intras vise à évaluer ces 8 comp�
   \- les intrapreneurs ayant connu une phase d'accélération et maîtrisant les étapes de construction d'un produit numérique. \
   \- les agents n'ayant pas déjà passé la certification de Numa
 
+{% hint style="info" %}
+Il est possible pour un intrapreneur de passer la certification jusqu'à deux sessions sucessives après son départ de la communauté beta.gouv.fr (environ 1 an). L'évaluation intégrant un retour de l'équipe produit, un délai de plus d'un an compromettrait la quantité et la qualité des retours.
+{% endhint %}
+
 ## Déroulé d'une certification
 
 | Étapes                         | Délais    | Durée   |
