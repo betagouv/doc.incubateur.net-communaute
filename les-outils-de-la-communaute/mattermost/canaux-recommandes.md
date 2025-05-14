@@ -35,6 +35,8 @@ description: >-
 
 [\~bureau-nantes](https://mattermost.incubateur.net/betagouv/channels/nantes-coworking)
 
+[\~betagouv-paysbasque](https://mattermost.incubateur.net/betagouv/channels/betagouv-sudouest)
+
 [\~bureau-segur (paris)](https://mattermost.incubateur.net/betagouv/channels/bureaux-segur)
 
 [\~bureau-strasbourg](https://mattermost.incubateur.net/betagouv/channels/bureaux-strasbourg)
