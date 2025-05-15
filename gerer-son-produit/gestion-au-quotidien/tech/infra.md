@@ -47,7 +47,7 @@ Voici des exemples d'hébergeurs permettant d'héberger simplement une applicati
 | 🇫🇷 Scaleway     | HDS                                     |
 
 {% hint style="info" %}
-Pour lancer un premier hébergement avec très peu de frais, certains incubateurs proposent des marchés publics sur des hébergeurs PaaS, c'est le cas de Scalingo avec l'incubateur de la Dinum (ISN) et de la Fabrique Numérique de l'Ecologie. Rapprochez-vous des responsables techniques d'incubateur pour en savoir plus.
+Pour lancer un premier hébergement avec très peu de frais, certains incubateurs proposent des marchés publics sur des hébergeurs PaaS, c'est le cas de Scalingo avec l'incubateur de la DINUM (ISN) et de la Fabrique Numérique de l’Écologie. Rapprochez-vous des [responsables techniques d'incubateurs](/gerer-son-produit/gestion-au-quotidien/tech/to-do-liens-avec-les-referents-techs) pour en savoir plus.
 {% endhint %}
 
 > Pour ces hébergeurs type `PaaS`, vous devez respecter les conventions de [The Twelve-factor app](https://12factor.net) mais bénéficiez de nombreux avantages : scaling et sauvegardes automatiques, outillage de monitioring intégré, prix attractif...
