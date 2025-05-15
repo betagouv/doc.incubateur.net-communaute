@@ -80,7 +80,7 @@ Afin de bénéficier de mêmes avantages que proposent les PaaS et afin égaleme
 | **Compétences requises** | Nécessite des compétences DevOps spécifiques | Peu de compétences opérationnelles requises |
 | **Coût réel** | Prix de l'infrastructure + temps d'ingénierie + maintenance | Prix du service (généralement plus prédictible) |
 
-Pour une Startup d'État en phase de lancement, ces coûts cachés ne peuvent pas être consacré au développement des fonctionnalités. Privilégier une approche PaaS ou Serverless permet de concentrer des ressources limitées sur la création de valeur pour les utilisateurs plutôt que sur la maintenance et les opérations d'une infrastructure.
+Pour une Startup d'État en phase de lancement, ces coûts cachés limitent le développement de fonctionnalités. Privilégier une approche PaaS ou Serverless permet de concentrer des ressources limitées sur la création de valeur pour les utilisateurs plutôt que sur la maintenance et les opérations d'une infrastructure.
 
 > **Recommandation** : Ne passez à une approche IaaS que lorsque les limites techniques ou économiques du PaaS sont clairement atteintes et documentées. Dans la grande majorité des cas, les solutions PaaS sont largement suffisantes pour les besoins des startups d'État, même à l'échelle.
 
