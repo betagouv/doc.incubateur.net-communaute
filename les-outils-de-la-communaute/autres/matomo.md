@@ -20,12 +20,11 @@ C'est un outil en ligne géré par beta.gouv.
 
 Plus d'infos sur le site officiel : [https://matomo.org](https://matomo.org)
 
-Les [plugins matomo premium](https://plugins.matomo.org/premium) peuvent être installés à la demande, n'hésitez pas à nous solliciter si besoin d'en ajouter ou configuration particulière : cf le formulaire indiqué dans le header du [canal demandes-ops](https://mattermost.incubateur.net/betagouv/channels/incubateur-demandes-ops).
+Des [plugins matomo premium](https://plugins.matomo.org/premium) peuvent être installés à la demande, n'hésitez pas à nous solliciter si besoin d'en ajouter ou configuration particulière : Pour en discuter, rdv dans [le canal de discussion dédié à Matomo](https://mattermost.incubateur.net/betagouv/channels/incubateur-matomo)
 
 {% embed url="https://mattermost.incubateur.net/betagouv/channels/incubateur-matomo" %}
 Canal de discussion dédié à Matomo sur mattermost : incubateur-matomo
 {% endembed %}
-
 
 
 ## Matomo, comment ça marche ?
