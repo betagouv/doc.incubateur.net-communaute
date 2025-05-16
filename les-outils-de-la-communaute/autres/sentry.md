@@ -28,7 +28,7 @@ Sécurité : N'envoyez jamais de données personnelles dans Sentry.
 | Tech | Je m'abonne aux alertes de mon projet                                                                                                                              |
 
 {% embed url="https://mattermost.incubateur.net/betagouv/channels/incubateur-sentry" %}
-Canal de discussion dédié à Matomo sur mattermost : domaine-matomo
+Canal de discussion dédié à Sentry sur mattermost : incubateur-sentry
 {% endembed %}
 
 ### Installation
