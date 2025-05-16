@@ -23,7 +23,7 @@ Plus d'infos sur le site officiel : [https://matomo.org](https://matomo.org)
 Les [plugins matomo premium](https://plugins.matomo.org/premium) peuvent être installés à la demande, n'hésitez pas à nous solliciter si besoin d'en ajouter ou configuration particulière : cf le formulaire indiqué dans le header du [canal demandes-ops](https://mattermost.incubateur.net/betagouv/channels/incubateur-demandes-ops).
 
 {% embed url="https://mattermost.incubateur.net/betagouv/channels/incubateur-matomo" %}
-Canal de discussion dédié à Matomo sur mattermost : domaine-matomo
+Canal de discussion dédié à Matomo sur mattermost : incubateur-matomo
 {% endembed %}
 
 
@@ -36,7 +36,7 @@ Matomo est l'équivalent _open source_ de Google Analytics.
 
 ## Ajouter un site en beta.gouv.fr au Matomo mutualisé
 
-#### Aller dans [le channel Mattermost incubateur-demandes-ops ](https://mattermost.incubateur.net/betagouv/channels/incubateur-ops)et faire une demande via le formulaire dédié :
+Vous pouvez faire la demande via l'espace-membre : https://espace-membre.incubateur.net/services/matomo
 
 ## Recommandations pour utiliser Matomo sans bannière de consentement aux cookies
 

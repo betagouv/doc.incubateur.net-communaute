@@ -14,7 +14,9 @@ Tous les services disponibles sont présentés sur la page ["les outils de la co
 
 ### Comment faire une demande d'ops
 
-Pour toute demande d'ops (sous-domaine, matomo, sentry, etc) remplis le formulaire de demande d'ops que tu trouveras dans la description du channel [`~incubateur-ops` sur mattermost](https://mattermost.incubateur.net/betagouv/channels/incubateur-demandes-ops). Afin d'éviter de multiples aller-retour n'hésite pas à fournir le maximum d'information dans le champ "note".
+Pour les services Matomo et Sentry tu peux faire la demande directement via l'espace-membre : https://espace-membre.incubateur.net/services
+
+Pour toute demande d'ops (sous-domaine, ressources scalingo, ovh ou autre) remplis le formulaire de demande d'ops que tu trouveras dans la description du channel [`~incubateur-ops` sur mattermost](https://mattermost.incubateur.net/betagouv/channels/incubateur-demandes-ops). Afin d'éviter de multiples aller-retour n'hésite pas à fournir le maximum d'information dans le champ "note".
 
 Si tu n'as pas de réponse sous 24h, consulte la liste des gens qui ont accès et les droits suffisants, et fais une relance nominative.
 
