@@ -9,17 +9,17 @@ description: >-
 ## Pourquoi un embarquement commun ?
 
 Le parcours d'embarquement est **obligatoire** pour tous les nouveaux prestataires et agents publics rejoignant la communauté. Son but est de t'aider et de te permettre :
-- De te sentir appartenir à la communauté beta.gouv.fr
+- De comprendre les standards et valeurs de la communauté beta.gouv.fr
 - De comprendre ta mission et la pratique de ton métier à la sauce beta.gouv.fr
 - De connaître les outils, les ressources, les statuts, ton incubateur et les personnes utiles pour toi
-- D'être impactant pour ton équipe
+- D'être impactant pour l'équipe
 
 ## Ton parcours d'embarquement
 
 Ton parcours d'embarquement est segmenté en 3 grandes phases :
 - **Phase 1** : Te préparer, lors de ta première semaine 
-- **Phase 2** : Comprendre ton environnement, s’intégrer à ton équipe, fixer tes objectifs de mission lors de ton premier mois
-- **Phase 3** : Te positionner lors de ton troisième mois
+- **Phase 2** : Comprendre ton environnement, travailler avec l'équipe, fixer les objectifs de mission lors de ton premier mois
+- **Phase 3** : Vérifier l'atteinte de tes objectifs de mission lors de ton troisième mois. Pour les intrapreneurs ce sont les objectifs que vous vous êtes auto-fixé.
 
 Pour t'aider dans ton embarquement tu pourras solliciter en fonction des étapes : ton intrapreneur, ton incubateur, ton responsable de portefeuille de la DINUM et le titulaire de ton marché public.
 
