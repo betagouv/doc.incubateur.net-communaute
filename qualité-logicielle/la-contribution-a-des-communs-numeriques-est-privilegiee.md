@@ -27,6 +27,6 @@ contribuer en retour.
 
 ## Ressources
 
-- [Guide Sillon - Communauté & open source](https://sillon.incubateur.net/communaute)
+- [Guide Sillon - Communauté & open source](https://sillon.incubateur.net/docs/community-and-open-source/)
 - [Politique de contribution aux logiciels libres de l'administration](https://code.gouv.fr/fr/doc/politique-logiciel-libre/)
 - [Socle interministériel de logiciels libres](https://code.gouv.fr/fr/sill/)

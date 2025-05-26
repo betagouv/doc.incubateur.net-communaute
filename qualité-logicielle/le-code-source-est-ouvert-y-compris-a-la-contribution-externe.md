@@ -14,5 +14,5 @@ contributeurs de mieux comprendre comment partager leur travail.
 
 ## Ressources
 
-- [Enjeux de l'open-source sur Sillon](https://sillon.incubateur.net/docs/community-and-open-source/internet-base/)
+- [Guide Sillon - Fondements de l'open-source](https://sillon.incubateur.net/docs/community-and-open-source/internet-base/)
 - [Open Source Guides](https://opensource.guide/)
