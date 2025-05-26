@@ -12,4 +12,4 @@ de qualité, de sécurité et de performance.
 
 ## Ressources
 
-- [Dashlord](https://dashlord.example.com)
+- [Le Dashlord de l'incubateur](https://dashlord.incubateur.net/)
