@@ -2,20 +2,26 @@
 
 ## Description
 
-Le service met en place des mécanismes simples et accessibles pour que les
-utilisateurs puissent donner leur avis et signaler des problèmes.
+La capacité des citoyens à s'exprimer sur un service public numérique est
+fondamentale pour sa légitimité et son amélioration. Un service qui ne
+facilite pas les retours manque des opportunités précieuses d'évolution et
+risque de perdre la confiance des utilisateurs.
 
-Des outils d'upvote peuvent aussi être mis en place pour récolter et
-prioriser des retours utilisateurs, comme Astuto ou GitHub
-Discussions.
+Les mécanismes de retour doivent être visibles, accessibles et variés pour
+s'adapter aux différents profils d'utilisateurs. Intégrez le bouton "Je donne
+mon avis", proposez plusieurs canaux (formulaire, email, livechat), et placez
+les points de contact stratégiquement après les actions importantes.
 
 ## Critères
 
-- Un formulaire de retour est disponible sur le site.
-- Les retours sont traités rapidement.
+- Un moyen de contact est visible sur chaque page importante
+- L'équipe suit et analyse les retours pour améliorer le service
+- Les améliorations basées sur les retours sont communiquées aux utilisateurs
 
 ## Ressources
 
-- [Collecte de feedback utilisateur](https://www.usability.gov/how-to-and-tools/methods/collecting-user-feedback.html)
+- [Intégrer le bouton "Je donne mon avis"](https://doc.incubateur.net/communaute/gerer-son-produit/pourquoi-le-deploiement-dun-service-public-en-ligne-est-il-important/integrer-le-bouton-je-donne-mon-avis)
+- [Guide Sillon - Support utilisateur](https://sillon.incubateur.net/docs/monitoring/for-business-needs/#support-utilisateur)
 - [GitHub Discussions](https://docs.github.com/fr/discussions/collaborating-with-your-community-using-discussions/about-discussions)
-- [Astuto](https://astuto.io/)
+- [Crisp - outil de support utilisateur](https://crisp.chat/)
+- [Astuto - outil de feuille de route public](https://astuto.io/)
