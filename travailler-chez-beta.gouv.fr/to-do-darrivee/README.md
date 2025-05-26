@@ -14,7 +14,7 @@ Le parcours d'embarquement est **obligatoire** pour tous les nouveaux prestatair
 - De connaître les outils, les ressources, les statuts, ton incubateur et les personnes utiles pour toi
 - D'être impactant pour l'équipe
 
-## Ton parcours d'embarquement
+## Les étapes clés de ton parcours d'embarquement
 
 Ton parcours d'embarquement est segmenté en 3 grandes phases :
 - **Phase 1** : Te préparer, lors de ta première semaine 
@@ -24,6 +24,12 @@ Ton parcours d'embarquement est segmenté en 3 grandes phases :
 Pour t'aider dans ton embarquement tu pourras solliciter en fonction des étapes : ton intrapreneur, ton incubateur, ton responsable de portefeuille de la DINUM et le titulaire de ton marché public.
 
 Tu es autonome dans le déroulé de ton embarquement, c'est à toi de prendre l'initiative pour le réaliser.
+
+## Ton parcours d'embarquement en détails
+
+{% embed url="https://docs.google.com/presentation/d/1yRahCkJ6EG-Eq34bsOc1BVSkrw5YlJH78nBwDt_3fsY/edit?usp=sharing" %}
+Parcours embarquement généraliste
+{% endembed %}
 
 # 🛤️ Ta checklist opérationnelle d'embarquement
 
