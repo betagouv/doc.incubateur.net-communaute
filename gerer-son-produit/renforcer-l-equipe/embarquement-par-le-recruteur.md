@@ -22,7 +22,7 @@ Comme socle de base l'équipe animation a conçu un parcours d'embarquement glob
 Le parcours d'embarquement est **obligatoire** pour tous les nouveaux prestataires rejoignant la communauté. Son but est de les aider et leur de permettre :
 - De comprendre les standards et valeurs de la communauté beta.gouv.fr
 - De comprendre leur mission et la pratique de leur métier à la sauce beta.gouv.fr
-- De connaître les outils, les ressources, les statuts, ton incubateur et les personnes utiles pour eux
+- De connaître les outils, les ressources, les statuts, leur incubateur et les personnes utiles pour eux
 - D'être impactant pour l'équipe
 
 ## Les étapes clés du parcours d'embarquement
