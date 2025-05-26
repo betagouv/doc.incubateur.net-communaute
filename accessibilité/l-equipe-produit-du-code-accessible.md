@@ -20,6 +20,6 @@ doit s'assurer de mettre en oeuvre le maximum, par exemple :
 
 ## Ressources
 
-- [HTML : une bonne base pour l'accessibilité](https://developer.mozilla.org/fr/docs/Learn_web_development/Core/Accessibility/HTML)
-- [W3C : Making the Web Accessible](https://www.w3.org/WAI/)
+- [HTML : une bonne base pour l'accessibilité - mozilla.org](https://developer.mozilla.org/fr/docs/Learn_web_development/Core/Accessibility/HTML)
+- [Making the Web Accessible (en) - W3C](https://www.w3.org/WAI/)
 - [Design System de l'État](https://www.systeme-de-design.gouv.fr/)
