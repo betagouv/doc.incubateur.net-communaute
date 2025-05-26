@@ -12,7 +12,7 @@ layout:
     visible: false
 ---
 
-Tu as sélectionné une nouveau membre pour intégrer ton équipe ? Cette page est prévue pour t'aider l'embarquer dans la communauté ! 
+Tu as sélectionné une nouveau membre pour intégrer ton équipe ? Cette page est prévue pour t'aider à l'embarquer dans la communauté ! 
 Comme socle de base l'équipe animation a conçu un parcours d'embarquement global qui permettra au nouveau membre de ton équipe d'appréhender le plus efficacement possible son nouvel environnement.
 
 # 🐥 L'embarquement commun chez beta.gouv.fr
