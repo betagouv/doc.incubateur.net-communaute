@@ -2,21 +2,25 @@
 
 ## Description
 
-La documentation du produit, de son environnement et de ses
-dépendances doit être complète et à jour pour faciliter la
-compréhension, la maintenance, et l'embarquement sur le produit.
+L'équipe maintient une documentation simple permettant à toute
+personne de comprendre :
 
-Cette documentation peut prendre l'aspect d'un README exhaustif, d'une
-documentation dédiée, d'une suite de tests exportable dans un format
-lisible ou encore d'un `docker-compose.yml` mais qui permette de
-prendre le produit en main rapidement.
+- l'objectif du service
+- sa pile technique
+- son architecture / infrastructure
+- comment démarrer localement.
+
+Idéalement un environnement Docker Compose ou similaire permet à la
+fois de décrire précisement l'environnement du projet et de simplifier
+l'embarquement d'une nouvelle personne.
 
 ## Critères
 
-- Une documentation détaillée est disponible.
-- La documentation est régulièrement mise à jour.
+- Le README explique l'objectif du service
+- La pile technique et l'architecture du produit sont renseignées
+- Des instructions pour lancer le service en local sont disponibles
 
 ## Ressources
 
-- [Documentation technique](https://www.writethedocs.org/)
-- [Docker-Compose](https://docs.docker.com/get-started/workshop/08_using_compose/)
+- [Guide Sillon - Documenter votre projet](https://sillon.incubateur.net/docs/document/)
+- [Documentation technique - Write the Docs](https://www.writethedocs.org/)
