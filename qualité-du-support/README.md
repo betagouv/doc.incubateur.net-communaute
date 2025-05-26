@@ -9,7 +9,7 @@ et obtenir de l'aide sans friction. Le support est souvent le premier
 contact humain avec l'administration : il façonne la perception du
 service entier.
 
-Ce dossier définit les standards pour offrir un support exemplaire qui
+Cette thématique définit les standards pour offrir un support exemplaire qui
 honore les attentes citoyennes envers le service public.
 
 ## Pourquoi ces standards

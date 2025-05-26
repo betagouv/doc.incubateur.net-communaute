@@ -18,9 +18,7 @@ avec des délais clairs.
 - Aucune adresse "no-reply", "noreply" ou "ne-pas-repondre" n'est utilisée
 - Tous les emails permettent une réponse directe
 - Les adresses expéditrices sont explicites et professionnelles
-- Un accusé de réception automatique confirme la prise en compte
 
 ## Ressources
 
-- [Gestion des envois emails - doc.incubateur.net](https://doc.incubateur.net/communaute/les-outils-de-la-communaute/emails)
-- [RGAA : Accessibilité des communications](https://accessibilite.numerique.gouv.fr/)
+- [Bonnes pratiques pour l'envoi d'emails - doc.incubateur.net](https://doc.incubateur.net/communaute/les-outils-de-la-communaute/emails/envoyer-des-mails-en-masse/gestion-des-envois-emails)

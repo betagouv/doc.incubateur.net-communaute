@@ -15,8 +15,8 @@ les points de contact stratégiquement après les actions importantes.
 ## Critères
 
 - Un moyen de contact est visible sur chaque page importante
+- Le service propose au moins deux canaux de contact différents
 - L'équipe suit et analyse les retours pour améliorer le service
-- Les améliorations basées sur les retours sont communiquées aux utilisateurs
 
 ## Ressources
 
@@ -24,4 +24,4 @@ les points de contact stratégiquement après les actions importantes.
 - [Guide Sillon - Support utilisateur](https://sillon.incubateur.net/docs/monitoring/for-business-needs/#support-utilisateur)
 - [GitHub Discussions](https://docs.github.com/fr/discussions/collaborating-with-your-community-using-discussions/about-discussions)
 - [Crisp - outil de support utilisateur](https://crisp.chat/)
-- [Astuto - outil de feuille de route public](https://astuto.io/)
+- [Astuto - outil de feuille de route publique](https://astuto.io/)
