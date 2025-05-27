@@ -16,6 +16,11 @@ Au-delà du pilotage régulier par l’impact, le comité revêt d’autres fonc
 * engager les sponsors de proximité et leur permettre de confirmer les orientations et les attentes en termes d'impact ;
 * montrer aux directions l'intérêt du produit en rendant compte de ses résultats en invitant des usagers et partenaires.
 
+#### S'inspirer des comités d'investissements d'autres startups
+
+Les documents de présentation des comités d'investissements précédents sont dispo ici : [https://espace-membre.incubateur.net/startups](https://espace-membre.incubateur.net/startups)\
+Pensez à publier le votre après votre comité
+
 #### Exemple de présentation de comité d'investissement
 
 {% embed url="https://docs.google.com/presentation/d/1rVv7wItVNP1gQw4lz5TbWuV32hBq_EZ4EUJNnx4CvgY/edit#slide=id.g31b4f8b424f_0_207" %}
