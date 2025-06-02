@@ -19,7 +19,7 @@ Comme socle de base l'équipe animation a conçu un parcours d'embarquement glob
 
 ## Pourquoi un embarquement commun ?
 
-Le parcours d'embarquement est **obligatoire** pour tous les nouveaux prestataires rejoignant la communauté. Son but est de les aider et leur de permettre :
+Le parcours d'embarquement est **obligatoire** pour tous les nouveaux prestataires rejoignant la communauté. Son but est de les aider et leur permettre :
 - De comprendre les standards et valeurs de la communauté beta.gouv.fr
 - De comprendre leur mission et la pratique de leur métier à la sauce beta.gouv.fr
 - De connaître les outils, les ressources, les statuts, leur incubateur et les personnes utiles pour eux
@@ -30,7 +30,7 @@ Le parcours d'embarquement est **obligatoire** pour tous les nouveaux prestatair
 Le parcours d'embarquement généraliste est segmenté en 3 grandes phases :
 - **Phase 1** : Se préparer, lors de leur première semaine 
 - **Phase 2** : Comprendre leur environnement, travailler avec leur équipe, fixer les objectifs de mission lors de leur premier mois
-- **Phase 3** : Vérifier l'atteinte des objectifs de mission lors du troisième mois.
+- **Phase 3** : Vérifier l'atteinte des objectifs de mission au milieu et à la fin de la mission
 
 ## Le parcours d'embarquement en détails
 
@@ -38,7 +38,7 @@ Le parcours d'embarquement généraliste est segmenté en 3 grandes phases :
 Parcours embarquement généraliste
 {% endembed %}
 
-Pour piloter leur parcours d'embarquement nous t'invitons à suivre leur checklist personelle d'embarquement depuis leur [espace membre](https://espace-membre.incubateur.net/dashboard)
+Pour piloter leur parcours d'embarquement nous t'invitons à suivre leur checklist personnelle d'embarquement depuis leur [espace membre](https://espace-membre.incubateur.net/dashboard)
 Tu peux aussi la consulter en version documentation juste [ici](https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/to-do-darrivee)
 
 # 🚟 Embarquer un nouveau membre de son équipe
@@ -47,7 +47,7 @@ En tant que responsable de l'équipe produit, tu joues un rôle clé dans la ré
 
 Tu interviens pour : 
 - Préparer l'embarquement avant l'arrivée
-- Accompagner le début de mission des premiers jours aux 2-3 premiers mois
+- Accompagner le début de mission des premiers jours aux premiers mois
 - Prendre une décision sur la suite à donner à la mission (si elle est renouvelable)
 
 ## Pense-bête pour la phase de préparation à l'embarquement
@@ -55,7 +55,7 @@ Tu interviens pour :
 * [ ] Avant toute chose il convient de [créer sa fiche membre](https://espace-membre.incubateur.net/community/create)
 * [ ] Valider le bon de commande avec ton responsable d'incubateur et le titulaire du marché public
 * [ ] Envoyer au futur membre les **informations logistiques** clés de son début de mission : date, heure et lieu de démarrage
-* [ ] Si besoin, faire une demande de badge pour accéder à nos locaux (La procédure pour les locaux de Ségur est disponible[ ici](../../travailler-chez-beta.gouv.fr/vie-quotidienne-et-bien-etre/travailler-dans-les-lieux-partages/locaux/faire-une-demande-de-badge.md))
+* [ ] Si besoin, faire une demande de badge pour accéder à nos locaux (la procédure pour les locaux de Ségur est disponible[ ici](../../travailler-chez-beta.gouv.fr/vie-quotidienne-et-bien-etre/travailler-dans-les-lieux-partages/locaux/faire-une-demande-de-badge.md))
 * [ ] Envoyer au futur membre la **documentation clé** à lire pour bien démarrer sa mission. Tu peux commencer par le [Guide de la communauté](https://doc.incubateur.net/communaute) et étoffer en fonction des enjeux de ton produit
 * [ ] **Informer** les autres membres de ton équipe qu'un nouvel arrivant embarque prochainement
 
