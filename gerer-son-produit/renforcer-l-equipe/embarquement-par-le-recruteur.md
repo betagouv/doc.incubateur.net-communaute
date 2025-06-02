@@ -29,7 +29,7 @@ Le parcours d'embarquement est **obligatoire** pour tous les nouveaux prestatair
 
 Le parcours d'embarquement généraliste est segmenté en 3 grandes phases :
 - **Phase 1** : Se préparer, lors de leur première semaine 
-- **Phase 2** : Comprendre leur environnement, travailler avec leur équipe, fixer les objectifs de mission lors de leur premier mois
+- **Phase 2** : Comprendre leur environnement, travailler avec leur équipe, fixer les livrabkes et objectifs de mission lors de leur premier mois
 - **Phase 3** : Vérifier l'atteinte des objectifs de mission au milieu et à la fin de la mission
 
 ## Le parcours d'embarquement en détails
@@ -77,7 +77,7 @@ Tu interviens pour :
 ## Pense-bête pour les premières semaines
 
 * [ ] Fixer avec le nouveau membre ses **objectifs** concrets de mission
-* [ ] Fixer les **rituels de feedback** et suivi de ses objectifs de mission
+* [ ] Fixer les **rituels de feedback** et suivi de ses livrables objectifs de mission
 * [ ] T'assurer que le nouveau membre a participé aux RDVs d'embarquement
   * [ ] **#1** [l'embarquement en visioconférence obligatoire dans la communauté](embarquement-dans-la-communaute.md)
   * [ ] **#2** La journée d'embarquement dédiée aux nouveaux membres lors du **forum mensuel** de beta.gouv.fr (l'invitation est/sera dans sa boite webmail)
@@ -88,5 +88,5 @@ Tu interviens pour :
 
 * [ ] Préparer un feedback 360° pour évaluer au mieux la performance du nouveau membre
 * [ ] Lire son rapport d'étonnement
-* [ ] Evaluer les livrables et la tenue des objectifs pour décider de la suite à donner à sa mission
+* [ ] Evaluer les livrables et la tenue des objectifs pour décider de la suite à donner à sa mission en utilisant le modèle proposé
 * [ ] Informer toutes les parties prenantes (prestataire, incubateur et titulaire du marché) de ta décision quant à la suite de la mission
