@@ -19,7 +19,7 @@ Le parcours d'embarquement est **obligatoire** pour tous les nouveaux prestatair
 Ton parcours d'embarquement est segmenté en 3 grandes phases :
 - **Phase 1** : Te préparer, lors de ta première semaine 
 - **Phase 2** : Comprendre ton environnement, travailler avec l'équipe, fixer les objectifs de mission lors de ton premier mois
-- **Phase 3** : Vérifier l'atteinte de tes objectifs de mission lors de ton troisième mois. Pour les intrapreneurs ce sont les objectifs que vous vous êtes auto-fixé.
+- **Phase 3** : Vérifier l'atteinte de tes objectifs de mission. Pour les intrapreneurs ce sont les objectifs que vous vous êtes auto-fixé.
 
 Pour t'aider dans ton embarquement tu pourras solliciter en fonction des étapes : ton intrapreneur, ton incubateur, ton responsable de portefeuille de la DINUM et le titulaire de ton marché public.
 
@@ -59,18 +59,18 @@ Tu peux la consulter en version documentation juste ici 👇.
 
 * [ ] Découvrir la documentation de ton incubateur (cf.plus bas👇)
 * [ ] Consulter [les pages spécifiques à ton corps de métier](../les-differents-metiers/)
-* [ ] Découvrir ton équipe :
+* [ ] Découvrir l'équipe que tu as rejoint :
   * [ ] Rejoindre ses canaux sur Mattermost
   * [ ] T'imprégner du service numérique sur lequel tu travailles sur sa **fiche produit** disponible sur beta.gouv.fr/startups
   * [ ] T'intégrer à ses rituels de pilotage
-  * [ ] Fixer des rencontres avec les membres de ton équipe
-  * [ ] Créer tes comptes sur les outils de ton équipe
+  * [ ] Fixer des rencontres avec les membres de l'équipe
+  * [ ] Créer tes comptes sur les outils de l'équipe
 
 #### Si tu es développeuse ou développeur
 
 * [ ] Lire le [kit de démarrage](../les-differents-metiers/developpeur.se/kit-de-demarrage.md)
 * [ ] Participer à l'[embarquement dev](https://airtable.com/shrUCbUT72KtKefsu) spécifique à ton rôle
-* [ ] Rencontrer [les référents tech](../../gerer-son-produit/gestion-au-quotidien/tech/to-do-liens-avec-les-referents-techs.md) de ton incubateur
+* [ ] Rencontrer [les référents tech](../../gerer-son-produit/gestion-au-quotidien/tech/to-do-liens-avec-les-referents-techs.md) de l'incubateur associé à la start-up
 
 #### Si tu es chargé(e) de déploiement/bizdev
 
@@ -80,9 +80,9 @@ Tu peux la consulter en version documentation juste ici 👇.
 
 * [ ] Lire le [kit de démarrage](https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/les-differents-metiers/coach.e/en-construction/conseils-pour-les-coachs))
 
-### Découvre la documentation spécifique à ton incubateur
+### Découvre la documentation spécifique à l'incubateur que tu rejoins
 
-À l'exception des cas où ton administration de rattachement ne dispose pas encore de son propre incubateur (auquel cas tu es rattaché par défaut à l'[incubateur de la DINUM](https://doc.incubateur.net/communaute/decouvrir-beta.gouv.fr/les-incubateurs-du-reseau-beta.gouv.fr), nous t'invitons à découvrir les espaces de documentation spécifiques à ton incubateur.
+À l'exception des cas où ton administration de rattachement ne dispose pas encore de son propre incubateur (auquel cas tu es rattaché par défaut à l'[incubateur de la DINUM](https://doc.incubateur.net/communaute/decouvrir-beta.gouv.fr/les-incubateurs-du-reseau-beta.gouv.fr), nous t'invitons à découvrir les espaces de documentation spécifiques à chaque incubateur.
 
 | Nom de l'incubateur                       | Liens utiles                                                                                                                                                        |
 | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -100,9 +100,9 @@ Tu peux la consulter en version documentation juste ici 👇.
 ## Le premier mois
 
 * [ ] Participer **obligatoirement** à la journée d'embarquement dédiée aux nouveaux membres lors du **forum mensuel** de beta.gouv.fr (l'invitation est/sera dans ta boite webmail 😉)
-* [ ] Participer à une session de **présentation de ton incubateur**
+* [ ] Participer à une session de **présentation de ton incubateur de rattachement**
 * [ ] Participer à toutes les sessions en visioconférence (45 minutes maximum) de **focus thématiques obligatoires** (les invitations sont/seront dans ta boite webmail 😉)
-  * [ ] #1 Fais semblant de naviguer avec grâce dans les méandres de l’administation
+  * [ ] #1 Fais semblant de naviguer avec grâce dans les méandres de l’administration
   * [ ] #2 Évite les pièges du mode produit dans l’administration
   * [ ] #3 Sécurité informatique : comment protéger tes données ?
   * [ ] #4 Maitrise le feedback pour bien travailler avec des gens différents
@@ -110,9 +110,9 @@ Tu peux la consulter en version documentation juste ici 👇.
   * [ ] #6 Recrute et chérie tes utilisateurs / Pas utilisateurs, pas d’impact ; pas impact, pas de budget; pas de budget …
 * [ ] Participer à un point de rencontre grâce aux [clubs métiers](https://doc.incubateur.net/communaute/decouvrir-beta.gouv.fr/la-communaute/les-rituels/clubs-de-partage-dexperience)
 * [ ] Co-construire avec le responsable de l'équipe produit tes objectifs de mission
-* [ ] [Si tu rejoins une nouvelle startup], créer avec ton équipe une **fiche produit** sur beta.gouv.fr, [directement sur Github](https://github.com/betagouv/beta.gouv.fr/tree/master/content/_startups) en passant par l'interface de gestion des fiches produits sur l'espace membre. Tu peux t'inspirer [des autres produits](https://beta.gouv.fr/startups/) pour le format et contenu
+* [ ] [Si tu rejoins une nouvelle startup], créer avec l'équipe une **fiche produit** sur beta.gouv.fr, [directement sur Github](https://github.com/betagouv/beta.gouv.fr/tree/master/content/_startups) en passant par l'interface de gestion des fiches produits sur l'espace membre. Tu peux t'inspirer [des autres produits](https://beta.gouv.fr/startups/) pour le format et contenu
 
-## Au cours des 3 premiers mois
+## Au cours des premiers mois
 
 * [ ] Fixer avec le responsable de l'équipe produit les rituels de suivi de tes objectifs de mission
 * [ ] Partager ton [rapport d'étonnement](https://tally.so/r/3ygaK4) au responsable de l'équipe produit
