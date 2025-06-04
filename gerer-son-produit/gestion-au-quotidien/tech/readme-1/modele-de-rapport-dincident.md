@@ -1,49 +1,108 @@
 ---
 description: >-
-  Ce modèle de document doit vous aider à documenter la gestion de l'incident en
-  prévision d'une transmission aux bons interlocuteurs.
+  Ce modèle de rapport d'incident vous guide pas à pas pour documenter la gestion d'un incident, de sa détection à sa résolution, en facilitant la collecte d'informations essentielles et la transmission aux parties prenantes concernées.
 ---
 
-# Modèle de rapport d'incident
+# Modèle de rapport d'incident / port-mortem
 
-## Contexte
+**Statut**: A compléter | Action en cours | Terminé
 
-* Titre : nom de la SE
-* Date de l'incident : JJ MM AAAA
-* Rédacteurs : Prénom, nom et fonction dans l’équipe
-* Description de l’incident : Expliquer en deux phrase l’incident.
-* Impact : exemple d’impact
-* Métrics : exemple de métrics
+**Type**: Attaque | Panne | Incident
 
-## Fil rouge (timeline)
+**Impact** : Bas | Moyen | Haut | Critique
 
-* JJ MM AAA - HHMM - actions
-* Informations complémentaires
+**Responsable**: {{ owner }}
 
-## Plan d’action
+**Date de création**: {{ created_at }}
 
-* ( à documenter)
+**Date de détection** : {{ detected_at }}
 
-## Analyse
+{% hint style="info" %}
+En fonction de la gravité de l’incident, il peut être nécessaire de monter une cellule de crise
+{% endhint %}
 
-#### Problème
+### Constitution cellule de crise (facultatif)
 
-* Déterminer le niveau d’alerte selon la gravité de la fuite avec des couleurs…
-  * Niveau alerte rouge :
-    * Exemple de problème : les emails des utilisateurs du produit sont accessibles au monde entier
-    * Contact immédiat de l’équipe. Fix immédiat et rapport en 24h
-  * Niveau alerte orange :
-    * A fixer sous 30 jours
-    * Exemple : Une équipe rend accessible au monde entier ses environnements de test. Si passage en prod, gros risque de fuite.
-* Causes identifiées de l’incident :
-* Autres problèmes rencontrées pendant l’incident :
+| Rôle                 | Prénom Nom | Email | Téléphone | Missions                                                                                               |
+|----------------------|------------|-------|-----------|---------------------------------------------------------------------------------------------------------|
+| Resp. cellule        |            |       |           | En charge de coordonner les acteurs de la cellule                                                       |
+| Resp. incident       |            |       |           | En charge de piloter la résolution d'incident jusqu'à son terme                                         |
+| Resp. communication  |            |       |           | En charge de coordonner la rédaction, la validation et l'envoi des messages aux différentes populations |
 
-#### Résolution
+## Description de l'incident
+Décrire les circonstances de l’incident. Comment il a été identifié
 
-* Ce qui a fonctionné correctement :
-* Actions de résolution mises en place :
-* Action de résolution programmées :
+-
 
-#### Voir le modèle directement dans pad.incubateur 👇
+{% hint style="info" %}
+Ne pas oublier de collecter ici des preuves, elles peuvent ne plus être disponibles après l’incident (capture d’écrans, logs, adresses IPs etc)
+{% endhint %}
 
-{% embed url="https://pad.incubateur.net/3frFKmYOSIKsorl6mJiwsw?both=" %}
+## Impact
+Décrire l’impact de l’incident sur nos produits, fonctionnalités, utilisateurs
+
+- 
+
+## Communication
+Cet incident a-t-il donné lieu à une communication à nos utilisateurs / clients ? Si oui précisez-le message.
+
+Communication interne :
+
+- 
+
+Communication externe (utilisateurs, partenaires, sponsors) :
+
+- 
+
+## Résolution
+Précisez comment cet incident a été résolu. Quelles ont été les contre-mesures rapides prises. Comment va-t-on surveiller prochainement sa non occurrence ?
+
+### Fil rouge (timeline)
+
+| Horodatage | Acteur | Action / Décision | Résultat | Lien |
+| --- | --- | --- | --- | --- |
+|  |  |  |  |  |
+|  |  |  |  |  |
+
+### Listing des contacts externes
+
+Si nécessaire lister ici l’ensemble des contacts sollicités dans la résolution de cet incident
+
+| Organisation / Service | Prénom Nom | Email | Téléphone | Poste | Notes |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+
+## Les causes
+
+Quels sont les causes de l’incident ? Remonter aux causes racines via les 5 Pourquoi.
+
+**Méthodologie** : 5 Pourquoi. Consiste à se poser 5 fois la question “pourquoi ?” pour remonter à la source d'un problème et trouver une solution qui ne fait pas que palier aux symptômes mais supprime son origine.
+
+- 
+
+## Plan d’actions
+
+**Méthodologie** : PDCA, Plan / Do / Check / Act, voir [méthodologie](https://fr.wikipedia.org/wiki/Roue_de_Deming)
+
+DO - Les actions pour éviter une ré-occurrence de l'incident. On traite ici de l’origine de l’incident et plus simplement de la résolution de l’incident en lui-même
+
+-  
+
+## Généralisation
+
+ACT - Cet incident peut-il se produire dans un autre contexte ? Peut-on généraliser sa résolution et son plan d’actions pour empêcher d’autres incidents similaires de se produire ?
+
+- 
+
+## Enseignements
+
+ACT - Peut-on en tirer des apprentissages sur nos pratiques actuelles ? Quels nouveaux standards peut-on établir ?
+
+{% hint style="info" %}
+Identifiez les points positifs de la gestion de l'incident, les aspects qui auraient pu être mieux gérés, et les axes d'amélioration à mettre en place pour le futur
+{% endhint %}
+
+# Voir le modèle directement dans Docs
+
+{% embed url="https://docs.numerique.gouv.fr/docs/82a83b83-3df8-4087-8dc7-028bb44aaae8/" %}
