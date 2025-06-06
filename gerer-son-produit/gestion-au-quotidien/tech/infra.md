@@ -29,8 +29,8 @@ Quel que soit votre choix d'hébergement, pensez à bien documenter votre infras
 {% hint style="info" %}
 Le label « SecNumCloud » est nécessaire seulement dans le cadre du champ d’application de l’[article 31 de la loi SREN](https://www.legifrance.gouv.fr/jorf/article\_jo/JORFARTI000049563610) , c'est à dire lorsqu'il y a une sensibilité particulière sur les données, qu'elles soient personnelles ou stratégiques.\
 \
-Le label « HDS » est indispensable si vous traitez des données de santé.\\
-
+Le label « HDS » est indispensable si vous traitez des données de santé.\
+\
 En cas de doute, vous pouvez contacter votre équipe juridique ou solliciter notre communauté sur mattermost, canal [\~domaine-juridique](https://mattermost.incubateur.net/betagouv/channels/domaine-juridique).
 {% endhint %}
 

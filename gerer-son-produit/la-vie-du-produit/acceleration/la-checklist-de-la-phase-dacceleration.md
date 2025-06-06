@@ -132,7 +132,7 @@ _Au fur et à mesure que votre base utilisateur grandit, il devient impératif d
 {% endtab %}
 
 {% tab title="Les bonnes pratiques 👌" %}
-* [ ] A partir du livrable de l'atelier risques, je constitue un dossier d'homologation de sécurité.
-* [ ] A ce stade, je peux solliciter un prestataire pour réaliser un test d'intrusion. Je contacte la DINUM si besoin pour en discuter.
+* [ ] À partir du livrable de l'atelier risques, je constitue un dossier d'homologation de sécurité.
+* [ ] À ce stade, je peux solliciter un prestataire pour réaliser un test d'intrusion. Je contacte la DINUM si besoin pour en discuter.
 {% endtab %}
 {% endtabs %}
