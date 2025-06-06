@@ -14,13 +14,16 @@ Cet outil est mis à disposition de l’ensemble du réseau beta.gouv. En partic
 
 ## Obtenir un accès au Welcome to the Jungle
 
-Une fois que vous avez accès à la plateforme, vous pouvez ouvrir un profil avec accès restreint aux autres membres de l’équipe.
+Chaque incubateur a désigné un **référent** chargé de gérer les accès à la plateforme pour ses membres.
+
+👉 Pour obtenir un accès, il vous suffit de **contacter votre référent incubateur**.\
+Si vous ne recevez pas de réponse, vous pouvez alors vous tourner vers le **référent ISN**.
 
 Les profils avec accès restreints n’ont accès qu’aux candidatures sur l’offre sur laquelle ils ont été nommés.
 
 <table><thead><tr><th>Incubateur</th><th>Référent WTTJ</th><th data-hidden></th></tr></thead><tbody><tr><td>Accélérateur de la transition écologique (ADEME) :</td><td><p><a href="mailto:lilian.sagetlethias@beta.gouv.fr">Lilian Saget lethias</a></p><p><br></p></td><td></td></tr><tr><td>Atelier numérique de la Culture</td><td><a href="mailto:clemence.chalopet@beta.gouv.fr">Clemence Chalopet</a></td><td></td></tr><tr><td>Fabrique des géocommuns (IGN)</td><td><a href="mailto:nicolas.berthelot@ign.fr">Nicolas Berthelot</a></td><td></td></tr><tr><td>Fabrique numérique de l’Ecologie (MTE):</td><td><a href="mailto:fabrique.numerique@developpement-durable.gouv.fr">Gaspard Granger</a></td><td></td></tr><tr><td>Fabrique numérique des Armées</td><td><a href="mailto:mathieu.mahr@beta.gouv.fr">Mathieu Mahr</a></td><td></td></tr><tr><td>Incubateur de la Justice</td><td><a href="mailto:thomas.guerrier@beta.gouv.fr">Thomas Guerrier</a>, <a href="mailto:maryline.araujo@justice.gouv.fr">Maryline Araujo</a></td><td></td></tr><tr><td>Incubateur de Service Numérique de la DINUM</td><td><a href="mailto:amel.alili@beta.gouv.fr">Amel Alili</a></td><td></td></tr><tr><td>Incubateur des Territoires (ANCT)</td><td><a href="mailto:benjamin.mittet-breme@anct.gouv.fr">Benjamin Mittet-Breme</a></td><td></td></tr><tr><td>Accélérema (CEREMA)</td><td><a href="mailto:perrine.rutkowski@beta.gouv.fr">Perrine Rutkowski</a></td><td></td></tr><tr><td>Incubateur du MASA</td><td><a href="mailto:jennifer.stephan@beta.gouv.fr">Jennifer Stephan</a></td><td></td></tr><tr><td>Incubateur France Travail</td><td><a href="mailto:sabrina.bentenah@francetravail.fr">Sabrina Bentenah</a></td><td></td></tr><tr><td>Mission interministérielle pour l’apprentissage</td><td><a href="mailto:leo.radisson@beta.gouv.fr">Léo Radisson</a></td><td></td></tr><tr><td>Atelier Numérique du Ministère de l'Europe et des Affaires Etrangères</td><td><a href="mailto:noemie.peignier@diplomatie.gouv.fr">Noémie Peignier</a></td><td></td></tr><tr><td>Opérateur de produits interministériels (OPI)</td><td><a href="mailto:florian.delezenne@beta.gouv.fr">Florian Delezenne</a></td><td></td></tr><tr><td>Plateforme de l'inclusion</td><td><a href="mailto:adele.de.pimodan@beta.gouv.fr">Adele de Pimodan</a></td><td></td></tr></tbody></table>
 
-**Pour toutes les autres demandes,** envoie un mail à [animation@beta.gouv.fr](mailto:animation@beta.gouv.fr).
+**Pour toutes les autres demandes ou pour modifier la liste des référents,** merci d'envoyer un mail à [contact@beta.gouv.fr.](mailto:contact@beta.gouv.fr)
 
 {% embed url="https://docs.google.com/presentation/d/1Fmdjm5Qw39TeyRRvC7wRQaFsNRJIaYBZKXlfRfbY8Tk/edit#slide=id.g2dba877299c_3_278" %}
 
@@ -28,9 +31,16 @@ Les profils avec accès restreints n’ont accès qu’aux candidatures sur l’
 Merci de prendre connaissance de la [Charte de bonne utilisation de Welcome to The Jungle.](charte-wttj.md)
 {% endhint %}
 
-## Publier une offre
+## 🔎 **Bonnes pratiques pour publier une offre sur Welcome to the Jungle**
 
-Pour publier une offre sur le profil Welcome to the jungle, il suffit de cliquer sur “Nouvelle offre d'emploi”.
+Pour publier une offre sur votre profil **Welcome to the Jungle**, il vous suffit de cliquer sur le bouton **“Nouvelle offre d'emploi”**.
+
+✅ **Points essentiels à respecter :**
+
+1. **Nommer l’attributaire du marché** :\
+   Il est impératif de mentionner clairement qui est l’attributaire du marché dans l’offre.
+2. **Indiquer une date de fin de diffusion** :\
+   Merci d’ajouter une **date limite de publication** visible dans l’annonce. Cela permet de garantir **l’équité entre tous les candidats** en leur donnant les mêmes chances de postuler.
 
 <figure><img src="../../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
