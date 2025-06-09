@@ -109,7 +109,7 @@ Tu peux la consulter en version documentation juste ici 👇.
   * [ ] #5 Comment ne pas finir en prison quand on bosse sur un produit numérique
   * [ ] #6 Recrute et chérie tes utilisateurs / Pas utilisateurs, pas d’impact ; pas impact, pas de budget; pas de budget …
 * [ ] Participer à un point de rencontre grâce aux [clubs métiers](https://doc.incubateur.net/communaute/decouvrir-beta.gouv.fr/la-communaute/les-rituels/clubs-de-partage-dexperience)
-* [ ] Co-construire avec le responsable de l'équipe produit tes objectifs de mission et les livrables associés
+* [ ] Co-construire avec le responsable de l'équipe produit tes objectifs de mission et les livrables associés en utilisant ce [modèle](https://docs.numerique.gouv.fr/docs/be5ddf8c-83bf-42b9-96f5-8d5aed18dd98/)
 * [ ] [Si tu rejoins une nouvelle startup], créer avec l'équipe une **fiche produit** sur beta.gouv.fr, [directement sur Github](https://github.com/betagouv/beta.gouv.fr/tree/master/content/_startups) en passant par l'interface de gestion des fiches produits sur l'espace membre. Tu peux t'inspirer [des autres produits](https://beta.gouv.fr/startups/) pour le format et contenu
 
 ## Au cours des premiers mois
