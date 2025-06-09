@@ -18,7 +18,7 @@ Le parcours d'embarquement est **obligatoire** pour tous les nouveaux prestatair
 
 Ton parcours d'embarquement est segmenté en 3 grandes phases :
 - **Phase 1** : Te préparer, lors de ta première semaine 
-- **Phase 2** : Comprendre ton environnement, travailler avec l'équipe, fixer les objectifs de mission lors de ton premier mois
+- **Phase 2** : Comprendre ton environnement, travailler avec l'équipe, regarder ensemble les objectifs de mission et de livrables lors de ton premier mois
 - **Phase 3** : Vérifier l'atteinte de tes livrables et objectifs de mission. Pour les intrapreneurs ce sont les objectifs que vous vous êtes auto-fixé.
 
 Pour t'aider dans ton embarquement tu pourras solliciter en fonction des étapes : ton intrapreneur, ton incubateur, ton responsable de portefeuille de la DINUM et le titulaire de ton marché public.
@@ -114,7 +114,7 @@ Tu peux la consulter en version documentation juste ici 👇.
 
 ## Au cours des premiers mois
 
-* [ ] Fixer avec le responsable de l'équipe produit les rituels de suivi de tes objectifs de mission et des livrables associés
+* [ ] Fixer avec le responsable de l'équipe produit les rituels de suivi de tes objectifs de mission et de rendu des livrables
 * [ ] Partager ton [rapport d'étonnement](https://tally.so/r/3ygaK4) au responsable de l'équipe produit
 * [ ] Aider à ton tour quelqu'un en galère, par exemple en répondant à une demande d'aide sur la chaîne _\~incubateur-entraide-communauté du Mattermost
 * [ ] Ajouter ton expérience chez [beta.gouv.fr](https://www.linkedin.com/company/betagouv/?originalSubdomain=fr) à ton profil LinkedIn (en précisant que tu es en prestation si c'est le cas)
