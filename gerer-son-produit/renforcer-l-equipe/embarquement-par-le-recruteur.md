@@ -61,11 +61,11 @@ Tu interviens pour :
 
 ## Pense-bête pour les premiers jours
 
-* [ ] Envoyer un **mail de bienvenue** au nouveau membre
+* [ ] Envoyer un **mail de bienvenue** au nouveau membre en précisant s'il est prestataire ou agent public
 * [ ] Préparer les **accès informatiques** du nouveau membre en commençant par les [outils clés](https://doc.incubateur.net/communaute/les-outils-de-la-communaute/autres-services)
   * [ ] Vérifier que la nouvelle recrue reçoit bien son email pour définir son accès à son email (à recevoir sur l'email renseigné dans l'onboarding)
   * [ ] Vérifier que la nouvelle recrue reçoit bien son email pour son accès à [Mattermost](https://mattermost.incubateur.net) (à recevoir sur son adresse @beta.gouv.fr)
-  * [ ] _(Optionnel) Vérifier que le nouveau membre a un compte Github sur lequelle il a activé l'_[_authentification double facteur_](https://ma-vie-administrative.fr/particuliers/ma-vie-connectee/authentification-double-facteur/)
+  * [ ] _(Optionnel) Vérifier que le nouveau membre a un compte Github sur lequel il a activé l'_[_authentification double facteur_](https://ma-vie-administrative.fr/particuliers/ma-vie-connectee/authentification-double-facteur/)
 * [ ] Préparer et communiquer un guide pour ses premiers jours avec :
   * [ ] Les profils clés à rencontrer
   * [ ] La documentation spécifique à lire
@@ -77,16 +77,16 @@ Tu interviens pour :
 ## Pense-bête pour les premières semaines
 
 * [ ] Fixer avec le nouveau membre ses **objectifs** concrets de mission
-* [ ] Fixer les **rituels de feedback** et suivi de ses livrables objectifs de mission
+* [ ] Fixer les **rituels de feedback** et suivi de ses livrables objectifs de mission et de suivi des livrables
 * [ ] T'assurer que le nouveau membre a participé aux RDVs d'embarquement
   * [ ] **#1** [l'embarquement en visioconférence obligatoire dans la communauté](embarquement-dans-la-communaute.md)
   * [ ] **#2** La journée d'embarquement dédiée aux nouveaux membres lors du **forum mensuel** de beta.gouv.fr (l'invitation est/sera dans sa boite webmail)
-  * [ ] **#3** La session de **présentation de votre incubateur**
+  * [ ] **#3** La session de **présentation de votre incubateur de rattachement**
   * [ ] **#4** Les 6 sessions en visioconférence (45 minutes maximum) de **focus thématiques** (les invitations sont/seront dans sa boite webmail)
 
 ## Pense-bête pour les premiers mois
 
-* [ ] Préparer un feedback 360° pour évaluer au mieux la performance du nouveau membre
+* [ ] Préparer un feedback 360° pour évaluer au mieux la performance du nouveau membre ou le rendu des livrables lorsqu'il s'agit d'un prestataire
 * [ ] Lire son rapport d'étonnement
 * [ ] Evaluer les livrables et la tenue des objectifs pour décider de la suite à donner à sa mission en utilisant le modèle proposé
 * [ ] Informer toutes les parties prenantes (prestataire, incubateur et titulaire du marché) de ta décision quant à la suite de la mission
