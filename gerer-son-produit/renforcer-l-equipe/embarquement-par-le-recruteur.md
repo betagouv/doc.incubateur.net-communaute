@@ -76,7 +76,7 @@ Tu interviens pour :
 
 ## Pense-bête pour les premières semaines
 
-* [ ] Fixer avec le nouveau membre ses **objectifs** concrets de mission
+* [ ] Fixer avec le nouveau membre ses **objectifs** concrets de mission et les livrables attendus en utilisant ce [modèle](https://docs.numerique.gouv.fr/docs/be5ddf8c-83bf-42b9-96f5-8d5aed18dd98/)
 * [ ] Fixer les **rituels de feedback** et suivi de ses livrables objectifs de mission et de suivi des livrables
 * [ ] T'assurer que le nouveau membre a participé aux RDVs d'embarquement
   * [ ] **#1** [l'embarquement en visioconférence obligatoire dans la communauté](embarquement-dans-la-communaute.md)
@@ -88,5 +88,5 @@ Tu interviens pour :
 
 * [ ] Préparer un feedback 360° pour évaluer au mieux la performance du nouveau membre ou le rendu des livrables lorsqu'il s'agit d'un prestataire
 * [ ] Lire son rapport d'étonnement
-* [ ] Evaluer les livrables et la tenue des objectifs pour décider de la suite à donner à sa mission en utilisant le modèle proposé
+* [ ] Evaluer les livrables et la tenue des objectifs pour décider de la suite à donner à sa mission en utilisant ce [modèle](https://docs.numerique.gouv.fr/docs/be5ddf8c-83bf-42b9-96f5-8d5aed18dd98/)
 * [ ] Informer toutes les parties prenantes (prestataire, incubateur et titulaire du marché) de ta décision quant à la suite de la mission
