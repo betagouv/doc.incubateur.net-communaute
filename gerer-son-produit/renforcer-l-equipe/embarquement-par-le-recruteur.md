@@ -12,8 +12,8 @@ layout:
     visible: false
 ---
 
-Tu as sélectionné une nouveau membre pour intégrer ton équipe ? Cette page est prévue pour t'aider à l'embarquer dans la communauté ! 
-Comme socle de base l'équipe animation a conçu un parcours d'embarquement global qui permettra au nouveau membre de ton équipe d'appréhender le plus efficacement possible son nouvel environnement.
+Tu as sélectionné un nouveau membre pour intégrer ton équipe ? Cette page est prévue pour t'aider à l'embarquer dans la communauté ! 
+Ce parcours d'embarquement est un socle de base conçu pour permettre au nouveau membre de ton équipe d'appréhender le plus efficacement possible son nouvel environnement.
 
 # 🐥 L'embarquement commun chez beta.gouv.fr
 
@@ -21,15 +21,15 @@ Comme socle de base l'équipe animation a conçu un parcours d'embarquement glob
 
 Le parcours d'embarquement est **obligatoire** pour tous les nouveaux prestataires rejoignant la communauté. Son but est de les aider et leur permettre :
 - De comprendre les standards et valeurs de la communauté beta.gouv.fr
-- De comprendre leur mission et la pratique de leur métier à la sauce beta.gouv.fr
+- De comprendre leur mission et la pratique de leur métier dans le contexte de beta.gouv.fr
 - De connaître les outils, les ressources, les statuts, leur incubateur et les personnes utiles pour eux
 - D'être impactant pour l'équipe
 
 ## Les étapes clés du parcours d'embarquement
 
 Le parcours d'embarquement généraliste est segmenté en 3 grandes phases :
-- **Phase 1** : Se préparer, lors de leur première semaine 
-- **Phase 2** : Comprendre leur environnement, travailler avec leur équipe, fixer les livrabkes et objectifs de mission lors de leur premier mois
+- **Phase 1** : Se préparer, lors de la première semaine 
+- **Phase 2** : Comprendre leur environnement, travailler avec leur équipe, fixer les livrables et objectifs de mission lors du premier mois
 - **Phase 3** : Vérifier l'atteinte des objectifs de mission au milieu et à la fin de la mission
 
 ## Le parcours d'embarquement en détails
@@ -71,15 +71,15 @@ Tu interviens pour :
   * [ ] La documentation spécifique à lire
   * [ ] Tes attentes pour ses premiers jours
   * [ ] Une checklist de ses premières actions à mener
-* [ ] Si elle.il est au statut d'indépendant, vérifier qu'elle.il sait à qui adresser sa facture et comment
-* [ ] Si elle.il est contractuelle DINUM, elle/il s'est présenté.e au secrétariat de la DINUM
+* [ ] Si elle ou il est au statut d'indépendant, vérifier qu'elle.il sait à qui adresser sa facture et comment
+* [ ] Si elle ou il est contractuel(le) de la DINUM, elle/il s'est présenté.e au secrétariat de la DINUM
 
 ## Pense-bête pour les premières semaines
 
 * [ ] Fixer avec le nouveau membre ses **objectifs** concrets de mission et les livrables attendus en utilisant ce [modèle](https://docs.numerique.gouv.fr/docs/be5ddf8c-83bf-42b9-96f5-8d5aed18dd98/)
-* [ ] Fixer les **rituels de feedback** et suivi de ses livrables objectifs de mission et de suivi des livrables
+* [ ] Fixer les **rituels de feedback** et suivi de ses objectifs de mission et livrables
 * [ ] T'assurer que le nouveau membre a participé aux RDVs d'embarquement
-  * [ ] **#1** [l'embarquement en visioconférence obligatoire dans la communauté](embarquement-dans-la-communaute.md)
+  * [ ] **#1** [L'embarquement en visioconférence obligatoire dans la communauté](embarquement-dans-la-communaute.md)
   * [ ] **#2** La journée d'embarquement dédiée aux nouveaux membres lors du **forum mensuel** de beta.gouv.fr (l'invitation est/sera dans sa boite webmail)
   * [ ] **#3** La session de **présentation de votre incubateur de rattachement**
   * [ ] **#4** Les 6 sessions en visioconférence (45 minutes maximum) de **focus thématiques** (les invitations sont/seront dans sa boite webmail)
@@ -88,5 +88,5 @@ Tu interviens pour :
 
 * [ ] Préparer un feedback 360° pour évaluer au mieux la performance du nouveau membre ou le rendu des livrables lorsqu'il s'agit d'un prestataire
 * [ ] Lire son rapport d'étonnement
-* [ ] Evaluer les livrables et la tenue des objectifs pour décider de la suite à donner à sa mission en utilisant ce [modèle](https://docs.numerique.gouv.fr/docs/be5ddf8c-83bf-42b9-96f5-8d5aed18dd98/)
+* [ ] Évaluer les livrables et la tenue des objectifs pour décider de la suite à donner à sa mission en utilisant ce [modèle](https://docs.numerique.gouv.fr/docs/be5ddf8c-83bf-42b9-96f5-8d5aed18dd98/)
 * [ ] Informer toutes les parties prenantes (prestataire, incubateur et titulaire du marché) de ta décision quant à la suite de la mission
