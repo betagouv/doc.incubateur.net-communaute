@@ -115,7 +115,7 @@ Tu peux la consulter en version documentation juste ici 👇.
 ## Au cours des premiers mois
 
 * [ ] Fixer avec le responsable de l'équipe produit les rituels de suivi de tes objectifs de mission et de rendu des livrables
-* [ ] Partager ton [rapport d'étonnement](https://tally.so/r/3ygaK4) au responsable de l'équipe produit
+* [ ] Partager ton [rapport d'étonnement](https://docs.numerique.gouv.fr/docs/5bf47fbb-7620-4b01-a61e-035104fee33f/) au responsable de l'équipe produit
 * [ ] Aider à ton tour quelqu'un en galère, par exemple en répondant à une demande d'aide sur la chaîne _\~incubateur-entraide-communauté du Mattermost
 * [ ] Ajouter ton expérience chez [beta.gouv.fr](https://www.linkedin.com/company/betagouv/?originalSubdomain=fr) à ton profil LinkedIn (en précisant que tu es en prestation si c'est le cas)
 
