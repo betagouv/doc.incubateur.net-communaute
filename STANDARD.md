@@ -1,19 +1,20 @@
 # Modèle de standard beta.gouv.fr
 
-Les standards de beta.gouv.fr sont des documents Markdown que nous
-voulons claires, utiles et actionnables pour aider la communauté à les
-atteindre dans la réalisation de leurs produits.
+Les fiches Standards de beta.gouv.fr sont des documents Markdown qui 
+documentent les normes de qualités que nous visons chez beta.gouv.fr.
+Nous les voulons claires, utiles et actionnables pour aider la communauté 
+à les atteindre dans la réalisation de leurs produits.
 
 ## Structure et exemple type
 
 Ils suivent une structure précise :
 
-* description : présentation et valorisation du standard
-* ressources : liste (et seulement une liste) de liens pour en apprendre plus
-* critères : liste (et seulement une liste) d'actions à
+* **Description** : présentation et valorisation du standard
+* **Ressource**s : liste de liens pour en apprendre plus
+* **Critères** : liste d'actions à
   appliquer/vérifier pour valider le standard
 
-Cette structure est démontrée ici en présentant un standard... pour
+Cette structure est démontrée ici via un exemple de standard pour...
 écrire un standard.
 
 ```markdown
