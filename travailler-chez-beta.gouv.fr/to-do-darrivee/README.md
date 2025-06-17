@@ -45,7 +45,7 @@ Tu peux la consulter en version documentation juste ici 👇.
 * [ ] Avant toute chose tu dois impérativement demander à ton référent de [créer ta fiche membre](../../les-outils-de-la-communaute/espace-membre/premier-pas-indispensable-creer-ta-fiche-membre.md)
 * [ ] Compléter ta [fiche membre](https://espace-membre.incubateur.net/)
   * [ ] Consulter [l'observatoire de beta.gouv.fr](https://espace-membre.incubateur.net/metabase) puis [y contribuer](https://espace-membre.incubateur.net/)
-* [ ] Participer à [l'embarquement en visioconférence obligatoire dans la communauté](embarquement-dans-la-communaute.md)
+* [ ] Participer à [l'embarquement en visioconférence obligatoire dans la communauté](https://airtable.com/appebTa6XsY6fDixm/shr7l159rsB5KpJcO?prefill_Formation=recA5QKXcYrIcCRQj)
 * [ ] Programmer un échange avec le titulaire de ton marché public si tu es prestataire
 * [ ] Lire l'email de bienvenue dans la communauté et regarder [la vidéo de présentation de beta.gouv.fr](https://www.youtube.com/watch?v=TvFlxDMlbfo)
 * [ ] Prendre connaissance des [valeurs de beta.gouv.fr](../../decouvrir-beta.gouv.fr/valeurs.md)
