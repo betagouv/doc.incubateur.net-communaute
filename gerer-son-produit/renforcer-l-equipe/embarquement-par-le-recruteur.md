@@ -79,7 +79,7 @@ Tu interviens pour :
 * [ ] Fixer avec le nouveau membre ses **objectifs** concrets de mission et les livrables attendus en utilisant ce [modèle](https://docs.numerique.gouv.fr/docs/be5ddf8c-83bf-42b9-96f5-8d5aed18dd98/)
 * [ ] Fixer les **rituels de feedback** et suivi de ses objectifs de mission et livrables
 * [ ] T'assurer que le nouveau membre a participé aux RDVs d'embarquement
-  * [ ] **#1** L'embarquement en visioconférence obligatoire dans la communauté
+  * [ ] **#1** [L'embarquement en visioconférence obligatoire dans la communauté](https://airtable.com/appebTa6XsY6fDixm/shr7l159rsB5KpJcO?prefill_Formation=recA5QKXcYrIcCRQj)
   * [ ] **#2** La journée d'embarquement dédiée aux nouveaux membres lors du **forum mensuel** de beta.gouv.fr (l'invitation est/sera dans sa boite webmail)
   * [ ] **#3** La session de **présentation de votre incubateur de rattachement**
   * [ ] **#4** Les 6 sessions en visioconférence (45 minutes maximum) de **focus thématiques** (les invitations sont/seront dans sa boite webmail)
