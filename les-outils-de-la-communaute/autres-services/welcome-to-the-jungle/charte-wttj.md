@@ -31,6 +31,8 @@ Un plan utile est :
 
 Evitez le jargon administratif et les description à rallonge des organigrammes.
 
+Partagez le processus de sélection associé à cette mission. L'objectif est de garantir un maximum de transparence sur notre méthodologie
+
 **2.2 Adoptez le bon vocabulaire en fonction de l’offre**
 
 **2.2.1 Agent public (poste)**
