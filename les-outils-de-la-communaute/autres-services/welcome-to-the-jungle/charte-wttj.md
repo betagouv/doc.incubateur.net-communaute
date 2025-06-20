@@ -68,8 +68,6 @@ Ensuite on duplique la logique sur les 2/3 points clés.&#x20;
 
 Trouver la question peut être très simple avec un bon cadrage initial du besoin.
 
-_**Lettre de motivation**_ Indiquer dans “process de recrutement” : “Ecrivez-nous un paragraphe sur votre motivation (5 - 10 lignes) et téléchargez-le dans “lettre de motivation””. En effet, moins le candidat devra vous élaborer de long document, plus il sera prêt à candidater.
-
 **2.5 Vérifier la diffusion de l'offre**
 
 _**Diffusion**_ _**sur le site Welcome de beta.gouv.fr**_ Assurez-vous que la case Welcome est bien cochée pour que votre offre soit diffusée.
