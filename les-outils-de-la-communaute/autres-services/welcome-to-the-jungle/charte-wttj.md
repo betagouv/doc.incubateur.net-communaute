@@ -57,7 +57,16 @@ _**Indiquer le nom de sa Startup d'État dans le titre de l'offre**_ Afin de fac
 
 _**Localisation**_ Pour le bureau, indiquer là où l’équipe se réunit le plus fréquemment. Si c’est le cas, indiquer que le télétravail total est possible.
 
-**2.4 Simplifier la lettre de motivation**
+**2.4 Poser des questions précises sur des cas d'usage plutôt qu'une lettre de motivation**
+
+En place d'une lettre de motivation, ajouter des questions de mise en situation dans le formulaire de candidature. Cela vous permettra de filtrer plus facilement les candidatures entrants à partir de vos critères objectifs. \
+L'idéal est que les questions soient adaptées aux compétences clés nécessaires sur la mission, ce que l'on cherche à obtenir c'est de la "preuve de compétence". Mieux vaut éviter les questions très généralistes qui conduiront des réponses IA.
+
+Par exemple pour une mission de PM ça pourrait être : "Parlez-nous d'une initiative produit que vous avez portée de bout en bout. Quel était le problème utilisateur identifié ? Comment avez-vous structuré la démarche (discovery, delivery) ? Quel impact a été mesuré ?"
+
+Ensuite on duplique la logique sur les 2/3 points clés.&#x20;
+
+Trouver la question peut être très simple avec un bon cadrage initial du besoin.
 
 _**Lettre de motivation**_ Indiquer dans “process de recrutement” : “Ecrivez-nous un paragraphe sur votre motivation (5 - 10 lignes) et téléchargez-le dans “lettre de motivation””. En effet, moins le candidat devra vous élaborer de long document, plus il sera prêt à candidater.
 
