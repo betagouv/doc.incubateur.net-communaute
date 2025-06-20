@@ -7,6 +7,8 @@ L’offre Welcome permet de publier son offre (en mission ou poste) sur le site 
 Le service est mis à disposition de l’ensemble du de la communauté [beta.gouv.fr](http://beta.gouv.fr/).
 
 Nous vous encourageons à utiliser ce service de manière professionnelle et éthique afin d’optimiser vos recrutements de poste et votre sourçage de prestation, tout en maintenant aussi une expérience positive pour les candidates et candidats.
+
+_**Candidatures spontanées**_ Le site vitrine du Welcome to the jungle permet les candidatures spontanées, n’hésitez pas à consulter le vivier. Pour ce faire se rendre dans la rubrique “candidature spontanée”.
 {% endhint %}
 
 #### **1. Construisez votre offre** <a href="#id-1-construisez-votre-offre" id="id-1-construisez-votre-offre"></a>
@@ -44,6 +46,24 @@ Pour rappel, vous ne recrutez pas des indépendants mais vous faites appel à de
 * Ne pas parler de “grille des TJM” mais “d’observatoire des TJM pratiqués dans la communauté” ;
 * Ne pas parler de “portage” mais de mission en “prestation” ou “ouverte aux profils indépendants”.
 * Indiquer sur l’annonce le nom de l’attributaire. Par exemple : “mission ouverte aux profils indépendants via l’attributaire du marché XXX.”. Mentionnez toujours le nom complet.
+
+_**Tu/Vous**_ A vous de choisir entre le tutoiement et le vouvoiement, assurez-vous simplement que toute l’offre est cohérente.
+
+**2.3 Faciliter la recherche du candidat**
+
+_**Indiquer le nom de sa Startup d'État dans le titre de l'offre**_ Afin de faciliter la recherche d'une offre
+
+_**Localisation**_ Pour le bureau, indiquer là où l’équipe se réunit le plus fréquemment. Si c’est le cas, indiquer que le télétravail total est possible.
+
+**2.4 Simplifier la lettre de motivation**
+
+_**Lettre de motivation**_ Indiquer dans “process de recrutement” : “Ecrivez-nous un paragraphe sur votre motivation (5 - 10 lignes) et téléchargez-le dans “lettre de motivation””. En effet, moins le candidat devra vous élaborer de long document, plus il sera prêt à candidater.
+
+**2.5 Vérifier la diffusion de l'offre**
+
+_**Diffusion**_ _**sur le site Welcome de beta.gouv.fr**_ Assurez-vous que la case Welcome est bien cochée pour que votre offre soit diffusée.
+
+![](https://doc.incubateur.net/communaute/~gitbook/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fs8LOLLhIXQnW9vAOFoSXOFqRdCKJ0LBgV55D7zK1db1eG-Qbdt6Jx1Nubbdrn7OXV6k4TLTEXVfKMH63nJqpLSZn5mhTbTuucnt-VsNxqz89zAJe-tZKyH8zn09nVDnV3U6tOeH_rLHxe9SB4Q\&width=300\&dpr=4\&quality=100\&sign=d9976281\&sv=2)
 
 ### Pendant l’analyse des candidatures <a href="#pendant-lanalyse-des-candidatures" id="pendant-lanalyse-des-candidatures"></a>
 
