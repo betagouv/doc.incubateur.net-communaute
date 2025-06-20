@@ -57,34 +57,9 @@ Voici les bonnes pratiques et règles à suivre pour que l’utilisation de la p
 
 mais vous pouvez indiquer des conditions pour réussir cette dernière. Par exemple, vous ne pouvez pas imposer d’horaires ni des jours spécifiques de la semaine. En revanche, vous pouvez demander à ce que la personne travaille en présentiel avec l’équipe ou qu’elle s’adapte aux horaires des usagers.
 
-4. **Renvoyer** [**vers notre documentation sur les indépendants**](https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/les-differents-statuts/independants-freelances)**.**
-5. **Lire la** [**charte de bonnes pratiques WTTJ**](https://doc.incubateur.net/communaute/les-outils-de-la-communaute/autres-services/welcome-to-the-jungle/charte-wttj)
-
-<details>
-
-<summary>Bonnes pratiques (dérouler pour lire)</summary>
-
-_**Indiquer le nom de sa Startup d'État dans le titre de l'offre**_\
-Afin de faciliter la recherche d'une offre
-
-_**Localisation**_\
-Pour le bureau, indiquer là où l’équipe se réunit le plus fréquemment. Si c’est le cas, indiquer que le télétravail total est possible.
-
-_**Lettre de motivation**_\
-Indiquer dans “process de recrutement” : “Ecrivez-nous un paragraphe sur votre motivation (5 - 10 lignes) et téléchargez-le dans “lettre de motivation””. En effet, moins le candidat devra vous élaborer de long document, plus il sera prêt à candidater.
-
-_**Tu/Vous**_\
-A vous de choisir entre le tutoiement et le vouvoiement, assurez-vous simplement que toute l’offre est cohérente.
-
-_**Candidatures spontanées**_\
-Le site vitrine du Welcome to the jungle permet les candidatures spontanées, n’hésitez pas à consulter le vivier. Pour ce faire se rendre dans la rubrique “candidature spontanée”.
-
-_**Diffusion**_ _**sur le site Welcome de beta.gouv.fr**_\
-Assurez-vous que la case Welcome est bien cochée pour que votre offre soit diffusée.
-
-<img src="https://lh3.googleusercontent.com/s8LOLLhIXQnW9vAOFoSXOFqRdCKJ0LBgV55D7zK1db1eG-Qbdt6Jx1Nubbdrn7OXV6k4TLTEXVfKMH63nJqpLSZn5mhTbTuucnt-VsNxqz89zAJe-tZKyH8zn09nVDnV3U6tOeH_rLHxe9SB4Q" alt="" data-size="original">
-
-</details>
+4. **Indiquer qu'un embarquement est obligatoire pour les missions** dont le volume prévu est supérieur à 17500 euros (environ 3 jours semaine pendant 3 mois).  "Un embarquement est obligatoire. Il est composé d'une demi journée en présentiel et de 9 visios de 1h répartie sur un mois. Il te permettra de rencontrer la communauté, de comprendre l'écosystème publique et de connaitre les standards de qualité beta.gouv.fr"
+5. **Renvoyer** [**vers notre documentation sur les indépendants**](https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/les-differents-statuts/independants-freelances)**.**
+6. **Lire la** [**charte de bonnes pratiques WTTJ**](https://doc.incubateur.net/communaute/les-outils-de-la-communaute/autres-services/welcome-to-the-jungle/charte-wttj)
 
 ## Obtenir un accès au Welcome to the Jungle
 
