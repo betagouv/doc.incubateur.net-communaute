@@ -2,20 +2,27 @@
 
 ## Description
 
-Des contenus d'aide complexes ou jargonneux peuvent créer des
-barrières et génèrer du support évitable.
+Si les produits Beta sont voulus simples et faciles à utiliser, leur
+audience très large inclue forcément des profils qui n'ont pas le
+temps ou l'expérience nécessaire pour comprendre les subtilités de
+votre produit immédiatement.
 
-Simplifier les contenus d'aide améliore l'autonomie des utilisateurs et
-réduit la charge sur l'équipe support. Utilisez le français courant,
-structurez l'information avec des titres clairs et des étapes numérotées,
-anticipez les questions en analysant les demandes support, et testez la
-compréhension avec de vrais utilisateurs.
+Proposez des contenus d'aides simples, accessibles et pertinents : ils
+améliorent l'autonomie de vos utilisateurs et réduisent la charge de
+votre équipe support.
+
+Utilisez le français courant, structurez l'information avec des titres
+clairs et des étapes numérotées, anticipez les questions en analysant
+les demandes support, et testez la compréhension avec de vrais
+utilisateurs.
 
 ## Critères
 
 - Les contenus d'aide sont rédigés en français simple (niveau collège)
-- Chaque procédure est testée par quelqu'un qui ne connaît pas le service
-- Une FAQ répond aux questions les plus fréquentes
+- Les contenus d'aide sont fréquemment révisés en fonction des
+  demandes support
+- Une FAQ facilement accessible répond aux questions les plus
+  fréquentes
 
 ## Ressources
 
