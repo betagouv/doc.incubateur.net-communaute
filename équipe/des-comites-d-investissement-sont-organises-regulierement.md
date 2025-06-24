@@ -2,22 +2,24 @@
 
 ## Description
 
-Un comité faisant le point sur l’impact et les coûts du produit a lieu
-a minima tous les ans.
+Le comité d'investissement est l'instance de pilotage principal d'un
+produit numérique. Il a lieu régulièrement, au moins tous les 6 mois,
+et permet de faire le point sur l'impact obtenu par l'équipe du
+produit et d'arbitrer sur les objectifs et les investissements
+consentis par les administrations qui financent le service.
 
-Il permet de faire le point sur l'impact obtenu par l'équipe du produit
-et d'arbitrer sur les objectifs et les investissements consentis par les
-administrations qui financent le service.
+Au-delà du pilotage régulier par l’impact, le comité revêt d’autres
+fonctions :
 
-Si le service n'a pas réussi à prouver son utilité ou sa pertinence,
-le comité d'investissement peut décider de son arrêt ; au contraire,
-si les résultats du service sont particulièrement probants, le comité
-d'investissement peut statuer sur le renforcement des moyens, son
-accélération ou sa pérennisation.
+- rappeler et sensibiliser les directions générales à la démarche
+  beta.gouv.fr
+- impliquer ces directions générales à travers la prise de décision
+- engager les sponsors de proximité et leur permettre de confirmer les
+  orientations et les attentes en termes d'impact
 
 ## Critères
 
-- Un comité a lieu au moins une fois par an
+- Un comité d'investissement a lieu au moins tous les 6 mois
 
 ## Ressources
 
