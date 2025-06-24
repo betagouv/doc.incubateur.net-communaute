@@ -49,7 +49,7 @@ class StandardsMarkdownFile
   end
 
   def extract_section(section_name)
-    section_regex = /## #{section_name}\n\n(.*?)(?=\n\n##|\z)/mi
+    section_regex = /## #{section_name}\n\n(.*?)(?=\n\n## |\z)/mi
 
     return unless content =~ section_regex
 

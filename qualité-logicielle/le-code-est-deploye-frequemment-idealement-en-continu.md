@@ -2,25 +2,27 @@
 
 ## Description
 
-L'équipe déploie les modifications de code de manière fréquente et
-automatisée.
+Pour garantir la confiance dans votre processus de déploiement et une
+meilleure vélocité pour les correctifs ou nouvelles fonctionnalités,
+votre équipe déploit régulièrement et de manière continue si
+possible.
 
-Le déploiement continu garantit une livraison rapide des correctifs et
-des nouvelles fonctionnalités aux utilisateurs. Cette pratique réduit
-les risques techniques en limitant la taille des changements déployés
-et permet de détecter rapidement les problèmes.
+Cette approche de déploiement continu (CD) s'oppose à celle où la
+production n'est mise à jour que ponctuellement, ce qui accumule à
+chaque déploiement un delta de changements considérable voir
+vertigineux pour l'équipe de développement qui doit assurer ce
+déploiement.
 
-L'automatisation du déploiement évite les erreurs manuelles et assure
-la reproductibilité des mises en production. Elle libère l'équipe des
-tâches répétitives pour se concentrer sur le développement de valeur
-métier.
+L'automatisation du déploiement réduit aussi les erreurs manuelles et
+assure la reproductibilité des mises en production. Elle libère
+l'équipe des tâches répétitives nécessaires à la bonne gestion des
+déploiements.
 
 ## Critères
 
-- Une pipeline CI/CD automatisée est configurée dans le dépôt de code
+- Un pipeline CI/CD automatisé est configuré
 - Les déploiements s'effectuent automatiquement après validation des tests
 - L'équipe déploie au moins une fois par semaine
-- Les environnements de test reproduisent fidèlement la production
 
 ## Ressources
 
