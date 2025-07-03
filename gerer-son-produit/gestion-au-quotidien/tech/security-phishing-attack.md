@@ -155,7 +155,7 @@ Compléter le fil de suivi pour :
 
 **Prévenez en premier lieu la chaîne SSI** de votre administration d'accueil, via :
 - Votre RSSI
-- Le responsable technique de votre incubateur
+- Le [responsable technique de votre incubateur](/gerer-son-produit/gestion-au-quotidien/tech/to-do-liens-avec-les-referents-techs.md)
 
 En leur communiquant :
 - État détaillé de l'attaque
