@@ -95,7 +95,7 @@ Plusieurs mesures techniques existent pour surveiller la réutilisation de son c
 
 ### 1. Tracking Matomo
 
-**Fonctionnement :** Le tracking des pages et interactions via Matomo peut vous être d'une grande aide pour identifier la réutilisation de votre code source. A condition d'avoir hardcodé le paramétrage (notamment le `WEBSITE_ID`). Il s'agit d'une mauvaise pratique volontaire afin que les statistiques d'utilisation de site frauduleux remontent également dans votre Matomo.
+**Fonctionnement :** Le tracking des pages et interactions via Matomo peut vous être d'une grande aide pour identifier la réutilisation de votre code source. A condition d'avoir hardcodé le paramétrage (notamment le `SITE_ID`). Il s'agit d'une mauvaise pratique volontaire afin que les statistiques d'utilisation de site frauduleux remontent également dans votre Matomo.
 
 **Surveillance :** Créez un segment spécifique dans Matomo afin d'identifier le trafic ne provenant pas de vos domaines. Il est ensuite possible de paramétrer une [alerte automatique](https://matomo.org/faq/general/create-and-manage-custom-alerts/) pour surveiller le trafic sur ce segment.
 
