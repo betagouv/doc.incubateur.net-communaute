@@ -4,7 +4,7 @@ description: >-
 ---
 
 {% hint style="danger" %}
-Si vous faites face à une attaque, rendez-vous directement en section [Lutte et contre mesures](#️-lutte--contre-mesures) !
+Si vous faites face à une attaque, rendez-vous directement en section [Lutte et contre mesures](#lutte-contre-mesures) !
 {% endhint %}
 
 # 📖 Définition
