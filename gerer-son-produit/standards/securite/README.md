@@ -8,6 +8,7 @@
   * Activez le 2FA sur tous vos services ;
   * Utilisez [un gestionnaire de mots de passe](../../../les-outils-de-la-communaute/autres-services/vaultwarden/) pour stocker vos mots de passe.
 * Savoir réagir en cas de [fuite de données](../../gestion-au-quotidien/tech/readme-1/)
+* Savoir réagir en cas d'[attaque de phishing et/ou typosquatting](../../gestion-au-quotidien/tech/security-phishing-attack.md)
 * Inscrivez votre produit sur [MonServiceSécurisé](https://monservicesecurise.cyber.gouv.fr/)
 
 ### Pour les équipes techniques
@@ -35,6 +36,11 @@ Les incubateurs du réseau beta.gouv.fr ont parfois des règles de sécurité sp
 {% content-ref url="../../gestion-au-quotidien/tech/readme-1/" %}
 [readme-1](../../gestion-au-quotidien/tech/readme-1/)
 {% endcontent-ref %}
+
+{% content-ref url="../../gestion-au-quotidien/tech/security-phishing-attack.md" %}
+[security-phishing-attack.md](../../gestion-au-quotidien/tech/security-phishing-attack.md)
+{% endcontent-ref %}
+
 
 {% content-ref url="authentication.md" %}
 [authentication.md](authentication.md)
