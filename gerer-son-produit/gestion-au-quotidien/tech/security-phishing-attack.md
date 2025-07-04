@@ -45,7 +45,7 @@ En phase de construction, **veillez à déposer la marque** correspondante au no
 - Protéger l'identité du service public
 
 {% hint style="info" %}
-Pour réaliser ce dépot de marque auprès de l'INPI, vous pouvez vous faire aider par le service des affaires juridiques de votre administration d'accueil.
+Pour réaliser ce dépot de marque auprès de l'INPI, vous pouvez remplir le [formulaire](https://www.economie.gouv.fr/apie/contact/saisine-pour-un-depot-de-marque-publique) mis en oeuvre par la mission [APIE](https://www.economie.gouv.fr/apie) qui se chargera de l'étude de faisabilité juridique et le cas échéant du dépot.
 {% endhint %}
 
 ### 3. Protection du code open-source
@@ -101,12 +101,12 @@ Plusieurs mesures techniques existent pour surveiller la réutilisation de son c
 
 ### 2. Mission APIE / Nameshield
 
-**Fonctionnement :** Chaque Ministère bénéficie du marché interministériel mise en oeuvre par la mission [APIE](https://www.economie.gouv.fr/apie) pour surveiller et défendre les noms de domaine de l'Etat. Ce marché est opéré par la société Nameshield. Chaque Ministère définit un vocable de mot-clés qui sont ensuite surveillés par la société Nameshield.
+**Fonctionnement :** Chaque Ministère bénéficie du marché interministériel mise en oeuvre par la mission [APIE](https://www.economie.gouv.fr/apie) pour surveiller et défendre les noms de domaine de l'Etat. Ce marché est opéré par la société Nameshield. Chaque Ministère définit un vocable de mot-clés qui sont ensuite surveillés par la société Nameshield. Pour faire évoluer ce vocable vous pouvez contacter votre RSSI.
 
 **Alertes :** Tous nouveaux domaines pouvant potentiellement représenter un risque de typosquattage est remonté à la mission APIE qui se charge de prévenir les Ministères.
 
 {% hint style="info" %}
-**Limites identifiées** : Les produits numériques beta.gouv sont rarement bien identifiés auprès des acteurs SSI des Ministères, cette approche bien qu'ayant montré son efficacité ne vous permet pas une grande réactivité.
+**Limites identifiées** : Les produits numériques beta.gouv sont rarement bien identifiés auprès des acteurs SSI des Ministères, cette approche bien qu'ayant montré son efficacité ne vous permet pas une grande réactivité. Elle est également à priori limitée aux Ministères.
 {% endhint %}
 
 ### 3. Surveillance via CDN (mesure avancée)
