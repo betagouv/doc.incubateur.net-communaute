@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
----
-
 # 🔟 La règle des 10 % communauté
 
 La communauté beta.gouv.fr vit grâce à ses membres. C’est pourquoi chaque membre de la communauté peut utiliser jusqu’à 10% du temps consacré à sa startup d’État pour participer à des activités transverses en facturant sur sa mission.

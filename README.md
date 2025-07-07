@@ -3,17 +3,6 @@ description: >-
   Tu découvriras ici l'ensemble des règles, principes et bonnes pratiques qui
   organisent la communauté beta.gouv.fr ainsi que toutes autres ressources te
   permettant de mieux t'y retrouver !
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # 👋 Bienvenue sur le guide de la communauté beta.gouv.fr

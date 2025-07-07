@@ -2,17 +2,6 @@
 description: >-
   On peut choisir de pérenniser un service dans une autre structure que celle
   qui l'a vu naître
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # Transfert vers une structure d'accueil
@@ -30,7 +19,7 @@ layout:
 
 À cause de ces différents risques, ce type de transfert n’est pas recommandé par la DINUM, sauf dans les cas où le service numérique objet du transfert n’est pas considéré comme "cœur de métier” ou stratégique par l’administration porteuse.
 
-### Exemples&#x20;
+### Exemples
 
 * la [Base adresse nationale](http://adresse.data.gouv.fr), incubée à la DINUM, est progressivement transférée depuis mai 2021 l’Institut géographique national : l’équipe historique a été transférée sous portage administratif IGN début 2022, mais l’ensemble du processus de transfert se terminera fin 2022 et suppose de nombreux coûts liés à la montée en compétence des agents de l’IGN.
 * [Peps](https://www.peps.beta.gouv.fr), porté initialement à la DGAL, est devenu [RexAgri](https://rex-agri.agroecologie.org) début 2022 et a été transféré à une association.

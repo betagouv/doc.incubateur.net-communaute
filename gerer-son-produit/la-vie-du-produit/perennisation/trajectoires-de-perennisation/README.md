@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
----
-
 # Trajectoires de pérennisation
 
 Lorsque le service numérique atteint une certaine maturité et entre en phase de pérennisation, on se pose la question de la meilleure structure pour continuer à opérer le service en vitesse de croisière.&#x20;

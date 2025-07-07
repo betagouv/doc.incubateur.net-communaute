@@ -3,17 +3,6 @@ description: >-
   L'objectif de cette 3ème étape est d'évaluer les différentes options de
   pérennisation et choisir la structure d'accueil la plus adaptée
 icon: '3'
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # Choisir une structure d'accueil adaptée

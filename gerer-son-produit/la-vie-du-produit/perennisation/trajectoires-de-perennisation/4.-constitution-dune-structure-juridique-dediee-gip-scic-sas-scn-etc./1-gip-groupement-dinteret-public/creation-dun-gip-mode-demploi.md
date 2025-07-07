@@ -1,22 +1,8 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
----
-
 # Création d'un GIP : mode d'emploi
 
 ## Comment puis-je créer un Groupement d'intérêt public (GIP) ?
 
-Pour créer un tel Groupement, les partenaires publics et privés doivent rédiger une convention constitutive et la soumettre pour approbation à l'Etat, dont vous pourrez trouver [un modèle de trame](https://www.economie.gouv.fr/files/files/directions\_services/daj/gip/guide-relatif-aux-gip/fiche2-convention-constitutive-type.pdf).
+Pour créer un tel Groupement, les partenaires publics et privés doivent rédiger une convention constitutive et la soumettre pour approbation à l'Etat, dont vous pourrez trouver [un modèle de trame](https://www.economie.gouv.fr/files/files/directions_services/daj/gip/guide-relatif-aux-gip/fiche2-convention-constitutive-type.pdf).
 
 **Contenu de la convention constitutive**
 

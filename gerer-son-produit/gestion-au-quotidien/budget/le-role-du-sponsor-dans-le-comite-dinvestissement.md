@@ -43,7 +43,7 @@ Pour prendre la meilleure décision d'investissement, le sponsor préfèrera cha
 \
 Le retour sur investissement d'un service publique numérique est rarement mesurable en euros. Le sponsor investisseur doit donc questionner/challenger l'équipe sur son choix de métrique d'impact. Le sponsor doit s'assurer que la mesure reflète bien l'objectif de politique publique visée.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Quelle décision doit prendre le sponsor ?
 
@@ -101,4 +101,4 @@ S'il s'agit du premier comité d'investissement (aussi appelé comité de fin d'
     \
 
 
-    <figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>

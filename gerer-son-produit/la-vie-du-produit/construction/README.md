@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
----
-
 # 2️⃣ Construction
 
 La **phase de construction** correspond aux 6 à 12 premiers mois de votre service. Votre premier objectif est d'avoir de l'impact le plus rapidement possible, en servant votre premier utilisateur ou en opérant votre première transaction. Vous allez également devoir lancer le plus rapidement possible votre solution numérique afin de la confronter à la réalité terrain dès que possible.

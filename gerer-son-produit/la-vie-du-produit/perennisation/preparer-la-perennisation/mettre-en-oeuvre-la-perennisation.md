@@ -3,17 +3,6 @@ description: >-
   L'objectif de cette dernière étape est d'établir un plan d'actions détaillé
   pour la mise en œuvre de la pérennisation du produit
 icon: '5'
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # Mettre en oeuvre la pérennisation

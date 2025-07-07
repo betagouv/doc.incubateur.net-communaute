@@ -1,16 +1,5 @@
 ---
 hidden: true
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # Références bibliographiques
@@ -31,7 +20,7 @@ Matti SCHNEIDER, 2017. La Revue française de service social, 2017, Le travail s
 
 #### API et France Connect
 
-[**The modernisation of the state and the 'login syndrome': a study of digital authentication in public service**](http://paperroom.ipsa.org/papers/paper\_48261.pdf).
+[**The modernisation of the state and the 'login syndrome': a study of digital authentication in public service**](http://paperroom.ipsa.org/papers/paper_48261.pdf).
 
 Science politique, sociologie.
 

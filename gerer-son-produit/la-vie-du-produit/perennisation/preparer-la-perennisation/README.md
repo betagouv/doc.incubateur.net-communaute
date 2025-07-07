@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
----
-
 # Préparer la pérennisation
 
 ## 🚀 Les 5 grandes étapes de la préparation d'une pérennisation <a href="#les-5-grandes-etapes-de-la-preparation-dune-perennisation" id="les-5-grandes-etapes-de-la-preparation-dune-perennisation"></a>
@@ -45,4 +31,3 @@ Une présentation synthétique de la pérennisation d'une Start-Up d'État a ét
 {% hint style="info" %}
 **Comment solliciter la DINUM pour un accompagnement à la pérennisation ?** Si vous souhaitez plus d'informations, de retours d'expérience, ou un accompagnement à la pérennisation, vous pouvez contacter l’équipe du programme beta.gouv.fr à dinum@beta.gouv.fr
 {% endhint %}
-

@@ -1,56 +1,47 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
----
+# Embarquer un nouveau membre de son équipe
 
-Tu as sélectionné un nouveau membre pour intégrer ton équipe ? Cette page est prévue pour t'aider à l'embarquer dans la communauté ! 
+Tu as sélectionné un nouveau membre pour intégrer ton équipe ? Cette page est prévue pour t'aider à l'embarquer dans la communauté !\
 Ce parcours d'embarquement est un socle de base conçu pour permettre au nouveau membre de ton équipe d'appréhender le plus efficacement possible son nouvel environnement.
 
-# 🐥 L'embarquement commun chez beta.gouv.fr
+## 🐥 L'embarquement commun chez beta.gouv.fr
 
-## Pourquoi un embarquement commun ?
+### Pourquoi un embarquement commun ?
 
 Le parcours d'embarquement est **obligatoire** pour tous les nouveaux prestataires rejoignant la communauté. Son but est de les aider et leur permettre :
-- De comprendre les standards et valeurs de la communauté beta.gouv.fr
-- De comprendre leur mission et la pratique de leur métier dans le contexte de beta.gouv.fr
-- De connaître les outils, les ressources, les statuts, leur incubateur et les personnes utiles pour eux
-- D'être impactant pour l'équipe
 
-## Les étapes clés du parcours d'embarquement
+* De comprendre les standards et valeurs de la communauté beta.gouv.fr
+* De comprendre leur mission et la pratique de leur métier dans le contexte de beta.gouv.fr
+* De connaître les outils, les ressources, les statuts, leur incubateur et les personnes utiles pour eux
+* D'être impactant pour l'équipe
+
+### Les étapes clés du parcours d'embarquement
 
 Le parcours d'embarquement généraliste est segmenté en 3 grandes phases :
-- **Phase 1** : Se préparer, lors de la première semaine 
-- **Phase 2** : Comprendre leur environnement, travailler avec leur équipe, fixer les livrables et objectifs de mission lors du premier mois
-- **Phase 3** : Vérifier l'atteinte des objectifs de mission au milieu et à la fin de la mission
 
-## Le parcours d'embarquement en détails
+* **Phase 1** : Se préparer, lors de la première semaine
+* **Phase 2** : Comprendre leur environnement, travailler avec leur équipe, fixer les livrables et objectifs de mission lors du premier mois
+* **Phase 3** : Vérifier l'atteinte des objectifs de mission au milieu et à la fin de la mission
+
+### Le parcours d'embarquement en détails
 
 {% embed url="https://docs.google.com/presentation/d/1yRahCkJ6EG-Eq34bsOc1BVSkrw5YlJH78nBwDt_3fsY/edit?usp=sharing" %}
 Parcours embarquement généraliste
 {% endembed %}
 
-Pour piloter leur parcours d'embarquement nous t'invitons à suivre leur checklist personnelle d'embarquement depuis leur [espace membre](https://espace-membre.incubateur.net/dashboard)
+Pour piloter leur parcours d'embarquement nous t'invitons à suivre leur checklist personnelle d'embarquement depuis leur [espace membre](https://espace-membre.incubateur.net/dashboard)\
 Tu peux aussi la consulter en version documentation juste [ici](https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/to-do-darrivee)
 
-# 🚟 Embarquer un nouveau membre de son équipe
+## 🚟 Embarquer un nouveau membre de son équipe
 
 En tant que responsable de l'équipe produit, tu joues un rôle clé dans la réussite de l'embarquement du nouveau membre. Voici une checklist pour t'aider à structurer son embarquement dans ton équipe. Un bon embarquement est un facteur clé de succès pour une mission réussie.
 
-Tu interviens pour : 
-- Préparer l'embarquement avant l'arrivée
-- Accompagner le début de mission des premiers jours aux premiers mois
-- Prendre une décision sur la suite à donner à la mission (si elle est renouvelable)
+Tu interviens pour :
 
-## Pense-bête pour la phase de préparation à l'embarquement
+* Préparer l'embarquement avant l'arrivée
+* Accompagner le début de mission des premiers jours aux premiers mois
+* Prendre une décision sur la suite à donner à la mission (si elle est renouvelable)
+
+### Pense-bête pour la phase de préparation à l'embarquement
 
 * [ ] Avant toute chose il convient de [créer sa fiche membre](https://espace-membre.incubateur.net/community/create)
 * [ ] Valider le bon de commande avec ton responsable d'incubateur et le titulaire du marché public
@@ -59,7 +50,7 @@ Tu interviens pour :
 * [ ] Envoyer au futur membre la **documentation clé** à lire pour bien démarrer sa mission. Tu peux commencer par le [Guide de la communauté](https://doc.incubateur.net/communaute) et étoffer en fonction des enjeux de ton produit
 * [ ] **Informer** les autres membres de ton équipe qu'un nouvel arrivant embarque prochainement
 
-## Pense-bête pour les premiers jours
+### Pense-bête pour les premiers jours
 
 * [ ] Envoyer un **mail de bienvenue** au nouveau membre en précisant s'il est prestataire ou agent public
 * [ ] Préparer les **accès informatiques** du nouveau membre en commençant par les [outils clés](https://doc.incubateur.net/communaute/les-outils-de-la-communaute/autres-services)
@@ -74,7 +65,7 @@ Tu interviens pour :
 * [ ] Si elle ou il est au statut d'indépendant, vérifier qu'elle.il sait à qui adresser sa facture et comment
 * [ ] Si elle ou il est contractuel(le) de la DINUM, elle/il s'est présenté.e au secrétariat de la DINUM
 
-## Pense-bête pour les premières semaines
+### Pense-bête pour les premières semaines
 
 * [ ] Fixer avec le nouveau membre ses **objectifs** concrets de mission et les livrables attendus en utilisant ce [modèle](https://docs.numerique.gouv.fr/docs/be5ddf8c-83bf-42b9-96f5-8d5aed18dd98/)
 * [ ] Fixer les **rituels de feedback** et suivi de ses objectifs de mission et livrables
@@ -84,7 +75,7 @@ Tu interviens pour :
   * [ ] **#3** La session de **présentation de votre incubateur de rattachement**
   * [ ] **#4** Les 6 sessions en visioconférence (45 minutes maximum) de **focus thématiques** (les invitations sont/seront dans sa boite webmail)
 
-## Pense-bête pour les premiers mois
+### Pense-bête pour les premiers mois
 
 * [ ] Préparer un feedback 360° pour évaluer au mieux la performance du nouveau membre ou le rendu des livrables lorsqu'il s'agit d'un prestataire
 * [ ] Lire son [rapport d'étonnement](https://docs.numerique.gouv.fr/docs/5bf47fbb-7620-4b01-a61e-035104fee33f/)
