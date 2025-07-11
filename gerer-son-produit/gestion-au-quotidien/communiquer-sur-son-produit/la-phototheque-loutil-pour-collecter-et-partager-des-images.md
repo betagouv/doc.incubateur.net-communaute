@@ -29,10 +29,7 @@ En plus de pouvoir consulter cette banque d’images, chaque membre de la commun
 
 <summary>Comment faire ? </summary>
 
-**Pour partager tes images il suffit de suivre ces deux étapes :**&#x20;
-
-1. Créer un compte sur[ Lychee](https://lychee.kube-dev.incubateur.net/)&#x20;
-2. Faire une demande pour rejoindre l’album dédié à l'équipe d'animation [beta.gouv.fr](http://beta.gouv.fr/) via le canal Mattermost [incubateur-com](https://mattermost.incubateur.net/betagouv/channels/incubateur-com)
+**Pour partager tes images il te suffit de faire une demande** pour obtenir un compte contributeur à l'équipe d'animation [beta.gouv.fr](http://beta.gouv.fr/) via le canal Mattermost [incubateur-com](https://mattermost.incubateur.net/betagouv/channels/incubateur-com)
 
 </details>
 

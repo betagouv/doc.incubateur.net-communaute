@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
----
-
 # Guide d'entretien par profil
 
 <details>
@@ -116,7 +102,7 @@ Au fil de la vie du produit il est nécessaire de choisir des profils différent
 
 Le recrutement des chargés de déploiement est essentiel dès le départ, pour s’assurer que son produit a un potentiel d’usage.
 
-\*\*\*\* \
+\*\*\*\*\
 \
 Pour mieux comprendre ce rôle, à multiples casquettes, tu peux te référer [à cette page.](../../travailler-chez-beta.gouv.fr/les-differents-metiers/le-charge-de-deploiement-dans-le-programme-beta.gouv.md)
 
@@ -191,7 +177,7 @@ _Posture_
 * Ne pas s’enfermer dans un rôle
 * Rapidement opérationnel, autonome
 
-➡️ Pour aller plus loin :&#x20;
+➡️ Pour aller plus loin :
 
 [les-metiers-sales-and-marketing-dans-le-prive.md](../gestion-au-quotidien/renforcer-l-equipe/les-metiers-sales-and-marketing-dans-le-prive.md "mention")
 

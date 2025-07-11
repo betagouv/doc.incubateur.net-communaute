@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
----
-
 # 👨‍🔬 Créer un incubateur de services numériques
 
 Au sein de l'État et des territoires, il existe différents modèles d'incubateurs, de "fabriques numériques" ou d'"ateliers numériques", avec des stratégies qui peuvent être liées aux spécificités de leur administration. Le réseau beta.gouv.fr fédère ceux qui adhèrent au [manifeste beta.gouv](https://beta.gouv.fr/approche/manifeste) et qui produisent des services numériques conçus selon l'approche beta.gouv.

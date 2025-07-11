@@ -6,6 +6,8 @@ C'est une solution open-source qui propose également une API
 
 L'équipe de l'opérateur de la DINUM propose une instance GRIST pour notre communauté sur [https://grist.numerique.gouv.fr](https://grist.numerique.gouv.fr).
 
+{% embed url="https://www.youtube.com/watch?v=HyEU5k1I3ao" %}
+
 👉 [Documentation en Français pour GRIST](https://support.getgrist.com/fr/)
 
 👉 [Plusieurs webinaires en FR pour découvrir et progresser sur GRIST](https://tube.numerique.gouv.fr/c/grist/videos?s=1)

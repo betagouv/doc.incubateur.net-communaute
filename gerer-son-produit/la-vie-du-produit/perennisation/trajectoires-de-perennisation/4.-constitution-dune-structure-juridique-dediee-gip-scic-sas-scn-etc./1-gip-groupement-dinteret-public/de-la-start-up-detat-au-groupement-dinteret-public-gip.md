@@ -1,19 +1,8 @@
 ---
 description: Présentation du GIP, de son fonctionnement et des rôles et responsabilités
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
-# De la Start-up d'Etat au Groupement d'intérêt public (GIP)
+# De la Startup d'Etat au Groupement d'intérêt public (GIP)
 
 ## 💡 Qu'est-ce un Groupement d'intérêt public ?
 

@@ -21,7 +21,9 @@ description: >-
 
 [\~domaine-bizdev 🚀](https://mattermost.incubateur.net/betagouv/channels/incubateur-bizdev)
 
-### Les canaux "prés de chez toi"
+### Les canaux "près de chez toi"
+
+**Pour échanger avec les membres de la communauté proches de chez toi**
 
 [\~bureau-bordeaux](https://mattermost.incubateur.net/betagouv/channels/bureaux-bordeaux)
 
@@ -31,7 +33,7 @@ description: >-
 
 [\~bureau-marseille](https://mattermost.incubateur.net/betagouv/channels/bureaux-marseille)
 
-\~bureau-montpellier[^1]
+[\~bureaux-montpellier](https://mattermost.incubateur.net/betagouv/channels/bureaux-montpellier)
 
 [\~bureau-nantes](https://mattermost.incubateur.net/betagouv/channels/nantes-coworking)
 
@@ -45,9 +47,7 @@ description: >-
 
 [\~bureau-coliving-champetre](https://mattermost.incubateur.net/betagouv/channels/bureaux-coliving-champetre)
 
-
-
-
+[\~bureaux-sur-la-route](https://mattermost.incubateur.net/betagouv/channels/bureaux-sur-la-route)
 
 ### Les canaux pour faciliter votre quotidien
 
@@ -126,27 +126,3 @@ description: >-
 [\~bruit-musique](https://mattermost.incubateur.net/betagouv/channels/bruit-cuisine) _Des bonnes vibrations !_
 
 [\~domaine-datascience](https://mattermost.incubateur.net/betagouv/channels/domaine-datascience)
-
-### Les canaux locaux
-
-**Pour échanger avec les membres de la communauté proches de chez toi**
-
-[\~bureaux-bretagne](https://mattermost.incubateur.net/betagouv/channels/bureaux-bretagne)
-
-[\~bureaux-nantes](https://mattermost.incubateur.net/betagouv/channels/bureaux-nantes)
-
-[\~bureaux-bordeaux](https://mattermost.incubateur.net/betagouv/channels/bureaux-bordeaux)
-
-[\~bureaux-betalyon](https://mattermost.incubateur.net/betagouv/channels/bureaux-betalyon)
-
-[\~bureaux-marseille](https://mattermost.incubateur.net/betagouv/channels/bureaux-marseille)
-
-[\~bureaux-montpellier](https://mattermost.incubateur.net/betagouv/channels/bureaux-montpellier)
-
-[\~bureaux-strasbourg](https://mattermost.incubateur.net/betagouv/channels/bureaux-strasbourg)
-
-[\~bureaux-toulouse-chocolatine](https://mattermost.incubateur.net/betagouv/channels/bureaux-toulouse-chocolatine)
-
-[\~bureaux-sur-la-route](https://mattermost.incubateur.net/betagouv/channels/bureaux-sur-la-route)
-
-[^1]: 

@@ -12,25 +12,18 @@ Le programme beta.gouv.fr [dispose d’une page sur la plateforme “Welcome to 
 
 Cet outil est mis à disposition de l’ensemble du réseau beta.gouv. En particulier, les entreprises titulaires de [nos marchés publics](../../../gerer-son-produit/gestion-au-quotidien/marches/) peuvent utiliser cet outil afin de faciliter leur sourcing de profils pour le compte des produits conçus selon l’approche Startup d’État, en profitant du rayonnement du label “beta.gouv.fr”.
 
-## Obtenir un accès au Welcome to the Jungle
+## 🔎 **Bonnes pratiques pour publier une offre sur Welcome to the Jungle**
 
-Une fois que vous avez accès à la plateforme, vous pouvez ouvrir un profil avec accès restreint aux autres membres de l’équipe.
+Pour publier une offre sur votre profil **Welcome to the Jungle**, il vous suffit de cliquer sur le bouton **“Nouvelle offre d'emploi”**.
 
-Les profils avec accès restreints n’ont accès qu’aux candidatures sur l’offre sur laquelle ils ont été nommés.
+✅ **Points essentiels à respecter :**
 
-<table><thead><tr><th>Incubateur</th><th>Référent WTTJ</th><th data-hidden></th></tr></thead><tbody><tr><td>Accélérateur de la transition écologique (ADEME) :</td><td><p><a href="mailto:lilian.sagetlethias@beta.gouv.fr">Lilian Saget lethias</a></p><p><br></p></td><td></td></tr><tr><td>Atelier numérique de la Culture</td><td><a href="mailto:clemence.chalopet@beta.gouv.fr">Clemence Chalopet</a></td><td></td></tr><tr><td>Fabrique des géocommuns (IGN)</td><td><a href="mailto:nicolas.berthelot@ign.fr">Nicolas Berthelot</a></td><td></td></tr><tr><td>Fabrique numérique de l’Ecologie (MTE):</td><td><a href="mailto:fabrique.numerique@developpement-durable.gouv.fr">Gaspard Granger</a></td><td></td></tr><tr><td>Fabrique numérique des Armées</td><td><a href="mailto:mathieu.mahr@beta.gouv.fr">Mathieu Mahr</a></td><td></td></tr><tr><td>Incubateur de la Justice</td><td><a href="mailto:thomas.guerrier@beta.gouv.fr">Thomas Guerrier</a>, <a href="mailto:maryline.araujo@justice.gouv.fr">Maryline Araujo</a></td><td></td></tr><tr><td>Incubateur de Service Numérique de la DINUM</td><td><a href="mailto:amel.alili@beta.gouv.fr">Amel Alili</a></td><td></td></tr><tr><td>Incubateur des Territoires (ANCT)</td><td><a href="mailto:benjamin.mittet-breme@anct.gouv.fr">Benjamin Mittet-Breme</a></td><td></td></tr><tr><td>Accélérema (CEREMA)</td><td><a href="mailto:perrine.rutkowski@beta.gouv.fr">Perrine Rutkowski</a></td><td></td></tr><tr><td>Incubateur du MASA</td><td><a href="mailto:jennifer.stephan@beta.gouv.fr">Jennifer Stephan</a></td><td></td></tr><tr><td>Incubateur France Travail</td><td><a href="mailto:sabrina.bentenah@francetravail.fr">Sabrina Bentenah</a></td><td></td></tr><tr><td>Mission interministérielle pour l’apprentissage</td><td><a href="mailto:leo.radisson@beta.gouv.fr">Léo Radisson</a></td><td></td></tr><tr><td>Atelier Numérique du Ministère de l'Europe et des Affaires Etrangères</td><td><a href="mailto:noemie.peignier@diplomatie.gouv.fr">Noémie Peignier</a></td><td></td></tr><tr><td>Opérateur de produits interministériels (OPI)</td><td><a href="mailto:florian.delezenne@beta.gouv.fr">Florian Delezenne</a></td><td></td></tr><tr><td>Plateforme de l'inclusion</td><td><a href="mailto:adele.de.pimodan@beta.gouv.fr">Adele de Pimodan</a></td><td></td></tr></tbody></table>
-
-**Pour toutes les autres demandes,** envoie un mail à [animation@beta.gouv.fr](mailto:animation@beta.gouv.fr).
-
-{% embed url="https://docs.google.com/presentation/d/1Fmdjm5Qw39TeyRRvC7wRQaFsNRJIaYBZKXlfRfbY8Tk/edit#slide=id.g2dba877299c_3_278" %}
-
-{% hint style="info" %}
-Merci de prendre connaissance de la [Charte de bonne utilisation de Welcome to The Jungle.](charte-wttj.md)
-{% endhint %}
-
-## Publier une offre
-
-Pour publier une offre sur le profil Welcome to the jungle, il suffit de cliquer sur “Nouvelle offre d'emploi”.
+1. **Nommer le titulaire du marché** si c'est une offre de prestation:\
+   Il est impératif de mentionner clairement qui est le titulaire du marché dans l’offre. Vous devez aussi avoir contacté ce titulaire.
+2. **Mentionner dans le titre de l’offre que c’est une mission.** Par exemple : \[Mission]Chargé de déploiement pour Envergo.
+3. **Indiquer qu'un embarquement est obligatoire pour les missions** dont le volume prévu est supérieur à 17500 euros (environ 3 jours semaine pendant 3 mois).  "Un embarquement est obligatoire. Il est composé d'une demi journée en présentiel et de 9 visios de 1h répartie sur un mois. Il te permettra de rencontrer la communauté, de comprendre l'écosystème publique et de connaitre les standards de qualité beta.gouv.fr"
+4. **Indiquer une date de fin de diffusion** :\
+   Merci d’ajouter une **date limite de publication** visible dans l’annonce. Cela permet de garantir **l’équité entre tous les candidats** en leur donnant les mêmes chances de postuler.
 
 <figure><img src="../../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
@@ -38,32 +31,6 @@ Pour publier une offre sur le profil Welcome to the jungle, il suffit de cliquer
 **L'offre sera automatiquement dépubliée au bout de 2 mois**, sauf prolongement manuel.\
 Si tu as trouvé la ou les bonnes personnes, bravo ! Pense à archiver l'annonce avant cette date pour maintenir une page de recrutement à jour et attrayante. Sinon, tu peux toujours réactiver l'annonce depuis les archives.
 {% endhint %}
-
-<details>
-
-<summary>Bonnes pratiques (dérouler pour lire)</summary>
-
-_**Indiquer le nom de sa Startup d'État dans le titre de l'offre**_\
-Afin de faciliter la recherche d'une offre
-
-_**Localisation**_\
-Pour le bureau, indiquer là où l’équipe se réunit le plus fréquemment. Si c’est le cas, indiquer que le télétravail total est possible.
-
-_**Lettre de motivation**_\
-Indiquer dans “process de recrutement” : “Ecrivez-nous un paragraphe sur votre motivation (5 - 10 lignes) et téléchargez-le dans “lettre de motivation””. En effet, moins le candidat devra vous élaborer de long document, plus il sera prêt à candidater.
-
-_**Tu/Vous**_\
-A vous de choisir entre le tutoiement et le vouvoiement, assurez-vous simplement que toute l’offre est cohérente.
-
-_**Candidatures spontanées**_\
-Le site vitrine du Welcome to the jungle permet les candidatures spontanées, n’hésitez pas à consulter le vivier. Pour ce faire se rendre dans la rubrique “candidature spontanée”.
-
-_**Diffusion**_ _**sur le site Welcome de beta.gouv.fr**_\
-Assurez-vous que la case Welcome est bien cochée pour que votre offre soit diffusée.
-
-<img src="https://lh3.googleusercontent.com/s8LOLLhIXQnW9vAOFoSXOFqRdCKJ0LBgV55D7zK1db1eG-Qbdt6Jx1Nubbdrn7OXV6k4TLTEXVfKMH63nJqpLSZn5mhTbTuucnt-VsNxqz89zAJe-tZKyH8zn09nVDnV3U6tOeH_rLHxe9SB4Q" alt="" data-size="original">
-
-</details>
 
 ### Obligations concernant la publication d'offres en prestation <a href="#obligations-concernant-la-publication-doffres-de-mission-en-prestation" id="obligations-concernant-la-publication-doffres-de-mission-en-prestation"></a>
 
@@ -90,7 +57,30 @@ Voici les bonnes pratiques et règles à suivre pour que l’utilisation de la p
 
 mais vous pouvez indiquer des conditions pour réussir cette dernière. Par exemple, vous ne pouvez pas imposer d’horaires ni des jours spécifiques de la semaine. En revanche, vous pouvez demander à ce que la personne travaille en présentiel avec l’équipe ou qu’elle s’adapte aux horaires des usagers.
 
-4. **Renvoyer** [**vers notre documentation sur les indépendants**](https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/les-differents-statuts/independants-freelances)**.**
+4. **Indiquer qu'un embarquement est obligatoire pour les missions** dont le volume prévu est supérieur à 17500 euros (environ 3 jours semaine pendant 3 mois).  "Un embarquement est obligatoire. Il est composé d'une demi journée en présentiel et de 9 visios de 1h répartie sur un mois. Il te permettra de rencontrer la communauté, de comprendre l'écosystème publique et de connaitre les standards de qualité beta.gouv.fr"
+5. **Renvoyer** [**vers notre documentation sur les indépendants**](https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/les-differents-statuts/independants-freelances)**.**
+6. **Lire la** [**charte de bonnes pratiques WTTJ**](https://doc.incubateur.net/communaute/les-outils-de-la-communaute/autres-services/welcome-to-the-jungle/charte-wttj)
+
+## Obtenir un accès au Welcome to the Jungle
+
+Chaque incubateur a désigné un **référent** chargé de gérer les accès à la plateforme pour ses membres.
+
+👉 Pour obtenir un accès, il vous suffit de **contacter votre référent incubateur**.\
+Si vous ne recevez pas de réponse, vous pouvez alors vous tourner vers le **référent ISN**.
+
+Les profils avec accès restreints n’ont accès qu’aux candidatures sur l’offre sur laquelle ils ont été nommés.
+
+<table><thead><tr><th>Incubateur</th><th>Référent WTTJ</th><th data-hidden></th></tr></thead><tbody><tr><td>Accélérateur de la transition écologique (ADEME) :</td><td><p><a href="mailto:lilian.sagetlethias@beta.gouv.fr">Lilian Saget lethias</a></p><p><br></p></td><td></td></tr><tr><td>Atelier numérique de la Culture</td><td><a href="mailto:clemence.chalopet@beta.gouv.fr">Clemence Chalopet</a></td><td></td></tr><tr><td>Fabrique des géocommuns (IGN)</td><td><a href="mailto:nicolas.berthelot@ign.fr">Nicolas Berthelot</a></td><td></td></tr><tr><td>Fabrique numérique de l’Ecologie (MTE):</td><td><a href="mailto:fabrique.numerique@developpement-durable.gouv.fr">Gaspard Granger</a></td><td></td></tr><tr><td>Fabrique numérique des Armées</td><td><a href="mailto:mathieu.mahr@beta.gouv.fr">Mathieu Mahr</a></td><td></td></tr><tr><td>Incubateur de la Justice</td><td><a href="mailto:thomas.guerrier@beta.gouv.fr">Thomas Guerrier</a>, <a href="mailto:maryline.araujo@justice.gouv.fr">Maryline Araujo</a></td><td></td></tr><tr><td>Incubateur de Service Numérique de la DINUM</td><td><a href="mailto:amel.alili@beta.gouv.fr">Amel Alili</a></td><td></td></tr><tr><td>Incubateur des Territoires (ANCT)</td><td><a href="mailto:benjamin.mittet-breme@anct.gouv.fr">Benjamin Mittet-Breme</a></td><td></td></tr><tr><td>Accélérema (CEREMA)</td><td><a href="mailto:perrine.rutkowski@beta.gouv.fr">Perrine Rutkowski</a></td><td></td></tr><tr><td>Incubateur du MASA</td><td><a href="mailto:jennifer.stephan@beta.gouv.fr">Jennifer Stephan</a></td><td></td></tr><tr><td>Incubateur France Travail</td><td><a href="mailto:sabrina.bentenah@francetravail.fr">Sabrina Bentenah</a></td><td></td></tr><tr><td>Mission interministérielle pour l’apprentissage</td><td><a href="mailto:leo.radisson@beta.gouv.fr">Léo Radisson</a></td><td></td></tr><tr><td>Atelier Numérique du Ministère de l'Europe et des Affaires Etrangères</td><td><a href="mailto:noemie.peignier@diplomatie.gouv.fr">Noémie Peignier</a></td><td></td></tr><tr><td>Opérateur de produits interministériels (OPI)</td><td><a href="mailto:florian.delezenne@beta.gouv.fr">Florian Delezenne</a></td><td></td></tr><tr><td>Plateforme de l'inclusion</td><td><a href="mailto:adele.de.pimodan@beta.gouv.fr">Adele de Pimodan</a></td><td></td></tr></tbody></table>
+
+**Pour toutes les autres demandes ou pour modifier la liste des référents,** merci d'envoyer un mail à [contact@beta.gouv.fr.](mailto:contact@beta.gouv.fr)
+
+{% embed url="https://docs.google.com/presentation/d/1Fmdjm5Qw39TeyRRvC7wRQaFsNRJIaYBZKXlfRfbY8Tk/edit#slide=id.g2dba877299c_3_278" %}
+
+{% hint style="info" %}
+Merci de prendre connaissance de la [Charte de bonne utilisation de Welcome to The Jungle.](charte-wttj.md)
+{% endhint %}
+
+
 
 ## Diffuser une offre
 

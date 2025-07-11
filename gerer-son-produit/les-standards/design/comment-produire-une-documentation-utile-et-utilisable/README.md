@@ -1,16 +1,5 @@
 ---
 description: Quelques contenus pour vous aider à mieux appréhender la documentation
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # Comment produire une documentation utile et utilisable ?

@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
----
-
 # Constitution d'une structure juridique dédiée
 
 Le produit en se développant a rencontré un public qui dépasse les usagers de l’administration porteuse ; d’autres administrations sont prêtes à co-investir dans le développement du produit. La Startup d'Etat évolue en une entité juridique autonome et l’administration porteuse devient “investisseur”.

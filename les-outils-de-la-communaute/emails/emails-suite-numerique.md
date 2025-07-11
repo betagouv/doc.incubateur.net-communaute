@@ -197,9 +197,11 @@ Gmail utilise le protocole POP qui importe les mails sur Gmail et les supprime d
   * [ ] Cliquez sur votre calendrier beta.gouv
   * [ ] Allez dans la barre en haut => fichier => importer
 
-#### 4.6 Importer l’agenda OpenXchange dans gcalendar
+#### 4.6 Importer l’agenda OpenXchange dans un client tiers
 
-Depuis OpenXchange, envoyer une invitation à l’adresse email gmail.\nDans gmail, copier le lien “Afficher l’agenda” indiqué dans l’email, et l’ajouter en tant que nouveau calendrier dans gcalendar.
+Depuis OpenXchange, au moment de partager l'agenda, envoyer une invitation à l’adresse email destinataire.
+
+Dans le client, copier le lien “Afficher l’agenda” indiqué dans l’email, et l’ajouter en tant que nouveau calendrier.
 
 ## Etape 5 : Partage de calendriers entres collègues
 

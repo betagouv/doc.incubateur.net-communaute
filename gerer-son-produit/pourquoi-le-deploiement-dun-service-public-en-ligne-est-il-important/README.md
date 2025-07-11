@@ -2,17 +2,6 @@
 description: >-
   L'importance du déploiement dans la construction et le développement d'un
   service numérique public
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # 📈 Le déploiement
@@ -30,16 +19,16 @@ On ne passe pas du temps de développement sur un produit sans vérifier qu’il
   * Les professionnels de santé n’ont pas été assez embarqués.
   * Le produit a été construit sans mettre les utilisateurs dans la discussion.
 
-“_La difficulté à laquelle nous sommes clairement confrontés est que les professionnels de santé ne se sont pas appropriés ce dossier médical_” - Marisol Touraine, alors ministre de la santé&#x20;
+“_La difficulté à laquelle nous sommes clairement confrontés est que les professionnels de santé ne se sont pas appropriés ce dossier médical_” - Marisol Touraine, alors ministre de la santé
 
 * Le résultat : pas d’impact et un demi-milliard pour rien.
 
-![](<../../.gitbook/assets/image (3).png>)
+<img src="../../.gitbook/assets/image (3).png" alt="" data-size="original">
 {% endhint %}
 
-## Comment construire sa stratégie de déploiement ?&#x20;
+## Comment construire sa stratégie de déploiement ?
 
-➡️ Quelques pages pour t'aider !&#x20;
+➡️ Quelques pages pour t'aider !
 
 {% content-ref url="chapitre-1.md" %}
 [chapitre-1.md](chapitre-1.md)

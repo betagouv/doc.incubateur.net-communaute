@@ -1,19 +1,8 @@
 ---
-icon: '2'
 description: >-
   L'objectif de cette seconde étape est d'analyser et s’aligner sur les
   conditions nécessaires à la réussite de la pérennisation
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
+icon: '2'
 ---
 
 # Évaluer les conditions et ressources nécessaires

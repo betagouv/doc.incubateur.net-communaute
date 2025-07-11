@@ -3,17 +3,6 @@ description: >-
   L'objectif de cette 4ème étape est de s'assurer de la conformité et la
   documentation nécessaires pour la sortie d'incubation
 icon: '4'
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # Préparer le service à la sortie d'incubation : check-list

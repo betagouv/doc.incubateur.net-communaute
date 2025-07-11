@@ -6,7 +6,7 @@ Chaque Startup d'Etat gère son infrastructure de façon **souveraine**. Certain
 
 L'équipe beta.gouv.fr propose des ressources partagées pour vous aider à démarrer; Ces services sont fournis en mode "best effort" par l'équipe animation, sans garantie de service.\
 \
-Tous les services disponibles sont présentés sur la page ["les outils de la communauté"](broken-reference/) et vous pouvez instancier ces services de votre côté si nécessaire.
+Tous les services disponibles sont présentés sur la page ["les outils de la communauté"](../../../les-outils-de-la-communaute/les-outils-de-la-communaute.md) et vous pouvez instancier ces services de votre côté si nécessaire.
 
 {% content-ref url="../../../les-outils-de-la-communaute/les-outils-de-la-communaute.md" %}
 [les-outils-de-la-communaute.md](../../../les-outils-de-la-communaute/les-outils-de-la-communaute.md)
@@ -29,8 +29,8 @@ Quel que soit votre choix d'hébergement, pensez à bien documenter votre infras
 {% hint style="info" %}
 Le label « SecNumCloud » est nécessaire seulement dans le cadre du champ d’application de l’[article 31 de la loi SREN](https://www.legifrance.gouv.fr/jorf/article\_jo/JORFARTI000049563610) , c'est à dire lorsqu'il y a une sensibilité particulière sur les données, qu'elles soient personnelles ou stratégiques.\
 \
-Le label « HDS » est indispensable si vous traitez des données de santé.\\
-
+Le label « HDS » est indispensable si vous traitez des données de santé.\
+\
 En cas de doute, vous pouvez contacter votre équipe juridique ou solliciter notre communauté sur mattermost, canal [\~domaine-juridique](https://mattermost.incubateur.net/betagouv/channels/domaine-juridique).
 {% endhint %}
 
@@ -44,12 +44,13 @@ Voici des exemples d'hébergeurs permettant d'héberger simplement une applicati
 
 | Service           | Normes                                 |
 | ----------------- | -------------------------------------- |
-| 🇫🇷 Scalingo     | HDS, Zone basé sur un IaaS SecNumCloud  |
-| 🇫🇷 Clever Cloud | HDS                                     |
-| 🇫🇷 Scaleway     | HDS                                     |
+| 🇫🇷 [Scalingo](https://scalingo.com/fr/acteurs-publics)     | HDS, Zone basé sur un IaaS SecNumCloud  |
+| 🇫🇷 [Clever Cloud](https://www.clever-cloud.com/fr/presentation/) | HDS                                     |
+| 🇫🇷 [Scaleway](https://www.scaleway.com/fr/)     | HDS                                     |
 
 {% hint style="info" %}
-Pour lancer un premier hébergement avec très peu de frais, certains incubateurs proposent des marchés publics sur des hébergeurs PaaS, c'est le cas de Scalingo avec l'incubateur de la DINUM (ISN) et de la Fabrique Numérique de l’Écologie. Rapprochez-vous des [responsables techniques d'incubateurs](/gerer-son-produit/gestion-au-quotidien/tech/to-do-liens-avec-les-referents-techs) pour en savoir plus.
+Pour lancer un premier hébergement avec très peu de frais, certains incubateurs proposent des marchés publics sur des hébergeurs PaaS, c'est le cas de Scalingo avec l'incubateur de la DINUM (ISN) et de la Fabrique Numérique de l’Écologie. Rapprochez-vous des [responsables techniques d'incubateurs](../../../gerer-son-produit/gestion-au-quotidien/tech/to-do-liens-avec-les-referents-techs.md) pour en savoir plus.
+
 {% endhint %}
 
 > Pour ces hébergeurs type `PaaS`, vous devez respecter les conventions de [The Twelve-factor app](https://12factor.net) mais bénéficiez de nombreux avantages : scaling et sauvegardes automatiques, outillage de monitioring intégré, prix attractif...
@@ -60,10 +61,10 @@ Si la charge de travail de votre application nécessite malgré tout un héberge
 
 | Service           | Normes                                    |
 | ----------------- | ----------------------------------------- |
-| 🇫🇷 Outscale     | HDS, SecNumCloud                            |
-| 🇫🇷 OVH          | HDS, SecNumCloud sur certaines ressources   |
-| 🇫🇷 Cloud Temple | HDS, SecNumCloud                            |
-| 🇫🇷 Scaleway     | HDS                                         |
+| 🇫🇷 [Outscale](https://fr.outscale.com/cloud-experience/cloud-souverain/)     | HDS, SecNumCloud                            |
+| 🇫🇷 [OVH](https://www.ovhcloud.com/fr/public-cloud/)          | HDS, SecNumCloud sur certaines ressources   |
+| 🇫🇷 [Cloud Temple](https://www.cloud-temple.com/produits/) | HDS, SecNumCloud                            |
+| 🇫🇷 [Scaleway](https://www.scaleway.com/fr/)     | HDS                                         |
 
 
 ### Coûts cachés : IaaS vs PaaS/Serverless
