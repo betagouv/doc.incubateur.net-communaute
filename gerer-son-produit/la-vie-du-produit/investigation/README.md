@@ -30,8 +30,8 @@ Vous pouvez parcourir les pages de ce guide pour obtenir de plus amples informat
 [choisir-ses-outils.md](choisir-ses-outils.md)
 {% endcontent-ref %}
 
-{% content-ref url="definir-et-mesurer-limpact.md" %}
-[definir-et-mesurer-limpact.md](definir-et-mesurer-limpact.md)
+{% content-ref url="../../../gerer-son-produit/guide-de-financement-des-startups-detat/4.-lenjeu-du-pilotage-par-limpact.md" %}
+[4.-lenjeu-du-pilotage-par-limpact.md](../../../gerer-son-produit/guide-de-financement-des-startups-detat/4.-lenjeu-du-pilotage-par-limpact.md)
 {% endcontent-ref %}
 
 {% content-ref url="comment-repondre-a-un-sponsor-qui-demande-une-roadmap-produit.md" %}
@@ -45,4 +45,3 @@ Vous pouvez parcourir les pages de ce guide pour obtenir de plus amples informat
 {% content-ref url="lespace-collaboratif-dincubation-produit-sur-figjam.md" %}
 [lespace-collaboratif-dincubation-produit-sur-figjam.md](lespace-collaboratif-dincubation-produit-sur-figjam.md)
 {% endcontent-ref %}
-
