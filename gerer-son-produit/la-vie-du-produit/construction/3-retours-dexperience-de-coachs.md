@@ -78,8 +78,8 @@ hidden: true
 [choisir-ses-outils.md](../investigation/choisir-ses-outils.md)
 {% endcontent-ref %}
 
-{% content-ref url="../investigation/definir-et-mesurer-limpact.md" %}
-[definir-et-mesurer-limpact.md](../investigation/definir-et-mesurer-limpact.md)
+{% content-ref url="../../../gerer-son-produit/guide-de-financement-des-startups-detat/4.-lenjeu-du-pilotage-par-limpact.md" %}
+[4.-lenjeu-du-pilotage-par-limpact.md](../../../gerer-son-produit/guide-de-financement-des-startups-detat/4.-lenjeu-du-pilotage-par-limpact.md)
 {% endcontent-ref %}
 
 {% content-ref url="../../../travailler-chez-beta.gouv.fr/les-differents-metiers/developpeur.se/kit-de-demarrage.md" %}
