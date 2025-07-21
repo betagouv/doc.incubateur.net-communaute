@@ -12,13 +12,13 @@ gestion technique.
 
 ### Bénéfices pour l'usager et l'équipe
 
-Pour l'usager, l'architecture Cloud garantit :
+Pour l'usager, l'architecture Cloud garantit :
 
 - Un service accessible en permanence
 - Des temps de réponse optimisés
 - Une expérience fluide même en cas de forte affluence
 
-Pour l'équipe, elle apporte :
+Pour l'équipe, elle apporte :
 
 - Une réduction des tâches de maintenance infrastructure
 - Une capacité d'adaptation rapide aux besoins métier

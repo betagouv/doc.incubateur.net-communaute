@@ -17,7 +17,7 @@ automatiquement ajusté avec `make fix-filenames`.
 
 Pour garantir l'homogénéité des règles, le linter
 [markdownlint](https://github.com/DavidAnson/markdownlint) est utilisé
-pour les fiches, par exemple :
+pour les fiches, par exemple :
 
 - les titres ne doivent pas finir par des points ;
 - le corps de texte ne doit pas dépasser 80 caractères ;
@@ -30,10 +30,10 @@ et installer [une extension pour votre
 éditeur](https://github.com/DavidAnson/markdownlint?tab=readme-ov-file#related).
 
 Deux extensions sont automatiquement recommandées pour les
-utilisateurs de VSCode : le linter ainsi qu'un plugin qui permet
+utilisateurs de VSCode : le linter ainsi qu'un plugin qui permet
 d'aligner le texte sur 80 colonnes (avec la commande Alt-Q).
 
-Pour lancer le linting :
+Pour lancer le linting :
 
 ```sh
 make lint
@@ -41,13 +41,13 @@ make lint
 
 ## Export
 
-Un script est disponible pour exporter tous les standards au format YAML :
+Un script est disponible pour exporter tous les standards au format YAML :
 
 ```sh
 make export
 ```
 
-Le fichier résultant (`./standards-beta.yml`) aura cette forme :
+Le fichier résultant (`./standards-beta.yml`) aura cette forme :
 
 ```yml
 ---
@@ -79,6 +79,6 @@ Le fichier résultant (`./standards-beta.yml`) aura cette forme :
 
 ## Feuille de route
 
-- [X] remplir les descriptions : pourquoi règle X ? peut-être même une checklist pour vérifier [façon WCAG](https://www.w3.org/TR/2016/NOTE-WCAG20-TECHS-20161007/H90))
+- [X] remplir les descriptions : pourquoi règle X ? peut-être même une checklist pour vérifier [façon WCAG](https://www.w3.org/TR/2016/NOTE-WCAG20-TECHS-20161007/H90))
 - [ ] enlever les questions trop floues (i.e "le service est frugal" pas facile à vérifier)
 - [ ] rajouter des propriétés

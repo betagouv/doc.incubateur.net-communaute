@@ -2,7 +2,7 @@
 
 ## Description
 
-Le produit doit respecter ses obligations déclaratives :
+Le produit doit respecter ses obligations déclaratives :
 
 1. Publication de la déclaration d'accessibilité
 2. Lien vers le schéma pluriannuel
@@ -10,14 +10,14 @@ Le produit doit respecter ses obligations déclaratives :
 
 ### Publication de la déclaration d'accessibilité
 
-Le produit doit :
+Le produit doit :
 
 - afficher l’état de conformité du site sur la page d’accueil
 - publier une déclaration de conformité
 
 Ces obligations sont valables dès la mise en ligne du site, même si le
 produit n'a pas encore été audité (on indiquera alors la mention
-"Accessibilité : non conforme")
+"Accessibilité : non conforme")
 
 La déclaration de conformité d'accessibilité est un document
 présentant un état des lieux de conformité d'un produit (taux de
@@ -33,14 +33,14 @@ depuis 2021).
 
 Le produit doit référencer la politique d’accessibilité de son
 organisation via un schéma pluri-annuel. Ce document contient entre
-autres :
+autres :
 
 - des informations sur la personne référente accessibilité numérique
 - les formations et sensibilisations à l'accessibilité prévues
 - l'organisation interne prévue pour mettre en œuvre l'accessibilité
 - etc
 
-Le produit doit référencer un schéma, parmi :
+Le produit doit référencer un schéma, parmi :
 
 - le schéma pluriannuel de son incubateur (s'il existe)
 - le schéma pluriannuel de son administration sponsor - à retrouver
@@ -51,7 +51,7 @@ Le produit doit référencer un schéma, parmi :
 
 L'équipe propose ensuite un plan d'action pour l'année en cours. Il
 s'agit d'une liste ou d'un tableau indiquant les grandes étapes de
-mise en accessibilité. Par exemple :
+mise en accessibilité. Par exemple :
 
 - Refonte vers le DSFR et amélioration de l'accessibilité du front - S1 2025
 - Formation en interne (atelier Easy Checks menés par beta.gouv.fr- - S1 2025

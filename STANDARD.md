@@ -7,11 +7,11 @@ Nous les voulons claires, utiles et actionnables pour aider la communauté
 
 ## Structure et exemple type
 
-Ils suivent une structure précise :
+Ils suivent une structure précise :
 
-* **Description** : présentation et valorisation du standard
-* **Ressource**s : liste de liens pour en apprendre plus
-* **Critères** : liste d'actions à
+* **Description** : présentation et valorisation du standard
+* **Ressource**s : liste de liens pour en apprendre plus
+* **Critères** : liste d'actions à
   appliquer/vérifier pour valider le standard
 
 Cette structure est démontrée ici via un exemple de standard pour...
@@ -25,7 +25,7 @@ Cette structure est démontrée ici via un exemple de standard pour...
 Un standard s'articule autour d'un point précis dont la valeur finale
 (pour l'utilisateur, ou l'équipe) doit être immédiatement
 apparente. Pourquoi est-ce utile et important ? Le contenu Markdown
-est autorisé et permet de développer si nécessaire :
+est autorisé et permet de développer si nécessaire :
 
 ### L'utilité et l'importance du standard
 
@@ -38,7 +38,7 @@ startup.
 
 ### Favoriser la finalité plutôt que l'outil
 
-Le standard doit favoriser le pourquoi plutôt que le comment :
+Le standard doit favoriser le pourquoi plutôt que le comment :
 « utiliser le Système de Design de l'État (DSFR) » n'est pas une
 finalité, « produire du code accessible » oui.
 
@@ -47,14 +47,14 @@ finalité, « produire du code accessible » oui.
 Priviliégiez des phrases courtes et simples pour appuyer votre
 standard, dans un langage accessible à tous.
 
-Privilégiez la voie active à la voie passive : "l'équipe respecte ses
+Privilégiez la voie active à la voie passive : "l'équipe respecte ses
 obligations déclaratives" plutôt que "les obligations déclaratives
 sont respectées par l'équipe".
 
 ### Proposer des ressources concrètes
 
 Les ressources permettent de mieux comprendre le standard, et doivent
-rester concrètes : évitez de pointer vers d'autres standards ou guides
+rester concrètes : évitez de pointer vers d'autres standards ou guides
 qui risquent de perdre le lecteur dans une multitude de ressources
 difficiles à finir. Des études concrètes ou des articles de presse
 sont les bienvenus.
@@ -67,10 +67,10 @@ sont les bienvenus.
 ## Critères
 
 - le standard justifie sa valeur grâce à un mode de rédaction
-  empathique : pour qui est-ce important ?
-- le standard est facile à comprendre : rédigé de façon claire et
+  empathique : pour qui est-ce important ?
+- le standard est facile à comprendre : rédigé de façon claire et
   succinte, il ne se substitue pas à un outil pédagogique et propose
   des ressources concrètes à cet effet
-- le standard est facile à valider : les critères sont binaires et
+- le standard est facile à valider : les critères sont binaires et
   simples à vérifier.
 ```

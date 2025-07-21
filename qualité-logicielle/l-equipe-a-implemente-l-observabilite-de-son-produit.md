@@ -3,14 +3,14 @@
 ## Description
 
 Pour bien opérer votre produit il est essentiel de garantir la bonne
-observabilité de celui-ci : savoir en temps réel ce qu'il émet,
+observabilité de celui-ci : savoir en temps réel ce qu'il émet,
 comment il se comporte et les potentiels erreurs qu'il produit.
 
 La bonne supervision de votre produit permet de rassurer l'équipe une
 fois que le code source est en production, dans les mains de vos
 utilisatrices et utilisateurs.
 
-L'observabilité se joue à plusieurs niveaux :
+L'observabilité se joue à plusieurs niveaux :
 
 ### Capture et gestion des erreurs
 
@@ -31,7 +31,7 @@ pour être facilement analysés.
 
 Pour garantir une bonne qualité de service il est essentiel de mesurer
 la performance ressentie par vos utilisateurs au moyen de divers
-métriques : temps moyen des requêtes,
+métriques : temps moyen des requêtes,
 [Apdex](https://fr.wikipedia.org/wiki/Apdex), pages lentes, etc.
 
 ## Critères

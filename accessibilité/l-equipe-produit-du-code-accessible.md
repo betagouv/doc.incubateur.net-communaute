@@ -8,7 +8,7 @@ l'accessibilité d'un service (environ 60 % des critères du RGAA est
 relatif au code).
 
 Produire du code sémantique est donc essentiel. Pour cela, l'équipe
-doit s'assurer de mettre en oeuvre le maximum, par exemple :
+doit s'assurer de mettre en oeuvre le maximum, par exemple :
 
 - Utiliser un design système accessible (par exemple, le DSFR)
 - Avoir des compétences front-end en interne

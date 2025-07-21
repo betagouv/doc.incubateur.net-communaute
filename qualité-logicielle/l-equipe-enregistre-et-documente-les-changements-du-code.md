@@ -3,26 +3,26 @@
 ## Description
 
 Votre équipe utilise un système de contrôle de version distribué pour
-documenter et tracer l'évolution du code (type : Git).
+documenter et tracer l'évolution du code (type : Git).
 
 Au delà de la simple utilisation d'un système de version, il est
-essentiel d'entretenir un historique des changements clair et rédigé :
+essentiel d'entretenir un historique des changements clair et rédigé :
 vos commits ne doivent pas se limiter à des résumés (`git commit -m
 "résumé"`) mais apportent aussi une description en sous-texte sauf
 quand le changement est vraiment explicite.
 
 Un historique détaillé et bien documenté apporte des bénéfices
-concrets :
+concrets :
 
-- **Compréhension du code** : chaque modification est expliquée et
+- **Compréhension du code** : chaque modification est expliquée et
   contextualisée
-- **Investigation technique** : `git blame` permet d'identifier
+- **Investigation technique** : `git blame` permet d'identifier
   rapidement la raison d'une modification
-- **Collaboration future** : les nouveaux développeurs comprennent les
+- **Collaboration future** : les nouveaux développeurs comprennent les
   décisions passées
-- **Maintenance facilitée** : l'historique sert de documentation pour
+- **Maintenance facilitée** : l'historique sert de documentation pour
   retrouver l'origine des bugs ou fonctionnalités
-- **Traçabilité des décisions** : les choix techniques sont conservés
+- **Traçabilité des décisions** : les choix techniques sont conservés
   et justifiés dans le temps
 
 L'équipe privilégie un historique propre en regroupant les

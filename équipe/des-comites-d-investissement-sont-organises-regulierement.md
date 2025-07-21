@@ -9,7 +9,7 @@ produit et d'arbitrer sur les objectifs et les investissements
 consentis par les administrations qui financent le service.
 
 Au-delà du pilotage régulier par l’impact, le comité revêt d’autres
-fonctions :
+fonctions :
 
 - rappeler et sensibiliser les directions générales à la démarche
   beta.gouv.fr

@@ -2,7 +2,7 @@
 
 ## Description
 
-Les fiches produits sont une véritable mine d'or à Beta : elles
+Les fiches produits sont une véritable mine d'or à Beta : elles
 permettent de suivre les travaux de la communauté, de savoir qui
 travaille sur quoi et de trouver des projets connexes.
 

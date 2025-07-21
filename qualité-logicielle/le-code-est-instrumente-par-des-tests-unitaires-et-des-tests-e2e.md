@@ -8,15 +8,15 @@ tests automatisés.
 
 Il existe énormément de façon de tester votre code (la fameuse
 Pyramide des Tests), mais pour l'essentiel des services développés à
-beta.gouv.fr nous articulons deux types essentiels :
+beta.gouv.fr nous articulons deux types essentiels :
 
 1. Les tests unitaires qui permettent de tester les unités métiers
-   critiques de votre code : « lorsque ma fonction reçoit ce paramètre,
+   critiques de votre code : « lorsque ma fonction reçoit ce paramètre,
    je m'attend à ce résultat »
 
 2. Les tests bout-en-bout, ou end-to-end (E2E) qui permettent de
    tester votre parcours utilisateur du point de vue de
-   l'utilisateur : « lorsque je navigue sur mon profil et que je
+   l'utilisateur : « lorsque je navigue sur mon profil et que je
    clique sur le bouton "Déconnexion", alors la page contient
    "Accueil" »
 

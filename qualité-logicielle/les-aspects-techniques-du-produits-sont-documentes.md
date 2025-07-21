@@ -8,7 +8,7 @@ de son architecture.
 
 Si votre équipe de développement devait s'absenter demain, le code
 doit rester compréhensible et actionnable grâce à un système de
-documentation qui peut revêtir plusieurs formes :
+documentation qui peut revêtir plusieurs formes :
 
 - une documentation littéraire (documents Markdown dédiés, README,
   etc)

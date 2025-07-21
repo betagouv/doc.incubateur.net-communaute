@@ -2,7 +2,7 @@
 
 ## Description
 
-La méthode beta.gouv.fr est centrée autour de l'utilisateur : elle
+La méthode beta.gouv.fr est centrée autour de l'utilisateur : elle
 encourage la conception des produits avec eux, et encourage
 naturellement les retours qu'ils peuvent en faire.
 

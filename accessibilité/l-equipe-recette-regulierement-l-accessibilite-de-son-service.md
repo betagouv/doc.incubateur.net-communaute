@@ -8,13 +8,13 @@ par exemple en naviguant au clavier.
 
 Recetter manuellement permet d'éviter la dette d'accessibilité et de
 maintenir un niveau minimal de qualité. Cette régularité peut varier
-selon l'organisation de l'équipe :
+selon l'organisation de l'équipe :
 
 - à chaque nouvelle fonctionnalité
 - de manière mensuelle/trimestrielle/semestrielle
 - ...
 
-Recetter régulièrement plutôt qu'au dernier moment permet de :
+Recetter régulièrement plutôt qu'au dernier moment permet de :
 
 - résorber la dette d'accessibilité au fur et à mesure
 - recetter de plus en plus efficacement avec l'expérience

@@ -7,7 +7,7 @@ qu'elle est pensée près des usagers, conçue autour de leurs besoins
 avant tout et exige pour cela que le produit soit piloté par un agent
 public, issu de l'environnement cible du produit.
 
-La présence de l'agent public garantir :
+La présence de l'agent public garantir :
 
 - une meilleure proximité au terrain et à ses utilisateurs
 - une meilleure compréhension de problématiques métier qui dépassent
