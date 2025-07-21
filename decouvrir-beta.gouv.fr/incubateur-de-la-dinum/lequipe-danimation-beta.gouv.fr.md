@@ -17,7 +17,6 @@ L’incubateur de la DINUM est constitué d’une trentaine de personnes (agents
 Elle est constituée de 4 agents :
 
 * **Ishan Bhojwani**, Chef du département Incubateur de Services numériques
-* **Arthur Hatchuel**, Adjoint au Chef du département
 * **Alice Pannetrat,** Directrice des opérations
 * **Emmanuelle Graff**, Responsable de coordination administrative et financière
 
@@ -30,7 +29,7 @@ Les [**responsables de portefeuille** ](../../travailler-chez-beta.gouv.fr/les-d
 * **Estelle Saget** : Jeunesse et Vie Associative, Solidarités et Inclusion, Justice
 * **Maël Inizan** : Logement
 * **Adrien Zemour** : Territoire, Affaires Etrangères, Transition Ecologique et Culture
-* **Arthur Hatchuel par interim de Magali Marcel-Garreau** : Economie et Finances publiques, Agriculture
+* **Magali Marcel-Garreau** : Economie et Finances publiques, Agriculture
 * **Thibault Desjardins** : Intérieur, Armées et Travail
 
 ### :bullettrain\_front: Le pôle Accélération
@@ -39,7 +38,6 @@ Ce pôle est en charge du [Fond d'Accélération des Startups d'Etat et de Terri
 
 * **Paul Burgun**, Responsable du pôle
 * **Claire Duizabo**, Experte accélération
-* **Gauthier Nadaud**, Expert accélération
 * **Chaïb Martinez**, Expert accélération
 * **John Labuzan**, Expert accélération
 * **Octave Bory**, Expert accélération
@@ -48,18 +46,15 @@ Ce pôle est en charge du [Fond d'Accélération des Startups d'Etat et de Terri
 
 Le pôle garantit un environnement de travail le plus attractif possible, anime et outille le réseau des incubateurs ministériels, des intrapreneurs et des EIG, et fournit des expertises aux Startups d’État (tech, accessibilité...). Il est composé de :
 
-<figure><img src="../../.gitbook/assets/screen_equipe animation.png" alt=""><figcaption></figcaption></figure>
-
 * **Benjamin Doberset,** responsable de pôle
-* **Marine Purson**, référente relations institutionnelles et de la communication
+* **Marine Purson**, adjointe en charge des relations institutionnelles et de la communication
 * **Julien Bouquillon,** référent technique (CTO) de la communauté
 * **Stéphane Maniaci,** référent qualité tech (Tech Lead)
-* **Lucas Charrier**, développeur en charge des outils tech de la communauté
-* **Amel Alili**, chargée d'assistance et du support
+* **Amel Alili**, chargée du support utilisateurs
 * **Anne-Sophie Tranchet**, référente accessibilité et design
 * **Divine Tende** (alternante), chargée d'animation de communauté et de communication
 * **Nicolas Tourneur,** chargé des ressources humaines de la communauté
-* **Marine-Pétroline Soichot,** chargée d'ingéniérie pédagogique
+* **Marine-Pétroline Soichot,** chargée d'ingénierie pédagogique
 
 L'animation de la communauté beta.gouv.fr n'est pas l'exclusivité de l'incubateur de la DINUM : d'autres personnes peuvent et sont invitées à contribuer à la réussite du collectif (agents des incubateurs ministériels, freelances, etc.).
 
