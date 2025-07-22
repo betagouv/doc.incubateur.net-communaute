@@ -7,11 +7,11 @@ dizaines voir centaines de librairies qui vous permettent de vous
 concentrer sur le développement de votre produit plutôt que de
 reconstruire les mêmes briques de la grande pyramide du web.
 
-Cette vélocité démultipliée vient avec un coût : celui de surveiller
-en permanence ces dépendances qui sont comme votre produit sujettes à
-des vulnérabilités, que ce soit par inadvertance ou par exploitation :
-le flux des alertes levées dans le monde logiciel est continu, que ce
-soit [la liste des alertes levées recensées par
+Cette rapidité de développement a un prix : il faut surveiller en
+permanence ces dépendances, qui sont comme votre produit sujettes à
+des vulnérabilités introduites par inadvertance ou par malice. Le flux
+des alertes levées dans le monde logiciel est continu, que ce soit [la
+liste des alertes levées recensées par
 GitHub](https://github.com/advisories) ou [celles recensées par
 l'ANSSI](https://cert.ssi.gouv.fr/alerte/).
 
