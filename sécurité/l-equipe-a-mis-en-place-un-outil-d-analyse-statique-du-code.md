@@ -6,11 +6,11 @@ L'analyse statique du code fournit une relecture de votre code et
 permet de déceler toute sorte de problèmes : complexité des fonctions,
 failles de sécurité, injections SQL, requêtes inefficientes, etc.
 
-Si les linters font déjà une première passe d'analyse statique de
-votre code, celle-ci se concentre généralement sur l'esthétique et le
-formattage du code : un outil spécialisé ira nettement plus loin dans
-son analyse et vous permettra de corriger des erreurs plus sévères que
-celles remontées par votre linter.
+Bien que les linters effectuent une première analyse statique de votre
+code, ils se concentrent généralement sur l'esthétique et le formatage
+de votre source : un outil spécialisé permet d'approfondir l'analyse
+et de corriger des erreurs plus graves que celles signalées par le
+linter.
 
 Si votre code est hébergé sur GitHub vous pouvez profiter de
 [CodeQL](https://codeql.github.com/), un outil très puissant d'analyse
