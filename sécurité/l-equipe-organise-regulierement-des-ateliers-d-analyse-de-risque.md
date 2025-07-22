@@ -7,10 +7,10 @@ problème, de vos utilisateurs et de vos objectifs : véritable coeur de
 la méthode, cette agilité s'applique aussi à la sécurité de votre
 produit.
 
-Pour mitiger les risques qui poursuivent votre produit, des ateliers
+Pour anticiper les risques qui poursuivent votre produit, les ateliers
 d'analyse de risque permettent à votre équipe de faire le point sur la
-situation et de rester consciente des enjeux de sécurité tout au long
-de son existence.
+situation régulièrement et de rester consciente de ses enjeux de
+sécurité tout au long de son existence.
 
 Ces ateliers, recommandés par l'Agence nationale de la sécurité des
 systèmes d’information (ANSSI), sont à faire en équipe complète, à
