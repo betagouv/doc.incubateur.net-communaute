@@ -14,8 +14,9 @@ sécurité tout au long de son existence.
 
 Ces ateliers, recommandés par l'Agence nationale de la sécurité des
 systèmes d’information (ANSSI), sont à faire en équipe complète, à
-intervalles réguliers, pour vous assurez collectivement que votre
-produit profite d'une croissance saine, sans zones d'ombre.
+intervalles réguliers (à minima tous les 6 mois), pour vous assurez
+collectivement que votre produit profite d'une croissance saine, sans
+zones d'ombre.
 
 ## Critères
 
