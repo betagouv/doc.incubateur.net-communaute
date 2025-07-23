@@ -36,8 +36,9 @@ La DINUM reconnaît le métier particuliers des intras en délivrant une certifi
 
 Depuis 2025, une équipe est dédiée à l'accompagnement des intras et à l'animation de la communauté des intras :
 
-* Arthur Hatchuel, responsable adjoint de l'incubateur de la DINUM : arthur.hatchuel@beta.gouv.fr
 * Benjamin Doberset, responsable du pôle animation de l'incubateur de la DINUM : benjamin.doberset@beta.gouv.fr
+* Magali Marcel Garreau, responsable de portefeuille : magali.marcel@beta.gouv.fr
+* Marine Purson, responsable animation de la communauté beta.gouv.fr : marine.purson@beta.gouv.fr
 
 N'hésitez pas à les solliciter !
 
@@ -45,7 +46,7 @@ N'hésitez pas à les solliciter !
 
 Pour échanger entre intras ou avec les intras, il existe un canal public : [\~domaine-intrapreneurs](https://mattermost.incubateur.net/betagouv/channels/domaine-intrapreneurs)
 
-Pour échanger entre intras, il existe un canal privé : [\~domaine-intras-privé](https://mattermost.incubateur.net/betagouv/channels/domaine-intras-prive) (accessible sur invitation : demandez à Arthur Hatchuel ou Benjamin Doberset)
+Pour échanger entre intras, il existe un canal privé : [\~domaine-intras-privé](https://mattermost.incubateur.net/betagouv/channels/domaine-intras-prive) (accessible sur invitation : demandez à Magali Marcel-Garreau ou Marine Purson)
 
 ### Le club intras
 

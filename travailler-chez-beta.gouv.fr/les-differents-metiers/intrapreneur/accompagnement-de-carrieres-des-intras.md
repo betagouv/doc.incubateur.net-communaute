@@ -18,11 +18,11 @@ Cette démarche vise à renforcer la reconnaissance des intrapreneurs et à favo
 
 Nous offrons une offre de soutien aux intras qui rencontrent des problématiques RH sur leur poste :
 
-* Nous envisageons de pérenniser la clinique de gestion des situations difficiles mise en place lors du forum intras du 4 mars 2025.
+* La clinique de gestion des situations difficiles mise en place lors du forum intras du 4 mars 2025 sera pérennisée à partir de septembre 2024 (modalités à venir).
 * Un soutien RH pour les problèmes liés à l'administration (courriers de soutien, saisine de la DRH du numérique)
 
 {% hint style="info" %}
-Pour bénéficier de l'aide aux intras en difficulté, contacter arthur.hatchuel@beta.gouv.fr ou benjamin.doberset@beta.gouv.fr
+Pour bénéficier de l'aide aux intras en difficulté, contacter marine.purson@beta.gouv.fr, magali.marcel@beta.gouv.fr ou benjamin.doberset@beta.gouv.fr
 {% endhint %}
 
 ## Valoriser l'expérience intrapreneuriale
@@ -34,7 +34,7 @@ En 2025, notre objectif est de transformer l'intraprenariat en un levier de carr
 Un programme d'accompagnement individuel s'adresse aux intras volontaires. Il prend la forme d'entretiens et coaching individuels réalisés avec l'équipe beta.gouv.fr et une coach RH de la DINUM, Sophie Verdes le Faucheur. Ce programme est actuellement testé de manière expérimentale avec un suivi à deux mois et 10 intrapreneurs accompagnés.
 
 {% hint style="info" %}
-Pour bénéficier de l'accompagnement de carrière, contacter arthur.hatchuel@beta.gouv.fr ou benjamin.doberset@beta.gouv.fr
+Pour bénéficier de l'accompagnement de carrière, contacter marine.purson@beta.gouv.fr, magali.marcel@beta.gouv.fr ou benjamin.doberset@beta.gouv.fr
 {% endhint %}
 
 ### Renforcer la reconnaissance des compétences intrapreneuriales
