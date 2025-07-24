@@ -1,7 +1,7 @@
 ---
 description: >-
-  Cette formation donne 10 conseils facile à mettre en place pour vérifier
-  l'accessibilité de son service numérique
+  Cet atelier propose 10 vérifications faciles à tester pour avoir une première
+  idée de l'accessibilité de son service numérique
 ---
 
 # 10 choses faciles à vérifier pour un site plus accessible
