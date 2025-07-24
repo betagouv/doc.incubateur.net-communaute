@@ -6,15 +6,11 @@ description: >-
 
 # 10 choses faciles à vérifier pour un site plus accessible
 
-### Support de présentation
+{% hint style="success" %}
+Retrouvez le support de présentation de l'atelier **Easy Checks - Vérifier rapidement l'accessibilité :**&#x20;
+{% endhint %}
 
-Retrouvez les 10 choses faciles à tester avec des exemples concrets (des vrais bouts de SE dedans !) dans le support de présentation.
-
-{% file src="../../../../.gitbook/assets/accessibilite-easy-checks-1-.pdf" %}
-Support de présentation
-{% endfile %}
-
-###
+{% file src="../../../../.gitbook/assets/Atelier « Vérifier l'accessibilité » - 2025_compressed.pdf" %}
 
 ### La grille d'évaluation
 
