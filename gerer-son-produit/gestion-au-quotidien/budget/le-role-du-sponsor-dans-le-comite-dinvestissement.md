@@ -2,24 +2,28 @@
 
 ## Qu'est-ce qu'un comité d'investissement ?
 
-Le comité d'investissement réunit l'équipe du produit, le(s) sponsor(s) et les parties prenantes, avec pour **objectif principal** de décider, au regard de l'impact, du montant à investir sur les 6 prochains mois. Il permet de faire le point sur l'atteinte des objectifs fixés précédemment, de fixer les prochains objectifs et d'**arbitrer les investissements**. Le comité d'investissement décide de continuer ou d'arrêter un service en fonction de son utilité et de ses résultats.
+Le comité d’investissement réunit l’équipe produit, le(s) sponsor(s) et les parties prenantes, avec pour objectif de décider, au regard de l’impact et de l’efficience, du montant à investir sur les 6 prochains mois. Il permet de :
+* faire le point sur les objectifs d’impact fixés précédemment ;
+* évaluer l’utilité réelle pour les usagers ;
+* examiner l’efficience du service ;
+* décider de continuer, d’ajuster ou d’arrêter un service.
+
+Le comité n’est **pas** une instance de suivi des fonctionnalités, mais une instance de **pilotage par l’impact**.
 
 ## Quelle forme prend un comité d'investissement ?
 
-Le format du comité d'investissement est structuré, avec un ordre du jour précis. Il se découpe généralement en 2 grandes phases :\
-\
-Première partie (\~30 min) : présentation et échances
+Le comité est structuré avec un ordre du jour précis, découpé en deux phases :
 
-* **Présentation des résultats** atteints sur la période écoulée
-* **Objectifs d'impact** pour les 6 prochains mois
-* **Demande de** **budget** pour atteindre les objectifs proposés
-* Si besoin, remontée de blocages institutionnels et demandes d'aide de l'équipe
-* Questions/réponses et discussion
+Présentation et échanges (~30 min)
+* Résultats d’impact, d’usage, d’utilité et d’efficience sur la période écoulée (avec indicateurs clés : coût à l’impact, coût à l’utilisation, etc.).
+* Objectifs d’impact pour les 6 prochains mois.
+* Budget demandé en lien avec ces objectifs.
+* Points de blocage éventuels nécessitant un arbitrage.
+* Questions/réponses.
 
-Deuxième Partie (\~20 min):
-
-* Délibération en présence ou non de l'équipe
-* **Annonce de la décision d'investissement** par le sponsor
+Délibération et décision (~20 min)
+Le sponsor et les parties prenantes délibèrent (avec ou sans l’équipe).
+La décision d’investissement est annoncée à l’équipe en fin de comité.
 
 ## Qui participe ?
 
@@ -33,54 +37,57 @@ Le comité est obligatoirement composé de :
 
 ## Qui est le sponsor ?
 
-Le sponsor est **l'investisseur**, celui ou celle qui **donne le budget et l'autonomie** nécessaire à l'équipe pour obtenir de l'impact. Le plus souvent ce sont des directeurs d'administration "métiers" mais cela peut être une ministre, un incubateur ou une collectivité.
+Le sponsor est **l’investisseur public** qui apporte budget et autonomie pour obtenir de l’impact réel.
+Il n’achète pas des fonctionnalités, mais **investit pour générer un résultat concret, utile et mesurable sur la politique publique**.
 
-## Quel est le rôle et la posture du sponsor ?
+## Quelle posture doit adopter le sponsor ?
 
-Le sponsor écoute et questionne l'équipe en charge du produit. Il prend ensuite une décision budgétaire. Le sponsor n'achète pas une prestation de développement, **il n'achète pas des fonctionnalités** ou des lignes de codes, mais **il investit pour obtenir un résultat concret**, un impact.
-
-Pour prendre la meilleure décision d'investissement, le sponsor préfèrera challenger l'équipe sur ses résultats et ses objectifs d'impact, (par exemple en demandant des précisions sur le ratio coût/impact) plutôt que sur les prochaines fonctionnalités, ou sur la ventilation de son budget.\
-\
-Le retour sur investissement d'un service publique numérique est rarement mesurable en euros. Le sponsor investisseur doit donc questionner/challenger l'équipe sur son choix de métrique d'impact. Le sponsor doit s'assurer que la mesure reflète bien l'objectif de politique publique visée.
+* Écouter et questionner l’équipe sur ses résultats d’impact et d’efficience, pas sur les fonctionnalités.
+* Challenger l’équipe sur le ratio coût / impact et le choix des métriques d’impact.
+* Encourager l’équipe à distinguer utilité pour l’usager et impact sur la politique publique.
+* Vérifier que le coût par unité d’impact ou d’utilité diminue avec le temps.
+* Veiller à ce que l’équipe suive la matrice d’impact DINUM : utilisable, utilisé, utile, impactant, efficient.
 
 <figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
+## Sur quoi le sponsor évalue-t-il le service ?
+
+En appliquant la méthode d’évaluation par l’impact, le sponsor vérifie :
+* Utilisable : le service est simple et accessible (note de facilité d’usage, taux d’abandon).
+* Utilisé : le service est réellement adopté (part de marché, utilisateurs actifs, taux de rétention).
+* Utile : le service résout un irritant majeur (valeur générée, NPS/satisfaction).
+* Impactant : le service contribue positivement à la politique publique (impact mesuré, risques évités).
+* Efficient : le coût par utilisateur actif, par problème résolu ou par unité d’impact baisse ou reste maîtrisé.
+
+<figure><img src="../../.gitbook/assets/Matrice_Impact_V2.png" alt=""><figcaption><p>Matrice d'impact</p></figcaption></figure>
+
 ## Quelle décision doit prendre le sponsor ?
 
-En fonction de la maturité (l'âge) du produit, le sponsor vérifiera 2 choses:
+En fonction de la maturité et des résultats d’impact, le sponsor a 3 options :
+✅ Option 1 : Convaincu
+* Le budget est accordé pour 6 mois supplémentaires.
+🤔 Option 2 : À confirmer
+* Un budget provisoire (1-2 mois) est accordé, en demandant des preuves d’impact complémentaires avant décision finale.
+❌ Option 3 : Non convaincu
+* Aucun budget supplémentaire n’est accordé, l’équipe est dissoute, le produit s’arrête.
 
-* Le produit a eu un premier impact : l'équipe a-t-elle résolu un premier problème pour quelques utilisateurs ?
-* Le produit donne des perspectives intéressantes de passage à l'échelle : le coût pour résoudre le problème du 100ème ou du 10 000ème bénéficiaire est-il significativement plus faible que si la solution numérique n'existait pas ?
-
-\
-En fonction des explications de l'équipe, **3 options s'offrent au sponsor** :\
-\
-**Option 1 : 🤩 Vous êtes convaincu**
-
-* Vous accordez un budget à l'équipe.
-
-**Option 2 :🤔Vous n'êtes pas sûr**
-
-* Vous reconduisez temporairement (\~1 ou 2 mois) le même budget pour permettre à l'équipe d'apporter plus d'éléments concernant leur impact actuel ou futur. Vous organisez un nouveau comité. Vous pouvez demander à la DINUM de participer pour donner un avis extérieur.
-
-**Option 3 : ☹️Vous n'êtes pas du tout convaincu**
-
-* Vous n'accordez pas de budget, l'équipe est dissoute et le produit "meurt".
-
-**Attention : Le montant total d'investissement n'est pas un critère très pertinent.** D'ailleurs il est normal que le montant total soit très faible mais augmente d'un comité au suivant. **Le ratio coût/impact est à préférer** . Celui-ci baisse généralement d'un comité au suivant, parfois de plusieurs ordres de grandeur.
+⚠️ Attention :
+Le montant total investi n’est pas un critère suffisant. Le ratio coût/impact est prioritaire et doit s’améliorer à chaque comité.
 
 ## Comment préparer le comité ?
 
-Une semaine en amont, l'équipe envoie la présentation et le budget demandé.\
-\
-Le comité est avant tout une instance de décision budgétaire. C'est pourquoi le sponsor vérifie, plusieurs mois en amont, que la ligne budgétaire identifiée dispose, a minima, du montant consommé sur les 6 mois précédents.\
-\
-Le sponsor peut aussi se préparer en :
+L’équipe produit doit envoyer 1 semaine avant le comité :
+* présentation synthétique des résultats d’impact et des indicateurs pertinents ;
+* budget demandé et projection des coûts/impacts ;
+* blocages nécessitant arbitrage ;
+* objectifs d’impact pour les 6 mois à venir.
 
-* en consultant la page statistique de l'équipe ([disponible ici](https://beta.gouv.fr/startups)) ;
-* en lisant les éventuelles dernières newsletter de l'équipe ;
-* en partageant à l'équipe les dernières priorités, actualités et objectifs, liés au problème de politique publique que le produit vise résoudre ;
-* en envoyant en amont des questions à l'équipe produit.
+Le sponsor doit :
+* Vérifier la disponibilité des lignes budgétaires.
+* Consulter les indicateurs d’impact sur la page statistiques de l’équipe. ([disponible ici](https://beta.gouv.fr/startups)) ;
+* Lire les dernières newsletters ou bilans d’impact de l’équipe.
+* Partager ses priorités politiques en lien avec le produit.
+* Envoyer en amont des questions à l’équipe pour cadrer le comité.
 
 {% hint style="info" %}
 **Cas particulier : l'investigation**
@@ -97,8 +104,8 @@ S'il s'agit du premier comité d'investissement (aussi appelé comité de fin d'
 * **Demander à l'équipe d'ajouter une fonctionnalité.**\
   C'est l'équipe qui priorise les fonctionnalités en fonction des besoins des utilisateurs et des perspectives d'impact. Imposer une fonctionnalité va couter du temps et de l'argent à l'équipe, sans certitude que ce soit utile pour les utilisateurs.
 *   **Se contenter de mesures d'usages.**\
-    Les mesures d'usages ne permettent pas de savoir si le produit a un impact positif sur la politique publique concernée. Si l'équipe ne mesure pas, ou mal son impact, cela augmente fortement les risques que l'équipe priorise mal ses développements et ses dépenses. Par ailleurs, sans mesure de l'impact il est difficile de justifier de la bonne utilisation de l'argent public.\
-    \
+    Les mesures d'usages ne permettent pas de savoir si le produit a un impact positif sur la politique publique concernée. Si l'équipe ne mesure pas, ou mal son impact, cela augmente fortement les risques que l'équipe priorise mal ses développements et ses dépenses. Par ailleurs, sans mesure de l'impact il est difficile de justifier de la bonne utilisation de l'argent public.
 
-
-    <figure><img src="../../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
+## Pourquoi cette approche ?
+Le pilotage par l’impact garantit que chaque euro investi dans un service numérique public contribue réellement à la politique publique, de manière mesurable, transparente et exemplaire.
+Cette méthode aligne les comités d’investissement avec le futur marché interministériel DINUM et l’exigence d’efficience dans la commande publique.
