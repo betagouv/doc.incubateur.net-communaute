@@ -4,6 +4,11 @@ description: Tu nous quittes ? On espère que tu as passé un moment positif ave
 
 # 🚪 Quitter beta.gouv.fr
 
+{% hint style="info" %}
+**Un membre a quitté ton équipe ?**\
+Pour désactiver l'ensemble de ses accès aux outils, merci de remplir ce [formulaire](https://tally.so/r/wL4qaG).
+{% endhint %}
+
 ## Que faire avant sa date de fin de mission ?
 
 ### Si ta mission est prolongée
@@ -25,11 +30,6 @@ Tu peux mettre à jour tes dates de mission [sur l'espace-membre](../les-outils-
 * [ ] Faire un debrief d'une demi-heure de ton passage à l'Incubateur avec [un·e permanent·e](../decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/lequipe-danimation-beta.gouv.fr.md), pour qu'on puisse s'améliorer.
 * [ ] Annoncer la date de ton pot de départ sur [#general](https://mattermost.incubateur.net/betagouv/channels/town-square)
 * [ ] [Désactiver ton compte Mattermost](je-quitte-beta.gouv.fr.md#que-va-devenir-ton-compte-mattermost)
-
-{% hint style="info" %}
-**Un membre a quitté ton équipe ?**\
-Pour désactiver l'ensemble de ses accès aux outils, merci de remplir ce [formulaire](https://tally.so/r/wL4qaG).
-{% endhint %}
 
 ## Que se passe-t-il après ma date de fin de mission ?
 
