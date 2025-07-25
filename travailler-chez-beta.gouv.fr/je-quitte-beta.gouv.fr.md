@@ -26,6 +26,11 @@ Tu peux mettre à jour tes dates de mission [sur l'espace-membre](../les-outils-
 * [ ] Annoncer la date de ton pot de départ sur [#general](https://mattermost.incubateur.net/betagouv/channels/town-square)
 * [ ] [Désactiver ton compte Mattermost](je-quitte-beta.gouv.fr.md#que-va-devenir-ton-compte-mattermost)
 
+{% hint style="info" %}
+**Un membre a quitté ton équipe ?**\
+Pour désactiver l'ensemble de ses accès aux outils, merci de remplir ce [formulaire](https://tally.so/r/wL4qaG).
+{% endhint %}
+
 ## Que se passe-t-il après ma date de fin de mission ?
 
 ### Dès la date de fin de ta mission, nous lançons les démarches pour désactiver ton email et tes différents accès.
