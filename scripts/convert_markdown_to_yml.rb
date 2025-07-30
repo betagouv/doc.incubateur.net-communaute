@@ -21,6 +21,7 @@ class StandardsMarkdownFile
     extract_description
     extract_criteria
     extract_resources
+    extract_last_modified_timestamp
   end
 
   def extract_frontmatter
@@ -64,6 +65,10 @@ class StandardsMarkdownFile
     else
       section_text
     end
+  end
+
+  def extract_last_modified_timestamp
+    yml_data["last_modified_at"] = File.mtime(file_path)
   end
 end
 
