@@ -50,7 +50,9 @@ Il existe plusieurs outils qui permettent de valider l'accessibilité d'un PDF, 
 * que le PDF est bien construit
 * la présence de certaines **métadonnées** (ex : langue, titre du document…)
 * la présence des bonnes **balises** (tags)
-* les **contrastes** sont suffisant
+* la pertinence des **alternatives aux images**
+* les **contrastes** sont suffisants
+* l'**ordre de lecture**
 
 #### En ligne
 
