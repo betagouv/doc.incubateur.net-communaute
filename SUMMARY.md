@@ -84,6 +84,7 @@
       * [Communiquer sur les réseaux sociaux](travailler-chez-beta.gouv.fr/se-former/se-former-en-ligne/formation-a-laccessibilite/communiquer-sur-les-reseaux-sociaux.md)
       * [Dataviz et accessibilité](travailler-chez-beta.gouv.fr/se-former/se-former-en-ligne/formation-a-laccessibilite/dataviz-et-accessibilite.md)
       * [Cartographie et accessibilité](travailler-chez-beta.gouv.fr/se-former/se-former-en-ligne/formation-a-laccessibilite/cartographie-et-accessibilite.md)
+      * [PDF et Accessibilité](travailler-chez-beta.gouv.fr/se-former/se-former-en-ligne/formation-a-laccessibilite/pdf-et-accessibilite.md)
     * [Formations au déploiement](travailler-chez-beta.gouv.fr/se-former/se-former-en-ligne/deploiement/README.md)
       * [Les principes du growth hacking](travailler-chez-beta.gouv.fr/se-former/se-former-en-ligne/deploiement/les-principes-du-growth-hacking/README.md)
         * [L'acquisition](travailler-chez-beta.gouv.fr/se-former/se-former-en-ligne/deploiement/les-principes-du-growth-hacking/acquisition.md)
