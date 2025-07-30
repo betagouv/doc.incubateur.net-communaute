@@ -56,7 +56,7 @@ Il existe plusieurs outils qui permettent de valider l'accessibilité d'un PDF, 
 
 #### En ligne
 
-L'outil [check.axes4.com](https://check.axes4.com/en) permet de vérifier les métadonnées et la présence de balises. En revanche, il ne donne pas d'indication sur sur l’emplacement des erreurs.
+L'outil [check.axes4.com](https://check.axes4.com/en) permet de vérifier les métadonnées et la présence de balises. En revanche, il ne donne pas d'indication sur l’emplacement des erreurs.
 
 L'outil [pdfchecker.docaxess.com](https://pdfchecker.docaxess.com/) permet de vérifier les métadonnées et de visualiser l’arbre des balises. En revanche, il ne donne pas d'indication sur les non conformités.
 
