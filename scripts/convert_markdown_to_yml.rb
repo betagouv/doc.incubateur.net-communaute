@@ -68,7 +68,7 @@ class StandardsMarkdownFile
   end
 
   def extract_last_modified_timestamp
-    yml_data["last_modified_at"] = File.mtime(file_path)
+    yml_data['last_modified_on'] = File.mtime(file_path).to_date
   end
 end
 
