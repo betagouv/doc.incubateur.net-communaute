@@ -18,7 +18,7 @@ Les prochains forums mensuels auront lieu au Lieu de la transformation publique 
 * jeudi 4 septembre 2025 - thème : déploiement et impact
 * jeudi 2 octobre 2025 - thème : les standards de qualité numérique
 * jeudi 6 novembre 2025 - thème à définir
-* jeudi 4 décembre 2025 - thème à définir
+* mercredi 3 décembre 2025 - thème : intrapreneuriat public, co-organisé avec l'incubateur France Travail
 {% endhint %}
 
 ![Le forum beta.gouv.fr en juillet 2022, au Lieu de la transformation publique](../../../.gitbook/assets/IMG_8811.jpg)

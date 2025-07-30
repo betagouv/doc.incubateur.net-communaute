@@ -34,7 +34,9 @@ En 2025, notre objectif est de transformer l'intraprenariat en un levier de carr
 Un programme d'accompagnement individuel s'adresse aux intras volontaires. Il prend la forme d'entretiens et coaching individuels réalisés avec l'équipe beta.gouv.fr et une coach RH de la DINUM, Sophie Verdes le Faucheur. Ce programme est actuellement testé de manière expérimentale avec un suivi à deux mois et 10 intrapreneurs accompagnés.
 
 {% hint style="info" %}
-Pour bénéficier de l'accompagnement de carrière, contacter marine.purson@beta.gouv.fr, magali.marcel@beta.gouv.fr ou benjamin.doberset@beta.gouv.fr
+**Pour bénéficier de l'accompagnement de carrière, remplir ce** [**formulaire**](https://grist.numerique.gouv.fr/o/dinum/forms/aeJpK94c9FRdgPrdvSjtLT/10)**.**
+
+En cas de question, contacter marine.purson@beta.gouv.fr, magali.marcel@beta.gouv.fr ou benjamin.doberset@beta.gouv.fr
 {% endhint %}
 
 ### Renforcer la reconnaissance des compétences intrapreneuriales
