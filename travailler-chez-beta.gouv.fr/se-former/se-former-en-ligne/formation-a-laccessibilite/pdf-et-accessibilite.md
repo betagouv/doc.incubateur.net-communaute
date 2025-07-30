@@ -33,7 +33,7 @@ Selon l'outil utilisé, la marche à suivre va différer.
 Voici quelques exemples :
 
 * Côté logiciels en ligne ou bureautique :
-  * ✅ **Word** et **Libre Office** permettent de produire des PDFs accessibles. Voici la [checkliste de vérification](https://pad.numerique.gouv.fr/s/_X5s2m3dZ) pour ne rien oublier.
+  * ✅ **Word** et **Libre Office** permettent de produire des PDFs accessibles. Voici la [checkliste de vérification](https://design.numerique.gouv.fr/outils/checklist-pdf/) pour ne rien oublier.
   * ✅ **InDesign** et **AcrobatPro** permettent aussi de produire des PDFs accessibles. Voici les [notices](https://www.pdf-accessible.com/notices-accessibilite-indesign-acrobat/) décrivant la marche à suivre.
   * ✅ L'outil **Canva** propose une [documentation](https://www.canva.com/help/pdf-accessibility-features/) et des fonctionnalités dédiées à l'accessibilité.
   * 😬 En revanche, **Google Docs** et **Google Slides** ne produisent pas du tout des documents accessibles nativement ; mais en passant par un export vers Word ou PowerPoint, on peut toutefois produire des documents PDFs.
