@@ -58,7 +58,7 @@ Lorsqu'une nouvelle personne vient travailler avec vous, elle participe aussi à
 A titre indicatif, voici 2 éléments qui te permettront de trouver une juste rémunération/prix :
 
 * pour le recrutement en direct d’agent public, tu [peux regarder la grille dinum](https://www.numerique.gouv.fr/publications/referentiel-remuneration-filiere-numerique/)
-* pour les prestations, tu peux te baser sur[ l’observatoire des revenus de la communauté Beta.gouv](https://metabase.incubateur.net/public/dashboard/554ff353-6104-4c25-a261-d8bdc40f75d5?date_d%27arriv%25C3%25A9=past3years~)
+* pour les prestations, tu peux te baser sur[ l’observatoire des revenus de la communauté Beta.gouv](https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/les-differents-statuts/independants-freelances/observatoire-revenus)
 
 ## Garantir un accueil premium
 
