@@ -41,7 +41,7 @@ Voici quelques exemples :
   * ✅ [iText](https://itextpdf.com/) (Java), [PDFBox](https://pdfbox.apache.org/) (Java) ou [PDFKit](https://pdfkit.org/) (JavaScript) disposent d'API permettant de baliser les PDFs générés.
   * ❌ En revanche, les libs comme [pdf-lib](https://pdf-lib.js.org/) ou [react-pdf](https://react-pdf.org/components) ne semblent pas proposer suffisament de fonctionnalités d'accessibilité pour produire des documents balisés.
 
-En règle général, les fonctionnalité (si elles existent) ne sont pas toujours bien documentées. Il faut fouiller la documentation, regarder dans les issues ou faire des recherches avec les mots clés _A11Y_, _Tagged PDFs_ ou _PDF/UA_ pour trouver des informations...
+En règle général, les fonctionnalités (si elles existent) ne sont pas toujours bien documentées. Il faut fouiller la documentation, regarder dans les issues ou faire des recherches avec les mots clés _A11Y_, _Tagged PDFs_ ou _PDF/UA_ pour trouver des informations...
 
 ### Vérifier l'accessibilité d'un PDF
 
@@ -105,5 +105,5 @@ C'est le choix qu'a fait Métropole de Grenoble avec son formulaire de [Demande 
 * [**Documentation des balises PDF**](https://design.ipedis.com/5dda74a23/p/122882-overview) **:** cette documentation décrit les différentes balises et leurs usages.
 
 {% hint style="success" %}
-Si votre équipe a besoin d'aide pour une problématique relative à l'accessibilité des documents PDFs, n'hésitez pas à solliciter le [Pôle Numérique Inclusif](../../../../solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/aide-transverse-pole-numerique-inclusif.md).&#x20;
+Si votre équipe a besoin d'aide pour une problématique relative à l'accessibilité des documents PDFs, n'hésitez pas à solliciter le [Pôle Numérique Inclusif](../../../../solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/aide-transverse-pole-numerique-inclusif.md).
 {% endhint %}
