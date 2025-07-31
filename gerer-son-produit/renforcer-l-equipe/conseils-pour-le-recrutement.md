@@ -62,4 +62,4 @@ A titre indicatif, voici 2 éléments qui te permettront de trouver une juste r�
 
 ## Garantir un accueil premium
 
-Bien suivre [la procédure d'accueil proposée aux nouveaux membres de la communauté beta.gouv.fr](../../travailler-a-beta-gouv/bienvenue/).
+Bien suivre [la procédure d'accueil proposée aux nouveaux membres de la communauté beta.gouv.fr](https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/to-do-darrivee).
