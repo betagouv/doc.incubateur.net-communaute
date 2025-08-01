@@ -12,7 +12,6 @@ Il est aussi primordial de connaître les gestes de base des OS et des lecteurs 
 
 NB. Si vous développez une **application mobile hybride,** nous vous recommandons d’utiliser le package[ Flutter accessibility\_tools](https://pub.dev/packages/accessibility_tools) pour tester votre application.&#x20;
 
-\
 Pour finir, la norme en vigueur pour les applications mobiles est le [RAAM](https://accessibilite.public.lu/fr/raam1.1/index.html) (Référentiel d'évaluation de l'Accessibilité des Applications Mobiles).
 
 ## 1/ Contraste <a href="#docs-internal-guid-683b58cc-7fff-6d82-4ea1-fd367ecd3916" id="docs-internal-guid-683b58cc-7fff-6d82-4ea1-fd367ecd3916"></a>
@@ -61,8 +60,8 @@ Respecter au minimum pour toutes les zones d'interaction, une taille de **48dp x
 🧪 Comment tester ?&#x20;
 
 * Android et iOS : tester les éléments cliquables sur les extrémités et assurez-vous que cela conduit à l’action souhaitée, sinon vous pourrez avoir une discussion avec l’équipe pour revoir la taille des zones de tap.&#x20;
-* Android : il est aussi possible d’utiliser l’application mobile [Accessibility Scanner](https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.auditor\&hl=fr\&pli=1) pour avoir les résultats sur “la zone de cible tactile” et des recommandations.
-* iOS : il est aussi possible d’utiliser [Accessibility Inspector dans Xcode](https://developer.apple.com/documentation/accessibility/accessibility-inspector) pour avoir les résultats sur les “hit area” et des recommandations.
+  * Android : il est aussi possible d’utiliser l’application mobile [Accessibility Scanner](https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.auditor\&hl=fr\&pli=1) pour avoir les résultats sur “la zone de cible tactile” et des recommandations.
+  * iOS : il est aussi possible d’utiliser [Accessibility Inspector dans Xcode](https://developer.apple.com/documentation/accessibility/accessibility-inspector) pour avoir les résultats sur les “hit area” et des recommandations.
 
 ❤️ Vous remercieront : tout le monde pour interagir et finaliser une action, sans avoir la  sensation de taper à côté et d’être frustré.
 
@@ -72,7 +71,7 @@ Respecter au minimum pour toutes les zones d'interaction, une taille de **48dp x
 📱 RAAM : ce n’est pas encore un critère d’accessibilité mobile mais une bonne pratique reprise par les stores :)
 {% endhint %}
 
-## 4/ Orientation&#x20;
+## 4/ Orientation de l'écran
 
 Ne pas bloquer l’orientation en portrait de votre application, car certaines personnes ont des besoins à pouvoir utiliser votre application en paysage (comme un mobile fixé à un fauteuil roulant).
 
@@ -106,12 +105,11 @@ Comme sur le web, il faut pouvoir zoomer et agrandir le texte via le paramétrag
 
 🧪 Comment tester ?&#x20;
 
-Augmenter la taille du texte (pour s’approcher des 200% comme sur le web) et vérifier que les textes sont lisibles, la navigation toujours possible et qu’il ne manque pas d’éléments graphiques.&#x20;
-
-Pour Android et iOS : la taille de police est configurable depuis les réglages.
-
-* Android : depuis les paramètres, rechercher “ Taille de l’affichage” (dépend des surcouches des téléphones mobiles)
-* iOS : depuis les paramètres “Centre de contrôle” > “taille du texte”
+* Android et iOS : la taille de police est configurable depuis les réglages.
+  * Android : depuis les paramètres, rechercher “ Taille de l’affichage” (dépend des surcouches des téléphones mobiles)
+  * iOS : depuis les paramètres “Centre de contrôle” > “Taille du texte”
+* Augmenter la taille du texte (pour s’approcher des 200% comme sur le web)&#x20;
+  * Vérifier que les textes sont lisibles, la navigation toujours possible et qu’il ne manque pas d’éléments graphiques.&#x20;
 
 ❤️ Vous remercieront : les personnes malvoyantes, dyslexiques et toutes les personnes qui ont des préférences de lecture et de configuration de téléphone.&#x20;
 
@@ -133,8 +131,8 @@ Pour iOS, n’oubliez pas d’activer l’option dans Réglages > Accessibilité
 
 * Android et iOS :&#x20;
   * connectez le clavier,&#x20;
-  * et procédez au test pour vérifier qu’il n’y a pas de piège au clavier,&#x20;
-  * que les éléments de navigation sont activables (lien, boutons…)&#x20;
+  * naviguer pour vérifier qu’il n’y a pas de piège au clavier,&#x20;
+  * que les éléments de navigation sont activables (lien, boutons…),
   * que l’ordre est cohérent et correspond au sens de lecture.
 
 <details>
@@ -159,13 +157,10 @@ Pour iOS, n’oubliez pas d’activer l’option dans Réglages > Accessibilité
 
 💡 Pense-bête : le clavier permet également d’accéder aux lecteurs d’écran, pensez à les tester également.
 
-
-
 ## 8/ Lecteur d’écran / Synthèse vocale&#x20;
 
 Pour retranscrire vocalement tout le contenu (écrit ou imagé) sans perte d’information et interagir avec l’application via des gestes.
 
-\
 Les principaux geste à maîtriser :&#x20;
 
 <details>
@@ -195,11 +190,9 @@ Dans les deux cas, il est possible d’[afficher la sortie vocale](https://acces
 🧪 Comment tester ?&#x20;
 
 * Android et iOS :&#x20;
-  * Lancer le lecteur d’écran&#x20;
-  * &#x20;écouter les éléments vocalisés (textuels ou sur les images _- critère suivant_)
+  * lancer le lecteur d’écran, &#x20;
+  * naviguer et écouter les éléments vocalisés (écrits ou imagés _- critère suivant_),
   * vérifier que le contenu et les fonctionnalités sont retranscrites vocalement à l’identique.&#x20;
-
-
 
 ❤️ Vous remercieront : les personnes malvoyantes, aveugle, dyslexique, illettrées qui ont besoin de pouvoir vocaliser tous les éléments visibles dans la page.
 
@@ -209,8 +202,97 @@ Dans les deux cas, il est possible d’[afficher la sortie vocale](https://acces
 📱RAAM : [https://accessibilite.public.lu/fr/raam1.1/referentiel-technique.html#topic-8](https://accessibilite.public.lu/fr/raam1.1/referentiel-technique.html#topic-8)&#x20;
 {% endhint %}
 
+## 9/ Alternatives aux images
+
+Comme sur le web, les images porteuses d’informations ont besoin d’alternatives qui seront vocalisées par le lecteur d’écran.&#x20;
+
+Une image c’est aussi un icône ou un émoticone ou un élément complexe (graphique, carte…) ;)
+
+🧪 Comment tester ?
+
+* Android et iOS :&#x20;
+  * lancer le lecteur d’écran,
+  * écouter les éléments vocalisés sur les images porteuses d'informations que vous avez repérés,
+  * vérifier la pertinence  de l’alternative avec la vocalisation - au minimum l’information équivalente ou la reprise du texte de l’image si nécessaire.&#x20;
+
+❤️ Vous remercieront : les personnes utilisant un lecteur d’écran et ayant besoin que les informations soient vocalisées.
+
+💡Pense-bête : Pas besoin d’alternative pour les images décoratives (non informatives), car cela brouille la vocalisation (répétitions, informations non pertinentes).&#x20;
+
+{% hint style="info" %}
+📱RAAM : [https://accessibilite.public.lu/fr/raam1.1/referentiel-technique.html#topic-1](https://accessibilite.public.lu/fr/raam1.1/referentiel-technique.html#topic-1)&#x20;
+{% endhint %}
+
+## 10/ Langue principale de l'écran&#x20;
+
+Pour rendre la vocalisation dans la langue choisie par l'utilisateur (qui s’effectue par défaut dans la langue du système du téléphone mobile).
+
+\
+🧪 Comment tester ?
+
+* Android et iOS :&#x20;
+  * lancer le lecteur d’écran,&#x20;
+  * &#x20;vérifier que la vocalisation du texte est dans la langue principale de l’écran.&#x20;
+
+❤️ Vous remercieront : les personnes qui ont des besoins de vocalisation. &#x20;
+
+{% hint style="info" %}
+📱RAAM : [https://accessibilite.public.lu/fr/raam1.1/referentiel-technique.html#crit-6-1](https://accessibilite.public.lu/fr/raam1.1/referentiel-technique.html#crit-6-1)
+{% endhint %}
+
+## 11/Formulaire
+
+C’est toujours une partie stressante pour les utilisateurices, alors aidons les un maximum à pouvoir saisir la bonne information dans le bon champ.
+
+Comme sur le web, il faut lier les champs de formulaires avec leurs étiquettes (labels) pour apporter une vocalisation indiquant ce qu’il faut saisir (le contenu attendu).&#x20;
+
+🧪 Comment tester ?&#x20;
+
+* Android et iOS : &#x20;
+  * lancer le lecteur d’écran
+  * écouter les éléments vocalisés sur les champs de formulaires que vous avez repérés ( = étiquette est bien restituée).
+
+Android : utiliser aussi  Accessibility scanner qui remonte le manque de vocalisation des étiquettes / labels  (attention aux faux positifs que j’ai moi-même eu en testant des formulaires dans les app mobiles).
+
+❤️ Vous remercieront : tout le monde !&#x20;
+
+💡Pense-bête :
+
+* indiquer les champs obligatoires,&#x20;
+* le format attendu dans le champ,&#x20;
+* vérifier que les statuts des écrans sont accessibles (message vocalisé au lecteur d'écran suite à une soumission réussie ou une erreur)
+* et pour les erreur de saisie de bien expliquer et suggérer une piste de correction (et pas seulement par la couleur).&#x20;
+
+{% hint style="info" %}
+📱RAAM : [https://accessibilite.public.lu/fr/raam1.1/referentiel-technique.html#topic-9](https://accessibilite.public.lu/fr/raam1.1/referentiel-technique.html#topic-9)&#x20;
+{% endhint %}
 
 
+
+## 12/ Compatibilité avec les options embarquées d’accessibilité&#x20;
+
+Tous les téléphones mobiles ont  des fonctionnalités d'accessibilité (en plus du lecteur d’écran).
+
+<div align="left"><figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcPw-IvTNqfR7U-3B1_JOTVqK6Dj-QEFDzeFnubbRIK8mWySep2qifszIsvdcGPa1o_SIKkJjB8zHYUoJ9TuPFS9vSXrc8uml7-hOmUta_JP8yPEUcPmU4ZXoraJfCrtJbs4cTQNQ?key=j2aSMuGwLumUGA7pM-qmrg" alt="" width="188"><figcaption><p>Option d'accessibilité iOS</p></figcaption></figure></div>
+
+\
+\
+🧪 Comment tester ?&#x20;
+
+* Android et iOS : &#x20;
+  * activer les options&#x20;
+  * vérifier que votre application mobile fonctionne et offre la même qualité d’expérience utilisateur.
+
+❤️ Vous remercieront : toutes les personnes utilisant ces options d’accessibilité
+
+{% hint style="info" %}
+📱RAAM : [https://accessibilite.public.lu/fr/raam1.1/referentiel-technique.html#crit-12-3](https://accessibilite.public.lu/fr/raam1.1/referentiel-technique.html#crit-12-3)
+{% endhint %}
+
+
+
+\
+\
 \
 
 
