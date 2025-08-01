@@ -4,7 +4,7 @@ description: >-
   inclusive sur vos applications mobiles.
 ---
 
-# Bonnes pratiques d'accessibilité des app mobil
+# Bonnes pratiques d'accessibilité des app mobile
 
 Sur une application mobile, il est difficile d’inspecter le code source comme sur le web. Mais il existe plusieurs astuces pour tester et avoir une discussion avec son équipe, car l’**accessibilité est l’affaire de tout le monde !**&#x20;
 
@@ -86,7 +86,7 @@ Ne pas bloquer l’orientation en portrait de votre application, car certaines p
 📱 RAAM : ce n’est pas encore un critère d’accessibilité mobile mais une bonne pratique  :)
 {% endhint %}
 
-## 5/  Afficher le bon clavier  <a href="#docs-internal-guid-5623a12c-7fff-f30f-a0c4-dcdedbcb4166" id="docs-internal-guid-5623a12c-7fff-f30f-a0c4-dcdedbcb4166"></a>
+## 5/  Affichage du clavier  <a href="#docs-internal-guid-5623a12c-7fff-f30f-a0c4-dcdedbcb4166" id="docs-internal-guid-5623a12c-7fff-f30f-a0c4-dcdedbcb4166"></a>
 
 Pour faciliter la saisie des nombres, inutile d’afficher le clavier alphabétique.
 
@@ -158,4 +158,63 @@ Pour iOS, n’oubliez pas d’activer l’option dans Réglages > Accessibilité
 ❤️ Vous remercieront : les personnes utilisant la saisie vocale, des technologie d'assistance, les personne aveugle ou avec des troubles moteur.&#x20;
 
 💡 Pense-bête : le clavier permet également d’accéder aux lecteurs d’écran, pensez à les tester également.
+
+
+
+## 8/ Lecteur d’écran / Synthèse vocale&#x20;
+
+Pour retranscrire vocalement tout le contenu (écrit ou imagé) sans perte d’information et interagir avec l’application via des gestes.
+
+\
+Les principaux geste à maîtriser :&#x20;
+
+<details>
+
+<summary>VoiceOver (iOS)</summary>
+
+Nous vous recommandons la [documentation officielle](https://support.apple.com/fr-fr/guide/iphone/iph3e2e415f/ios) et également le site d’Orange pour tout [connaître de l’outil VoiceOver](https://a11y-guidelines.orange.com/fr/mobile/ios/voiceover/).
+
+<div data-full-width="true"><figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc5mLj-DDQ9v5zvfHW02jaqmCm_nobx3hZ7lYNwPbBOT7S7lDziezOrScue4pQeN5ZoNbIZHyrUnzBwwVTjbFZ4AvtgE51_zftQ67ygmzLhjeT5828F6opGH8fj11oStz7ct1VP?key=j2aSMuGwLumUGA7pM-qmrg" alt="Activation de VoiceOver se fait via le menu Réglages du téléphone"><figcaption></figcaption></figure></div>
+
+</details>
+
+<details>
+
+<summary>Talk Back (Android)</summary>
+
+Nous vous recommandons également la [documentation officielle](https://support.google.com/accessibility/android/answer/6151827?hl=fr\&ref_topic=10601570) et le site Orange pour connaître les gestes à utiliser pour [Talk Back](https://a11y-guidelines.orange.com/fr/mobile/android/test/test-manuel/#le-lecteur-decran-talkback).
+
+
+
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc0-Msd-cfGJVt6HhZYLVl9CaTJfF625YaYZiJqthRLLRqZb9hTRevmOnRJxSN7Bd9GYAda5E_nvaae_8lpjaz0SRZhgGZih8uXCL4Fq92vOHJjvE-9Bjb23OsSweL0ycMqYdvrcA?key=j2aSMuGwLumUGA7pM-qmrg" alt="" width="375"><figcaption><p>Source : OrangeOrange - Fiche mémo accessibilité</p></figcaption></figure>
+
+</details>
+
+Dans les deux cas, il est possible d’[afficher la sortie vocale](https://accessibilite.public.lu/fr/raam1/methodologie.html#lecteur-d-ecran)
+
+🧪 Comment tester ?&#x20;
+
+* Android et iOS :&#x20;
+  * Lancer le lecteur d’écran&#x20;
+  * &#x20;écouter les éléments vocalisés (textuels ou sur les images _- critère suivant_)
+  * vérifier que le contenu et les fonctionnalités sont retranscrites vocalement à l’identique.&#x20;
+
+
+
+❤️ Vous remercieront : les personnes malvoyantes, aveugle, dyslexique, illettrées qui ont besoin de pouvoir vocaliser tous les éléments visibles dans la page.
+
+💡Pense-bête : penser à bien mettre des alternatives textuelles sur des composants insuffisamment informatifs (comme les notifications, les infobulles).  &#x20;
+
+{% hint style="info" %}
+📱RAAM : [https://accessibilite.public.lu/fr/raam1.1/referentiel-technique.html#topic-8](https://accessibilite.public.lu/fr/raam1.1/referentiel-technique.html#topic-8)&#x20;
+{% endhint %}
+
+
+
+\
+
+
+
+
+
 
