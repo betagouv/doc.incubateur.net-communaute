@@ -13,12 +13,25 @@ Cette transparence budgétaire a plusieurs vertus :
 2. Elle apporte une contribution essentielle à la communauté en permettant aux nouvelles start up d'avoir une vision éclairée de la façon dont se structure un budget et les ressources à mobilier en fonction des ambitions
 3. Elle fournit un outil essentiel de comparaison de coûts et de sécurisation budgétaire entre les start up et les projets SI de l'Etat. En effet, le référentiel du modèle budgétaire a été travaillé en commun avec les DNUMs. Il a donc vocation à être utilisé par les start up de l'écosystème mais également par les projets numériques ayant recours au marché beta ainsi que par les projets numériques ne travaillant pas en mode produit agile à impact.
 
-### Le référentiel en question 
+## Critères
+- La publication est accessible via un lien public, idéalement directement sur la page du produit
+- Le lien est référencé dans la fiche produit de l'espace membre
+- La publication a lieu deux fois par an : une fois en janvier où le montant réellement dépensé de l'année n-1 est mis à jour et où le montant prévisionnel de l'année n est projeté ; une fois en juin où le montant prévisionnel de l'année n est mis à jour
+- La saisie des données est faite sur le Grist de référence et respecte le référentiel proposé
+
+## Ressources
+- méthodologie pour saisir son budget => créer une page séparée dans laquelle on mettra les infos ci-dessous pour que cette page standard ne soit pas trop lourde
+- [le lien du Grist de saisie](https://grist.numerique.gouv.fr/o/docs/fTjFnK7Bhvuo/Depenses-numeriques/p/1)
+
+
+# Méthodologie pour saisie son budget
+
+## Le référentiel de saisie
 La saisie de votre budget repose sur plusieurs informations clés : 
 - l'année où est effectué la dépense, avec le montant en AE et en CP
 - la catégorisation de la dépense : quelle activité et quelle ressource concerne cette dépense. Les activités concernent la nature où le métier associé à cette dépense : est-ce une dépense qui servira à déployer le service auprès de plus d'utilisateur ? à le développer ? à le sécuriser ? Les ressources concernent le type de ressource mobilisé pour effectuer cette dépense : s'agit-il de payer un prestataire externe ? un agent public ? un logiciel ?
 
- Ci-dessou le détail la définition de chaque activité et chaque ressource possibles.
+Ci-dessous le détail la définition de chaque activité et chaque ressource possibles. Ce référentiel a vocation à être commun à l'ensemble des produits numériques, y compris ceux ne travaillant pas en mode produit agile à impact afin de pouvoir efficacement comparer les coûts et sécuriser les budgets.
 
 Activités : 
 - **Data**	: Collecte, le stockage, l’analyse et la gestion des données.
@@ -43,10 +56,7 @@ Activités :
 - **Frais de structure (locaux, assurances, impôts et taxes)** : Locaux, assurances, impôts et taxes.
 - **Autre**
 
-
-
-## Critères
-- La publication est accessible via un lien public, idéalement directement sur la page du produit
-- Le lien est référencé dans la fiche produit de l'espace membre
-- La publication a lieu deux fois par an : une fois en janvier où le montant réellement dépensé de l'année n-1 est mis à jour et où le montant prévisionnel de l'année n est projeté ; une fois en juin où le montant prévisionnel de l'année n est mis à jour
-- La saisie des données est faite sur le [Grist dédié](https://grist.numerique.gouv.fr/o/docs/fTjFnK7Bhvuo/Depenses-numeriques/p/11) et utilise correctement le référentiel des activités et des ressources.
+## La saisie et la publication du budget
+- La saisie s'effectue sur un [Grist](https://grist.numerique.gouv.fr/o/docs/fTjFnK7Bhvuo/Depenses-numeriques/p/1) dédié via la vue "Renseignez votre budget"
+- Vous pouvez ensuite reporter les informations saisies dans Grist sur le site public de votre produit numérique si vous en avez un.
+- Enfin, rajoutez le lien vers le budget sur la fiche de votre startup dans l'espace membre. Accédez à la fiche de votre produit puis "Modifier les informations" puis indiquez l'URL de la page de votre site public dans le champ "URL du budget". Cette information apparaitra ensuite sur votre fiche produit beta.gouv. Si votre produit ne dispose pas d'un site public, vous pouvez simplement partager l'url du [Grist](https://grist.numerique.gouv.fr/o/docs/fTjFnK7Bhvuo/Depenses-numeriques/p/1) où votre budget a été saisi.
