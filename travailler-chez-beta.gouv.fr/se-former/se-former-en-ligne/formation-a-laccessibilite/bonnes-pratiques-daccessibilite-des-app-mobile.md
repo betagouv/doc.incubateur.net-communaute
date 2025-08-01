@@ -269,13 +269,8 @@ Android : utiliser aussi  Accessibility scanner qui remonte le manque de vocalis
 
 
 
-## 12/ Compatibilité avec les options embarquées d’accessibilité&#x20;
 
-Tous les téléphones mobiles ont  des fonctionnalités d'accessibilité (en plus du lecteur d’écran).
 
-<div align="left"><figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcPw-IvTNqfR7U-3B1_JOTVqK6Dj-QEFDzeFnubbRIK8mWySep2qifszIsvdcGPa1o_SIKkJjB8zHYUoJ9TuPFS9vSXrc8uml7-hOmUta_JP8yPEUcPmU4ZXoraJfCrtJbs4cTQNQ?key=j2aSMuGwLumUGA7pM-qmrg" alt="" width="188"><figcaption><p>Option d'accessibilité iOS</p></figcaption></figure></div>
-
-\
 \
 🧪 Comment tester ?&#x20;
 
@@ -288,6 +283,63 @@ Tous les téléphones mobiles ont  des fonctionnalités d'accessibilité (en plu
 {% hint style="info" %}
 📱RAAM : [https://accessibilite.public.lu/fr/raam1.1/referentiel-technique.html#crit-12-3](https://accessibilite.public.lu/fr/raam1.1/referentiel-technique.html#crit-12-3)
 {% endhint %}
+
+
+
+## 12/ Son et mouvement&#x20;
+
+Le lancement d’un son automatique perturbe les personnes utilisant un lecteur d'écran (principe de non-interférence).  Il faut laisser la personne pouvoir stopper ou décider ne pas lancer l'animation. Nous vous recommandons aussi de ne pas utiliser les clignotements avec plus de 3 flashs par seconde (risque de provoquer une crises d'épilepsie).&#x20;
+
+<figure><img src="../../../../.gitbook/assets/Screenshot_20250729-113614.png" alt="Exemple d&#x27;un bouton stop pour arrêter le mouvement d&#x27;une slide" width="188"><figcaption><p>Agora - possibilité de stopper le mouvement</p></figcaption></figure>
+
+🧪 Comment tester ?&#x20;
+
+* Android et iOS :&#x20;
+  * au chargement de l’écran repérer si le son a une durée supérieure à 3 secondes&#x20;
+  * alors vérifier la présence d’un bouton pour contrôler la lecture de chaque contenu animé, ou que le volume peut être contrôlé par l’utilisateur. &#x20;
+
+❤️ Vous remercieront : les personnes malvoyantes, et toutes celles ne souhaitant pas être perturbée pendant le parcours.&#x20;
+
+{% hint style="info" %}
+📱RAAM (son) : [https://accessibilite.public.lu/fr/raam1.1/referentiel-technique.html#crit-3-12](https://accessibilite.public.lu/fr/raam1.1/referentiel-technique.html#crit-3-12)&#x20;
+
+📱RAAM (mouvement) :[https://accessibilite.public.lu/fr/raam1.1/referentiel-technique.html#crit-11-8](https://accessibilite.public.lu/fr/raam1.1/referentiel-technique.html#crit-11-8)&#x20;
+{% endhint %}
+
+
+
+## 13/ Compatibilité avec les options embarquées d’accessibilité&#x20;
+
+Tous les téléphones mobiles ont  des fonctionnalités d'accessibilité (en plus du lecteur d’écran).
+
+<div align="center" data-full-width="false"><figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcPw-IvTNqfR7U-3B1_JOTVqK6Dj-QEFDzeFnubbRIK8mWySep2qifszIsvdcGPa1o_SIKkJjB8zHYUoJ9TuPFS9vSXrc8uml7-hOmUta_JP8yPEUcPmU4ZXoraJfCrtJbs4cTQNQ?key=j2aSMuGwLumUGA7pM-qmrg" alt="" width="188"><figcaption><p>Option d'accessibilité iOS</p></figcaption></figure> <figure><img src="../../../../.gitbook/assets/Screenshot_20250729-171643 (1).png" alt="" width="188"><figcaption><p>Option d'accessibilité Android</p></figcaption></figure></div>
+
+🧪 Comment tester ?&#x20;
+
+Android et iOS : &#x20;
+
+* activer les options,
+* &#x20;vérifier que votre application mobile fonctionne et offre la même qualité d’expérience utilisateur.
+
+❤️ Vous remercieront : toutes les personnes utilisant ces options d’accessibilité
+
+{% hint style="info" %}
+📱RAAM : [https://accessibilite.public.lu/fr/raam1.1/referentiel-technique.html#crit-12-3](https://accessibilite.public.lu/fr/raam1.1/referentiel-technique.html#crit-12-3)
+{% endhint %}
+
+
+
+## Pour aller plus loin avec nos ressources  ...&#x20;
+
+* [Mobile accessibility mapping](https://www.w3.org/TR/mobile-accessibility-mapping/) par W3C&#x20;
+* [Mémo application mobile](https://a11y-guidelines.orange.com/fr/articles/memo-accessibilite/#liste-des-memos/) pour Android et iOS par Accessibilité Numérique Orange
+* [108 critères du RAAM ](https://accessibilite.public.lu/fr/raam1.1/index.html)
+* [Guide Android pour l'accessibilité](https://developer.android.com/guide/topics/ui/accessibility/apps?hl=fr#test)&#x20;
+* [Guide iOS pour l’accessibilité ](https://developer.apple.com/design/human-interface-guidelines/accessibility)
+* Doc de[ référence Apple](https://developer.apple.com/library/ios/#documentation/UserExperience/Conceptual/iPhoneAccessibility/Making_Application_Accessible/Making_Application_Accessible.html#//apple_ref/doc/uid/TP40008785-CH102-SW1) sur l’accessibilité
+* [Liste des gestes sur iOS ](https://support.apple.com/fr-fr/guide/iphone/iph3e2e2281/16.0/ios/16.0)
+* [Liste des gestes sur Android](https://support.google.com/accessibility/android/answer/6151827?hl=fr)
+* [Guide d’audit d’application mobile](https://github.com/DISIC/guide-mobile_app_audit) par la Direction interministérielle du Numérique
 
 
 
