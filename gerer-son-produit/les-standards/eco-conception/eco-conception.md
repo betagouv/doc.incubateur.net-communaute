@@ -8,7 +8,7 @@ description: >-
 
 Jeudi 5 mai 2022, les designers de [beta.gouv.fr](http://beta.gouv.fr) ont organisé une **Journée de l'Écoconception** en partenariat avec les Designers Éthiques, l'agence Lunaweb et l'entreprise privée Leboncoin.
 
-![Ateliers lors de la journée de l'éco-conception](../../../.gitbook/assets/journee-ecoconception-photo1.jpg)
+![Ateliers lors de la journée de l'éco-conception](../../../.gitbook/assets/journee-ecoconception-photo-1.jpg)
 
 Le temps d'une journée, nous avons rassemblé une quinzaine d'intervenant·es et plus de 100 invités, professionnels du numérique, privé ou public autour des mêmes enjeux : comment limiter l'impact du numérique sur la planète. **La journée fut riche en échanges et en partages d'expériences : conférences, ateliers, fresques du numérique...** En voici le résumé en images :
 
