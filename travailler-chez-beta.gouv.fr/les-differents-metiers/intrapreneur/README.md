@@ -74,6 +74,6 @@ Découvrez l'offre de service d'accompagnement des carrières des intras sur not
 ### Articles sur l'intrapreneuriat
 
 * [Etude sur l'intrapreneuriat à la Sécurité sociale](https://en3s.fr/articles-regards/reac/2020/INTRAPRENEURIAT.pdf)
-* [Les pratiques intrapreunariales dans le secteur public : une étude de cas de l’entreprise Embrapa](https://pad.incubateur.net/kHFy0e1oTOSCbZAsQT24hg?view)
+* [Les pratiques intrapreunariales dans le secteur public : une étude de cas de l’entreprise Embrapa](https://shs.cairn.info/revue-gestion-2000-2018-3-page-91?lang=fr)
 
 Pour en savoir plus sur les infos utiles liées au métier d'intra, consultez le lien ci-dessous :
