@@ -33,7 +33,7 @@ _9 semaines pour instruire un problème et envisager des solutions pour le réso
   * 💡 [Guide d'hygiène informatique pour les systèmes d'information](https://www.ssi.gouv.fr/guide/guide-dhygiene-informatique/) & [Guide RGPD du dev](https://www.cnil.fr/fr/guide-rgpd-du-developpeur)
 * [ ] Je rencontre l'équipe juridique de la DINUM et de l'administration sponsor du produit pour une première prise de contact (Pour DINUM : perica.sucevic@modernisation.gouv.fr, cindy.kus@modernisation.gouv.fr).
 * [ ] Je limite l'accès aux docs partagés à ceux que "ça regarde" et j'utilise des outils différenciés en fonction du degré de gêne (sensibilité) des informations :
-  * 💡 pad.incubateur.net est une alternative à Google doc qui permet de prendre des notes. L'option _signed-in people can edit_ limite la diffusion à la communauté @beta.gouv.fr.
+  * 💡 [docs.numerique.gouv.fr](https://docs.numerique.gouv.fr/home/) est une alternative à Google doc qui permet de prendre des notes de façon collaborative. Il est possible de gérer les droits d'accès de chaque document.
 *   [ ] Je minimise les informations collectées et supprime celles dont je n'ai pas besoin : après un entretien utilisateur, ai-je besoin de conserver dans mes notes toutes les données de le personne interrogée (date de naissance, numéro de tél, nom, etc.) ?
 
     > Exemple : Un plan de déploiement peut sans doute être sur Google doc en accès ouvert, mais des notes d'entretien utilisateurs, plutôt en accès limité.
