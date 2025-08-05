@@ -108,11 +108,10 @@ Tu peux la consulter en version documentation juste ici 👇.
 * [ ] Participer à une session de **présentation de ton incubateur de rattachement**
 * [ ] Participer à toutes les sessions en visioconférence (45 minutes maximum) de **focus thématiques obligatoires** (les invitations sont/seront dans ta boite webmail 😉)
   * [ ] \#1 Fais semblant de naviguer avec grâce dans les méandres de l’administration
-  * [ ] \#2 Évite les pièges du mode produit dans l’administration
-  * [ ] \#3 Sécurité informatique : comment protéger tes données ?
-  * [ ] \#4 Maitrise le feedback pour bien travailler avec des gens différents
-  * [ ] \#5 Comment ne pas finir en prison quand on bosse sur un produit numérique
-  * [ ] \#6 Recrute et chérie tes utilisateurs / Pas utilisateurs, pas d’impact ; pas impact, pas de budget; pas de budget …
+  * [ ] \#2 Sécurité informatique : comment protéger tes données ?
+  * [ ] \#3 Maitrise le feedback pour bien travailler avec des gens différents
+  * [ ] \#4 Comment ne pas finir en prison quand on bosse sur un produit numérique
+  * [ ] \#5 Recrute et chérie tes utilisateurs / Pas utilisateurs, pas d’impact ; pas impact, pas de budget; pas de budget …
 * [ ] Participer à un point de rencontre grâce aux [clubs métiers](https://doc.incubateur.net/communaute/decouvrir-beta.gouv.fr/la-communaute/les-rituels/clubs-de-partage-dexperience)
 * [ ] Co-construire avec le responsable de l'équipe produit tes objectifs de mission et les livrables associés en utilisant ce [modèle](https://docs.numerique.gouv.fr/docs/be5ddf8c-83bf-42b9-96f5-8d5aed18dd98/)
 * [ ] \[Si tu rejoins une nouvelle startup], créer avec l'équipe une **fiche produit** sur beta.gouv.fr, [directement sur Github](https://github.com/betagouv/beta.gouv.fr/tree/master/content/_startups) ou en passant par l'interface de gestion des fiches produits sur l'espace membre. Tu peux t'inspirer [des autres produits](https://beta.gouv.fr/startups/) pour le format et le contenu
