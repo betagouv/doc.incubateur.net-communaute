@@ -73,7 +73,7 @@ Tu interviens pour :
   * [ ] **#1** [L'embarquement en visioconférence obligatoire dans la communauté](https://airtable.com/appebTa6XsY6fDixm/shr7l159rsB5KpJcO?prefill_Formation=recA5QKXcYrIcCRQj)
   * [ ] **#2** La journée d'embarquement dédiée aux nouveaux membres lors du **forum mensuel** de beta.gouv.fr (l'invitation est/sera dans sa boite webmail)
   * [ ] **#3** La session de **présentation de votre incubateur de rattachement**
-  * [ ] **#4** Les 6 sessions en visioconférence (45 minutes maximum) de **focus thématiques** (les invitations sont/seront dans sa boite webmail)
+  * [ ] **#4** Les 4 sessions en visioconférence (45 minutes maximum) de **focus thématiques** (les invitations sont/seront dans sa boite webmail)
 
 ### Pense-bête pour les premiers mois
 
