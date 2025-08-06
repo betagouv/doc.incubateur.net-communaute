@@ -57,7 +57,7 @@ Voici les bonnes pratiques et règles à suivre pour que l’utilisation de la p
 
 mais vous pouvez indiquer des conditions pour réussir cette dernière. Par exemple, vous ne pouvez pas imposer d’horaires ni des jours spécifiques de la semaine. En revanche, vous pouvez demander à ce que la personne travaille en présentiel avec l’équipe ou qu’elle s’adapte aux horaires des usagers.
 
-4. **Indiquer qu'un embarquement est obligatoire pour les missions** dont le volume prévu est supérieur à 17 500 euros (environ 3 jours semaine pendant 3 mois).  "Un embarquement est obligatoire. Il est composé d'une demi journée en présentiel et de 7 visios de 1h répartie sur un mois. Il te permettra de rencontrer la communauté, de comprendre l'écosystème publique et de connaitre les standards de qualité beta.gouv.fr"
+4. **Indiquer qu'un embarquement est obligatoire pour les missions** dont le volume prévu est supérieur à 17 500 euros (environ 3 jours semaine pendant 3 mois).  "Un embarquement est obligatoire. Il est composé d'une demi journée en présentiel et de 6 visios de 1h répartie sur un mois. Il te permettra de rencontrer la communauté, de comprendre l'écosystème publique et de connaitre les standards de qualité beta.gouv.fr"
 5. **Renvoyer** [**vers notre documentation sur les indépendants**](https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/les-differents-statuts/independants-freelances)**.**
 6. **Lire la** [**charte de bonnes pratiques WTTJ**](https://doc.incubateur.net/communaute/les-outils-de-la-communaute/autres-services/welcome-to-the-jungle/charte-wttj)
 
