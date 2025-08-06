@@ -8,7 +8,7 @@ description: >-
 
 ## Comment comprendre le niveau de gravité ?
 
-* <mark style="color:red;">**Alerte rouge**</mark>\*\* \*\* : des données sont accessibles en clair sur le web.
+* <mark style="color:red;">**Alerte rouge**</mark> : des données sont accessibles en clair sur le web.
 * <mark style="color:orange;">**Alerte orange**</mark> : de mauvaises pratiques dans le code pourraient entrainer une alerte rouge.
 
 ## Comment aider mon équipe de dev ?
@@ -22,7 +22,7 @@ description: >-
 {% endcontent-ref %}
 
 * Initialisez et prenez en charge la partie non-technique de la gestion de la crise :
-  * Créez le rapport sur [pad.incubateur.net](http://pad.incubateur.net) si l’équipe tech ne l’a pas fait
+  * Créez le rapport sur [https://docs.numerique.gouv.fr/](https://docs.numerique.gouv.fr/) si l’équipe tech ne l’a pas fait
   * Récupérez les informations et ajoutez-les dans le document si l’équipe ne l’a pas fait
     * Le rapport s’adresse à des gens pas forcément technique. Il vise à évaluer les risques : délégué à la protection des données, CNIL, responsable sécurité, ANSSI, décideurs, …
   * Contactez l’équipe technique de votre incubateur et/ou l’équipe ops de [beta.gouv.fr](http://beta.gouv.fr) pour informer et demander de l’aide

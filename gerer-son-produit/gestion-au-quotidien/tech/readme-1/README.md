@@ -8,7 +8,7 @@ description: >-
 # Gérer une fuite de données
 
 {% hint style="danger" %}
-Pour éviter tout fuite de secret, pensez à installer un pre-commit hook type [talisman](https://github.com/thoughtworks/talisman) sur votre projet GIT.
+Pour éviter toute fuite de secret, pensez à installer un pre-commit hook type [talisman](https://github.com/thoughtworks/talisman) sur votre projet GIT.
 {% endhint %}
 
 ## Quel est ton profil ?
