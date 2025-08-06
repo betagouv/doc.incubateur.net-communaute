@@ -16,7 +16,7 @@ extrait de l'appel d'offre « Accompagnement »
 >
 > Les experts retenus, appelés ici « coachs » \[...]
 
-Il s'agit donc pour la coache, d'**accompagner** et de **partager des savoir-faire**.
+Il s'agit donc pour le ou la coach, d'**accompagner** et de **partager des savoir-faire**.
 
 Une [présentation](https://docs.google.com/presentation/d/12aEGovHBZYH-xeskRalvhPhGhDG971hibddiGj5f_AU/edit?usp=sharing) datant d'octobre 2020 cartographie les différentes nuances du rôle de coach chez beta.gouv.fr.
 
@@ -37,7 +37,7 @@ Une implication décroissante signifie que le ou la coach sera de moins en moins
 
 ## Comment définir le niveau d'intervention d'une personne qui coache ?
 
-Un échange entre le coach, l'intra et le co-animateur ou la co-animatrice permet de définir le niveau d'intervention adaptée à la mission au regard du contexte, des attentes et des compétences de chacun.
+Un échange entre le coach, l'intra et le/la responsable de portefeuille permet de définir le niveau d'intervention adaptée à la mission au regard du contexte, des attentes et des compétences de chacun.
 
 ## Quelle différence avec un(e) responsable de produit ?
 
@@ -68,7 +68,7 @@ Lecture conseillée pour approfondir cette discussion : l’excellente “[carto
 
 D’expérience, les meilleurs coachs avec qui nous avons travaillé chez[ beta.gouv.fr](http://beta.gouv.fr) ont une expérience entrepreneuriale et savent un peu tout faire (tech, design, bizdev, politique, etc.). Ils et elles ont du vécu et savent gérer des situations complexes.
 
-Ce sont des personnes qui ont l’expérience de lancer des produits de la page blanche au 1er puis à 1000 utilisateurs.
+Ce sont des personnes qui ont l’expérience de lancer des produits de la page blanche au 1er puis à 1 000 utilisateurs.
 
 Voici quelques grandes catégories de compétences à maîtriser pour pouvoir accompagner effectivement une équipe de SET.
 
@@ -92,8 +92,6 @@ Aide pour acquérir cette compétence : Consulter les contenus et formations pro
 
 Définir un business modèle, identifier un product-market fit, définir des KPI ou métriques d’impact, etc.
 
-Aide pour acquérir cette compétence : Lire des références dans le domaine (Running Lean). \*\*\*\*
-
 **Déploiement**
 
 * Maîtriser l’art du pitch
@@ -111,15 +109,15 @@ Aide pour acquérir cette compétence :
 
 C’est un rôle transverse qui demande de coordonner l’ensemble des métiers d’une équipe pour fluidifier les échanges et créer des synergies.
 
-Rituels d’équipe (mise en place d’outils partagés (Trello, Airtable, etc), animations d’ateliers OKRs, de rétros, de post-mortem, de codev)\\
+Rituels d’équipe (mise en place d’outils partagés (Trello, Airtable, etc), animations d’ateliers OKRs, de rétros, de post-mortem, de codev).
 
 ***
 
 **Connaître la culture beta.gouv.fr**
 
-Être en mesure d’expliquer et de transmettre cette culture à l’intrapreneur et les nouveaux membres de l’équipe. s’impliquer au sein de la communauté.
+Être en mesure d’expliquer et de transmettre cette culture à l’intrapreneur et les nouveaux membres de l’équipe, s’impliquer au sein de la communauté.
 
-Aide pour acquérir cette compétence : participer aux rituels et événements de la communauté en tant qu’animateur.
+Aide pour acquérir cette compétence : participer [aux rituels et événements de la communauté](../../../decouvrir-beta.gouv.fr/la-communaute/les-rituels/).
 
 
 

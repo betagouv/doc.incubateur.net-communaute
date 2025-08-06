@@ -24,7 +24,7 @@ Il est aussi possible que, bien que le problème ait été validé par l’inves
 
 ### Questions à se poser
 
-Ces questions sont regroupées dans une [grille d'évaluation](https://beta.gouv.fr/content/docs/grille\_lancement.pdf) à votre disposition.
+Ces questions sont regroupées dans une [grille d'évaluation](https://beta.gouv.fr/content/docs/grille_lancement.pdf) à votre disposition.
 
 **Le problème**
 
@@ -32,7 +32,7 @@ Ces questions sont regroupées dans une [grille d'évaluation](https://beta.gouv
 * Quelle est sa taille (nombre de personnes impactées, fréquence, tendance de progression) ? sa criticité (perte de temps ? d'argent ? impact environnemental ? social ?)
 * L’investigation a-t-elle apporté des preuves du préjudice causé par ce problème ?
 * S’agit-il d’un problème qu’une équipe réduite peut traiter, quitte à réduire son périmètre ?
-* S’attaquer à ce problème (impact envisageable à long-terme) justifie-t-il un investissement potentiel de plusieurs centaines de milliers d’euros d’argent public ?
+* S’attaquer à ce problème (impact envisageable à long terme) justifie-t-il un investissement potentiel de plusieurs centaines de milliers d’euros d’argent public ?
 
 **L'intrapreneur**
 

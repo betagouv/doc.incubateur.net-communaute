@@ -18,7 +18,7 @@ Si l'information est publique et facilement accessible, cela évite de sollicite
 
 ### Ouvrez un espace collaboratif en ligne avec vos sponsors
 
-Pour partager de l'information qui ne peut être rendue publique avec ses sponsors, certaines équipes ouvrent des documents collaboratifs ou des espaces collaboratifs (sur Trello, Resana ou Osmose par exemple) afin de partager des liens utiles. Par exemple, si une statistique confidentielle est fréquemment demandée par le ministre, cet espace peut servir à le partager avec les sponsors pour qu'ils n'aient pas à solliciter l'équipe.
+Pour partager de l'information qui ne peut être rendue publique avec ses sponsors, certaines équipes ouvrent des documents collaboratifs ou des espaces collaboratifs (sur  Resana ou Docs par exemple) afin de partager des liens utiles. Par exemple, si une statistique confidentielle est fréquemment demandée par le ministre, cet espace peut servir à le partager avec les sponsors pour qu'ils n'aient pas à solliciter l'équipe.
 
 ### Organisez régulièrement des démonstrations de votre produit
 

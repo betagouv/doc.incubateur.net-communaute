@@ -1,12 +1,12 @@
 ---
 description: >-
-  Pour réussir une investigation, il est nécessaire d'embarquement les nouveaux
-  coachsqui rejoignent beta pour la première fois.
+  Pour réussir une investigation, il est nécessaire d'embarquer les nouveaux
+  coachs qui rejoignent beta.gouv.fr pour la première fois.
 ---
 
-# Embarquer un coach en investigation
+# Process d'embarquement d'un coach en investigation
 
-Les coachs rejoignant bêta pour la première fois ont besoin d'être embarqués.
+Les coachs rejoignant beta.gouv.fr pour la première fois ont besoin d'être embarqués.
 
 C'est un facteur de réussite de l'investigation.
 
@@ -46,17 +46,18 @@ Un email pourra suffire. L'objectif est d'installer le coach dans ses fonctions 
 
 ## 4. Réaliser un mandat d'accompagnement
 
-Co-anim et coach formalisent un mandat d'accompagnement sous la forme d'un document ou d'un pad.\
+Le/la responsable de portefeuille ou d'incubateur et la/le coach formalisent un mandat d'accompagnement sous la forme d'un document ou d'un pad.
+
 Ce document répond à quatre questions :
 
 * En quoi cette mission est différente ?
-* Quels sont les critères de succès de la mission du coach ? (point de vue du co-anim)
-* Quels sont les critères d’excellence de la mission du coach ? (point de vue du co-anim)
-* Quel sont mes besoins de coach vis-à-vis du co-animateur ? (point de vue coach)
+* Quels sont les critères de succès de la mission du coach ?
+* Quels sont les critères d’excellence de la mission du coach ?
+* Quel sont mes besoins de coach vis-à-vis du co-animateur ?
 
-Ce document peut être réalisé en asynchrone. Il est amendé et validé lors d'une discussion entre le coach et le co-anim.
+Ce document peut être réalisé en asynchrone. Il est amendé et validé lors d'une discussion entre coach et responsable de portefeuille ou d'incubateur.
 
-## 5. Organiser une rencontre entre les coach de la promo d'investigation&#x20;
+## 5. Organiser une rencontre entre les coachs de la promo d'investigation&#x20;
 
 Objectifs :&#x20;
 
@@ -66,7 +67,7 @@ Objectifs :&#x20;
 
 ## 6. Proposer un mentor au coach
 
-Pour les coachs débutant avec l'approche beta.gouv, il est recommandé de lui proposer un mentor. Ce mentor est un ou une coach ayant déjà réalisé plusieurs investigations.
+Pour les coachs débutant avec l'approche beta.gouv.fr, il est recommandé de lui proposer un mentor. Ce mentor est un ou une coach ayant déjà réalisé plusieurs investigations.
 
 L'expérience a démontré que les échanges entre mentor et coach ont lieu en général une fois par semaine ou toutes les deux semaines durant 30 minutes en moyenne.
 

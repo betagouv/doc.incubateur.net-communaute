@@ -40,8 +40,8 @@ Vous allez probablement devoir nommer votre service assez rapidement, notamment 
 
 ## Kit de démarrage pour les coachs
 
-{% content-ref url="../../../travailler-chez-beta.gouv.fr/les-differents-metiers/coach.e/en-construction/conseils-pour-les-coachs.md" %}
-[conseils-pour-les-coachs.md](../../../travailler-chez-beta.gouv.fr/les-differents-metiers/coach.e/en-construction/conseils-pour-les-coachs.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="3-retours-dexperience-de-coachs.md" %}
