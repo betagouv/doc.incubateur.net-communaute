@@ -1,6 +1,6 @@
 ---
 description: >-
-  Caroline, Claire et Sabine, coachs à bêta.gouv, témoignent de leurs
+  Caroline, Claire et Sabine, coachs beta.gouv.fr, témoignent de leurs
   expériences au sein d'équipes en phase de construction.
 hidden: true
 ---
@@ -8,7 +8,7 @@ hidden: true
 # 🟣 Retours d'expérience
 
 {% hint style="success" %}
-[Visionner le replay.](https://resana.numerique.gouv.fr/public/information/consulterAccessUrl?cle\_url=569601629CWMHZ1FdUm5XOgdhVTsGJlVrW2YAIVI7UzhXalEwDDYGMwUxA2YAZFVnVGQ=)
+[Visionner le replay.](https://resana.numerique.gouv.fr/public/information/consulterAccessUrl?cle_url=569601629CWMHZ1FdUm5XOgdhVTsGJlVrW2YAIVI7UzhXalEwDDYGMwUxA2YAZFVnVGQ=)
 {% endhint %}
 
 ![Capture d'écran de l'atelier.](../../../.gitbook/assets/dessin-sans-titre-14-.jpg)
@@ -39,7 +39,7 @@ hidden: true
 
 ### 3- Quels sont les principes à respecter absolument, et ceux qui seraient plus secondaires ?
 
-* **Grands principes du Manifeste beta.gouv :**
+* **Grands principes du manifeste beta.gouv.fr :**
   * Approche centrée-usager ;
   * Impact des fonctionnalités et des propositions de valeur ;
   * Stratégie des petits pas ("do things that don't scale") ;
@@ -60,15 +60,15 @@ hidden: true
 ### 5- Comment prioriser les demandes managériales externes ? (sponsor(s), n+1, cabinet, ministre,...)
 
 * **Adopter une posture à la fois de distanciation et de transparence** :
-  * Dès le début du projet, expliquer que l'équipe fonctionne en toute autonomie en étant orientée vers l'impact par l'amélioration continue (cf. Manifeste beta.gouv) ;
+  * Dès le début du projet, expliquer que l'équipe fonctionne en toute autonomie en étant orientée vers l'impact par l'amélioration continue (cf. manifeste beta.gouv.fr) ;
   * Expliciter l'impact atteint par les retours qualitatifs et quantitatifs ("les métriques montrent que…" → justifier les choix de l'équipe de façon claire et transparente) ;
   * Garder à l'esprit le fait que maintenir les personnalités externes dans la boucle peut faire évoluer la réglementation dans le sens du projet, ouvrir certaines portes, etc. ;
   * Informer les personnalités externes des avancées, voire leur proposer l'accès à certains outils (ex: Trello), sans pour autant entrer dans une logique de reporting type COPIL auprès d'elles ;
 * **Consigner les éléments déterminant cette posture dans une charte à faire signer par l'ensemble des parties prenantes** (idée générale : "vous financez, on va faire des trucs géniaux pour les usagers par la stratégie des petits pas, mais on ne peut pas faire tout, tout de suite, et les règles du jeu sont ça, ça et ça") ;
 * **Rôle de l'incubateur de faire un travail d'acculturation et de pédagogie auprès des personnalités externes** jugées clé afin de créer un cercle vertueux autour du développement du produit ;
-* Se mettre d'accord sur le fait que si à un moment donné, le sponsor impose trop ses vues par un cahier des charges direct ou indirect, et que le Manifeste beta.gouv ne s'en trouve pas respecté, **l'incubateur a la possibilité de transférer le produit pour le sortir du cadre Startup d'État** (rôle du coach d'alerter à cet égard).
+* Se mettre d'accord sur le fait que si à un moment donné, le sponsor impose trop ses vues par un cahier des charges direct ou indirect, et que le manifeste beta.gouv.fr ne s'en trouve pas respecté, **l'incubateur a la possibilité de transférer le produit pour le sortir du cadre Startup d'État** (rôle du coach d'alerter à cet égard).
 
-### Quelques ressources issues de la documentation beta.gouv :
+### Quelques ressources issues de la documentation beta.gouv.fr :
 
 {% content-ref url="../investigation/nommer-votre-service.md" %}
 [nommer-votre-service.md](../investigation/nommer-votre-service.md)
@@ -78,8 +78,8 @@ hidden: true
 [choisir-ses-outils.md](../investigation/choisir-ses-outils.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../../gerer-son-produit/guide-de-financement-des-startups-detat/4.-lenjeu-du-pilotage-par-limpact.md" %}
-[4.-lenjeu-du-pilotage-par-limpact.md](../../../gerer-son-produit/guide-de-financement-des-startups-detat/4.-lenjeu-du-pilotage-par-limpact.md)
+{% content-ref url="../../guide-de-financement-des-startups-detat/4.-lenjeu-du-pilotage-par-limpact.md" %}
+[4.-lenjeu-du-pilotage-par-limpact.md](../../guide-de-financement-des-startups-detat/4.-lenjeu-du-pilotage-par-limpact.md)
 {% endcontent-ref %}
 
 {% content-ref url="../../../travailler-chez-beta.gouv.fr/les-differents-metiers/developpeur.se/kit-de-demarrage.md" %}
