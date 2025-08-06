@@ -21,7 +21,7 @@ Pour publier une offre sur votre profil **Welcome to the Jungle**, il vous suffi
 1. **Nommer le titulaire du marché** si c'est une offre de prestation:\
    Il est impératif de mentionner clairement qui est le titulaire du marché dans l’offre. Vous devez aussi avoir contacté ce titulaire.
 2. **Mentionner dans le titre de l’offre que c’est une mission.** Par exemple : \[Mission]Chargé de déploiement pour Envergo.
-3. **Indiquer qu'un embarquement est obligatoire pour les missions** dont le volume prévu est supérieur à 17500 euros (environ 3 jours semaine pendant 3 mois).  "Un embarquement est obligatoire. Il est composé d'une demi journée en présentiel et de 9 visios de 1h répartie sur un mois. Il te permettra de rencontrer la communauté, de comprendre l'écosystème publique et de connaitre les standards de qualité beta.gouv.fr"
+3. **Indiquer qu'un embarquement est obligatoire pour les missions** dont le volume prévu est supérieur à 17 500 euros (environ 3 jours semaine pendant 3 mois).  "Un embarquement est obligatoire. Il est composé d'une journée en présentiel et de 6 visios de 1h répartie sur deux mois. Il te permettra de rencontrer la communauté, de comprendre l'écosystème publique et de connaitre les standards de qualité beta.gouv.fr"
 4. **Indiquer une date de fin de diffusion** :\
    Merci d’ajouter une **date limite de publication** visible dans l’annonce. Cela permet de garantir **l’équité entre tous les candidats** en leur donnant les mêmes chances de postuler.
 
