@@ -8,7 +8,7 @@ Au sein de la communauté, nous essayons de permettre à toutes et tous de se fo
 
 * des formations en ligne :
   * le MOOC de la [formation Alpha](https://beta.gouv.fr/alpha/mooc)
-  * [les replays des formations](https://tube.numerique.gouv.fr/my-library/videos)
+  * [les replays des formations](https://tube.numerique.gouv.fr/c/animation_beta/videos)
 * [des formations récurrentes](les-formations-a-venir.md)
 * des [groupes de partage d'expérience](../../decouvrir-beta.gouv.fr/la-communaute/les-rituels/clubs-de-partage-dexperience.md) sous forme de co-développement professionnels.
 * une[ certification pour les intrapreneurs](../les-differents-metiers/intrapreneur/certification-des-intrapreneurs/)
