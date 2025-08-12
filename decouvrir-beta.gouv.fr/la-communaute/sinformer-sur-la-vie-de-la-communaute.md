@@ -32,7 +32,7 @@ Mattermost est l'espace de travail virtuel principal du réseau beta.gouv.fr. La
 [mattermost](../../les-outils-de-la-communaute/mattermost/)
 {% endcontent-ref %}
 
-## <img src="../../.gitbook/assets/image.png" alt="" data-size="line"> tube.numerique.gouv.fr
+## <img src="../../.gitbook/assets/image (7).png" alt="" data-size="line"> tube.numerique.gouv.fr
 
 Le Tube est la plateforme vidéo de la DINUM sur laquelle il existe une chaîne beta.gouv.fr. Elle est conçue pour valoriser les activités et les services de la communauté.  Tu peux y retrouver des vidéos des derniers événements, des démos produits...&#x20;
 

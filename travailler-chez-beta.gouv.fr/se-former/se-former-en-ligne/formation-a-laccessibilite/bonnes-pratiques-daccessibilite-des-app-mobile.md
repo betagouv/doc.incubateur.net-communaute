@@ -24,7 +24,11 @@ En respectant le minimum de contraste entre le texte et l'arrière-plan (**contr
 
 * iOS : Utiliser l'outil [Accessibility Inspector](https://developer.apple.com/documentation/accessibility/accessibility-inspector) dans Xcode ou installer Colour Contrast Analyzer sur Windows/Mac
 
-N’oubliez pas de tester en Light et Dark mode.&#x20;
+N’oubliez pas de tester en Light et Dark mode.
+
+&#x20;
+
+<div align="center"><figure><img src="../../../../.gitbook/assets/image (3).png" alt="Agora - suggestion de contraste à prendr en compte remontée par l&#x27;application Android acessibility " width="188"><figcaption><p>Agora - vérifier le niveau de contraste⚠️</p></figcaption></figure> <figure><img src="../../../../.gitbook/assets/image (43).png" alt="Aplication 1000 jours en Dark mode est illisible" width="188"><figcaption><p>1000 jours - en Dark mode illisible⚠️</p></figcaption></figure></div>
 
 ❤️ Vous remercieront : les personnes ayant des troubles de la vision, des difficultés de concentration et toutes les personnes utilisant leurs téléphone mobile dans un environnement avec des conditions lumineuses déplorables.
 
@@ -43,9 +47,15 @@ Utile pour se repérer dans l’application (couplé avec le bouton de retour c�
 
 C’est aussi le premier élément qui sera vocalisé au lecteur d’écran.
 
+<figure><img src="../../../../.gitbook/assets/image (2).png" alt="Application Agora - il y a un titre d&#x27;écran dans le header" width="188"><figcaption><p>Agora - titre unique et pertinent ✅</p></figcaption></figure>
+
 🧪 Comment tester ?&#x20;
 
-Android et iOS : naviguer sur l’application mobile et vérifier pour chaque page, qu’il y a bien un titre unique et pertinent (et pas un titre générique comme le nom de l’app).&#x20;
+Android et iOS :&#x20;
+
+* naviguer sur l’application mobile et vérifier pour chaque page &#x20;
+  * qu’il y a bien un titre unique&#x20;
+  * et pertinent (et pas un titre générique comme le nom de l’app). \`
 
 ❤️ Vous remercieront :  toutes les personnes pour faciliter la navigation.&#x20;
 
@@ -62,6 +72,8 @@ Respecter au minimum pour toutes les zones d'interaction, une taille de **48dp x
 * Android et iOS : tester les éléments cliquables sur les extrémités et assurez-vous que cela conduit à l’action souhaitée, sinon vous pourrez avoir une discussion avec l’équipe pour revoir la taille des zones de tap.&#x20;
   * Android : il est aussi possible d’utiliser l’application mobile [Accessibility Scanner](https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.auditor\&hl=fr\&pli=1) pour avoir les résultats sur “la zone de cible tactile” et des recommandations.
   * iOS : il est aussi possible d’utiliser [Accessibility Inspector dans Xcode](https://developer.apple.com/documentation/accessibility/accessibility-inspector) pour avoir les résultats sur les “hit area” et des recommandations.
+
+<figure><img src="../../../../.gitbook/assets/image (1).png" alt="Zone de tap trop petite remontée par l&#x27;application Android acessibility lors du test de l&#x27;app mobile Jardin mental" width="188"><figcaption><p>Jardin Mental - zone de tap à améliorer ⚠️</p></figcaption></figure>
 
 ❤️ Vous remercieront : tout le monde pour interagir et finaliser une action, sans avoir la  sensation de taper à côté et d’être frustré.
 
@@ -89,6 +101,8 @@ Ne pas bloquer l’orientation en portrait de votre application, car certaines p
 
 Pour faciliter la saisie des nombres, inutile d’afficher le clavier alphabétique.
 
+<figure><img src="../../../../.gitbook/assets/image (4).png" alt="Exemple J&#x27;agis pour le formulaire avec le champs de la date de naissance, j&#x27;ai le clavier alpha numérique qui s&#x27;ouvre" width="188"><figcaption><p>J'agis - affichage du clavier numérique ✅</p></figcaption></figure>
+
 🧪 Comment tester ?&#x20;
 
 * Android et iOS :  tester l’affichage du clavier dans un formulaire avec des champs texte ou numérique.&#x20;
@@ -102,6 +116,8 @@ Pour faciliter la saisie des nombres, inutile d’afficher le clavier alphabéti
 ## 6/ Zoom sans perte d’information
 
 Comme sur le web, il faut pouvoir zoomer et agrandir le texte via le paramétrage de son téléphone. &#x20;
+
+<div><figure><img src="../../../../.gitbook/assets/image (5).png" alt="Zomm à 200% de l&#x27;application Agora et cela fonctionne" width="188"><figcaption><p>Agora- informations lisibles ✅</p></figcaption></figure> <figure><img src="../../../../.gitbook/assets/Screenshot_20250812-115513.png" alt="Reccos santé avec un zomom proche de 200% il manque des informations et c&#x27;est illisible" width="188"><figcaption><p>RecoSante-il manque des infos ⚠️</p></figcaption></figure></div>
 
 🧪 Comment tester ?&#x20;
 
@@ -254,6 +270,8 @@ Comme sur le web, il faut lier les champs de formulaires avec leurs étiquettes 
 
 Android : utiliser aussi  Accessibility scanner qui remonte le manque de vocalisation des étiquettes / labels  (attention aux faux positifs que j’ai moi-même eu en testant des formulaires dans les app mobiles).
 
+<figure><img src="../../../../.gitbook/assets/image.png" alt="Exemple du formulaire J&#x27;Agis avec l&#x27;application Android Scaner qui remonte une possible ereur au niveau du libellé de l&#x27;élément Mon pseudonyme" width="188"><figcaption><p>Formulaire J'Agis - vérifier le libellé ⚠️</p></figcaption></figure>
+
 ❤️ Vous remercieront : tout le monde !&#x20;
 
 💡Pense-bête :
@@ -267,30 +285,11 @@ Android : utiliser aussi  Accessibility scanner qui remonte le manque de vocalis
 📱RAAM : [https://accessibilite.public.lu/fr/raam1.1/referentiel-technique.html#topic-9](https://accessibilite.public.lu/fr/raam1.1/referentiel-technique.html#topic-9)&#x20;
 {% endhint %}
 
-
-
-
-
-\
-🧪 Comment tester ?&#x20;
-
-* Android et iOS : &#x20;
-  * activer les options&#x20;
-  * vérifier que votre application mobile fonctionne et offre la même qualité d’expérience utilisateur.
-
-❤️ Vous remercieront : toutes les personnes utilisant ces options d’accessibilité
-
-{% hint style="info" %}
-📱RAAM : [https://accessibilite.public.lu/fr/raam1.1/referentiel-technique.html#crit-12-3](https://accessibilite.public.lu/fr/raam1.1/referentiel-technique.html#crit-12-3)
-{% endhint %}
-
-
-
 ## 12/ Son et mouvement&#x20;
 
 Le lancement d’un son automatique perturbe les personnes utilisant un lecteur d'écran (principe de non-interférence).  Il faut laisser la personne pouvoir stopper ou décider ne pas lancer l'animation. Nous vous recommandons aussi de ne pas utiliser les clignotements avec plus de 3 flashs par seconde (risque de provoquer une crises d'épilepsie).&#x20;
 
-<figure><img src="../../../../.gitbook/assets/Screenshot_20250729-113614.png" alt="Exemple d&#x27;un bouton stop pour arrêter le mouvement d&#x27;une slide" width="188"><figcaption><p>Agora - possibilité de stopper le mouvement</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot_20250729-113614.png" alt="Exemple d&#x27;un bouton stop pour arrêter le mouvement d&#x27;une slide" width="188"><figcaption><p>Agora - possibilité de stopper le mouvement✅</p></figcaption></figure>
 
 🧪 Comment tester ?&#x20;
 
