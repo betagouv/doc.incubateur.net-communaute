@@ -52,7 +52,7 @@ Tu peux la consulter en version documentation juste ici 👇.
   * [ ] Consulter [l'observatoire de beta.gouv.fr](https://espace-membre.incubateur.net/metabase) puis [y contribuer](https://espace-membre.incubateur.net/)
 * [ ] Participer à [l'embarquement en visioconférence obligatoire dans la communauté](https://airtable.com/appebTa6XsY6fDixm/shr7l159rsB5KpJcO?prefill_Formation=recA5QKXcYrIcCRQj)
 * [ ] Programmer un échange avec le titulaire de ton marché public si tu es prestataire
-* [ ] Lire l'email de bienvenue dans la communauté et regarder [la vidéo de présentation de beta.gouv.fr](https://www.youtube.com/watch?v=TvFlxDMlbfo)
+* [ ] Lire l'email de bienvenue dans la communauté et regarder [la vidéo de présentation de beta.gouv.fr](https://www.youtube.com/watch?v=bqq5LevJESs)
 * [ ] Prendre connaissance des [valeurs de beta.gouv.fr](../../decouvrir-beta.gouv.fr/valeurs.md)
 * [ ] Lire la documentation sur nos [standards de qualité](../../gerer-son-produit/les-standards/)
 * [ ] Découvrir [les canaux mattermost recommandés](../../les-outils-de-la-communaute/mattermost/canaux-recommandes.md)
@@ -83,7 +83,7 @@ Tu peux la consulter en version documentation juste ici 👇.
 
 **Si tu es coach**
 
-* [ ] Lire le [kit de démarrage](https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/les-differents-metiers/coach.e/en-construction/conseils-pour-les-coachs))
+* [ ] Lire le [kit de démarrage](https://doc.incubateur.net/communaute/gerer-son-produit/la-vie-du-produit/construction/3-retours-dexperience-de-coachs)
 
 #### Découvre la documentation spécifique à l'incubateur que tu rejoins
 
