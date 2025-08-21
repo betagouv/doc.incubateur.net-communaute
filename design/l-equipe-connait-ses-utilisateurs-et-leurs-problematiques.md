@@ -1,12 +1,22 @@
+# L'équipe connait ses utilisateurs et leur problématiques
+
 ## Description
 
-Comprendre le contexte permet de mieux répondre aux besoins des usagers. En se concentrant sur les utilisatrices et les problèmes qu'iels essaient de résoudre - plutôt que sur une solution particulière - permet d'apprendre des choses parfois inattendues sur leurs besoins.
+Comprendre le contexte permet de mieux répondre aux besoins des
+usagers. En se concentrant sur les problèmes qu'ils essaient de
+résoudre plutôt que sur une solution particulière, vous apprendrez des
+choses parfois inattendues sur leurs besoins.
 
-Il existe de nombreuses méthodologies de recherche utilisateurs qui permettent de structurer cette exploration, et de la diffuser auprès de l'équipe ou des parties prenantes.
+Il existe de nombreuses méthodologies de recherche utilisateur qui
+permettent de structurer cette exploration, et de la diffuser auprès
+de l'équipe ou des parties prenantes.
 
 ### Comprendre les usagers et leurs problématiques
 
-Les personas sont des représentations fictives d'utilisateurs réels. Ils aident à comprendre *qui* utilise le service et ce qu'elles ou ils veulent accomplir ; afin de mieux adapter le service à leurs besoins.
+Les personas sont des représentations fictives d'utilisateurs
+réels. Ils aident à comprendre *qui* utilise le service et ce qu'elles
+ou ils veulent accomplir afin de mieux adapter le service à leurs
+besoins.g
 
 ### Cartographie du parcours global
 
