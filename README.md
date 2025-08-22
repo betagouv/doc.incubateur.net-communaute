@@ -8,7 +8,7 @@ Ce repo contient la liste des standards exigés des produits Beta.
 
 À chaque règle correspond un fichier Markdown. Elles sont organisées
 par dossier pour chaque domaine correspondant (accessibilité,
-éco-conception, etc).
+qualité logicielle, etc).
 
 Elles suivent un format simple décrit dans [le template
 GitHub](./.github/ISSUE_TEMPLATE/l-equipe-propose-propose-un-nouveau-standard.md). Le
