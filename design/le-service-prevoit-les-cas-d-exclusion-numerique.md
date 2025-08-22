@@ -2,8 +2,7 @@
 
 ## Description
 
-[15% de la population française est en situation
-d'illectronisme](https://emmaus-connect.org/2023/11/etude-insee-illectronisme-en-france-une-tendance-encourageante/). Un
+[15% de la population française est en situation d'illectronisme][1]
 service public numérique qui exclut ces personnes manque à sa mission
 fondamentale : servir tous les citoyens, sans exception.
 
@@ -27,6 +26,8 @@ Pour y parvenir, trois mesures essentielles s'imposent :
 - **Simplifier les démarches** en évitant de redemander des informations
   déjà connues de l'administration, principe qui bénéficie à tous les
   usagers
+
+[1]: https://emmaus-connect.org/2023/11/etude-insee-illectronisme-en-france-une-tendance-encourageante/
 
 ## Critères
 

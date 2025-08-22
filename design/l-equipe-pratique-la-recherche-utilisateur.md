@@ -12,13 +12,18 @@ doit pratiquer la recherche utilisateur grâce aux nombreuses méthodes
 disponibles pour mieux comprendre comment est utilisé votre
 service, par exemple :
 
-- la cartographie du parcours global ([service blueprint](https://miro.com/fr/cartographie-parcours-client/comment-faire-des-service-blueprints/), [experience map](https://www.usabilis.com/experience-map-carte-dexperience/))
+- la cartographie du parcours global ([service blueprint][1],
+  [experience map][2])
 - les entretiens utilisateurs
-- [les personas](https://www.lunaweb.fr/actualites/blog/demystifier-le-persona-ux-comprendre-et-concevoir-vos-archetypes-usagers/).
+- [les personas][3].
 
 La phase d'investigation de votre service commence souvent par de la
 recherche utilisateur : elle doit continuer tout au long de la vie de
 votre produit.
+
+[1]: https://miro.com/fr/cartographie-parcours-client/comment-faire-des-service-blueprints/
+[2]: https://www.usabilis.com/experience-map-carte-dexperience/
+[3]: https://www.lunaweb.fr/actualites/blog/demystifier-le-persona-ux-comprendre-et-concevoir-vos-archetypes-usagers/
 
 ## Critères
 
