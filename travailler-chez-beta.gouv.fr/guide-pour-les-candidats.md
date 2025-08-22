@@ -29,8 +29,10 @@ Enfin, tu peux également parcourir notre documentation sur les différents mét
 [👷‍♀️Les différents métiers](https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/les-differents-metiers)
 
 
-
-## Préparer son entretien <a href="#preparer-son-entretien" id="preparer-son-entretien"></a>
+## Comprendre le parcours de sélection des prestataires et préparer son entretien
+{% embed url="https://docs.google.com/presentation/d/1tg8_rwYhT9kA58nGF5DoE_LmoO1tJY3q6AoURe_qKUE/edit?usp=sharing" %}
+Parcours embarquement généraliste
+{% endembed %}
 
 ### Prendre connaissance des guides d'entretien <a href="#prendre-connaissance-des-guides-dentretien" id="prendre-connaissance-des-guides-dentretien"></a>
 
