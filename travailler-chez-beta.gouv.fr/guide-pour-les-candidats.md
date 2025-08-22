@@ -34,7 +34,7 @@ Enfin, tu peux également parcourir notre documentation sur les différents mét
 Parcours embarquement généraliste
 {% endembed %}
 
-### Prendre connaissance des guides d'entretien <a href="#prendre-connaissance-des-guides-dentretien" id="prendre-connaissance-des-guides-dentretien"></a>
+### Prendre connaissance des guides d'entretiens <a href="#prendre-connaissance-des-guides-dentretien" id="prendre-connaissance-des-guides-dentretien"></a>
 
 Plusieurs recommandations sont diffusées aux équipes beta.gouv.fr ci-dessous. Attention, nos équipes sont assez indépendantes et elles peuvent choisir des procédures de sélection ou méthodologies d'entretiens différentes de ce qui est partagé dans la documentation ci-dessous.
 
