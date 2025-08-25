@@ -4,7 +4,7 @@ description: >-
   équipe.
 ---
 
-# 🛍️ Marchés
+# 🛍️ Marchés beta
 
 Pour constituer une équipe, il est possible d'avoir recours à 2 marchés publics interministériels.
 
@@ -19,22 +19,37 @@ Pour constituer une équipe, il est possible d'avoir recours à 2 marchés publi
 [marche-coaching.md](marche-coaching.md)
 {% endcontent-ref %}
 
-{% hint style="warning" %}
-**Certains incubateurs ne peuvent pas utiliser les marchés mentionnés ci-dessus**, car ils ont leurs propres marchés :&#x20;
 
-* France Travail et les ministères sociaux (MSO) ont leurs propres marchés (construction de produit et mentorat).&#x20;
-* Le ministère de la transition écologique (MTE) a son propre marché mentorat.
-{% endhint %}
 
 ## Utiliser un marché public
 
-Faire une commande prend environ 1 mois :&#x20;
+Faire une commande prend environ 1 mois :
+
+&#x20;0\.  Vérifier qu'on a le droit d'utiliser les marchés beta
 
 1. Estimer sa capacité d'achat
 2. Demander un devis à une entreprise
 3. Identifier le bon profil
 4. Faire signer le devis et émettre le bon de commande
 5. Démarrer la mission
+
+
+
+### Étape 0 : Vérifier qu'on a le droit d'utiliser le marché
+
+Les marchés beta sont réservés aux produits s'engageants à respecter la méthode et les [standards beta](https://auto-audit.incubateur.net/standards) (utilisez l'[auto-audit](https://auto-audit.incubateur.net/) pour  facilement vous mettre en règle par rapport aux standards). \
+\
+Pour répondre aux obligations de transparence beta, votre produit doit être décrit succinctement sur une [fiche produit](../../../les-outils-de-la-communaute/espace-membre/gerer-sa-fiche-produit.md). \
+\
+Avant de lancer tout autres travaux, une [investigation](../../la-vie-du-produit/investigation/) , suivi d'un [comité d'investissement](../budget/preparer-un-comite-dinvestissement/) est obligatoire. \
+\
+Les collectivités ne peuvent pas utiliser ces marchés. La plupart des ministères, des incubateurs et certaines agences d'état peuvent utiliser les marchés beta.gouv.fr. Les exceptions sont ci-dessous.&#x20;
+
+**Certains incubateurs ne peuvent pas utiliser les marchés mentionnés ci-dessous**, car ils ont leurs propres marchés :&#x20;
+
+* France Travail et les ministères sociaux (MSO) ont leurs propres marchés (construction de produit et mentorat).&#x20;
+* Le ministère de la transition écologique (MTE) a son propre marché mentorat.
+* Les Armées n'ont pas pris part au marché de mentorat. Ils ne peuvent utiliser que le marché de réalisation de produit
 
 ### Étape 1 : Estimer sa capacité d'achat
 
