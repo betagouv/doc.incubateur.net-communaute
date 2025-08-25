@@ -37,7 +37,7 @@ Faire une commande prend environ 1 mois :\
 
 ### Étape 1 : Vérifier qu'on a le droit d'utiliser le marché
 
-Les marchés beta sont réservés aux produits s'engageants à respecter la méthode et les [standards beta](https://auto-audit.incubateur.net/standards) (utilisez l'[auto-audit](https://auto-audit.incubateur.net/) pour  facilement vous mettre en règle par rapport aux standards). \
+Les marchés beta sont réservés aux produits s'engageant à respecter la méthode et les [standards beta](https://auto-audit.incubateur.net/standards) (utilisez l'[auto-audit](https://auto-audit.incubateur.net/) pour  facilement vous mettre en règle par rapport aux standards). \
 \
 Pour répondre aux obligations de transparence beta, votre produit doit être décrit succinctement sur une [fiche produit](../../../les-outils-de-la-communaute/espace-membre/gerer-sa-fiche-produit.md). \
 \
