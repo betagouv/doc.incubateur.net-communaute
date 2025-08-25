@@ -23,19 +23,19 @@ Pour constituer une équipe, il est possible d'avoir recours à 2 marchés publi
 
 ## Utiliser un marché public
 
-Faire une commande prend environ 1 mois :
-
-&#x20;0\.  Vérifier qu'on a le droit d'utiliser les marchés beta
-
-1. Estimer sa capacité d'achat
-2. Demander un devis à une entreprise
-3. Identifier le bon profil
-4. Faire signer le devis et émettre le bon de commande
-5. Démarrer la mission
+Faire une commande prend environ 1 mois :\
 
 
+1. Vérifier qu'on a le droit d'utiliser les marchés beta
+2. Estimer sa capacité d'achat
+3. Demander un devis à une entreprise
+4. Identifier le bon profil
+5. Faire signer le devis et émettre le bon de commande
+6. Démarrer la mission
 
-### Étape 0 : Vérifier qu'on a le droit d'utiliser le marché
+
+
+### Étape 1 : Vérifier qu'on a le droit d'utiliser le marché
 
 Les marchés beta sont réservés aux produits s'engageants à respecter la méthode et les [standards beta](https://auto-audit.incubateur.net/standards) (utilisez l'[auto-audit](https://auto-audit.incubateur.net/) pour  facilement vous mettre en règle par rapport aux standards). \
 \
@@ -51,7 +51,7 @@ Les collectivités ne peuvent pas utiliser ces marchés. La plupart des ministè
 * Le ministère de la transition écologique (MTE) a son propre marché mentorat.
 * Les Armées n'ont pas pris part au marché de mentorat. Ils ne peuvent utiliser que le marché de réalisation de produit
 
-### Étape 1 : Estimer sa capacité d'achat
+### Étape 2 : Estimer sa capacité d'achat
 
 À l'issue d'un comité d'investissement, un budget est confié à l'intrapreneur (exemple : 200k€). C'est à lui de définir les profils dont il a besoin (coach, designer, développeur, etc.). \
 \
@@ -63,7 +63,7 @@ Les UO peuvent être fractionnées (exemple: tu peux acheter 0,5 UO de dev). Tu 
 
 Pour avoir une première idée du coût de chaque prestation/profil, la [grille indicative des revenus observés](../../../travailler-chez-beta.gouv.fr/les-differents-statuts/independants-freelances/observatoire-revenus.md) peut aider.&#x20;
 
-### Étape 2 : Demander un devis à une **entreprise** <a href="#etape-2-contacter-lentreprise-titulaire-du-marche-pour-exprimer-son-besoin-en-prestation" id="etape-2-contacter-lentreprise-titulaire-du-marche-pour-exprimer-son-besoin-en-prestation"></a>
+### Étape 3 : Demander un devis à une **entreprise** <a href="#etape-2-contacter-lentreprise-titulaire-du-marche-pour-exprimer-son-besoin-en-prestation" id="etape-2-contacter-lentreprise-titulaire-du-marche-pour-exprimer-son-besoin-en-prestation"></a>
 
 Pour demander un devis, il faut envoyer une « _**expression de besoins**_ » à l'entreprise titulaire du marché. Elle doit indiquer :&#x20;
 
@@ -105,7 +105,7 @@ L'entreprise répondra par **un devis avec une quantité d'UO**.
 
 Des modèles de mail de contact sont disponibles sur les pages dédiés au [marché réalisation de produit](marche-interministeriel-beta/) et [marché mentorat](marche-coaching.md).&#x20;
 
-### **Étape 3 : Identifier le bon profil** <a href="#etape-3-identifier-des-profils-potentiels-pour-realiser-la-prestation" id="etape-3-identifier-des-profils-potentiels-pour-realiser-la-prestation"></a>
+### **Étape 4 : Identifier le bon profil** <a href="#etape-3-identifier-des-profils-potentiels-pour-realiser-la-prestation" id="etape-3-identifier-des-profils-potentiels-pour-realiser-la-prestation"></a>
 
 _Cette étape peut être réalisée en parallèle de l'étape 2, une fois l'expression de besoin envoyée._\
 \
@@ -128,7 +128,7 @@ Si tu n'as pas l’habitude de juger des profils techniques, tu peux te faire ai
 Si les profils identifiés ne sont pas salariés de l'entreprise titulaire, ils deviennent sous-traitants du titulaire et devront donc contractualiser avec celle-ci. Tu n'a pas de rôle ou d'action à réaliser à ce sujet.&#x20;
 {% endhint %}
 
-### Étape 4 : Faire signer le devis et émettre le bon de commande <a href="#etape-4-obtenir-le-devis-final-aupres-de-lentreprise-titulaire" id="etape-4-obtenir-le-devis-final-aupres-de-lentreprise-titulaire"></a>
+### Étape 5 : Faire signer le devis et émettre le bon de commande <a href="#etape-4-obtenir-le-devis-final-aupres-de-lentreprise-titulaire" id="etape-4-obtenir-le-devis-final-aupres-de-lentreprise-titulaire"></a>
 
 Une fois que tu es d'accord avec le devis proposé par l'entreprise titulaire, tu dois le faire signer selon le process de ton administration (rapproche toi de ton incubateur, ton service d'achat ou ton N+1) pour que celle-ci puise émettre le **bon de commande**  qui sera transmis à l'entreprise. Le process d'émission du bon de commande prend **de quelques jours à 3 semaines.**
 
@@ -138,7 +138,7 @@ Une fois que tu es d'accord avec le devis proposé par l'entreprise titulaire, t
 
 Arrivée à cette étape, la prestation de l'équipe peut commencer !  &#x20;
 
-### **Étape 5 : Démarrer la mission**&#x20;
+### **Étape 6 : Démarrer la mission**&#x20;
 
 L'entreprise titulaire ne sera payée pour la prestation qu'après la certification par l'administration du service fait (partiel ou total). Pour en savoir plus sur les paiements, consulte la [documentation sur la facturation](https://doc.incubateur.net/communaute/gerer-son-produit/gestion-au-quotidien/budget/la-facturation-de-a-a-z).
 
