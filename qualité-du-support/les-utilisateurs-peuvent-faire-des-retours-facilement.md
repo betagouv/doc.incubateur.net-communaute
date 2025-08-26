@@ -33,5 +33,4 @@ traitement des réponses avec des délais clairs.
 - [Intégrer le bouton "Je donne mon avis"](https://doc.incubateur.net/communaute/gerer-son-produit/pourquoi-le-deploiement-dun-service-public-en-ligne-est-il-important/integrer-le-bouton-je-donne-mon-avis)
 - [Guide Sillon - Support utilisateur](https://sillon.incubateur.net/docs/monitoring/for-business-needs/#support-utilisateur)
 - [L'outil GitHub Discussions](https://docs.github.com/fr/discussions/collaborating-with-your-community-using-discussions/about-discussions)
-- [Crisp - outil de support utilisateur](https://crisp.chat/)
 - [Astuto - outil de feuille de route publique](https://astuto.io/)
