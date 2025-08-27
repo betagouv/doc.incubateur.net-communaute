@@ -1,4 +1,4 @@
-# L'équipe a entamé une démarche d'homologuation de sécurité
+# L'équipe a entamé une démarche d'homologation de sécurité
 
 ## Description
 
@@ -9,7 +9,7 @@ produit par l'Agence nationale de la sécurité des systèmes
 d’information (ANSSI).
 
 Ce référentiel impose notamment notamment la conduite d'une
-homologuation de sécurité pour permettre d'identifier et de valider
+homologation de sécurité pour permettre d'identifier et de valider
 les risques cyber liés à votre service : elle atteste que les mesures
 de sécurité et les efforts présents et futurs sont suffisants pour
 faire face aux risques cyber les plus courants.
@@ -20,14 +20,14 @@ dès sa conception sur
 service incubé à beta.gouv.fr qui simplifie cette étude et permet à
 votre équipe d'intégrer la sécurité dès la génèse de votre produit.
 
-La procédure d'homologuation est simplifiée pour les services agiles
+La procédure d'homologation est simplifiée pour les services agiles
 mais ne la rend pas moins nécessaire, particulièrement en vu du succès
 que Beta souhaite à tous ses services. Elle prend la forme d'un
 document validé par votre administration.
 
 ## Critères
 
-- L'équipe a entamé une démarche d'homologuation de sécurité
+- L'équipe a entamé une démarche d'homologation de sécurité
 
 ## Ressources
 
