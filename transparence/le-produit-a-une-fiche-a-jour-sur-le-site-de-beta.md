@@ -42,13 +42,14 @@ détaillent plusieurs problématiques. Nous attendons :
 
 #### La description
 
-La description est un champ de texte libre : un template de départ
-vous est fourni mais vous n'êtes pas obligés de vous y tenir. Nous
-attendons :
+La description est un champ de texte libre, un certain formalisme est
+néanmoins attendu :
 
-- une description du problème, de son contexte et de sa solution
-- une vision à moyen/long terme : quels sont les prochaines étapes
-  établies pour votre produit et les attentes que vous en avez ?
+- une description du problème, de son contexte et des usagers
+- une description de la solution et de l'impact attendu
+- les objectifs fixés au dernier comité d'investissement
+- la stratégie de déploiement : une vision à moyen/long terme des prochaines étapes
+  établies pour votre produit et les résultats attendus
 
 ## Critères
 
@@ -57,8 +58,11 @@ attendons :
 - Le lien vers la page statistiques est renseigné
 - Le lien vers la page budget est renseigné
 - Le lien vers le code source est renseigné
-- La description explique le problème, son contexte et votre solution
-- La description présente les prochaines étapes du produit
+- La description explique le problème, son contexte et ses usagers
+- La description explique la solution et l'impact attendu
+- les objectifs fixés au dernier comité d'investissement sont renseignés
+- La description présente la stratégie de déploiement / les prochaines
+  étapes du produit
 - Un email de contact est renseigné
 
 ## Ressources
