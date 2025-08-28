@@ -13,6 +13,11 @@ Après avoir terminé le cadrage de ton besoin avec l'aide d'un **référent mé
 Nous te proposons ce [modèle généraliste](https://docs.numerique.gouv.fr/docs/f9b38739-85ae-455e-93af-c9c8380fd5d3/) qui devrait t'aider à préparer la publication d'une offre conforme pour la sélection d'un.e prestataire pour une mission. 
 Ce support préparatoire te guider a sur la structure idéale d'une annonce percutante et limitera fortement le risque de non-conformité. Bien-sûr, appuie-toi très fortement sur la fiche cadrage que tu as réalisé en début processus. Tout ce que tu y as rédigé te permet de dérouler simplement la suite. Finalement ce document en est simplement la traduction marketing, il a pour but de générer facilement des candidatures de qualité.
 
+Les [référents métiers](https://doc.incubateur.net/communaute/solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/laide-au-recrutement-des-referents-metiers) sont disponibles pour t'aider dans la préparation de ton annonce. 
+
+Pour déclencher un RDV d'accompagnement, RDV [👉ici](https://grist.numerique.gouv.fr/o/isn/forms/4QncvyEckeLHhdfRYFUxJF/7)
+
+
 ## Qu'est-ce que Welcome to the Jungle ?
 
 Le programme beta.gouv.fr [dispose d’une page sur la plateforme “Welcome to the Jungle”](https://www.welcometothejungle.com/fr/companies/communaute-beta-gouv) qui permet d’attirer des profils pertinents pour le réseau beta.gouv.fr. L’offre Welcome permet de publier son offre sur le site vitrine de beta.gouv et de recevoir et gérer les candidatures.
