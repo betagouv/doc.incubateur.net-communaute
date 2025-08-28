@@ -45,14 +45,6 @@ Place au concret ! Retrouve ici toutes nos guides et procédures pratiques pour 
 [conseils-pour-le-recrutement.md](conseils-pour-le-recrutement.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../les-outils-de-la-communaute/autres-services/welcome-to-the-jungle/" %}
-[Publier une annonce sur welcome-to-the-jungle](../../les-outils-de-la-communaute/autres-services/welcome-to-the-jungle/)
-{% endcontent-ref %}
-
-{% content-ref url="guide-dentretiens-par-profil.md" %}
-[Guide-dentretiens-par-profil.md](guide-dentretiens-par-profil.md)
-{% endcontent-ref %}
-
 {% content-ref url="embarquement-par-le-recruteur.md" %}
 [embarquement-par-le-recruteur.md](embarquement-par-le-recruteur.md)
 {% endcontent-ref %}
