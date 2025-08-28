@@ -12,6 +12,11 @@ Le programme beta.gouv.fr [dispose d’une page sur la plateforme “Welcome to 
 
 Cet outil est mis à disposition de l’ensemble du réseau beta.gouv. En particulier, les entreprises titulaires de [nos marchés publics](../../../gerer-son-produit/gestion-au-quotidien/marches/) peuvent utiliser cet outil afin de faciliter leur sourcing de profils pour le compte des produits conçus selon l’approche Startup d’État, en profitant du rayonnement du label “beta.gouv.fr”.
 
+{% hint style="success" %}
+Nous vous conseillons vivement d'échanger avec un référent métier avant la diffusion de l'offre sur Welcome to the Jungle.\
+[Plus d'informations sur la page dédiée à l'accompagnement des référents](../../../solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/laide-au-recrutement-des-referents-metiers.md).
+{% endhint %}
+
 ## 🔎 **Bonnes pratiques pour publier une offre sur Welcome to the Jungle**
 
 Pour publier une offre sur votre profil **Welcome to the Jungle**, il vous suffit de cliquer sur le bouton **“Nouvelle offre d'emploi”**.
