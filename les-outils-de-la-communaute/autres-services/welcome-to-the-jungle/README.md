@@ -100,7 +100,7 @@ Les annonces peuvent aussi être relayées auprès de communautés spécifiques,
 * [PyLadies Paris](https://www.meetup.com/fr-FR/pyladiesparis/)
 * [WomenOnRails](./#aider-les-autres-a-recruter)
 
-Le compte LinkedIn de beta.gouv.fr est un excellent relais pour diffuser l'annonce.
+Le compte LinkedIn de beta.gouv.fr est un excellent relais pour diffuser l'annonce. Tu peux consulter cet [article](https://doc.incubateur.net/communaute/gerer-son-produit/gestion-au-quotidien/renforcer-l-equipe/publier-une-offre-de-mission-sur-le-compte-linkedin-de-beta.gouv.fr) pour comprendre comment publier sur le LinkedIn de beta.gouv.fr.
 En utilisant ces techniques de multi-diffusion tu maximises tes chances de toucher un public plus large. Ainsi tu t'assures plus de candidatures entrantes. Pour que ces candidatures soient le plus qualifées possible, c'est la qualité de la rédaction/précision de ton offre que aidera à faire le tri.
 
 ## Gérer les candidatures
