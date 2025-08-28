@@ -12,8 +12,8 @@
 [obligations-legales.md](obligations-legales.md)
 {% endcontent-ref %}
 
-{% content-ref url="temoignages-et-retours-dexperience.md" %}
-[temoignages-et-retours-dexperience.md](temoignages-et-retours-dexperience.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ## Guide pour un service accessible <a href="#guide-pour-un-service-accessible" id="guide-pour-un-service-accessible"></a>
