@@ -21,6 +21,10 @@ Le plus important est collecter des **preuves concrètes de compétences**.
 
 Tu seras ensuite capable de comparer et pondérer les compétences de tes candidats et par extension de faire le bon choix. Ce [template grist](https://grist.numerique.gouv.fr/o/isn/gBv9SB9qWfMn/Untitled-document/p/1) peut t'aider pour les calculs pondérés.
 
+Les [référents métiers](https://doc.incubateur.net/communaute/solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/laide-au-recrutement-des-referents-metiers) sont disponibles pour t'aider dans la préparation des entretiens. 
+
+Pour déclencher un RDV d'accompagnement, RDV [👉ici](https://grist.numerique.gouv.fr/o/isn/forms/4QncvyEckeLHhdfRYFUxJF/7)
+
 ## Guides par étape
 
 <details>
