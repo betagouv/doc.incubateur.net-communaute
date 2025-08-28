@@ -94,7 +94,11 @@ _\[optionnel #1] J'ai déjà identifié un profil qui pourrait convenir mais je 
 
 L'entreprise répondra par **un devis avec une quantité d'UO**.
 
-#### **À quelle entreprise demander ?**  3 groupements d'entreprises se partagent chacun des marchés (mentorat et construction de produit). Nous appliquons une règle de rotation appelée le « _tourniquet_ » pour les solliciter à tour de rôle.
+#### **À quelle entreprise demander ?**
+
+3 groupements d'entreprises se partagent le [marché réalisation de produit](marche-interministeriel-beta/), tandis que 3 autres groupements d'entreprises se partagent le [marché mentorat](marche-coaching.md). **Nous appliquons une règle de rotation appelée le «&#x20;**_**tourniquet**_**&#x20;» pour les solliciter à tour de rôle**.
+
+
 
 *   Pour une **startup existante** : dans la plupart des cas, le besoin vient en continuité de la prestation en cours / qui vient de s'achever. Dans ce cas, tu peux continuer avec la même entreprise.
 
@@ -103,7 +107,7 @@ L'entreprise répondra par **un devis avec une quantité d'UO**.
 
     Pour actionner le tourniquet et savoir à quelle entreprise envoyer ton expression de besoin, demande à l'équipe de ton incubateur, ou au service achat de ton institution. Nous conseillons de mettre tes responsables d'incubateur en copie du mail de demande de devis.&#x20;
 
-Des modèles de mail de contact sont disponibles sur les pages dédiés au [marché réalisation de produit](marche-interministeriel-beta/) et [marché mentorat](marche-coaching.md).&#x20;
+📧Les coordonnées email des entreprises auxquelles vous devez adresser les demandes de devis sont sur la fiche du [marché réalisation de produit](marche-interministeriel-beta/) et celle du [marché mentorat](marche-coaching.md).&#x20;
 
 ### **Étape 4 : Identifier le bon profil** <a href="#etape-3-identifier-des-profils-potentiels-pour-realiser-la-prestation" id="etape-3-identifier-des-profils-potentiels-pour-realiser-la-prestation"></a>
 
