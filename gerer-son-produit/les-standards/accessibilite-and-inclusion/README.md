@@ -12,10 +12,6 @@
 [obligations-legales.md](obligations-legales.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
 ## Guide pour un service accessible <a href="#guide-pour-un-service-accessible" id="guide-pour-un-service-accessible"></a>
 
 **L’accessibilité est une démarche sur le long terme.** Elle se pense dès la phase d'investigation, et est régulièrement évaluée tout au long de la construction et durée d’exploitation du service.
