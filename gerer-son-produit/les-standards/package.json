@@ -1,0 +1,14 @@
+{
+  "name": "betagouv-standards",
+  "version": "1.0.0",
+  "description": "https://doc.incubateur.net/communaute/gerer-son-produit/les-standards",
+  "main": "README.md",
+  "scripts": {
+    "lint": "markdownlint **/*.md"
+  },
+  "author": "Équipe Animation <animation@beta.gouv.fr>",
+  "license": "ISC",
+  "devDependencies": {
+    "markdownlint-cli": "^0.44.0"
+  }
+}
