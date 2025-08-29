@@ -1,14 +1,8 @@
-# ✅ Transparence
+# Transparence
 
-### Standards de transparence
+La transparence est importante pour établir la confiance avec les
+utilisateurs et les parties prenantes. En communiquant ouvertement sur
+nos pratiques et nos décisions, nous favorisons un environnement de
+collaboration et de responsabilité.
 
-* Le produit a une fiche publiée et à jour sur beta.gouv.fr
-* Le produit communique sur son impact sur la page /stats
-* Le produit communique sur son budget sur la page /budget
-* Le produit suis ses bonnes pratiques techniques sur [DashLord](../../../les-outils-de-la-communaute/dashlord/)
-* La roadmap de l'équipe est publique
-
-{% content-ref url="../../standards/transparence/publier-son-budget.md" %}
-[publier-son-budget.md](../../standards/transparence/publier-son-budget.md)
-{% endcontent-ref %}
-
+<https://doc.incubateur.net/communaute/gerer-son-produit/les-standards/transparence>
