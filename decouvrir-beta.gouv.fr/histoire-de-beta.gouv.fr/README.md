@@ -32,7 +32,7 @@ Depuis 2019, grâce au [**Fonds d'accélération des Startups d'Etat**](https://
 
 ### beta.gouv.fr au cœur de la nouvelle stratégie numérique de l'État
 
-À partir de 2023, le programme beta.gouv.fr continue à monter en puissance et est piloté par l'équipe de l'incubateur de services numériques (ISN) de la DINUM dans le cadre d'une [**nouvelle stratégie du numérique de l'État**](https://www.numerique.gouv.fr/actualites/feuille-de-route-de-la-dinum-une-strategie-numerique-au-service-de-lefficacite-de-laction-publique/).
+À partir de 2023, le programme beta.gouv.fr continue à monter en puissance et est piloté par l'équipe de l'incubateur de services numériques (ISN) de la DINUM dans le cadre d'une [**nouvelle stratégie du numérique de l'État**](https://www.numerique.gouv.fr/numerique-etat/strat-numerique-etat/).
 
 En 2024, 4 priorités sont fixées et guident le travail de l'équipe :&#x20;
 
