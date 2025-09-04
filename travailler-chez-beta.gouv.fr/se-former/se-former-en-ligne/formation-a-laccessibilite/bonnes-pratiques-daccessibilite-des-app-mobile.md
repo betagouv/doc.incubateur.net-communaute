@@ -247,6 +247,8 @@ Elles vous remercieront : les personnes utilisant un lecteur d’écran et ayant
 
 #### Langue principale de l'écran&#x20;
 
+Il est possible de modifier la langue principale du téléphone depuis les paramètres système. Il est donc utile de vérifier que la vocalisation est énoncée dans la langue choisie.
+
 \
 **🧪 Comment tester ?**
 
