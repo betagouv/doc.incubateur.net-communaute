@@ -47,6 +47,8 @@ Le parcours de sélection généraliste est segmenté en 5 grandes phases :
   * Entretien d'adéquation culturelle avec des membres de l'équipe   
 * **Phase 5** : Formuler une proposition cohérente à la personne retenue
 
+En tant qu'intra, tu as la responsabilité de piloter l'entièreté du cycle de sélection pour chacune des missions que tu ouvres. Tu es le garant du bon déroulé du processus, de la phase de cadrage à la proposition de contractualisation.
+
 Les [référents métiers](https://doc.incubateur.net/communaute/solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/laide-au-recrutement-des-referents-metiers) sont disponibles pour t'aider dans chacune de ces phases. 
 
 Pour déclencher un RDV d'accompagnement, RDV [👉ici](https://grist.numerique.gouv.fr/o/isn/forms/4QncvyEckeLHhdfRYFUxJF/7)
