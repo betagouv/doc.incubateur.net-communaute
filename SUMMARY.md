@@ -24,7 +24,7 @@
   * [Rituels de la communauté](decouvrir-beta.gouv.fr/la-communaute/les-rituels/README.md)
     * [Le forum mensuel beta.gouv.fr](decouvrir-beta.gouv.fr/la-communaute/les-rituels/seminaire.md)
     * [Les clubs de partage d'expérience](decouvrir-beta.gouv.fr/la-communaute/les-rituels/clubs-de-partage-dexperience.md)
-  * [S'informer sur la vie de la communauté](decouvrir-beta.gouv.fr/la-communaute/sinformer-sur-la-vie-de-la-communaute.md)
+  * [Communiquer et s’informer dans la communauté beta.gouv.fr](decouvrir-beta.gouv.fr/la-communaute/sinformer-sur-la-vie-de-la-communaute.md)
 
 ## Travailler chez beta.gouv.fr
 
@@ -322,6 +322,7 @@
   * [Ateliers impact & croissance](solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/piloter-sa-croissance-et-evaluer-son-impact.md)
   * [Conseil juridique et mise en conformité RGPD](solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/mise-en-conformite-rgpd-et-conseil-juridique.md)
   * [L'aide des référents métiers](solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/laide-au-recrutement-des-referents-metiers.md)
+  * [Coaching RH : Clinique des situations difficiles](solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/coaching-rh-clinique-des-situations-difficiles.md)
 * [🧑‍💻 Partager et consulter des ressources](solliciter-et-contribuer-a-la-communaute/partage-de-ressources.md)
 * [📣 Communiquer sur beta.gouv.fr à l'extérieur](solliciter-et-contribuer-a-la-communaute/communiquer-sur-beta.gouv.fr-a-lexterieur.md)
 
