@@ -1,7 +1,8 @@
 ---
 description: >-
-  Plus de 1 400 membres, plusieurs canaux et outils à ta disposition : trouve
-  ici le relais idéal pour partager ou chercher une information
+  La communauté compte plus de 1 400 membres : pour communiquer ou t'informer,
+  il existe plusieurs canaux et outils à ta disposition. Trouve ici toutes les
+  infos nécessaires !
 ---
 
 # Communiquer et s’informer dans la communauté beta.gouv.fr
