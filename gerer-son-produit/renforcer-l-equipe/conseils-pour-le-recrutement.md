@@ -44,8 +44,9 @@ Le parcours de sélection généraliste est segmenté en 5 grandes phases :
 * **Phase 4** : Sélectionner le bon profil lors des différents entretiens
   * Préqualification pour s'assurer de l'alignement sur les conditions de la prestation et faire un premier filtre compétences/culture
   * Entretien & mise en situation pour évaluer les compétences et projeter les métiers dans le contexte de l'équipe
-  * Entretien d'adéquation culturelle avec des membres de l'équipe   
-* **Phase 5** : Formuler une proposition cohérente à la personne retenue
+  * Entretien d'adéquation culturelle avec des membres de l'équipe
+* **Phase 5** : Comparer et faire le bon choix parmi les profils
+* **Phase 6** : Formuler une proposition cohérente à la personne retenue
 
 En tant qu'intra, tu as la responsabilité de piloter l'entièreté du cycle de sélection pour chacune des missions que tu ouvres. Tu es le garant du bon déroulé du processus, de la phase de cadrage à la proposition de contractualisation.
 
@@ -139,7 +140,15 @@ Tu peux lire par exemple [cet article](https://mozaikrh.com/11-biais-cognitifs-a
 
 Lorsqu'une nouvelle personne vient travailler avec vous, elle participe aussi à la communauté Beta. Il est donc important de vérifier qu'elle est bien en accord avec [les valeurs de la communauté. ](../../travailler-a-beta-gouv/culture/charte.md)Le moyen le plus simple de le savoir reste de lui demander si elle les a lues et si elle les partage.
 
-### Phase 5 : Formuler une proposition cohérente à la personne retenue
+### Phase 5 : Comparer et faire le bon choix parmi les profils
+
+Afin de faire un choix rationnel parmi les candidats que tu as rencontré, nous te proposons d'utiliser une [matrice de pondération](https://grist.numerique.gouv.fr/o/isn/gBv9SB9qWfMn/Matrice-de-ponderation-selection-dun-prestataire). Cet outil te permet de positionner factuellement les candidats avec le cadrage que tu as effectué en début de processus. Tu évalues et surtout compares les profils vis-à-vis des compétences clés tel que défini au départ.
+
+Pour utiliser le fichier il faut que tu indiques une évaluation de la compétence de 1 à 3 pour chaque candidat à partir de tes fiches d'entretien (3 étant le score le plus importante). Ensuite tu indiques une pondération de 1 à 3, à partir de ta fiche de cadrage (3 étant la pondération la plus importante). Enfin, les formules sont indiquées ainsi afin d'être lisibles. Il convient d'enlever les "espaces" pour les rendre fonctionnelles.
+
+Et voilà ! Sur la dernière ligne du fichier apparait un score global par candidat. C'est une indication mathématique pour choisir celui qui correspond le plus.
+
+### Phase 6 : Formuler une proposition cohérente à la personne retenue
 
 #### Trouver une rémunération ou un prix juste
 
