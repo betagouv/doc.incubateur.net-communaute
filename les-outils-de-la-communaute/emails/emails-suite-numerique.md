@@ -60,7 +60,9 @@ Ajoutez le nouveau compte email dans “Fichier”/“Paramètres de comptes” 
 
 **Ajouter le calendrier**
 
-Dans l’onglet Agenda, faire “nouvel agenda” / “réseau” puis indiquez votre nom d’utilisateur (adresse email en l’espèce) et le lien de découverte des agendas: https://webmail.numerique.gouv.fr/dav/caldav\n\nIndiquez votre mot de passe, puis sélectionnez les calendriers que vous souhaitez synchroniser.
+Dans l’onglet Agenda, faire “nouvel agenda” / “réseau” puis indiquez votre nom d’utilisateur (adresse email en l’espèce) et le lien de découverte des agendas: https://webmail.numerique.gouv.fr/dav/caldav
+
+Indiquez votre mot de passe, puis sélectionnez les calendriers que vous souhaitez synchroniser.
 
 **Ajouter les contacts**
 
@@ -97,6 +99,14 @@ Apple Mail est déjà installé sur Mac.
 * Sélectionnez Mail (et Notes si vous souhaitez) et cliquez sur “Terminer”
 
 (certains fournisseurs (ex: Orange) bloquent le port 25, utiliser le port 587 le cas échéant)
+
+**Calendriers sur Mac**
+
+ - Dans le menu "Calendrier", choisir "Ajouter un compte", puis "Compte CalDAV"
+ - Type de compte: `manuel`
+ - Utilisateur: `prenom.nom[.ext]@beta.gouv.fr`
+ - Mot de passe: votre mot de passe
+ - Adresse du serveur: `webmail.beta.gouv.fr`
 
 ## Etape 3 : Connecter à votre téléphone
 
