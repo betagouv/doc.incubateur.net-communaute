@@ -92,4 +92,4 @@ Sécurité : N'envoyez jamais de données personnelles dans Matomo.
 
 La Dataviz n'est pas la première qualité qui vient à l'esprit quand on parle de Matomo. Néanmoins, des solutions existent pour améliorer l'analyse des statistiques récoltées par Matomo, via Metabase par exemple. 
 
-👉 Voir [les retours d'expériences des équipes](TODO)
+👉 Voir [les retours d'expériences des équipes](retex-matomo-metabase.md)
