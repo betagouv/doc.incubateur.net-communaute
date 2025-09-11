@@ -87,3 +87,11 @@ Sécurité : N'envoyez jamais de données personnelles dans Matomo.
 | Legal        | La politique de confidentialité mentionne la collecte des informations de tracking et [propose un opt-out](https://fr.matomo.org/faq/general/faq\_20000/). Cela peut se faire facilement via [l'insertion d'un iframe par exemple](https://github.com/SocialGouv/code-du-travail-numerique/blob/68974a92bb034317eaa5b29454040ebe83770b19/packages/code-du-travail-frontend/pages/politique-confidentialite.tsx#L203). |
 | Legal        | J'ai suivi le [guide d'exemption de bandeau cookie de la CNIL](https://www.cnil.fr/sites/cnil/files/atoms/files/matomo\_analytics\_-\_exemption\_-\_guide\_de\_configuration.pdf)                                                                                                                                                                                                                                     |
 | Transparence | Je rends mes statistiques Matomo publiques                                                                                                                                                                                                                                                                                                                                                                            |
+
+## Utiliser Metabase pour visualiser les données Matomo
+
+La Dataviz n'est pas la première qualité qui vient à l'esprit quand on parle de Matomo. Néanmoins, des solutions existent pour améliorer l'analyse des statistiques récoltées par Matomo, via Metabase par exemple. 
+
+👉 Voir [les retours d'expériences des équipes](TODO)
+
+
