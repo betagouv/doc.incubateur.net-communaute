@@ -6,13 +6,13 @@
 
 Auparavant l'email **@beta.gouv.fr** était obligatoire pour pouvoir avoir une fiche membre beta.gouv.fr et accès aux différents outils de la communauté. Ce n'est plus le cas pour les personnes qui possèdent déjà un email d'agent public (@pole-emploi.fr, @modernisation.gouv.fr, ...).
 
-Si tu n'utilises pas ton email @beta.gouv.fr tu peux sur [https://espace-membre.incubateur.net/](https://espace-membre.incubateur.net/account#change-primary-email) changer ton adresse principale pour cet email d'agent public.
+Si tu n'utilises pas ton email @beta.gouv.fr tu peux sur changer ton adresse principale pour ton email d'agent public sur [https://espace-membre.incubateur.net/](https://espace-membre.incubateur.net/account?tab=compte-email)
 
 **⚠️** Attention l'email @beta.gouv.fr sera alors supprimé, donc si tu l'utilises sur certains services il faudra penser à mettre à jour l'email utilisé avant de faire le changement.
 
 C'est le cas notamment pour Mattermost pour lequel la mise à jour de l'email est obligatoire avant de pouvoir effectuer le changement (voir [mettre à jour l'email mattermost](faq-espace-membre.md#mettre-a-jour-lemail-dans-mattermost)).
 
-Tu peux retrouver cette fonctionnalité en te rendant dans [Mon Compte > Configurer mon email principal](https://espace-membre.incubateur.net/account#change-primary-email).
+Tu peux retrouver cette fonctionnalité en te rendant dans [Mon Compte > Configurer mon email principal](https://espace-membre.incubateur.net/account?tab=compte-email).
 
 </details>
 
@@ -24,7 +24,7 @@ L'email secondaire permet de se connecter à l'espace membre en cas d'oublie ou 
 
 Il est utile notamment dans ce cas afin d'accéder à l'espace membre pour y redéfinir un nouveau mot de passe ainsi que pour diverse communication au moment de la fin de mission.
 
-Tu peux retrouver cette fonctionnalité en te rendant dans [Mon Compte > Configurer mon email secondaire](https://espace-membre.incubateur.net/account#change-secondary-email).
+Tu peux retrouver cette fonctionnalité en te rendant dans [Mon Compte > Configurer mon email secondaire](https://espace-membre.incubateur.net/account?tab=compte-email).
 
 </details>
 
@@ -54,8 +54,8 @@ Tu peux inviter un nouveau membre dans la communanuté via [l'espace-membre](htt
 
 <summary>Je veux définir/renouveler mon mot de passe</summary>
 
-Si tu as perdu ton mot de passe ou si ton mot de passe n'est pas défini, tu peux te connecter à [l'espace membre](https://espace-membre.incubateur.net/account#password) avec ton adresse secondaire que tu as dû renseigner à ton arrivée. Tu pourras y changer ton mot de passe pour ton adresse @beta.gouv.fr en te rendant dans [l'admin de ton compte](https://espace-membre.incubateur.net/account#password).\
-\
+Si tu as perdu ton mot de passe ou si ton mot de passe n'est pas défini, tu peux te connecter à [l'espace membre](https://espace-membre.incubateur.net/account) avec ton adresse secondaire que tu as dû renseigner à ton arrivée. Tu pourras y changer le mot de passe de ton adresse @beta.gouv.fr en te rendant dans la section [compte email](https://espace-membre.incubateur.net/account?tab=compte-email).
+
 Si tu es arrivé(e) après le 24/10/2023 ton compte est sur la configuration OVH Pro, tu devras donc choisir un mot de passe comportant **au minimum 14 caractères.**
 
 Si tu n'as pas d'email secondaire ou qu'il a changé, tu peux demander dans \~incubateur-demandes-ops sa réinitialisation.
