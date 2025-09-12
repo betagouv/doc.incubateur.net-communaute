@@ -19,19 +19,15 @@ Les procédures et documents liés à la gestion du cycle contractuel (de la sé
 
 ## S'informer et se faire aider avant de se lancer
 
-Il faut savoir que beta.gouv.fr est une immense communauté qui compte plus d'un millier de membres aux statuts très différents : indépendantes, fonctionnaires, contractuelles, etc. Pour s'y retrouver, nous te conseillons de commencer par lire la section suivante.
-
-{% content-ref url="../../travailler-chez-beta.gouv.fr/les-differents-statuts/" %}
-[les-differents-statuts](../../travailler-chez-beta.gouv.fr/les-differents-statuts/)
-{% endcontent-ref %}
+beta.gouv.fr est une communauté qui compte plus d'un millier de membres aux statuts très différents : indépendantes, fonctionnaires, contractuelles, etc. Pour s'y retrouver, nous te conseillons de commencer par lire la section sur les [différents statuts](../../travailler-chez-beta.gouv.fr/les-differents-statuts/).
 
 Le processus de gestion de ton équipe se découpe en plusieurs phases :
 * Sélection d'un nouveau membre
 * Son embarquement
-* La gestion de sa performance le temps de la presatation
-* Son désembarquement en fin de prestation (après potentiellement des renouvellements)
+* La gestion de sa performance le temps de la prestation
+* Son désembarquement en fin de prestation (après potentiellement un ou plusieurs renouvellements)
 
-Pour t'aider à gérer **l'ensemble** de ces étapes tu peux t'appuyer sur les référents métier et l'équipe animation :&#x20;
+Pour t'aider à gérer toutes ces étapes, tu peux t'appuyer sur les référents métier et l'équipe animation :&#x20;
 
 {% content-ref url="../../solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/laide-au-recrutement-des-referents-metiers.md" %}
 [laide-au-recrutement-des-referents-metiers.md](../../solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/laide-au-recrutement-des-referents-metiers.md)
@@ -39,7 +35,7 @@ Pour t'aider à gérer **l'ensemble** de ces étapes tu peux t'appuyer sur les r
 
 ## Un processus distinct pour chaque phase du cycle de la prestation
 
-Place au concret ! Retrouve ici toutes nos guides et procédures pratiques pour t'aider dans la gestion des différentes phases d'une prestation de service :&#x20;
+Place au concret ! Retrouve ici tous les guides et procédures pratiques pour t'aider dans la gestion des différentes phases d'une prestation de service :&#x20;
 
 {% content-ref url="conseils-pour-le-recrutement.md" %}
 [conseils-pour-le-recrutement.md](conseils-pour-le-recrutement.md)
