@@ -12,7 +12,7 @@ Cette section de notre documentation interne a été conçue pour t'aider à pr�
 
 
 
-## Nos offres de mission du moment <a href="#comprendre-loffre" id="comprendre-loffre"></a>
+## Les offres de poste et de mission du moment <a href="#comprendre-loffre" id="comprendre-loffre"></a>
 
 
 
@@ -20,14 +20,11 @@ Cette section de notre documentation interne a été conçue pour t'aider à pr�
 
 
 
-Il faut noter que le réseau beta.gouv.fr comprend de nombreuses administrations partenaires et de nombreuses structures d'innovation publique (les "incubateurs"). Pour chaque offre, identifies bien à quelle Startup d'État elle se rattache ([liste ici](https://beta.gouv.fr/startups/)) et dans quel incubateur public travaille son équipe ([liste ici](https://beta.gouv.fr/incubateurs/)).
+Le réseau beta.gouv.fr comprend de nombreuses administrations partenaires et plusieurs incubateurs. Pour chaque offre, identifie bien [à quelle Startup d'État elle se rattache](https://beta.gouv.fr/startups/) et [dans quel incubateur travaille son équipe](https://beta.gouv.fr/incubateurs/).
 
 Tu peux également en lire davantage sur les différents statuts qui existent chez beta.gouv.fr : [agents publics](les-differents-statuts/fonctionnaires-et-contractuels-de-la-fonction-publique.md) (dont CDD, alternances et stages), [prestation](les-differents-statuts/salaries-des-societes-de-prestation/) et [freelance](les-differents-statuts/independants-freelances/).
 
-Enfin, tu peux également parcourir notre documentation sur les différents métiers qui existent dans le réseau beta.gouv.fr en suivant le lien ci-dessous.
-
-[👷‍♀️Les différents métiers](https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/les-differents-metiers)
-
+Enfin, tu peux également parcourir notre documentation sur les [différents métiers](https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/les-differents-metiers) qui existent dans le réseau beta.gouv.fr.
 
 ## Comprendre le parcours de sélection des prestataires et préparer son entretien
 {% embed url="https://docs.google.com/presentation/d/1tg8_rwYhT9kA58nGF5DoE_LmoO1tJY3q6AoURe_qKUE/edit?usp=sharing" %}
@@ -36,7 +33,7 @@ Parcours embarquement généraliste
 
 ### Prendre connaissance des guides d'entretiens <a href="#prendre-connaissance-des-guides-dentretien" id="prendre-connaissance-des-guides-dentretien"></a>
 
-Plusieurs recommandations sont diffusées aux équipes beta.gouv.fr ci-dessous. Attention, nos équipes sont assez indépendantes et elles peuvent choisir des procédures de sélection ou méthodologies d'entretiens différentes de ce qui est partagé dans la documentation ci-dessous.
+Plusieurs recommandations sont diffusées aux équipes beta.gouv.fr ci-dessous. Attention, les équipes sont autonomes sur la sélection des profils et elles peuvent choisir des procédures de sélection ou méthodologies d'entretiens différentes de ce qui est partagé dans la documentation ci-dessous.
 
 [Guide d'entretiens par profil](../gerer-son-produit/renforcer-l-equipe/guide-dentretiens-par-profil.md)
 
