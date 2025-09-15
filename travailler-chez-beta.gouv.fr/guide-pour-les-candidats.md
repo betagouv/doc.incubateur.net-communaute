@@ -27,7 +27,7 @@ Tu peux également en lire davantage sur les différents statuts qui existent ch
 Enfin, tu peux également parcourir notre documentation sur les [différents métiers](https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/les-differents-metiers) qui existent dans le réseau beta.gouv.fr.
 
 ## Comprendre le parcours de sélection des prestataires et préparer son entretien
-{% embed url="https://docs.google.com/presentation/d/1tg8_rwYhT9kA58nGF5DoE_LmoO1tJY3q6AoURe_qKUE/edit?usp=sharing" %}
+{% embed url="https://docs.google.com/presentation/d/1Y5eWR0g9SjNqsoYFyDDeysemc0QDxwzPZCEB3be9qjc/edit?usp=sharing" %}
 Parcours embarquement généraliste
 {% endembed %}
 
