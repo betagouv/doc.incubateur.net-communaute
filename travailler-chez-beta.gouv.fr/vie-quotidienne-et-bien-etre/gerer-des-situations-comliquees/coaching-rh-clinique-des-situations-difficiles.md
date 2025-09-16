@@ -54,5 +54,5 @@ Des créneaux sont ouverts durant la semaine. Il suffit de réserver celui qui v
 En cas de question ou besoin de renseignement, tu peux le contacter sur Mattermost ou Tchap.
 
 {% hint style="info" %}
-**Public concerné :** Ce programme s’adresse exclusivement aux intras. Si tu rencontres des difficultés dans ton équipe et que tu n'es pas intra, tu peux faire appel au [groupe de soutien](../../travailler-chez-beta.gouv.fr/vie-quotidienne-et-bien-etre/gerer-des-situations-comliquees/le-groupe-de-soutien.md) de la communauté.
+**Public concerné :** Ce programme s’adresse exclusivement aux intras. Si tu rencontres des difficultés dans ton équipe et que tu n'es pas intra, tu peux faire appel au [groupe de soutien](le-groupe-de-soutien.md) de la communauté.
 {% endhint %}

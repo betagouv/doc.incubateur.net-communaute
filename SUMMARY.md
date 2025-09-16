@@ -73,6 +73,7 @@
     * [Repérer une situation dysfonctionnelle](travailler-chez-beta.gouv.fr/vie-quotidienne-et-bien-etre/gerer-des-situations-comliquees/situation-dysfonctionnelle.md)
     * [Réagir face à une situation compliquée](travailler-chez-beta.gouv.fr/vie-quotidienne-et-bien-etre/gerer-des-situations-comliquees/conseils.md)
     * [Indépendant victime de harcèlement ou de discrimination](travailler-chez-beta.gouv.fr/vie-quotidienne-et-bien-etre/gerer-des-situations-comliquees/independant-victime-de-harcelement-ou-de-discrimination.md)
+    * [Coaching RH : Clinique des situations difficiles](travailler-chez-beta.gouv.fr/vie-quotidienne-et-bien-etre/gerer-des-situations-comliquees/coaching-rh-clinique-des-situations-difficiles.md)
 * [🤓 Se former](travailler-chez-beta.gouv.fr/se-former/README.md)
   * [Découvrir les formations proposées](travailler-chez-beta.gouv.fr/se-former/les-formations-a-venir.md)
   * [Se former en ligne](travailler-chez-beta.gouv.fr/se-former/se-former-en-ligne/README.md)
@@ -323,7 +324,6 @@
   * [Ateliers impact & croissance](solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/piloter-sa-croissance-et-evaluer-son-impact.md)
   * [Conseil juridique et mise en conformité RGPD](solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/mise-en-conformite-rgpd-et-conseil-juridique.md)
   * [L'aide des référents métiers](solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/laide-au-recrutement-des-referents-metiers.md)
-  * [Coaching RH : Clinique des situations difficiles](solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/coaching-rh-clinique-des-situations-difficiles.md)
 * [🧑‍💻 Partager et consulter des ressources](solliciter-et-contribuer-a-la-communaute/partage-de-ressources.md)
 * [📣 Communiquer sur beta.gouv.fr à l'extérieur](solliciter-et-contribuer-a-la-communaute/communiquer-sur-beta.gouv.fr-a-lexterieur.md)
 
