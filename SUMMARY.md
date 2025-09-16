@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Bienvenue sur le guide de la communauté beta.gouv](README.md)
+* [👋 Bienvenue sur le guide de la communauté beta.gouv.fr](README.md)
   * [Destination et périmètre de la documentation](readme/destination-et-perimetre-de-la-documentation.md)
 
 ## Découvrir beta.gouv.fr
