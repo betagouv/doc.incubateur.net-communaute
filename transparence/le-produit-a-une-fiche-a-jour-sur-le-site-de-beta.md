@@ -60,7 +60,7 @@ néanmoins attendu :
 - Le lien vers le code source est renseigné
 - La description explique le problème, son contexte et ses usagers
 - La description explique la solution et l'impact attendu
-- les objectifs fixés au dernier comité d'investissement sont renseignés
+- Les objectifs fixés au dernier comité d'investissement sont renseignés
 - La description présente la stratégie de déploiement / les prochaines
   étapes du produit
 - Un email de contact est renseigné

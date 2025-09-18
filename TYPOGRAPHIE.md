@@ -32,6 +32,10 @@ sont dénotés avec un tiret (`-`), et on ne ponctue pas sauf le dernier
 - mardi
 - mercredi.
 
-Les liste doivent rester courtes et percutantes. Si les items sont
+Les listes doivent rester courtes et percutantes. Si les items sont
 trop longs, il faut peut–être restructurer votre contenu en utilisant
 des titres ou des sous-titres pour mieux le contenir.
+
+Les items d'une liste démarrent en minuscule lorsqu'ils s'inscrivent
+au fil du texte et en majuscule dans un contexte indépendant comme les
+critères d'un standard.
