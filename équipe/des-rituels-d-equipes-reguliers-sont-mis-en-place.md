@@ -1,4 +1,4 @@
-# Des rituels d'équipes réguliers ont été mis en place
+# Des rituels d'équipes réguliers sont mis en place
 
 ## Description
 
