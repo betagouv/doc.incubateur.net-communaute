@@ -42,11 +42,11 @@ imprévisibles.
 
 ## Critères
 
-- l'équipe utilise des services d'hébergement cloud (IaaS, PaaS ou
+- L'équipe utilise des services d'hébergement cloud (IaaS, PaaS ou
   SaaS) plutôt qu'une infrastructure physique dédiée
-- l'architecture permet une adaptation des ressources selon les
+- L'architecture permet une adaptation des ressources selon les
   besoins du service
-- les données et applications sont répliquées ou sauvegardées pour
+- Les données et applications sont répliquées ou sauvegardées pour
   assurer la continuité de service
-- l'hébergement respecte les exigences de souveraineté et de sécurité
+- L'hébergement respecte les exigences de souveraineté et de sécurité
   applicables au service public
