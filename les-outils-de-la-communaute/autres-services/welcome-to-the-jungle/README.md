@@ -6,25 +6,25 @@ description: >-
 
 # Publier une annonce sur Welcome To The Jungle
 
-## Préparation à la publication de son annonce
+## Préparer la publication de son annonce
 
-Après avoir terminé le cadrage de ton besoin avec l'aide d'un **référent métier** et à partir du [modèle proposé](https://docs.numerique.gouv.fr/docs/1465f149-e5c2-4c73-ac9c-37c5c76b6992/), il est temps de passer la phase de publication de ton offre.
+Après avoir terminé le cadrage de ton besoin avec l'aide d'un **référent métier** et à partir du [modèle proposé](https://docs.numerique.gouv.fr/docs/1465f149-e5c2-4c73-ac9c-37c5c76b6992/), il est temps de passer à la phase de publication de ton offre.
 
-Nous te proposons ce [modèle généraliste](https://docs.numerique.gouv.fr/docs/f9b38739-85ae-455e-93af-c9c8380fd5d3/) qui devrait t'aider à préparer la publication d'une offre conforme pour la sélection d'un.e prestataire pour une mission. 
-Ce support préparatoire te guider a sur la structure idéale d'une annonce percutante et limitera fortement le risque de non-conformité. Bien-sûr, appuie-toi très fortement sur la fiche cadrage que tu as réalisé en début processus. Tout ce que tu y as rédigé te permet de dérouler simplement la suite. Finalement ce document en est simplement la traduction marketing, il a pour but de générer facilement des candidatures de qualité.
+Nous te proposons ce [modèle](https://docs.numerique.gouv.fr/docs/f9b38739-85ae-455e-93af-c9c8380fd5d3/) qui devrait t'aider à rédiger une offre conforme pour la sélection d'une personne en prestation pour une mission. 
+Ce support te propose la structure idéale d'une annonce percutante et limitera fortement le risque de non-conformité. Remplis la en t'appuyant sur la fiche de cadrage que tu as réalisé en début processus : ce document en est simplement la traduction marketing, il a pour but de générer facilement des candidatures de qualité.
 
 Les [référents métiers](https://doc.incubateur.net/communaute/solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/laide-au-recrutement-des-referents-metiers) sont disponibles pour t'aider dans la préparation de ton annonce. 
 
-Pour déclencher un RDV d'accompagnement, RDV [👉ici](https://grist.numerique.gouv.fr/o/isn/forms/4QncvyEckeLHhdfRYFUxJF/7)
+Pour déclencher un RDV d'accompagnement, rendez-vous [👉ici](https://grist.numerique.gouv.fr/o/isn/forms/4QncvyEckeLHhdfRYFUxJF/7)
 
 
 ## Qu'est-ce que Welcome to the Jungle ?
 
-Le programme beta.gouv.fr [dispose d’une page sur la plateforme “Welcome to the Jungle”](https://www.welcometothejungle.com/fr/companies/communaute-beta-gouv) qui permet d’attirer des profils pertinents pour le réseau beta.gouv.fr. L’offre Welcome permet de publier son offre sur le site vitrine de beta.gouv et de recevoir et gérer les candidatures.
+Le programme beta.gouv.fr [dispose d’une page sur la plateforme “Welcome to the Jungle”](https://www.welcometothejungle.com/fr/companies/communaute-beta-gouv) qui permet d’attirer des profils pertinents pour le réseau beta.gouv.fr. Tu peux publier ton offre sur la page vitrine de beta.gouv.fr, puis tu pourras y recevoir et y gérer les candidatures.
 
 <figure><img src="../../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
-Cet outil est mis à disposition de l’ensemble du réseau beta.gouv. En particulier, les entreprises titulaires de [nos marchés publics](../../../gerer-son-produit/gestion-au-quotidien/marches/) peuvent l'utiliser afin de faciliter leur sourcing de profils pour le compte des produits conçus selon l’approche Startup d’État, en profitant du rayonnement du label “beta.gouv.fr”.
+Cet outil est mis à disposition de l’ensemble du réseau beta.gouv.fr. En particulier, les entreprises titulaires de [nos marchés publics](../../../gerer-son-produit/gestion-au-quotidien/marches/) peuvent l'utiliser afin de faciliter leur sourcing de profils pour le compte des produits conçus selon l’approche Startup d’État, en profitant du rayonnement du label beta.gouv.fr.
 
 <figure><img src="../../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
