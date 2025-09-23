@@ -1,5 +1,8 @@
 name: Vérification de la structure des standards
 
+permissions:
+  contents: read
+
 on: push
 
 jobs:
