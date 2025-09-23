@@ -23,16 +23,19 @@ echo-rules:
 fix-md:
 	npm run lint -- -f
 
+lint: lint-md lint-filenames lint-custom
+
 lint-md:
 	npm run lint
+
+lint-custom:
+	bundle exec ruby scripts/check_files.rb $(RULES)
 
 lint-filenames:
 	bundle exec ruby scripts/rename_file_based_on_header.rb $(RULES)
 
 fix-filenames:
 	bundle exec ruby scripts/rename_file_based_on_header.rb --fix $(RULES)
-
-lint: lint-md lint-filenames
 
 export:
 	bundle exec ruby scripts/convert_markdown_to_yml.rb

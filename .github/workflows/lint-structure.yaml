@@ -1,4 +1,7 @@
-name: Vérification du nom des fichiers
+name: Vérification de la structure des standards
+
+permissions:
+  contents: read
 
 on: push
 
@@ -11,5 +14,5 @@ jobs:
         with:
           ruby-version: 3.4.6
           bundler-cache: true
-      - name: "Linting filenames"
-        run: make lint-filenames
+      - name: "Check standard content structure"
+        run: make lint-custom

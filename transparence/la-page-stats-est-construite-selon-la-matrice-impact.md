@@ -20,11 +20,11 @@ impact.
 
 [1]: https://doc.incubateur.net/communaute/gerer-son-produit/guide-de-financement-des-startups-detat/4.-lenjeu-du-pilotage-par-limpact
 
-## Critère
+## Critères
 
 - les indicateurs présentés dans la page stats suivent la matrice impact
 - les indicateurs sont mis à jour avant chaque comité
 
-## Ressource
+## Ressources
 
 - [L'enjeu du pilotage par l'impact - doc.incubateur.net](https://doc.incubateur.net/communaute/gerer-son-produit/guide-de-financement-des-startups-detat/4.-lenjeu-du-pilotage-par-limpact)
