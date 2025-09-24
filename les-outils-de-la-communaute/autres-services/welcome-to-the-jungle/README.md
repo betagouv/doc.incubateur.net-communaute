@@ -26,8 +26,6 @@ Le programme beta.gouv.fr [dispose d’une page sur la plateforme “Welcome to 
 
 Cet outil est mis à disposition de l’ensemble du réseau beta.gouv.fr. En particulier, les entreprises titulaires de [nos marchés publics](../../../gerer-son-produit/gestion-au-quotidien/marches/) peuvent l'utiliser afin de faciliter leur sourcing de profils pour le compte des produits conçus selon l’approche Startup d’État, en profitant du rayonnement du label beta.gouv.fr.
 
-<figure><img src="../../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
-
 {% hint style="info" %}
 **L'offre sera automatiquement dépubliée au bout de 2 mois**, sauf prolongement manuel.\
 Si tu as trouvé la ou les bonnes personnes, bravo ! Pense à archiver l'annonce avant cette date pour maintenir une page de recrutement à jour et attrayante. Sinon, tu peux toujours réactiver l'annonce depuis les archives.
@@ -59,11 +57,7 @@ Les profils avec accès restreints n’ont accès qu’aux candidatures sur l’
 
 {% embed url="https://docs.google.com/presentation/d/1Fmdjm5Qw39TeyRRvC7wRQaFsNRJIaYBZKXlfRfbY8Tk/edit#slide=id.g2dba877299c_3_278" %}
 
-{% hint style="info" %}
-Merci de prendre connaissance de la [Charte de bonne utilisation de Welcome to The Jungle.](charte-wttj.md)
-{% endhint %}
-
-## 🔎 Bonnes pratiques pour publier une offre sur Welcome to the Jungle
+## 🔎 Obligation à respecter dans la publication d'une offre sur Welcome to the Jungle
 
 Pour publier concrètement une offre sur ton profil **Welcome to the Jungle**, il suffit de cliquer sur le bouton **“Nouvelle offre d'emploi”**.
 
