@@ -39,7 +39,7 @@ Et plus spécifiquement pour chaque **prestataire** il s'agit de proposer :
 Le parcours de sélection est segmenté en 5 grandes phases :
 
 * **Phase 1** : Cadrer ton besoin
-* **Phase 2** : Rédiger la fiche annonce et la publier sur Welcome to the jungle
+* **Phase 2** : Rédiger (ou faire rédiger par le titulaire) la fiche annonce et la publier sur Welcome to the jungle
 * **Phase 3** : Analyser les candidatures entrantes ou provenant du sourcing d'un titulaire
 * **Phase 4** : Sélectionner le bon profil lors des différents entretiens
   * Préqualification pour s'assurer de l'alignement sur les conditions de la prestation et faire un premier filtre compétences/culture
@@ -153,10 +153,7 @@ Et voilà ! Sur la dernière ligne du fichier apparait un score global par candi
 
 #### Trouver une rémunération ou un prix juste
 
-A titre indicatif, voici 2 éléments qui te permettront de trouver une juste rémunération/prix :
-
-* pour le recrutement d’agent public, tu [peux regarder la grille dinum](https://www.numerique.gouv.fr/publications/referentiel-remuneration-filiere-numerique/)
-* pour les prestations, tu peux te baser sur[ l’observatoire des revenus de la communauté Beta.gouv](https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/les-differents-statuts/independants-freelances/observatoire-revenus)
+A titre indicatif, pour t'aider à trouver une juste rémunération/prix pour les prestations, tu peux te baser sur[ l’observatoire des revenus de la communauté Beta.gouv](https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/les-differents-statuts/independants-freelances/observatoire-revenus)
 
 ## Garantir un accueil premium
 
