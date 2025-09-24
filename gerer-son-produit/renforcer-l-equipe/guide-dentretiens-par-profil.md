@@ -2,7 +2,7 @@
 
 ## Préambule
 
-Cette page te propose plusieurs guides d'entretien adaptés à chacune des étapes du processus de sélection d'une nouvelle personne en prestation :
+Cette page te propose plusieurs guides d'entretien adaptés à chacune des étapes du processus de sélection d'une nouvelle personne en prestation ou du recrutement d'un agent public :
 * *La préqualification*
 * *L'entretien intra*
 * *La mise en situation*
@@ -11,11 +11,11 @@ Cette page te propose plusieurs guides d'entretien adaptés à chacune des étap
 
 Tu y trouveras aussi des guides adaptés à tous les types de [métiers](https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/les-differents-metiers).
 
-Comme pour la publication de ton annonce, nous te recommandons de t'appuyer sur le cadrage de besoin que tu as réalisé en début processus. Les kits d'entretiens en sont la simple traduction pour opérer ta sélection de manière efficace et méthodique. Le processus de sélection peut évidemment évoluer selon les missions recherchées. Cependant de manière générale, **suivre un processus répétible est un facteur clé de succès** dans la sélection ou le recrutement.
+Comme pour la publication de ton annonce, nous te recommandons de t'appuyer sur le cadrage de besoin que tu as réalisé en début processus. Les kits d'entretiens en sont la simple traduction pour opérer ta sélection de manière efficace et méthodique. Cependant de manière générale, **suivre un processus répétible est un facteur clé de succès** dans la sélection ou le recrutement.
 
-Pour garantir une expérience de sélection optimale pour les candidats, **il est préférable de désigner une ou un responsable unique du processus**. Cette personne coordonne l’organisation de tous les entretiens et bloque les agendas de toutes les parties prenantes.
+Pour garantir une expérience de sélection optimale pour les candidats, **il est préférable de désigner une ou un responsable unique du processus** qui oordonne l’organisation de tous les entretiens.
 
-Voici des propositions de trames pour tes entretiens. Peu importe les mots que l'on choisit, chacun s'exprime avec son propre style, nous te proposons dans ce document un ensemble de points à checker et quelques exemples de questions. Toutes les trames sont également disponible dans ce [Docs](https://docs.numerique.gouv.fr/docs/d56d43a5-35f1-4e44-9c4f-decc471d3661/) que tu peux dupliquer.
+Les trames d'entretiens sont des propositions. Peu importe les mots que l'on choisit, chacun s'exprime avec son propre style, nous te proposons dans ce document un ensemble de points à checker et quelques exemples de questions. Toutes les trames sont également disponible dans ce [Docs](https://docs.numerique.gouv.fr/docs/d56d43a5-35f1-4e44-9c4f-decc471d3661/) que tu peux dupliquer.
 
 Le plus important est collecter des **preuves concrètes de compétences**.
 
