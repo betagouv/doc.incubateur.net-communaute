@@ -5,14 +5,6 @@ Ce parcours de sélection est un socle commun, applicable à tous les métiers, 
 
 ## Le parcours de sélection chez beta.gouv.fr
 
-### Pourquoi un processus de sélection commun ?
-
-Nous ne sommes pas tous formés à la sélection des profils ou à la mise en place de mission.
-Cela peut engendrer :
-* Des choix trop rapides dans la sélection
-* Des profils sélectionnées qui sont non adaptés
-* Pas de parcours cohérent pour les candidats
-
 ### Les objectifs de ce parcours
 
 L'objectif est de proposer une expérience réussie pour l'intra et pour le candidat, et qui permet de travailler avec les meilleurs profils sur le long terme.
@@ -21,18 +13,11 @@ Plus spécifiquement pour chaque **intra** il s'agit d'aider à :
 * Sélectionner le bon profil :
   * Avoir des candidatures qualifiées et de qualité
   * Savoir identifier le bon profil pour la mission
-  * S'assurer que le candidat a bien compris sa mission
 * Suivre un process simple et efficace :
   * Définir un besoin clair et cadré 
   * Gérer facilement un nombre important de candidatures
   * Réaliser des entretiens structurés et utiles
   * Objectiver la prise de décision
- 
-Et plus spécifiquement pour chaque **prestataire** il s'agit de proposer :
-* La compréhension claire de la mission et du contexte
-* Un parcours fluide, juste et transparent
-* De l’écoute et de la considération
-* Une expérience utile, même sans être retenu
 
 ### Les étapes clés du parcours de sélection
 
