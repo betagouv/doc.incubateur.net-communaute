@@ -1,27 +1,27 @@
-# Guide d'entretien par étapes du processus de sélection et par métier
+# Guides d'entretien pour le processus de sélection de profil et le recrutement
 
 ## Préambule
 
-Cette page a pour but de te proposer plusieurs guides d'entretien adaptés à chacune des étapes du processus de sélection d'une nouvelle personne en prestation :
+Cette page te propose plusieurs guides d'entretien adaptés à chacune des étapes du processus de sélection d'une nouvelle personne en prestation :
 * *La préqualification*
 * *L'entretien intra*
 * *La mise en situation*
 * *L'entretien d'adéquation culturelle*
 * *La prise de références*
 
-Ainsi que des versions ultra personnalisées et adaptées à tous les types de [métiers](https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/les-differents-metiers).
+Tu y trouveras aussi des guides adaptés à tous les types de [métiers](https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/les-differents-metiers).
 
-Comme pour la fiche annonce, nous te recommandons de t'appuyer sur le cadrage de besoin que tu as réalisé en début processus. Les kits d'entretiens en sont la simple traduction pour opérer ta sélection de manière efficace et méthodique. Le processus de sélection demeure variable selon les missions. Cependant d’une manière générale, suivre une **processus répétible** est un facteur clé de succès dans la sélection.
+Comme pour la publication de ton annonce, nous te recommandons de t'appuyer sur le cadrage de besoin que tu as réalisé en début processus. Les kits d'entretiens en sont la simple traduction pour opérer ta sélection de manière efficace et méthodique. Le processus de sélection peut évidemment évoluer selon les missions recherchées. Cependant de manière générale, **suivre un processus répétible est un facteur clé de succès** dans la sélection ou le recrutement.
 
-Afin de garantir une expérience de sélection candidat optimal il est préférable de désigner une **responsable unique** du processus. Cette personne coordonne l’organisation de tous les entretiens et bloque les agendas de toutes les parties prenantes.
+Pour garantir une expérience de sélection optimale pour les candidats, **il est préférable de désigner une ou un responsable unique du processus**. Cette personne coordonne l’organisation de tous les entretiens et bloque les agendas de toutes les parties prenantes.
 
-Voici donc une somme de propositions de trames pour tes entretiens. Peu importe les mots que l'on choisit, chacun s'exprime avec son propre style, nous te proposons dans ce document tout de même si tu le souhaites un ensemble de points à checker et quelques exemples de questions. Toutes les trames sont également disponible dans ce [Docs](https://docs.numerique.gouv.fr/docs/d56d43a5-35f1-4e44-9c4f-decc471d3661/) que tu peux dupliquer.
+Voici des propositions de trames pour tes entretiens. Peu importe les mots que l'on choisit, chacun s'exprime avec son propre style, nous te proposons dans ce document un ensemble de points à checker et quelques exemples de questions. Toutes les trames sont également disponible dans ce [Docs](https://docs.numerique.gouv.fr/docs/d56d43a5-35f1-4e44-9c4f-decc471d3661/) que tu peux dupliquer.
 
 Le plus important est collecter des **preuves concrètes de compétences**.
 
 Tu seras ensuite capable de comparer et pondérer les compétences de tes candidats et par extension de faire le bon choix. Ce [template grist](https://grist.numerique.gouv.fr/o/isn/gBv9SB9qWfMn/Untitled-document/p/1) peut t'aider pour les calculs pondérés.
 
-Les [référents métiers](https://doc.incubateur.net/communaute/solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/laide-au-recrutement-des-referents-metiers) sont disponibles pour t'aider dans la préparation des entretiens. 
+**Les [référents métiers](https://doc.incubateur.net/communaute/solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/laide-au-recrutement-des-referents-metiers) sont disponibles pour t'aider dans la préparation des entretiens.** Il est indispensable de les consulter si c'est la premmière fois que tu recrutes ou que tu sélectionnes un profil pour une mission en prestation.
 
 Pour déclencher un RDV d'accompagnement, RDV [👉ici](https://grist.numerique.gouv.fr/o/isn/forms/4QncvyEckeLHhdfRYFUxJF/7)
 
@@ -230,7 +230,7 @@ On clôture l'échange par des remerciements.
 
 * 10 min : contexte
 * 20 min : présentation : "pourquoi penses-tu pouvoir réaliser cette mission ?"
-* 45 min : entretien technique : "tu peux nous montrer du code que tu as développé, en production, et expliquer ce qui te plaît et ce qui te déplaît dedans ?" (**prévoir de venir avec sa machine,** ou du code hébergé auquel on pourrait accéder : une histoire à raconter sur pourquoi ce morceau de code ou son architecture te rend particulièrement fier·e, ou pourquoi celui-ci est vraiment très mauvais, pourquoi tu as décidé d'en arriver là, et comment tu aurais fait si les contraintes avaient été différentes)
+* 45 min : entretien technique : "tu peux nous montrer du code que tu as développé, en production, et expliquer ce qui te plaît et ce qui te déplaît dedans ?" (**prévoir de venir avec sa machine,** ou du code hébergé auquel on pourrait accéder : une histoire à raconter sur pourquoi ce morceau de code ou son architecture te rend particulièrement fièr(e), ou pourquoi celui-ci est vraiment très mauvais, pourquoi tu as décidé d'en arriver là, et comment tu aurais fait si les contraintes avaient été différentes)
 * 15 min : questions pratiques : disponibilité, conditions
 
 </details>
