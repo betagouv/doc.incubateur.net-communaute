@@ -64,7 +64,6 @@ mais vous pouvez indiquer des conditions pour réussir cette dernière. Par exem
 
 4. **Indiquer qu'un embarquement est obligatoire pour les missions** dont le volume prévu est supérieur à 17 500 euros (environ 3 jours semaine pendant 3 mois). "Un embarquement est obligatoire. Il est composé d'une demi journée en présentiel et de 6 visios de 1h répartie sur un mois. Il te permettra de rencontrer la communauté, de comprendre l'écosystème publique et de connaitre les standards de qualité beta.gouv.fr"
 5. **Renvoyer** [**vers notre documentation sur les indépendants**](https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/les-differents-statuts/independants-freelances)**.**
-6. **Lire la** [**charte de bonnes pratiques WTTJ**](https://doc.incubateur.net/communaute/les-outils-de-la-communaute/autres-services/welcome-to-the-jungle/charte-wttj)
 
 ## Obtenir un accès au Welcome to the Jungle
 
