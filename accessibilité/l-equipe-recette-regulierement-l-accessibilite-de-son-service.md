@@ -2,25 +2,24 @@
 
 ## Description
 
-L'accessibilité (ou l'inaccessibilité) ne se voit pas. Pour s'assurer
-de l'accessibilité d'un service, il faut le *manipuler* son service ;
-par exemple en naviguant au clavier.
+En accessibilité, les tests automatiques ne sont pas suffisament
+exhaustifs. Il est donc indispensable de pratiquer des tests manuels
+en complément. Ainsi, pour s'assurer de l'accessibilité d'un service,
+il faut le *manipuler* (par exemple en naviguant au clavier).
 
 Recetter manuellement permet d'éviter la dette d'accessibilité et de
-maintenir un niveau minimal de qualité. Cette régularité peut varier
-selon l'organisation de l'équipe :
+maintenir un niveau minimal de qualité.
 
-- à chaque nouvelle fonctionnalité
-- de manière mensuelle/trimestrielle/semestrielle
-- ...
-
-Recetter régulièrement plutôt qu'au dernier moment permet de :
+La régularité des tests manuels peut varier selon l'organisation de
+l'équipe (à chaque nouvelle fonctionnalité, de manière mensuelle...)
+De plus, recetter régulièrement plutôt qu'au dernier moment permet
+de :
 
 - résorber la dette d'accessibilité au fur et à mesure
-- recetter de plus en plus efficacement avec l'expérience
+- recetter de plus en plus efficacement avec l'expérience.
 
-Un certain nombre de gestes de vérification ne sont pas techniques et
-peuvent donc être répartis au sein de l'équipe.
+Cette recette peut être répartie au sein de l'équipe puisqu'elle ne demande
+pas de compétences techniques spécifique.
 
 ## Critères
 
@@ -30,4 +29,4 @@ peuvent donc être répartis au sein de l'équipe.
 ## Ressources
 
 - [10 choses faciles à vérifier pour un site plus accessible - doc.incubateur.net](https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/se-former/se-former-en-ligne/formation-a-laccessibilite/10-choses-faciles-a-verifier-pour-un-site-plus-accessible)
-- [Easy Checks – A First Review of Web Accessibility (en) - W3C](https://www.w3.org/WAI/test-evaluate/easy-checks/)
+- [Easy Checks – A First Review of Web Accessibility (en) - w3c.org](https://www.w3.org/WAI/test-evaluate/easy-checks/)
