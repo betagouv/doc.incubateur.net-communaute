@@ -9,7 +9,7 @@ description: >-
 
 Des membres de la communauté beta.gouv.fr travaillent un peu partout en France. Il existe une carte qui les recense. Tous les membres qui le souhaitent peuvent la [consulter](http://umap.openstreetmap.fr/fr/map/la-communaute-betagouv_498937) ou la [mettre à jour](http://umap.openstreetmap.fr/fr/map/anonymous-edit/498937:rNZ9vgD45VPxZlCh2TPIJoO6K0A) (pour ajouter une position, cliquez en haut à droite sur le stylo puis sur Ajouter un marqueur. Dans le marqueur, saisi ton nom-prénom, pour pouvoir être contacté·e sur Mattermost). Tu pourras ainsi peut-être trouver un membre près de chez toi pour télétravailler ensemble, partager un coworking ou tout simplement un ☕️.
 
-[![Carte de la communauté](../../.gitbook/assets/carte_communaute.png)](http://umap.openstreetmap.fr/fr/map/la-communaute-betagouv_498937)
+[![Carte de la communauté](/.gitbook/assets/carte_communaute.png)](http://umap.openstreetmap.fr/fr/map/la-communaute-betagouv_498937)
 
 ## Paris
 
@@ -96,15 +96,16 @@ Infos et réservation : [https://www.malt.fr/c/freelancers/coworking-space](http
 
 Une question ? 👉 [\~bureaux-bretagne](https://mattermost.incubateur.net/betagouv/channels/bureaux-bretagne)
 
-### [La Cordée](https://www.la-cordee.net/cordee/rennes/rennes-lices/?utm_source=google\&utm_medium=cpc\&gclid=Cj0KCQjwkt6aBhDKARIsAAyeLJ0CY3JIdbyvCtTvptDjI3Pw0Jtln16y1pwkmcTSsHaw6xEvFmErhiMaArykEALw_wcB)
+### [La Cordée Rennes](https://www.la-cordee.net/cordee/rennes/rennes-lices/)
 
-1 Carrefour Jouaust 35000 Rennes\
-Pourquoi : travailler Pré-requis :
+1 Carrefour Jouaust 35000 Rennes
+
+Pour:
 
 * venir travailler seul à la journée :
-  * soit devenir membre (\~50€/mois pour un accès à toutes les cordées de France + 3€/heure 👉 [les tarifs](https://www.la-cordee.net/nos-tarifs-ht-lyon-annecy-nantes-rennes/))
-  * soit se faire inviter par un des 5 membres beta (poser la question sur [\~bureaux-bretagne](https://mattermost.incubateur.net/betagouv/channels/bureaux-bretagne))
-* réserver une salle de réunion : possible sans être membre et sans abonnement, paiement à la demi-journée, 2 salles de \~ 5 à 10 places dispo
+  * soit devenir membre (35€HT/mois pour un accès à toutes les cordées de France + \~3€/heure 👉 [les tarifs](https://www.la-cordee.net/nos-tarifs-ht-lyon-annecy-nantes-rennes/))
+  * soit se faire inviter par un des membres de beta (poser la question sur [\~bureaux-bretagne](https://mattermost.incubateur.net/betagouv/channels/bureaux-bretagne))
+* réserver une salle de réunion : possible sans être membre et sans abonnement, paiement à la demi-journée, 2 salles de \~ 5 à 10 places dispo 👉 [les salles](https://www.la-cordee.net/salles-de-reunion/)
 
 ### [Tilab](https://www.bretagne.bzh/actualites/ti-lab-laboratoire-regional-dinnovation-publique/)
 
@@ -122,6 +123,17 @@ Une question ? 👉 [\~bureaux-betalyon](https://mattermost.incubateur.net/betag
 
 33 Rue Moncey, 69003 Lyon Contact-archipel@auvergne-rhone-alpes.gouv.fr 04.72.61.60.60
 
+### [La Cordée](https://www.la-cordee.net/cordee/lyon/lyon/)
+
+5 espaces !
+
+Pour:
+
+* venir travailler seul à la journée :
+  * soit devenir membre (plusieurs formules, à partir de 35€HT/mois pour un accès à toutes les cordées de France + \~3€/heure 👉 [les tarifs](https://www.la-cordee.net/nos-tarifs-ht-lyon-annecy-nantes-rennes/))
+  * soit se faire inviter par un des membres de beta
+* réserver une salle de réunion : possible sans être membre et sans abonnement, paiement à la demi-journée, prix très abordables, notamment pour des séminaires 👉 [les salles](https://www.la-cordee.net/salles-de-reunion/)
+
 ## Nantes
 
 Une question ? 👉 [\~bureaux-Nantes](https://mattermost.incubateur.net/betagouv/channels/nantes-coworking)
@@ -129,7 +141,18 @@ Une question ? 👉 [\~bureaux-Nantes](https://mattermost.incubateur.net/betagou
 ### [Etat’LIN](https://www.prefectures-regions.gouv.fr/pays-de-la-loire/Region-et-institutions/Organisation-administrative-de-la-region/Secretariat-General-pour-les-Affaires-Regionales-SGAR/Etat-LIN-le-Laboratoire-d-innovation-territoriale-de-l-Etat-en-region-Pays-de-la-Loire/Etat-LIN-c-est-quoi/#titre)
 
 6 quai Ceineray, 44000 Nantes - Pays de la Loire etatlin@pays-de-la-loire.gouv.fr\
-Plus d'informations sur le canal "[Bureaux-Nantes](https://mattermost.incubateur.net/betagouv/channels/nantes-coworking)"
+Plus d'informations sur le canal [\~bureaux-Nantes](https://mattermost.incubateur.net/betagouv/channels/nantes-coworking))
+
+### [La Cordée Nantes](https://www.la-cordee.net/cordee/nantes/sur-erdre/)
+
+33 rue de Strasbourg, 44000 Nantes, à côté de l'Erdre et pas loin de la gare/
+
+Pour:
+
+* venir travailler seul à la journée :
+  * soit devenir membre (plusieurs formules, à partir de 35€HT/mois pour un accès à toutes les cordées de France + \~3€/heure 👉 [les tarifs](https://www.la-cordee.net/nos-tarifs-ht-lyon-annecy-nantes-rennes/))
+  * soit se faire inviter par un des membres de beta (poser la question sur [\~bureaux-Nantes](https://mattermost.incubateur.net/betagouv/channels/nantes-coworking))
+* réserver une salle de réunion : possible sans être membre et sans abonnement, paiement à la demi-journée, prix très abordables, notamment pour des séminaires 👉 [les salles](https://www.la-cordee.net/salles-de-reunion/)
 
 ## Rouen
 
@@ -214,3 +237,16 @@ christophe.trouillard@jscs.gouv.fr
 À **Metz** les membres de la communauté beta seront toujours les bienvenus au tiers lieu + coworking BLIIIDA/Le Poulailler.
 
 Contact : Jérôme Desboeufs - [jerome.desboeufs@data.gouv.fr](mailto:jerome.desboeufs@data.gouv.fr)
+
+## Annecy
+
+### [La Cordée Annecy](https://www.la-cordee.net/cordee/annecy/annecy/)
+
+4 Rue Saint-François de Sales, 74000 Annecy
+
+Pour:
+
+* venir travailler seul à la journée :
+  * soit devenir membre (plusieurs formules, à partir de 35€HT/mois pour un accès à toutes les cordées de France + \~3€/heure 👉 [les tarifs](https://www.la-cordee.net/nos-tarifs-ht-lyon-annecy-nantes-rennes/))
+  * soit se faire inviter par un des membres de beta
+* réserver une salle de réunion : possible sans être membre et sans abonnement, paiement à la demi-journée, prix très abordables, notamment pour des séminaires 👉 [les salles](https://www.la-cordee.net/salles-de-reunion/)

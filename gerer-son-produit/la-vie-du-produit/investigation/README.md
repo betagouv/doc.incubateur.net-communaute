@@ -6,8 +6,6 @@ description: >-
 
 # 1️⃣ Investigation
 
-La phase d'investigation est décrite sur [le site de beta.gouv.fr](https://beta.gouv.fr/approche/investigation).
-
 Vous pouvez parcourir les pages de ce guide pour obtenir de plus amples informations sur la manière dont cette phase se déroule, ainsi que des ressources utiles pour faciliter votre travail si vous vous lancez dans une investigation.
 
 {% content-ref url="cest-quoi-concretement.md" %}
@@ -30,8 +28,8 @@ Vous pouvez parcourir les pages de ce guide pour obtenir de plus amples informat
 [choisir-ses-outils.md](choisir-ses-outils.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../../gerer-son-produit/guide-de-financement-des-startups-detat/4.-lenjeu-du-pilotage-par-limpact.md" %}
-[4.-lenjeu-du-pilotage-par-limpact.md](../../../gerer-son-produit/guide-de-financement-des-startups-detat/4.-lenjeu-du-pilotage-par-limpact.md)
+{% content-ref url="../../guide-de-financement-des-startups-detat/4.-lenjeu-du-pilotage-par-limpact.md" %}
+[4.-lenjeu-du-pilotage-par-limpact.md](../../guide-de-financement-des-startups-detat/4.-lenjeu-du-pilotage-par-limpact.md)
 {% endcontent-ref %}
 
 {% content-ref url="comment-repondre-a-un-sponsor-qui-demande-une-roadmap-produit.md" %}

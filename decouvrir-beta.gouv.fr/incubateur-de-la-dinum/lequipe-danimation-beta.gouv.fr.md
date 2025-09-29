@@ -14,7 +14,7 @@ L’incubateur de la DINUM est constitué d’une trentaine de personnes (agents
 
 ### :crown: L'équipe de Direction et Opérations
 
-Elle est constituée de 4 agents :
+Elle est constituée de 3 agents :
 
 * **Ishan Bhojwani**, Chef du département Incubateur de Services numériques
 * **Alice Pannetrat,** Directrice des opérations
@@ -24,9 +24,8 @@ Elle est constituée de 4 agents :
 
 Les [**responsables de portefeuille** ](../../travailler-chez-beta.gouv.fr/les-differents-metiers/responsable-de-portefeuille/)s'occupent de soutenir les équipes produit et les incubateurs dans leurs travaux en fonction de leur périmètre ministériel :
 
-* **Elsa Le Duigou** : Santé, Cybersécurité et IA
 * **Clémence Lopez** : Education Nationale, Enseignement supérieur, Sports
-* **Estelle Saget** : Jeunesse et Vie Associative, Solidarités et Inclusion, Justice
+* **Estelle Saget** : Santé, Jeunesse et Vie Associative, Solidarités et Inclusion, Justice
 * **Maël Inizan** : Logement
 * **Adrien Zemour** : Territoire, Affaires Etrangères, Transition Ecologique et Culture
 * **Magali Marcel-Garreau** : Economie et Finances publiques, Agriculture
@@ -36,8 +35,10 @@ Les [**responsables de portefeuille** ](../../travailler-chez-beta.gouv.fr/les-d
 
 Ce pôle est en charge du [Fond d'Accélération des Startups d'Etat et de Territoires (FAST)](../../gerer-son-produit/la-vie-du-produit/acceleration/fonds-dacceleration-des-startups-detat.md) et en 2024 du Fonds Numérique pour la Planification Écologique. Il propose un accompagnement humain et financier. Il est composé de :
 
-* **Paul Burgun**, Responsable du pôle
+* **Benjamin Doberset**, Responsable du pôle
 * **Claire Duizabo**, Experte accélération
+* **Séverine Hours,** Experte accélération
+* **Hughes Le Chevallier**, Expert accélération
 * **Chaïb Martinez**, Expert accélération
 * **John Labuzan**, Expert accélération
 * **Octave Bory**, Expert accélération
@@ -46,7 +47,6 @@ Ce pôle est en charge du [Fond d'Accélération des Startups d'Etat et de Terri
 
 Le pôle garantit un environnement de travail le plus attractif possible, anime et outille le réseau des incubateurs ministériels, des intrapreneurs et des EIG, et fournit des expertises aux Startups d’État (tech, accessibilité...). Il est composé de :
 
-* **Benjamin Doberset,** responsable de pôle
 * **Marine Purson**, adjointe en charge des relations institutionnelles et de la communication
 * **Julien Bouquillon,** référent technique (CTO) de la communauté
 * **Stéphane Maniaci,** référent qualité tech (Tech Lead)
@@ -55,6 +55,7 @@ Le pôle garantit un environnement de travail le plus attractif possible, anime 
 * **Divine Tende** (alternante), chargée d'animation de communauté et de communication
 * **Nicolas Tourneur,** chargé des ressources humaines de la communauté
 * **Marine-Pétroline Soichot,** chargée d'ingénierie pédagogique
+* **Renaud Durand,** expert Cybersécurité
 
 L'animation de la communauté beta.gouv.fr n'est pas l'exclusivité de l'incubateur de la DINUM : d'autres personnes peuvent et sont invitées à contribuer à la réussite du collectif (agents des incubateurs ministériels, freelances, etc.).
 

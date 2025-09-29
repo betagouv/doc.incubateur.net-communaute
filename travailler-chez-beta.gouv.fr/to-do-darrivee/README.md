@@ -50,9 +50,9 @@ Tu peux la consulter en version documentation juste ici 👇.
 * [ ] Avant toute chose tu dois impérativement demander à ton référent de [créer ta fiche membre](../../les-outils-de-la-communaute/espace-membre/premier-pas-indispensable-creer-ta-fiche-membre.md)
 * [ ] Compléter ta [fiche membre](https://espace-membre.incubateur.net/)
   * [ ] Consulter [l'observatoire de beta.gouv.fr](https://espace-membre.incubateur.net/metabase) puis [y contribuer](https://espace-membre.incubateur.net/)
-* [ ] Participer à [l'embarquement en visioconférence obligatoire dans la communauté](https://airtable.com/appebTa6XsY6fDixm/shr7l159rsB5KpJcO?prefill_Formation=recA5QKXcYrIcCRQj)
+* [ ] Participer à [l'embarquement en visioconférence obligatoire dans la communauté](https://espace-membre.incubateur.net/formations?filter=)
 * [ ] Programmer un échange avec le titulaire de ton marché public si tu es prestataire
-* [ ] Lire l'email de bienvenue dans la communauté et regarder [la vidéo de présentation de beta.gouv.fr](https://www.youtube.com/watch?v=bqq5LevJESs)
+* [ ] Lire l'email de bienvenue dans la communauté et regarder [la vidéo de présentation de beta.gouv.fr](https://tube.numerique.gouv.fr/w/uoqH4BLXqLFS2HsLZRcBLJ)
 * [ ] Prendre connaissance des [valeurs de beta.gouv.fr](../../decouvrir-beta.gouv.fr/valeurs.md)
 * [ ] Lire la documentation sur nos [standards de qualité](../../gerer-son-produit/les-standards/)
 * [ ] Découvrir [les canaux mattermost recommandés](../../les-outils-de-la-communaute/mattermost/canaux-recommandes.md)
@@ -107,11 +107,10 @@ Tu peux la consulter en version documentation juste ici 👇.
 * [ ] Participer **obligatoirement** à la journée d'embarquement dédiée aux nouveaux membres lors du **forum mensuel** de beta.gouv.fr (l'invitation est/sera dans ta boite webmail 😉)
 * [ ] Participer à une session de **présentation de ton incubateur de rattachement**
 * [ ] Participer à toutes les sessions en visioconférence (45 minutes maximum) de **focus thématiques obligatoires** (les invitations sont/seront dans ta boite webmail 😉)
-  * [ ] \#1 BABa de l'administration : maîtrise les essentiels pour naviguer avec grâce dans les méandres de l’administration. 
+  * [ ] \#1 BABa de l'administration : maîtrise les essentiels pour naviguer avec grâce dans les méandres de l’administration.
   * [ ] \#2 Feedback : pratique le feedback pour bien travailler avec des gens différents
   * [ ] \#3 RGPD & conformité : comment ne pas finir en prison quand on bosse sur un produit numérique
-  * [ ] \#4 Déploiement et support : vends un produit gratuit et chéris tes utilisateurs et utilisatrices avec un service 5 étoiles 
-
+  * [ ] \#4 Déploiement et support : vends un produit gratuit et chéris tes utilisateurs et utilisatrices avec un service 5 étoiles
 * [ ] Participer à un point de rencontre grâce aux [clubs métiers](https://doc.incubateur.net/communaute/decouvrir-beta.gouv.fr/la-communaute/les-rituels/clubs-de-partage-dexperience)
 * [ ] Co-construire avec le responsable de l'équipe produit tes objectifs de mission et les livrables associés en utilisant ce [modèle](https://docs.numerique.gouv.fr/docs/be5ddf8c-83bf-42b9-96f5-8d5aed18dd98/)
 * [ ] \[Si tu rejoins une nouvelle startup], créer avec l'équipe une **fiche produit** sur beta.gouv.fr, [directement sur Github](https://github.com/betagouv/beta.gouv.fr/tree/master/content/_startups) ou en passant par l'interface de gestion des fiches produits sur l'espace membre. Tu peux t'inspirer [des autres produits](https://beta.gouv.fr/startups/) pour le format et le contenu

@@ -66,7 +66,7 @@ Enfin, ces 2 outils impliquent d'uploader sur des serveurs les PDFs. À recomman
 
 Avec [PAC (PDF Accessibility Checker)](https://pac.pdf-accessibility.org/en), disponible uniquement sur Windows, il est possible d'avoir des détails sur les erreurs d'accessibilité. La documentation [Comprendre et corriger les erreurs d’accessibilités](https://tanaguru.com/pac-comprendre-et-corriger-les-erreurs-daccessibilite) donne des indications sur comment les corriger.
 
-[PDFix Desktop Lite](https://pdfix.net/products/pdfix-desktop-lite/) permet d'analyser un fichier, mais aussi de le corriger. Il propose aussi une fonctionnalité pour faciliter le balisage des contenus (bien que des opérations manuelles seront nécessaires, par exemple pour les alternatives aux images).
+[PDFix Desktop Lite](https://pdfix.net/products/pdfix-desktop-lite/) permet d'analyser un fichier. Il propose aussi une fonctionnalité pour faciliter le balisage des contenus (bien que des opérations manuelles seront nécessaires, par exemple pour les alternatives aux images), mais elle est payante.
 
 #### En ligne de commande
 
@@ -88,7 +88,7 @@ Cette alternative peut être un autre document à télécharger, mais qui privil
 
 S'il n'est pas possible de produire des PDFs accessible, il est toujours possible de les rendre accessible à posteriori.
 
-Les logiciels Acrobat Pro ou PDFix le permettent, moyennant du temps. La démarche à suivre pour Acrobat est décrite dans la notice [Rendre accessibles les documents PDF avec Adobe Acrobat](https://www.pdf-accessible.com/notices-accessibilite-indesign-acrobat/#acrobat).
+Les logiciels Acrobat Pro ou PDFix (tous les deux payants) le permettent, moyennant du temps. La démarche à suivre pour Acrobat est décrite dans la notice [Rendre accessibles les documents PDF avec Adobe Acrobat](https://www.pdf-accessible.com/notices-accessibilite-indesign-acrobat/#acrobat).
 
 Cette solution est particulièrement adaptée quand le nombre de PDF est limité.
 

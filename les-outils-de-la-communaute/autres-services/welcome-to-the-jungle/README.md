@@ -14,14 +14,11 @@ Nous te proposons ce [modèle](https://docs.numerique.gouv.fr/docs/f9b38739-85ae
 Ce support te propose la structure idéale d'une annonce percutante et limitera fortement le risque de non-conformité. Remplis la en t'appuyant sur la fiche de cadrage que tu as réalisé en début processus : ce document en est simplement la traduction marketing, il a pour but de générer facilement des candidatures de qualité.
 
 Les [référents métiers](https://doc.incubateur.net/communaute/solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/laide-au-recrutement-des-referents-metiers) sont disponibles pour t'aider dans la préparation de ton annonce. 
-
 Pour déclencher un RDV d'accompagnement, rendez-vous [👉ici](https://grist.numerique.gouv.fr/o/isn/forms/4QncvyEckeLHhdfRYFUxJF/7)
-
 
 ## Qu'est-ce que Welcome to the Jungle ?
 
 Le programme beta.gouv.fr [dispose d’une page sur la plateforme “Welcome to the Jungle”](https://www.welcometothejungle.com/fr/companies/communaute-beta-gouv) qui permet d’attirer des profils pertinents pour le réseau beta.gouv.fr. Tu peux publier ton offre sur la page vitrine de beta.gouv.fr, puis tu pourras y recevoir et y gérer les candidatures.
-
 <figure><img src="../../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
 Cet outil est mis à disposition de l’ensemble du réseau beta.gouv.fr. En particulier, les entreprises titulaires de [nos marchés publics](../../../gerer-son-produit/gestion-au-quotidien/marches/) peuvent l'utiliser afin de faciliter leur sourcing de profils pour le compte des produits conçus selon l’approche Startup d’État, en profitant du rayonnement du label beta.gouv.fr.
@@ -69,8 +66,8 @@ Voici les bonnes pratiques et règles à suivre pour que l’utilisation de la p
 
 #### 1. Indiquer clairement qu’il s’agit d’une mission <a href="#id-1-indiquer-clairement-quil-sagit-dune-mission" id="id-1-indiquer-clairement-quil-sagit-dune-mission"></a>
 
-* Le titre de l’offre doit mentionner que c’est une mission. Par exemple : \[Mission]Chargé de déploiement pour Envergo&#x20;
-* La description de l’offre doit indiquer dès le début que c’est une mission avec ton titulaire et non un poste. Exemple : 🪧 Offre de mission via NUMA, le titulaire de notre marché public.
+* Le titre de l’offre doit mentionner que c’est une mission. Par exemple : \[Mission]Chargé de déploiement pour Envergo
+* La description de l’offre doit indiquer dès le début que c’est une mission avec votre titulaire et non un poste. Exemple : 🪧 Offre de mission via NUMA, le titulaire de notre marché public.
 * Pour rappel, la diffusion de l’offre de mission doit se faire uniquement après avoir sollicité le titulaire du marché public.
 
 #### 2. Ne pas utiliser des expressions portant à confusion avec un emploi salarié <a href="#id-2-ne-pas-utiliser-des-expressions-portant-a-confusion-avec-un-emploi-salarie" id="id-2-ne-pas-utiliser-des-expressions-portant-a-confusion-avec-un-emploi-salarie"></a>
@@ -86,9 +83,8 @@ Voici les bonnes pratiques et règles à suivre pour que l’utilisation de la p
 
 Tu peux toutefois indiquer des conditions pour réussir cette dernière. Par exemple, tu ne peux pas imposer d’horaires ni des jours spécifiques de la semaine. En revanche, il est possible de demander à ce que la personne travaille en présentiel avec l’équipe ou qu’elle s’adapte aux horaires des usagers.
 
-4. **Indiquer qu'un embarquement est obligatoire pour les missions** dont le volume prévu est supérieur à 17 500 euros (environ 3 jours semaine pendant 3 mois).  "Un embarquement est obligatoire. Il est composé d'une demi journée en présentiel et de 6 visios de 1h répartie sur un mois. Il te permettra de rencontrer la communauté, de comprendre l'écosystème publique et de connaitre les standards de qualité beta.gouv.fr"
+4. **Indiquer qu'un embarquement est obligatoire pour les missions** dont le volume prévu est supérieur à 17 500 euros (environ 3 jours semaine pendant 3 mois). "Un embarquement est obligatoire. Il est composé d'une demi journée en présentiel et de 6 visios de 1h répartie sur un mois. Il te permettra de rencontrer la communauté, de comprendre l'écosystème publique et de connaitre les standards de qualité beta.gouv.fr"
 5. **Renvoyer** [**vers notre documentation sur les indépendants**](https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/les-differents-statuts/independants-freelances)**.**
-6. **Lire la** [**charte de bonnes pratiques WTTJ**](https://doc.incubateur.net/communaute/les-outils-de-la-communaute/autres-services/welcome-to-the-jungle/charte-wttj)
 
 ## Diffuser une offre
 
@@ -126,12 +122,14 @@ La plateforme Welcome to the Jungle est un outil supplémentaire qui permet d’
 _**Rappeler les valeurs de beta**_\
 Rappele lors des échanges, l’importance des valeurs de beta et de notre culture de travail. Assure toi que le candidat les a lues et s'y reconnait.\
 \
+
 _**Aller voir les candidatures spontanées**_\
 Le site vitrine du Welcome to the jungle permet les candidatures spontanées, n’hésite pas à regarder si des profils peuvent t'intéresser. Pour ce faire il faut se rendre dans l’offre “candidature spontanée”.
 
 _**Mettre à jour le Welcome Kit**_\
 Mettre à jour la carte des candidats tout au long du process de sélection.\
 \
+
 _**Faire attention aux biais**_\
 Nous sommes tous biaisés, nous t'invitons fortement à y faire attention et [à te sensibiliser](https://mozaikrh.com/11-biais-cognitifs-a-connaitre-pour-mieux-recruter/) si ce n'est pas déjà fait !\
 \
