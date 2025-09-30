@@ -1,13 +1,13 @@
 # Embarquer un nouveau membre de son équipe
 
-Tu as sélectionné un nouveau membre pour intégrer ton équipe ? Cette page est prévue pour t'aider à l'embarquer dans la communauté !\
-Ce parcours d'embarquement est un socle de base conçu pour permettre au nouveau membre de ton équipe d'appréhender le plus efficacement possible son nouvel environnement.
+Tu accueilles un nouveau membre pour intégrer l'équipe de ton service numérique ? Cette page est prévue pour t'aider à l'embarquer dans la communauté !\
+Ce parcours d'embarquement est un socle de base conçu pour permettre au nouveau membre de l'équipe d'appréhender le plus efficacement possible son nouvel environnement.
 
 ## 🐥 L'embarquement commun chez beta.gouv.fr
 
 ### Pourquoi un embarquement commun ?
 
-Le parcours d'embarquement est **obligatoire** pour tous les nouveaux prestataires rejoignant la communauté. Son but est de les aider et leur permettre :
+Le parcours d'embarquement est **indispensable** pour tous les nouveaux prestataires rejoignant la communauté. Son but est de les aider et leur permettre :
 
 * De comprendre les standards et valeurs de la communauté beta.gouv.fr
 * De comprendre leur mission et la pratique de leur métier dans le contexte de beta.gouv.fr
