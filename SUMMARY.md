@@ -164,6 +164,8 @@
 * [📈 Le déploiement](gerer-son-produit/pourquoi-le-deploiement-dun-service-public-en-ligne-est-il-important/README.md)
   * [Trouver ses premiers utilisateurs](gerer-son-produit/pourquoi-le-deploiement-dun-service-public-en-ligne-est-il-important/chapitre-1.md)
   * [Valider sa proposition de valeur et développer sa stratégie de déploiement](gerer-son-produit/pourquoi-le-deploiement-dun-service-public-en-ligne-est-il-important/chapitre-2.md)
+  * [Accélérer la croissance de son service avec la méthode AARRI](gerer-son-produit/pourquoi-le-deploiement-dun-service-public-en-ligne-est-il-important/methode-aarri.md)
+  * [Piloter par la North Star Metric](gerer-son-produit/pourquoi-le-deploiement-dun-service-public-en-ligne-est-il-important/north-star-metric.md)
   * [SEO et référentiel naturel](gerer-son-produit/pourquoi-le-deploiement-dun-service-public-en-ligne-est-il-important/seo.md)
   * [Réseaux sociaux](gerer-son-produit/pourquoi-le-deploiement-dun-service-public-en-ligne-est-il-important/reseaux-sociaux.md)
   * [Organiser un jeu concours](gerer-son-produit/pourquoi-le-deploiement-dun-service-public-en-ligne-est-il-important/organiser-un-jeu-concours.md)
