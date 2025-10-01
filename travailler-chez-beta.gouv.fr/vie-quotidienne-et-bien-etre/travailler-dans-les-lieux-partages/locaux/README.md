@@ -45,14 +45,11 @@ Une imprimante est disponible physiquement au fond de la salle de droite, et sur
 
 Si tu souhaites venir travailler dans ces locaux, la marche à suivre est simple :
 
-1. Au moins un jour avant, signaler sa venue à un agent de l'incubateur de la DINUM ou demander sur le canal mattermost [#bureaux-Ségur](https://mattermost.incubateur.net/betagouv/channels/bureaux-segur) qu'on t'y invite. Tu pourras remplir un formulaire d'accès présent dans l'entête de ce canal.\
-   Si tu connais un agent de l'Incubateur, il peut également envoyer un mail à **accueil-segur@segur.gouv.fr** au minimum 24h avant ta venue. Ce mail doit être envoyé d'une adresse mail @beta.gouv.fr ou autre mail d'agent public.
+1. Remplir ce formulaire, idéalement au moins 48h avant ta venue pour signaler ta venue. Si tu n'as pas de retour ou que tu es en retard sur le délai, tu peux faire ta demande dans le canal Mattermost [#bureaux-Ségur](https://mattermost.incubateur.net/betagouv/channels/bureaux-segur). Un agent de l'Incubateur enverra un email à **accueil-segur@segur.gouv.fr** pour prévenir de ta venue.
 2. Le jour J, se munir d'une pièce d'identité.
 3. Se rendre à l'accueil au 20 avenue de Ségur.
-4. À l'accueil, indiquer qu'un rendez-vous a été pris avec l'Incubateur de services numériques de la DINUM, en indiquant bien le nom de la personne visitée.
-5. L'accueil va nous appeler et te délivrer un badge au visiteur pendant que ton contact vient t'accueillir.
-
-Il est préférable d'avoir le numéro de téléphone du contact pour le ou la joindre directement en cas de difficulté.
+4. À l'accueil, indiquer qu'un rendez-vous a été pris avec l'Incubateur de services numériques de la DINUM.
+5. L'accueil te délivrera un badge visiteur pour la journée.
 
 ### Venir régulièrement à Ségur
 
