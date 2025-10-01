@@ -9,17 +9,36 @@ description: >-
 
 L'appartenance à la communauté beta.gouv.fr te donne la possibilité de venir travailler dans les locaux de la DINUM en plus de tes espaces de travail habituels (ton espace de coworking, ton administration, chez toi…). Ils se situent au 20 avenue de Ségur, 75007 Paris.
 
-## Informations pratiques
+## Informations d'accès
 
-20 avenue de Ségur, 75007 Paris
-
-Métro Ségur (ligne 10), Cambronne (ligne 6), Ecole militaire (ligne 8) ou Saint-François-Xavier (ligne 13).
-
-Ouvert du lundi au vendredi de 7h à 22h.
-
-Les bureaux de l'incubateur sont au 5e étage, en salles 5.428 et 5.413, accessibles par l'ascenseur A.
+* Adresse : 20 avenue de Ségur, 75007 Paris\
+  Les bureaux de l'incubateur sont au 5e étage, en salles 5.428 et 5.413, accessibles par l'ascenseur A.
+* Accès transport : métro Ségur (ligne 10), Cambronne (ligne 6), Ecole militaire (ligne 8) ou Saint-François-Xavier (ligne 13).
+* Ouvert du lundi au vendredi de 7h à 22h.
 
 Tu peux poser toutes tes questions sur [\~bureaux-ségur](https://mattermost.incubateur.net/betagouv/channels/bureaux-segur)
+
+### Accès visiteur à la journée à Ségur
+
+Si tu souhaites venir travailler dans ces locaux, la marche à suivre est simple :
+
+1. Remplir ce formulaire, idéalement au moins 48h avant ta venue pour signaler ta venue. Si tu n'as pas de retour ou que tu es en retard sur le délai, tu peux faire ta demande dans le canal Mattermost [#bureaux-Ségur](https://mattermost.incubateur.net/betagouv/channels/bureaux-segur). Un agent de l'incubateur enverra un email à **accueil-segur@segur.gouv.fr** pour prévenir de ta venue.
+2. Le jour J, se munir d'une pièce d'identité.
+3. Se rendre à l'accueil au 20 avenue de Ségur.
+4. À l'accueil, indiquer qu'un rendez-vous a été pris avec l'Incubateur de services numériques de la DINUM.
+5. L'accueil te délivrera un badge visiteur pour la journée.
+
+{% content-ref url="faire-une-demande-de-badge.md" %}
+[faire-une-demande-de-badge.md](faire-une-demande-de-badge.md)
+{% endcontent-ref %}
+
+### Venir régulièrement à Ségur
+
+Si tu souhaites venir travailler régulièrement à l'Incubateur dans les open spaces, il te faut obtenir un badge permanent. Attention, **il est impératif de venir au moins 2 jours par semaine** pour en bénéficier.
+
+
+
+## Informations pratiques
 
 ### Internet
 
@@ -35,33 +54,9 @@ Si tu organises une réunion à Ségur qu'il y a des besoins en termes de restau
 
 En tant que visiteur, il est possible d'acheter un ticket cantine pour 13€ à la cafétéria.
 
-### Imprimer
-
-Une imprimante est disponible physiquement au fond de la salle de droite, et sur le réseau imprimante.segur.beta.gouv.fr
-
-## Les accès à Ségur
-
-### Accès visiteur à la journée à Ségur
-
-Si tu souhaites venir travailler dans ces locaux, la marche à suivre est simple :
-
-1. Remplir ce formulaire, idéalement au moins 48h avant ta venue pour signaler ta venue. Si tu n'as pas de retour ou que tu es en retard sur le délai, tu peux faire ta demande dans le canal Mattermost [#bureaux-Ségur](https://mattermost.incubateur.net/betagouv/channels/bureaux-segur). Un agent de l'Incubateur enverra un email à **accueil-segur@segur.gouv.fr** pour prévenir de ta venue.
-2. Le jour J, se munir d'une pièce d'identité.
-3. Se rendre à l'accueil au 20 avenue de Ségur.
-4. À l'accueil, indiquer qu'un rendez-vous a été pris avec l'Incubateur de services numériques de la DINUM.
-5. L'accueil te délivrera un badge visiteur pour la journée.
-
-### Venir régulièrement à Ségur
-
-Si tu souhaites venir travailler régulièrement à l'Incubateur dans les open spaces, il te faut obtenir un badge permanent. Attention, **il est impératif de venir au moins 2 jours par semaine** pour en bénéficier.
-
-{% content-ref url="faire-une-demande-de-badge.md" %}
-[faire-une-demande-de-badge.md](faire-une-demande-de-badge.md)
-{% endcontent-ref %}
-
 ### Organiser une réunion à Ségur
 
-:warning: Attention ! L'équipe de l'Incubateur ayant bien grandi depuis les débuts de beta.gouv.fr, et pour des questions de place, **il n'est plus possible d'utiliser les salles de réunion situées à proximité des open spaces du 5e pour organiser des réunions d'équipe à la journée ou des séminaire d'équipe**. Par ailleurs, **pour des raisons de sécurité**, le bâtiment de Ségur étant en vigilance renforcée, il nous est demandé de limiter le nombre de visiteurs "autonomes".
+:warning: Attention ! L'équipe de l'incubateur ayant bien grandi depuis les débuts de beta.gouv.fr, et pour des questions de place, **il n'est plus possible d'utiliser les salles de réunion situées à proximité des open spaces du 5e pour organiser des réunions d'équipe à la journée ou des séminaire d'équipe**. Par ailleurs, **pour des raisons de sécurité**, le bâtiment de Ségur étant en vigilance renforcée, il nous est demandé de limiter le nombre de visiteurs "autonomes".
 
 Si tu souhaites organiser une réunion, un atelier ou un séminaire d'équipe en présentiel, voici les différentes options qui s'offrent à toi :
 
