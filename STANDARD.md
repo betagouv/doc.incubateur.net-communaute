@@ -1,9 +1,9 @@
 # Modèle de standard beta.gouv.fr
 
-Les fiches Standards de beta.gouv.fr sont des documents Markdown qui 
+Les fiches Standards de beta.gouv.fr sont des documents Markdown qui
 documentent les normes de qualités que nous visons chez beta.gouv.fr.
-Nous les voulons claires, utiles et actionnables pour aider la communauté 
-à les atteindre dans la réalisation de leurs produits.
+Nous les voulons claires, utiles et actionnables pour aider la
+communauté à les atteindre dans la réalisation de leurs produits.
 
 ## Structure et exemple type
 
@@ -62,7 +62,7 @@ sont les bienvenus.
 ## Ressources
 
 - [Étude d'autres standards par l'équipe
-  Animation](https://pad.numerique.gouv.fr/RMyVz4piTheqvxqNMNGI-A#)
+  Animation - pad.numerique.gouv.fr](https://pad.numerique.gouv.fr/RMyVz4piTheqvxqNMNGI-A#)
 
 ## Critères
 
@@ -74,3 +74,17 @@ sont les bienvenus.
 - le standard est facile à valider : les critères sont binaires et
   simples à vérifier.
 ```
+
+## Autres remarques
+
+### Tournures positives des critères
+
+Les critères doivent privilégier des tournures positives car notre
+outil d'évaluation les transforme en "Est-ce que [XXX] ?". Comparez :
+
+> Est-ce que l'équipe n'utilise pas d'adresse e-mail bloquante ? [étrange]
+
+versus
+
+> Est-ce que l'équipe utilise une adresse e-mail à laquelle les
+> utilisateurs peuvent répondre ? [naturel].

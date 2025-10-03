@@ -24,8 +24,8 @@ traitement des réponses avec des délais clairs.
 
 - Un moyen de contact est visible sur chaque page importante
 - Le service propose au moins deux canaux de contact différents
-- L'équipe n'utilise pas d'adresse e-mail bloquante ("no-reply",
-  "ne-pas-repondre", etc)
+- L'équipe utilise une adresse e-mail à laquelle les utilisateurs
+  peuvent répondre
 - L'équipe suit et analyse les retours pour améliorer le service
 
 ## Ressources
