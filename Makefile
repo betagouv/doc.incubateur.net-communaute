@@ -29,13 +29,13 @@ lint-md:
 	npm run lint
 
 lint-custom:
-	bundle exec ruby scripts/check_files.rb $(RULES)
+	bundle exec ruby .scripts/check_files.rb $(RULES)
 
 lint-filenames:
-	bundle exec ruby scripts/rename_file_based_on_header.rb $(RULES)
+	bundle exec ruby .scripts/rename_file_based_on_header.rb $(RULES)
 
 fix-filenames:
-	bundle exec ruby scripts/rename_file_based_on_header.rb --fix $(RULES)
+	bundle exec ruby .scripts/rename_file_based_on_header.rb --fix $(RULES)
 
 export:
-	bundle exec ruby scripts/convert_markdown_to_yml.rb
+	bundle exec ruby .scripts/convert_markdown_to_yml.rb
