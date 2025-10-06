@@ -55,12 +55,12 @@ Ne pas respecter les standards de qualité devra être justifié.
 [les-standards](../../../gerer-son-produit/les-standards/)
 {% endcontent-ref %}
 
-{% content-ref url="../../../gerer-son-produit/les-standards/standards-de-qualite-beta.gouv.fr/" %}
-[standards-de-qualite-beta.gouv.fr](../../../gerer-son-produit/les-standards/standards-de-qualite-beta.gouv.fr/)
+{% content-ref url="../../../gerer-son-produit/les-standards/standards-de-qualite-beta.gouv.fr.md" %}
+[standards-de-qualite-beta.gouv.fr.md](../../../gerer-son-produit/les-standards/standards-de-qualite-beta.gouv.fr.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../../gerer-son-produit/les-standards/standards-de-qualite-beta.gouv.fr/choisir-des-technologies.md" %}
-[choisir-des-technologies.md](../../../gerer-son-produit/les-standards/standards-de-qualite-beta.gouv.fr/choisir-des-technologies.md)
+{% content-ref url="../../../gerer-son-produit/aide-a-la-mise-en-application-des-standards/choisir-des-technologies.md" %}
+[choisir-des-technologies.md](../../../gerer-son-produit/aide-a-la-mise-en-application-des-standards/choisir-des-technologies.md)
 {% endcontent-ref %}
 
 {% content-ref url="./" %}
@@ -77,16 +77,16 @@ Pour t'aider à situer ta startup d'État par rapport à ces standards de qualit
 
 Dans le cadre du travail avec l'administration, il est important de connaître les contraintes légales en terme de Sécurité, de Protection des donnée et d'accessibilité.
 
-{% content-ref url="../../../gerer-son-produit/les-standards/protection-des-donnees-personnelles/" %}
-[protection-des-donnees-personnelles](../../../gerer-son-produit/les-standards/protection-des-donnees-personnelles/)
+{% content-ref url="../../../gerer-son-produit/les-standards/protection-des-donnees-personnelles.md" %}
+[protection-des-donnees-personnelles.md](../../../gerer-son-produit/les-standards/protection-des-donnees-personnelles.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../../gerer-son-produit/standards/securite/" %}
-[securite](../../../gerer-son-produit/standards/securite/)
+{% content-ref url="../../../gerer-son-produit/les-standards/securite.md" %}
+[securite.md](../../../gerer-son-produit/les-standards/securite.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../../gerer-son-produit/les-standards/accessibilite-and-inclusion/" %}
-[accessibilite-and-inclusion](../../../gerer-son-produit/les-standards/accessibilite-and-inclusion/)
+{% content-ref url="../../../gerer-son-produit/les-standards/accessibilite-and-inclusion.md" %}
+[accessibilite-and-inclusion.md](../../../gerer-son-produit/les-standards/accessibilite-and-inclusion.md)
 {% endcontent-ref %}
 
 ### Demander de l'aide

@@ -63,7 +63,7 @@ Attention, la loi ne s'applique pas dans les cas de collecte, enregistrement ou 
 
 * Est-ce que le produit que je construit peut se rattacher à une démarche administrative existante, un service, ou un texte juridique permettant de justifier le traitement de certaines données ? Quelle est ma base légale de traitement ? Note : la base légale sera principalement la [mission d'intérêt public](https://www.cnil.fr/fr/les-bases-legales/mission-interet-public), ou bien [l'obligation légale](https://www.cnil.fr/fr/les-bases-legales/obligation-legale). Le [consentement](https://www.cnil.fr/fr/les-bases-legales/consentement) est à exclure dans l'administration (voir la section À ne pas faire).
 * Qui est mon référent RGPD (DPO ou délégué DPO) ou sécurité ?
-* Quelle solution d'hébergement utilisé-je pour mon site ? Est-elle opérée ou localisée en France, en Europe ? Est-ce que je traite des données sensibles ou de santé qui nécessitent un hébergeur particulier ? (voir [page Hébergement](../../gestion-au-quotidien/tech/infra.md) > schéma de choix hébergeur)
+* Quelle solution d'hébergement utilisé-je pour mon site ? Est-elle opérée ou localisée en France, en Europe ? Est-ce que je traite des données sensibles ou de santé qui nécessitent un hébergeur particulier ? (voir [page Hébergement](../gestion-au-quotidien/tech/infra.md) > schéma de choix hébergeur)
 {% endtab %}
 
 {% tab title="A faire " %}

@@ -4,13 +4,13 @@
 
 Pour les grandes étapes et les questions associées à la conformité, vous pouvez vous référer à ce guide.
 
-{% content-ref url="../" %}
-[..](../)
+{% content-ref url="../../../les-standards/protection-des-donnees-personnelles.md" %}
+[protection-des-donnees-personnelles.md](../../../les-standards/protection-des-donnees-personnelles.md)
 {% endcontent-ref %}
 
 ### Règle générale :
 
-Quand vous prenez des décisions, documentez-les et expliciter votre argumentaire. Dans le domaine technique on parle de “[Architecture Decision Records](https://github.com/joelparkerhenderson/architecture\_decision\_record)”. Les aspects juridiques et sécuritaires font partie de votre architecture.
+Quand vous prenez des décisions, documentez-les et expliciter votre argumentaire. Dans le domaine technique on parle de “[Architecture Decision Records](https://github.com/joelparkerhenderson/architecture_decision_record)”. Les aspects juridiques et sécuritaires font partie de votre architecture.
 
 “Documentation” ne veut pas dire “roman fleuve”. Un pad, un titre, un ou deux paragraphes peuvent suffire. Privilégiez la découvrabilité de vos relevés de décision : regroupez-les dans un document servant de table des matières par exemple.
 

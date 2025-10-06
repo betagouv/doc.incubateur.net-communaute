@@ -4,21 +4,20 @@ description: >-
   (voir publier une offre, ci dessous).
 ---
 
-# Publier une annonce sur Welcome To The Jungle
+# Welcome To The Jungle
 
 ## Préparer la publication de son annonce
 
 Après avoir terminé le cadrage de ton besoin avec l'aide d'un **référent métier** et à partir du [modèle proposé](https://docs.numerique.gouv.fr/docs/1465f149-e5c2-4c73-ac9c-37c5c76b6992/), il est temps de passer à la phase de publication de ton offre.
 
-Nous te proposons ce [modèle](https://docs.numerique.gouv.fr/docs/f9b38739-85ae-455e-93af-c9c8380fd5d3/) qui devrait t'aider à rédiger une offre conforme pour la sélection d'une personne en prestation pour une mission. 
-Ce support te propose la structure idéale d'une annonce percutante et limitera fortement le risque de non-conformité. Remplis la en t'appuyant sur la fiche de cadrage que tu as réalisé en début processus : ce document en est simplement la traduction marketing, il a pour but de générer facilement des candidatures de qualité.
+Nous te proposons ce [modèle](https://docs.numerique.gouv.fr/docs/f9b38739-85ae-455e-93af-c9c8380fd5d3/) qui devrait t'aider à rédiger une offre conforme pour la sélection d'une personne en prestation pour une mission. Ce support te propose la structure idéale d'une annonce percutante et limitera fortement le risque de non-conformité. Remplis la en t'appuyant sur la fiche de cadrage que tu as réalisé en début processus : ce document en est simplement la traduction marketing, il a pour but de générer facilement des candidatures de qualité.
 
-Les [référents métiers](https://doc.incubateur.net/communaute/solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/laide-au-recrutement-des-referents-metiers) sont disponibles pour t'aider dans la préparation de ton annonce. 
-Pour déclencher un RDV d'accompagnement, rendez-vous [👉ici](https://grist.numerique.gouv.fr/o/isn/forms/4QncvyEckeLHhdfRYFUxJF/7)
+Les [référents métiers](https://doc.incubateur.net/communaute/solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/laide-au-recrutement-des-referents-metiers) sont disponibles pour t'aider dans la préparation de ton annonce. Pour déclencher un RDV d'accompagnement, rendez-vous [👉ici](https://grist.numerique.gouv.fr/o/isn/forms/4QncvyEckeLHhdfRYFUxJF/7)
 
 ## Qu'est-ce que Welcome to the Jungle ?
 
 Le programme beta.gouv.fr [dispose d’une page sur la plateforme “Welcome to the Jungle”](https://www.welcometothejungle.com/fr/companies/communaute-beta-gouv) qui permet d’attirer des profils pertinents pour le réseau beta.gouv.fr. Tu peux publier ton offre sur la page vitrine de beta.gouv.fr, puis tu pourras y recevoir et y gérer les candidatures.
+
 <figure><img src="../../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
 Cet outil est mis à disposition de l’ensemble du réseau beta.gouv.fr. En particulier, les entreprises titulaires de [nos marchés publics](../../../gerer-son-produit/gestion-au-quotidien/marches/) peuvent l'utiliser afin de faciliter leur sourcing de profils pour le compte des produits conçus selon l’approche Startup d’État, en profitant du rayonnement du label beta.gouv.fr.
@@ -33,7 +32,7 @@ Si tu as trouvé la ou les bonnes personnes, bravo ! Pense à archiver l'annonce
 1. **Nommer le titulaire du marché** si c'est une offre de prestation:\
    Il est impératif de mentionner clairement qui est le titulaire du marché dans l’offre. Tu dois aussi avoir contacté ce titulaire.
 2. **Mentionner dans le titre de l’offre que c’est une mission.** Par exemple : \[Mission]Chargé de déploiement pour Envergo.
-3. **Indiquer qu'un embarquement est obligatoire pour les missions** dont le volume prévu est supérieur à 17 500 euros (environ 3 jours semaine pendant 3 mois).  "Un embarquement est obligatoire. Il est composé d'une journée en présentiel et de 6 visios de 1h répartie sur deux mois. Il te permettra de rencontrer la communauté, de comprendre l'écosystème publique et de connaitre les standards de qualité beta.gouv.fr"
+3. **Indiquer qu'un embarquement est obligatoire pour les missions** dont le volume prévu est supérieur à 17 500 euros (environ 3 jours semaine pendant 3 mois). "Un embarquement est obligatoire. Il est composé d'une journée en présentiel et de 6 visios de 1h répartie sur deux mois. Il te permettra de rencontrer la communauté, de comprendre l'écosystème publique et de connaitre les standards de qualité beta.gouv.fr"
 4. **Indiquer une date de fin de diffusion** :\
    Il te faut ajouter une **date limite de publication** visible dans l’annonce. Cela permet de garantir **l’équité entre tous les candidats** en leur donnant les mêmes chances de postuler.
 
@@ -95,8 +94,7 @@ Les annonces peuvent aussi être relayées auprès de communautés spécifiques,
 * [PyLadies Paris](https://www.meetup.com/fr-FR/pyladiesparis/)
 * [WomenOnRails](./#aider-les-autres-a-recruter)
 
-Le compte LinkedIn de beta.gouv.fr est un excellent relais pour diffuser l'annonce. Tu peux consulter cet [article](https://doc.incubateur.net/communaute/gerer-son-produit/gestion-au-quotidien/renforcer-l-equipe/publier-une-offre-de-mission-sur-le-compte-linkedin-de-beta.gouv.fr) pour comprendre comment publier sur le LinkedIn de beta.gouv.fr.
-En utilisant ces techniques de multi-diffusion tu maximises tes chances de toucher un public plus large. Ainsi tu t'assures plus de candidatures entrantes. Pour que ces candidatures soient le plus qualifées possible, c'est la qualité de la rédaction/précision de ton offre que aidera à faire le tri.
+Le compte LinkedIn de beta.gouv.fr est un excellent relais pour diffuser l'annonce. Tu peux consulter cet [article](https://doc.incubateur.net/communaute/gerer-son-produit/gestion-au-quotidien/renforcer-l-equipe/publier-une-offre-de-mission-sur-le-compte-linkedin-de-beta.gouv.fr) pour comprendre comment publier sur le LinkedIn de beta.gouv.fr. En utilisant ces techniques de multi-diffusion tu maximises tes chances de toucher un public plus large. Ainsi tu t'assures plus de candidatures entrantes. Pour que ces candidatures soient le plus qualifées possible, c'est la qualité de la rédaction/précision de ton offre que aidera à faire le tri.
 
 ## Gérer les candidatures
 
@@ -121,19 +119,19 @@ La plateforme Welcome to the Jungle est un outil supplémentaire qui permet d’
 
 _**Rappeler les valeurs de beta**_\
 Rappele lors des échanges, l’importance des valeurs de beta et de notre culture de travail. Assure toi que le candidat les a lues et s'y reconnait.\
-\
+\\
 
 _**Aller voir les candidatures spontanées**_\
 Le site vitrine du Welcome to the jungle permet les candidatures spontanées, n’hésite pas à regarder si des profils peuvent t'intéresser. Pour ce faire il faut se rendre dans l’offre “candidature spontanée”.
 
 _**Mettre à jour le Welcome Kit**_\
 Mettre à jour la carte des candidats tout au long du process de sélection.\
-\
+\\
 
 _**Faire attention aux biais**_\
 Nous sommes tous biaisés, nous t'invitons fortement à y faire attention et [à te sensibiliser](https://mozaikrh.com/11-biais-cognitifs-a-connaitre-pour-mieux-recruter/) si ce n'est pas déjà fait !\
 \
-_**Rester respectueux dans ses commentaires**_\
+&#xNAN;_**Rester respectueux dans ses commentaires**_\
 Les commentaires que tu laisseras sur la fiche d'un candidat seront accessibles à toute la communauté, reste donc professionnel et respectueux. Par ailleurs, la loi condamne tout propos discriminant ou haineux. Enfin, un candidat peut te demander d'avoir accès aux informations que tu as sur lui dont les commentaires.
 
 </details>
@@ -143,6 +141,7 @@ Les commentaires que tu laisseras sur la fiche d'un candidat seront accessibles 
 Il peut arriver que tes réponses aux candidatures finissent dans les spams des candidats.
 
 Pour éviter cela, nous te conseillons de :
-* Changer l'objet du mail : enleve le prénom de la personne et privilégie un objet plus court : "Candidature reçue pour _nom du poste_ "\
-* Evite au maximum d'ajouter des liens externes dans tes réponses, ou alors raccourci le lien dans la mesure du possible.\
+
+* Changer l'objet du mail : enleve le prénom de la personne et privilégie un objet plus court : "Candidature reçue pour _nom du poste_ "\\
+* Evite au maximum d'ajouter des liens externes dans tes réponses, ou alors raccourci le lien dans la mesure du possible.\\
 * Ajoute dans la partie "Déroulement de l'entretien" de tes offres ainsi que dans le template automatique de confirmation de candidature, une phrase conseillant tes candidats à se connecter régulièrement à leur espace Welcome to the Jungle pour consulter leurs messages (les échanges sont retranscrits directement et ne peuvent pas tomber dans les spams par ce biais).

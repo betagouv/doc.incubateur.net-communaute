@@ -8,8 +8,6 @@ hidden: true
 
 # 📋 Checklist de la phase de construction
 
-
-
 {% hint style="info" %}
 Ce document est en cours d'élaboration. Il résulte notamment d'ateliers ouverts à l'ensemble de la communauté. Pour toute question, remarque, ou contre-proposition, n'hésite pas à poster dans le canal `~startup-produit-beta`
 {% endhint %}
@@ -97,7 +95,7 @@ _Rester à l'écoute des utilisateurs du service est essentiel pour construire u
 {% tab title="Les standards ☝️" %}
 * [ ] J’utilise le Système de Design de l’Etat
 * [ ] Je dispose d’une zone d’autonomie technique pour l’équipe (par exemple vis-a-vis de la DSI)
-* [ ] Je respecte[ les standards technologiques de beta.gouv.fr](../../les-standards/standards-de-qualite-beta.gouv.fr/)
+* [ ] Je respecte[ les standards technologiques de beta.gouv.fr](../../les-standards/standards-de-qualite-beta.gouv.fr.md)
 * [ ] Je passe **le minimum de temps possible** à développer des fonctionnalités secondaires ou de support (authentification, gestion de rôle, blog, etc.)
 {% endtab %}
 
@@ -130,9 +128,9 @@ _Si l'objectif premier d'une Startup d'Etat en construction reste la démonstrat
 {% tabs %}
 {% tab title="Les standards ☝️" %}
 * [ ] Je m’assure de sécuriser les données sensibles dont je dispose (par exemple, je ne les stocke pas en local sur ma machine et je n’utilise pas de données de prod pour mes environnements de test)
-* [ ] [Si mon produit rentre dans l'un des critères de la CNIL](https://www.cnil.fr/sites/default/files/atoms/files/infographie\_aipd.pdf) : j'initie une analyse d'impact relative à la protection des donnée (AIPD, aussi appelée EIVP).
+* [ ] [Si mon produit rentre dans l'un des critères de la CNIL](https://www.cnil.fr/sites/default/files/atoms/files/infographie_aipd.pdf) : j'initie une analyse d'impact relative à la protection des donnée (AIPD, aussi appelée EIVP).
 * [ ] Je rédige les Conditions Générales d'Utilisation (CGU), mentions légales et Politique de Confidentialité (PC) et les soumet à l'équipe juridique.
-* [ ] Je recense toutes les données traitées et les finalités qui leur sont associées dans un tableau données-finalités ([exemple](https://docs.google.com/document/d/1PQniGdnvLdjyEBbk1lFGzmG6rwnwD5bPCbvP\_XBOe4I/edit))
+* [ ] Je recense toutes les données traitées et les finalités qui leur sont associées dans un tableau données-finalités ([exemple](https://docs.google.com/document/d/1PQniGdnvLdjyEBbk1lFGzmG6rwnwD5bPCbvP_XBOe4I/edit))
 * [ ] Toute l'équipe est sensibilisée à l'hygiène numérique
 {% endtab %}
 

@@ -18,18 +18,18 @@ Un "**standard**" c’est un critère d’évaluation explicite de quelque chose
 
 ## Standards de qualité produit
 
-{% content-ref url="accessibilite-and-inclusion/" %}
-[accessibilite-and-inclusion](accessibilite-and-inclusion/)
+{% content-ref url="accessibilite-and-inclusion.md" %}
+[accessibilite-and-inclusion.md](accessibilite-and-inclusion.md)
 {% endcontent-ref %}
 
 * L'équipe est **à l'écoute des utilisateurs et accessible**, avec un [**haut standard de service aux utilisateurs**](https://djo.medium.com/obsession-service-client-captain-train-cb0b91467fd9) :
   * adopter une posture humble au service des utilisateurs ;
   * permettre aux utilisateurs de faire des retours facilement
-* Les services sont, à terme, accessibles pour tous et toutes : [**kit d'accessibilité**](accessibilite-and-inclusion/kit-accessibilite/)
+* Les services sont, à terme, accessibles pour tous et toutes : [**kit d'accessibilité**](../aide-a-la-mise-en-application-des-standards/accessibilite-et-inclusion/kit-accessibilite/)
 * Le **langage** utilisé sur les interfaces est **clair, direct et sans jargon**.
 
-{% content-ref url="standards-de-qualite-beta.gouv.fr" %}
-[standards-de-qualite-beta.gouv.fr](standards-de-qualite-beta.gouv.fr)
+{% content-ref url="standards-de-qualite-beta.gouv.fr.md" %}
+[standards-de-qualite-beta.gouv.fr.md](standards-de-qualite-beta.gouv.fr.md)
 {% endcontent-ref %}
 
 * Les technologies employées sont open-source et éprouvées
@@ -38,8 +38,8 @@ Un "**standard**" c’est un critère d’évaluation explicite de quelque chose
 * Le code source est open-source et maintenu à jour
 * L'architecture est documentée
 
-{% content-ref url="transparence/" %}
-[transparence](transparence/)
+{% content-ref url="transparence.md" %}
+[transparence.md](transparence.md)
 {% endcontent-ref %}
 
 * Une **page /stats** rend compte des mesures d'impact.
@@ -52,8 +52,8 @@ Un "**standard**" c’est un critère d’évaluation explicite de quelque chose
 * Les utilisateurs peuvent faire des retours facilement. (par exemple avec [le bouton "Je Donne mon Avis"](../pourquoi-le-deploiement-dun-service-public-en-ligne-est-il-important/integrer-le-bouton-je-donne-mon-avis.md))
 * Le service est joignable au moins par email.
 
-{% content-ref url="../standards/securite/" %}
-[securite](../standards/securite/)
+{% content-ref url="securite.md" %}
+[securite.md](securite.md)
 {% endcontent-ref %}
 
 * L'équipe de dev a suivi l'onboarding dev
@@ -62,8 +62,8 @@ Un "**standard**" c’est un critère d’évaluation explicite de quelque chose
 * Les dépendances du produit sont maintenues
 * Le produit est référencé sur MonServiceSécurisé
 
-{% content-ref url="protection-des-donnees-personnelles/" %}
-[protection-des-donnees-personnelles](protection-des-donnees-personnelles/)
+{% content-ref url="protection-des-donnees-personnelles.md" %}
+[protection-des-donnees-personnelles.md](protection-des-donnees-personnelles.md)
 {% endcontent-ref %}
 
 * Les mentions légales et CGU sont à jour
@@ -71,8 +71,8 @@ Un "**standard**" c’est un critère d’évaluation explicite de quelque chose
 * Le consentement des usagers est recueilli quand nécessaire
 * L'équipe a engagé une démarche AIPD
 
-{% content-ref url="design/" %}
-[design](design/)
+{% content-ref url="design.md" %}
+[design.md](design.md)
 {% endcontent-ref %}
 
 * L'équipe est pilotée par un **processus de design proche des usagers** : il est normal pour les développeuses et les développeurs d'aller à la rencontre des utilisateurs, et d'inviter des utilisateurs aux séances de design.

@@ -28,7 +28,7 @@ En tant qu'incubateur du réseau beta.gouv.fr, les équipes qui suivent l'approc
 #### Offre technique
 
 * L’obtention d’un nom de domaine [beta.gouv.fr](http://beta.gouv.fr) pour les produits conçus selon l'approche Startup d'État jusqu'à la fin d'incubation ;
-* Un appui ponctuel sur les sujets liés [au design et à l'accessibilité](../gerer-son-produit/les-standards/accessibilite-and-inclusion/) ;
+* Un appui ponctuel sur les sujets liés [au design et à l'accessibilité](../gerer-son-produit/les-standards/accessibilite-and-inclusion.md) ;
 * Un accompagnement et des conseils en matières de [RGPD et sécurité](../gerer-son-produit/gestion-au-quotidien/cadrer-juridiquement-son-produit/) ;
 * L’utilisation de stack techniques interministérielles et l'accès aux outils mutualisés opérés par beta.gouv.fr ;
 * Des conseils en matières de bonnes pratiques dev et un accompagnement sur l’hébergement.

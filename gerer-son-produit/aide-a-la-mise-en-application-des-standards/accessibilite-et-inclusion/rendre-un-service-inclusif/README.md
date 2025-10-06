@@ -32,10 +32,10 @@ Ce guide a pour but de vous donner des clés pour concevoir pour tout le monde.
 [recherche-adapter-ses-methodes-pour-inclure](recherche-adapter-ses-methodes-pour-inclure/)
 {% endcontent-ref %}
 
-{% content-ref url="../../../les-standards/accessibilite-and-inclusion/" %}
-[accessibilite-and-inclusion](../../../les-standards/accessibilite-and-inclusion/)
+{% content-ref url="../../../les-standards/accessibilite-and-inclusion.md" %}
+[accessibilite-and-inclusion.md](../../../les-standards/accessibilite-and-inclusion.md)
 {% endcontent-ref %}
 
-{% content-ref url="../accessibilite-et-rgaa/" %}
-[accessibilite-et-rgaa](../accessibilite-et-rgaa/)
+{% content-ref url="../../../standards/accessibilite-inclusion/accessibilite-et-rgaa/" %}
+[accessibilite-et-rgaa](../../../standards/accessibilite-inclusion/accessibilite-et-rgaa/)
 {% endcontent-ref %}

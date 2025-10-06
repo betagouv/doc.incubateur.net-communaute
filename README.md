@@ -50,8 +50,8 @@ description: >-
 [valeurs.md](decouvrir-beta.gouv.fr/valeurs.md)
 {% endcontent-ref %}
 
-{% content-ref url="gerer-son-produit/les-standards/accessibilite-and-inclusion/" %}
-[accessibilite-and-inclusion](gerer-son-produit/les-standards/accessibilite-and-inclusion/)
+{% content-ref url="gerer-son-produit/les-standards/accessibilite-and-inclusion.md" %}
+[accessibilite-and-inclusion.md](gerer-son-produit/les-standards/accessibilite-and-inclusion.md)
 {% endcontent-ref %}
 
 {% content-ref url="gerer-son-produit/renforcer-l-equipe/" %}
