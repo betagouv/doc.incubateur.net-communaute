@@ -4,7 +4,7 @@ description: >-
   service numérique public
 ---
 
-# 📈 Le déploiement
+# Le déploiement
 
 On ne passe pas du temps de développement sur un produit sans vérifier qu’il va y avoir de l’usage derrière.
 
@@ -23,7 +23,7 @@ On ne passe pas du temps de développement sur un produit sans vérifier qu’il
 
 * Le résultat : pas d’impact et un demi-milliard pour rien.
 
-<img src="../../.gitbook/assets/image (3) (3).png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/image (3) (3).png" alt="" data-size="original">
 {% endhint %}
 
 ## Comment construire sa stratégie de déploiement ?

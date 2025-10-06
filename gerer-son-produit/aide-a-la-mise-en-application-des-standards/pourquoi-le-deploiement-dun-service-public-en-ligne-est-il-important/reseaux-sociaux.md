@@ -6,13 +6,11 @@ description: >-
 
 # Réseaux sociaux
 
-
-
 ## Faire le point sur votre stratégie grâce au BuzzForm
 
 Afin de faire le point sur vos réseaux sociaux, à qui ils s’adressent, ce que vous allez en retirer, un formulaire va vous aider : le BuzzForm.
 
-{% file src="../../.gitbook/assets/buzzform-2-.pdf" %}
+{% file src="../../../.gitbook/assets/buzzform-2-.pdf" %}
 Buzzform
 {% endfile %}
 
@@ -31,7 +29,7 @@ Sans remplacer un `plan social media` poussé créé par un expert, il vous perm
 
 #### Télécharger le BuzzForm
 
-{% file src="../../.gitbook/assets/buzzform-3-.pdf" %}
+{% file src="../../../.gitbook/assets/buzzform-3-.pdf" %}
 Buzzform
 {% endfile %}
 
@@ -79,9 +77,7 @@ Pour Twitter :
 
 * Twitter n'est plus utilisé par beta.gouv.fr
 
-Si vous souhaitez de l'aide sur les sujets liés à la croissance, la DINUM met en place un [accompagnement en transverse](../../solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/).
-
-
+Si vous souhaitez de l'aide sur les sujets liés à la croissance, la DINUM met en place un [accompagnement en transverse](../../../solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/).
 
 {% hint style="info" %}
 Ta startup ne possède pas de compte sur les réseaux sociaux ? **Tu peux utiliser le** [**compte LinkedIn beta.gouv.fr**](https://www.linkedin.com/company/betagouv/) **pour donner de la visibilité à ton produit.** Pour cela, c'est simple, rejoins le [canal Mattermost](https://mattermost.incubateur.net/betagouv/channels/tmp-atteindre-20000-followers-linkedin) sur lequel tu trouveras toutes les infos !

@@ -49,7 +49,7 @@ Un "**standard**" c’est un critère d’évaluation explicite de quelque chose
 [to-do-qualite-du-support.md](to-do-qualite-du-support.md)
 {% endcontent-ref %}
 
-* Les utilisateurs peuvent faire des retours facilement. (par exemple avec [le bouton "Je Donne mon Avis"](../pourquoi-le-deploiement-dun-service-public-en-ligne-est-il-important/integrer-le-bouton-je-donne-mon-avis.md))
+* Les utilisateurs peuvent faire des retours facilement. (par exemple avec [le bouton "Je Donne mon Avis"](../aide-a-la-mise-en-application-des-standards/pourquoi-le-deploiement-dun-service-public-en-ligne-est-il-important/integrer-le-bouton-je-donne-mon-avis.md))
 * Le service est joignable au moins par email.
 
 {% content-ref url="securite.md" %}
@@ -62,8 +62,8 @@ Un "**standard**" c’est un critère d’évaluation explicite de quelque chose
 * Les dépendances du produit sont maintenues
 * Le produit est référencé sur MonServiceSécurisé
 
-{% content-ref url="protection-des-donnees-personnelles.md" %}
-[protection-des-donnees-personnelles.md](protection-des-donnees-personnelles.md)
+{% content-ref url="../aide-a-la-mise-en-application-des-standards/protection-des-donnees-personnelles/" %}
+[protection-des-donnees-personnelles](../aide-a-la-mise-en-application-des-standards/protection-des-donnees-personnelles/)
 {% endcontent-ref %}
 
 * Les mentions légales et CGU sont à jour
@@ -77,8 +77,8 @@ Un "**standard**" c’est un critère d’évaluation explicite de quelque chose
 
 * L'équipe est pilotée par un **processus de design proche des usagers** : il est normal pour les développeuses et les développeurs d'aller à la rencontre des utilisateurs, et d'inviter des utilisateurs aux séances de design.
 
-{% content-ref url="eco-conception/" %}
-[eco-conception](eco-conception/)
+{% content-ref url="../../travailler-chez-beta.gouv.fr/se-former/se-former-en-ligne/eco-conception.md" %}
+[eco-conception.md](../../travailler-chez-beta.gouv.fr/se-former/se-former-en-ligne/eco-conception.md)
 {% endcontent-ref %}
 
 * L'équipe développe le produit dans un **esprit de sobriété**, en priorisant les fonctionnalités les plus simple possible pour prouver l'impact sur les utilisateurs (par exemple : [prioriser un parcours bien conçu plutôt qu'une Foire aux questions](https://alistapart.com/article/no-more-faqs-create-purposeful-information-for-a-more-effective-user-experi/), prioriser une FAQ bien documentée à un _chatbot_)

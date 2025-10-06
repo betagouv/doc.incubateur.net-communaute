@@ -4,7 +4,7 @@ description: >-
   l'éco-conception.
 ---
 
-# ✅ Écoconception
+# Enjeux et bonnes pratiques de l'écoconception
 
 ## Pourquoi l'écoconception ?
 
@@ -20,7 +20,7 @@ Cependant, l'électricité n'est pas le seul facteur à considérer. Les service
 Le plus gros impact provient des terminaux numériques (smartphones, ordinateurs, etc.). Par exemple, en France, **37 % des utilisateurs** renouvellent leur smartphone parce qu'il ne fonctionne plus correctement.
 
 {% hint style="success" %}
-👉 Pour réduire l'impact du numérique, il est crucial de créer des services numériques **utiles**, **sobres** et **durables**, ce qui permet d'allonger la durée de vie des appareils.&#x20;
+👉 Pour réduire l'impact du numérique, il est crucial de créer des services numériques **utiles**, **sobres** et **durables**, ce qui permet d'allonger la durée de vie des appareils.
 {% endhint %}
 
 Cette page décrit les bonnes pratiques de services numériques répondant à ces enjeux.
@@ -64,10 +64,10 @@ Un service numérique doit adopter une stratégie de **sobriété** en :
 * **Supprimant** ou archivant les contenus obsolètes et périmés
 
 {% hint style="info" %}
-**Boîte à outil du PO :**&#x20;
+**Boîte à outil du PO :**
 
 * [Méthode C.O.E.U.R](https://www.lunaweb.fr/actualites/blog/atelier-ideation-eco-conception/) : méthode d'idéation pour l'écoconception
-* Méthode Kano : méthode de recherche utilisateur pour prioriser une backlog en fonction de l'impact utilisateur&#x20;
+* Méthode Kano : méthode de recherche utilisateur pour prioriser une backlog en fonction de l'impact utilisateur
 {% endhint %}
 
 #### Sobriété de l'expérience utilisateur
@@ -107,7 +107,7 @@ L’outil [**Ecoindex**](https://www.ecoindex.fr/) attribue une note de **A à G
 En analysant un parcours, on peut ainsi évaluer l'impact d'un service.
 
 {% hint style="success" %}
-&#x20;[Template d'atelier Écoindex](https://docs.google.com/spreadsheets/d/18JL9H32g9Rw\_Sem2-zbGFtukho-QhW2\_E9zVLMCbAJE/edit?gid=0#gid=0)&#x20;
+[Template d'atelier Écoindex](https://docs.google.com/spreadsheets/d/18JL9H32g9Rw_Sem2-zbGFtukho-QhW2_E9zVLMCbAJE/edit?gid=0#gid=0)
 {% endhint %}
 
 ### Auditer avec le RGESN
@@ -120,9 +120,9 @@ Le **RGESN** (Référentiel Général de l’Écoconception des Services Numéri
 Il n'est pour le moment pas obligatoire.
 
 {% hint style="info" %}
-**Exemples :**&#x20;
+**Exemples :**
 
-[Audit d'écoconception sur la startup d'État Dialog](https://dialog.beta.gouv.fr/ecoconception)&#x20;
+[Audit d'écoconception sur la startup d'État Dialog](https://dialog.beta.gouv.fr/ecoconception)
 {% endhint %}
 
 ***

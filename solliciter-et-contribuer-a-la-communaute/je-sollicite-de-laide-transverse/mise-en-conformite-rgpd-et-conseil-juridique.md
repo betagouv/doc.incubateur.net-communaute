@@ -35,6 +35,6 @@ Formats possibles :
 [annexe-3-grands-principes-du-rgpd.md](../../gerer-son-produit/aide-a-la-mise-en-application-des-standards/protection-des-donnees-personnelles/responsabilite-de-traitement/annexe-3-grands-principes-du-rgpd.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../gerer-son-produit/les-standards/protection-des-donnees-personnelles.md" %}
-[protection-des-donnees-personnelles.md](../../gerer-son-produit/les-standards/protection-des-donnees-personnelles.md)
+{% content-ref url="../../gerer-son-produit/aide-a-la-mise-en-application-des-standards/protection-des-donnees-personnelles/" %}
+[protection-des-donnees-personnelles](../../gerer-son-produit/aide-a-la-mise-en-application-des-standards/protection-des-donnees-personnelles/)
 {% endcontent-ref %}

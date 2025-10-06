@@ -4,8 +4,8 @@
 
 Pour les grandes étapes et les questions associées à la conformité, vous pouvez vous référer à ce guide.
 
-{% content-ref url="../../../les-standards/protection-des-donnees-personnelles.md" %}
-[protection-des-donnees-personnelles.md](../../../les-standards/protection-des-donnees-personnelles.md)
+{% content-ref url="../" %}
+[..](../)
 {% endcontent-ref %}
 
 ### Règle générale :

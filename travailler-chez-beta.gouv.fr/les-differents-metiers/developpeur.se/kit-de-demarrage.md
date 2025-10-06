@@ -77,8 +77,8 @@ Pour t'aider à situer ta startup d'État par rapport à ces standards de qualit
 
 Dans le cadre du travail avec l'administration, il est important de connaître les contraintes légales en terme de Sécurité, de Protection des donnée et d'accessibilité.
 
-{% content-ref url="../../../gerer-son-produit/les-standards/protection-des-donnees-personnelles.md" %}
-[protection-des-donnees-personnelles.md](../../../gerer-son-produit/les-standards/protection-des-donnees-personnelles.md)
+{% content-ref url="../../../gerer-son-produit/aide-a-la-mise-en-application-des-standards/protection-des-donnees-personnelles/" %}
+[protection-des-donnees-personnelles](../../../gerer-son-produit/aide-a-la-mise-en-application-des-standards/protection-des-donnees-personnelles/)
 {% endcontent-ref %}
 
 {% content-ref url="../../../gerer-son-produit/les-standards/securite.md" %}
