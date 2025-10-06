@@ -18,7 +18,8 @@ que votre produit exploite.
 ## Critères
 
 - Les jeux de données test sont fictifs ou anonymisés
-- Les URLs de production ne sont pas exposées dans le code
+- Les URLs de production sont protégées par des variables
+  d'environnement
 
 ## Ressources
 
