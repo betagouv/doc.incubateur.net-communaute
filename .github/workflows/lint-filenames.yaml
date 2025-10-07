@@ -1,0 +1,15 @@
+name: Vérification du nom des fichiers
+
+on: push
+
+jobs:
+  linting:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.4.6
+          bundler-cache: true
+      - name: "Linting filenames"
+        run: make lint-filenames
