@@ -1,0 +1,25 @@
+#!/usr/bin/env ruby
+
+# frozen_string_literal: true
+
+# copy this file into your `.git/hooks` folder
+
+require_relative '../../scripts/check_document_structure'
+
+EXCLUDED = ['README.md'].freeze
+
+changed_files = `git diff --cached --name-only --diff-filter=AM`
+                .strip
+                .split
+
+rules = changed_files
+        .select { |file| file.end_with?('.md') }
+        .reject { |file| EXCLUDED.include?(File.basename(file)) }
+
+rules.each do |file|
+  StructureChecker.call(file)
+rescue StructureChecker::StructureError => e
+  puts "ERREUR : #{e} (en vérifiant #{file})"
+
+  exit 1
+end
