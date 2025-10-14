@@ -38,4 +38,4 @@ fix-filenames:
 	bundle exec ruby .scripts/rename_file_based_on_header.rb --fix $(RULES)
 
 export:
-	bundle exec ruby .scripts/convert_markdown_to_yml.rb
+	bundle exec ruby .scripts/release.rb
