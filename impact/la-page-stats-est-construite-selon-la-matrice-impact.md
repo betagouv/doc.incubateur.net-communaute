@@ -14,11 +14,11 @@ par le service afin de garantir son utilité, son exemplarité et une
 bonne dépense de l’argent public : ils doivent être mis à jour avant
 chaque comité d'investissement.
 
-Vous pouvez contacter l'équipe FAST ou votre incubateur pour vous
-accompagner dans la définition et l'utilisation de cette matrice
-impact.
+[Des ateliers "Impact & Croissance"][2] sont proposés aux équipes pour
+vous aider à établir ces indicateurs.
 
 [1]: https://doc.incubateur.net/communaute/gerer-son-produit/guide-de-financement-des-startups-detat/4.-lenjeu-du-pilotage-par-limpact
+[2]: https://doc.incubateur.net/communaute/solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/piloter-sa-croissance-et-evaluer-son-impact
 
 ## Critères
 
@@ -28,3 +28,4 @@ impact.
 ## Ressources
 
 - [L'enjeu du pilotage par l'impact - doc.incubateur.net](https://doc.incubateur.net/communaute/gerer-son-produit/guide-de-financement-des-startups-detat/4.-lenjeu-du-pilotage-par-limpact)
+- [Ateliers impact & croissance - doc.incubateur.net](https://doc.incubateur.net/communaute/solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/piloter-sa-croissance-et-evaluer-son-impact)

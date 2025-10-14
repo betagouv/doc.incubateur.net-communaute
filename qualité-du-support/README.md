@@ -22,5 +22,3 @@ honore les attentes citoyennes envers le service public.
   l'évolution du produit
 - **Accessibilité** : Tous les citoyens doivent pouvoir obtenir de l'aide,
   quels que soient leurs moyens ou compétences
-
-<https://doc.incubateur.net/communaute/gerer-son-produit/les-standards/to-do-qualite-du-support>

@@ -3,19 +3,30 @@
 require 'yaml'
 require 'active_support/core_ext/string'
 
+# This reads a standards Markdown file and is able to export it into a
+# YAML structure.
 class StandardsMarkdownFile
   attr_reader :file_path, :content, :yml_data
 
   def initialize(file_path)
     @file_path = file_path
     @content = File.read(file_path)
+  end
+
+  def to_yaml
+    reset_data!
+      .then { parse_content }
+      .then { @yml_data }
+  end
+
+  def reset_data!
     @yml_data = {}
-    parse_content
   end
 
   def parse_content
     yml_data['id'] = File.basename(file_path, '.md')
 
+    extract_category
     extract_frontmatter
     extract_title
     extract_description
@@ -29,6 +40,10 @@ class StandardsMarkdownFile
       frontmatter = YAML.safe_load($1)
       yml_data.merge!(frontmatter) if frontmatter.is_a?(Hash)
     end
+  end
+
+  def extract_category
+    yml_data['category'] = File.dirname(file_path)
   end
 
   def extract_title
@@ -54,7 +69,6 @@ class StandardsMarkdownFile
 
     return unless content =~ section_regex
 
-
     section_text = $1.strip
 
     case section_name.downcase
@@ -71,31 +85,3 @@ class StandardsMarkdownFile
     yml_data['last_modified_on'] = File.mtime(file_path).to_date
   end
 end
-
-class MarkdownToYAMLConverter
-  EXPORT_FILENAME = 'standards-beta.yml'
-
-  def self.compile_all_to_yml
-    new.compile_all_to_yml
-  end
-
-  def compile_all_to_yml
-    all_data = []
-
-    Dir.glob('*/*.md').each do |file|
-      next if file =~ /README|TEMPLATE_QUESTION/
-
-      markdown_file = StandardsMarkdownFile.new(file)
-      category = File.dirname(file)
-      question_data = markdown_file.yml_data
-      question_data['category'] = category
-      all_data << question_data
-    end
-
-    File.write(EXPORT_FILENAME, all_data.to_yaml)
-    puts "Compiled all Markdown files into #{EXPORT_FILENAME}"
-  end
-end
-
-# Run the compilation
-MarkdownToYAMLConverter.compile_all_to_yml
