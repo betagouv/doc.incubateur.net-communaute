@@ -1,4 +1,4 @@
-# Le produit a une fiche à jour sur le site de Beta
+# Le produit a une fiche à jour sur le site beta.gouv.fr
 
 ## Description
 
