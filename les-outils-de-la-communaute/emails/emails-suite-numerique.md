@@ -22,9 +22,9 @@ Page officielle du support : [https://webmail.beta.gouv.fr/assistance/](https://
 
 ## Etape 1 : Obtenir votre adresse mail sur suite numérique
 
-Faire une demande de création de votre compte sur [https://grist.numerique.gouv.fr/o/docs/forms/dwMDpvasbg2cUrF5UwoZCZ/4](https://grist.numerique.gouv.fr/o/docs/forms/dwMDpvasbg2cUrF5UwoZCZ/4)
+Demandez la création de votre nouvelle boite email via [l'onglet "Compte email" de votre espace membre](https://espace-membre.incubateur.net/account?tab=compte-email).
 
-## Etape 2 : **Utiliser le webmail**&#x20;
+## Etape 2 : **Utiliser le webmail**
 
 Connectez vous via  [webmail.beta.gouv.fr](https://webmail.beta.gouv.fr) avec vos nouveaux identifiants.
 
