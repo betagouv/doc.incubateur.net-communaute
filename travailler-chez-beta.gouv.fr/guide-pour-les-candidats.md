@@ -39,7 +39,9 @@ Plusieurs recommandations sont diffusées aux équipes beta.gouv.fr à partir de
 
 [Bonnes pratiques de sélection](https://doc.incubateur.net/communaute/gerer-son-produit/gestion-au-quotidien/renforcer-l-equipe/conseils-pour-le-recrutement)
 
-### Quelques ressources sur beta.gouv.fr <a href="#quelques-ressources-sur-beta.gouv.fr" id="quelques-ressources-sur-beta.gouv.fr"></a>
+### Quelques ressources sur beta.gouv.fr et ses services numériques <a href="#quelques-ressources-sur-beta.gouv.fr" id="quelques-ressources-sur-beta.gouv.fr"></a>
+
+Pour préparer ta candidature et tes potentiels entretiens, nous te recommandons vivement de te renseigner sur le service numérique que tu pourrais rejoindre. Pour t'aider dans ta préparation tu peux consulter cette [page](https://beta.gouv.fr/realisations/).
 
 Tu peux consulter la vidéo suivante ou, si tu as plus de temps, écouter [ce podcast](https://yolocracy.org/publications/turbulents-5-ishan-bhojwani-beta-gouv/).
 
