@@ -33,7 +33,7 @@ Parcours embarquement généraliste
 
 ### Prendre connaissance des guides d'entretiens <a href="#prendre-connaissance-des-guides-dentretien" id="prendre-connaissance-des-guides-dentretien"></a>
 
-Plusieurs recommandations sont diffusées aux équipes beta.gouv.fr ci-dessous. Attention, les équipes sont autonomes sur la sélection des profils et elles peuvent choisir des procédures de sélection ou méthodologies d'entretiens différentes de ce qui est partagé dans la documentation ci-dessous.
+Plusieurs recommandations sont diffusées aux équipes beta.gouv.fr à partir des modèles ci-dessous. Pour te préparer au parcours de sélection, nous t'invitons à consulter ces ressources. Attention, les équipes sont autonomes sur la sélection des profils et elles peuvent choisir des procédures de sélection ou méthodologies d'entretiens différentes de ce qui est partagé dans la documentation ci-dessous.
 
 [Guide d'entretiens par profil](../gerer-son-produit/renforcer-l-equipe/guide-dentretiens-par-profil.md)
 
