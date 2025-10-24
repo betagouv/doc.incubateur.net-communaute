@@ -134,6 +134,8 @@ Pour utiliser le fichier il faut que tu indiques une évaluation de la compéten
 
 Et voilà ! Sur la dernière ligne du fichier apparait un score global par candidat. C'est une indication mathématique pour choisir celui qui correspond le plus.
 
+PS : cette logique de choix pondéré s'applique à toutes les étapes de sélection, du traitement des candidatures entrantes ou choix post-entretiens.
+
 ### Phase 6 : Formuler une proposition cohérente à la personne retenue
 
 #### Trouver une rémunération ou un prix juste
