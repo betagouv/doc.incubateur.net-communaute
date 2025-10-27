@@ -12,7 +12,7 @@ L'appartenance à la communauté beta.gouv.fr te donne la possibilité de venir 
 ## Informations d'accès
 
 * Adresse : 20 avenue de Ségur, 75007 Paris\
-  Les bureaux de l'incubateur sont au 5e étage, en salles 5.428 et 5.413, accessibles par l'ascenseur A.
+  Les bureaux de l'incubateur sont au 5e étage, en salles 5.413 et  5.523, accessibles par l'ascenseur A.
 * Accès transport : métro Ségur (ligne 10), Cambronne (ligne 6), Ecole militaire (ligne 8) ou Saint-François-Xavier (ligne 13).
 * Ouvert du lundi au vendredi de 7h à 22h.
 
@@ -22,7 +22,7 @@ Tu peux poser toutes tes questions sur [\~bureaux-ségur](https://mattermost.inc
 
 Si tu souhaites venir travailler dans ces locaux, la marche à suivre est simple :
 
-1. Remplir ce formulaire, idéalement au moins 48h avant ta venue pour signaler ta venue. Si tu n'as pas de retour ou que tu es en retard sur le délai, tu peux faire ta demande dans le canal Mattermost [#bureaux-Ségur](https://mattermost.incubateur.net/betagouv/channels/bureaux-segur). Un agent de l'incubateur enverra un email à **accueil-segur@segur.gouv.fr** pour prévenir de ta venue.
+1. Remplir ce formulaire, idéalement **au moins 48h ouvrés** avant ta venue pour signaler ta venue. Si tu n'as pas de retour ou que tu es en retard sur le délai, tu peux faire ta demande dans le canal Mattermost [#bureaux-Ségur](https://mattermost.incubateur.net/betagouv/channels/bureaux-segur). Un agent de l'incubateur enverra un email à **accueil-segur@segur.gouv.fr** pour prévenir de ta venue.
 2. Le jour J, se munir d'une pièce d'identité.
 3. Se rendre à l'accueil au 20 avenue de Ségur.
 4. À l'accueil, indiquer qu'un rendez-vous a été pris avec l'Incubateur de services numériques de la DINUM.

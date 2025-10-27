@@ -141,7 +141,7 @@
     * [Les échanges entre vos utilisateurs et votre produit sont sécurisés](les-standards/sécurité/les-echanges-entre-vos-utilisateurs-et-votre-produit-sont-securises.md)
     * [Un outil d'analyse et de mise à jour des dépendances est configuré](les-standards/sécurité/un-outil-d-analyse-et-de-mise-a-jour-des-dependances-est-configure.md)
   * [✅ Transparence](les-standards/transparence/README.md)
-    * [Le produit a une fiche à jour sur le site de beta](les-standards/transparence/le-produit-a-une-fiche-a-jour-sur-le-site-de-beta.md)
+    * [Le produit a une fiche à jour sur le site de beta](gerer-son-produit/readme-doc-incubateur-net/transparence/le-produit-a-une-fiche-a-jour-sur-le-site-de-beta.md)
     * [Le produit communique sur son budget](les-standards/transparence/le-produit-communique-sur-son-budget.md)
     * [Le produit suit ses bonnes pratiques sur dashlord](les-standards/transparence/le-produit-suit-ses-bonnes-pratiques-sur-dashlord.md)
   * [✅ Vie privée](les-standards/vie-privée/README.md)
