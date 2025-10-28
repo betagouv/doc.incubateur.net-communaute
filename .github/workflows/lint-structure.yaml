@@ -15,4 +15,4 @@ jobs:
           ruby-version: 3.4.6
           bundler-cache: true
       - name: "Check standard content structure"
-        run: make lint-custom
+        run: make check-standards

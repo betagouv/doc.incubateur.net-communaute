@@ -1,4 +1,4 @@
-# Les aspects techniques du produits sont documentés
+# Les aspects techniques du produit sont documentés
 
 ## Description
 
@@ -34,5 +34,5 @@ OpenAPI/Swagger pour permettre une meilleure prise en main par les
 
 ## Ressources
 
-- [Guide Sillon - Documenter votre projet](https://sillon.incubateur.net/docs/document/)
-- [Documentation technique - Write the Docs](https://www.writethedocs.org/)
+- [Documenter votre projet - sillon.incubateur.net](https://sillon.incubateur.net/docs/document/)
+- [Documentation technique - writethedocs.org](https://www.writethedocs.org/)

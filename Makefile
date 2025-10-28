@@ -15,27 +15,21 @@ RULES = $(shell make -s list-rules)
 #
 # [1]: https://git-scm.com/docs/git-config#Documentation/git-config.txt-corequotePath
 list-rules:
-	git ls-files '**/*.md' -z | tr '\0' '\n' | grep -v "README.md" | grep -v ".github"
+	git ls-files '**/*.md' -z | tr '\0' '\n' | grep -v "README.md" | grep -v ".github" | grep -v ".adrs"
 
-echo-rules:
-	echo "the rules are $(RULES)"
+check-standards:
+	@for standard in $(RULES); do \
+		FILE="$$standard" bundle exec cucumber --quiet --require './.scripts/steps.rb' --publish-quiet vérification-des-standards.feature || exit 1; \
+	done
 
 fix-md:
 	npm run lint -- -f
 
-lint: lint-md lint-filenames lint-custom
-
 lint-md:
 	npm run lint
 
-lint-custom:
-	bundle exec ruby .scripts/check_files.rb $(RULES)
-
-lint-filenames:
-	bundle exec ruby .scripts/rename_file_based_on_header.rb $(RULES)
-
 fix-filenames:
-	bundle exec ruby .scripts/rename_file_based_on_header.rb --fix $(RULES)
+	bundle exec ruby .scripts/rename_file_based_on_header.rb $(RULES)
 
 export:
 	bundle exec ruby .scripts/release.rb

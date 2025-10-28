@@ -24,6 +24,6 @@ de l'État élaborée par la DINUM.
 
 ## Ressources
 
-- [Stratégie numérique de l'État](https://www.numerique.gouv.fr/numerique-etat/)
-- [Pôle open source et communs numériques](https://code.gouv.fr/fr/)
-- [Guide Sillon - Communauté & open source](https://sillon.incubateur.net/docs/community-and-open-source/)
+- [Stratégie numérique de l'État - numerique.gouv.fr](https://www.numerique.gouv.fr/numerique-etat/)
+- [Pôle open source et communs numériques - code.gouv.fr](https://code.gouv.fr/fr/)
+- [Communauté & open source - sillon.incubateur.net](https://sillon.incubateur.net/docs/community-and-open-source/)

@@ -34,6 +34,6 @@ déploiement (CI/CD).
 
 ## Ressources
 
-- [Pyramide de tests (en) - Martin Fowler](https://martinfowler.com/bliki/TestPyramid.html)
-- [Exemple de tests unitaires - APLyPro](https://github.com/betagouv/aplypro/blob/51544b02c7e4b39c60de38a61dddccbcf9f982a9/spec/models/establishment_spec.rb)
-- [Exemple de tests d'intégration - APLyPro](https://github.com/betagouv/aplypro/blob/51544b02c7e4b39c60de38a61dddccbcf9f982a9/features/saisie_de_coordonnees_bancaires.feature)
+- [Pyramide de tests (en) - martinfowler.com](https://martinfowler.com/bliki/TestPyramid.html)
+- [APLyPro : Exemple de tests unitaires - github.com](https://github.com/betagouv/aplypro/blob/51544b02c7e4b39c60de38a61dddccbcf9f982a9/spec/models/establishment_spec.rb)
+- [APLyPro : Exemple de tests d'intégration - github.com](https://github.com/betagouv/aplypro/blob/51544b02c7e4b39c60de38a61dddccbcf9f982a9/features/saisie_de_coordonnees_bancaires.feature)
