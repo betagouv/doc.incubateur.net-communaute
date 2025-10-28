@@ -2,8 +2,9 @@
 
 require 'json'
 require 'yaml'
+require 'active_support/core_ext/module'
 
-require_relative './standards_markdown_file'
+require_relative './standard_mapper'
 
 # This returns structured data out of all our Markdown files. This can
 # then be used to export as YAML, JSON, XML, however you wanna hurt
@@ -13,8 +14,8 @@ class StandardsExporter
 
   def export_hash
     standards = all_markdown_files
-                .map { |file| StandardsMarkdownFile.new(file) }
-                .map(&:to_yaml)
+                .map { |file| StandardMapper.new(file) }
+                .map(&:to_hash)
 
     {
       'version' => current_version,

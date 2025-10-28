@@ -32,4 +32,4 @@ votre produit.
 ## Ressources
 
 - [Cartographie de l'UX - blognotes.iergo.fr](https://blocnotes.iergo.fr/wp-content/uploads/2012/06/UX_Cartographie.svg)
-- [Introduction aux « User Journey Maps » + modèles à télécharger - Stéphanie Walter](https://stephaniewalter.design/fr/blog/introduction-aux-user-journey-maps-modeles-pdf-a-telecharger/)
+- [Introduction aux « User Journey Maps » + modèles à télécharger - stephaniewalter.design](https://stephaniewalter.design/fr/blog/introduction-aux-user-journey-maps-modeles-pdf-a-telecharger/)

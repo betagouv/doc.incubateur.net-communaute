@@ -26,4 +26,4 @@ déploiements.
 
 ## Ressources
 
-- [Guide Sillon - L'intégration et le déploiement continu](https://sillon.incubateur.net/docs/continuous-integration-and-continuous-deployment/)
+- [L'intégration et le déploiement continu - sillon.incubateur.net](https://sillon.incubateur.net/docs/continuous-integration-and-continuous-deployment/)

@@ -27,5 +27,5 @@ utilisateurs.
 ## Ressources
 
 - [Simplifier ses contenus - doc.incubateur.net](https://doc.incubateur.net/communaute/gerer-son-produit/les-standards/design/produire-des-contenus/simplifier-ses-contenus)
-- [FALC - Ministère de la Culture](https://www.culture.gouv.fr/fr/thematiques/developpement-culturel/culture-et-handicap/facile-a-lire-et-a-comprendre-falc-une-methode-utile)
-- [Outil Hemingway pour tester la lisibilité](https://hemingwayapp.com/)
+- [Facile à lire et à comprendre (FALC) - culture.gouv.fr](https://www.culture.gouv.fr/fr/thematiques/developpement-culturel/culture-et-handicap/facile-a-lire-et-a-comprendre-falc-une-methode-utile)
+- [Outil Hemingway pour tester la lisibilité - hemingwayapp.com](https://hemingwayapp.com/)

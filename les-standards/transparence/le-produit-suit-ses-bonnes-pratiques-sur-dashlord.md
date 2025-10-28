@@ -23,4 +23,4 @@ mesures pour suivre les bonnes pratiques du numérique de l'État.
 
 ## Ressources
 
-- [Le DashLord de l'incubateur](https://dashlord.incubateur.net/)
+- [Le DashLord de l'incubateur - incubateur.net](https://dashlord.incubateur.net/)

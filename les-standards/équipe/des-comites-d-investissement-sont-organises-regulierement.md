@@ -23,4 +23,4 @@ fonctions :
 
 ## Ressources
 
-- [Préparer un comité d'investissement](https://doc.incubateur.net/communaute/gerer-son-produit/gestion-au-quotidien/budget/preparer-un-comite-dinvestissement)
+- [Préparer un comité d'investissement - doc.incubateur.net](https://doc.incubateur.net/communaute/gerer-son-produit/gestion-au-quotidien/budget/preparer-un-comite-dinvestissement)

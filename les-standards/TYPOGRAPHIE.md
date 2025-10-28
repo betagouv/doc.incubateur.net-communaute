@@ -1,7 +1,7 @@
 # Règles typographiques
 
-Pour offir une meilleure cohérence et une meilleure compréhension des
-standards de Beta, les auteurs sont invités à respecter les règles
+Pour offrir une meilleure cohérence et une meilleure compréhension des
+standards de beta.gouv.fr, les auteurs sont invités à respecter les règles
 typographiques ébauchées ci-dessous, à les challenger si nécessaire
 mais toujours dans le but d'un contenu cohérent.
 
@@ -26,7 +26,7 @@ code à deux lettres de la langue cible, par exemple :
 
 On saute une ligne avant et après une liste. Les items de la liste
 sont dénotés avec un tiret (`-`), et on ne ponctue pas sauf le dernier
-élèment, par exemple :
+élément, par exemple :
 
 - lundi
 - mardi
@@ -39,3 +39,17 @@ des titres ou des sous-titres pour mieux le contenir.
 Les items d'une liste démarrent en minuscule lorsqu'ils s'inscrivent
 au fil du texte et en majuscule dans un contexte indépendant comme les
 critères d'un standard.
+
+## Glossaire
+
+### beta.gouv.fr vs Beta
+
+On se réfère au programme beta.gouv.fr. Les autres appellations sont à
+éviter : Beta, BetaGouv, etc, même si elles sont encore présentes dans
+la documentation ou les standards.
+
+### Services numériques vs Startup d'État
+
+Le terme « Startup d'État » est à éviter. On préfère parler de service
+numérique public ou simplement service ou produit pour légitimiser le
+travail des équipes.
