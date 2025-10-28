@@ -1,6 +1,6 @@
 # Brevo : newsletters et transactionnel
 
-[Brevo](https://www.brevo.com) (anciennement SendInBlue) est l'une des plateformes utilisées par la communauté pour envoyer des emails transactionnels et campagnes.\
+[Brevo](https://www.brevo.com) est l'outil utilisé par la communauté pour envoyer des emails transactionnels et des campagnes d'emailing.\
 \
 Pour utiliser ce type de service, vous devez disposer de votre propre sous-domaine DNS, cf la [page sous-domaine beta.gouv.fr.](../../../gerer-son-produit/tech/sous-domaine-beta-gouv-fr.md)
 
@@ -9,7 +9,7 @@ Votre incubateur doit pouvoir vous fournir un compte Brevo dédié sur lequel vo
 ### ✅ Comment demander un accès ?
 
 Rien de plus simple !\
-👉 Tu peux faire une demande en contactant [le support via le chat Crisp](https://go.crisp.chat/chat/embed/?website_id=1020533a-61b1-45cd-90ab-8d6f99fb006a) (icône en bas à droite de cette page) ou en envoyer une demande par email à : [contact@beta.gouv.f](mailto:contact@beta.gouv.fr)
+👉 Tu peux faire une demande en contactant [le support via le chat Crisp](https://go.crisp.chat/chat/embed/?website_id=1020533a-61b1-45cd-90ab-8d6f99fb006a) (icône en bas à droite de cette page) ou en remplissant ce [formulaire](https://airtable.com/appmmy7DR3T8jqsTx/pagPeUwMDA7PskrDQ/form) (mot de passe en en-tête du [canal Mattermost incubateur-demandes-ops](https://mattermost.incubateur.net/betagouv/channels/incubateur-demandes-ops)).
 
 Il faudra indiquer :
 
