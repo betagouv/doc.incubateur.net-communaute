@@ -47,4 +47,4 @@ Explique le traitement des données personnelles :
 - [Aide juridique - doc.incubateur.net](https://doc.incubateur.net/communaute/solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/mise-en-conformite-rgpd-et-conseil-juridique)
 - [Guide RGPD de l'incubateur - doc.incubateur.net](https://doc.incubateur.net/communaute/gerer-son-produit/les-standards/protection-des-donnees-personnelles)
 - [Obligations légales des services publics - legifrance.gouv.fr](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000801164/)
-- [Exemple de CGU- mes-aides.1jeune1solution.beta.gouv.fr](https://mes-aides.1jeune1solution.beta.gouv.fr/cgu)
+- [Exemple de CGU - mes-aides.1jeune1solution.beta.gouv.fr](https://mes-aides.1jeune1solution.beta.gouv.fr/cgu)

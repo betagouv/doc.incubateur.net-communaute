@@ -35,10 +35,10 @@ imprévisibles.
 
 ## Ressources
 
-- [Stratégie nationale pour le Cloud (DINUM)](https://www.numerique.gouv.fr/actualites/le-gouvernement-annonce-sa-strategie-nationale-pour-le-cloud/)
-- [SecNumCloud pour les fournisseurs de services Cloud (ANSSI)](https://cyber.gouv.fr/secnumcloud-pour-les-fournisseurs-de-services-cloud)
-- [FAQ SecNumCloud - avant de se lancer dans la qualification (ANSSI)](https://cyber.gouv.fr/faq-avant-de-se-lancer-dans-la-qualification-secnumcloud)
-- [Cloud commercial - Guide DINUM](https://www.numerique.gouv.fr/services/cloud/cloud-commercial/)
+- [Stratégie nationale pour le Cloud (DINUM) - numerique.gouv.fr](https://www.numerique.gouv.fr/actualites/le-gouvernement-annonce-sa-strategie-nationale-pour-le-cloud/)
+- [SecNumCloud pour les fournisseurs de services Cloud (ANSSI) - cyber.gouv.fr](https://cyber.gouv.fr/secnumcloud-pour-les-fournisseurs-de-services-cloud)
+- [FAQ SecNumCloud - avant de se lancer dans la qualification (ANSSI) - cyber.gouv.fr](https://cyber.gouv.fr/faq-avant-de-se-lancer-dans-la-qualification-secnumcloud)
+- [Cloud commercial - Guide DINUM - numerique.gouv.fr](https://www.numerique.gouv.fr/services/cloud/cloud-commercial/)
 
 ## Critères
 
