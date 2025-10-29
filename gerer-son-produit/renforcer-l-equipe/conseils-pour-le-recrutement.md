@@ -30,7 +30,7 @@ Le parcours de sélection est segmenté en 6 grandes phases :
   * Préqualification pour s'assurer de l'alignement sur les conditions de la prestation et faire un premier filtre compétences/culture
   * Entretien & mise en situation pour évaluer les compétences et projeter les métiers dans le contexte de l'équipe
   * Entretien d'adéquation culturelle avec des membres de l'équipe
-  * Prise de références pour les 2-3 derniers candidats
+  * Prise de références pour les 1-2 derniers candidats
 * **Phase 5** : Comparer et faire le bon choix parmi les profils
 * **Phase 6** : Formuler une proposition cohérente à la personne retenue
 
