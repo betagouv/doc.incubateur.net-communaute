@@ -161,7 +161,9 @@ On clôture l'échange par des remerciements et en explicitant la suite du proce
 
 <summary>Prise de référence</summary>
 
-La prise de références a vocation à récolter les dernières preuves de compétences que tu n'es pas parvenu à identifier. Il peut s'agir de compétences métier ou de savoir-être.
+La prise de références a vocation à récolter les dernières preuves de compétences que tu n'es pas parvenu à identifier. Il peut s'agir de compétences métier ou de savoir-être. 
+
+‼️ Nous te recommandons vivement de systématiser la prise de référence pour tes derniers candidats.
 
 Elle permet également de lever ou confirmer par un avis tiers/neutre les éventuels doutes qui sont nés lors du processus de sélection. Et c'est bien normal car le mouton à 5 pattes n'existe pas !
 
