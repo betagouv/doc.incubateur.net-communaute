@@ -21,7 +21,7 @@ Plus spécifiquement pour chaque **intra** il s'agit d'aider à :
 
 ### Les étapes clés du parcours de sélection
 
-Le parcours de sélection est segmenté en 5 grandes phases :
+Le parcours de sélection est segmenté en 6 grandes phases :
 
 * **Phase 1** : Cadrer ton besoin
 * **Phase 2** : Rédiger (ou faire rédiger par le titulaire) la fiche annonce et la publier sur Welcome to the jungle
