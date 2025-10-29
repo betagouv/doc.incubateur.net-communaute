@@ -20,7 +20,7 @@ Cette section de notre documentation interne a été conçue pour t'aider à pr�
 
 
 
-Le réseau beta.gouv.fr comprend de nombreuses administrations partenaires et plusieurs incubateurs. Pour chaque offre, identifie bien [à quelle Startup d'État elle se rattache](https://beta.gouv.fr/startups/) et [dans quel incubateur travaille son équipe](https://beta.gouv.fr/incubateurs/).
+Le réseau beta.gouv.fr comprend de nombreuses administrations partenaires et plusieurs incubateurs. Pour chaque offre, identifie bien [à quelle Startup d'État elle se rattache](https://beta.gouv.fr/startups/) et [dans quel incubateur travaille son équipe](https://beta.gouv.fr/incubateurs/). C'est très important que tu comprennes spécifiquement le produit sur lequel tu pourrais travailler.
 
 Tu peux également en lire davantage sur les différents statuts qui existent chez beta.gouv.fr : [agents publics](les-differents-statuts/fonctionnaires-et-contractuels-de-la-fonction-publique.md) (dont CDD, alternances et stages), [prestation](les-differents-statuts/salaries-des-societes-de-prestation/) et [freelance](les-differents-statuts/independants-freelances/).
 
@@ -45,7 +45,11 @@ Pour préparer ta candidature et tes potentiels entretiens, nous te recommandons
 
 Tu peux consulter la vidéo suivante ou, si tu as plus de temps, écouter [ce podcast](https://yolocracy.org/publications/turbulents-5-ishan-bhojwani-beta-gouv/).
 
+### Quelques conseils complémentaires
 
+Si c'est ta première candidature pour une mission de freelance, ne te lance pas à la légère ! Le statut d'indépendant s'accompagne d'[enjeux très spécifiques](les-differents-statuts/independants-freelances/) que tu dois maitriser.
+
+Actuellement nous recevons un volume très important de candidatures pour chacune de nos offres. Nous t'invitons donc à proposer une candidature élaborée et adaptée au besoin de la start-up.
 
 {% embed url="https://www.youtube.com/watch?v=bqq5LevJESs" %}
 
