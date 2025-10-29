@@ -141,7 +141,20 @@ PS : cette logique de choix pondéré s'applique à toutes les étapes de sélec
 
 #### Trouver une rémunération ou un prix juste
 
-A titre indicatif, pour t'aider à trouver une juste rémunération/prix pour les prestations, tu peux te baser sur[ l’observatoire des revenus de la communauté Beta.gouv](https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/les-differents-statuts/independants-freelances/observatoire-revenus)
+Tu es le.a décideur.e du **TJM** de la mission du prestataire. C'est au prestataire ensuite d'accepter ou non ta proposition.
+⚠️ La négociation n'est pas obligatoire.
+
+Pour fixer le juste montant il te faut te baser sur :
+- Les attentes que tu as collecté lors des entretiens
+- La mise en concurrence naturelle entre les profils rencontrés
+- La séniorité et la rareté de l'expertise
+- L'impact pour l'équipe et la complexité des livrables demandés
+- Les équilibres internes de l'équipe
+- La situation du marché
+
+Pour t'aider à trouver une juste rémunération/prix pour les prestations, tu peux te baser sur[ l’observatoire des revenus de la communauté Beta.gouv](https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/les-differents-statuts/independants-freelances/observatoire-revenus)
+
+Les [référents métiers](https://doc.incubateur.net/communaute/solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/laide-au-recrutement-des-referents-metiers) peuvent te guider pour comprendre la tarification actuelle du marché selon le rôle et formuler une proposition juste et efficace.
 
 ## Garantir un accueil premium
 
