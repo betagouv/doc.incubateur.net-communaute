@@ -20,7 +20,7 @@ problèmes identifiés.
 ### Ma startup est-elle couverte par ce programme ?
 
 Actuellement, le programme de Bug Bounty de beta.gouv.fr dit "global" englobe
-`*.beta.gouv` et est supervisé par les membres l'équipe animation de beta.
+les URLs en `*.beta.gouv.fr` et est supervisé par les membres l'équipe animation de beta.
 D'autres programmes sur des périmètres différents ou plus restreints peuvent
 exister, mais ils ne sont pas supervisés par l'équipe animation.
 
