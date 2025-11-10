@@ -75,3 +75,5 @@ Non, du moins tu ne pourras pas être rémunéré au même titre que les hackeur
 éthiques.
 Dans le cas ou tu identifierais une vulnérabilité, tu peux directement
 prendre contact avec l'équipe de la startup d'État concernée.
+
+
