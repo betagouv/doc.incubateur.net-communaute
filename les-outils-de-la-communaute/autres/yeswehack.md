@@ -67,13 +67,25 @@ hackeurs éthiques).
 ### Du coup, ma startup est protégée des vraies attaques ?
 
 Non, le programme de Bug Bounty est une mesure de prévention **parmi** d'autres.
-Tu dois continuer à t'assurer, avec ton équipe, que votre service est bien sécurisé.
+Tu dois continuer à t'assurer, avec ton équipe, que votre service est bien
+sécurisé.
+
+## Comment savoir si mon service a été testé via le Bug Bounty ?
+
+Le Bug Bounty n'offre **aucune garantie** en terme de dates, d'exaustivité et de
+types de tests effectués. Le tests se font au bon vouloir des hackeurs éthiques.
+
+Il est envisageable que ton service n'ait encore jamais été testé.
+
+Si ton service a des besoins de sécurité élevés, il est possible de le mettre en
+avant pour qu'il soit davantage susceptible d'être testé,
+[contacte-nous](mailto:securite@beta.gouv.fr) pout étudier ton besoin.
+
+Si tu as besoin d'un test ponctuel et plus complet tu devras faire appel a une
+prestation de type test d'intrusion.
 
 ### Puis-je, en tant que (ex) membre de la communauté beta.gouv.fr, participer au Bug Bounty ?
 
 Non, du moins tu ne pourras pas être rémunéré au même titre que les hackeurs
-éthiques.
-Dans le cas ou tu identifierais une vulnérabilité, tu peux directement
+éthiques. Dans le cas ou tu identifierais une vulnérabilité, tu peux directement
 prendre contact avec l'équipe de la startup d'État concernée.
-
-
