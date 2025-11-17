@@ -89,6 +89,8 @@ Dans le cadre du travail avec l'administration, il est important de connaître l
 [accessibilite-and-inclusion.md](../../../gerer-son-produit/les-standards/accessibilite-and-inclusion.md)
 {% endcontent-ref %}
 
+Tout produit numérique incubé doit avoir une licence. [Voir les licences utilisables](https://documentation.ouvert.numerique.gouv.fr/ressources/guide-juridique-du-logiciel-libre-dans-ladministration/#licences-indispensables).
+
 ### Demander de l'aide
 
 Il est crucial de ne pas rester seul face à des choix technologiques potentiellement structurants pour la suite du produit — surtout lorsqu'on est le premier profil technique recruté sur une startup d'Etat. Tu peux t'appuyer sur de multiples ressources au sein de la communauté
