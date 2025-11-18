@@ -2,14 +2,16 @@
 
 require 'active_support/core_ext/string'
 
-require_relative './standard_markdown_file'
+require_relative './standard_parser.rb'
 
 def rename_file_based_on_header(filepath)
-  parser = StandardMarkdownFile.new(File.read(filepath))
+  parser = StandardParser.new(File.read(filepath))
 
-  if File.basename(filepath) != parser.expected_filename
+  expected_filename = parser.expected_filename
+
+  if File.basename(filepath) != expected_filename
     File.rename(filepath, expected_filename)
-    puts "File renamed to: #{new_file_path}"
+    puts "File renamed to: #{expected_filename}"
   end
 
   true
