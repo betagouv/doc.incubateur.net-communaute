@@ -2,13 +2,13 @@
 
 ## Description
 
-[15% de la population française est en situation d'illectronisme][1]
-service public numérique qui exclut ces personnes manque à sa mission
+[15% de la population française est en situation d'illectronisme][1].
+Un service public numérique qui exclut ces personnes manque à sa mission
 fondamentale : servir tous les citoyens, sans exception.
 
 L'exclusion numérique ne concerne pas seulement les personnes âgées ou
 peu diplômées, mais aussi les personnes en situation de précarité,
-celles qui n'ont pas d'accès stable à internet, ou qui utilisent
+celles qui n'ont pas d'accès stable à internet ou qui utilisent
 uniquement un smartphone pour naviguer. Ignorer ces réalités, c'est
 reproduire les inégalités que le service public doit
 combattre. L'inclusion numérique n'est pas un frein à l'innovation :
