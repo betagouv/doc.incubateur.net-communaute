@@ -3,17 +3,17 @@
 ## Description
 
 Si les produits Beta sont voulus simples et faciles à utiliser, leur
-audience très large inclue forcément des profils qui n'ont pas le
+audience très large inclut forcément des profils qui n'ont pas le
 temps ou l'expérience nécessaire pour comprendre les subtilités de
 votre produit immédiatement.
 
-Proposez des contenus d'aides simples, accessibles et pertinents : ils
+Proposez des contenus d'aide simples, accessibles et pertinents : ils
 améliorent l'autonomie de vos utilisateurs et réduisent la charge de
 votre équipe support.
 
 Utilisez le français courant, structurez l'information avec des titres
 clairs et des étapes numérotées, anticipez les questions en analysant
-les demandes support, et testez la compréhension avec de vrais
+les demandes support et testez la compréhension avec de vrais
 utilisateurs.
 
 ## Critères
