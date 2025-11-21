@@ -14,6 +14,8 @@ Le parcours d'embarquement est **indispensable** pour tous les nouveaux prestata
 * De connaître les outils, les ressources, les statuts, leur incubateur et les personnes utiles pour eux
 * D'être impactant pour l'équipe
 
+Le parcours d'embarquement est obligatoire pour tous les nouveaux prestataires rejoignant la communauté pour une mission d'une durée supérieure ou égale à **3 mois**. Un nouvel embarquement est également obligatoire pour les prestataires de retour après une absence d'une durée supérieure à 1 an. 
+
 ### Les étapes clés du parcours d'embarquement
 
 Le parcours d'embarquement généraliste est segmenté en 3 grandes phases :
