@@ -11,7 +11,8 @@ description: >-
 
 ### Pourquoi un embarquement commun ?
 
-Le parcours d'embarquement est **obligatoire** pour tous les nouveaux prestataires rejoignant la communauté, et fortement recommandé pour les agents publics. Son but est de t'aider et de te permettre :
+Le parcours d'embarquement est **obligatoire** pour tous les nouveaux prestataires rejoignant la communauté pour une mission d'une durée supérieure ou égale à 3 mois, et fortement recommandé pour les agents publics. Un nouvel embarquement est également obligatoire pour les prestataires de retour après une absence d'une durée supérieure à 1 an.
+Son but est de t'aider et de te permettre :
 
 * De comprendre les standards et valeurs de la communauté beta.gouv.fr
 * De comprendre ta mission et la pratique de ton métier à la sauce beta.gouv.fr
