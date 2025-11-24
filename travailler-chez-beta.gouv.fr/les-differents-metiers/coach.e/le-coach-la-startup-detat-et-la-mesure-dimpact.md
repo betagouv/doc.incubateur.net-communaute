@@ -1,9 +1,3 @@
----
-description: >-
-  Cette proposition de documentation est issue d’un atelier coach sur la mesure
-  d’impact réalisé en novembre 2020.
----
-
 # Le coach, la startup et la mesure d'impact
 
 Ce document synthétise et essaie de produire des informations actionnables pour les coachs de beta.gouv.fr. Il porte sur le rôle et les missions du coach vis-à-vis de la startup en matière de mesure d'impact.
@@ -14,7 +8,7 @@ Le coach n’est pas le garant ou le responsable des mesures d’impact d’une 
 
 Le coach accompagne l’équipe tout au long du cycle de vie du produit pour mettre à jour la vision et les mesures d’impact en continu car le contexte évolue en permanence.
 
-Son rôle est de permettre à l’équipe d’être pilotée par l’impact (objectif, mesure, logique d’investissement, redevabilité).
+Son rôle est de permettre à l’équipe d’être guidée par l’impact.
 
 ## **En tant que coach, quelles vont être mes missions concernant les mesures d’impact ?**
 
@@ -22,10 +16,9 @@ En tant que coach tu peux sensibiliser, former, aider à l’alignement, propose
 
 ### **Sensibiliser puis former l’équipe aux grands principes de la mesure d’impact :**
 
-* sensibiliser aux différents types d’impacts : stratégiques, satisfaction utilisateur, écologique, politique, social, etc ;
-* expliquer ce qu’est le pilotage par la mesure d’impact et en quoi ça change par rapport à leurs méthodes traditionnelles ;
+* expliquer ce qu’est être guidé par la mesure d’impact et en quoi ça change par rapport à leurs méthodes traditionnelles ;
 * expliquer pourquoi c’est important ;
-* partager des contenus (livres, films, séries, articles de blogs) sur le sujet ;
+* partager [la matrice d'impact ](https://doc.incubateur.net/communaute/gerer-son-produit/guide-de-financement-des-startups-detat/4.-lenjeu-du-pilotage-par-limpact) et des contenus (livres, films, séries, articles de blogs) sur le sujet ;
 * expliquer la différences entre ces différents termes : indicateurs, mesures d’impact, résultats, impact… ;
 * montrer les pages /stats d’autres startups pour illustrer l’intérêt d’une mesure d’impact permanente et transparente.
 
@@ -34,6 +27,7 @@ En tant que coach tu peux sensibiliser, former, aider à l’alignement, propose
 * permettre à l’équipe de comprendre comment avancer pas à pas sur cette question ;
 * aider l’équipe à définir les objectifs réels (directs et indirects) pour en tirer les mesures d’impact ;
 * ritualiser un atelier vision et mesures d’impact avec l’ensemble de l’équipe ;
+* faire appel au FAST (fast@beta.gouv.fr) pour réaliser un atelier impact
 
 ### **Outiller l’équipe pour mesurer l’impact :**
 
