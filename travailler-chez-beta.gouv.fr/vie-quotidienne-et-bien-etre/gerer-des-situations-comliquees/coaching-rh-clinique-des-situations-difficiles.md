@@ -45,7 +45,7 @@ Tous les échanges durant les sessions sont strictement confidentiels.
 
 ### 📞 Comment réserver un rendez-vous ?
 
-Des créneaux sont ouverts durant la semaine. Il suffit de réserver celui qui vous convient le mieux via [ce calendrier](https://app.calendso.incubateur.net/nicolas.tourneur/clinique-des-situations-difficiles).
+Des créneaux sont ouverts durant la semaine. Il suffit de réserver celui qui vous convient le mieux via [ce calendrier](https://rdv.anct.gouv.fr/org/1463/clinique-des-situations-difficiles).
 
 ### 👥Qui se charge d’animer ce programme ?
 
