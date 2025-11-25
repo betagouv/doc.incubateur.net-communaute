@@ -11,8 +11,7 @@ description: >-
 
 ### Pourquoi un embarquement commun ?
 
-Le parcours d'embarquement est **obligatoire** pour tous les nouveaux prestataires rejoignant la communauté pour une mission d'une durée supérieure ou égale à 3 mois, et fortement recommandé pour les agents publics. Un nouvel embarquement est également obligatoire pour les prestataires de retour après une absence d'une durée supérieure à 1 an.
-Son but est de t'aider et de te permettre :
+Le parcours d'embarquement est **obligatoire** pour tous les nouveaux prestataires rejoignant la communauté pour une mission d'une durée supérieure ou égale à 3 mois, et fortement recommandé pour les agents publics. Un nouvel embarquement est également obligatoire pour les prestataires de retour après une absence d'une durée supérieure à 1 an. Son but est de t'aider et de te permettre :
 
 * De comprendre les standards et valeurs de la communauté beta.gouv.fr
 * De comprendre ta mission et la pratique de ton métier à la sauce beta.gouv.fr
@@ -90,18 +89,19 @@ Tu peux la consulter en version documentation juste ici 👇.
 
 À l'exception des cas où ton administration de rattachement ne dispose pas encore de son propre incubateur (auquel cas tu es rattaché par défaut à l'[incubateur de la DINUM](https://doc.incubateur.net/communaute/decouvrir-beta.gouv.fr/les-incubateurs-du-reseau-beta.gouv.fr), nous t'invitons à découvrir les espaces de documentation spécifiques à chaque incubateur.
 
-| Nom de l'incubateur                       | Liens utiles                                                                                                                                                        |
-| ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Fabrique numérique des Affaires sociales  | [site internet ](https://www.fabrique.social.gouv.fr)- [documentation technique](https://github.com/SocialGouv/www/wiki/Social-Gouv-Tech-Welcome-Pack-%F0%9F%96%96) |
-| Fabrique numérique de l'Écologie          | [documentation](https://fabrique-numerique.gitbook.io/guide/)                                                                                                       |
-| Fabrique numérique des Armées             |                                                                                                                                                                     |
-| Fabrique Pôle emploi                      |                                                                                                                                                                     |
-| Lab MI (ministère de l'Intérieur)         |                                                                                                                                                                     |
-| Incubateur des territoires                | [site internet](https://incubateur.anct.gouv.fr)                                                                                                                    |
-| Incubateur du ministère de l'économie     |                                                                                                                                                                     |
-| Atelier numérique de la culture           | [documentation](https://atelier-numerique.gitbook.io/atelier-numerique-le-guide/)                                                                                   |
-| Atelier numérique des affaires étrangères |                                                                                                                                                                     |
-| Incubateur de l'ANSSI                     |                                                                                                                                                                     |
+| Nom de l'incubateur                       | Liens utiles                                                                                                                                                                   |
+| ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ALLiaNCE - l'incubateur de l'IA           | [documentation](https://resana.numerique.gouv.fr/public/information/consulterAccessUrl?cle_url=1969184923B2sAZlBYWDMFOQU1BGhWcgZqBzVVdAY/Am0KbwJqDTUOOgI5B2MDNAxsXzleZA==)     |
+| Incubateur des territoires                | [site internet](https://incubateur.anct.gouv.fr)                                                                                                                               |
+| Atelier numérique de la culture           | [Découvrez l'incubateur](https://atelier-numerique.gitbook.io/atelier-numerique-le-guide/) + [documentation](https://atelier-numerique.gitbook.io/atelier-numerique-le-guide/) |
+| Fabrique numérique des Affaires sociales  | [site internet ](https://www.fabrique.social.gouv.fr)- [documentation technique](https://github.com/SocialGouv/www/wiki/Social-Gouv-Tech-Welcome-Pack-%F0%9F%96%96)            |
+| Fabrique numérique de l'Écologie          | [documentation](https://fabrique-numerique.gitbook.io/guide/)                                                                                                                  |
+| Incubateur de l'ANSSI                     |                                                                                                                                                                                |
+| Fabrique numérique des Armées             |                                                                                                                                                                                |
+| Fabrique France Travail                   |                                                                                                                                                                                |
+| La Fabrique du Ministère de l'Intérieur   |                                                                                                                                                                                |
+| Incubateur du ministère de l'économie     |                                                                                                                                                                                |
+| Atelier numérique des affaires étrangères |                                                                                                                                                                                |
 
 ### Le premier mois
 
