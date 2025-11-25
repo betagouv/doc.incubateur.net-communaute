@@ -81,7 +81,7 @@ Plus de renseignements auprès de l’[URSSAF](https://www.urssaf.fr/accueil/ind
 
 <summary>Comment gérer les rendez-vous médicaux avant l'accouchement (avant l'absence pour maternité) qui sont nombreux et souvent à des horaires imposés ?</summary>
 
-Les rendez-vous médicaux sont fixes et ne peuvent pas être déplacés facilement. Ils peuvent créer des charges mentales et/ou un impact émotionnel pouvant impliquer des difficultés pour travailler. Ils peuvent également engendrer une diminution du temps passé sur la mission. Dans ce cas, une discussion doit être engagée avec l'équipe afin de trouver les meilleures modalités de travail pour la personne enceinte et l'équipe.
+Les rendez-vous médicaux sont fixes et ne peuvent pas être déplacés facilement. Ils peuvent créer des charges mentales et/ou un impact émotionnel pouvant impliquer des difficultés pour travailler. Dans ce cas, une discussion doit être engagée avec l'équipe afin de trouver les meilleures modalités de travail pour la personne enceinte et l'équipe.
 
 Par exemple, il est possible de définir une gestion adaptée de l'activité :
 * calendrier partagé
