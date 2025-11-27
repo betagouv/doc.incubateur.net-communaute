@@ -1,8 +1,12 @@
-# Brevo : newsletters et transactionnel
+---
+description: Newsletters et transactionnel
+---
+
+# Brevo
 
 [Brevo](https://www.brevo.com) est l'outil utilisé par la communauté pour envoyer des emails transactionnels et des campagnes d'emailing.\
 \
-Pour utiliser ce type de service, vous devez disposer de votre propre sous-domaine DNS, cf la [page sous-domaine beta.gouv.fr.](../../../gerer-son-produit/tech/sous-domaine-beta-gouv-fr.md)
+Pour utiliser ce type de service, vous devez disposer de votre propre sous-domaine DNS, cf la [page sous-domaine beta.gouv.fr.](../../gerer-son-produit/tech/sous-domaine-beta-gouv-fr.md)
 
 Votre incubateur doit pouvoir vous fournir un compte Brevo dédié sur lequel vous serez autonomes.
 

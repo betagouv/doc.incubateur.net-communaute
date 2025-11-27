@@ -103,4 +103,4 @@ Tu peux le désactiver :
 * Allez dans le menu, puis "Paramètres du compte" -> "Options avancées"
 * Dans "Désactiver mon compte", faite "Modifier" puis "Desactivate"
 
-![Désactiver mon compte](<../.gitbook/assets/image (14) (2) (1) (1).png>)
+![Désactiver mon compte](/broken/files/5yypSBqbVX6U5jfosg4k)

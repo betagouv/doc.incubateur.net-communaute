@@ -8,7 +8,7 @@ N'envoie pas d'emails en masse depuis ta boîte mail beta.gouv.\
 
 L'envoi en masse peut lever des alertes chez nos fournisseurs d'infrastructure : en gros si tu abuses, tu risques de bloquer l'envoi de mails pour tous les copains !
 
-Il existe des services adaptés pour les envois en masse : [Brevo](brevo.md), Mailjet, etc. Tu peux demander conseil sur [incubateur-ops.](https://mattermost.incubateur.net/betagouv/channels/incubateur-demandes-ops)
+Il existe des services adaptés pour les envois en masse : [Brevo](../../autres-services/brevo.md), Mailjet, etc. Tu peux demander conseil sur [incubateur-ops.](https://mattermost.incubateur.net/betagouv/channels/incubateur-demandes-ops)
 
 * Assurez-vous de recueillir l'indispensable consentement explicite des personnes que vous ajoutez à vos bases de contacts
 * Purger régulièrement mes contacts (destinataires et abonnés des newsletters) en retirant des listes d’envoi les courriels des personnes qui se sont désabonnées
@@ -24,6 +24,6 @@ Si votre produit doit envoyer des newsletter ou emails transactionnels, **vous d
 [gestion-des-envois-emails.md](gestion-des-envois-emails.md)
 {% endcontent-ref %}
 
-{% content-ref url="brevo.md" %}
-[brevo.md](brevo.md)
+{% content-ref url="../../autres-services/brevo.md" %}
+[brevo.md](../../autres-services/brevo.md)
 {% endcontent-ref %}

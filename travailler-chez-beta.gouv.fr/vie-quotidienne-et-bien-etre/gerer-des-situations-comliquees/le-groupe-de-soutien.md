@@ -19,7 +19,7 @@ Bienveillance, confidentialité, entraide, solidarité, humilité, respect, éco
 
 ### 📞Comment contacter le groupe de soutien ?
 
-Tu peux contacter le groupe de soutien :&#x20;
+Tu peux contacter le groupe de soutien :
 
 * en envoyant un email à [soutien@beta.gouv.fr](mailto:soutien@beta.gouv.fr) ;
 * en remplissant le[ formulaire Tally ](https://tally.so/r/w8xAgr);
@@ -46,7 +46,7 @@ Il s’agit d’une écoute, le but et de recueillir la parole, sans jugement et
   * 📞 **Les lignes d’écoute de soutien psychologique par téléphone, tchat, internet.** Il est possible de les filtrer par profil d’âge, par profession ou thématique pour répondre de la manière la plus adaptée au besoin : [https://www.psycom.org/sorienter/les-lignes-decoute/](https://www.psycom.org/sorienter/les-lignes-decoute/)
 
 {% hint style="success" %}
-#### **Lignes d’écoute généralistes**
+**Lignes d’écoute généralistes**
 
 [**Croix-Rouge écoute (association)**](https://www.croix-rouge.fr/Nos-actions/Action-sociale/Soutien-psychologique-et-isolement-social/Croix-Rouge-Ecoute-service-de-soutien-psychologique-par-telephone)
 
@@ -58,9 +58,9 @@ _Soutien psychologique pour toute personne ressentant le besoin de parler (solit
 
 _Ecoute des personnes en détresse et de leur entourage, par des bénévoles formés, service anonyme et gratuit_
 
-**09 72 39 40 50  (7j/7 et 24h/24)**
+**09 72 39 40 50 (7j/7 et 24h/24)**
 
-**01 46 21 46 46  en langue anglaise (7/7 3PM-11PM)**
+**01 46 21 46 46 en langue anglaise (7/7 3PM-11PM)**
 
 **par** [**tchat**](https://www.sos-amitie.com/web/internet/chat) **(7j/7 13h-03h du matin)**
 
@@ -113,18 +113,11 @@ _Ecoute et orientation pour apaiser, informer, conseiller toute personne en dét
 <figure><img src="../../../.gitbook/assets/Capture d’écran 2024-11-26 à 10.33.20.png" alt=""><figcaption><p>Parcours en santé mentale</p></figcaption></figure>
 
 → 🔎 Chercher les dispositifs recensés sur retab : [https://www.retab.fr/accueil/dispositifs.php](https://www.retab.fr/accueil/dispositifs.php)
-
-
 {% endtab %}
 {% endtabs %}
 
-
-
 {% hint style="success" %}
-### 🙋‍♀️🙋‍♂️ Rejoindre le groupe&#x20;
+#### 🙋‍♀️🙋‍♂️ Rejoindre le groupe
 
-Pour rejoindre le groupe tu dois faire une candidature spontanée à soutien@beta.gouv.fr  et avoir suivi la formation PSSM ou autre formation sensibilisant à l’écoute.
+Pour rejoindre le groupe tu dois faire une candidature spontanée à soutien@beta.gouv.fr et avoir suivi la formation PSSM ou autre formation sensibilisant à l’écoute.
 {% endhint %}
-
-
-

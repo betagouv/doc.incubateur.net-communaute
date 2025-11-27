@@ -26,7 +26,7 @@ Exemples :
 
 <summary>Transcription et traduction de la vidéo</summary>
 
-### Traduction **française**
+#### Traduction **française**
 
 Caroline Bonjour ! Dans le cadre de notre introduction à l'inclusion, nous avons invité Charlotte Moore, qui fait de la recherche utilisateur depuis à peu près 17 ans. Depuis 7 ans, elle travaille au Ministère de l'Intérieur britannique. On a fait appel à elle, parce qu'on a trouvé intéressante son approche pour assurer que le service sur lequel elle travaille soit aussi inclusif que possible. Elle nous raconte.
 

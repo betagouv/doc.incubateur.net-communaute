@@ -29,7 +29,7 @@ De nombreuses personnes peuvent être amenés à rédiger du contenu, au sein du
 
 ## S'appuyer sur du code accessible
 
-Une partie de l'accessibilité repose sur le développement front. Pour développer du code sémantique accessible, certaines pratiques sont indispensables :&#x20;
+Une partie de l'accessibilité repose sur le développement front. Pour développer du code sémantique accessible, certaines pratiques sont indispensables :
 
 * Avoir des compétences front, ou à minima, utiliser le design system de l'État
 * Mettre en place des tests automatiques dès les premières lignes de code
@@ -82,8 +82,6 @@ La balise titre est la première chose lue par un lecteur d'écran : elle doit d
 **Les titres respectent un ordre hiérarchique**
 
 Les titres de la page sont cohérents : il n'y a pas de trous dans les niveaux (de h1 à h6).
-
-![Hiérarchie des titres en accueil d'api.gouv.fr dans l'extension HeadingsMap](../../../../.gitbook/assets/Capture%20d%u2019e%CC%81cran%202020-05-25%20a%CC%80%2015.52.31.png)
 
 {% hint style="info" %}
 Je vérifie avec l'extension [HeadingsMap pour Firefox](https://addons.mozilla.org/fr/firefox/addon/headingsmap/)
