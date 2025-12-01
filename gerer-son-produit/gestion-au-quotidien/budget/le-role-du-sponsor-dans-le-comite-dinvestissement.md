@@ -59,8 +59,6 @@ En appliquant la méthode d’évaluation par l’impact, le sponsor vérifie :
 * Impactant : le service contribue positivement à la politique publique (impact mesuré, risques évités).
 * Efficient : le coût par utilisateur actif, par problème résolu ou par unité d’impact baisse ou reste maîtrisé.
 
-<figure><img src="../../.gitbook/assets/Matrice_Impact_V2.png" alt=""><figcaption><p>Matrice d'impact</p></figcaption></figure>
-
 ## Quelle décision doit prendre le sponsor ?
 
 En fonction de la maturité et des résultats d’impact, le sponsor a 3 options : ✅ Option 1 : Convaincu

@@ -10,7 +10,7 @@ Cette page référence les règles et bonnes pratiques de travail chez beta.gouv
 
 ## Les bonnes pratiques par l'exemple : la charte beta.gouv.fr
 
-La "charte beta.gouv.fr" présente nos bonnes pratiques de collaboration par l'exemple.&#x20;
+La "charte beta.gouv.fr" présente nos bonnes pratiques de collaboration par l'exemple.
 
 <details>
 
@@ -56,7 +56,7 @@ Ici, on a le droit…
 
 _Cette charte est librement inspirée de celle de_ [_Gov.UK_](https://twitter.com/gilest/status/735131901900521472)_._
 
-<img src="../../.gitbook/assets/image%20(22)%20(2)%20(1)%20(1)%20(1)%20(1)%20(1)%20(1).png" alt="" data-size="original">
+
 
 </details>
 
@@ -76,7 +76,7 @@ D'une manière générale, **tenir compte des coûts de coordination** (une pers
 
 ### Refuser le ["présentéisme"](https://www.linkedin.com/pulse/prendre-son-temps-cest-de-largent-pr%C3%A9sent%C3%A9isme-remi-rommelard/), préférer la documentation systématique
 
-Ce n'est pas parce que quelqu'un n'est pas présent (physiquement ou non) à une réunion qu'il ne travaille pas. On juge les personnes sur leurs résultats et non sur leurs efforts ou leurs horaires. \
+Ce n'est pas parce que quelqu'un n'est pas présent (physiquement ou non) à une réunion qu'il ne travaille pas. On juge les personnes sur leurs résultats et non sur leurs efforts ou leurs horaires.\
 En corollaire, ne jamais oublier que tout ce qui se dit dans une pièce ne sert que les gens de la pièce ; si ce n'est écrit nulle part, les autres n'en profiteront pas (parmi les autres, il y a aussi les nouvelles recrues à venir). La **documentation quasi-systématique** fait donc partie de notre culture.
 
 ### Lutter contre les asymétries d'informations en interne
@@ -104,7 +104,7 @@ Documenter n'est pas reporter ! Le temps passé à faire du reporting à sa hié
 
 ### Piloter les équipes par l'impact : autonomie, confiance et responsabilité
 
-beta.gouv.fr a pour mission de diffuser au sein de l'administration publique des principes de pilotage par l'impact, (par opposition au pilotage par les moyens). Le rôle du leadership devient alors celui de soutenir l’autonomie des équipes, sans recourir à des comportements autoritaires ou micro-managers.&#x20;
+beta.gouv.fr a pour mission de diffuser au sein de l'administration publique des principes de pilotage par l'impact, (par opposition au pilotage par les moyens). Le rôle du leadership devient alors celui de soutenir l’autonomie des équipes, sans recourir à des comportements autoritaires ou micro-managers.
 
 * **Piloter par l'impact, pas par les moyens.** [Les équipes sont autonomes](https://blog.beta.gouv.fr/general/2016/11/28/equipes-autonomes/) : les demandeurs fixent l’objectif en termes d’impact, les équipes choisissent les moyens pour l’atteindre.
 * **Remplacer l’autorité par la responsabilité.** Éviter les comportements de “[petit chef](https://fr.wikipedia.org/wiki/Bullshit_jobs)” : chaque responsable a un périmètre clair et rend des comptes sur les résultats, pas sur la manière de faire.
@@ -169,4 +169,3 @@ Nous invitons les membres de beta.gouv.fr à :
 * adopter une posture d'écoute attentive et active, à poser des questions pour comprendre le contexte de ses collaborateurs et collaboratrices.
 {% endtab %}
 {% endtabs %}
-

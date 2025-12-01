@@ -65,8 +65,6 @@ Si la navigation au clavier est possible, les personnes utilisant des technologi
 * Toutes les sections du site et toutes les actions sont possibles grâce au clavier (`tab` pour naviguer d'une zone à un autre, `shift + tab` pour revenir en arrière et `Entrer` pour actionner un lien).
 * Un effet focus permet de repérer facilement la zone sélectionnée.
 * Il est toujours possible de sortir d'une zone au clavier.
-
-![Le focus est visible sur le site du Design System de l'État](../../../../.gitbook/assets/Capture%20d%E2%80%99e%CC%81cran%202021-09-10%20a%CC%80%2012.35.30.png)
 {% endtab %}
 
 {% tab title="Textes" %}

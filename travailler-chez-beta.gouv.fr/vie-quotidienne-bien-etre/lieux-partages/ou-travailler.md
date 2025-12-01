@@ -9,7 +9,7 @@ description: >-
 
 Des membres de la communauté beta.gouv.fr travaillent un peu partout en France. Il existe une carte qui les recense. Tous les membres qui le souhaitent peuvent la [consulter](http://umap.openstreetmap.fr/fr/map/la-communaute-betagouv_498937) ou la [mettre à jour](http://umap.openstreetmap.fr/fr/map/anonymous-edit/498937:rNZ9vgD45VPxZlCh2TPIJoO6K0A) (pour ajouter une position, cliquez en haut à droite sur le stylo puis sur Ajouter un marqueur. Dans le marqueur, saisi ton nom-prénom, pour pouvoir être contacté·e sur Mattermost). Tu pourras ainsi peut-être trouver un membre près de chez toi pour télétravailler ensemble, partager un coworking ou tout simplement un ☕️.
 
-[![Carte de la communauté](/.gitbook/assets/carte_communaute.png)](http://umap.openstreetmap.fr/fr/map/la-communaute-betagouv_498937)
+[![Carte de la communauté](../../../.gitbook/assets/carte_communaute.png)](http://umap.openstreetmap.fr/fr/map/la-communaute-betagouv_498937)
 
 ## Paris
 
@@ -89,8 +89,6 @@ ds-transfolab@sports.gouv.fr
 Malt met à disposition un espace de coworking dans ses locaux à destination des équipes de la communauté beta.gouv. C'est ouvert aux agents et aux freelances qui sont référencés sur la plateforme Malt.
 
 Infos et réservation : [https://www.malt.fr/c/freelancers/coworking-space](https://www.malt.fr/c/freelancers/coworking-space)
-
-<figure><img src="../../.gitbook/assets/image%20(26)%20(2).png" alt=""><figcaption></figcaption></figure>
 
 ## Rennes
 
