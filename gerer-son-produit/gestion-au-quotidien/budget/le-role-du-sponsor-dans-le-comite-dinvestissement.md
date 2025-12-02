@@ -61,11 +61,24 @@ En appliquant la méthode d’évaluation par l’impact, le sponsor vérifie :
 
 ## Quelle décision doit prendre le sponsor ?
 
-En fonction de la maturité et des résultats d’impact, le sponsor a 3 options : ✅ Option 1 : Convaincu
+En fonction de la maturité et des résultats d’impact, le sponsor a 3 options : \
+\
+✅ Option 1 : Le sponsor est convaincu
 
-* Le budget est accordé pour 6 mois supplémentaires. 🤔 Option 2 : À confirmer
-* Un budget provisoire (1-2 mois) est accordé, en demandant des preuves d’impact complémentaires avant décision finale. ❌ Option 3 : Non convaincu
-* Aucun budget supplémentaire n’est accordé, l’équipe est dissoute, le produit s’arrête.
+-> Le budget est accordé pour 6 mois supplémentaires.&#x20;
+
+
+
+🤔 Option 2 : Le sponsor est incertain
+
+-> Un budget provisoire (1-2 mois) est accordé, en demandant des preuves d’impact complémentaires avant décision finale.&#x20;
+
+
+
+❌ Option 3 : Le sponsor n'est pas convaincu
+
+-> Aucun budget supplémentaire n’est accordé, l’équipe est dissoute, le produit s’arrête.\
+<br>
 
 ⚠️ Attention : Le montant total investi n’est pas un critère suffisant. Le ratio coût/impact est prioritaire et doit s’améliorer à chaque comité.
 
