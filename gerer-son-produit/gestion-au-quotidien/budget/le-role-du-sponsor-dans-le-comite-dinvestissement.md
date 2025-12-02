@@ -63,19 +63,19 @@ En appliquant la méthode d’évaluation par l’impact, le sponsor vérifie :
 
 En fonction de la maturité et des résultats d’impact, le sponsor a 3 options : \
 \
-✅ Option 1 : Le sponsor est convaincu
+✅ **Option 1 : Le sponsor est convaincu**
 
 -> Le budget est accordé pour 6 mois supplémentaires.&#x20;
 
 
 
-🤔 Option 2 : Le sponsor est incertain
+🤔 **Option 2 : Le sponsor est incertain**
 
 -> Un budget provisoire (1-2 mois) est accordé, en demandant des preuves d’impact complémentaires avant décision finale.&#x20;
 
 
 
-❌ Option 3 : Le sponsor n'est pas convaincu
+❌ **Option 3 : Le sponsor n'est pas convaincu**
 
 -> Aucun budget supplémentaire n’est accordé, l’équipe est dissoute, le produit s’arrête.\
 <br>
