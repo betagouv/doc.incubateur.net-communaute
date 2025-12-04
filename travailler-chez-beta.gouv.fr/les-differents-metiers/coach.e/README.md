@@ -2,9 +2,9 @@
 
 ## À quoi ça sert une personne qui coache une startup d'État ?
 
-{% hint style="info" %}
-extrait de l'appel d'offre « Accompagnement »
-{% endhint %}
+
+Extrait de l'appel d'offre « Accompagnement »
+
 
 > Pour démultiplier l’émergence de ces équipes et de leurs produits numériques au sein de l’administration, la DINUM doit être accompagnée par des experts issus de l’économie numérique au profil d’entrepreneurs, en capacité d’articuler objectifs stratégiques et mise en œuvre opérationnelle.
 >
@@ -23,6 +23,8 @@ Une [présentation](https://docs.google.com/presentation/d/12aEGovHBZYH-xeskRalv
 ## Quel est le niveau d'intervention d'une personne qui coache ?
 
 Les éléments partagés ici peuvent servir de référence et non de normes. Ils reflètent d'une part ce que nous avons observé chez beta.gouv.fr, d'autre part l'exigence d'éthique budgétaire liée à notre mission d'intérêt général. Ce document a une valeur indicative et pourra évoluer en fonction du marché et des retours des équipes.
+
+Afin de maintenir un point de vue extérieur et le recul nécéssaire pour un coaching optimal, il est fortement recommandé de ne pas dépasser un maximum de 2 ans de coaching par la même personne sur un produit donné.  
 
 | Phase                                                                        | Nombre de jours indicatifs sur la période | Nombre de jours indicatifs par semaine | Implication  | But                                                   |
 | ---------------------------------------------------------------------------- | ----------------------------------------- | -------------------------------------- | ------------ | ----------------------------------------------------- |
