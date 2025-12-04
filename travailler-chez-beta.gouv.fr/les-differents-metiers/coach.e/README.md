@@ -24,7 +24,7 @@ Une [présentation](https://docs.google.com/presentation/d/12aEGovHBZYH-xeskRalv
 
 Les éléments partagés ici peuvent servir de référence et non de normes. Ils reflètent d'une part ce que nous avons observé chez beta.gouv.fr, d'autre part l'exigence d'éthique budgétaire liée à notre mission d'intérêt général. Ce document a une valeur indicative et pourra évoluer en fonction du marché et des retours des équipes.
 
-Afin de maintenir un point de vue extérieur et le recul nécéssaire pour un coaching optimal, il est fortement recommandé de ne pas dépasser un maximum de 2 ans de coaching par la même personne sur un produit donné.  
+Afin de maintenir un point de vue extérieur et le recul nécéssaire pour un coaching optimal, il est fortement recommandé de ne pas dépasser **un maximum de 2 ans de coaching par la même personne** sur un produit donné.  
 
 | Phase                                                                        | Nombre de jours indicatifs sur la période | Nombre de jours indicatifs par semaine | Implication  | But                                                   |
 | ---------------------------------------------------------------------------- | ----------------------------------------- | -------------------------------------- | ------------ | ----------------------------------------------------- |
