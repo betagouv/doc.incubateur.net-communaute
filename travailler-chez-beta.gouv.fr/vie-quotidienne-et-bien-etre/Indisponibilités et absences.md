@@ -37,6 +37,8 @@ Dans ce cadre nous t'invitons avant ton départ à :
 * mettre en place un calendrier d’équipe partagé sur les périodes d’indisponibilité de chacun et chacune et s’assurer que l’indisponibilité est compatible avec les besoins de la mission ;
 * mettre en place un message d’absence.
 
+Le retour à la mission du/de l'indépendant.e n’est pas assuré suite à une absence, même pour une durée inférieure à 4 semaines. 
+
 # Le cas d'une indisponibilité pour une durée supérieure à 4 semaines (longue durée)
 
 Voici quelques recommandations à suivre pour permettre le bon fonctionnement d'une mission de prestation lors d'une indisponibilité de longue durée.
@@ -50,6 +52,8 @@ Dans ce cadre nous t'invitons avant ton départ à :
 * suivre les actions propres au [désembarquement beta.gouv.fr](https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/je-quitte-beta.gouv.fr)
 * programmer un RDV à +/- 1 mois avant la date de retour théorique. Le but est de réaliser un point d’étape afin d'avoir de la visibilité des deux parties pour évaluer si un retour est souhaité et souhaitable et donc s'il est possible de définir une date de reprise.
 
+Le retour à la mission du/de l'indépendant.e n’est pas assuré suite à une absence pour une durée supérieure à 4 semaines. 
+
 # Le cas particulier de la parentalité
 
 Au sens de l’URSSAF, le terme congé maternité, paternité ou parentalité est utilisé pour désigner une période où une personne “prend congé de toute activité professionnelle ce qui lui ouvre des droits auprès de l’URSSAF”.
@@ -57,7 +61,7 @@ A l’issue de cette période, le retour à la mission de travailleur indépenda
 
 ## Nos engagements pour la communauté
 
-* Nous soutenons l'idée (et non la règle car les équipes sont autonomes) selon lequel une personne enceinte pourrait retrouver sa mission après son congé maternité si le besoin est toujours présent au sein de la start-up.
+* Si cela est compatible avec la continuité de service et les ambitions de qualité du produit de la start-up d'Etat, nous soutenons l'idée selon laquelle une personne enceinte pourrait retrouver sa mission après son congé maternité.
 * Le taux journalier d'une personne indépendante comprend la compensation de la perte de rémunération lié à un congé maternité ou un congé paternité.
 * La pratique du télétravail chez beta.gouv.fr permet de soutenir l'équilibre personnel et professionnel des indépendants.
 
