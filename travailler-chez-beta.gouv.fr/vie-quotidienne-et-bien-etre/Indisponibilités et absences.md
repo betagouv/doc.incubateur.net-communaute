@@ -5,9 +5,9 @@ Cette page regroupe des bonnes pratiques pour faciliter la gestion des indisponi
 
 # Cadre général des absences
 
-## Le cadre juridique des indépendant.e
+## Le cadre juridique des indépendant(e)
 
-Cette documentation concerne les travailleurs **indépendants** qui exercent une mission au sein de la communauté Beta.gouv.fr.
+Cette documentation concerne les travailleurs **indépendants** qui exercent une mission au sein de la communauté beta.gouv.fr.
 
 On entend par _travailleur indépendant_ un statut juridique pour indiquer qu’une personne travaille à son compte (EURL, SASU, Entreprise Individuelle).
 Le travailleur indépendant se distingue du salarié par le fait qu’il n’existe aucun lien de subordination entre lui et le commanditaire (entreprise, administration, etc.). Cette distinction est importante pour comprendre les différences de gestion des absences.
@@ -37,7 +37,7 @@ Dans ce cadre nous t'invitons avant ton départ à :
 * mettre en place un calendrier d’équipe partagé sur les périodes d’indisponibilité de chacun et chacune et s’assurer que l’indisponibilité est compatible avec les besoins de la mission ;
 * mettre en place un message d’absence.
 
-Le retour à la mission du/de l'indépendant.e n’est pas assuré suite à une absence, même pour une durée inférieure à 4 semaines. 
+Le retour à la mission du/de l'indépendant(e) n’est pas assuré suite à une absence, même pour une durée inférieure à 4 semaines. 
 
 # Le cas d'une indisponibilité pour une durée supérieure à 4 semaines (longue durée)
 
@@ -52,12 +52,12 @@ Dans ce cadre nous t'invitons avant ton départ à :
 * suivre les actions propres au [désembarquement beta.gouv.fr](https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/je-quitte-beta.gouv.fr)
 * programmer un RDV à +/- 1 mois avant la date de retour théorique. Le but est de réaliser un point d’étape afin d'avoir de la visibilité des deux parties pour évaluer si un retour est souhaité et souhaitable et donc s'il est possible de définir une date de reprise.
 
-Le retour à la mission du/de l'indépendant.e n’est pas assuré suite à une absence pour une durée supérieure à 4 semaines. 
+Le retour à la mission du/de l'indépendant(e) n’est pas assuré suite à une absence pour une durée supérieure à 4 semaines. 
 
 # Le cas particulier de la parentalité
 
 Au sens de l’URSSAF, le terme congé maternité, paternité ou parentalité est utilisé pour désigner une période où une personne “prend congé de toute activité professionnelle ce qui lui ouvre des droits auprès de l’URSSAF”.
-A l’issue de cette période, le retour à la mission de travailleur indépendant n’est pas assuré.
+À l’issue de cette période, le retour à la mission de travailleur indépendant n’est pas assuré.
 
 ## Nos engagements pour la communauté
 
