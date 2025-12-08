@@ -5,11 +5,11 @@ Besoin de renforcer l’équipe de ta start-up d’État ?
 #### Sélectionne la bonne personne avec rigueur et efficacité !
 
 {% columns %}
-{% column width="33.33333333333333%" %}
+{% column %}
 <figure><img src="../../../.gitbook/assets/difficult.png" alt="" width="188"><figcaption></figcaption></figure>
 {% endcolumn %}
 
-{% column width="66.66666666666667%" %}
+{% column %}
 Tu dois renforcer l’équipe de ta start-up d’Etat avec un profil tech, déploiement, produit, design ou data, mais …
 
 * Tu ne sais pas par où commencer ;
@@ -21,12 +21,10 @@ Tu dois renforcer l’équipe de ta start-up d’Etat avec un profil tech, dépl
 {% endcolumn %}
 {% endcolumns %}
 
-&#x20;
-
 🙏 Tu voudrais ...
 
 * Suivre une méthodologie pour définir ton besoin réel
-* Rédiger et publier facilement une annonce&#x20;
+* Rédiger et publier facilement une annonce
 * Maîtriser les techniques de sélection de profils
 * Mener des entretiens avec sérénité
 * Evaluer les profils de façon objective et non discriminante
@@ -35,9 +33,9 @@ Tu dois renforcer l’équipe de ta start-up d’Etat avec un profil tech, dépl
 
 <a href="https://grist.numerique.gouv.fr/o/isn/forms/2cP9796Rg2vvyFigTVRZUh/4" class="button primary">Rejoins la prochaine promo</a>
 
-## <mark style="color:$info;background-color:blue;">Bonne nouvelle : composer la meilleure équipe, ça s’apprend !</mark>
+## <mark style="background-color:blue;">Bonne nouvelle : composer la meilleure équipe, ça s’apprend !</mark>
 
-C’est même une compétence clé pour la réussite de ta startu-up d'Etat. Avec le parcours “Mission sélection” on t’accompagne pas-à-pas et tu sélectionnes le bon prestataire avec rigueur et efficacité.&#x20;
+C’est même une compétence clé pour la réussite de ta startu-up d'Etat. Avec le parcours “Mission sélection” on t’accompagne pas-à-pas et tu sélectionnes le bon prestataire avec rigueur et efficacité.
 
 #### Une méthode claire, complète et adaptée aux Start-up d’Etat
 
@@ -48,8 +46,6 @@ C’est même une compétence clé pour la réussite de ta startu-up d'Etat. Ave
 **3️⃣ Evaluer les profils avec fiabilité**. Grâce à une grille de critères objectifs, on sélectionnera la personne la plus pertinente : compétente et en adéquation avec notre cadre de collaboration.
 
 **4️⃣ Convaincre et conclure**. Une fois la bonne personne sélectionnée, il faut lui formuler une proposition cohérente et lancer la contractualisation dans le respect des marchés publics.
-
-
 
 👉 A la fin du programme tu sauras :
 
@@ -63,29 +59,27 @@ C’est même une compétence clé pour la réussite de ta startu-up d'Etat. Ave
 
 Tout cela, sans t’épuiser et y passer des jours.
 
-## <mark style="color:$info;background-color:blue;">Comment se déroule le parcours ?</mark>
+## <mark style="background-color:blue;">Comment se déroule le parcours ?</mark>
 
 {% columns %}
 {% column %}
-<mark style="background-color:$info;">Des ateliers collectifs et des modules de e-learning en autonomie pour tout comprendre</mark>
+Des ateliers collectifs et des modules de e-learning en autonomie pour tout comprendre
 {% endcolumn %}
 
 {% column %}
-<mark style="background-color:$info;">Des échanges avec d'autres intra pour se soutenir et progresser ensemble</mark>
+Des échanges avec d'autres intra pour se soutenir et progresser ensemble
 {% endcolumn %}
 {% endcolumns %}
 
 {% columns %}
 {% column %}
-<mark style="background-color:$info;">Un accompagnement ciblé avec les référents métiers de la communauté</mark> [<mark style="background-color:$info;">beta.gouv.fr</mark>](http://beta.gouv.fr)
+Un accompagnement ciblé avec les référents métiers de la communauté [beta.gouv.fr](http://beta.gouv.fr)
 {% endcolumn %}
 
 {% column %}
-<mark style="background-color:$info;">Des outils et modèles concrets, clé en main, adaptés au contexte des start-up d’Etat</mark>
+Des outils et modèles concrets, clé en main, adaptés au contexte des start-up d’Etat
 {% endcolumn %}
 {% endcolumns %}
-
-
 
 Chaque semaine pendant 6 semaines :
 
@@ -99,13 +93,9 @@ Pendant les 6 semaines :
 * 1 RDV de lancement avec le coach RH ;
 * 3 RDV individuels avec le référent métier pertinent pour ton besoin.
 
-
-
-:warning: Prérequis pour suivre le parcours : avoir une mission à pourvoir au sein de ta start-up d'État dans les 3 mois après le début du parcours.&#x20;
+:warning: Prérequis pour suivre le parcours : avoir une mission à pourvoir au sein de ta start-up d'État dans les 3 mois après le début du parcours.
 
 ⌛ Compter 2 à 3h de travail par semaine
-
-
 
 <a href="https://grist.numerique.gouv.fr/o/isn/forms/2cP9796Rg2vvyFigTVRZUh/4" class="button primary">Rejoins la prochaine promo</a>
 
@@ -115,29 +105,27 @@ Pendant les 6 semaines :
 * **Jamais seul**. Ateliers collectifs, échanges entre pairs ou accompagnement individuel, il y aura toujours quelqu’un pour t’aider et débloquer une situation.
 * **Certification**. Tu peux valoriser tes apprentissages pour obtenir la certification intrapreneur.
 
-
-
 {% columns %}
 {% column %}
 ✅ **C’est fait pour toi si …**
 
-Tu sélectionnes un prestataire pour la première fois en tant qu’intra.&#x20;
+Tu sélectionnes un prestataire pour la première fois en tant qu’intra.
 
-Tu as déjà sélectionné mais tu ne te sens pas à l’aise dans l’exercice.&#x20;
+Tu as déjà sélectionné mais tu ne te sens pas à l’aise dans l’exercice.
 
-Tu as besoin d’avancer vite et efficacement pour renforcer ton équipe.&#x20;
+Tu as besoin d’avancer vite et efficacement pour renforcer ton équipe.
 
-Tu es prêt à mettre le main dans le cambouis et apprendre de nouvelles compétences.&#x20;
+Tu es prêt à mettre le main dans le cambouis et apprendre de nouvelles compétences.
 {% endcolumn %}
 
 {% column %}
 ❌ **Ce n’est pas pour toi si …**
 
-Tu espères une solution magique et sans effort : on t’accompagne mais c’est toi qui fais le job.&#x20;
+Tu espères une solution magique et sans effort : on t’accompagne mais c’est toi qui fais le job.
 
-Tu penses qu’il suffit de de publier une annonce et attendre le bon profil.&#x20;
+Tu penses qu’il suffit de de publier une annonce et attendre le bon profil.
 
-Tu veux déléguer les tâches à recruteur pro, un outil ou une IA.&#x20;
+Tu veux déléguer les tâches à recruteur pro, un outil ou une IA.
 {% endcolumn %}
 {% endcolumns %}
 

@@ -52,8 +52,8 @@ Les ressources concernent le type de ressource mobilisé pour effectuer cette d�
 
 ## La saisie et la publication du budget
 
-La saisie s'effectue sur un [Grist](https://grist.numerique.gouv.fr/o/docs/fTjFnK7Bhvuo/Depenses-numeriques/p/1) dédié via la vue "Renseignez votre budget"
+La saisie s'effectue sur un [Grist](https://grist.numerique.gouv.fr/o/isn/mAQJQawVbFUA/Depenses-numeriques?utm_id=share-doc) dédié via la vue "Renseignez votre budget"
 
 Vous pouvez ensuite reporter les informations saisies dans Grist sur le site public de votre produit numérique si vous en avez un.
 
-Enfin, rajoutez le lien vers le budget sur la fiche de votre startup dans l'espace membre. Accédez à la fiche de votre produit puis "Modifier les informations" puis indiquez l'URL de la page de votre site public dans le champ "URL du budget". Cette information apparaitra ensuite sur votre fiche produit beta.gouv. Si votre produit ne dispose pas d'un site public, vous pouvez simplement partager l'URL du [Grist](https://grist.numerique.gouv.fr/o/docs/fTjFnK7Bhvuo/Depenses-numeriques/p/1) où votre budget a été saisi.
+Enfin, rajoutez le lien vers le budget sur la fiche de votre startup dans l'espace membre. Accédez à la fiche de votre produit puis "Modifier les informations" puis indiquez l'URL de la page de votre site public dans le champ "URL du budget". Cette information apparaitra ensuite sur votre fiche produit beta.gouv. Si votre produit ne dispose pas d'un site public, vous pouvez simplement partager l'URL du [Grist](https://grist.numerique.gouv.fr/o/isn/mAQJQawVbFUA/Depenses-numeriques?utm_id=share-doc) où votre budget a été saisi.
