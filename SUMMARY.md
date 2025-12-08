@@ -206,6 +206,8 @@
     * [Réseaux sociaux](gerer-son-produit/aide-a-la-mise-en-application-des-standards/pourquoi-le-deploiement-dun-service-public-en-ligne-est-il-important/reseaux-sociaux.md)
     * [Organiser un jeu concours](gerer-son-produit/aide-a-la-mise-en-application-des-standards/pourquoi-le-deploiement-dun-service-public-en-ligne-est-il-important/organiser-un-jeu-concours.md)
     * [Intégrer le bouton « Je donne mon avis »](gerer-son-produit/aide-a-la-mise-en-application-des-standards/pourquoi-le-deploiement-dun-service-public-en-ligne-est-il-important/integrer-le-bouton-je-donne-mon-avis.md)
+  * [l'impact](gerer-son-produit/aide-a-la-mise-en-application-des-standards/impact/impact.md)
+
 * [🧌 ⭐️ La vie du produit](gerer-son-produit/la-vie-du-produit/README.md)
   * [1️⃣ Investigation](gerer-son-produit/la-vie-du-produit/investigation/README.md)
     * [🔖 Définition](gerer-son-produit/la-vie-du-produit/investigation/cest-quoi-concretement.md)
