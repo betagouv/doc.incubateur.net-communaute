@@ -35,6 +35,8 @@ Si tu as trouvé la ou les bonnes personnes, bravo ! Pense à archiver l'annonce
 3. **Indiquer qu'un embarquement est obligatoire pour les missions** dont le volume prévu est supérieur à 17 500 euros (environ 3 jours semaine pendant 3 mois). "Un embarquement est obligatoire. Il est composé d'une journée en présentiel et de 6 visios de 1h répartie sur deux mois. Il te permettra de rencontrer la communauté, de comprendre l'écosystème publique et de connaitre les standards de qualité beta.gouv.fr"
 4. **Indiquer une date de fin de diffusion** :\
    Il te faut ajouter une **date limite de publication** visible dans l’annonce. Cela permet de garantir **l’équité entre tous les candidats** en leur donnant les mêmes chances de postuler.
+5. **Rédiger les intitulés de mission en écriture inclusive**:\
+   Pour limiter les biais de genre dès la lecture de la fiche de poste, élargir le champ des candidatures et favoriser l’identification d’un public plus diversifié.
 
 ## Obtenir un accès au Welcome to the Jungle
 
@@ -84,6 +86,14 @@ Tu peux toutefois indiquer des conditions pour réussir cette dernière. Par exe
 
 4. **Indiquer qu'un embarquement est obligatoire pour les missions** dont le volume prévu est supérieur à 17 500 euros (environ 3 jours semaine pendant 3 mois). "Un embarquement est obligatoire. Il est composé d'une demi journée en présentiel et de 6 visios de 1h répartie sur un mois. Il te permettra de rencontrer la communauté, de comprendre l'écosystème publique et de connaitre les standards de qualité beta.gouv.fr"
 5. **Renvoyer** [**vers notre documentation sur les indépendants**](https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/les-differents-statuts/independants-freelances)**.**
+
+## Paramétrer le formulaire de candidature
+
+Il est recommandé d'ajouter quelques 2-3 au formulaire de candidature _WTTJ_. C'est un excellent premier moyen de faire le filtre sur tes critères obligatoires ou à pondération maximale.
+Sur le formulaire, privilégie les questions binaires (oui / non, choix multiples simples).
+Elles demandent peu de traitement côté recruteur, facilitent le tri automatique ou semi-automatique et évitent les interprétations subjectives.
+
+Réserve les questions ouvertes aux éléments vraiment différenciants. Le formulaire doit t’aider à décider vite, pas à lire des lettres de motivation déguisées.
 
 ## Diffuser une offre
 
@@ -137,6 +147,8 @@ Les commentaires que tu laisseras sur la fiche d'un candidat seront accessibles 
 </details>
 
 ## Derniers conseils utiles
+
+Nous t'invitons fortement à indiquer dans le paramétrage de ton annonce la fourchette de TJM que tu as estimé pour la mission. C'est un bon moyen de filtrer rapidement les candidatures et de faire preuve de transparence auprès des candidats. Tu verras que tu gagneras un temps considérable !
 
 Il peut arriver que tes réponses aux candidatures finissent dans les spams des candidats.
 
