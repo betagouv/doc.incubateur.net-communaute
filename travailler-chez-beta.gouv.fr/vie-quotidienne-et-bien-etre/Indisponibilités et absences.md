@@ -17,13 +17,13 @@ Le travailleur indépendant se distingue du salarié par le fait qu’il n’exi
 Dans le droit du travail, un congé désigne la période pendant laquelle un salarié est autorisé à quitter provisoirement son emploi (et donc y retourner). Ceci concerne exclusivement les travailleurs avec un contrat salarié et non un contrat de prestation. 
 
 Un indépendant **n’a aucune obligation légale d’être disponible**, ni de déclarer ses absences à son clients. C’est l’inverse d’un salarié. Par conséquent pour les indépendants :
-* pas de durée du travail légale ;
-* pas de congés payés ;
-* pas de RTT ;
-* pas d’arrêt maladie obligatoire ;
-* pas d’obligation de prévenir un “employeur”.
+* Pas de durée du travail légale ;
+* Pas de congés payés ;
+* Pas de RTT ;
+* Pas d’arrêt maladie obligatoire ;
+* Pas d’obligation de prévenir un “employeur”.
 
-👉 Juridiquement, tu es libre. Contractuellement, tu es responsable car tu dois respecter ce que tu as vendu, c’est-à-dire tes obligations contractuelles envers ta startup. Et notamment informer ton équipe si ton absence rend le contrat impossible à exécuter dans le cadre fixé. Typiquement, si tu sais que tu ne vas pas pouvoir assurer un sprint ou être présent à une réunion, tu dois prévenir.
+👉 Juridiquement, tu es autonome. Contractuellement, tu es responsable car tu dois respecter ce que tu as vendu, c’est-à-dire tes obligations contractuelles envers ta startup. Et notamment informer ton équipe si ton absence rend le contrat impossible à exécuter dans le cadre fixé. Typiquement, si tu sais que tu ne vas pas pouvoir assurer un sprint ou être présent à une réunion, tu dois prévenir.
 
 Nous préférons donc le terme “indisponibilité” pour englober les absences d'un travailleur indépendant. On entend par indisponibilité de l'indépendant, l'état d’une personne indisponible sur le plan professionnel pour des raisons particulières (parentalité, vacances, repos, pause professionnelle, formation, deuil, maladie, etc.) qui lui sont propres et privées.
 
@@ -32,43 +32,41 @@ Nous préférons donc le terme “indisponibilité” pour englober les absences
 Voici quelques recommandations à suivre pour permettre le bon fonctionnement d'une mission de prestation lors d'une indisponibilité de courte/moyenne durée.
 
 Dans ce cadre nous t'invitons avant ton départ à :
-* informer l’intrapreneur.e et l’attributaire du marché dans un délai raisonnable ;
-* mettre en place une documentation à destination de l’équipe (_Sujets en cours, Sujets traités, En mon absence_) et définir qui prend le relai sur les différents sujets ;
-* mettre en place un calendrier d’équipe partagé sur les périodes d’indisponibilité de chacun et chacune et s’assurer que l’indisponibilité est compatible avec les besoins de la mission ;
-* mettre en place un message d’absence.
+* Informer l’intrapreneur.e et l’attributaire du marché dans un délai raisonnable ;
+* Mettre en place une documentation à destination de l’équipe (_Sujets en cours, Sujets traités, En mon absence_) et définir qui prend le relai sur les différents sujets ;
+* Mettre en place un calendrier d’équipe partagé sur les périodes d’indisponibilité de chacun et chacune et s’assurer que l’indisponibilité est compatible avec les besoins de la mission ;
+* Mettre en place un message d’absence.
 
-Le retour à la mission du/de l'indépendant(e) n’est pas assuré suite à une absence, même pour une durée inférieure à 4 semaines. 
+Puisqu’il n’est pas salarié ou agent, le retour à la mission du/de l'indépendant(e) ne peut pas être assuré suite à une absence, même pour une durée inférieure à 4 semaines.
 
 # Le cas d'une indisponibilité pour une durée supérieure à 4 semaines (longue durée)
 
 Voici quelques recommandations à suivre pour permettre le bon fonctionnement d'une mission de prestation lors d'une indisponibilité de longue durée.
 
 Dans ce cadre nous t'invitons avant ton départ à :
-* informer l’intrapreneur.e et l’attributaire du marché dans un délai raisonnable (2 mois à l’avance idéalement)
-* voir ce qui peut être pris en charge par d’autres personnes dans l’équipe ou si un renfort est indispensable :
-  - si la prise en charge reste dans l'équipe, mettre en place une documentation à destination de l’équipe (_Sujets en cours, Sujets traités, En mon absence_) et définir qui prend le relai sur les différents sujets ;
-  - si c'est un renfort, prévoir une passation.
-* mettre en place un message d’absence / redirection
-* suivre les actions propres au [désembarquement beta.gouv.fr](https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/je-quitte-beta.gouv.fr)
-* programmer un RDV à +/- 1 mois avant la date de retour théorique. Le but est de réaliser un point d’étape afin d'avoir de la visibilité des deux parties pour évaluer si un retour est souhaité et souhaitable et donc s'il est possible de définir une date de reprise.
+* Informer l’intrapreneur.e et l’attributaire du marché dans un délai raisonnable lorsque l'indisponibilité est prévue (2 mois à l’avance idéalement)
+* Voir ce qui peut être pris en charge par d’autres personnes dans l’équipe ou si un renfort est indispensable :
+  - Si la prise en charge reste dans l'équipe, mettre en place une documentation à destination de l’équipe (_Sujets en cours, Sujets traités, En mon absence_) et définir qui prend le relai sur les différents sujets ;
+  - Si c'est un renfort, prévoir une passation.
+* Mettre en place un message d’absence / redirection
+* Programmer un RDV à +/- 1 mois avant la date de retour théorique. Le but est de réaliser un point d’étape afin d'avoir de la visibilité des deux parties pour évaluer si un retour est souhaité et souhaitable et donc s'il est possible de définir une date de reprise.
 
-Le retour à la mission du/de l'indépendant(e) n’est pas assuré suite à une absence pour une durée supérieure à 4 semaines. 
+Puisqu’il n’est pas salarié ou agent, le retour à la mission du/de l'indépendant(e) ne peut pas être assuré suite à une absence pour une durée supérieure à 4 semaines. De ce fait, nous t'invitons à suivre les actions propres au [désembarquement beta.gouv.fr](https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/je-quitte-beta.gouv.fr)
 
 # Le cas particulier de la parentalité
 
-Au sens de l’URSSAF, le terme congé maternité, paternité ou parentalité est utilisé pour désigner une période où une personne “prend congé de toute activité professionnelle ce qui lui ouvre des droits auprès de l’URSSAF”.
-À l’issue de cette période, le retour à la mission de travailleur indépendant n’est pas assuré.
+Au sens de l’URSSAF, le terme congé maternité, paternité ou parentalité est utilisé pour désigner une période où une personne “prend congé de toute activité professionnelle ce qui lui ouvre des droits auprès de l’URSSAF”. À l’issue de cette période, puisqu’il n’est pas salarié ou agent, le retour à la mission de travailleur indépendant ne peut pas être assuré.
 
 ## Nos engagements pour la communauté
 
 * Si cela est compatible avec la continuité de service et les ambitions de qualité du produit de la start-up d'Etat, nous soutenons l'idée selon laquelle une personne enceinte pourrait retrouver sa mission après son congé maternité.
-* Le taux journalier d'une personne indépendante comprend la compensation de la perte de rémunération lié à un congé maternité ou un congé paternité.
+* Nous essayons de tenir compte des pertes de rémunération lié à un congé maternité ou congé paternité dans les taux journaliers proposés.
 * La pratique du télétravail chez beta.gouv.fr permet de soutenir l'équilibre personnel et professionnel des indépendants.
 
 ## Maternité
 En tant que travailleuse indépendante, vous avez droit à la même durée de congé maternité ou adoption que les salariés : 112 jours, répartis en 6 semaines de congé prénatal et 10 semaines de postnatal, soit 16 semaines. Si vous justifiez de 6 mois d’affiliation à la date prévue de votre accouchement, sous réserve de cesser toute activité professionnelle pendant au moins 8 semaines dont 6 après l’accouchement, vous pouvez percevoir :
-* une allocation forfaitaire de repos maternel ,
-* des indemnités journalières forfaitaires versées pour chaque jour de cessation d’activité professionnelle
+* Une allocation forfaitaire de repos maternel ,
+* Des indemnités journalières forfaitaires versées pour chaque jour de cessation d’activité professionnelle
 
 ## Paternité
 En tant que travailleur indépendant, vous pouvez bénéficier de 25 jours consécutifs maximum pour la naissance ou l’adoption d'un enfant. Ce congé paternité doit débuter le jour de la naissance de votre enfant, mais il peut être pris en plusieurs fois. Vous pouvez prétendre à des indemnités journalières forfaitaires.
@@ -80,7 +78,7 @@ Plus de renseignements auprès de l’[URSSAF](https://www.urssaf.fr/accueil/ind
 
 <details>
 
-<summary>Comment gérer les rendez-vous médicaux avant l'accouchement (avant l'absence pour maternité) qui sont nombreux et souvent à des horaires imposés ?</summary>
+<summary>Comment m'absentez pour assister aux rendez-vous médicaux avant l'accouchement (avant l'absence pour maternité) qui sont nombreux et souvent à des horaires imposés ?</summary>
 
 Les rendez-vous médicaux sont fixes et ne peuvent pas être déplacés facilement. Ils peuvent créer des charges mentales et/ou un impact émotionnel pouvant impliquer des difficultés pour travailler. Dans ce cas, une discussion doit être engagée avec l'équipe afin de trouver les meilleures modalités de travail pour la personne enceinte et l'équipe.
 
@@ -132,7 +130,7 @@ Pendant l'absence, il est possible, si la personne concernée le souhaite, de me
 <summary>Est-il possible de bénéficier de la crèche du bâtiment Ségur ?</summary>
 
 * Il est possible de postuler en tant que prestataire mais les places sont en priorité pour les fonctionnaires.
-* Il faut connaître les besoins en terme d'horaires de garde très en amont.
+* Il faut connaître les besoins en termes d'horaires de garde très en amont.
 * Une commission se réunit régulièrement pour attribuer les places.
 
 </details>
