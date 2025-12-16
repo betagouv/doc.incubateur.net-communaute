@@ -1,6 +1,6 @@
 ---
 description: >-
-Cette page regroupe des bonnes pratiques pour faciliter la gestion des indisponibilités et absences des personnes en prestation de services.
+  Cette page regroupe des bonnes pratiques pour faciliter la gestion des indisponibilités et absences des personnes en prestation de services.
 ---
 
 # Cadre général des absences
