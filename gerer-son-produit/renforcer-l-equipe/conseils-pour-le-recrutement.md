@@ -1,7 +1,6 @@
-# Processus et bonnes pratiques de sélection d'une personne en prestation 🔎
+# Processus et bonnes pratiques de sélection d'une personne en prestation
 
-Tu souhaites sélectionner un nouveau membre pour intégrer ton équipe ? Cette page est prévue pour t'aider à te lancer de manière structurée et efficace.
-Ce parcours de sélection est un socle commun, applicable à tous les métiers, pour tous les intrapreneur.ses de la communauté beta.gouv.fr !
+Tu souhaites sélectionner un nouveau membre pour intégrer ton équipe ? Cette page est prévue pour t'aider à te lancer de manière structurée et efficace. Ce parcours de sélection est un socle commun, applicable à tous les métiers, pour tous les intrapreneur.ses de la communauté beta.gouv.fr !
 
 ## Le parcours de sélection chez beta.gouv.fr
 
@@ -10,11 +9,12 @@ Ce parcours de sélection est un socle commun, applicable à tous les métiers, 
 L'objectif est de proposer une expérience réussie pour l'intra et pour le candidat, et qui permet de travailler avec les meilleurs profils sur le long terme.
 
 Plus spécifiquement pour chaque **intra** il s'agit d'aider à :
+
 * Sélectionner le bon profil :
   * Avoir des candidatures qualifiées et de qualité
   * Savoir identifier le bon profil pour la mission
 * Suivre un process simple et efficace :
-  * Définir un besoin clair et cadré 
+  * Définir un besoin clair et cadré
   * Gérer facilement un nombre important de candidatures
   * Réaliser des entretiens structurés et utiles
   * Objectiver la prise de décision
@@ -36,7 +36,7 @@ Le parcours de sélection est segmenté en 6 grandes phases :
 
 En tant qu'intra, tu as la responsabilité de piloter l'entièreté du cycle de sélection pour chacune des missions que tu ouvres. Tu es le garant du bon déroulé du processus, de la phase de cadrage à la proposition de contractualisation.
 
-Les [référents métiers](https://doc.incubateur.net/communaute/solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/laide-au-recrutement-des-referents-metiers) sont disponibles pour t'aider dans chacune de ces phases. 
+Les [référents métiers](https://doc.incubateur.net/communaute/solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/laide-au-recrutement-des-referents-metiers) sont disponibles pour t'aider dans chacune de ces phases.
 
 Pour déclencher un RDV d'accompagnement, RDV [👉ici](https://grist.numerique.gouv.fr/o/isn/forms/4QncvyEckeLHhdfRYFUxJF/7)
 
@@ -52,7 +52,8 @@ Pour chaque phase du processus, tu as à ta disposition des outils et guides sp�
 
 ### Phase 1 : Cadrer le besoin
 
-C'est la phase **essentielle et indispensable** pour lancer une nouvelle mission.
+C'est la phase **essentielle et indispensable** pour lancer une nouvelle mission. Si cette phase est manquée, tout le reste du processus le sera !
+
 Ce [modèle de document](https://docs.numerique.gouv.fr/docs/1465f149-e5c2-4c73-ac9c-37c5c76b6992/) est là pour t'aider à structurer ta réflexion.
 
 Lorsque tu le complètes, sois aussi précis que possible afin de rendre le ciblage de candidats efficace. La complétion de ce document permet aussi de se poser les bonnes questions quant à ton besoin réel et de le challenger avec le référent métier.
@@ -62,15 +63,14 @@ Lorsque tu le complètes, sois aussi précis que possible afin de rendre le cibl
 La publication de l'annonce doit respecter certaines règles de conformités légales : tu peux lire l'article dédié à ce sujet juste ici 👇
 
 {% content-ref url="../../les-outils-de-la-communaute/autres-services/welcome-to-the-jungle/" %}
-[Publier une annonce sur welcome-to-the-jungle](../../les-outils-de-la-communaute/autres-services/welcome-to-the-jungle/)
+[welcome-to-the-jungle](../../les-outils-de-la-communaute/autres-services/welcome-to-the-jungle/)
 {% endcontent-ref %}
 
 ### Phase 3 : Analyser les candidatures entrantes ou provenant du sourcing d'un titulaire
 
 Les candidats ont accès à ce [guide](https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/guide-pour-les-candidats) pour préparer leur candidature.
 
-De ton côté, il est important que les personnes qui ont répondu à l'offre de mission aient une réponse, qu'elle soit positive ou négative.
-Il te faut donc **répondre à toutes les candidatures**. Voici quelques modèles pour t'aider.
+De ton côté, il est important que les personnes qui ont répondu à l'offre de mission aient une réponse, qu'elle soit positive ou négative. Il te faut donc **répondre à toutes les candidatures**. Voici quelques modèles pour t'aider.
 
 #### Modèles de réponses
 
@@ -97,6 +97,7 @@ Autre suggestion plus courte:
 > Nous gardons ta candidature au cas où, n'hésite pas à repostuler si tu vois des offres te correspondant.
 
 Plus généralement le schéma à suivre est le suivant:
+
 * remercier la personne de sa candidature
 * mettre en avant des éléments favorables (compétences, motivation)
 * préciser la raison de notre réponse négative (pas de poste, pas le profil recherché, pas le bon statut)
@@ -105,6 +106,7 @@ Plus généralement le schéma à suivre est le suivant:
 ### Phase 4 : Sélectionner le bon profil lors des différents entretiens
 
 La page ci-dessous a pour but de te proposer un panel plusieurs guides d'entretien adaptés à chacune des étapes du processus de sélection d'une nouvelle personne en prestation. Dans sa version maximale elle compte 5 temps forts :
+
 * La préqualification
 * L'entretien intra
 * La mise en situation
@@ -116,7 +118,7 @@ Bien-sûr tu peux adapter le nombre d'entretiens à la réalité de ton besoin.
 Ainsi que des versions ultra personnalisées et adaptées à tous les types de métiers.
 
 {% content-ref url="guide-dentretiens-par-profil.md" %}
-[Guide-dentretiens-par-profil.md](guide-dentretiens-par-profil.md)
+[guide-dentretiens-par-profil.md](guide-dentretiens-par-profil.md)
 {% endcontent-ref %}
 
 #### Attention aux biais lors de la phase d'entretien (et même tout le temps)
@@ -141,16 +143,16 @@ PS : cette logique de choix pondéré s'applique à toutes les étapes de sélec
 
 #### Trouver une rémunération ou un prix juste
 
-Tu es le.a décideur.e du **TJM** de la mission du prestataire. C'est au prestataire ensuite d'accepter ou non ta proposition.
-⚠️ La négociation n'est pas obligatoire.
+Tu es le.a décideur.e du **TJM** de la mission du prestataire. C'est au prestataire ensuite d'accepter ou non ta proposition. ⚠️ La négociation n'est pas obligatoire.
 
 Pour fixer le juste montant il te faut te baser sur :
-- Les attentes que tu as collecté lors des entretiens
-- La mise en concurrence naturelle entre les profils rencontrés
-- La séniorité et la rareté de l'expertise
-- L'impact pour l'équipe et la complexité des livrables demandés
-- Les équilibres internes de l'équipe
-- La situation du marché
+
+* Les attentes que tu as collecté lors des entretiens
+* La mise en concurrence naturelle entre les profils rencontrés
+* La séniorité et la rareté de l'expertise
+* L'impact pour l'équipe et la complexité des livrables demandés
+* Les équilibres internes de l'équipe
+* La situation du marché
 
 Pour t'aider à trouver une juste rémunération/prix pour les prestations, tu peux te baser sur[ l’observatoire des revenus de la communauté Beta.gouv](https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/les-differents-statuts/independants-freelances/observatoire-revenus)
 
