@@ -67,7 +67,7 @@
       * [Demander ou prolonger un badge](travailler-chez-beta.gouv.fr/vie-quotidienne-et-bien-etre/travailler-dans-les-lieux-partages/locaux/faire-une-demande-de-badge.md)
     * [Les autres locaux de la DINUM](travailler-chez-beta.gouv.fr/vie-quotidienne-et-bien-etre/travailler-dans-les-lieux-partages/les-autres-locaux-de-la-dinum.md)
     * [Les lieux de la communauté](travailler-chez-beta.gouv.fr/vie-quotidienne-bien-etre/lieux-partages/ou-travailler.md)
-  * [Indisponibilités et absences](travailler-chez-beta.gouv.fr/vie-quotidienne-et-bien-etre/conge-maternite.md)
+  * [Indisponibilités et absences](travailler-chez-beta.gouv.fr/vie-quotidienne-et-bien-etre/indisponibilites-absences.md)
   * [Gérer des situations compliquées](travailler-chez-beta.gouv.fr/vie-quotidienne-et-bien-etre/gerer-des-situations-comliquees/README.md)
     * [Le groupe de soutien](travailler-chez-beta.gouv.fr/vie-quotidienne-et-bien-etre/gerer-des-situations-comliquees/le-groupe-de-soutien.md)
     * [Repérer une situation dysfonctionnelle](travailler-chez-beta.gouv.fr/vie-quotidienne-et-bien-etre/gerer-des-situations-comliquees/situation-dysfonctionnelle.md)
