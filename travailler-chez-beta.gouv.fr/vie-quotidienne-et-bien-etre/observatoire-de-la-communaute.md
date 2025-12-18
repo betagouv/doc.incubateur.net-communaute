@@ -9,11 +9,11 @@ hidden: true
 
 ## Méthodologie et enjeux
 
-Chaque **semestre**, l'équipe _Animation, Expertise et Opérations_ interroge l’ensemble de la communauté beta.gouv.fr pour mesurer et comprendre le niveau d'**engagement**, de **bien-être**, d'**appartenance ressentie** de ses membres.
+Chaque **semestre**, l'équipe animation beta.gouv.fr interroge l’ensemble de la communauté beta.gouv.fr pour mesurer et comprendre le niveau d'**engagement**, de **bien-être**, d'**appartenance ressentie** de ses membres.
 
 ### Pourquoi un Observatoire de la communauté ?
 
-L'objectif de cette démarche est de donner une vision **honnête** et **utile** de la réalité vécue par les membres de la communauté et permettre à l'équipe Animation d'entendre et piloter la communauté au plus près de vos besoins.
+L'objectif de cette démarche est de donner une vision **honnête** et **utile** de la réalité vécue par les membres de la communauté et permettre à l'équipe d'entendre et piloter la communauté au plus près de vos besoins.
 
 Le sondage comporte trois briques :
 
@@ -42,7 +42,7 @@ La méthodologie demeure la même depuis la création du sondage afin de permett
 
 #### Traitement et analyse
 
-L’exploitation et l’analyse des résultats sont portées par l’équipe _Animation, Expertise et Opérations_. Le projet est volontairement confié à un groupe pluridisciplinaire, afin d’assurer un regard croisé et de réduire au maximum les biais d’interprétation.
+L’exploitation et l’analyse des résultats sont portées par l’équipe animation beta.gouv.fr. Le projet est volontairement confié à un groupe pluridisciplinaire, afin d’assurer un regard croisé et de réduire au maximum les biais d’interprétation.
 
 L'équipe collabore comme suit :
 
