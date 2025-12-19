@@ -25,7 +25,7 @@ Le parcours de sélection est segmenté en 6 grandes phases :
 
 * **Phase 1** : Cadrer ton besoin
 * **Phase 2** : Rédiger (ou faire rédiger par le titulaire) la fiche annonce et la publier sur Welcome to the jungle
-* **Phase 3** : Analyser les candidatures entrantes ou provenant du sourcing d'un titulaire
+* **Phase 3** : Analyser les candidatures entrantes
 * **Phase 4** : Sélectionner le bon profil lors des différents entretiens
   * Préqualification pour s'assurer de l'alignement sur les conditions de la prestation et faire un premier filtre compétences/culture
   * Entretien & mise en situation pour évaluer les compétences et projeter les métiers dans le contexte de l'équipe
@@ -66,7 +66,7 @@ La publication de l'annonce doit respecter certaines règles de conformités lé
 [welcome-to-the-jungle](../../les-outils-de-la-communaute/autres-services/welcome-to-the-jungle/)
 {% endcontent-ref %}
 
-### Phase 3 : Analyser les candidatures entrantes ou provenant du sourcing d'un titulaire
+### Phase 3 : Analyser les candidatures entrantes
 
 Les candidats ont accès à ce [guide](https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/guide-pour-les-candidats) pour préparer leur candidature.
 
