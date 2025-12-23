@@ -57,6 +57,6 @@ Les résultats et l'analyse associés sont présentés tous les semestres lors d
 
 Voici le support de présentation pour la dernière enquête (_Avril 2025_)
 
-{% embed url="https://docs.google.com/presentation/d/18ti-Urbpyj7-xCKS05T5VUOupb_mvcKlYsKcrkv_XlM/edit?slide=id.g358a795929e_0_1132#slide=id.g358a795929e_0_1132" %}
+{% embed url="https://docs.google.com/presentation/d/1gqDiixGZVHa7zaPP0K92iyYbXFXexizmYkcLoyQKs0c/edit?usp=sharing" %}
 
 👋 Si tu as la moindre question à ce sujet, tu peux envoyer un mail à `contact@beta.gouv.fr.`
