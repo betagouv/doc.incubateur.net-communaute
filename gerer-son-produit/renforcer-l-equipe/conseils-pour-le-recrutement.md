@@ -33,6 +33,7 @@ Le parcours de sélection est segmenté en 6 grandes phases :
   * Prise de références pour les 1-2 derniers candidats
 * **Phase 5** : Comparer et faire le bon choix parmi les profils
 * **Phase 6** : Formuler une proposition cohérente à la personne retenue
+* **Phase 7** : Annexer le document de cadrage de mission au bon de commande
 
 En tant qu'intra, tu as la responsabilité de piloter l'entièreté du cycle de sélection pour chacune des missions que tu ouvres. Tu es le garant du bon déroulé du processus, de la phase de cadrage à la proposition de contractualisation.
 
@@ -158,6 +159,15 @@ Pour t'aider à trouver une juste rémunération/prix pour les prestations, tu p
 
 Les [référents métiers](https://doc.incubateur.net/communaute/solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/laide-au-recrutement-des-referents-metiers) peuvent te guider pour comprendre la tarification actuelle du marché selon le rôle et formuler une proposition juste et efficace.
 
+### Phase 7 : Annexer le document de cadrage de mission au bon de commande
+
+Une fois la proposition acceptée par le.a prestataire, il te faut passer **commande** auprès d'un des titulaires du marché public. La méthodologie de prise de commande peut varier selon chaque incubateur, alors rapproche toi du responsable de l'équipe transverse de celui-ci.
+
+Pour préparer au mieux [l'évaluation future de la mission et valider ou non les services faits](https://doc.incubateur.net/communaute/gerer-son-produit/gestion-au-quotidien/renforcer-l-equipe/embarquement-par-le-recruteur#pense-bete-pour-les-premiers-mois), nous te recommandons d'annexer ce [document](https://docs.numerique.gouv.fr/docs/ab8e7ef7-4dae-4f15-8f0d-d97418b3fe1b/) à ton bon de commande. Ce document reprend trait pour trait les missions et critères que tu as défini lors de la phase de cadrage, il n'y a donc pas de travail supplémentaire. Cette annexe te permettra de légitimer fortement ton évaluation des services faits et prendre les bonnes décisions par la suite.
+
+Pour rappel, le service fait peut être validé sans réserve/avec réserve si les livrables rendus sont non conformes ou incomplets (CF. [Documentation](https://doc.incubateur.net/communaute/gerer-son-produit/gestion-au-quotidien/marches)
+
+
 ## Garantir un accueil premium
 
-Bien suivre [la procédure d'accueil proposée aux nouveaux membres de la communauté beta.gouv.fr](https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/to-do-darrivee).
+Après la transmission de ton bon de commande au titulaire, il est temps de préparer l'embarquement du.de la prochain.e prestataire. Pour cela il te suffit de suivre [la procédure d'accueil proposée aux nouveaux membres de la communauté beta.gouv.fr](https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/to-do-darrivee).
