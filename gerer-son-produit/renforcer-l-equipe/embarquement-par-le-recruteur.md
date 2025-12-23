@@ -81,5 +81,5 @@ Tu interviens pour :
 
 * [ ] Préparer un feedback 360° pour évaluer au mieux la performance du nouveau membre ou le rendu des livrables lorsqu'il s'agit d'un prestataire
 * [ ] Lire son [rapport d'étonnement](https://docs.numerique.gouv.fr/docs/5bf47fbb-7620-4b01-a61e-035104fee33f/)
-* [ ] Évaluer les services faits ou [livrables](https://doc.incubateur.net/communaute/gerer-son-produit/gestion-au-quotidien/marches) et la tenue des objectifs pour décider de la suite à donner à sa missionen utilisant ce [modèle](https://docs.numerique.gouv.fr/docs/be5ddf8c-83bf-42b9-96f5-8d5aed18dd98/)
+* [ ] Évaluer les [services faits](https://doc.incubateur.net/communaute/gerer-son-produit/gestion-au-quotidien/marches) et la tenue des objectifs pour décider de la suite à donner à sa missionen utilisant ce [modèle](https://docs.numerique.gouv.fr/docs/be5ddf8c-83bf-42b9-96f5-8d5aed18dd98/)
 * [ ] Informer toutes les parties prenantes (prestataire, incubateur et titulaire du marché) de ta décision quant à la suite de la mission
