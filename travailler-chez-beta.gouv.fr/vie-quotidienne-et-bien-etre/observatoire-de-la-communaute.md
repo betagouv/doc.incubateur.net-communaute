@@ -2,7 +2,6 @@
 description: >-
   Cette page présente la méthodologie et les résultats des sondages bien-être de
   la communauté beta.gouv.fr
-hidden: true
 ---
 
 # Observatoire de la communauté
@@ -48,7 +47,7 @@ L'équipe collabore comme suit :
 
 * Consolidation des réponses brutes sur un fichier unique.
 * Calcul du NPS selon la méthode standard (_0 à 6 = détracteurs ; 7 & 8 = passifs ; 9 & 10 = promoteurs_)
-* Lecture qualitative des verbatims pour contextualiser les tendances à partir des méthodes issues de la recherche utilisateur.trice.&#x20;
+* Lecture qualitative des verbatims pour contextualiser les tendances à partir des méthodes issues de la recherche utilisateur.trice.
 * Analyse plus poussée à partir de la segmentation des résultats (_métiers, incubateurs, séniorité_) pour repérer les zones nécessitant un accompagnement spécifique.
 
 ## Résultats et analyse
