@@ -39,6 +39,10 @@ Utilisez des adresses IP brevo dédiées pour vos envois.
 
 Afin de préserver la vie privée de vos usagers, demandez gentiment au support Brevo de désactiver totalement le tracking dans les emails.
 
+{% hint style="success" %}
+**Avant de commencer, nous vous conseillons de consulter ce** [**guide** ](https://docs.numerique.gouv.fr/docs/d5584e0f-a4d1-4868-8650-5636ee234c8c/)**regroupant les informations principales pour bien utiliser Brevo**
+{% endhint %}
+
 {% hint style="info" %}
 Privilégiez les envois via SMTP plutôt que par API pour pouvoir changer plus facilement de fournisseur d'envoi.
 {% endhint %}
