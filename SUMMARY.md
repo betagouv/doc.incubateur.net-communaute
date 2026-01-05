@@ -74,7 +74,7 @@
     * [Réagir face à une situation compliquée](travailler-chez-beta.gouv.fr/vie-quotidienne-et-bien-etre/gerer-des-situations-comliquees/conseils.md)
     * [Indépendant victime de harcèlement ou de discrimination](travailler-chez-beta.gouv.fr/vie-quotidienne-et-bien-etre/gerer-des-situations-comliquees/independant-victime-de-harcelement-ou-de-discrimination.md)
     * [Coaching RH : Clinique des situations difficiles](travailler-chez-beta.gouv.fr/vie-quotidienne-et-bien-etre/gerer-des-situations-comliquees/coaching-rh-clinique-des-situations-difficiles.md)
-  * [Observatoire de la communauté](travailler-chez-beta.gouv.fr/vie-quotidienne-et-bien-etre/observatoire-de-la-communaute.md)
+  * [Climat de la communauté](travailler-chez-beta.gouv.fr/vie-quotidienne-et-bien-etre/observatoire-de-la-communaute.md)
 * [🤓 Se former](travailler-chez-beta.gouv.fr/se-former/README.md)
   * [Découvrir les formations proposées](travailler-chez-beta.gouv.fr/se-former/les-formations-a-venir.md)
   * [Se former en ligne](travailler-chez-beta.gouv.fr/se-former/se-former-en-ligne/README.md)

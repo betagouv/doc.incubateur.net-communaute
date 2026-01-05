@@ -4,13 +4,13 @@ description: >-
   la communauté beta.gouv.fr
 ---
 
-# Observatoire de la communauté
+# Climat de la communauté
 
 ## Méthodologie et enjeux
 
 Chaque **semestre**, l'équipe animation beta.gouv.fr interroge l’ensemble de la communauté beta.gouv.fr pour mesurer et comprendre le niveau d'**engagement**, de **bien-être**, d'**appartenance ressentie** de ses membres.
 
-### Pourquoi un Observatoire de la communauté ?
+### Pourquoi un climat de la communauté ?
 
 L'objectif de cette démarche est de donner une vision **honnête** et **utile** de la réalité vécue par les membres de la communauté et permettre à l'équipe d'entendre et piloter la communauté au plus près de vos besoins.
 
