@@ -23,6 +23,10 @@ Il faudra indiquer :
 
 📌 L’accès est **gratuit** pour les équipes produit internes, dans la limite du quota du compte partagé.
 
+{% hint style="danger" %}
+Pour les équipes de l'incubateur des territoires (ANCT), la demande est à formuler directement sur le [canal support](https://chat.incubateur.anct.gouv.fr/incubateur/channels/support) du mattermost de l'incubateur.
+{% endhint %}
+
 ***
 
 #### ⚠️ Bonnes pratiques
