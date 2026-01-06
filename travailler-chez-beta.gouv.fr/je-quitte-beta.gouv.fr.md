@@ -44,7 +44,6 @@ L'équipe dev transverse améliore ces alertes au fil des semaines. **Seules cel
 * [ ] \[OVH] Mise à jour de ton mot de passe email
 * [ ] \[OVH] Suppression des redirections de l’email @beta.gouv.fr vers des adresses externes
 * [ ] \[Github] Retrait de ton compte github de l’organisation beta.gouv
-* [ ] \[Marrainage] Suppression d’un marrainage en cours
 * [ ] \[email] Sur l’adresse secondaire indiquant ce qu’il vient de se passer
 
 #### Trois jours après ta date de fin de mission <a href="#date-de-fin-j3-job-tous-les-jours" id="date-de-fin-j3-job-tous-les-jours"></a>
@@ -103,4 +102,4 @@ Tu peux le désactiver :
 * Allez dans le menu, puis "Paramètres du compte" -> "Options avancées"
 * Dans "Désactiver mon compte", faite "Modifier" puis "Desactivate"
 
-![Désactiver mon compte](/broken/files/5yypSBqbVX6U5jfosg4k)
+![Désactiver mon compte](<../.gitbook/assets/image (14) (2) (1) (1).png>)
