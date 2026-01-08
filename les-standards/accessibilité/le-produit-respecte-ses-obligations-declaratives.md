@@ -43,9 +43,9 @@ autres :
 Le produit doit référencer un schéma, parmi :
 
 - le schéma pluriannuel de son incubateur (s'il existe)
-- le schéma pluriannuel de son administration sponsor - à retrouver
-  sur la page Accessibilité du sponsor - si elle existe)
-- le schéma pluriannuel de beta.gouv.fr, sinon
+- le schéma pluriannuel de son administration sponsor à retrouver
+  sur la page Accessibilité du sponsor (si elle existe)
+- le schéma pluriannuel de beta.gouv.fr sinon
 
 ### Publication d'un plan d'action
 
@@ -54,14 +54,14 @@ s'agit d'une liste ou d'un tableau indiquant les grandes étapes de
 mise en accessibilité. Par exemple :
 
 - Refonte vers le DSFR et amélioration de l'accessibilité du front - S1 2025
-- Formation en interne (atelier Easy Checks menés par beta.gouv.fr- - S1 2025
+- Formation en interne (atelier Easy Checks menés par beta.gouv.fr - S1 2025
 - Préparation à l'audit - S2 2025
 - Audit de conformité et correction - S2 2025
 
 ## Critères
 
 - Le service indique une mention de conformité
-  (non/partiellement/totalement conforme) sur la page d'accueil
+  (non/partiellement/totalement conforme) sur la page d'accueil.
 - Une déclaration d'accessibilité valide est en ligne.
 - Un schéma pluriannuel à jour est lié.
 - Un plan d'action est documenté en ligne.

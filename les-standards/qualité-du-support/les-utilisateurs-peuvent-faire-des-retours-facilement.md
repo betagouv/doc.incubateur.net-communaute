@@ -30,6 +30,5 @@ traitement des réponses avec des délais clairs.
 ## Ressources
 
 - [Intégrer le bouton "Je donne mon avis" - doc.incubateur.net](https://doc.incubateur.net/communaute/gerer-son-produit/pourquoi-le-deploiement-dun-service-public-en-ligne-est-il-important/integrer-le-bouton-je-donne-mon-avis)
-- [Support utilisateur - sillon.incubateur.net](https://sillon.incubateur.net/docs/monitoring/for-business-needs/#support-utilisateur)
 - [L'outil GitHub Discussions - docs.github.com](https://docs.github.com/fr/discussions/collaborating-with-your-community-using-discussions/about-discussions)
 - [Astuto - outil de feuille de route publique - astuto.io](https://astuto.io/)
