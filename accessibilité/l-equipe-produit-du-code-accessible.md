@@ -2,14 +2,14 @@
 
 ## Description
 
-Dans l'accessibilité d'un produit, toute l'équipe a un rôle a jouer
-mais les développeuses/développeurs ont un rôle particulièrement
-essentiel : environ 60 % des critères du RGAA sont relatifs au code.
+Dans l'accessibilité d'un produit, toute l'équipe a un rôle à jouer
+mais les développeuses/développeurs ont un rôle prépondérant :
+environ 60 % des critères du RGAA sont relatifs au code.
 
 Produire du code sémantique est donc essentiel. Pour cela, l'équipe
-doit s'assurer de mettre en oeuvre le maximum, par exemple :
+doit s'assurer de faire le maximum, par exemple :
 
-- Utiliser un design système accessible (par exemple, le DSFR)
+- Utiliser un design system accessible (par exemple, le DSFR)
 - Avoir des compétences front-end en interne
 - Vérifier régulièrement la sémantique du HTML produit
 

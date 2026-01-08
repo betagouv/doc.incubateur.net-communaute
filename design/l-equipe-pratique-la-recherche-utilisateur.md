@@ -2,12 +2,12 @@
 
 ## Description
 
-La méthode beta.gouv.fr est centrée sur l'utilisateur : c'est grâce à
-ce fondement qu'elle se distingue du mode projet traditionnel, en [se
+La méthode beta.gouv.fr est centrée sur l'utilisateur :
+ce fondement la distingue du mode projet traditionnel, en [se
 concentrant sur les besoins des usagers plutôt que ceux de
 l'administration](https://beta.gouv.fr/manifeste).
 
-Pour rester connecté à ses utilisateurs et utilisatrices, votre équipe
+Pour rester connectée à ses utilisateurs et utilisatrices, votre équipe
 doit pratiquer la recherche utilisateur grâce aux nombreuses méthodes
 disponibles pour mieux comprendre comment est utilisé votre
 service, par exemple :
@@ -27,7 +27,7 @@ votre produit.
 
 ## Critères
 
-- L'équipe intègre un processus de recherche utilisateur
+- L'équipe intègre un processus de recherche utilisateur.
 
 ## Ressources
 
