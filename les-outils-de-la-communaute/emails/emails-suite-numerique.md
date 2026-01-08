@@ -242,6 +242,7 @@ En acceptant la demande, le destinataire pourra accéder à votre calendrier dan
 Attention, à l’heure actuelle et pour des raisons de sécurité, il n’est pas recommandé d’utiliser Calendso ou un autre outil de gestion de prise de RDV. En effet, il peut être dangereux que les identifiants emails soient stockés dans calendso, qui est un outil peu mis à jour et suivi. En cas de compromision de calendso, tous les mots de passe emails sont compromis. Si vous souhaitez tout de même utiliser Calendso, voici la marche à suivre.
 {% endhint %}
 
+* Suivre la doc suivante pour créer un mot de passe applicatif : https://docs.numerique.gouv.fr/docs/72d85e99-1925-4d3e-ac83-b50b45197784/
 * Dans Calendso, cliquer sur “Applications” dans le menu de gauche, puis “Apps installées”
 * Choisir l’option “Calendrier” puis dans le cadre “Eviter les conflits” cliquer sur “Ajouter”
 * Choisir l'option "Ajouter CalDAV" puis compléter avec le lien public de votre calendrier (trouvable dans votre webmail de beta) puis vos identifiants email/mdp
