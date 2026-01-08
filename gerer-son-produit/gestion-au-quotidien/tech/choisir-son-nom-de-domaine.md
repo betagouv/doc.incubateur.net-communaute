@@ -30,7 +30,7 @@ Le nom de domaine beta.gouv.fr est actuellement géré par des équipes de la DI
 
 **Pour qui ?** Toutes les équipes qui démarrent et ne souhaitent pas trop se prendre la tête sur le choix d'un nom qui ne sera de toute façon pas définitif.
 
-**Comment ?** Vous devez avoir rédigé une [fiche produit](https://beta.gouv.fr/ficheproduit/) et l'avoir publiée sur beta.gouv.fr; si ce n'est pas encore fait, gardez en tête que c'est un exercice, bienveillant et critique, de relecture par les pairs, un moment privilégié où la communauté beta peut avoir une influence sur un produit qui n’est encore qu’une idée - il serait dommage de le précipiter. Prévoyez quelque jours de relecture. Pour la création effective du domaine, signalez ensuite votre demande sur le canal #incubateur-ops.
+**Comment ?** Vous devez avoir rédigé une [fiche produit](https://beta.gouv.fr/ficheproduit/) et l'avoir publiée sur beta.gouv.fr; si ce n'est pas encore fait, gardez en tête que c'est un exercice, bienveillant et critique, de relecture par les pairs, un moment privilégié où la communauté beta peut avoir une influence sur un produit qui n’est encore qu’une idée - il serait dommage de le précipiter. Prévoyez quelque jours de relecture. Pour la création effective du domaine, signalez ensuite votre demande sur le canal #incubateur-ops. Plus d'informations [ici](https://doc.incubateur.net/communaute/gerer-son-produit/gestion-au-quotidien/tech/sous-domaine-beta-gouv-fr#beta.gouv.fr-ou-incubateur.net) 
 
 Pour une mise en ligne ultra-rapide, vous pouvez demander un sous-domaine sur incubateur.net, le domaine que nous réservons à nos outils internes et à nos expérimentations, sans contraintes particulières.
 
