@@ -106,7 +106,7 @@
 * [📘 Guide de financement des Startups d'État](gerer-son-produit/guide-de-financement-des-startups-detat/README.md)
   * [🔖 Repères pour les décideuses et décideurs publics sur le coût des services numériques](gerer-son-produit/guide-de-financement-des-startups-detat/1.-reperes-pour-decideuses-et-decideurs-publics-sur-le-cout-des-services-numeriques.md)
   * [🧑‍✈️ Pilotage du coût d'un produit numérique et contraintes liées à la comptabilité publique](gerer-son-produit/guide-de-financement-des-startups-detat/3.-pilotage-du-cout-dun-produit-numerique-et-contraintes-liees-a-la-comptabilite-publique.md)
-  * [✴️ L'enjeu du pilotage par l'impact](gerer-son-produit/guide-de-financement-des-startups-detat/4.-lenjeu-du-pilotage-par-limpact.md)
+  * [✴️ Matrice d'impact et pilotage de l'investissement](gerer-son-produit/guide-de-financement-des-startups-detat/4.-lenjeu-du-pilotage-par-limpact.md)
 * [✅ Les standards](les-standards/README-doc-incubateur-net.md)
   * [✅ Accessibilité](les-standards/accessibilité/README.md)
     * [L'équipe produit du code accessible](les-standards/accessibilité/l-equipe-produit-du-code-accessible.md)
