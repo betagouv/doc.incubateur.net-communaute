@@ -12,7 +12,7 @@ Ce process concerne le marchés de coaching de la DINUM ainsi que le marché int
 
 Le "**livrable**" correspond aux prestations réalisées dans le cadre d'un bon de commande émis par l'administration. L'administration ne paiera l'entreprise titulaire du marché qu'après avoir reçu le livrable.
 
-Ce livrable est de format libre (PPT, Word, compte-rendu inséré ce [**modèle de Procès-verbal de service fait**](https://docs.google.com/document/d/1uiosbZHpDuWksYVGZUCpheO9lhwt6O6d2Qu7Vypi5RA/edit?usp=sharing) renvoyant vers les liens des productions, notamment s'il y a des codes sources sur lesquels l'équipe est intervenue). Il doit cependant être assez explicite et comprendre les éléments suivants :
+Ce livrable est de format libre (PPT, Word, compte-rendu) et il est joint ou inséré au [**modèle de Procès-verbal de service fait**](https://fichiers.numerique.gouv.fr/explorer/items/files/39641414-aebb-46ec-9c1b-4d2b0565acc9)**.** Le livrable ou le PV renvoyant vers les liens des productions (notamment s'il y a des codes sources sur lesquels l'équipe est intervenue). Il doit cependant être assez explicite et comprendre les éléments suivants :
 
 * Le nom du produit
 * Le numéro du bon de commande
@@ -36,11 +36,11 @@ La validation se fait par l'intrapreneur et/ou les responsables d'incubateur, pa
 
 <details>
 
-<summary>Processus pour la DINUM</summary>
+<summary>Processus pour les commandes passées par la DINUM</summary>
 
-Un [**modèle de procès-verbal de service fait**](https://docs.google.com/document/d/1uiosbZHpDuWksYVGZUCpheO9lhwt6O6d2Qu7Vypi5RA/edit) (PVSF) est à disposition des entreprises titulaires des marchés de la DINUM. Son utilisation n'est pas obligatoire.
+Les entreprises titulaires des marchés de la DINUM (mentorat et réalisation de produits) sont invitées à générer une ligne de service fait et à y déposer les livrables sur l'outil de gestion financière Grist.
 
-Les entreprises titulaires des marchés de la DINUM sont invités à transmettre les PVSF complétés sur l'espace Trello consacré. Pour demander un accès au Trello, transmettre un message à compta@beta.gouv.fr
+Pour pouvoir accéder à cet outil, en faire la demande à l'adresse : compta@beta.gouv.fr
 
 </details>
 
