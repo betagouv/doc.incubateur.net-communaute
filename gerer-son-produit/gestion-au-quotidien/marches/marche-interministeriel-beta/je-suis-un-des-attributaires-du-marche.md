@@ -10,16 +10,24 @@ Nous vous rappelons également à toutes fins utiles que conformément au cahier
 
 ### Est-il possible de répondre favorablement à une demande d'un ministère ne relevant pas d'un besoin pour une Startup d'Etat ? <a href="#est-il-possible-de-repondre-favorablement-a-une-demande-dun-ministere-ne-relevant-pas-dun-besoin-pou" id="est-il-possible-de-repondre-favorablement-a-une-demande-dun-ministere-ne-relevant-pas-dun-besoin-pou"></a>
 
-A l'exception des produits numériques de la DINUM (et de la DINUM exclusivement comme le prévoit le marché), **ce marché ne peut être utilisé par les administrations pour faire autre chose que des Startups d'Etat**. Une Startup d'Etat est forcément référencée sur [beta.gouv.fr/startups](http://beta.gouv.fr/startups) et répond aux critères fixés par l'équipe beta.gouv.fr de la DINUM. Ce point est fondamental pour assurer la conformité avec le code de la commande publique. En cas de doute, vous pouvez renvoyer l'administration demandeuse vers [cette FAQ](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/marches-publics-beta.gouv.fr/marche-interministeriel-beta/je-suis-une-administration-beneficiaire-du-marche-interministeriel), ou venir nous demander de l'aide (à [compta@beta.gouv.fr](mailto:compta@beta.gouv.fr)).
+A l'exception des produits numériques de la DINUM (et de la DINUM exclusivement comme le prévoit le marché), **le marché de mentorat ne peut être utilisé par les administrations pour faire autre chose que des Startups d'Etat**. Une Startup d'Etat est forcément référencée sur [beta.gouv.fr/startups](http://beta.gouv.fr/startups) et répond aux critères fixés par l'équipe beta.gouv.fr de la DINUM. **Le lot 1 du marché de réalisation de produit ne peut être utilisé que par la DINUM et par les incubateurs de services numériques** des ministères. Ces deux points sont fondamentaux pour assurer la conformité avec le code de la commande publique. En cas de doute, vous pouvez renvoyer l'administration demandeuse vers [cette FAQ](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/marches-publics-beta.gouv.fr/marche-interministeriel-beta/je-suis-une-administration-beneficiaire-du-marche-interministeriel), ou venir nous demander de l'aide (à [compta@beta.gouv.fr](mailto:compta@beta.gouv.fr)).
 
 ### Est-il possible de refuser une demande de devis ? <a href="#est-il-possible-de-refuser-une-demande-de-devis" id="est-il-possible-de-refuser-une-demande-de-devis"></a>
 
-Un titulaire peut refuser une demande. Néanmoins plusieurs refus peuvent avoir des conséquences.
+Un titulaire peut refuser une demande. Il doit en donner les raisons à l'administration.
 
 #### &#x20;<a href="#lextrait-du-marche-public-detaille-ces-consequences" id="lextrait-du-marche-public-detaille-ces-consequences"></a>
 
-#### L'extrait du marché public détaille ces conséquences : <a href="#lextrait-du-marche-public-detaille-ces-consequences" id="lextrait-du-marche-public-detaille-ces-consequences"></a>
+#### L'extrait des CCAP des deux marchés publics : <a href="#lextrait-du-marche-public-detaille-ces-consequences" id="lextrait-du-marche-public-detaille-ces-consequences"></a>
 
-> _**Le titulaire peut refuser ponctuellement de répondre à une expression de besoin.** Le tourniquet passe alors au titulaire suivant dans l’ordre précité. Lorsque la situation se produit, **le titulaire doit s’en justifier** auprès bénéficiaire et de l’acheteur._
+> _**Le titulaire peut se désister :**_&#x20;
 >
-> _**Dans le cas où un titulaire déciderait de refuser de donner suite à au moins 10** expressions de besoin sur toute la durée de l’accord-cadre (reconductions comprises), l’acheteur en informera l’ensemble des bénéficiaires, qui **seront alors en droit de ne plus inclure ce titulaire dans leur tourniquet,** sans que cela ne puisse donner lieu à un quelconque dédommagement._
+> _**1 -** s'il n'est pas en mesure de répondre à la demande de l'administration bénéficiaire._&#x20;
+>
+> _A titre non exhaustif, le titulaire peut inviquer les raisons suivantes (avec attestation sur l'honneur d'une personne habilitée) :_&#x20;
+>
+> * _impossibilité de répondre dans les délais exigés (demande de devis ou production de livrables) ;_
+> * _charge de travail trop importante ;_
+> * _équipes ou compétences non disponibles temporairement._
+>
+> _**2**- si l'intervention du titulaire génère un conflit d'intérêt_
