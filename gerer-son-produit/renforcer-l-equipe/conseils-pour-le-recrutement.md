@@ -23,18 +23,6 @@ Plus spécifiquement pour chaque **intra** il s'agit d'aider à :
 
 Le parcours de sélection est segmenté en 6 grandes phases :
 
-* **Phase 1** : Cadrer ton besoin
-* **Phase 2** : Rédiger (ou faire rédiger par le titulaire) la fiche annonce et la publier sur Welcome to the jungle
-* **Phase 3** : Analyser les candidatures entrantes
-* **Phase 4** : Sélectionner le bon profil lors des différents entretiens
-  * Préqualification pour s'assurer de l'alignement sur les conditions de la prestation et faire un premier filtre compétences/culture
-  * Entretien & mise en situation pour évaluer les compétences et projeter les métiers dans le contexte de l'équipe
-  * Entretien d'adéquation culturelle avec des membres de l'équipe
-  * Prise de références pour les 1-2 derniers candidats
-* **Phase 5** : Comparer et faire le bon choix parmi les profils
-* **Phase 6** : Formuler une proposition cohérente à la personne retenue
-* **Phase 7** : Annexer le document de cadrage de mission au bon de commande
-
 En tant qu'intra, tu as la responsabilité de piloter l'entièreté du cycle de sélection pour chacune des missions que tu ouvres. Tu es le garant du bon déroulé du processus, de la phase de cadrage à la proposition de contractualisation.
 
 Les [référents métiers](https://doc.incubateur.net/communaute/solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/laide-au-recrutement-des-referents-metiers) sont disponibles pour t'aider dans chacune de ces phases.
@@ -53,11 +41,13 @@ Pour chaque phase du processus, tu as à ta disposition des outils et guides sp�
 
 ### Phase 1 : Cadrer le besoin
 
-C'est la phase **essentielle et indispensable** pour lancer une nouvelle mission. Si cette phase est manquée, tout le reste du processus le sera !
-
 Ce [modèle de document](https://docs.numerique.gouv.fr/docs/1465f149-e5c2-4c73-ac9c-37c5c76b6992/) est là pour t'aider à structurer ta réflexion.
 
 Lorsque tu le complètes, sois aussi précis que possible afin de rendre le ciblage de candidats efficace. La complétion de ce document permet aussi de se poser les bonnes questions quant à ton besoin réel et de le challenger avec le référent métier.
+
+Attention toutefois à ne pas rédiger une liste à rallonge de critères. On va chercher le **bon niveau d’exigence**, pas un profil théorique parfait.
+
+Lors de la phase de cadrage, tu peux concevoir ton processus de sélection à partir du modèle proposé par la DINUM. L'enjeu principal est de parvenir à vérifier tes critères prioritaires ou obligatoires le plus tôt possible. Tu peux aussi avancer de manière granulaire en affinant ton analyse des critères au fil des étapes du processus de sélection.
 
 ### Phase 2 : Rédiger la fiche annonce et la publier sur Welcome to the jungle
 
@@ -68,6 +58,10 @@ La publication de l'annonce doit respecter certaines règles de conformités lé
 {% endcontent-ref %}
 
 ### Phase 3 : Analyser les candidatures entrantes
+
+Pour sélectionner les profils les plus pertinents, reporte toi aux critères de sélection définis dans la fiche de cadrage que tu as conçu avec le référent métier. Tu peux faire ta première sélection en te concentrant  uniquement sur les critères obligatoires et ceux à pondération maximale.
+
+Si aucun profil candidat ne correspond aux critères définis, la bonne pratique est de recommencer son cadrage afin de challenger son besoin.
 
 Les candidats ont accès à ce [guide](https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/guide-pour-les-candidats) pour préparer leur candidature.
 
@@ -87,7 +81,7 @@ Pour les réponses négatives, prendre un peu plus de distance permet de marquer
 >
 > Nous n'avons pas actuellement la capacité d'encadrement nécessaire pour accompagner des personnes effectuant une première expérience professionnelle dans le développement de services numériques.
 >
-> Nous ne pourrons donc pas donner suite dans l'immédiat et nous le regrettons. Si vous le souhaitez, nous pouvons vous ajouter à notre liste de candidat·e·s et vous recontacter lorsque de prochaines missions seront disponibles. Dans ce cas, indiquez-nous à partir de quand vous pensez être disponible. Nous vous invitons aussi à suivre notre page Recrutement : [https://beta.gouv.fr/recrutement](https://beta.gouv.fr/recrutement), où nous mentionnerons explicitement les postes susceptibles d'accueillir des candidats pour une première expérience dans notre domaine.
+> Nous ne pourrons donc pas donner suite dans l'immédiat et nous le regrettons.
 
 Autre suggestion plus courte:
 
@@ -95,14 +89,14 @@ Autre suggestion plus courte:
 >
 > L'offre de _\[Indiquer le nom de la mission publiée]_ a été pourvue, nous te souhaitons bonne chance dans tes recherches.
 >
-> Nous gardons ta candidature au cas où, n'hésite pas à repostuler si tu vois des offres te correspondant.
+> N'hésite pas à postuler à nouveau si tu vois des offres te correspondant.
 
 Plus généralement le schéma à suivre est le suivant:
 
 * remercier la personne de sa candidature
 * mettre en avant des éléments favorables (compétences, motivation)
 * préciser la raison de notre réponse négative (pas de poste, pas le profil recherché, pas le bon statut)
-* si on souhaite conserver le lien avec le candidat, préciser qu'on peut garder ses coordonnées
+* si on souhaite conserver le lien avec le candidat, préciser qu'on peut garder ses coordonnées.
 
 ### Phase 4 : Sélectionner le bon profil lors des différents entretiens
 
@@ -114,7 +108,9 @@ La page ci-dessous a pour but de te proposer un panel plusieurs guides d'entreti
 * L'entretien d'adéquation culturelle
 * La prise de références
 
-Bien-sûr tu peux adapter le nombre d'entretiens à la réalité de ton besoin.
+Tous les compte-rendus de tes entretiens doivent se trouver sur _WelcomeToTheJungle._ Cette méthode te permettra ensuite d'opérer ta sélection sur des éléments concrets et tracés.
+
+Bien-sûr tu peux adapter le nombre d'entretiens à la réalité de ton besoin. Toutefois le processus doit rester collégial et comprendre l'intervention de plusieurs personnes afin de croiser les regards et les expertises.
 
 Ainsi que des versions ultra personnalisées et adaptées à tous les types de métiers.
 
@@ -124,7 +120,13 @@ Ainsi que des versions ultra personnalisées et adaptées à tous les types de m
 
 #### Attention aux biais lors de la phase d'entretien (et même tout le temps)
 
-Tu peux lire par exemple [cet article](https://mozaikrh.com/11-biais-cognitifs-a-connaitre-pour-mieux-recruter/) pour commencer 😉.
+**Attention aux biais cognitifs**, en particulier lors de la phase d’entretien — mais plus largement tout au long du processus de recrutement.
+
+Ils influencent nos perceptions, nos jugements et nos décisions, souvent de manière inconsciente, et peuvent nous amener à surévaluer ou sous-évaluer un·e candidat·e pour de mauvaises raisons (affinité, parcours similaire, première impression, etc.).
+
+Prendre conscience de ces biais est un premier pas essentiel pour sécuriser les décisions de sélection et favoriser des choix plus justes et plus objectifs.
+
+Tu peux lire par exemple [cet article](https://mozaikrh.com/11-biais-cognitifs-a-connaitre-pour-mieux-recruter/) pour commencer à t'y sensibiliser😉.
 
 #### Assure toi de la compatibilité avec les valeurs de beta.gouv.fr
 
@@ -135,6 +137,8 @@ Lorsqu'une nouvelle personne vient travailler avec vous, elle participe aussi à
 Afin de faire un choix rationnel parmi les candidats que tu as rencontrés, nous te proposons d'utiliser une [matrice de pondération](https://grist.numerique.gouv.fr/o/isn/gBv9SB9qWfMn/Matrice-de-ponderation-selection-dun-prestataire). Cet outil te permet de positionner factuellement les candidats avec le cadrage que tu as effectué en début de processus. Tu évalues et surtout compares les profils vis-à-vis des compétences clés que tu as défini au départ.
 
 Pour utiliser le fichier il faut que tu indiques une évaluation de la compétence de 1 à 3 pour chaque candidat à partir de tes fiches d'entretien (3 étant le score le plus important). Ensuite tu indiques une pondération de 1 à 3, à partir de ta fiche de cadrage (3 étant la pondération la plus importante). Enfin, les formules sont indiquées ainsi afin d'être lisibles. Il convient d'enlever les "espaces" pour les rendre fonctionnelles.
+
+🙋Les membres de l'équipe concernée peuvent participer à l'évaluation pondérée, cela donne plus de richesse à l'analyse. Attention tout de même, c'est l'émetteur de la commande publique, l'intrapreneur.se qui est le.a seul.e a pouvoir décider quel profil retenir. C'est d'autant plus vrai en cas de désaccord des membres de l'équipe ou cas d'ex aequo entre les profils. **A la fin c'est toujours l'agent public qui tranche.**
 
 Et voilà ! Sur la dernière ligne du fichier apparait un score global par candidat. C'est une indication mathématique pour choisir celui qui correspond le plus.
 
@@ -166,7 +170,6 @@ Une fois la proposition acceptée par le.a prestataire, il te faut passer **comm
 Pour préparer au mieux [l'évaluation future de la mission et valider ou non les services faits](https://doc.incubateur.net/communaute/gerer-son-produit/gestion-au-quotidien/renforcer-l-equipe/embarquement-par-le-recruteur#pense-bete-pour-les-premiers-mois), nous te recommandons d'annexer ce [document](https://docs.numerique.gouv.fr/docs/ab8e7ef7-4dae-4f15-8f0d-d97418b3fe1b/) à ton bon de commande. Ce document reprend trait pour trait les missions et critères que tu as défini lors de la phase de cadrage, il n'y a donc pas de travail supplémentaire. Cette annexe te permettra de légitimer fortement ton évaluation des services faits et prendre les bonnes décisions par la suite.
 
 Pour rappel, le service fait peut être validé sans réserve/avec réserve si les livrables rendus sont non conformes ou incomplets (CF. [Documentation](https://doc.incubateur.net/communaute/gerer-son-produit/gestion-au-quotidien/marches)
-
 
 ## Garantir un accueil premium
 
