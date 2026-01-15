@@ -18,13 +18,28 @@ Pour garantir une expérience de sélection optimale pour les candidats, **il es
 
 Les trames d'entretiens sont des propositions. Peu importe les mots que l'on choisit, chacun s'exprime avec son propre style, nous te proposons dans ce document un ensemble de points à checker et quelques exemples de questions. Toutes les trames sont également disponible dans ce [Docs](https://docs.numerique.gouv.fr/docs/d56d43a5-35f1-4e44-9c4f-decc471d3661/) que tu peux dupliquer.
 
-Le plus important est collecter des **preuves concrètes de compétences**.
+Le plus important est collecter des **preuves concrètes de compétences pour vérifier les critères définis lors du cadrage.**
 
 Tu seras ensuite capable de comparer et pondérer les compétences de tes candidats et par extension de faire le bon choix. Ce [template grist](https://grist.numerique.gouv.fr/o/isn/gBv9SB9qWfMn/Untitled-document/p/1) peut t'aider pour les calculs pondérés.
+
+Tous les membres de l'équipe qui participeront à la sélection doivent :
+
+* Être briefé sur le cadrage initial
+* Avoir lu les comptes-rendus _WelcomeToTheJungle_ des entretiens précédents afin de ne pas reposer les mêmes questions.
 
 **Les** [**référents métiers**](https://doc.incubateur.net/communaute/solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/laide-au-recrutement-des-referents-metiers) **sont disponibles pour t'aider dans la préparation des entretiens.** Il est indispensable de les consulter si c'est la premmière fois que tu recrutes ou que tu sélectionnes un profil pour une mission en prestation.
 
 Pour déclencher un RDV d'accompagnement, RDV [👉ici](https://grist.numerique.gouv.fr/o/isn/forms/4QncvyEckeLHhdfRYFUxJF/7)
+
+## Attention aux biais
+
+⚠️ Attention aux biais cognitifs, en particulier lors de la phase d’entretien — mais plus largement tout au long du processus de recrutement.
+
+Ils influencent nos perceptions, nos jugements et nos décisions, souvent de manière inconsciente, et peuvent nous amener à surévaluer ou sous-évaluer un·e candidat·e pour de mauvaises raisons (affinité, parcours similaire, première impression, etc.).
+
+Prendre conscience de ces biais est un premier pas essentiel pour sécuriser les décisions de sélection et favoriser des choix plus justes et plus objectifs.
+
+Tu peux lire par exemple cet article pour commencer à t'y sensibiliser😉.
 
 ## Guides par étape
 
@@ -38,7 +53,7 @@ Le RDV est simple et rapide (moins de 30 minutes).
 
 Si trop de points clés sont manquants (tel que définis dans la prise de brief) il n'est pas nécessaire d'aller plus loin. Tout le monde gagnera du temps !
 
-#### La trame
+**La trame**
 
 Après avoir introduit en 2 minutes le contexte de l'échange et qui on est. On donne la parole au candidat en suivant cet exemple de chapitrage :
 
@@ -61,20 +76,20 @@ On clôture l'échange par des remerciements et en explicitant la suite du proce
 
 <details>
 
-<summary>Entretien intra</summary>
+<summary>Entretien intra/métier</summary>
 
-L'entretien intra est clé puisqu'il a vocation à déterminer si tu te projettes à collaborer avec ce.tte prestataire.
+L'entretien intra est clé puisqu'il a vocation à trouver des preuves de réponses aux critères de compétences métiers ainsi que revérifier la compréhension du produit par le candidat.
 
 Il faut compter 45-60 minutes d'échange.
 
 Cet entretien peut-être réunifié avec la préqualification si une seule et même personne conduit les 2 échanges (comme l'intra par exemple)
 
 L'objectif est de checker l'ensemble des compétences nécessaires pour mener à bien la mission.\
-Il faut donc préparer cet entretien avec 1 à 2 questions par compétences (cf prise de brief).
+Il faut donc préparer cet entretien avec 1 à 2 questions par critère (cf prise de brief).
 
-#### La trame
+**La trame**
 
-Après avoir introduit en 2 minutes le contexte de l'échange et qui on est. On donne la parole au candidat en suivant cet exemple de chapitrage :
+On commence par introduire en 2 minutes le contexte de l'échange et qui on est. C'est une introduction de type _"Icebreaker"_ pour aider le candidat à se mettre à l'aise. L'idée est tout de même de faire très court afin de ne pas perdre de temps. On donne la parole au candidat en suivant cet exemple de chapitrage :
 
 |                                                                                                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                                                                                                |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -102,9 +117,9 @@ Son objectif est de projeter les compétences préalablement validées dans le c
 
 La mise en situation est à concevoir dès la phase de prise de brief.
 
-#### La trame
+**La trame**
 
-Après avoir introduit en 2 minutes le contexte de l'échange et qui on est. On donne la parole au candidat en suivant cet exemple de chapitrage :
+On commence par introduire en 2 minutes le contexte de l'échange et qui on est. C'est une introduction de type _"Icebreaker"_ pour aider le candidat à se mettre à l'aise. L'idée est tout de même de faire très court afin de ne pas perdre de temps. On donne la parole au candidat en suivant cet exemple de chapitrage :
 
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -122,32 +137,35 @@ On clôture l'échange par des remerciements et en explicitant la suite du proce
 
 <details>
 
-<summary>Entretien d'adéquation culturelle</summary>
+<summary>Entretien d'adéquation au cadre de collaboration</summary>
 
 Une fois la pré-sélection de 1 à 3 profils maximum, l'intra organise une rencontre avec les membres de son équipe, idéalement au bureau, pour qu’ils échangent sur :
 
-* Les valeurs de la communauté;
+* Les valeurs de la communauté ;
 * Le quotidien dans l'équipe ;
-* Le management et style de collaboration ;
+* Le management et cadre de collaboration ;
 * N’importe sujet que le candidat souhaite aborder.
+
+Comme pour tout entretien, on en revient à la notion de critères. Il convient de se concentrer sur ceux définis lors du cadrage. Cet entretien doit permettre d'investiguer en profondeur les critères liés au cadre de collaboration.
 
 Dans cet échange on recherche des signaux d'alertes culturels potentiels qui n'auraient pas été détecté plus tôt.
 
 Il n’est pas attendu de positionnement de type OUI / NON par les membres de l'équipe. Simplement un avis consultatif.
 
-Le RDV est simple et rapide (moins de 30 minutes).
+Il faut compter 45-60 minutes d'échange.
 
-#### La trame
+**La trame**
 
-Après avoir introduit en 2 minutes le contexte de l'échange et qui on est. On donne la parole au candidat en suivant cet exemple de chapitrage :
+On commence par introduire en 2 minutes le contexte de l'échange et qui on est. C'est une introduction de type _"Icebreaker"_ pour aider le candidat à se mettre à l'aise. L'idée est tout de même de faire très court afin de ne pas perdre de temps. On donne la parole au candidat en suivant cet exemple de chapitrage :
 
-|                                                                                                                                                                                                                                                                                          |                                                                                                                                                                                        |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Questions**                                                                                                                                                                                                                                                                            | **Exemples**                                                                                                                                                                           |
-| Courte présentation du candidat (parcours et expérience professionnelle) 💡Conseil : demander de se concentrer sur le pourquoi de ces évolutions                                                                                                                                         | _« Est-ce que tu peux revenir sur les grandes étapes de ton parcours… et surtout sur pourquoi tu as fait ces choix-là à chaque fois ? »_                                               |
-| Checker la compréhension du candidat sur la mission potentielle et sur l'équipe du service numérique 💡Conseil : le but est d'identifier ce que le candidat met en avant parmi tout ce qui lui a été présenté. C'est idéal pour checker l'alignement quant à la perception des priorités | _« Après ce qu’on t’a partagé, qu’est-ce que tu retiens de la mission et de ses enjeux ? »_                                                                                            |
-| Demander les enjeux décisionnels du candidat. Qu'est ce que le ferait choisir notre mission ? 💡Conseil : le but est de continuer à investiguer sur ses enjeux décisionnels et ce qui fera la différence.                                                                                | _« Quand tu choisis une mission, qu’est-ce qui compte le plus pour toi ? »_ _« Et à l’inverse, quels seraient tes signaux d’alerte, ou les choses qui pourraient te faire hésiter ? »_ |
-| Récolter les questions du candidat 💡Conseil : le but est de traiter ses éventuels freins.                                                                                                                                                                                               | _« Est-ce qu’il y a des points que tu aimerais éclaircir sur la mission, l’équipe ou le fonctionnement ? »_                                                                            |
+|                                                                                                                                                                                                                                                                                          |                                                                                                                                                                                                                                                                                                                                                                                            |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Questions**                                                                                                                                                                                                                                                                            | **Exemples**                                                                                                                                                                                                                                                                                                                                                                               |
+| Courte présentation du candidat (parcours et expérience professionnelle) 💡Conseil : demander de se concentrer sur le pourquoi de ces évolutions                                                                                                                                         | _« Est-ce que tu peux revenir sur les grandes étapes de ton parcours… et surtout sur pourquoi tu as fait ces choix-là à chaque fois ? »_                                                                                                                                                                                                                                                   |
+| Checker la compréhension du candidat sur la mission potentielle et sur l'équipe du service numérique 💡Conseil : le but est d'identifier ce que le candidat met en avant parmi tout ce qui lui a été présenté. C'est idéal pour checker l'alignement quant à la perception des priorités | _« Après ce qu’on t’a partagé, qu’est-ce que tu retiens de la mission et de ses enjeux ? »_                                                                                                                                                                                                                                                                                                |
+| <p>Checker les aspects clés du cadre de collaboration<br><br>💡Conseil : le but est d'identifier si le cadre proposé dans la mission correspond aux qualités du candidat.</p>                                                                                                            | <p><em>« As-tu déjà collaboré dans une équipe au sein de laquelle le mode de décision est horizontal ? »</em><br><em>« As-tu déjà travaillé dans un équipe 100% distanciel et pratiquant l'asynchrone ? »</em><br><em>« Comment penses-tu que les valeurs</em> <a href="https://beta.gouv.fr"><em>Beta.gouv.fr</em></a> <em>devraient influencer notre cadre de collaboration ? »</em></p> |
+| Demander les enjeux décisionnels du candidat. Qu'est ce que le ferait choisir notre mission ? 💡Conseil : le but est de continuer à investiguer sur ses enjeux décisionnels et ce qui fera la différence.                                                                                | _« Quand tu choisis une mission, qu’est-ce qui compte le plus pour toi ? »_ _« Et à l’inverse, quels seraient tes signaux d’alerte, ou les choses qui pourraient te faire hésiter ? »_                                                                                                                                                                                                     |
+| Récolter les questions du candidat 💡Conseil : le but est de traiter ses éventuels freins.                                                                                                                                                                                               | _« Est-ce qu’il y a des points que tu aimerais éclaircir sur la mission, l’équipe ou le fonctionnement ? »_                                                                                                                                                                                                                                                                                |
 
 On clôture l'échange par des remerciements et en explicitant la suite du processus (1- si on continue ou 2- si on s'arrête).
 
@@ -161,7 +179,7 @@ On clôture l'échange par des remerciements et en explicitant la suite du proce
 
 <summary>Prise de référence</summary>
 
-La prise de références a vocation à récolter les dernières preuves de compétences que tu n'es pas parvenu à identifier. Il peut s'agir de compétences métier ou de savoir-être. 
+La prise de références a vocation à récolter les dernières preuves de compétences que tu n'es pas parvenu à identifier. Il peut s'agir de compétences métier ou de savoir-être.
 
 ‼️ Nous te recommandons vivement de systématiser la prise de référence pour tes derniers candidats.
 
@@ -169,7 +187,7 @@ Elle permet également de lever ou confirmer par un avis tiers/neutre les évent
 
 Le RDV est simple et rapide (moins de 15 minutes).
 
-#### La trame
+**La trame**
 
 Après avoir introduit en 1 minute le contexte de l'échange et qui on est. On donne la parole au référent choisi par le candidat en suivant cet exemple de chapitrage :
 
