@@ -10,12 +10,12 @@ hidden: true
 
 ## 🧑🏽‍💻 Comment réaliser ta demande ?
 
-*   **Complétez**[ **ce formulaire**](https://resana.numerique.gouv.fr/public/information/consulterAccessUrl?cle_url=1477805803VDhVMwAIUToMMFFhA28EIFE9U2EOLwA5Am0CZ1U9DDRUY1NoB2kCMQJnVDNQYA==)  **et envoyez le par mail** au moins 7 jours ouvrés avant votre date d'arrivée souhaitée **à votre référent ISN/DINUM**, c'est-à-dire un membre de l'équipe ISN/DINUM avec qui vous êtes régulièrement en contact et qui vient souvent à Ségur.
+*   **Complétez**[ **ce formulaire**](https://resana.numerique.gouv.fr/public/information/consulterAccessUrl?cle_url=1477805803VDhVMwAIUToMMFFhA28EIFE9U2EOLwA5Am0CZ1U9DDRUY1NoB2kCMQJnVDNQYA==) **et envoyez le par mail** au moins 7 jours ouvrés avant votre date d'arrivée souhaitée **à votre référent ISN/DINUM**, c'est-à-dire un membre de l'équipe ISN/DINUM avec qui vous êtes régulièrement en contact et qui vient souvent à Ségur.
 
     **Ne pas modifier les lignes 6 (N° de salles), 7 (adresse mail), 15 (numéro de bdc chorus), 17 (détail sur la photo), 18 (signataire habilité).**\
     **Ne pas indiquer une date de validité de plus d'un an !**\
     **N'oubliez pas de joindre votre photo d'identité sur fond blanc.**
-* Une fois le mail reçu, votre référent vérifie que votre demande est conforme et la transfère à [logistique-dinum@pm.gouv.fr](mailto:logistique-dinum@pm.gouv.fr) et [rh-dinum@pm.gouv.fr](mailto:rh-dinum@pm.gouv.fr) avec Ishan Bhojwani en copie, au moins 5 jours ouvrés avant votre date d'arrivée souhaitée.
+* Une fois le mail reçu, votre référent vérifie que votre demande est conforme et la transfère à [logistique-dinum@pm.gouv.fr](mailto:logistique-dinum@pm.gouv.fr) et [rh-dinum@pm.gouv.fr](mailto:rh-dinum@pm.gouv.fr) avec Marine Purson en copie, au moins 5 jours ouvrés avant votre date d'arrivée souhaitée.
 * Une fois votre badge édité, votre référent sera prévenu, pourra aller le chercher et vous en informer.
 
 ## 🕰️ Combien de temps pour obtenir ton badge ?
