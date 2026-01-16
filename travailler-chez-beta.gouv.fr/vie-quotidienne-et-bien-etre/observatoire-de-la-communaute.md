@@ -12,7 +12,7 @@ Chaque **semestre**, l'équipe animation beta.gouv.fr interroge l’ensemble de 
 
 ### Pourquoi suivre le climat de la communauté ?
 
-L'objectif de cette démarche est de donner une vision **honnête** et **utile** de la réalité vécue par les membres de la communauté et permettre à l'équipe d'entendre et piloter la communauté au plus près de vos besoins.
+L'objectif de cette démarche est de donner une vision **honnête** et **utile** de la réalité vécue par les membres de la communauté et permettre à l'équipe Animation d'entendre et piloter la communauté au plus près de vos besoins.
 
 Le sondage comporte trois briques :
 
@@ -41,7 +41,7 @@ La méthodologie demeure la même depuis la création du sondage afin de permett
 
 #### Traitement et analyse
 
-L’exploitation et l’analyse des résultats sont portées par l’équipe animation beta.gouv.fr. Le projet est volontairement confié à un groupe pluridisciplinaire, afin d’assurer un regard croisé et de réduire au maximum les biais d’interprétation.
+L’exploitation et l’analyse des résultats sont portées par l’équipe animation beta.gouv.fr. Le projet est volontairement confié à un groupe pluridisciplinaire, afin d’assurer un regard croisé et de réduire au maximum les biais d’interprétation. Seule l'équipe projet à accès à l'ensemble des données brutes.
 
 L'équipe collabore comme suit :
 
@@ -54,8 +54,8 @@ L'équipe collabore comme suit :
 
 Les résultats et l'analyse associés sont présentés tous les semestres lors d'un webinaire de la communauté.
 
-Voici le support de présentation pour la dernière enquête (_Avril 2025_)
+Voici le support de présentation pour la dernière enquête (_Novembre 2025_)
 
-{% embed url="https://docs.google.com/presentation/d/1gqDiixGZVHa7zaPP0K92iyYbXFXexizmYkcLoyQKs0c/edit?usp=sharing" %}
+{% embed url="https://docs.google.com/presentation/d/1gqDiixGZVHa7zaPP0K92iyYbXFXexizmYkcLoyQKs0c/edit?slide=id.g3af8b7e03db_2_30#slide=id.g3af8b7e03db_2_30" %}
 
 👋 Si tu as la moindre question à ce sujet, tu peux envoyer un mail à `contact@beta.gouv.fr.`
