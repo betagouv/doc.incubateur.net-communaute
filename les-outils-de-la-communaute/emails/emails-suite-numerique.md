@@ -170,6 +170,15 @@ Il vous suffit ensuite de copier ou déplacer les messages vers votre nouvelle b
 
 ![](https://storage.gra.cloud.ovh.net/v1/AUTH_0f20d409cb2a4c9786c769e2edec0e06/padnumerique/uploads/d6e54bac-018c-4b8d-b241-cd855bed8d30.png)
 
+##### 4.2.1 Astuces
+
+Pour copier plus facilement de gros volumes:
+
+ - créer des sous-dossiers dans l'ancien "Inbox", y déplacer les messages; (ex: un dossier par an)
+ - clic-droit sur le sous-dossier puis "copier à" -> "nouvelle boite / Inbox"
+
+ Une fois la copie terminée, vérifier que l'ancien et le nouveau dossier contiennent bien le même nombre de message.
+
 #### 4.4 Importer ses anciens mails dans Apple Mail
 
 **Si vous utilisiez gmail**
