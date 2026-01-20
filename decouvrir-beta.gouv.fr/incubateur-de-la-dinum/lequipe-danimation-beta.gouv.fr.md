@@ -14,22 +14,20 @@ L’incubateur de la DINUM est constitué d’une trentaine de personnes (agents
 
 ### :crown: L'équipe de Direction et Opérations
 
-Elle est constituée de 3 agents :
 
-* **Ishan Bhojwani**, Chef du département Incubateur de Services numériques
-* **Alice Pannetrat,** Directrice des opérations
-* **Emmanuelle Graff**, Responsable de coordination administrative et financière
+
+* **Léa Gislais**, Cheffe du département Accompagnement de Services Numériques (ASN)
 
 ### :briefcase: Le pôle Partenariats / Responsables de portefeuille ministériel
 
 Les [**responsables de portefeuille** ](../../travailler-chez-beta.gouv.fr/les-differents-metiers/responsable-de-portefeuille/)s'occupent de soutenir les équipes produit et les incubateurs dans leurs travaux en fonction de leur périmètre ministériel :
 
-* **Clémence Lopez** : Education Nationale, Enseignement supérieur, Sports
-* **Estelle Saget** : Santé, Jeunesse et Vie Associative, Solidarités et Inclusion, Justice
+* **Clémence Lopez** : Education Nationale, Enseignement supérieur
+* **Estelle Saget** : Santé, Solidarités et Inclusion, Justice
 * **Maël Inizan** : Logement
-* **Adrien Zemour** : Territoire, Affaires Etrangères, Transition Ecologique et Culture
 * **Magali Marcel-Garreau** : Economie et Finances publiques, Agriculture
 * **Thibault Desjardins** : Intérieur, Armées et Travail
+* **Lucie Zaccardi** : Vie associative, Sport et Culture
 
 ### :bullettrain\_front: Le pôle Accélération
 
@@ -40,14 +38,15 @@ Ce pôle est en charge du [Fond d'Accélération des Startups d'Etat et de Terri
 * **Séverine Hours,** Experte accélération
 * **Hughes Le Chevallier**, Expert accélération
 * **Chaïb Martinez**, Expert accélération
-* **John Labuzan**, Expert accélération
 * **Octave Bory**, Expert accélération
 
 ### :unicorn: Le pôle Animation et Expertises
 
 Le pôle garantit un environnement de travail le plus attractif possible, anime et outille le réseau des incubateurs ministériels, des intrapreneurs et des EIG, et fournit des expertises aux Startups d’État (tech, accessibilité...). Il est composé de :
 
+* **Alice Pannetrat,** responsable du pôle
 * **Marine Purson**, adjointe en charge des relations institutionnelles et de la communication
+* **Emmanuelle Graff**, responsable de coordination administrative et financière
 * **Julien Bouquillon,** référent technique (CTO) de la communauté
 * **Stéphane Maniaci,** référent qualité tech (Tech Lead)
 * **Amel Alili**, chargée du support utilisateurs
@@ -70,7 +69,6 @@ Le pôle accompagne des produits numériques prioritaires et anime la communaut�
 * **Maël Inizan,** responsable du pôle, coach
 * **Benoît Champy,** coach produit
 * **Adrien Laville,** coach produit
-* **Denis Baudot**, mentor technique, CTO des produits incubés à l'ISN
 
 ### :small\_red\_triangle: Le programme Entrepreneur(e)s d'Intérêt Général (EIG)
 
