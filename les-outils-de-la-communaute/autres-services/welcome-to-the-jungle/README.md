@@ -89,9 +89,7 @@ Tu peux toutefois indiquer des conditions pour réussir cette dernière. Par exe
 
 ## Paramétrer le formulaire de candidature
 
-Il est recommandé d'ajouter quelques 2-3 au formulaire de candidature _WTTJ_. C'est un excellent premier moyen de faire le filtre sur tes critères obligatoires ou à pondération maximale.
-Sur le formulaire, privilégie les questions binaires (oui / non, choix multiples simples).
-Elles demandent peu de traitement côté recruteur, facilitent le tri automatique ou semi-automatique et évitent les interprétations subjectives.
+Il est recommandé d'ajouter quelques 2-3 au formulaire de candidature _WTTJ_. C'est un excellent premier moyen de faire le filtre sur tes critères obligatoires ou à pondération maximale. Sur le formulaire, privilégie les questions binaires (oui / non, choix multiples simples). Elles demandent peu de traitement côté recruteur, facilitent le tri automatique ou semi-automatique et évitent les interprétations subjectives.
 
 Réserve les questions ouvertes aux éléments vraiment différenciants. Le formulaire doit t’aider à décider vite, pas à lire des lettres de motivation déguisées.
 
@@ -141,7 +139,7 @@ Mettre à jour la carte des candidats tout au long du process de sélection.\
 _**Faire attention aux biais**_\
 Nous sommes tous biaisés, nous t'invitons fortement à y faire attention et [à te sensibiliser](https://mozaikrh.com/11-biais-cognitifs-a-connaitre-pour-mieux-recruter/) si ce n'est pas déjà fait !\
 \
-&#xNAN;_**Rester respectueux dans ses commentaires**_\
+\&#xNAN;_**Rester respectueux dans ses commentaires**_\
 Les commentaires que tu laisseras sur la fiche d'un candidat seront accessibles à toute la communauté, reste donc professionnel et respectueux. Par ailleurs, la loi condamne tout propos discriminant ou haineux. Enfin, un candidat peut te demander d'avoir accès aux informations que tu as sur lui dont les commentaires.
 
 </details>
@@ -157,3 +155,10 @@ Pour éviter cela, nous te conseillons de :
 * Changer l'objet du mail : enleve le prénom de la personne et privilégie un objet plus court : "Candidature reçue pour _nom du poste_ "\\
 * Evite au maximum d'ajouter des liens externes dans tes réponses, ou alors raccourci le lien dans la mesure du possible.\\
 * Ajoute dans la partie "Déroulement de l'entretien" de tes offres ainsi que dans le template automatique de confirmation de candidature, une phrase conseillant tes candidats à se connecter régulièrement à leur espace Welcome to the Jungle pour consulter leurs messages (les échanges sont retranscrits directement et ne peuvent pas tomber dans les spams par ce biais).
+
+## Exemples concrets
+
+Voici un exemple de fiche annonce pour :&#x20;
+
+* [Un·e Developpeurr·se](https://docs.numerique.gouv.fr/docs/1b9783cd-637c-4d95-9b95-a44ccded925c/)
+* [Un·e PO/PM](https://docs.numerique.gouv.fr/docs/d3c5f784-778d-4d66-948b-c04f67200646/)
