@@ -49,6 +49,11 @@ Attention toutefois à ne pas rédiger une liste à rallonge de critères. On va
 
 Lors de la phase de cadrage, tu peux concevoir ton processus de sélection à partir du modèle proposé par la DINUM. L'enjeu principal est de parvenir à vérifier tes critères prioritaires ou obligatoires le plus tôt possible. Tu peux aussi avancer de manière granulaire en affinant ton analyse des critères au fil des étapes du processus de sélection.
 
+Voici un exemple de cadrage pour :&#x20;
+
+* [Un·e Developpeurr·se](https://docs.numerique.gouv.fr/docs/1b9783cd-637c-4d95-9b95-a44ccded925c/)
+* [Un·e PO/PM](https://docs.numerique.gouv.fr/docs/d3c5f784-778d-4d66-948b-c04f67200646/)
+
 ### Phase 2 : Rédiger la fiche annonce et la publier sur Welcome to the jungle
 
 La publication de l'annonce doit respecter certaines règles de conformités légales : tu peux lire l'article dédié à ce sujet juste ici 👇
