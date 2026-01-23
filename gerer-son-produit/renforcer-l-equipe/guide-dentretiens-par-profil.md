@@ -53,6 +53,10 @@ Le RDV est simple et rapide (moins de 30 minutes).
 
 Si trop de points clés sont manquants (tel que définis dans la prise de brief) il n'est pas nécessaire d'aller plus loin. Tout le monde gagnera du temps !
 
+**Critères évalués à cette étape**
+
+Lister les critères devant être évalués à cette étape en vous basant sur votre [Fiche de cadrage](https://docs.numerique.gouv.fr/docs/1465f149-e5c2-4c73-ac9c-37c5c76b6992/)
+
 **La trame**
 
 Après avoir introduit en 2 minutes le contexte de l'échange et qui on est. On donne la parole au candidat en suivant cet exemple de chapitrage :
@@ -87,6 +91,10 @@ Cet entretien peut-être réunifié avec la préqualification si une seule et m�
 L'objectif est de checker l'ensemble des compétences nécessaires pour mener à bien la mission.\
 Il faut donc préparer cet entretien avec 1 à 2 questions par critère (cf prise de brief).
 
+**Critères évalués à cette étape**
+
+Lister les critères devant être évalués à cette étape en vous basant sur votre [Fiche de cadrage](https://docs.numerique.gouv.fr/docs/1465f149-e5c2-4c73-ac9c-37c5c76b6992/)
+
 **La trame**
 
 On commence par introduire en 2 minutes le contexte de l'échange et qui on est. C'est une introduction de type _"Icebreaker"_ pour aider le candidat à se mettre à l'aise. L'idée est tout de même de faire très court afin de ne pas perdre de temps. On donne la parole au candidat en suivant cet exemple de chapitrage :
@@ -116,6 +124,10 @@ Les entretiens de mises en situation sont organisés en _live_ avec un expert m�
 Son objectif est de projeter les compétences préalablement validées dans le contexte de la mission. C'est aussi un excellent moyen de vérifier si il y a alignement entre les manières de collaborer.
 
 La mise en situation est à concevoir dès la phase de prise de brief.
+
+**Critères évalués à cette étape**
+
+Lister les critères devant être évalués à cette étape en vous basant sur votre [Fiche de cadrage](https://docs.numerique.gouv.fr/docs/1465f149-e5c2-4c73-ac9c-37c5c76b6992/)
 
 **La trame**
 
@@ -154,6 +166,10 @@ Il n’est pas attendu de positionnement de type OUI / NON par les membres de l'
 
 Il faut compter 45-60 minutes d'échange.
 
+**Critères évalués à cette étape**
+
+Lister les critères devant être évalués à cette étape en vous basant sur votre [Fiche de cadrage](https://docs.numerique.gouv.fr/docs/1465f149-e5c2-4c73-ac9c-37c5c76b6992/)
+
 **La trame**
 
 On commence par introduire en 2 minutes le contexte de l'échange et qui on est. C'est une introduction de type _"Icebreaker"_ pour aider le candidat à se mettre à l'aise. L'idée est tout de même de faire très court afin de ne pas perdre de temps. On donne la parole au candidat en suivant cet exemple de chapitrage :
@@ -186,6 +202,10 @@ La prise de références a vocation à récolter les dernières preuves de comp�
 Elle permet également de lever ou confirmer par un avis tiers/neutre les éventuels doutes qui sont nés lors du processus de sélection. Et c'est bien normal car le mouton à 5 pattes n'existe pas !
 
 Le RDV est simple et rapide (moins de 15 minutes).
+
+**Critères évalués à cette étape**
+
+Lister les critères devant être évalués à cette étape en vous basant sur votre [Fiche de cadrage](https://docs.numerique.gouv.fr/docs/1465f149-e5c2-4c73-ac9c-37c5c76b6992/)
 
 **La trame**
 
@@ -240,12 +260,183 @@ On clôture l'échange par des remerciements.
 
 <summary>Développeur / développeuse</summary>
 
-1h30, sur le canevas suivant :
+Voici un [modèle](https://docs.numerique.gouv.fr/docs/b9a6c177-5eff-44eb-9526-55205ae0c41b/) que tu peux dupliquer tel quel pour ta prochaine sélection d'un·e Dev.
 
-* 10 min : contexte
-* 20 min : présentation : "pourquoi penses-tu pouvoir réaliser cette mission ?"
-* 45 min : entretien technique : "tu peux nous montrer du code que tu as développé, en production, et expliquer ce qui te plaît et ce qui te déplaît dedans ?" (**prévoir de venir avec sa machine,** ou du code hébergé auquel on pourrait accéder : une histoire à raconter sur pourquoi ce morceau de code ou son architecture te rend particulièrement fièr(e), ou pourquoi celui-ci est vraiment très mauvais, pourquoi tu as décidé d'en arriver là, et comment tu aurais fait si les contraintes avaient été différentes)
-* 15 min : questions pratiques : disponibilité, conditions
+Il s'agit d'une somme de propositions de trames pour tes entretiens. Peu importe les mots que l'on choisit, chacun s'exprime avec son propre style, nous te proposons dans ce document tout de même si tu le souhaites un ensemble de points à checker et quelques exemples de questions.
+
+Le plus important est collecter des **preuves concrètes de compétences** permettant de vérifier les critères définis lors du cadrage.
+
+### 1. La préqualifation
+
+C'est le premier entretien ! Il peut être conduit par une personne tierce afin de te faire gagner du temps en tant qu'intra.\
+L'objectif est simple : s'assurer que tous les points essentiels pour la mission sont couverts avant d'envisager d'aller plus loin.\
+Le RDV est simple et rapide (moins de 30 minutes).
+
+Si trop de points clés sont manquants (tel que définis dans la prise de brief) il n'est pas nécessaire d'aller plus loin. Tout le monde gagnera du temps !
+
+#### Critères évalués à cette étape
+
+_- La personne maîtrise les principes de sécurité applicative dans des systèmes manipulant des données sensibles_\
+\- _La personne est capable de concevoir des interfaces et des parcours utilisateurs réduisant la charge cognitive dans des environnements métiers complexes_\
+\- _La personne est capable de contribuer à la robustesse, à la fiabilité et à la montée en charge d’un service numérique_\
+\- _La personne fait preuve d’un intérêt réel pour l’impact public et les contraintes du service public numérique_
+
+#### La trame
+
+Après avoir introduit en 2 minutes le contexte de l'échange et qui on est. On donne la parole au candidat en suivant cet exemple de chapitrage :
+
+| **Questions**                                                                                                                                                                                                                                                                  | **Exemples**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p>Courte présentation du candidat (parcours et expérience professionnelle)<br><br>💡Conseil : demander de se concentrer sur ce qui est en lien avec la mission</p>                                                                                                            | - Peux-tu te présenter en quelques minutes en te concentrant uniquement sur les expériences les plus proches de cette mission (produit en production, contexte sensible, passage à l’échelle) ?                                                                                                                                                                                                                                                                                                                                                                      |
+| <p>Questions d'investigation sur les compétences clés<br><br>💡Conseil : préparer 1 question par compétences clés (cf prise de brief - 3/4 maximum) afin de collecter des preuves de compétences</p>                                                                           | <p>- Raconte-moi une situation où tu as travaillé sur un service manipulant des données sensibles. Quels risques avais-tu identifiés et quelles mesures concrètes as-tu mises en place ?<br>- As-tu déjà contribué à un service qui passait d’un usage limité à un déploiement plus large ? Qu’est-ce qui a changé techniquement et comment as-tu adapté ta façon de travailler ?<br>- Donne-moi un exemple où tu as dû simplifier un parcours utilisateur dans un environnement métier contraint. Comment as-tu arbitré entre contraintes métier et ergonomie ?</p> |
+| <p>Quelle connaissance de l'univers <a href="https://beta.gouv.fr">beta.gouv.fr</a> et questionnement sur le pourquoi de sa candidature<br><br>💡Conseil : comprendre son pourquoi aidera à savoir si c'est la bonne personne pour la mission</p>                              | - Qu’est-ce qui t’attire spécifiquement dans une mission de service public numérique ? Quelles contraintes te semblent acceptables ou non dans ce type de contexte ?                                                                                                                                                                                                                                                                                                                                                                                                 |
+| <p>Check des éléments logistiques : disponibilité, adéquation avec la politique de télétravail, accord pour la prise de référence, autres démarches en cours, cout de la prestation souhaitée.<br><br>💡Conseil : le but est de révéler tout ce qui pourrait être bloquant</p> | <p>- Côté disponibilité, à partir de quand pourrais-tu commencer ? Et sur quel rythme (jours par semaine) ?<br>- Quelles sont tes attentes en terme de rythme de télétravail ?<br>- As-tu d'autres démarches en-cours ?<br>- Quel est ton TJM pour ce type de prestation ?</p>                                                                                                                                                                                                                                                                                       |
+| <p>Récolter les questions du candidat<br><br>💡Conseil : le but est de révéler ses enjeux décisionnels et ce qui compte le plus</p>                                                                                                                                            | Est-ce qu’il y a des points que tu aimerais éclaircir avant d’aller plus loin ?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+
+On clôture l'échange par des remerciements et en explicitant la suite du processus (1- si on continue ou 2- si on s'arrête).
+
+⚠️ Pas de debrief à chaud !
+
+`📝`Tous les compte-rendus d’entretiens sont à renseigner sur WTTJ (sur la page de chaque candidat).
+
+### 2. L'entretien intra/métier
+
+L'entretien intra est clé puisqu'il a vocation à trouver des preuves de réponses aux critères de compétences métiers ainsi que revérifier la compréhension du produit par le candidat.
+
+Il faut compter 45-60 minutes d'échange.
+
+💡
+
+Cet entretien peut-être réunifié avec la préqualification si une seule et même personne conduit les 2 échanges (comme l'intra par exemple).
+
+L'objectif est de checker l'ensemble des compétences nécessaires pour mener à bien la mission.\
+Il faut donc préparer cet entretien avec 1 à 2 questions par critère (cf prise de brief).
+
+#### Critères évalués à cette étape
+
+_- La personne est capable de concevoir, développer et maintenir un service numérique fullstack en production_\
+\- _La personne maîtrise les pratiques de qualité logicielle et de maintenabilité du code dans un contexte produit évolutif_\
+\- _La personne est capable de travailler dans un environnement produit en construction, avec des hypothèses et des priorités évolutives_\
+\- _La personne fait preuve d’autonomie dans l’organisation de son travail et la gestion de ses priorités dans un contexte distribué_
+
+#### La trame
+
+On commence par introduire en 2 minutes le contexte de l'échange et qui on est. C'est une introduction de type _"Icebreaker"_ pour aider le candidat à se mettre à l'aise. L'idée est tout de même de faire très court afin de ne pas perdre de temps. On donne la parole au candidat en suivant cet exemple de chapitrage :
+
+| **Questions**                                                                                                                                                                                                                                                                                                                                                                         | **Exemples**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <p>Questions d'investigation sur les compétences clés. On cherche des preuves de réalisations concrètes qui induisent la preuve compétence.<br><br>💡Conseil : préparer 1 question pour toutes les compétences nécessaires pour mener à bien la mission (cf prise de brief - 3/4 maximum) afin de collecter des preuves de compétences.<br>Ici on creuse les compétences métiers.</p> | <p>- Raconte-moi une fonctionnalité que tu as prise en charge de bout en bout sur un produit en production. Quelles décisions d’architecture as-tu prises et pourquoi ?<br>- Comment t’assures-tu qu’un produit reste maintenable dans le temps ? Peux-tu me donner un exemple concret de refactorisation ou d’amélioration de qualité que tu as menée ?<br>- Décris une situation où les priorités produit ont fortement évolué en cours de route. Comment as-tu ajusté ton travail sans perdre en qualité ou en impact ?</p> |
+| <p>Questions sur le style de collaboration d'équipe et hiérarchique. On cherche des preuves de contextes passés proches du contexte projeté.<br><br>💡Conseil : préparer des questions situationnelles pour comprendre comment la personne travaille et dans quel type de contexte elle est en succès.<br>Ici on creuse les compétences de posture et relationnelles.</p>             | <p>- Comment estimes-tu ton travail et comment rends-tu compte de ton avancement dans un contexte distribué ? Donne-moi un exemple précis.<br>- Peux-tu me décrire une équipe dans laquelle tu as particulièrement bien fonctionné ? Qu’est-ce qui faisait que ça fonctionnait ?<br>- Et à l’inverse, une équipe ou un projet où c’était plus compliqué pour toi ? Tu l’as vécu comment ?</p>                                                                                                                                  |
+| <p>Checker la compréhension du candidat sur le service numérique produit<br><br>💡Conseil : le but est de vérifier qu'après la préqualification, le candidat a vraiment compris les enjeux de ta start-up.</p>                                                                                                                                                                        | <p>- Qu’est-ce que tu as compris de notre produit et de sa mission ?<br>- Selon toi, quels sont les enjeux principaux enjeux techniques à court terme ?</p>                                                                                                                                                                                                                                                                                                                                                                    |
+| <p>Demander les enjeux décisionnels du candidat. Qu'est ce que le ferait choisir notre mission ?<br><br>💡Conseil : le but est de continuer à investiguer sur ses enjeux décisionnels et ce qui fera la différence.</p>                                                                                                                                                               | - Qu’est-ce qui comptera le plus pour toi au moment de choisir ta prochaine mission ?                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+
+On clôture l'échange par des remerciements et en explicitant la suite du processus (1- si on continue ou 2- si on s'arrête).
+
+⚠️ Pas de debrief à chaud !
+
+`📝`Tous les contre-rendus d’entretiens sont à renseigner sur WTTJ (sur la page de chaque candidat).
+
+### 3. La mise en situation
+
+Les entretiens de mises en situation sont organisés en _live_ avec un expert métier sur 1 heure afin d’éviter tous les écueils liés aux préparation 100% générées par IA. C'est aussi un moyen de garantir l'équité de préparation entre les candidats.
+
+Son objectif est de projeter les compétences préalablement validées dans le contexte de la mission. C'est aussi un excellent moyen de vérifier si il y a alignement entre les manières de collaborer.
+
+💡
+
+La mise en situation est à concevoir dès la phase de prise de brief.
+
+#### Critères évalués à cette étape
+
+_- La personne est capable de concevoir, développer et maintenir un service numérique fullstack en production_\
+\- _La personne maîtrise les pratiques de qualité logicielle et de maintenabilité du code dans un contexte produit évolutif_\
+\- _La personne maîtrise ou est capable de s’approprier rapidement les standards_ [_beta.gouv.fr_](http://beta.gouv.fr) _(qualité, sécurité, accessibilité)_
+
+#### La trame
+
+On commence par introduire en 2 minutes le contexte de l'échange et qui on est. C'est une introduction de type _"Icebreaker"_ pour aider le candidat à se mettre à l'aise. L'idée est tout de même de faire très court afin de ne pas perdre de temps. On donne la parole au candidat en suivant cet exemple de chapitrage :
+
+| **Questions**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | **Exemples**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p>Exemple de cas pratique : <em>[Comment mener une action X dans le contexte Y]</em><br>[5-10 min] On livre la consigne, rappelle les infos clés sur le produit et l'équipe<br>[5-10 min] On reformule et répond aux questions du candidat<br>[10-20 min] Préparation autonome de la réponse par le candidat<br>[10-20 min ] Présentation du candidat et demandes de clarification autour de la réponse formulée<br><br>💡Conseil : Laisse au maximum parler le candidat. Tu en sauras ainsi plus sur sa méthodologie et mécanique de pensée.</p> | <p><strong>Contexte</strong><br>Tu arrives sur MISTRAL Pénal. Le service doit intégrer une nouvelle fonctionnalité critique utilisée en audience, avec un risque fort sur la fiabilité des données.<br><br><strong>Consigne</strong><br>- Comment abordes-tu la conception et l’implémentation de cette fonctionnalité ?<br>- Quels points de vigilance identifies-tu (sécurité, performance, accessibilité, dette technique) ?<br><br><strong>Questions d’exploration pendant la restitution</strong><br>- Comment garantirais-tu la fiabilité des données en production ?<br>- Quels tests mettrais-tu en place et à quel niveau ?<br>- Comment t’assures-tu du respect des standards <a href="http://beta.gouv.fr">beta.gouv.fr</a> dès la conception ?</p> |
+| <p>Exemple de cas pratique : <em>[Quelle résolution du problème X dans le contexte Y]</em><br>[5-10 min] On livre la consigne, rappelle les infos clés sur le produit et l'équipe<br>[5-10 min] On reformule et répond aux questions du candidat<br>[10-20 min] Préparation autonome de la réponse par le candidat<br>[10-20 min ] Présentation du candidat et demandes de clarification autour de la réponse formulée<br><br>💡Conseil : La complexité du problème est à adapter selon la séniorité attendue sur la mission.</p>                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+
+On clôture l'échange par des remerciements et en explicitant la suite du processus (1- si on continue ou 2- si on s'arrête).
+
+⚠️ Pas de debrief à chaud !
+
+`📝`Tous les compte-rendus d’entretiens sont à renseigner sur WTTJ (sur la page de chaque candidat).
+
+### 4. L'entretien sur le cadre de collaboration
+
+Une fois la pré-sélection de 1 à 3 profils maximum, l'intra organise une rencontre avec les membres de son équipe, idéalement au bureau, pour qu’ils échangent sur :
+
+* Les valeurs de la communauté ;
+* Le quotidien dans l'équipe ;
+* Le management et cadre de collaboration ;
+* N’importe sujet que le candidat souhaite aborder.
+
+Comme pour tout entretien, on en revient à la notion de critères. Il convient de se concentrer sur ceux définis lors du cadrage. Cet entretien doit permettre d'investiguer en profondeur les critères liés au cadre de collaboration.
+
+Dans cet échange on recherche des signaux d'alertes culturels potentiels qui n'auraient pas été détecté plus tôt.
+
+Il n’est pas attendu de positionnement de type OUI / NON par les membres de l'équipe. Simplement un avis consultatif.
+
+Il faut compter 45-60 minutes d'échange.
+
+#### Critères évalués à cette étape
+
+_- La personne fait preuve d’une capacité à collaborer étroitement avec des profils non techniques et des utilisateurs métier_\
+\- _La personne fait preuve d’un intérêt réel pour l’impact public et les contraintes du service public numérique_
+
+#### La trame
+
+On commence par introduire en 2 minutes le contexte de l'échange et qui on est. C'est une introduction de type _"Icebreaker"_ pour aider le candidat à se mettre à l'aise. L'idée est tout de même de faire très court afin de ne pas perdre de temps. On donne la parole au candidat en suivant cet exemple de chapitrage :
+
+| **Questions**                                                                                                                                                                                                                                                                                          | **Exemples**                                                                                                                                                                                                                                                                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <p>Courte présentation du candidat (parcours et expérience professionnelle)<br><br>💡Conseil : demander de se concentrer sur le pourquoi de ces évolutions</p>                                                                                                                                         | - Est-ce que tu peux revenir sur les grandes étapes de ton parcours… et surtout sur pourquoi tu as fait ces choix-là à chaque fois ?                                                                                                                                                                                                                         |
+| <p>Checker la compréhension du candidat sur la mission potentielle et sur l'équipe du service numérique<br><br>💡Conseil : le but est d'identifier ce que le candidat met en avant parmi tout ce qui lui a été présenté. C'est idéal pour checker l'alignement quant à la perception des priorités</p> | <p>- Après ce qu’on t’a partagé, qu’est-ce que tu retiens de la mission et de ses enjeux ?<br>- Quelles différences vois-tu entre travailler pour un produit privé et un service public numérique ? Comment cela influence-t-il tes choix techniques ?</p>                                                                                                   |
+| <p>Checker les aspects clés du cadre de collaboration<br><br>💡Conseil : le but est d'identifier si le cadre proposé dans la mission correspond aux qualités du candidat.</p>                                                                                                                          | <p>- Raconte-moi une situation où tu as travaillé étroitement avec des utilisateurs ou profils non techniques. Comment as-tu adapté ta communication ?<br>- Comment te situes-tu dans un mode de décision horizontal et une forte culture du feedback ?<br>- Quelles seraient pour toi des limites ou signaux d’alerte de notre cadre de collaboration ?</p> |
+| <p>Demander les enjeux décisionnels du candidat. Qu'est ce que le ferait choisir notre mission ?<br><br>💡Conseil : le but est de continuer à investiguer sur ses enjeux décisionnels et ce qui fera la différence.</p>                                                                                | <p>- Quand tu choisis une mission, qu’est-ce qui compte le plus pour toi ?<br>- Et à l’inverse, quels seraient tes signaux d’alerte, ou les choses qui pourraient te faire hésiter ?</p>                                                                                                                                                                     |
+| <p>Récolter les questions du candidat<br><br>💡Conseil : le but est de traiter ses éventuels freins.</p>                                                                                                                                                                                               | - Est-ce qu’il y a des points que tu aimerais éclaircir sur la mission, l’équipe ou le fonctionnement ?                                                                                                                                                                                                                                                      |
+
+On clôture l'échange par des remerciements et en explicitant la suite du processus (1- si on continue ou 2- si on s'arrête).
+
+⚠️ Pas de debrief à chaud !
+
+`📝`Tous les compte-rendus d’entretiens sont à renseigner sur WTTJ (sur la page de chaque candidat).
+
+### 5. La prise de références
+
+La prise de références a vocation à récolter les dernières preuves de compétences que tu n'es pas parvenu à identifier. Il peut s'agir de compétences métier ou de savoir-être.
+
+‼️ Nous te recommandons vivement de systématiser la prise de référence pour tes derniers candidats.
+
+Elle permet également de lever ou confirmer par un avis tiers/neutre les éventuels doutes qui sont nés lors du processus de sélection. Et c'est bien normal car le mouton à 5 pattes n'existe pas !
+
+Le RDV est simple et rapide (moins de 15 minutes).
+
+#### Critères évalués à cette étape
+
+* Qualité du travail en production
+* Fiabilité, autonomie, collaboration
+
+#### La trame
+
+Après avoir introduit en 1 minute le contexte de l'échange et qui on est. On donne la parole au référent choisi par le candidat en suivant cet exemple de chapitrage :
+
+| **Questions**                                                                                                                                                                                                                   | **Exemples**                                                                                                                                   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p>Demander un courte présentation du poste et des missions tenues par le candidat au sein de l'organisation<br><br>💡Conseil : on peut demander pourquoi il a quitté cette organisation.</p>                                   | - Est-ce que vous pouvez me résumer en quelques mots le poste qu’occupait \[Prénom Nom] chez vous, et ses principales missions ?               |
+| <p>Demander une évaluation des compétences du candidat lors de son passage<br><br>💡Conseil : concentre toi sur les compétences qui t'ont fait douter pendant le processus de sélection.</p>                                    | <p>- Comment gérait-elle la qualité du code et la dette technique ?<br>- Dans quel contexte était-elle la plus performante ? Et le moins ?</p> |
+| <p>Demander la recommandation (ou non) du référent dans le contexte projeté<br><br>💡Conseil : on cherche une forme d'engagement moral de la part du référent et éventuellement les écueils qu'il.elle pourrait identifier.</p> | - Est-ce que vous le/la recommanderiez pour une mission de \[X mois] dans un service public numérique ?                                        |
+
+On clôture l'échange par des remerciements.
+
+⚠️ Pas de debrief à chaud !
+
+`📝`Tous les compte-rendus d’entretiens sont à renseigner sur WTTJ (sur la page de chaque candidat).
 
 </details>
 
@@ -253,40 +444,171 @@ On clôture l'échange par des remerciements.
 
 <summary>Gestionnaire de produit / Product Manager</summary>
 
-**Environnement courant**
+Voici un [modèle](https://docs.numerique.gouv.fr/docs/b9a6c177-5eff-44eb-9526-55205ae0c41b/) que tu peux dupliquer tel quel pour ta prochaine sélection d'un PO/PM
 
-Parlons de ta dernière mission
+Il s'agit d'une somme de propositions de trames pour tes entretiens. Peu importe les mots que l'on choisit, chacun s'exprime avec son propre style, nous te proposons dans ce document tout de même si tu le souhaites un ensemble de points à checker et quelques exemples de questions.
 
-* Quel est ton rôle au sein de l'équipe ? Avec qui travailles-tu ? Comment ?
-* Comment décides-tu quoi construire ?
-* Comment interagis-tu avec tes usagers ?
-* Comment décris-tu une _user story_ ?
-* Parles-nous de 2 fois où tu as du faire des arbitrages difficiles.
-* Parles-nous d'une fois où tu avais une vision différente de celle de ton équipe.
+Le plus important est collecter des **preuves concrètes de compétences** permettant de vérifier les critères définis lors du cadrage.
 
-**Analyse de produit**
+### 1. La préqualifation
 
-Parlons d'un produit que tu utilises régulièrement. Pourquoi l'utilises-tu ?
+C'est le premier entretien ! Il peut être conduit par une personne tierce afin de te faire gagner du temps en tant qu'intra.\
+L'objectif est simple : s'assurer que tous les points essentiels pour la mission sont couverts avant d'envisager d'aller plus loin.\
+Le RDV est simple et rapide (moins de 30 minutes).
 
-* Qu'est-ce que tu n'aimes pas dessus ? Pourquoi ?
-* Comment ferais-tu mieux ?
-* Quelles fonctionnalités supprimerais-tu ?
-* Quelles seraient les 3 prochaines fonctionnalités que tu y mettrais ?
-* Qui est l'utilisateur cible ? Pourquoi ?
-* Qui est le client ? Pourquoi ?
-* Comment augmenterais-tu le nombre d'utilisateurs ?
+Si trop de points clés sont manquants (tel que définis dans la prise de brief) il n'est pas nécessaire d'aller plus loin. Tout le monde gagnera du temps !
 
-**Création d'un nouveau produit**
+#### Critères évalués à cette étape
 
-Parlons d'un domaine qui te passionne. Quel produit voudrais-tu construire ?
+* La personne est capable de définir et porter une vision produit claire, alignée avec les enjeux utilisateurs, métiers et institutionnels
+* La personne est capable de traduire des objectifs stratégiques en une roadmap produit claire et priorisée, dans un contexte de ressources contraintesLa trame
 
-* Tu es PO sur ce produit, responsable de le livrer au plus vite. Par quoi commences-tu ?
-* Quelles métriques utilises-tu pour suivre l'avancement ? Pourquoi ?
-* Comment as-tu choisi ce que tu n'as **pas** construit ?
-* Quand et comment impliques-tu l'équipe de développement ?
-* Comment gères-tu la qualité ?
-* Quel modèle d'affaires mets-tu en place ?
-* Comment génères-tu du trafic ?
+Après avoir introduit en 2 minutes le contexte de l'échange et qui on est. On donne la parole au candidat en suivant cet exemple de chapitrage :
+
+| **Questions**                                                                                                                                                                                                                                                                  | **Exemples**                                                                                                                                                                                                                                                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p>Courte présentation du candidat (parcours et expérience professionnelle)<br><br>💡Conseil : demander de se concentrer sur ce qui est en lien avec la mission</p>                                                                                                            | - Peux-tu te présenter en quelques minutes en te concentrant uniquement sur les expériences les plus proches de cette mission ?                                                                                                                                                                                                                           |
+| <p>Questions d'investigation sur les compétences clés<br><br>💡Conseil : préparer 1 question par compétences clés (cf prise de brief - 3/4 maximum) afin de collecter des preuves de compétences</p>                                                                           | <p>- Peux-tu me raconter une situation où tu as dû définir ou reprendre une vision produit dans un contexte contraint (institutionnel, technique ou politique) ?<br>- Comment fais-tu pour t’assurer que cette vision est comprise et partagée ?<br>- Comment passes-tu d’objectifs parfois flous ou politiques à une roadmap concrète et priorisée ?</p> |
+| <p>Quelle connaissance de l'univers <a href="https://beta.gouv.fr">beta.gouv.fr</a> et questionnement sur le pourquoi de sa candidature<br><br>💡Conseil : comprendre son pourquoi aidera à savoir si c'est la bonne personne pour la mission</p>                              | - Qu’est-ce qui t’attire spécifiquement dans une mission de service public numérique ? Quelles contraintes te semblent acceptables ou non dans ce type de contexte ?                                                                                                                                                                                      |
+| <p>Check des éléments logistiques : disponibilité, adéquation avec la politique de télétravail, accord pour la prise de référence, autres démarches en cours, cout de la prestation souhaitée.<br><br>💡Conseil : le but est de révéler tout ce qui pourrait être bloquant</p> | <p>- Côté disponibilité, à partir de quand pourrais-tu commencer ? Et sur quel rythme (jours par semaine) ?<br>- Quelles sont tes attentes en terme de rythme de télétravail ?<br>- As-tu d'autres démarches en-cours ?<br>- Quel est ton TJM pour ce type de prestation ?</p>                                                                            |
+| <p>Récolter les questions du candidat<br><br>💡Conseil : le but est de révéler ses enjeux décisionnels et ce qui compte le plus</p>                                                                                                                                            | Est-ce qu’il y a des points que tu aimerais éclaircir avant d’aller plus loin ?                                                                                                                                                                                                                                                                           |
+
+On clôture l'échange par des remerciements et en explicitant la suite du processus (1- si on continue ou 2- si on s'arrête).
+
+⚠️ Pas de debrief à chaud !
+
+`📝`Tous les compte-rendus d’entretiens sont à renseigner sur WTTJ (sur la page de chaque candidat).
+
+### 2. L'entretien intra/métier
+
+L'entretien intra est clé puisqu'il a vocation à trouver des preuves de réponses aux critères de compétences métiers ainsi que revérifier la compréhension du produit par le candidat.
+
+Il faut compter 45-60 minutes d'échange.
+
+💡
+
+Cet entretien peut-être réunifié avec la préqualification si une seule et même personne conduit les 2 échanges (comme l'intra par exemple).
+
+L'objectif est de checker l'ensemble des compétences nécessaires pour mener à bien la mission.\
+Il faut donc préparer cet entretien avec 1 à 2 questions par critère (cf prise de brief).
+
+#### Critères évalués à cette étape
+
+* La personne est capable d’identifier et prioriser des problèmes utilisateurs à fort impact à partir du terrain, des données et des retours qualitatifs
+* La personne est capable de rédiger des user stories claires et actionnables et de prioriser un backlog en cohérence avec la roadmap
+* La personne est capable d’animer les rituels d’équipe et de structurer un cadre de travail agile adapté au contexteLa trame
+
+On commence par introduire en 2 minutes le contexte de l'échange et qui on est. C'est une introduction de type _"Icebreaker"_ pour aider le candidat à se mettre à l'aise. L'idée est tout de même de faire très court afin de ne pas perdre de temps. On donne la parole au candidat en suivant cet exemple de chapitrage :
+
+| **Questions**                                                                                                                                                                                                                                                                                                                                                                         | **Exemples**                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p>Questions d'investigation sur les compétences clés. On cherche des preuves de réalisations concrètes qui induisent la preuve compétence.<br><br>💡Conseil : préparer 1 question pour toutes les compétences nécessaires pour mener à bien la mission (cf prise de brief - 3/4 maximum) afin de collecter des preuves de compétences.<br>Ici on creuse les compétences métiers.</p> | <p>- Peux-tu me décrire un problème utilisateur que tu as considéré comme prioritaire, et expliquer pourquoi ? Comment as-tu validé qu’il s’agissait bien d’un problème à fort impact ?<br>- Comment t’assures-tu que tes user stories sont compréhensibles et actionnables pour l’équipe ?<br>- Quels rituels sont indispensables selon toi, et lesquels adaptes-tu selon le contexte ?<br>- Comment réagis-tu quand les rituels deviennent contre-productifs ?</p> |
+| <p>Questions sur le style de collaboration d'équipe et hiérarchique. On cherche des preuves de contextes passés proches du contexte projeté.<br><br>💡Conseil : préparer des questions situationnelles pour comprendre comment la personne travaille et dans quel type de contexte elle est en succès.<br>Ici on creuse les compétences de posture et relationnelles.</p>             | <p>- Peux-tu me décrire une équipe dans laquelle tu as particulièrement bien fonctionné ? Qu’est-ce qui faisait que ça fonctionnait ?<br>- Et à l’inverse, une équipe ou un projet où c’était plus compliqué pour toi ? Tu l’as vécu comment ?</p>                                                                                                                                                                                                                   |
+| <p>Checker la compréhension du candidat sur le service numérique produit<br><br>💡Conseil : le but est de vérifier qu'après la préqualification, le candidat a vraiment compris les enjeux de ta start-up.</p>                                                                                                                                                                        | <p>- Qu’est-ce que tu as compris de notre produit et de sa mission ?<br>- Selon toi, quels sont les enjeux principaux enjeux produits à court terme ?</p>                                                                                                                                                                                                                                                                                                            |
+| <p>Demander les enjeux décisionnels du candidat. Qu'est ce que le ferait choisir notre mission ?<br><br>💡Conseil : le but est de continuer à investiguer sur ses enjeux décisionnels et ce qui fera la différence.</p>                                                                                                                                                               | - Qu’est-ce qui comptera le plus pour toi au moment de choisir ta prochaine mission ?                                                                                                                                                                                                                                                                                                                                                                                |
+
+On clôture l'échange par des remerciements et en explicitant la suite du processus (1- si on continue ou 2- si on s'arrête).
+
+⚠️ Pas de debrief à chaud !
+
+`📝`Tous les contre-rendus d’entretiens sont à renseigner sur WTTJ (sur la page de chaque candidat).
+
+### 3. La mise en situation
+
+Les entretiens de mises en situation sont organisés en _live_ avec un expert métier sur 1 heure afin d’éviter tous les écueils liés aux préparation 100% générées par IA. C'est aussi un moyen de garantir l'équité de préparation entre les candidats.
+
+Son objectif est de projeter les compétences préalablement validées dans le contexte de la mission. C'est aussi un excellent moyen de vérifier si il y a alignement entre les manières de collaborer.
+
+💡
+
+La mise en situation est à concevoir dès la phase de prise de brief.
+
+#### Critères évalués à cette étape
+
+* La personne est capable de définir, suivre et analyser des indicateurs de succès produit (OKR, métriques d’usage, impact)
+* La personne maîtrise l’utilisation d’outils d’analytics produit pour mesurer l’usage et éclairer les décisionsLa trame
+
+On commence par introduire en 2 minutes le contexte de l'échange et qui on est. C'est une introduction de type _"Icebreaker"_ pour aider le candidat à se mettre à l'aise. L'idée est tout de même de faire très court afin de ne pas perdre de temps. On donne la parole au candidat en suivant cet exemple de chapitrage :
+
+| **Questions**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | **Exemples**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p>Exemple de cas pratique : <em>[Comment mener une action X dans le contexte Y]</em><br>[5-10 min] On livre la consigne, rappelle les infos clés sur le produit et l'équipe<br>[5-10 min] On reformule et répond aux questions du candidat<br>[10-20 min] Préparation autonome de la réponse par le candidat<br>[10-20 min ] Présentation du candidat et demandes de clarification autour de la réponse formulée<br><br>💡Conseil : Laisse au maximum parler le candidat. Tu en sauras ainsi plus sur sa méthodologie et mécanique de pensée.</p> | <p><strong>Contexte</strong><br>Une nouvelle fonctionnalité de ROMIN vient d’être déployée. L’adoption est plus faible que prévu. Qu’analyses-tu ? Quels indicateurs suis-tu ? Quelles décisions prends-tu ?<br><br><strong>Consigne</strong><br>- Proposer les indicateurs de succès que tu suivrais pour cette fonctionnalité<br>- Expliquer comment tu utiliserais les données d’usage pour comprendre la situation<br>- Décrire les décisions produit possibles à partir de ces analyses<br><br><strong>Questions d’exploration pendant la restitution</strong><br>- Comment as-tu défini ces indicateurs comme étant des indicateurs de succès ? Y a-t-il des indicateurs que tu as volontairement écartés ? Pourquoi ?<br>- Comment distingues-tu un problème de compréhension, d’utilité ou de contexte d’usage ? Quelles données qualitatives viendraient compléter l’analyse ?<br>- Concrètement, que regardes-tu dans Matomo / PostHog en premier ?<br>- Qu’est-ce que tu ferais immédiatement ? Qu’est-ce que tu différerais ?<br>- Comment embarquerais-tu l’équipe et les parties prenantes dans ces décisions ?</p> |
+| <p>Exemple de cas pratique : <em>[Quelle résolution du problème X dans le contexte Y]</em><br>[5-10 min] On livre la consigne, rappelle les infos clés sur le produit et l'équipe<br>[5-10 min] On reformule et répond aux questions du candidat<br>[10-20 min] Préparation autonome de la réponse par le candidat<br>[10-20 min ] Présentation du candidat et demandes de clarification autour de la réponse formulée<br><br>💡Conseil : La complexité du problème est à adapter selon la séniorité attendue sur la mission.</p>                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+
+On clôture l'échange par des remerciements et en explicitant la suite du processus (1- si on continue ou 2- si on s'arrête).
+
+⚠️ Pas de debrief à chaud !
+
+`📝`Tous les compte-rendus d’entretiens sont à renseigner sur WTTJ (sur la page de chaque candidat).
+
+### 4. L'entretien sur le cadre de collaboration
+
+Une fois la pré-sélection de 1 à 3 profils maximum, l'intra organise une rencontre avec les membres de son équipe, idéalement au bureau, pour qu’ils échangent sur :
+
+* Les valeurs de la communauté ;
+* Le quotidien dans l'équipe ;
+* Le management et cadre de collaboration ;
+* N’importe sujet que le candidat souhaite aborder.
+
+Comme pour tout entretien, on en revient à la notion de critères. Il convient de se concentrer sur ceux définis lors du cadrage. Cet entretien doit permettre d'investiguer en profondeur les critères liés au cadre de collaboration.
+
+Dans cet échange on recherche des signaux d'alertes culturels potentiels qui n'auraient pas été détecté plus tôt.
+
+Il n’est pas attendu de positionnement de type OUI / NON par les membres de l'équipe. Simplement un avis consultatif.
+
+Il faut compter 45-60 minutes d'échange.
+
+#### Critères évalués à cette étape
+
+* La personne est capable de travailler en étroite collaboration avec des équipes techniques et design, de l’expression du besoin à la livraison
+* La personne fait preuve de capacité à s’inscrire dans la culture [beta.gouv.fr](http://beta.gouv.fr) et du service public, avec une posture d’impact et de responsabilitéLa trame
+
+On commence par introduire en 2 minutes le contexte de l'échange et qui on est. C'est une introduction de type _"Icebreaker"_ pour aider le candidat à se mettre à l'aise. L'idée est tout de même de faire très court afin de ne pas perdre de temps. On donne la parole au candidat en suivant cet exemple de chapitrage :
+
+| **Questions**                                                                                                                                                                                                                                                                                          | **Exemples**                                                                                                                                                                                                                                                                                                           |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p>Courte présentation du candidat (parcours et expérience professionnelle)<br><br>💡Conseil : demander de se concentrer sur le pourquoi de ces évolutions</p>                                                                                                                                         | - Est-ce que tu peux revenir sur les grandes étapes de ton parcours… et surtout sur pourquoi tu as fait ces choix-là à chaque fois ?                                                                                                                                                                                   |
+| <p>Checker la compréhension du candidat sur la mission potentielle et sur l'équipe du service numérique<br><br>💡Conseil : le but est d'identifier ce que le candidat met en avant parmi tout ce qui lui a été présenté. C'est idéal pour checker l'alignement quant à la perception des priorités</p> | <p>- Après ce qu’on t’a partagé, qu’est-ce que tu retiens de la mission et de ses enjeux ?<br>- Quelles différences vois-tu entre travailler pour un produit privé et un service public numérique ?<br>- Qu’est-ce que travailler pour le service public change concrètement dans ta manière de faire du produit ?</p> |
+| <p>Checker les aspects clés du cadre de collaboration<br><br>💡Conseil : le but est d'identifier si le cadre proposé dans la mission correspond aux qualités du candidat.</p>                                                                                                                          | <p>- Comment arbitres-tu quand les contraintes techniques remettent en cause une intention produit ?<br>- Comment te situes-tu dans un mode de décision horizontal et une forte culture du feedback ?<br>- Quelles seraient pour toi des limites ou signaux d’alerte de notre cadre de collaboration ?</p>             |
+| <p>Demander les enjeux décisionnels du candidat. Qu'est ce que le ferait choisir notre mission ?<br><br>💡Conseil : le but est de continuer à investiguer sur ses enjeux décisionnels et ce qui fera la différence.</p>                                                                                | <p>- Quand tu choisis une mission, qu’est-ce qui compte le plus pour toi ?<br>- Et à l’inverse, quels seraient tes signaux d’alerte, ou les choses qui pourraient te faire hésiter ?</p>                                                                                                                               |
+| <p>Récolter les questions du candidat<br><br>💡Conseil : le but est de traiter ses éventuels freins.</p>                                                                                                                                                                                               | - Est-ce qu’il y a des points que tu aimerais éclaircir sur la mission, l’équipe ou le fonctionnement ?                                                                                                                                                                                                                |
+
+On clôture l'échange par des remerciements et en explicitant la suite du processus (1- si on continue ou 2- si on s'arrête).
+
+⚠️ Pas de debrief à chaud !
+
+`📝`Tous les compte-rendus d’entretiens sont à renseigner sur WTTJ (sur la page de chaque candidat).
+
+### 5. La prise de références
+
+La prise de références a vocation à récolter les dernières preuves de compétences que tu n'es pas parvenu à identifier. Il peut s'agir de compétences métier ou de savoir-être.
+
+‼️ Nous te recommandons vivement de systématiser la prise de référence pour tes derniers candidats.
+
+Elle permet également de lever ou confirmer par un avis tiers/neutre les éventuels doutes qui sont nés lors du processus de sélection. Et c'est bien normal car le mouton à 5 pattes n'existe pas !
+
+Le RDV est simple et rapide (moins de 15 minutes).
+
+#### Critères évalués à cette étape
+
+* La personne est capable de travailler en étroite collaboration avec des équipes techniques et design, de l’expression du besoin à la livraison
+* La personne est capable de définir et porter une vision produit claire, alignée avec les enjeux utilisateurs, métiers et institutionnels
+
+#### La trame
+
+Après avoir introduit en 1 minute le contexte de l'échange et qui on est. On donne la parole au référent choisi par le candidat en suivant cet exemple de chapitrage :
+
+| **Questions**                                                                                                                                                                                                                   | **Exemples**                                                                                                                                                                                                                                                       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <p>Demander un courte présentation du poste et des missions tenues par le candidat au sein de l'organisation<br><br>💡Conseil : on peut demander pourquoi il a quitté cette organisation.</p>                                   | - Est-ce que vous pouvez me résumer en quelques mots le poste qu’occupait \[Prénom Nom] chez vous, et ses principales missions ?                                                                                                                                   |
+| <p>Demander une évaluation des compétences du candidat lors de son passage<br><br>💡Conseil : concentre toi sur les compétences qui t'ont fait douter pendant le processus de sélection.</p>                                    | <p>- Comment décririez-vous sa manière de travailler avec les développeurs et les designers ?<br>- Est-ce que cette personne portait une vision produit claire ? Comment cette vision était-elle formulée et partagée avec l’équipe et les parties prenantes ?</p> |
+| <p>Demander la recommandation (ou non) du référent dans le contexte projeté<br><br>💡Conseil : on cherche une forme d'engagement moral de la part du référent et éventuellement les écueils qu'il.elle pourrait identifier.</p> | - Est-ce que vous le/la recommanderiez pour une mission de \[X mois] dans un service public numérique ?                                                                                                                                                            |
+
+On clôture l'échange par des remerciements.
+
+⚠️ Pas de debrief à chaud !
+
+`📝`Tous les compte-rendus d’entretiens sont à renseigner sur WTTJ (sur la page de chaque candidat).
 
 </details>
 
