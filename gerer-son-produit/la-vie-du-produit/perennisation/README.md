@@ -23,8 +23,6 @@ La sortie d'incubation est ainsi souhaitée lorsque **le produit a atteint une m
 Attention à ne pas vouloir sortir d'incubation votre Startup d'État trop vite. Une sortie d'incubation trop rapide peut ralentir le déploiement d'une solution numérique, ou risque de déstabiliser l'équipe en charge du produit.
 {% endhint %}
 
-
-
 ## 🎯 Qu'est-ce qu'une pérennisation réussie ? <a href="#quest-ce-quune-perennisation-reussie" id="quest-ce-quune-perennisation-reussie"></a>
 
 Une pérennisation réussie repose sur plusieurs facteurs clés. Avant tout, il est nécessaire de maintenir **un agent public expert métier**, et formé(e) en gestion de produit, au pilotage du service numérique.
@@ -35,7 +33,7 @@ Le service doit maintenir une **relation constante avec ses utilisateurs**, en p
 
 Des **mesures d’impact** doivent également être suivies de façon régulière, afin d’ajuster les stratégies de déploiement et les investissements en fonction des résultats observés.
 
-Enfin, le service doit rester conforme aux [**standards de qualité**](../../les-standards/) de beta.gouv.fr, incluant l’ouverture du code source, l’accessibilité pour tous les usagers, ainsi que le respect des bonnes pratiques en matière de sécurité et de protection des données personnelles.
+Enfin, le service doit rester conforme aux [**standards de qualité**](https://standards.beta.gouv.fr/) de beta.gouv.fr, incluant l’ouverture du code source, l’accessibilité pour tous les usagers, ainsi que le respect des bonnes pratiques en matière de sécurité et de protection des données personnelles.
 
 ## 🛬 Adaptation des administrations aux enjeux de la pérennisation <a href="#adaptation-des-administrations-aux-enjeux-de-la-perennisation" id="adaptation-des-administrations-aux-enjeux-de-la-perennisation"></a>
 
