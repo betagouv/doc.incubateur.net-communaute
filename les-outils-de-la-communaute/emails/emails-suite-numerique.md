@@ -18,11 +18,13 @@ Si vous rencontrez un problème, rendez-vous sur [le salon Tchap “Support mess
 
 Votre boîte mail est consultable sur [webmail.beta.gouv.fr](https://webmail.beta.gouv.fr), ou en utilisant un client mail de votre choix, ce qui permet par exemple de consulter votre mail depuis votre téléphone.
 
-Page officielle du support : [https://webmail.beta.gouv.fr/assistance/](https://webmail.beta.gouv.fr/assistance/)
+Page officielle du support : [docs.numerique.gouv.fr](https://docs.numerique.gouv.fr/docs/fb53bdea-7dce-4a93-9b17-deb81e5779dd/)
 
 ## Etape 1 : Obtenir votre adresse mail sur suite numérique
 
 Demandez la création de votre nouvelle boite email via [l'onglet "Compte email" de votre espace membre](https://espace-membre.incubateur.net/account?tab=compte-email).
+
+Vous recevrez alors un email d'invitation pour accéder à votre nouvelle boite email.
 
 ## Etape 2 : **Utiliser le webmail**
 
@@ -37,6 +39,12 @@ Un client lourd est un logiciel de mail directement installé sur votre machine 
 {% endhint %}
 
 Si vous souhaitez utiliser les clients Apple Mail ou Thunderbird, vous pouvez suivre les instructions de configuration décrites ci-dessous.
+
+{% hint style="warning" %}
+:warning: Lorsque vous connectez un outil externe à votre messagerie, créez toujours un mot de passe unique pour cette appliation via votre webmail.
+
+Pour créer un mot de passe applicatif, aller dans le webmail, puis "Tous les réglages", "Sécurité", "Mots de passe d'application" puis "Ajouter". Pour un client email, choisisez "IMAP". Cf [la documentation](https://docs.numerique.gouv.fr/docs/72d85e99-1925-4d3e-ac83-b50b45197784/)
+{% endhint %}
 
 #### **2.1 Utiliser** [**Thunderbird**](https://www.thunderbird.net/fr/)
 
@@ -62,7 +70,7 @@ Ajoutez le nouveau compte email dans “Fichier”/“Paramètres de comptes” 
 
 Dans l’onglet Agenda, faire “nouvel agenda” / “réseau” puis indiquez votre nom d’utilisateur (adresse email en l’espèce) et le lien de découverte des agendas: https://webmail.numerique.gouv.fr/dav/caldav
 
-Indiquez votre mot de passe, puis sélectionnez les calendriers que vous souhaitez synchroniser.
+Indiquez votre [mot de passe applicatif](https://docs.numerique.gouv.fr/docs/72d85e99-1925-4d3e-ac83-b50b45197784/), puis sélectionnez les calendriers que vous souhaitez synchroniser.
 
 **Ajouter les contacts**
 
@@ -82,7 +90,7 @@ Apple Mail est déjà installé sur Mac.
 
 <figure><img src="https://storage.gra.cloud.ovh.net/v1/AUTH_0f20d409cb2a4c9786c769e2edec0e06/padnumerique/uploads/929950a8-e885-4952-8e4b-56194b8fa900.png" alt=""><figcaption></figcaption></figure>
 
-* Complétez avec votre adresse mail et mot de passe fournis
+* Complétez avec votre adresse mail et le [mot de passe applicatif](https://docs.numerique.gouv.fr/docs/72d85e99-1925-4d3e-ac83-b50b45197784/)
 * Une erreur s’affiche. Complétez le nom d’utilisateur, le serveur de réception et le serveur d’envoi comme ci-dessous :
 
 |                      | ISN                                            |
@@ -105,7 +113,7 @@ Apple Mail est déjà installé sur Mac.
  - Dans le menu "Calendrier", choisir "Ajouter un compte", puis "Compte CalDAV"
  - Type de compte: `manuel`
  - Utilisateur: `prenom.nom[.ext]@beta.gouv.fr`
- - Mot de passe: votre mot de passe
+ - Mot de passe: [mot de passe applicatif](https://docs.numerique.gouv.fr/docs/72d85e99-1925-4d3e-ac83-b50b45197784/)
  - Adresse du serveur: `webmail.beta.gouv.fr`
 
 ## Etape 3 : Connecter à votre téléphone
@@ -118,11 +126,11 @@ Pour les emails, ajoutez simplement un nouveau compte IMAP avec les paramètres 
 
 Pour synchroniser avec le calendrier de votre téléphone Android, vous pouvez installer [Dav5x](https://www.davx5.com/) qui va permettre de synchroniser directement votre compte calendrier OpenXchange avec votre agenda Android. Cette application est [dispo gratuitement sur le store f-droid](https://f-droid.org/fr/packages/at.bitfire.davdroid/) ou [payant sur le Play Store](https://play.google.com/store/apps/details?id=at.bitfire.davdroid\&hl=fr). Une fois installée, il faut ajouter un calendrier avec les configurations suivantes :
 
-|              | ISN                     |
-| ------------ | ----------------------- |
-| URL          | webmail.beta.gouv.fr    |
-| utilisateur  | prenom.nom@beta.gouv.fr |
-| mot de passe | votre mot de passe      |
+|              |                                                                                                               |
+| ------------ | --------------------------------------------------------------------------------------------------------------|
+| URL          | webmail.beta.gouv.fr                                                                                          |
+| utilisateur  | prenom.nom[.ext]@beta.gouv.fr                                                                                 |
+| mot de passe | [mot de passe applicatif dédié](https://docs.numerique.gouv.fr/docs/72d85e99-1925-4d3e-ac83-b50b45197784/)    |
 
 Vous pouvez configurer le délai de synchronisation dans les paramètres, par exemple "toutes les 15 minutes".
 
@@ -253,17 +261,14 @@ Ce service dispose d’une fonctionnalité permettant une synchronisation bidire
 - vos rendez-vous pris sur RDV Service Public sont ajoutés automatiquement à votre agenda de LaSuite
 - vos événements existants rendent automatiquement les créneaux correspondants indisponibles dans RDV Service Public
 
-Pour mettre en place cette synchronisation, **merci d’utiliser un mot de passe applicatif**.
+Pour mettre en place cette synchronisation, [**merci d’utiliser un mot de passe applicatif**](https://docs.numerique.gouv.fr/docs/72d85e99-1925-4d3e-ac83-b50b45197784/).
 
 Vous trouverez la procédure détaillée [ici](https://aide.rdv-service-public.fr/documentation-utilisateur/faq#synchronisation-avec-la-suite-numerique-caldav).
 
 ### Calendso
 
+Pour mettre en place cette intégration, [**merci d’utiliser un mot de passe applicatif**](https://docs.numerique.gouv.fr/docs/72d85e99-1925-4d3e-ac83-b50b45197784/).
+
 {% hint style="warning" %}
 Attention, à l’heure actuelle et pour des raisons de sécurité, il n’est pas recommandé d’utiliser Calendso ou un autre outil de gestion de prise de RDV externe. En effet, il peut être dangereux que les identifiants emails soient stockés dans calendso, qui est un outil peu mis à jour et suivi. En cas de compromision de calendso, tous les mots de passe emails sont compromis. Si vous souhaitez tout de même utiliser Calendso, voici la marche à suivre.
 {% endhint %}
-
-* Dans Calendso, cliquer sur “Applications” dans le menu de gauche, puis “Apps installées”
-* Choisir l’option “Calendrier” puis dans le cadre “Eviter les conflits” cliquer sur “Ajouter”
-* Choisir l'option "Ajouter CalDAV" puis compléter avec le lien public de votre calendrier (trouvable dans votre webmail de beta) puis vos identifiants email/mdp
-* Une fois le calendrier connecté, le sélectionner dans “Ajouter au calendrier” pour faire apparaître les prises de RDV dans le calendrier beta
