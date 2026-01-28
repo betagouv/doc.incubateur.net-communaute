@@ -50,6 +50,8 @@ Pour créer un mot de passe applicatif, aller dans le webmail, puis "Tous les r�
 
 Installer Thunderbird sur votre machine.
 
+Créez un [mot de passe applicatif dédié](https://docs.numerique.gouv.fr/docs/72d85e99-1925-4d3e-ac83-b50b45197784/) via votre webmail.
+
 Ajoutez le nouveau compte email dans “Fichier”/“Paramètres de comptes” :
 
 |                          | ISN                                            |
