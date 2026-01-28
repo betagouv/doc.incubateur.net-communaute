@@ -245,10 +245,22 @@ En acceptant la demande, le destinataire pourra accéder à votre calendrier dan
 
 ## Option : Connecter à son outil de gestion de prise de RDV
 
+### RDV Service Public
+
+Pour gérer vos rendez-vous, vous pouvez utiliser [RDV Service Public](https://rdv.anct.gouv.fr/).
+Ce service dispose d’une fonctionnalité permettant une synchronisation bidirectionnelle : 
+
+- vos rendez-vous pris sur RDV Service Public sont ajoutés automatiquement à votre agenda de LaSuite
+- vos événements existants rendent automatiquement les créneaux correspondants indisponibles dans RDV Service Public
+
+Pour mettre en place cette synchronisation, **merci d’utiliser un mot de passe applicatif**.
+
+Vous trouverez la procédure détaillée [ici](https://aide.rdv-service-public.fr/documentation-utilisateur/faq#synchronisation-avec-la-suite-numerique-caldav).
+
 ### Calendso
 
 {% hint style="warning" %}
-Attention, à l’heure actuelle et pour des raisons de sécurité, il n’est pas recommandé d’utiliser Calendso ou un autre outil de gestion de prise de RDV. En effet, il peut être dangereux que les identifiants emails soient stockés dans calendso, qui est un outil peu mis à jour et suivi. En cas de compromision de calendso, tous les mots de passe emails sont compromis. Si vous souhaitez tout de même utiliser Calendso, voici la marche à suivre.
+Attention, à l’heure actuelle et pour des raisons de sécurité, il n’est pas recommandé d’utiliser Calendso ou un autre outil de gestion de prise de RDV externe. En effet, il peut être dangereux que les identifiants emails soient stockés dans calendso, qui est un outil peu mis à jour et suivi. En cas de compromision de calendso, tous les mots de passe emails sont compromis. Si vous souhaitez tout de même utiliser Calendso, voici la marche à suivre.
 {% endhint %}
 
 * Dans Calendso, cliquer sur “Applications” dans le menu de gauche, puis “Apps installées”
