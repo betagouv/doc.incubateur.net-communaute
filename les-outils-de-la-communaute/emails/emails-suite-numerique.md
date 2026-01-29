@@ -58,11 +58,11 @@ Ajoutez le nouveau compte email dans “Fichier”/“Paramètres de comptes” 
 | ------------------------ | ---------------------------------------------- |
 | **Serveur entrant**      |                                                |
 | Protocole :              | IMAP                                           |
-| Nom d’hôte               | [imap.beta.gouv.fr](http://imap.beta.gouv.fr/) |
+| Nom d’hôte               | imap.beta.gouv.fr                              |
 | Port                     | 143 ou 993                                     |
 | Sécurité de la connexion | SSL/TLS                                        |
 | **Serveur sortant**      |                                                |
-| Nom d’hôte               | [smtp.beta.gouv.fr](http://smtp.beta.gouv.fr/) |
+| Nom d’hôte               | smtp.beta.gouv.fr                              |
 | Port                     | 25 ou 587                                      |
 | Sécurité de la connexion | STARTTLS                                       |
 
@@ -98,9 +98,9 @@ Apple Mail est déjà installé sur Mac.
 |                      | ISN                                            |
 | -------------------- | ---------------------------------------------- |
 | Nom d’utilisateur    | ton adresse mail                               |
-| Serveur de réception | [imap.beta.gouv.fr](http://imap.beta.gouv.fr/) |
+| Serveur de réception | imap.beta.gouv.fr                              |
 | Port                 | 143 ou 993                                     |
-| Serveur d’envoi      | [smtp.beta.gouv.fr](http://smtp.beta.gouv.fr/) |
+| Serveur d’envoi      | smtp.beta.gouv.fr                              |
 | Port                 | 25 ou 587                                      |
 
 * \\
