@@ -1,32 +1,57 @@
 ---
 description: >-
-  L'importance du déploiement dans la construction et le développement d'un
-  service numérique public !
+  Un service non déployé — ou mal déployé — ne produit pas d’impact, même s’il
+  est techniquement abouti.
 ---
 
 # Le déploiement
 
-On ne passe pas du temps de développement sur un produit sans vérifier qu’il va y avoir de l’usage derrière.
+On ne passe pas du temps de développement sur un produit sans vérifier qu’il va y avoir de l’usage derrière.Le déploiement d’un service public numérique n’est pas une étape finale.\
+C’est **la première étape**, car il oriente toutes les décisions du produit, jusqu’à celle de créer ou non le service.\
+C’est aussi **la dernière étape**, car il transforme le travail de l’équipe en impact réel auprès des usagers.
 
-* Un service numérique en ligne parfait peut n’avoir aucun impact s’il n’y a pas d’utilisateurs.
-* Plus tôt on travaille le déploiement, plus vite on s’assure que notre solution a de la traction.
+## Toute l'équipe doit servir le déploiement
 
-{% hint style="info" %}
-**La preuve par l’exemple** : Le dossier médical partagé à ses débuts en 2018.
+Précision sur le terme “**chargé de déploiement**”&#x20;
 
-* L’objectif : simplifier la gestion des dossiers médicaux pour les professionnels de santé et les patients.
-* Le problème : si les patients ne l’utilisent pas, les médecins ne l’utilisent pas et inversement → c’est le serpent qui se mord la queue !
-  * Les professionnels de santé n’ont pas été assez embarqués.
-  * Le produit a été construit sans mettre les utilisateurs dans la discussion.
+Le terme 'chargé de déploiement' est une spécificité beta.gouv qui regroupe des réalités très différentes selon la phase du produit. On retrouve plusieurs profils : prospection/sales, marketing , growth hacking, support / CSM. Tous ces métiers sont important mais ne correspondent pas au même profil de personnes !&#x20;
 
-“_La difficulté à laquelle nous sommes clairement confrontés est que les professionnels de santé ne se sont pas appropriés ce dossier médical_” - Marisol Touraine, alors ministre de la santé
+Chaque action de l’équipe (design, développement, communication, partenariats) doit contribuer au déploiement du service.
 
-* Le résultat : pas d’impact et un demi-milliard pour rien.
+Cela implique de :
 
-<img src="../../../.gitbook/assets/image (3) (3).png" alt="" data-size="original">
-{% endhint %}
+* concevoir des parcours qui favorisent l’adoption et l’usage réel,
+* prioriser les fonctionnalités selon leur contribution à l’impact,
+* activer des leviers d’acquisition adaptés aux cibles,
+* mesurer l’usage pour orienter les décisions.
+
+Le déploiement et le support sont des aspects clés du développement de votre service numérique : sans efforts sur ces aspects le service n’aura pas d’impact significatif et ne pourra pas être pérennisé.<br>
+
+## Piloter le déploiement par l’usage et la valeur
+
+Déployer un service, ce n’est pas uniquement “faire venir des usagers”.\
+C’est **s’assurer que le service est utilisable, utilisé, utile et impactant** (les 4 premiers concepts de la matrice d'Impact), et que ces indicateurs progressent dans le temps.
+
+Cette page propose une méthode simple et partageable par toute l’équipe pour :
+
+* **Activer les bons leviers de déploiement**\
+  (acquisition, activation, rétention, recommandation, impact)
+* **Piloter le déploiement au quotidien**\
+  grâce à des rituels et des outils adaptés
+* **Mesurer la valeur rendue aux usagers**\
+  à l’aide d’indicateurs clairs et suivis dans la durée
+
+Sans mesure fiable et sans leviers activés, on peut avoir le sentiment de déployer…\
+sans être capable de démontrer que le service produit réellement de l’impact.
 
 ## Comment construire sa stratégie de déploiement ?
+
+La stratégie de déploiement repose sur quelques principes clés :
+
+* définir ce que signifie **“créer de la valeur”** pour les usagers,
+* comprendre **où et pourquoi les usagers entrent, utilisent ou abandonnent** le service,
+* activer des leviers concrets pour faire croître l’usage,
+* mettre en place une mesure fiable et des routines de pilotage.<br>
 
 ➡️ Quelques pages pour t'aider !
 
