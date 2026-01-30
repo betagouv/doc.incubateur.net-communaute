@@ -1,7 +1,7 @@
 ---
 description: >-
   L'importance du déploiement dans la construction et le développement d'un
-  service numérique public
+  service numérique public !
 ---
 
 # Le déploiement
