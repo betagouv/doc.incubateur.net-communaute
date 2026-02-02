@@ -1,3 +1,10 @@
+---
+description: >-
+  Cette documentation a été produite à partir du Guide SEO Google. Elle vous
+  aidera à comprendre le fonctionnement du référencement naturel et à améliorer
+  votre rancking
+---
+
 # Actions et leviers de déploiement au sein des Startups d’État
 
 ## Objectif de la page
