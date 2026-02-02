@@ -1,160 +1,152 @@
----
-description: >-
-  Cette documentation a été produite à partir du Guide SEO Google. Elle vous
-  aidera à comprendre le fonctionnement du référencement naturel et à améliorer
-  votre rancking
----
+# Actions et leviers de déploiement au sein des Startups d’État
 
-# SEO et référencement naturel
+## Objectif de la page
 
-## Structure de la page
+Cette page présente les principaux **canaux** de déploiement mobilisables par une Startup d’État, et dans quelles phases ils sont pertinents :
 
-### Titre de la page
+* **Phase 1** : trouver ses premiers utilisateurs (valider l’usage)
+* **Phase 2** : passer de quelques utilisateurs à des milliers… voire des millions (passage à l’échelle)
 
-Si votre document figure dans une page de résultats de recherche, le contenu de la balise "title" peut s'afficher dans la première ligne des résultats.
+> 💡 Spécificités beta.gouv \
+> **L’usage avant la visibilité** : un canal est “bon” s’il génère activation/rétention, pas seulement clics/vues.\
+> **Le tiers de confiance est central** : prescription > publicité dans de nombreux contextes publics.\
+> **Le déploiement est un sujet qui concerne toute l'équipe** : objections, freins, demandes récurrentes doivent alimenter les réflexions et le backlog.\
+> **Frugalité + mesure** : tester un canal sur 2–4 semaines avec peu de moyens, renforcer si ça marche, couper sinon.
 
-Le titre de votre page d'accueil peut indiquer le nom de votre site Web ou de votre entreprise et inclure d'autres informations importantes, telles que l'emplacement physique de l'établissement, ou divers renseignements sur ses offres ou sur son domaine de spécialité.
+### PHASE 1 — Trouver ses premiers utilisateurs
 
-:bulb: **Conseils :**&#x20;
+_Objectif : obtenir de vrais utilisateurs, comprendre les freins, stabiliser l’usage._
 
-* titre unique pour chaque page
-* titre lisible et évocateur du contenu de la page
-* titres brefs, mais descriptifs
+#### 1) Contact direct (phoning, emails ciblés, prises de rendez-vous)
 
-### Balise meta “description”
+**À quoi ça sert**\
+Recruter des premiers utilisateurs, déclencher des essais, comprendre les objections, obtenir des engagements concrets (test, relais, intégration).
 
-La balise Meta "description" d'une page fournit à Google et aux autres moteurs de recherche un récapitulatif de la page. Le titre d'une page consiste en quelques mots ou une expression, alors que la balise Meta "description" peut contenir une ou deux phrases, voire un court paragraphe. Les balises Meta "description" sont importantes, car Google pourrait les utiliser comme des extraits pour vos pages. Notez que nous utilisons le conditionnel, car Google peut choisir d'utiliser une section pertinente du texte visible de votre page si elle correspond à une requête de l'internaute.
+**Quand l’utiliser**\
+Dès le départ, tant que la proposition de valeur et les parcours ne sont pas stabilisés.
 
-****:bulb: **Conseils :**
+> 🚩 Spécificité beta\
+> **Rôle réel** : c’est souvent _le_ canal qui transforme “intérêt” → “usage”, surtout quand la cible est institutionnelle ou métier.\
+> **Piège** : faire “du volume” (beaucoup d’appels/emails) sans apprendre (pas de synthèse des objections, pas de mise à jour du discours, pas d’effet sur le produit).\
+> **Signal de succès** : des **rendez-vous qualifiés** et des **premiers usages observables** (pas juste des “oui pourquoi pas”).
 
-* résumer avec précision le contenu de la page
-* utiliser des descriptions uniques pour chaque page
+***
 
-### Titres structurant la page
+#### 2) Webinaires & démos en ligne
 
-Le texte des balises de titre étant généralement plus grand que le texte normal sur la page, cela indique aux internautes qu'il est important et susceptible de les aider à interpréter le type de contenu de la page. Différentes tailles de titres permettent de hiérarchiser votre contenu et facilitent la navigation dans un document.
+**À quoi ça sert**\
+Faire comprendre le service rapidement, répondre aux questions, créer de la confiance, embarquer plusieurs acteurs en même temps.
 
-****:bulb: **Conseils :**
+**Quand l’utiliser**\
+Dès que le service est démontrable (même simple), pour accélérer la qualification et la mobilisation.
 
-* imaginez que vous rédigez un plan
-* utiliser les titres avec parcimonie sur la page
+> 🚩 Spécificité beta\
+> **Rôle réel** : canal “multiplicateur” du contact direct (un webinaire alimente ensuite des relances ciblées + de la prescription).\
+> Ça marche très bien en distanciel, et c’est compatible avec les contraintes du public.\
+> **Piège** : organiser un webinaire comme un événement de com (beaucoup d’inscrits) au lieu d’un outil de déploiement (peu mais **très ciblés**).\
+> **Signal de succès** : des **suites concrètes** (tests planifiés, demandes d’accès, invitations à présenter à un réseau/une direction, relais institutionnel).
 
-### Balisage de données structurées
+***
 
-Les [données structurées](https://developers.google.com/search/docs/guides/intro-structured-data) sont du code que vous pouvez ajouter aux pages de votre site pour décrire votre contenu aux moteurs de recherche, de sorte qu'ils comprennent plus facilement ce qui se trouve sur vos pages. Les moteurs de recherche peuvent utiliser cette interprétation pour afficher votre contenu de manière utile (et accrocheuse !) dans les résultats de recherche. Cela peut vous aider à attirer le bon type de clients pour votre entreprise.
+#### 3) Acquisition ciblée (tests Ads / landing page / formulaire)
 
-Vous pouvez baliser de nombreuses entités commerciales :
+**À quoi ça sert**\
+Tester un message, une promesse, une cible ; recruter vite des volontaires ; identifier les formulations qui déclenchent une action.
 
-* Les produits que vous vendez
-* La localisation de l'établissement
-* Des vidéos sur vos produits ou votre entreprise
-* Les horaires d'ouverture
-* Le calendrier des événements
-* Des recettes
-* Le logo de votre entreprise, et bien plus encore
+**Quand l’utiliser**\
+En test rapide, quand on a besoin de feedback utilisateur sans dépendre d’un réseau existant.
 
-En ajoutant des données structurées correctes à vos pages, vous les rendez éligibles à de nombreuses fonctionnalités spéciales dans les résultats de la Recherche, par exemple, les étoiles d'avis, une jolie présentation dans les résultats et plus encore.
+> 🚩 Spécificité beta \
+> **Rôle réel** : un outil de **test** (hypothèses de proposition de valeur), pas un “plan de croissance” en soi.\
+> **Piège** : confondre clics/inscriptions avec usage (on peut “recruter” beaucoup de curieux qui n’activeront jamais).\
+> **Signal de succès** : une **activation** mesurable derrière (inscrits → première action utile), et une cible qui ressemble à votre cible réelle.
 
-:bulb: **Conseils :**
+### PHASE 2 — Passer à l’échelle
 
-* vérifier votre balisage à l'aide de l'[outil de test des données structurées](https://search.google.com/structured-data/testing-tool/u/0/)
-* utiliser le Marqueur de données (outil search console)
-* effectuer le suivi de vos pages balisées ([outil](https://support.google.com/webmasters/answer/7552505) search console)
+_Objectif : réduire la dépendance au contact individuel et toucher massivement via des relais, des parcours existants et des canaux organiques._\
+&#xNAN;_&#x43;es leviers s'ajoutent à ceux précédemment cités dans la phase 1._
 
-## Arborescence du site
+#### 4) Prescription institutionnelle & partenariats
 
-### Organiser ses URLs
+**À quoi ça sert**\
+Faire recommander le service par des acteurs déjà légitimes : institutions, opérateurs, collectivités, réseaux associatifs/métiers.
 
-Les moteurs de recherche ont besoin d'une URL unique par élément de contenu pour pouvoir l'explorer, l'indexer et y rediriger les internautes. Bien que les résultats de recherche Google soient fournis au niveau d'une page, Google aime aussi avoir une idée du rôle d'une page dans l'ensemble d'un site.
+**Quand l’utiliser**\
+Quand l’usage est prouvé sur un périmètre limité et que l’offre est assez stable pour être recommandée largement.
 
-:bulb: **Conseils** :
+> 🚩 Spécificité beta \
+> **Rôle réel** : le “moteur” le plus fréquent du passage à l’échelle dans le public (confiance + accès à des volumes).\
+> **Piège** : viser trop tôt un “partenariat national” (lourd, lent) au lieu d’**expérimentations** simples et reproductibles.\
+> **Signal de succès** : un **partenaire qui prescrit réellement** (pas seulement un logo), avec des preuves (flux régulier, relais dans les pratiques, message intégré dans leurs supports/parcours).
 
-* des URL simples informent sur le contenu
-* utiliser des mots dans les URL
-* créer une structure de répertoires simple
-* fournir une seule version d'URL pour accéder à un document
-* search console: répertorier version http:// et une version https://, ainsi que les versions "www" et "non www"
-* les moteurs de recherche ignorent généralement les fragments utilisés (#info)
+***
 
-### Faciliter la navigation
+#### 5) Intégration dans des parcours existants (liens, encarts, redirections, intégrations)
 
-Tous les sites ont une page d'accueil ou une page "racine", qui est généralement la page du site la plus consultée et qui représente, pour de nombreux visiteurs, le point de départ de la navigation. À moins que votre site ne soit composé que d'une poignée de pages, vous devez penser à la manière dont vos visiteurs vont se rendre d'une page générale (votre page racine) à une page au contenu plus spécifique.
+**À quoi ça sert**\
+Mettre le service “dans le chemin” : là où l’usager est déjà (site, outil métier, démarche, courrier, portail).
 
-:bulb: **Conseils :**
+**Quand l’utiliser**\
+Quand le service est suffisamment robuste et clair pour être proposé largement sans accompagnement humain systématique.
 
-* créer une hiérarchie structurée naturellement
-* utiliser du texte pour la navigation ( "a" dans les valeurs d'attribut "href" pour les URL)
-* créer une page de navigation pour les internautes
-* créer un sitemap pour les moteurs de recherche
-* fil d’ariane en haut ou bas de page
-* afficher les pages d'erreur 404 utiles
+> 🚩 Spécificité beta\
+> **Rôle réel** : réduire la friction et convertir de la visibilité en usage “naturel” (l’usager n’a rien à chercher).\
+> **Piège** : vouloir une intégration technique lourde trop tôt ; ou intégrer sans alignement sur le “bon moment” dans le parcours (mauvais timing = faible conversion).\
+> **Signal de succès** : une **hausse durable** des activations provenant de ce point d’entrée, avec un trafic/usage stable (et pas un pic ponctuel).
 
-## Optimisation du contenu
+***
 
-### Rédaction du contenu
+#### 6) Référencement naturel (SEO)
 
-Pensez aux mots qu'un internaute pourrait rechercher pour trouver une partie de votre contenu. Les internautes avertis sur le sujet de votre site peuvent utiliser des mots clés différents de ceux choisis par les novices dans leurs requêtes de recherche.
+**À quoi ça sert**\
+Être trouvé par les usagers au moment où ils expriment leur besoin sur un moteur de recherche.
 
-Google Ads offre un [outil de planification des mots clés](https://ads.google.com/aw/keywordplanner/ideas/new?ocid=121353919&\_\_c=9452772231\&authuser=0&\_\_u=3985757991) pratique qui vous permet de découvrir de nouvelles variantes de mots clés et le volume de recherche approximatif pour chacun. La Google Search Console fournit également les requêtes de recherche les plus fréquentes pour votre site et celles qui ont conduit le plus grand nombre d'internautes vers votre site dans le [rapport sur les performances](https://support.google.com/webmasters/answer/7576553).
+**Quand l’utiliser**\
+À construire tôt, mais c’est un levier de moyen/long terme (et un socle pour l’échelle, surtout grand public).
 
-:bulb: **Conseils :**
+> 🚩 Spécificité beta\
+> **Rôle réel** : capter une demande existante de manière durable ; excellent pour l’échelle quand le besoin est “cherché”.\
+> **Piège** : attendre “d’être prêt” pour s’y mettre (on perd du temps), ou produire du contenu non aligné sur les questions réelles des usagers.\
+> **Signal de succès** : une progression des **entrées qualifiées** qui activent (pas seulement du trafic), sur des requêtes liées à l’irritant et au bon public.
 
-* rédiger un texte facile à lire
-* organiser vos sujets clairement, diviser en blocs de contenus
-* créer du contenu original et unique
-* optimiser le contenu pour les internautes, et non pour les moteurs de recherche
+***
 
-### Intégrer des liens
+#### 7) Relations presse & communication institutionnelle
 
-Avec un texte d'ancrage approprié, les utilisateurs et les moteurs de recherche peuvent facilement interpréter ce que contiennent les pages liées.
+**À quoi ça sert**\
+Renforcer la crédibilité, soutenir la prescription, accélérer des prises de contact, accompagner un jalon (lancement, résultats, extension).
 
-:bulb: **Conseils :**
+**Quand l’utiliser**\
+Quand on a quelque chose de robuste à montrer : usage prouvé, impact, récit clair.
 
-* choisir un texte descriptif
-* rédiger un texte concis
-* mettre en forme les liens pour un repérage facile
-* penser au texte d'ancrage pour les liens internes
+> 🚩 Spécificité beta \
+> **Rôle réel** : un **accélérateur de confiance** (utile pour ouvrir des portes), rarement un canal d’acquisition direct.\
+> **Piège** : faire de la RP “trop tôt” (pas de preuves, pas de cas d’usage), ou viser la quantité de retombées plutôt que leur utilité pour le déploiement.\
+> **Signal de succès** : des **demandes entrantes utiles** (rendez-vous partenaires, invitations, relais dans des réseaux) + un renforcement de la légitimité auprès des prescripteurs.
 
-### Liens vers d’autres sites
+***
 
-La réputation de votre site peut être transmise à un autre site vers lequel vous créez un lien. Il arrive parfois que les internautes profitent de cette association en ajoutant des liens vers leur propre site dans vos sections de commentaires ou groupes de discussion.
+#### 8) Réseaux sociaux (LinkedIn, X/Twitter…)
 
-:bulb: **Conseils :**
+**À quoi ça sert**\
+Relais d’information, crédibilité, preuve sociale, diffusion indirecte, animation d’écosystème.
 
-* utiliser l'attribut "nofollow" comme valeur de l'attribut "rel" d'un lien indique à Google que certains des liens de votre site ne doivent pas être suivis
-* ajouter automatiquement l'attribut "nofollow" aux colonnes de commentaires et groupes de discussion
+**Quand l’utiliser**\
+En soutien des autres canaux : publication avant/après webinaire, annonce d’intégration, partage de résultats, appel à volontaires ciblés.
 
-### Gérer les images
+> 🚩 Spécificité beta \
+> **Rôle réel** : un **amplificateur** qui facilite les mises en relation (“j’ai vu passer votre service…”), plus qu’un moteur d’acquisition.\
+> **Piège** : confondre “communiquer” et “déployer” (beaucoup d’impressions/likes, mais rien qui change côté usage).\
+> **Signal de succès** : des **messages entrants qualifiés**, des demandes de démo, des relais par des institutions/réseaux, et des effets mesurables sur les canaux de conversion (inscriptions, prises de rendez-vous, prescriptions).
 
-Fournissez un nom de fichier descriptif et une description de l'attribut "alt" pour les images. L'attribut "alt" vous permet de spécifier un texte de remplacement pour l'image si elle ne peut pas être affichée pour une raison quelconque.
+***
 
-:bulb: **Conseils :**
+**À retenir**
 
-* utiliser des noms de fichiers et du texte "alt" courts mais descriptifs
-* fournir un texte "alt" lors de l'utilisation d'images en tant que liens
-* utiliser un [sitemap pour images](https://support.google.com/webmasters/answer/178636) fournit à Googlebot plus d'informations sur les images de votre site
-* utilisez des types de fichiers communément acceptés (JPEG, GIF, PNG, BMP et WebP)
-* l’extension du nom de votre fichier correspond au type de fichier
+* En phase 1, on privilégie les canaux qui produisent **apprentissage + premiers usages** (contact direct, démos, tests).
+* En phase 2, on privilégie les canaux qui produisent **volume + répétabilité** (prescription, intégration, SEO), soutenus par la com (RP, réseaux sociaux).
+* Un canal n’est utile que s’il est relié à une **mesure d’usage**, pas seulement à une mesure d’exposition.
 
-## Optimisation mobile
+**Prochaine étape**
 
-[Conseils responsive](https://developers.google.com/search/mobile-sites/mobile-seo/responsive-design)
-
-## Promotion du site
-
-La plupart des liens vers votre site seront ajoutés progressivement, à mesure que les internautes découvriront votre contenu par l'intermédiaire de la recherche ou par d'autres moyens et utiliseront des liens vers lui, mais nous comprenons que vous souhaitiez faire connaître le travail que vous avez fourni pour le créer. Si vous faites la promotion de votre nouveau contenu efficacement, les personnes intéressées par le sujet le découvriront plus rapidement.
-
-:bulb: **Conseils :**
-
-* partager le site dans un post blog, réseaux sociaux
-* ajouter ses informations sur [Google My Business](https://www.google.com/business/)
-
-## Articles complémentaires
-
-[Google SEO Guide : Bien débuter en référencement naturel ](https://support.google.com/webmasters/answer/7451184?hl=fr)
-
-## Aide Transverse DINUM
-
-Si vous souhaitez de l'aide sur les sujets liés à la croissance, la DINUM met en place un accompagnement en transverse : [https://doc.incubateur.net/communaute/aide-transverse/growth-hacking-acquisition](https://doc.incubateur.net/communaute/aide-transverse/growth-hacking-acquisition) par Chaïb Martinez
-
-Côté gestion de produit, [https://doc.incubateur.net/communaute/aide-transverse/methodologie-produit](https://doc.incubateur.net/communaute/aide-transverse/methodologie-produit) par Mathilde Petit et Clément Chapalain
+👉 **Mettre en place la mesure** : relier chaque canal à des indicateurs (activation, rétention, contribution au déploiement) et à des rituels de pilotage.
