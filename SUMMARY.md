@@ -204,7 +204,7 @@
     * [Accélérer la croissance de son service avec la méthode AARRI](gerer-son-produit/aide-a-la-mise-en-application-des-standards/pourquoi-le-deploiement-dun-service-public-en-ligne-est-il-important/methode-aarri.md)
     * [Piloter par la North Star Metric](gerer-son-produit/aide-a-la-mise-en-application-des-standards/pourquoi-le-deploiement-dun-service-public-en-ligne-est-il-important/north-star-metric.md)
     * [Actions et leviers de déploiement au sein des Startups d’État](gerer-son-produit/aide-a-la-mise-en-application-des-standards/pourquoi-le-deploiement-dun-service-public-en-ligne-est-il-important/seo.md)
-    * [Réseaux sociaux](gerer-son-produit/aide-a-la-mise-en-application-des-standards/pourquoi-le-deploiement-dun-service-public-en-ligne-est-il-important/reseaux-sociaux.md)
+    * [Mesure, rituels et outils : piloter son déploiement](gerer-son-produit/aide-a-la-mise-en-application-des-standards/pourquoi-le-deploiement-dun-service-public-en-ligne-est-il-important/reseaux-sociaux.md)
     * [Organiser un jeu concours](gerer-son-produit/aide-a-la-mise-en-application-des-standards/pourquoi-le-deploiement-dun-service-public-en-ligne-est-il-important/organiser-un-jeu-concours.md)
     * [Intégrer le bouton « Je donne mon avis »](gerer-son-produit/aide-a-la-mise-en-application-des-standards/pourquoi-le-deploiement-dun-service-public-en-ligne-est-il-important/integrer-le-bouton-je-donne-mon-avis.md)
   * [Impact](gerer-son-produit/aide-a-la-mise-en-application-des-standards/impact/impact.md)
