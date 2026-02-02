@@ -32,7 +32,7 @@ _Le marché atteignable est-il identifié (taille et périmètre, ciblage pertin
 
 ### 2. La mesure d'impact <a href="#id-2-la-mesure-dimpact" id="id-2-la-mesure-dimpact"></a>
 
-_Une mesure d’impact réel (social/économique/environnemental) principale a-t-elle été identifiée ? Est-elle suivie en partenariat avec le sponsor ? Est-elle utilisée comme guide pour le pilotage du projet ? Un objectif de croissance de cette métrique à 6 et 18 mois est-il fixé/envisagé ?_ Pour en savoir plus sur la mesure d'impact, se référer au [petit guide sur la mesure d'impact](https://docs.google.com/presentation/d/1SkTz20qNuOh3rGJZ1vGqStvlXHaKu\_7zsnmrW997xn4/edit?usp=sharing).
+_Une mesure d’impact réel (social/économique/environnemental) principale a-t-elle été identifiée ? Est-elle suivie en partenariat avec le sponsor ? Est-elle utilisée comme guide pour le pilotage du projet ? Un objectif de croissance de cette métrique à 6 et 18 mois est-il fixé/envisagé ?_ Pour en savoir plus sur la mesure d'impact, se référer au [petit guide sur la mesure d'impact](https://docs.google.com/presentation/d/1SkTz20qNuOh3rGJZ1vGqStvlXHaKu_7zsnmrW997xn4/edit?usp=sharing).
 
 ### 3. L’organisation de l’équipe <a href="#id-3-lorganisation-de-lequipe" id="id-3-lorganisation-de-lequipe"></a>
 
@@ -43,6 +43,49 @@ Il convient que la Startup d'État qui souhaite passer en phase d'accélération
 ### **Ressource utile : en apprendre plus sur le Growth Hacking** <a href="#ressource-utile-en-apprendre-plus-sur-le-growth-hacking" id="ressource-utile-en-apprendre-plus-sur-le-growth-hacking"></a>
 
 Le Growth Hacking (GH) recouvre toutes les tactiques d'acquisition, de conversion (activation), de rétention (fidélisation) d'utilisateurs d'une Startup. Ils participent à augmenter l'impact d'un produit. Pour en savoir plus sur cette pratique, vous pouvez consultez la fiche [Growth Hacking](../../../solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/growth-hacking-acquisition.md) du guide pour la communauté ainsi que la fiche [Les principes du Growth Hacking](../../../travailler-chez-beta.gouv.fr/se-former/se-former-en-ligne/deploiement/les-principes-du-growth-hacking/).
+
+## **Kit de démarrage BizDev (phase d’accélération)** <a href="#quel-accompagnement-possible" id="quel-accompagnement-possible"></a>
+
+<details>
+
+<summary>🧰 Kit de démarrage BizDev (phase d’accélération)</summary>
+
+La phase d’accélération, qui suit une phase de construction réussie, vise une finalité : **la croissance de l’impact**.\
+L’atteinte de cet objectif passe par un déploiement à plus large échelle, et s’accompagne souvent d’une structuration plus forte : équipe, outils, méthodes, métriques.
+
+Dans cette phase, il est fréquent de distinguer deux besoins (parfois portés par une seule personne, parfois par plusieurs) :
+
+* **développement commercial / déploiement** : acquisition, prospection, partenariats, relais ;
+* **relation clientèle (CSM / support / accompagnement)** : onboarding, activation, rétention, qualité de service.
+
+**Faut-il changer d’outils en accélération ?**
+
+Souvent oui.&#x20;
+
+Lorsque le volume augmente (contacts, campagnes, demandes, relances), le suivi “à la main” devient fragile. L’objectif est d’outiller pour **tenir le passage à l’échelle**, sans perdre la capacité à apprendre et à arbitrer.
+
+**Le kit de démarrage (checklist)**
+
+* **Structurer un tunnel d’acquisition** : étapes claires, et suivi en “next steps” (pas de statuts flous).
+* **Passer sur un CRM si nécessaire** : centraliser infos, suivre les relances, partager le suivi si l’équipe grandit.
+* **Renforcer le pilotage** : KPIs, suivi des campagnes, et arbitrages basés sur les chiffres (Matomo + dashboard type Metabase).
+* **Déploiement à plus large échelle** : répliquer les succès (ex. webinaires, séquences emails) et arrêter ce qui ne convertit pas.
+* **Onboarding et rétention** : process, documentation, support, montée en autonomie des usagers.
+* **Appui institutions & réseaux** : s’appuyer sur des réseaux existants (institutionnels, opérateurs, partenaires) pour diffuser plus vite.
+
+**Quelques grands principes**
+
+* **Le déploiement est piloté par les mesures d’impact** : on teste, on mesure, on décide.
+* **Utiliser les bonnes ressources au bon moment** : Si votre enjeu est la notoriété, misez sur un Community Manager. Si c'est l'efficacité pure, misez sur du Growth. En construction, privilégiez un profil polyvalent capable de faire du terrain. En accélération, cherchez des experts (Growth pour le volume, Account Manager pour la rétention).
+* **Support et produit** : viser “best support is no support” (réduire les tickets en rendant les utilisateurs autonomes).
+* **Objectifs et arbitrages** : éviter le “en cours” permanent, se donner des objectifs atteignables et des arbitrages réguliers.
+
+**Demander de l’aide**
+
+* Pour choisir un CRM, challenger un tunnel, ou comparer des pratiques : faire appeler à la communauté sur Mattermost, canal `#`domaine-bizdev.
+* Pour sortir d’un blocage (stratégie / compétences / temps alloué) : demander un **regard extérieur** via la communauté.
+
+</details>
 
 ## **Quel accompagnement possible ?** <a href="#quel-accompagnement-possible" id="quel-accompagnement-possible"></a>
 
