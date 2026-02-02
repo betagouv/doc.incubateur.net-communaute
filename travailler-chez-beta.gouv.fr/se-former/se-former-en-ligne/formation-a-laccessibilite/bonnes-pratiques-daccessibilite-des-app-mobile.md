@@ -35,7 +35,7 @@ En respectant le minimum de contraste entre le texte et l'arrière-plan (contras
 
 N’oubliez pas de tester en Light et Dark mode.
 
-<div align="center"><figure><img src="../../../../.gitbook/assets/image (3).png" alt="Agora - suggestion de contraste à prendr en compte remontée par l&#x27;application Android acessibility" width="188"><figcaption><p>⚠️ Le conseil (0/50) n'est pas assez contrasté</p></figcaption></figure> <figure><img src="/broken/files/01HRNvagVBY7FBPUoSMc" alt="Aplication 1000 jours en Dark mode est illisible" width="188"><figcaption><p>⚠️ Le Dark mode illisible</p></figcaption></figure></div>
+<div align="center"><figure><img src="../../../../.gitbook/assets/image (3).png" alt="Agora - suggestion de contraste à prendr en compte remontée par l&#x27;application Android acessibility" width="188"><figcaption><p>⚠️ Le conseil (0/50) n'est pas assez contrasté</p></figcaption></figure> <figure><img src="../../../../.gitbook/assets/image (6) (2).png" alt="Aplication 1000 jours en Dark mode est illisible" width="188"><figcaption><p>⚠️ Le Dark mode illisible</p></figcaption></figure></div>
 
 {% hint style="info" %}
 Elles vous remercieront : les personnes ayant des troubles de la vision, des difficultés de concentration et toutes les personnes utilisant leurs téléphone mobile dans un environnement avec des conditions lumineuses déplorables.
@@ -310,7 +310,7 @@ Ils vous remercieront : tout le monde !
 
 Tous les téléphones mobiles ont des fonctionnalités d'accessibilité (en plus du lecteur d’écran).
 
-<div align="center" data-full-width="false"><figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcPw-IvTNqfR7U-3B1_JOTVqK6Dj-QEFDzeFnubbRIK8mWySep2qifszIsvdcGPa1o_SIKkJjB8zHYUoJ9TuPFS9vSXrc8uml7-hOmUta_JP8yPEUcPmU4ZXoraJfCrtJbs4cTQNQ?key=j2aSMuGwLumUGA7pM-qmrg" alt="" width="188"><figcaption><p>Option d'accessibilité iOS</p></figcaption></figure> <figure><img src="/broken/files/BrNmZr19NjZ4GwFf8C44" alt="" width="188"><figcaption><p>Option d'accessibilité Android</p></figcaption></figure></div>
+<div align="center" data-full-width="false"><figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcPw-IvTNqfR7U-3B1_JOTVqK6Dj-QEFDzeFnubbRIK8mWySep2qifszIsvdcGPa1o_SIKkJjB8zHYUoJ9TuPFS9vSXrc8uml7-hOmUta_JP8yPEUcPmU4ZXoraJfCrtJbs4cTQNQ?key=j2aSMuGwLumUGA7pM-qmrg" alt="" width="188"><figcaption><p>Option d'accessibilité iOS</p></figcaption></figure> <figure><img src="../../../../.gitbook/assets/Screenshot_20250729-171643 (1).png" alt="" width="188"><figcaption><p>Option d'accessibilité Android</p></figcaption></figure></div>
 
 **🧪 Comment tester ?**
 

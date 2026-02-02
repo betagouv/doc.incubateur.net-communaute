@@ -7,10 +7,8 @@ description: >-
 # 10 choses faciles à vérifier pour un site plus accessible
 
 {% hint style="success" %}
-Retrouvez le support de présentation de l'atelier **Easy Checks - Vérifier rapidement l'accessibilité :**&#x20;
+Retrouvez le support de présentation de l'atelier **Easy Checks - Vérifier rapidement l'accessibilité :**
 {% endhint %}
-
-{% file src="../../../../.gitbook/assets/Atelier « Vérifier l'accessibilité » - 2025_compressed.pdf" %}
 
 ### La grille d'évaluation
 
@@ -258,7 +256,7 @@ Les informations visuelles d’une vidéo ne sont pas accessibles aux personnes 
 
 ### Et après ?
 
-Intégrer l'accessibilité dans votre équipe :&#x20;
+Intégrer l'accessibilité dans votre équipe :
 
 * **Auto-diagnostic régulier** pour chaque nouveau composant / fonctionnalité / sprint…
 * **Prise en compte en amont** : faire sa propre checkliste, selon son métier)

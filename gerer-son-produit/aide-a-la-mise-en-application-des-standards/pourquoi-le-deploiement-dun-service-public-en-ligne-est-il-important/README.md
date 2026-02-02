@@ -55,10 +55,6 @@ La stratégie de déploiement repose sur quelques principes clés :
 
 ➡️ Quelques pages pour t'aider !
 
-{% content-ref url="chapitre-1.md" %}
-[chapitre-1.md](chapitre-1.md)
-{% endcontent-ref %}
-
 {% content-ref url="chapitre-2.md" %}
 [chapitre-2.md](chapitre-2.md)
 {% endcontent-ref %}
@@ -71,6 +67,6 @@ La stratégie de déploiement repose sur quelques principes clés :
 [reseaux-sociaux.md](reseaux-sociaux.md)
 {% endcontent-ref %}
 
-{% content-ref url="organiser-un-jeu-concours.md" %}
-[organiser-un-jeu-concours.md](organiser-un-jeu-concours.md)
+{% content-ref url="integrer-le-bouton-je-donne-mon-avis.md" %}
+[integrer-le-bouton-je-donne-mon-avis.md](integrer-le-bouton-je-donne-mon-avis.md)
 {% endcontent-ref %}

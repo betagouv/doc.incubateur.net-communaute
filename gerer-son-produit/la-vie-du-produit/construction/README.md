@@ -40,12 +40,58 @@ Vous allez probablement devoir nommer votre service assez rapidement, notamment 
 
 ## Kit de démarrage pour les coachs
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="broken-reference/" %}
+[broken-reference](broken-reference/)
 {% endcontent-ref %}
 
 {% content-ref url="3-retours-dexperience-de-coachs.md" %}
 [3-retours-dexperience-de-coachs.md](3-retours-dexperience-de-coachs.md)
+{% endcontent-ref %}
+
+## Kit de démarrage pour les biz devs <a href="#kit-de-demarrage" id="kit-de-demarrage"></a>
+
+Ces éléments visent à répondre aux questions que se pose un Business développer en arrivant sur une Startup d’État en **phase de construction**.
+
+<details>
+
+<summary>🧰 Kit de démarrage BizDev (phase de construction)</summary>
+
+L’objectif des premiers mois est d’**obtenir de l’usage** (servir vos premiers utilisateurs) et de mettre en place un pilotage simple pour décider quoi faire ensuite.
+
+**Faut-il mettre en place un CRM dès le début ?**
+
+Pas nécessairement. Tant que le volume de contacts est limité, un suivi **à la main** (tableur / kanban) est souvent plus rapide et plus robuste.\
+Le passage à un CRM devient pertinent quand le suivi devient difficile : relances, historique, étapes, ou quand plusieurs personnes contribuent au déploiement.
+
+**Le kit de démarrage (checklist)**
+
+* **Suivi des contacts** : un tableau/kanban avec une prochaine action claire.
+* **Traçage des actions** : tout lien partagé est traqué (UTM).
+* **Mesure** : suivi de l’origine et des comportements dans **Matomo**.
+* **Pilotage** : un dashboard simple (quelques métriques d’usage + acquisition) dans **Metabase**.
+* **Actions** : appels, relances, démos ; test de 1–2 canaux maximum (emailing via **Brevo**, webinaire, réseaux sociaux), en cycles courts.
+
+**Quelques grands principes**
+
+* Commencer simple : **pas d’usine à gaz** (outils et process suivent le besoin).
+* Démarche itérative : tester → mesurer → décider.
+* Le déploiement nourrit le produit : remonter les retours terrain et les irritants récurrents.
+
+**Demander de l’aide**
+
+Le démarrage est parfois inconfortable : ne restez pas bloqué·e
+
+* Posez vos questions et demandez des retours sur vos choix (cibles, canaux, CRM, tracking) sur le Mattermost, canal `#`domaine-bizdev..
+* En cas de doute sur une stratégie ou un arbitrage, demandez un **regard extérieur** (diagnostic : méthode, produit, ou moyens).
+
+</details>
+
+## La checklist de la phase de construction (à partir de 3 mois) <a href="#recruter-son-equipe" id="recruter-son-equipe"></a>
+
+## Kit de démarrage pour les biz devs <a href="#kit-de-demarrage" id="kit-de-demarrage"></a>
+
+{% content-ref url="../../../travailler-chez-beta.gouv.fr/les-differents-metiers/developpeur.se/kit-de-demarrage.md" %}
+[kit-de-demarrage.md](../../../travailler-chez-beta.gouv.fr/les-differents-metiers/developpeur.se/kit-de-demarrage.md)
 {% endcontent-ref %}
 
 ## La checklist de la phase de construction (à partir de 3 mois) <a href="#recruter-son-equipe" id="recruter-son-equipe"></a>
