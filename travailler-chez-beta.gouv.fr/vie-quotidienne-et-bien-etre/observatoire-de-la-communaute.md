@@ -56,6 +56,6 @@ Les résultats et l'analyse associés sont présentés tous les semestres lors d
 
 Voici le support de présentation pour la dernière enquête (_Avril 2025_)
 
-{% embed url="https://docs.google.com/presentation/d/1gqDiixGZVHa7zaPP0K92iyYbXFXexizmYkcLoyQKs0c/edit?usp=sharing" %}
+{% embed url="https://fichiers.numerique.gouv.fr/media/item/d20dee79-4c6a-4149-9be2-d6110c806a81/Climat%20de%20la%20communaute%CC%81%20-%20Novembre%202025%20%5BCOMPLET%5D.pptx" %}
 
 👋 Si tu as la moindre question à ce sujet, tu peux envoyer un mail à `contact@beta.gouv.fr.`
