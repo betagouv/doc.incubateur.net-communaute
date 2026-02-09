@@ -42,6 +42,11 @@ Canal de discussion dédié à Metabase sur mattermost : domaine-metabase
 * Il est recommandé d'exporter des données dédiées pour Metabase, anonymisées ou consolidées, dans une base dédiée et isolée de votre production.
 * Ajoutez la variable d’environnement `MB_ENCRYPTION_SECRET_KEY` à l’instance Metabase
 
+{% hint style="warning" %}
+* Pensez à bien connecter une base PostgreSQL pour persister votre config metabase. Ajoutez un addon "PostgreSQL" puis ajoutez la variable d'env `DATABASE_URL=$SCALINGO_POSTGRESQL_URL` a votre application
+* Vous pouvez ajouter un filtre oauth2-proxy devant votre metabase pour mieux le protéger, cf [exemple pour scalingo](https://github.com/betagouv/oauth2-deploy-demo)
+{% endhint %}
+
 #### Accès contrôlé
 
 Il est conseillé de créer des utilisateurs Postgres dédiés pour Metabase, et en `read-only`.
