@@ -154,13 +154,13 @@ Vous pouvez configurer le délai de synchronisation dans les paramètres, par ex
 
 ## Etape 4 : Récupérer/Importer ses anciens mails
 
-Il y a au moins deux façons d'improter ses anciens emails dans le compte suite numérique.
+Vous pouvez importer tous vos emails d'un coup avec l'outil [OVH Mail Migrator](https://omm.ovhcloud.com/en/) ou utiliser Thunderbird si vous souhaitez choisir plus précisément ce que vous souhaitez importer ou pas.
 
 ### 4.1 Avec l'outil "OVH Mail Migrator"
 
 Cet outil automatise entièrement l'importation des anciens messages.
 
-Crééz un compte sur https://omm.ovhcloud.com puis créez votre migration; Adaptez les informations comme indiqué ci-dessous et lancez la migration. Le système peut transférer jusqu'a 1000 messages par minute.
+Crééz un compte sur [https://omm.ovhcloud.com](https://omm.ovhcloud.com) puis créez votre migration; Adaptez les informations comme indiqué ci-dessous et lancez la migration. Le système peut transférer jusqu'a 1000 messages par minute.
 
 ![example](../../.gitbook/assets/omm-example.png)
 
