@@ -63,10 +63,8 @@ Ajoutez le nouveau compte email dans “Fichier”/“Paramètres de comptes” 
 | Sécurité de la connexion | SSL/TLS                                        |
 | **Serveur sortant**      |                                                |
 | Nom d’hôte               | smtp.beta.gouv.fr                              |
-| Port                     | 25 ou 587                                      |
-| Sécurité de la connexion | STARTTLS                                       |
-
-(certains fournisseurs (ex: Orange) bloquent le port 25, utiliser le port 587 le cas échéant)
+| Port                     | 465                                            |
+| Sécurité de la connexion | SSL/TLS                                        |
 
 **Ajouter le calendrier**
 
