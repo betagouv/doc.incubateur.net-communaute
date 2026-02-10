@@ -162,9 +162,11 @@ Cet outil automatise entièrement l'importation des anciens messages.
 
 Crééz un compte sur https://omm.ovhcloud.com puis créez votre migration; Adaptez les informations comme indiqué ci-dessous et lancez la migration. Le système peut transférer jusqu'a 1000 messages par minute.
 
-![](image)
+![example](../../.gitbook/assets/omm-example.png)
 
 ### 4.2 Avec Thunderbird
+
+Configurez déjà votre boite Suite numérique comme indiqué plus haut.
 
 #### 4.2.1 Importer ses anciens emails dans Thunderbird
 
