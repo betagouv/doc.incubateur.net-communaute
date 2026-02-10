@@ -193,7 +193,7 @@ Pour copier plus facilement de gros volumes:
 
  Une fois la copie terminée, vérifier que l'ancien et le nouveau dossier contiennent bien le même nombre de message.
 
-#### 4.4 Importer ses anciens mails dans Apple Mail
+#### 4.3 Importer ses anciens mails dans Apple Mail
 
 **Si vous utilisiez gmail**
 
@@ -215,7 +215,7 @@ Gmail utilise le protocole POP qui importe les mails sur Gmail et les supprime d
 
     <figure><img src="https://storage.gra.cloud.ovh.net/v1/AUTH_0f20d409cb2a4c9786c769e2edec0e06/padnumerique/uploads/5424e8a0-b72e-44f1-b46b-6b5f0070559e.png" alt=""><figcaption></figcaption></figure>
 
-#### 4.5 Importer l'historique Calendrier dans Apple Calendrier
+#### 4.4 Importer l'historique Calendrier dans Apple Calendrier
 
 **Si vous utilisiez Gmail**
 
@@ -230,7 +230,7 @@ Gmail utilise le protocole POP qui importe les mails sur Gmail et les supprime d
   * [ ] Cliquez sur votre calendrier beta.gouv
   * [ ] Allez dans la barre en haut => fichier => importer
 
-#### 4.6 Importer l’agenda OpenXchange dans un client tiers
+#### 4.5 Importer l’agenda OpenXchange dans un client tiers
 
 Depuis OpenXchange, au moment de partager l'agenda, envoyer une invitation à l’adresse email destinataire.
 
