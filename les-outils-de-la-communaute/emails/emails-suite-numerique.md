@@ -154,15 +154,21 @@ Vous pouvez configurer le délai de synchronisation dans les paramètres, par ex
 
 ## Etape 4 : Récupérer/Importer ses anciens mails
 
-Cette option n’est possible qu’en passant par un client lourd.
+Vous pouvez importer tous vos emails d'un coup avec l'outil [OVH Mail Migrator](https://omm.ovhcloud.com/en/) ou utiliser Thunderbird si vous souhaitez choisir plus précisément ce que vous souhaitez importer ou pas.
 
-#### 4.1 Récupérer les informations de son précédent compte email
+### 4.1 Avec l'outil "OVH Mail Migrator"
 
-Connecter vous sur votre espace membre. Aller dans "compte" => "configurer ton email beta".
+Cet outil automatise entièrement l'importation des anciens messages.
 
-Récupérer le nom du serveur et le port IMAP indiqués
+Crééz un compte sur [https://omm.ovhcloud.com](https://omm.ovhcloud.com) puis créez votre migration; Adaptez les informations comme indiqué ci-dessous et lancez la migration. Le système peut transférer jusqu'a 1000 messages par minute.
 
-#### 4.2 Importer ses anciens emails dans Thunderbird
+![example](../../.gitbook/assets/omm-example.png)
+
+### 4.2 Avec Thunderbird
+
+Configurez déjà votre boite Suite numérique comme indiqué plus haut.
+
+#### 4.2.1 Importer ses anciens emails dans Thunderbird
 
 Vous pouvez copier vos anciens mails vers votre nouveau compte numerique.gouv.fr en utilisant sur desktop un logiciel comme [Thunderbird](https://www.thunderbird.net/fr/).
 
@@ -178,7 +184,7 @@ Il vous suffit ensuite de copier ou déplacer les messages vers votre nouvelle b
 
 ![](https://storage.gra.cloud.ovh.net/v1/AUTH_0f20d409cb2a4c9786c769e2edec0e06/padnumerique/uploads/d6e54bac-018c-4b8d-b241-cd855bed8d30.png)
 
-##### 4.2.1 Astuces
+##### 4.2.2 Astuces
 
 Pour copier plus facilement de gros volumes:
 
@@ -187,7 +193,7 @@ Pour copier plus facilement de gros volumes:
 
  Une fois la copie terminée, vérifier que l'ancien et le nouveau dossier contiennent bien le même nombre de message.
 
-#### 4.4 Importer ses anciens mails dans Apple Mail
+#### 4.3 Importer ses anciens mails dans Apple Mail
 
 **Si vous utilisiez gmail**
 
@@ -209,7 +215,7 @@ Gmail utilise le protocole POP qui importe les mails sur Gmail et les supprime d
 
     <figure><img src="https://storage.gra.cloud.ovh.net/v1/AUTH_0f20d409cb2a4c9786c769e2edec0e06/padnumerique/uploads/5424e8a0-b72e-44f1-b46b-6b5f0070559e.png" alt=""><figcaption></figcaption></figure>
 
-#### 4.5 Importer l'historique Calendrier dans Apple Calendrier
+#### 4.4 Importer l'historique Calendrier dans Apple Calendrier
 
 **Si vous utilisiez Gmail**
 
@@ -224,7 +230,7 @@ Gmail utilise le protocole POP qui importe les mails sur Gmail et les supprime d
   * [ ] Cliquez sur votre calendrier beta.gouv
   * [ ] Allez dans la barre en haut => fichier => importer
 
-#### 4.6 Importer l’agenda OpenXchange dans un client tiers
+#### 4.5 Importer l’agenda OpenXchange dans un client tiers
 
 Depuis OpenXchange, au moment de partager l'agenda, envoyer une invitation à l’adresse email destinataire.
 
