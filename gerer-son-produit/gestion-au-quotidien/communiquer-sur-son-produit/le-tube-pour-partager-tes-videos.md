@@ -18,15 +18,11 @@ Il te suffit de cliquer sur ce lien : [tube.numerique.gouv.fr](https://tube.nume
 
 Tu as besoin d'héberger une vidéo ? Tu veux mettre en ligne ta démo produit ?
 
-Deux options selon les besoins de ton produit :
-
-
+Deux options sont possibles selon tes besoins :
 
 * **Créer la chaîne de ton produit**
 
-Si tu souhaites gagner en visibilité et disposer d’une alternative concrète aux plateformes vidéo, tu peux demander à ce qu’on te crée une chaîne. Tu pourras y diffuser l’ensemble de tes contenus : informations, formations et promotions liées à tes produits. Pour cela, il te suffit de contacte [julien.bouquillon](https://app.gitbook.com/u/xBZE5KcW76U8ml6TJXfpwzFuVDq1 "mention")&#x20;
-
-
+Si tu souhaites gagner en visibilité et disposer d’une alternative concrète aux plateformes vidéo, tu peux demander à ce qu’on te crée une chaîne. Tu pourras y diffuser l’ensemble de tes contenus : informations, formations et promotions liées à tes produits. Pour cela, il te suffit de contacter [julien.bouquillon](https://app.gitbook.com/u/xBZE5KcW76U8ml6TJXfpwzFuVDq1 "mention")&#x20;
 
 * **Diffuser tes vidéos via la chaîne** [**beta.gouv.fr**](https://tube.numerique.gouv.fr/c/animation_beta/videos)
 
