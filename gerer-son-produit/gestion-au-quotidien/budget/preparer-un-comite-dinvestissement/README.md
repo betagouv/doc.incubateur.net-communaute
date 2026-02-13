@@ -34,6 +34,8 @@ ou ici: [https://docs.google.com/presentation/d/1G5BelbjkStXFgrHtoC5SneEx87RoiSD
 N'oubliez pas de remplacer le logo avec celui de votre administration, ainsi que la mention DINUM par celle de votre administration.
 {% endhint %}
 
+{% file src="../../../../.gitbook/assets/Trame Comité Investissement.pdf" %}
+
 ## Ce qui sera attendu sur la forme <a href="#ce-qui-sera-attendu-sur-la-forme" id="ce-qui-sera-attendu-sur-la-forme"></a>
 
 ### Qui l'organise ?
