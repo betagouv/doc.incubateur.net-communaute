@@ -10,7 +10,7 @@ Le comité d'investissement est l'instance de pilotage principal d'un produit nu
 
 **Si le service n'a pas réussi à prouver son utilité ou sa pertinence, c'est donc au comité d'investissement qu'est décidé son arrêt ; ou au contraire, si les résultats du service sont particulièrement probants, le comité d'investissement peut statuer sur le renforcement des moyens, son accélération ou sa pérennisation.**
 
-Au-delà du pilotage régulier par l’impact, le comité revêt d’autres fonctions :&#x20;
+Au-delà du pilotage régulier par l’impact, le comité revêt d’autres fonctions :
 
 * rappeler et sensibiliser à la démarche les directions générales tout en les impliquant dans la décision ;
 * engager les sponsors de proximité et leur permettre de confirmer les orientations et les attentes en termes d'impact ;
@@ -28,7 +28,9 @@ Modèle de présentation pour comité d'investissement avec les essentiels
 {% endembed %}
 
 {% hint style="success" %}
-Le fichier est disponible directement ici https://docs.google.com/presentation/d/1G5BelbjkStXFgrHtoC5SneEx87RoiSDCp6LUyTFd3xA/edit?usp=sharing
+Le fichier est disponible directement ici : [https://fichiers.numerique.gouv.fr/explorer/items/files/4069a824-ebaf-43cb-8eb5-86ec87dea840](https://fichiers.numerique.gouv.fr/explorer/items/files/4069a824-ebaf-43cb-8eb5-86ec87dea840)\
+ou ici: [https://docs.google.com/presentation/d/1G5BelbjkStXFgrHtoC5SneEx87RoiSDCp6LUyTFd3xA/edit?usp=sharing](https://docs.google.com/presentation/d/1G5BelbjkStXFgrHtoC5SneEx87RoiSDCp6LUyTFd3xA/edit?usp=sharing) \
+\
 N'oubliez pas de remplacer le logo avec celui de votre administration, ainsi que la mention DINUM par celle de votre administration.
 {% endhint %}
 
