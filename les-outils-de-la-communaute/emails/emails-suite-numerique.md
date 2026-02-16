@@ -12,7 +12,7 @@ Votre espace-membre vous indique l'offre actuellement associée à votre compte 
 Pour les comptes encore OVH, référez-vous à la [`page de l'offre OVH`](./).
 {% endhint %}
 
-Si vous rencontrez un problème, rendez-vous sur [le salon Tchap “Support messagerie mail Open-Xchange”](https://tchap.gouv.fr/#/room/#support-messagerie:agent.dinum.tchap.gouv.fr) .
+Si vous rencontrez un problème, rendez-vous sur [le salon Tchap “Support messagerie mail Open-Xchange”](https://tchap.gouv.fr/#/room/!GJImyVjXQkwmICmwWg:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr) .
 
 > ⚠️ Attention : seuls le webmail et les clients lourds “Apple mail” et “Thunderbird” bénéficieront d’un support. L’utilisation de client comme gmail ou outlook en ligne est interdite pour des problèmes de souveraineté.
 
