@@ -55,19 +55,17 @@ description: >-
 
 [\~incubateur-entraide-communauté ](https://mattermost.incubateur.net/betagouv/channels/incubateur-help)_Pose toutes les questions que tu n’oserais pas poser ailleurs et pour lesquelles tu n'as pas trouvé de réponse dans la documentation. Fais une bonne action en aidant quelqu'un. 👼_
 
+[\~incubateur-secretariat](https://mattermost.incubateur.net/betagouv/channels/incubateur-secretariat) Pour créer, gérer et supprimer ses listes de diffusion
+
 [\~bureaux-segur](https://mattermost.incubateur.net/betagouv/channels/bureaux-segur) _Questions relatives à l'accès aux bureaux de la DINUM et au cadre de travail_
 
 [\~bureaux-betalyon](https://mattermost.incubateur.net/betagouv/channels/bureaux-betalyon) _Pour travailler dans les bureaux de Lyon_
-
-[\~incubateur-compta](https://mattermost.incubateur.net/betagouv/channels/incubateur-compta) _Parler de conventions, devis, bons de commande_
 
 [\~domaine-indeps](https://mattermost.incubateur.net/betagouv/channels/domaine-indeps) _Questions relatives au statut d'indépendant_
 
 ### Les canaux de com externe et interne
 
 **Échanges pour utiliser les outils de communication transverses et proposer des actions de com**
-
-[\~incubateur-twitter](https://mattermost.incubateur.net/betagouv/channels/incubateur-twitter)
 
 [\~incubateur-com-linkedin](https://mattermost.incubateur.net/betagouv/channels/tmp-atteindre-20000-followers-linkedin)
 
@@ -84,8 +82,6 @@ description: >-
 [\~general📢](https://mattermost.incubateur.net/betagouv/channels/town-square) _Véritable place publique pour le partage d'informations utiles au plus grand nombre._
 
 [\~incubateur-animation](https://mattermost.incubateur.net/betagouv/channels/incubateur-animation) _Activités des personnes et équipes qui s’investissent dans l’animation de la communauté beta_
-
-[\~incubateur-communauteXP](https://mattermost.incubateur.net/betagouv/channels/incubateur-communautexp) _S'engager dans des actions transverses pour la communauté_
 
 [\~incubateur-formations](https://mattermost.incubateur.net/betagouv/channels/incubateur-formations) _S'informer sur les formations proposées par la communauté à venir_
 
