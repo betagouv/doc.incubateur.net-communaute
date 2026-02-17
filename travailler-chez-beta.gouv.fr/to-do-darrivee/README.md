@@ -127,4 +127,4 @@ Tu peux la consulter en version documentation juste ici 👇.
 
 * [ ] Tu peux continuer à t'investir dans la communauté que ce soit en revenant aux forums, aux clubs ou en participant aux d'autres activités transverses 👉 [c'est par ici](../../solliciter-et-contribuer-a-la-communaute/je-contribue-a-la-communaute-to-do/)
 
-Si tu as la moindre question, utilise 🔒`#incubateur-help` ou envoie un mail à `contact@beta.gouv.fr.`
+Si tu as la moindre question, utilise 🔒[`#incubateur-entraide-communauté`](https://mattermost.incubateur.net/betagouv/channels/incubateur-help)ou envoie un mail à `contact@beta.gouv.fr.`
