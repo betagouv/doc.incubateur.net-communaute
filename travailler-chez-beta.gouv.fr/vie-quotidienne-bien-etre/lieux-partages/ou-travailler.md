@@ -44,11 +44,6 @@ Il arrive que des places soient inoccupées dans les locaux du [GIP Plateforme d
 
 Faire une demande sur le canal Mattermost [\~gip-inclusion-locaux](https://mattermost.incubateur.net/betagouv/channels/gip-inclusion-locaux), pour voir s'il reste de la place et qui sera là pour vous ouvrir.
 
-### [Le LAB National de Pôle emploi](https://www.lelab.pole-emploi.fr/)
-
-22 allée Darius Milhaud, 75019 Paris
-
-lelab.00174@pole-emploi.fr
 
 ### 6-LAB, activateur à projet des Ministères sociaux
 
