@@ -40,7 +40,7 @@ N'oubliez pas de remplacer le logo avec celui de votre administration, ainsi que
 
 ### Qui l'organise ?
 
-Le comité est organisé par l’intra avec l’aide de son équipe. L'[équipe d'animation de beta.gouv.fr](../../../../decouvrir-beta.gouv.fr/incubateur-de-la-dinum/lequipe-danimation-beta.gouv.fr.md) et/ou le ou la responsable d'incubateur peuvent faciliter l'organisation.
+Le comité est organisé par l’intra avec l’aide de son équipe. L'[équipe d'animation de beta.gouv.fr](/broken/pages/GWUOBMwWQvNLmlpsFi5T) et/ou le ou la responsable d'incubateur peuvent faciliter l'organisation.
 
 Les incubateurs sont garants de l'organisation de comités d'investissement pour l’ensemble des produits numériques qu'ils incubent.\
 \

@@ -9,7 +9,7 @@ Pour demander un devis à un titulaire, votre besoin doit impérativement et san
 Une Startup d'Etat :
 
 * dispose systématiquement d'une fiche produit sur le site beta.gouv.fr, référencée sur [beta.gouv.fr/startups](https://beta.gouv.fr/startups/) ;
-* est obligatoirement rattachée à un des incubateurs du réseau beta.gouv qui dispose d'une convention de partenariat avec la DINUM, ou à défaut d'incubateur, est rattachée à l'[incubateur de la DINUM](../../../../decouvrir-beta.gouv.fr/incubateur-de-la-dinum/) (en général, cela se matérialise par une convention de partenariat entre l'administration porteuse et la DINUM) ;
+* est obligatoirement rattachée à un des incubateurs du réseau beta.gouv qui dispose d'une convention de partenariat avec la DINUM, ou à défaut d'incubateur, est rattachée à l'[incubateur de la DINUM](../../../../decouvrir-beta.gouv.fr/incubateur-de-la-dinum.md) (en général, cela se matérialise par une convention de partenariat entre l'administration porteuse et la DINUM) ;
 * est composée d'une équipe qui s'engage à suivre le manifeste beta.gouv ;
 * est en phase de construction, d'accélération ou de transfert/consolidation.
 
@@ -21,7 +21,7 @@ Chaque Startup d'Etat débute par une [phase d'investigation](https://beta.gouv.
 
 **Quelles sont les informations à fournir au titulaire à chaque nouveau besoin ?**
 
-Pour les besoins faisant suite à une phase d'investigation validant le passage en phase de construction, vous devez fournir une [fiche de fin d'invesgation](https://beta.gouv.fr/content/docs/grille\_lancement.pdf). Pour les autres besoins en phase de construction, d'accélération ou de transfert, vous devez systématiquement fournir le lien vers la fiche produit disponible sur le site de beta.gouv.
+Pour les besoins faisant suite à une phase d'investigation validant le passage en phase de construction, vous devez fournir une [fiche de fin d'invesgation](https://beta.gouv.fr/content/docs/grille_lancement.pdf). Pour les autres besoins en phase de construction, d'accélération ou de transfert, vous devez systématiquement fournir le lien vers la fiche produit disponible sur le site de beta.gouv.
 
 #### B. Mon besoin ne concerne pas une Startup d'Etat <a href="#b.-mon-besoin-ne-concerne-pas-une-startup-detat" id="b.-mon-besoin-ne-concerne-pas-une-startup-detat"></a>
 

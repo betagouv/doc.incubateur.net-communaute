@@ -2,12 +2,12 @@
 
 ## Les ressources transverses mises à disposition du réseau beta.gouv.fr
 
-Si votre service numérique fait partie du réseau beta.gouv.fr, vous avez accès à une offre transverse, principalement fournie grâce à l'[équipe d'animation du programme beta.gouv.fr.](../../decouvrir-beta.gouv.fr/incubateur-de-la-dinum/lequipe-danimation-beta.gouv.fr.md)
+Si votre service numérique fait partie du réseau beta.gouv.fr, vous avez accès à une offre transverse, principalement fournie grâce à l'[équipe d'animation du programme beta.gouv.fr.](/broken/pages/GWUOBMwWQvNLmlpsFi5T)
 
 ### Aides financières
 
-* **financement des investigations** (environ 15k€ / investigation), à condition d'avoir identifié un problème à investiguer, et de mobiliser sponsor et intrapreneur. Pour déclencher ce ticket, contactez un membre de [l'équipe d'animation de beta.gouv.fr](../../decouvrir-beta.gouv.fr/incubateur-de-la-dinum/lequipe-danimation-beta.gouv.fr.md).
-* **financement de l'accompagnement à la pérennisation / au transfert des produits** (environ 30k€ / produit), à la condition de justifier que le produit a un intérêt interministériel ou qu'il est susceptible de devenir un [service numérique à impact national](../../decouvrir-beta.gouv.fr/limpact-du-programme-beta.gouv.fr/services-numeriques-a-impact-national.md). Pour déclencher ce ticket, contactez un membre de l'[équipe d'animation de beta.gouv.fr](../../decouvrir-beta.gouv.fr/incubateur-de-la-dinum/lequipe-danimation-beta.gouv.fr.md).
+* **financement des investigations** (environ 15k€ / investigation), à condition d'avoir identifié un problème à investiguer, et de mobiliser sponsor et intrapreneur. Pour déclencher ce ticket, contactez un membre de [l'équipe d'animation de beta.gouv.fr](/broken/pages/GWUOBMwWQvNLmlpsFi5T).
+* **financement de l'accompagnement à la pérennisation / au transfert des produits** (environ 30k€ / produit), à la condition de justifier que le produit a un intérêt interministériel ou qu'il est susceptible de devenir un [service numérique à impact national](../../decouvrir-beta.gouv.fr/limpact-du-programme-beta.gouv.fr/services-numeriques-a-impact-national.md). Pour déclencher ce ticket, contactez un membre de l'[équipe d'animation de beta.gouv.fr](/broken/pages/GWUOBMwWQvNLmlpsFi5T).
 * **cofinancement de l'accélération de votre service** via les appels réguliers du Fonds d'accélération des Startups d'État (FAST) : plus d'informations [sur la page FAST](../../gerer-son-produit/la-vie-du-produit/acceleration/fonds-dacceleration-des-startups-detat.md).
 
 ### Aide transverse
@@ -18,8 +18,8 @@ Si votre service numérique fait partie du réseau beta.gouv.fr, vous avez accè
 [mise-en-conformite-rgpd-et-conseil-juridique.md](mise-en-conformite-rgpd-et-conseil-juridique.md)
 {% endcontent-ref %}
 
-* **Accompagnement sécurité** : atelier homologation de sécurité, aide ponctuelle. Pour déclencher cet accompagnement, contactez un membre de [l'équipe d'animation de beta.gouv.fr](../../decouvrir-beta.gouv.fr/incubateur-de-la-dinum/lequipe-danimation-beta.gouv.fr.md).
-* **Entraînement aux comités d'investissement, démos , accompagnement stratégique sur des sujets complexes** (blocages administratifs ou politiques, structuration d'un incubateur, montée d'une gouvernance complexe pour une Startup d'Etat). Pour déclencher cet accompagnement, contactez un membre de l'[équipe d'animation de beta.gouv.fr](../../decouvrir-beta.gouv.fr/incubateur-de-la-dinum/lequipe-danimation-beta.gouv.fr.md).
+* **Accompagnement sécurité** : atelier homologation de sécurité, aide ponctuelle. Pour déclencher cet accompagnement, contactez un membre de [l'équipe d'animation de beta.gouv.fr](/broken/pages/GWUOBMwWQvNLmlpsFi5T).
+* **Entraînement aux comités d'investissement, démos , accompagnement stratégique sur des sujets complexes** (blocages administratifs ou politiques, structuration d'un incubateur, montée d'une gouvernance complexe pour une Startup d'Etat). Pour déclencher cet accompagnement, contactez un membre de l'[équipe d'animation de beta.gouv.fr](/broken/pages/GWUOBMwWQvNLmlpsFi5T).
 * **Accompagnement en accessibilité** : audit d'accessibilité ou de contenu, aide à la mise en place de tests techniques avec le [pôle Numérique Inclusif](aide-transverse-pole-numerique-inclusif.md)
 * **Accompagnement sur des expertises spécifiques**
 
@@ -35,8 +35,8 @@ Si votre service numérique fait partie du réseau beta.gouv.fr, vous avez accè
 [piloter-sa-croissance-et-evaluer-son-impact.md](piloter-sa-croissance-et-evaluer-son-impact.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../decouvrir-beta.gouv.fr/incubateur-de-la-dinum/lequipe-danimation-beta.gouv.fr.md" %}
-[lequipe-danimation-beta.gouv.fr.md](../../decouvrir-beta.gouv.fr/incubateur-de-la-dinum/lequipe-danimation-beta.gouv.fr.md)
+{% content-ref url="/broken/pages/GWUOBMwWQvNLmlpsFi5T" %}
+[Broken link](/broken/pages/GWUOBMwWQvNLmlpsFi5T)
 {% endcontent-ref %}
 
 ## Comment a été construite l'aide transverse beta.gouv.fr ?

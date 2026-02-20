@@ -2,7 +2,7 @@
 
 ## Guide de l'approche produit
 
-Un guide de l'approche produit est proposé par beta.gouv. Si vous souhaitez organiser une formation pour les équipes de votre administration, contactez [l'équipe d'animation du programme](../../decouvrir-beta.gouv.fr/incubateur-de-la-dinum/lequipe-danimation-beta.gouv.fr.md) !
+Un guide de l'approche produit est proposé par beta.gouv. Si vous souhaitez organiser une formation pour les équipes de votre administration, contactez [l'équipe d'animation du programme](/broken/pages/GWUOBMwWQvNLmlpsFi5T) !
 
 {% embed url="https://docs.google.com/presentation/d/1VeElmh21dOXR4t8vD8i0CXFEKSJFFknmLS664pXA60I/edit?usp=sharing" %}
 Présentation de l'approche produit
@@ -22,7 +22,7 @@ Digital Government, Public Innovation, Post New Public Management.
 
 Alexandra FOUCAUD, 2017. London School of Economics.
 
-#### Modernisation de l'action publique par le numérique
+**Modernisation de l'action publique par le numérique**
 
 [**The Development of eServices in an Enlarged EU: eGovernment and eHealth in Estonia**](http://ipts.jrc.ec.europa.eu/publications/pub.cfm?id=1559).
 
@@ -37,7 +37,7 @@ Quelques éléments de compréhension, ainsi que des références éparpillées 
 * [https://speakerdeck.com/mattisg/action-publique-et-numerique](https://speakerdeck.com/mattisg/action-publique-et-numerique)
 * [https://speakerdeck.com/mattisg/openness-and-platform-state-through-state-startups](https://speakerdeck.com/mattisg/openness-and-platform-state-through-state-startups)
 
-#### Agilité et numérique
+**Agilité et numérique**
 
 * Boehm, Barry et Turner, Richard. 2003. [People factors in software management: lessons from comparing agile and plan-driven methods](http://sunset.usc.edu/csse/TECHRPTS/2003/usccse2003-517/usccse2003-517.pdf). The Journal of Defense Software Engineering, vol. 16, n° 12, pp. 4-8.
 * Charette, Robert N. 2005. [Why Software Fails](http://www.spectrum.ieee.org/print/1685). IEEE Spectrum.
@@ -45,7 +45,7 @@ Quelques éléments de compréhension, ainsi que des références éparpillées 
 * Jørgensen, Magne. 2016. [A Survey on the Characteristics of Projects with Success in Delivering Client Benefits](https://www.simula.no/publications/survey-characteristics-projects-success-delivering-client-benefits). Information and Software Technology, vol. 78, pp. 83-94.
 * Schneider, Matti. 2012. [Partage de représentations et ritualisation au sein d’une équipe de développement logiciel agile](https://mattischneider.fr/anthropologie/agile/thesis/). Master 2 d’Anthropologie Cognitive et Sociale, mention Nature et Forme de la Coopération.
 
-#### Références étrangères
+**Références étrangères**
 
 🍁 [Guide de la conception de services numériques de l'Ontario](https://www.ontario.ca/fr/page/guide-de-la-conception-de-service)
 
