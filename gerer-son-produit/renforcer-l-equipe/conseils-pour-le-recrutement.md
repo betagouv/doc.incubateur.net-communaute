@@ -139,7 +139,15 @@ Lorsqu'une nouvelle personne vient travailler avec vous, elle participe aussi à
 
 ### Phase 5 : Comparer et faire le bon choix parmi les profils
 
-Afin de faire un choix rationnel parmi les candidats que tu as rencontrés, nous te proposons d'utiliser une [matrice de pondération](https://grist.numerique.gouv.fr/o/isn/gBv9SB9qWfMn/Matrice-de-ponderation-selection-dun-prestataire). Cet outil te permet de positionner factuellement les candidats avec le cadrage que tu as effectué en début de processus. Tu évalues et surtout compares les profils vis-à-vis des compétences clés que tu as défini au départ.
+Afin de faire un choix rationnel parmi les candidats que tu as rencontrés, il suffit de faire les sommes d'atteinte des critères par les prestataires.&#x20;
+
+Exemple pour le critère _La personne est capable de \[verbe + objet + contexte] de_ 🔴pondération maximale. Si le candidat prestataire valide ce critère il obtient 3 points.
+
+S'il vérifie un critère de 🟠pondération moyenne il obtient 2 points, et pour un critère à 🟡pondération basse il obtient 1 point. Un critère non validé (même partiellement) donne 0 point. Ainsi la somme de tous les critères validés donne le score total. Si un critère obligatoire est non validé, le candidat ne peut pas être retenu.
+
+C'est la comparaison de tous ces scores qui permet de faire un choix rationnel.
+
+Pour les plus aguerris à une évaluation fine de leur critères, nous te proposons d'utiliser une [matrice de pondération](https://grist.numerique.gouv.fr/o/isn/gBv9SB9qWfMn/Matrice-de-ponderation-selection-dun-prestataire). Cet outil te permet de positionner factuellement les candidats avec le cadrage que tu as effectué en début de processus. Tu évalues et surtout compares les profils vis-à-vis des compétences clés que tu as défini au départ.
 
 Pour utiliser le fichier il faut que tu indiques une évaluation de la compétence de 1 à 3 pour chaque candidat à partir de tes fiches d'entretien (3 étant le score le plus important). Ensuite tu indiques une pondération de 1 à 3, à partir de ta fiche de cadrage (3 étant la pondération la plus importante). Enfin, les formules sont indiquées ainsi afin d'être lisibles. Il convient d'enlever les "espaces" pour les rendre fonctionnelles.
 
