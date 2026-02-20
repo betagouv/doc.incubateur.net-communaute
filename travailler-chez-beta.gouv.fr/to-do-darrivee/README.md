@@ -79,7 +79,7 @@ Tu peux la consulter en version documentation juste ici 👇.
 
 **Si tu es chargé(e) de déploiement/bizdev**
 
-* [ ] Participer à [l'embarquement bizdev](https://airtable.com/appebTa6XsY6fDixm/shr5Uaqje8eV9BabU)
+* [ ] Participer à [l'embarquement bizdev](https://espace-membre.incubateur.net/formations?filter=Nouveaux+membres)
 
 **Si tu es coach**
 
@@ -97,19 +97,19 @@ Tu peux la consulter en version documentation juste ici 👇.
 | Fabrique numérique des Affaires sociales   | [site internet ](https://www.fabrique.social.gouv.fr)- [documentation technique](https://github.com/SocialGouv/www/wiki/Social-Gouv-Tech-Welcome-Pack-%F0%9F%96%96)            |
 | Fabrique numérique de l'Écologie           | [documentation](https://fabrique-numerique.gitbook.io/guide/)                                                                                                                  |
 | Incubateur de l'ANSSI                      |                                                                                                                                                                                |
+| Incubateur des Services Numériques du MASA | [documentation](https://incubateur-agriculture.beta.gouv.fr/pr%C3%A9sentation-de-la-ruche/appel-a-intra/guide-du-candidat-1/)                                                  |
 | Fabrique numérique des Armées              |                                                                                                                                                                                |
 | Incubateur France Travail                  |                                                                                                                                                                                |
 | La Fabrique du Ministère de l'Intérieur    |                                                                                                                                                                                |
 | Incubateur du ministère de l'économie      |                                                                                                                                                                                |
 | Atelier numérique des affaires étrangères  |                                                                                                                                                                                |
-| Incubateur des Services Numériques du MASA | [documentation](https://incubateur-agriculture.beta.gouv.fr/pr%C3%A9sentation-de-la-ruche/appel-a-intra/guide-du-candidat-1/)                                                  |
 
 ### Le premier mois
 
 * [ ] Participer **obligatoirement** à la journée d'embarquement dédiée aux nouveaux membres lors du **forum mensuel** de beta.gouv.fr (l'invitation est/sera dans ta boite webmail 😉)
 * [ ] Participer à une session de **présentation de ton incubateur de rattachement**
-* [ ] Participer à toutes les sessions en visioconférence (45 minutes maximum) de **focus thématiques obligatoires** (les invitations sont/seront dans ta boite webmail 😉)
-  * [ ] \#1 BABa de l'administration : maîtrise les essentiels pour naviguer avec grâce dans les méandres de l’administration. A visionner [ici](https://tube.numerique.gouv.fr/w/dsQ331sxNjQkjCxaJCHhJF).
+* [ ] Participer aux **focus thématiques obligatoires** en visioconférence (les invitations sont/seront dans ta boite webmail 😉) ou en vidéo
+  * [ ] \#1 BABa de l'administration : maîtrise les essentiels pour naviguer aisément dans l’administration (env. 15min, à visionner [ici](https://tube.numerique.gouv.fr/w/dsQ331sxNjQkjCxaJCHhJF))
   * [ ] \#2 Feedback : pratique le feedback pour bien travailler avec des gens différents
   * [ ] \#3 RGPD & conformité : comment ne pas finir en prison quand on bosse sur un produit numérique
   * [ ] \#4 Déploiement et support : vends un produit gratuit et chéris tes utilisateurs et utilisatrices avec un service 5 étoiles
