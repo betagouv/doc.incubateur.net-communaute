@@ -74,7 +74,7 @@ Tu peux la consulter en version documentation juste ici 👇.
 **Si tu es développeuse ou développeur**
 
 * [ ] Lire le [kit de démarrage](../les-differents-metiers/developpeur.se/kit-de-demarrage.md)
-* [ ] Participer à l'[embarquement dev](https://airtable.com/shrUCbUT72KtKefsu) spécifique à ton rôle
+* [ ] Participer à l'[embarquement dev](https://espace-membre.incubateur.net/formations?filter=Nouveaux+membres%2CTech) spécifique à ton rôle
 * [ ] Rencontrer [les référents tech](../../gerer-son-produit/gestion-au-quotidien/tech/to-do-liens-avec-les-referents-techs.md) de l'incubateur associé à la start-up
 
 **Si tu es chargé(e) de déploiement/bizdev**
@@ -89,27 +89,27 @@ Tu peux la consulter en version documentation juste ici 👇.
 
 À l'exception des cas où ton administration de rattachement ne dispose pas encore de son propre incubateur (auquel cas tu es rattaché par défaut à l'[incubateur de la DINUM](https://doc.incubateur.net/communaute/decouvrir-beta.gouv.fr/les-incubateurs-du-reseau-beta.gouv.fr), nous t'invitons à découvrir les espaces de documentation spécifiques à chaque incubateur.
 
-| Nom de l'incubateur                       | Liens utiles                                                                                                                                                                   |
-| ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| ALLiaNCE - l'incubateur de l'IA           | [documentation](https://resana.numerique.gouv.fr/public/information/consulterAccessUrl?cle_url=1969184923B2sAZlBYWDMFOQU1BGhWcgZqBzVVdAY/Am0KbwJqDTUOOgI5B2MDNAxsXzleZA==)     |
-| Incubateur des territoires                | [site internet](https://incubateur.anct.gouv.fr)                                                                                                                               |
-| Atelier numérique de la culture           | [Découvrez l'incubateur](https://atelier-numerique.gitbook.io/atelier-numerique-le-guide/) + [documentation](https://atelier-numerique.gitbook.io/atelier-numerique-le-guide/) |
-| Fabrique numérique des Affaires sociales  | [site internet ](https://www.fabrique.social.gouv.fr)- [documentation technique](https://github.com/SocialGouv/www/wiki/Social-Gouv-Tech-Welcome-Pack-%F0%9F%96%96)            |
-| Fabrique numérique de l'Écologie          | [documentation](https://fabrique-numerique.gitbook.io/guide/)                                                                                                                  |
-| Incubateur de l'ANSSI                     |                                                                                                                                                                                |
-| Fabrique numérique des Armées             |                                                                                                                                                                                |
-| Incubateur France Travail                 |                                                                                                                                                                                |
-| La Fabrique du Ministère de l'Intérieur   |                                                                                                                                                                                |
-| Incubateur du ministère de l'économie     |                                                                                                                                                                                |
-| Atelier numérique des affaires étrangères |                                                                                                                                                                                |
-| Incubateur des Services Numériques du MASA| [documentation](https://incubateur-agriculture.beta.gouv.fr/pr%C3%A9sentation-de-la-ruche/appel-a-intra/guide-du-candidat-1/)                                                  |
+| Nom de l'incubateur                        | Liens utiles                                                                                                                                                                   |
+| ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ALLiaNCE - l'incubateur de l'IA            | [documentation](https://resana.numerique.gouv.fr/public/information/consulterAccessUrl?cle_url=1969184923B2sAZlBYWDMFOQU1BGhWcgZqBzVVdAY/Am0KbwJqDTUOOgI5B2MDNAxsXzleZA==)     |
+| Incubateur des territoires                 | [site internet](https://incubateur.anct.gouv.fr)                                                                                                                               |
+| Atelier numérique de la culture            | [Découvrez l'incubateur](https://atelier-numerique.gitbook.io/atelier-numerique-le-guide/) + [documentation](https://atelier-numerique.gitbook.io/atelier-numerique-le-guide/) |
+| Fabrique numérique des Affaires sociales   | [site internet ](https://www.fabrique.social.gouv.fr)- [documentation technique](https://github.com/SocialGouv/www/wiki/Social-Gouv-Tech-Welcome-Pack-%F0%9F%96%96)            |
+| Fabrique numérique de l'Écologie           | [documentation](https://fabrique-numerique.gitbook.io/guide/)                                                                                                                  |
+| Incubateur de l'ANSSI                      |                                                                                                                                                                                |
+| Fabrique numérique des Armées              |                                                                                                                                                                                |
+| Incubateur France Travail                  |                                                                                                                                                                                |
+| La Fabrique du Ministère de l'Intérieur    |                                                                                                                                                                                |
+| Incubateur du ministère de l'économie      |                                                                                                                                                                                |
+| Atelier numérique des affaires étrangères  |                                                                                                                                                                                |
+| Incubateur des Services Numériques du MASA | [documentation](https://incubateur-agriculture.beta.gouv.fr/pr%C3%A9sentation-de-la-ruche/appel-a-intra/guide-du-candidat-1/)                                                  |
 
 ### Le premier mois
 
 * [ ] Participer **obligatoirement** à la journée d'embarquement dédiée aux nouveaux membres lors du **forum mensuel** de beta.gouv.fr (l'invitation est/sera dans ta boite webmail 😉)
 * [ ] Participer à une session de **présentation de ton incubateur de rattachement**
 * [ ] Participer à toutes les sessions en visioconférence (45 minutes maximum) de **focus thématiques obligatoires** (les invitations sont/seront dans ta boite webmail 😉)
-  * [ ] \#1 BABa de l'administration : maîtrise les essentiels pour naviguer avec grâce dans les méandres de l’administration.
+  * [ ] \#1 BABa de l'administration : maîtrise les essentiels pour naviguer avec grâce dans les méandres de l’administration. A visionner [ici](https://tube.numerique.gouv.fr/w/dsQ331sxNjQkjCxaJCHhJF).
   * [ ] \#2 Feedback : pratique le feedback pour bien travailler avec des gens différents
   * [ ] \#3 RGPD & conformité : comment ne pas finir en prison quand on bosse sur un produit numérique
   * [ ] \#4 Déploiement et support : vends un produit gratuit et chéris tes utilisateurs et utilisatrices avec un service 5 étoiles
