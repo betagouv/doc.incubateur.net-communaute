@@ -1,10 +1,19 @@
+---
+description: Qu'est ce qu'un·e coach beta.gouv.fr ?
+---
+
 # Coach
+
+Les experts retenus en mission de coachs, peuvent être mobilisés par une administration :
+
+* En appui d’une ou de plusieurs Startups d’État ;
+* Pour la création et la croissance d’un incubateur de services numériques dédiés ;
+* Pour l’accompagnement des produits développés au sein d’un incubateur, notamment en vue de leur consolidation ;
+* En appui des responsables d‘incubateurs, en posture de conseil.
 
 ## À quoi ça sert une personne qui coache une startup d'État ?
 
-
-Extrait de l'appel d'offre « Accompagnement »
-
+Pour bien comprendre le cadre normatif, commençons par un extrait de l'appel d'offre « Accompagnement »
 
 > Pour démultiplier l’émergence de ces équipes et de leurs produits numériques au sein de l’administration, la DINUM doit être accompagnée par des experts issus de l’économie numérique au profil d’entrepreneurs, en capacité d’articuler objectifs stratégiques et mise en œuvre opérationnelle.
 >
@@ -18,28 +27,39 @@ Extrait de l'appel d'offre « Accompagnement »
 
 Il s'agit donc pour le ou la coach, d'**accompagner** et de **partager des savoir-faire**.
 
-Une [présentation](https://docs.google.com/presentation/d/12aEGovHBZYH-xeskRalvhPhGhDG971hibddiGj5f_AU/edit?usp=sharing) datant d'octobre 2020 cartographie les différentes nuances du rôle de coach chez beta.gouv.fr.
+👋 Cette [présentation](https://docs.google.com/presentation/d/12aEGovHBZYH-xeskRalvhPhGhDG971hibddiGj5f_AU/edit?usp=sharing) cartographie précisément les différentes nuances du rôle de coach chez beta.gouv.fr. Elle est **à lire absolument** par tout coach démarrant une prestation au sein du réseau.
 
 ## Quel est le niveau d'intervention d'une personne qui coache ?
 
-Les éléments partagés ici peuvent servir de référence et non de normes. Ils reflètent d'une part ce que nous avons observé chez beta.gouv.fr, d'autre part l'exigence d'éthique budgétaire liée à notre mission d'intérêt général. Ce document a une valeur indicative et pourra évoluer en fonction du marché et des retours des équipes.
+Les éléments partagés ici servent de référence et de normes. Ils reflètent d'une part ce que nous avons observé chez beta.gouv.fr, d'autre part l'exigence d'éthique budgétaire liée à notre mission d'intérêt général. Ce document a une valeur indicative et pourra évoluer en fonction du marché et des retours des équipes.
 
-Afin de maintenir un point de vue extérieur et le recul nécéssaire pour un coaching optimal, il est fortement recommandé de ne pas dépasser **un maximum de 2 ans de coaching par la même personne** sur un produit donné.  
+Afin de maintenir un point de vue extérieur et le recul nécéssaire pour un coaching optimal, il est obligatoire de ne pas dépasser **un maximum de 2 ans de coaching par la même personne** sur un produit donné.&#x20;
 
-| Phase                                                                        | Nombre de jours indicatifs sur la période | Nombre de jours indicatifs par semaine | Implication  | But                                                   |
-| ---------------------------------------------------------------------------- | ----------------------------------------- | -------------------------------------- | ------------ | ----------------------------------------------------- |
-| [Investigation](../../../gerer-son-produit/la-vie-du-produit/investigation/) | <p>10 à 15 jours</p><p>sur 9 semaines</p> | 1 à 2 jours                            | Régulière    | Accompagner l'intrapreneur(e) pour le rendre autonome |
-| [Construction](../../../gerer-son-produit/la-vie-du-produit/construction/)   | <p>25 à 40 jours</p><p>sur 6 mois</p>     | 1 à 1,5 jours                          | Décroissante | Accompagner l'équipe pour la rendre autonome          |
-| [Accélération](../../../gerer-son-produit/la-vie-du-produit/acceleration/)   | <p>15 à 25 jours</p><p>sur 6 mois</p>     | 1 à 1,5 jours                          | Décroissante | Accompagner l'équipe pour l'aider à accélérer         |
-| [Pérennisation](../../../gerer-son-produit/la-vie-du-produit/perennisation/) | <p>10 à 15 jours</p><p>sur 6 mois</p>     | 1 à 1,5 jours                          | Régulière    | Accompagner l'équipe et l'administration d'accueil    |
+⚠️ Si un coach dépasse les 2 ans de mission sur un même produit, sa mission doit être stoppée. Il peut ensuite être remplacé par un autre coach.
+
+Voici les usages en terme d'engagement pour un coach en fonction de la phase de la Start-up d'Etat :
+
+<table><thead><tr><th>Phase</th><th width="149">Nombre de jours indicatifs sur la période</th><th>Nombre de jours maximum par semaine</th><th>Implication</th><th>But</th></tr></thead><tbody><tr><td><a href="../../../gerer-son-produit/la-vie-du-produit/investigation/">Investigation</a></td><td><p>10 jours</p><p>sur 9 semaines</p></td><td>1 jour</td><td>Régulière</td><td>Accompagner l'intrapreneur(e) pour le rendre autonome</td></tr><tr><td><a href="../../../gerer-son-produit/la-vie-du-produit/construction/">Construction</a></td><td><p>25 jours</p><p>sur 6 mois</p></td><td>1 jour</td><td>Décroissante</td><td>Accompagner l'équipe pour la rendre autonome</td></tr><tr><td><a href="../../../gerer-son-produit/la-vie-du-produit/acceleration/">Accélération</a></td><td><p>25 jours</p><p>sur 6 mois</p></td><td>1 jour</td><td>Décroissante</td><td>Accompagner l'équipe pour l'aider à accélérer</td></tr><tr><td><a href="../../../gerer-son-produit/la-vie-du-produit/perennisation/">Pérennisation</a></td><td><p>15 jours</p><p>sur 6 mois</p></td><td>1 jour</td><td>Régulière</td><td>Accompagner l'équipe et l'administration d'accueil</td></tr></tbody></table>
 
 Une implication régulière signifie que le ou la coach sera présent de façon continue tout au long de la mission.
 
 Une implication décroissante signifie que le ou la coach sera de moins en moins présent tout au long de la mission.
 
+⚠️ **Le nombre de jour facturable maximum autorisé par semaine en tant que coach est de 1 jour strict.**
+
+Au delà de cet unique jour facturé par semaine, il ne s'agit plus d'une mission de coaching. Mais plutôt de product management, déploiement, ou autre. Cette pratique est autorisée, en revanche le TJM des jours complémentaires à celui de coaching doit être adapté à la mission.
+
+Pour fixer le bon TJM concernant les jours complémentaires, vous pouvez vous baser sur [l'observatoire des revenus](https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/les-differents-statuts/independants-freelances/observatoire-revenus#la-grille-indicative-des-tjm-observes).
+
 ## Comment définir le niveau d'intervention d'une personne qui coache ?
 
 Un échange entre le coach, l'intra et le/la responsable de portefeuille permet de définir le niveau d'intervention adaptée à la mission au regard du contexte, des attentes et des compétences de chacun.
+
+## Quelles sont les obligations d'une personne qui coache ?
+
+Comme tout nouveau membre de la communauté (et c'est encore plus vrai en l'espèce), un·e coach doit obligatoirement participer au [parcours d'embarquement](https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/to-do-darrivee). Sinon il·elle lui sera impossible de délivrer sa mission (cf. être garant.e de l'approche beta.gouv.fr).
+
+⚠️ Les coachs sont redevables de leurs livrables à la fois auprès de l’intrapreneur·e et de l’incubateur. Ils·elles doivent en assumer pleinement la responsabilité, être en mesure d’en rendre compte, et accepter d’être challengés par l’incubateur, qui en valide — ou non — la conformité et la qualité.
 
 ## Quelle différence avec un(e) responsable de produit ?
 
@@ -53,12 +73,13 @@ Le gestionnaire de produit est différent du coach car il conçoit avec l'équip
 
 Le rôle du coach au sein d’une startup d’État comprend, mais ne se limite pas à :
 
-* être garant de l’impact de l’équipe, l’aider à fixer des objectifs d’impact ;
-* aider à la mise en place d’une équipe, par le recrutement des développeurs, des chargés de déploiement, des designers ;
-* rechercher le chemin le plus court pour atteindre des premiers usages grandeur nature sans avoir “tout fini” ;
-* accompagner l’équipe pour toujours mettre les utilisateurs en priorité ;
-* travailler en binôme avec l’intra pour le préserver des réflexes et attentes du reste de la structure et qui pourraient nuire à l’objectif de mise en production en moins de 6 mois ;
-* être un appui dans l’organisation de l’équipe : médiation au sein de l’équipe et mise en place de rituels d’équipe.
+* Être garant·e du respect de l’approche, de la mise en oeuvre des obligations et standards beta.gouv.fr ;
+* Être garant·e de l’impact de l’équipe, l’aider à fixer des objectifs d’impact ;
+* Aider à la mise en place d’une équipe, par le recrutement des développeurs, des chargés de déploiement, des designers ;
+* Rechercher le chemin le plus court pour atteindre des premiers usages grandeur nature sans avoir “tout fini” ;
+* Accompagner l’équipe pour toujours mettre les utilisateurs en priorité ;
+* Travailler en binôme avec l’intra pour le préserver des réflexes et attentes du reste de la structure et qui pourraient nuire à l’objectif de mise en production en moins de 6 mois ;
+* Être un appui dans l’organisation de l’équipe : médiation au sein de l’équipe et mise en place de rituels d’équipe.
 
 Le coach doit s’adapter à la configuration de l’équipe qui dépend de l’engagement de l’intrapreneur et de la répartition des rôles. Son rôle, à terme, est de faire monter en compétences l’équipe pour lui permettre de s’autonomiser petit à petit (et non pas “faire à la place” de l’équipe). Il doit aussi maîtriser la culture de beta.gouv.fr ; la durée de son expérience en SET est fortement valorisée.
 
@@ -117,10 +138,14 @@ Rituels d’équipe (mise en place d’outils partagés (Trello, Airtable, etc),
 
 **Connaître la culture beta.gouv.fr**
 
-Être en mesure d’expliquer et de transmettre cette culture à l’intrapreneur et les nouveaux membres de l’équipe, s’impliquer au sein de la communauté.
+Être en mesure d’expliquer et de transmettre cette culture à l’intrapreneur·e et les nouveaux membres de l’équipe, s’impliquer au sein de la communauté.
 
 Aide pour acquérir cette compétence : participer [aux rituels et événements de la communauté](../../../decouvrir-beta.gouv.fr/la-communaute/les-rituels/).
 
+## **Quelles aides pour le coach ?**
 
+**Un·e coach ne peut pas tout faire**. Il est même parfois pertinent de choisir une aide extérieure pour prendre du recul sur les situations humaines critiques ou les prises de décision difficiles. En fonction des situations, un·e coach doit savoir passer la main.
+
+Pour répondre à cet enjeu, le [coaching RH (clinique des situations difficiles)](https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/vie-quotidienne-et-bien-etre/gerer-des-situations-comliquees/coaching-rh-clinique-des-situations-difficiles) est le bon support d'accompagnement. C'est un programme qui a pour objectif de donner aux intrapreneur·es des **clés concrètes** pour mieux gérer les situations collectives et améliorer le fonctionnement de leurs équipes.
 
 ***

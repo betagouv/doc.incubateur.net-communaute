@@ -19,6 +19,8 @@ Nous recommandons 5 étapes à suivre :
 5. Organiser une rencontre entre les coach de la promo d'investigation ;
 6. Proposer un mentor au nouveau coach.
 
+⚠️ En complément, et comme n'importe quel·le autre nouveau·elle membre de la communauté, le·a coach doit doit suivre obligatoirement le [parcours d'embarquement.](https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/to-do-darrivee)
+
 ## 1. Suivre le modèle de devis "besoin coach en investigation"
 
 {% hint style="info" %}
@@ -57,9 +59,9 @@ Ce document répond à quatre questions :
 
 Ce document peut être réalisé en asynchrone. Il est amendé et validé lors d'une discussion entre coach et responsable de portefeuille ou d'incubateur.
 
-## 5. Organiser une rencontre entre les coachs de la promo d'investigation&#x20;
+## 5. Organiser une rencontre entre les coachs de la promo d'investigation
 
-Objectifs :&#x20;
+Objectifs :
 
 * Rencontre entre les coachs d'une même promotion d'investigation
 * Présentation du fonctionnement de l'incubateur et de son environnement
