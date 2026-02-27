@@ -4,16 +4,16 @@ description: Qu'est ce qu'un·e coach beta.gouv.fr ?
 
 # Coach
 
-Les experts retenus en mission de coaching, peuvent être mobilisés par une administration :
+Les experts qui interviennent sur des missions de coaching peuvent être mobilisés par une administration :
 
-* En appui d’une ou de plusieurs Startups d’État ;
-* Pour la création et la croissance d’un incubateur de services numériques dédiés ;
-* Pour l’accompagnement des produits développés au sein d’un incubateur, notamment en vue de leur consolidation ;
-* En appui des responsables d‘incubateurs.
+* en appui d’une ou de plusieurs startups d’État ;
+* pour la création et la croissance d’un incubateur de services numériques ;
+* en accompagnement de produits développés au sein d’un incubateur, notamment en vue de leur consolidation ;
+* en appui des responsables d‘incubateurs.
 
 ## À quoi ça sert une personne qui coache une startup d'État ?
 
-Pour bien comprendre le cadre normatif, commençons par un extrait de du cahier des charges du marché « Mentorat et animation de communautés pour l’incubateur de services numériques de la DINUM et le réseau [beta.gouv.fr](http://beta.gouv.fr)» (lot 1)
+Pour bien comprendre le cadre normatif, commençons par un extrait du cahier des charges du marché « Mentorat et animation de communautés pour l’incubateur de services numériques de la DINUM et le réseau [beta.gouv.fr](http://beta.gouv.fr) » (lot 1)
 
 > Le premier lot a pour objectif d’aider la DINUM et ses partenaires à **accompagner, à travers des prestations de mentorat, les agents publics** en charge de services numériques publics pilotés en mode produit :&#x20;
 >
@@ -32,13 +32,13 @@ Il s'agit donc surtout pour le ou la coach de **faire avec** et **d'apprendre à
 
 Les éléments partagés ici servent de référence et de normes. Ils reflètent d'une part ce que nous avons observé chez beta.gouv.fr, d'autre part l'exigence d'éthique budgétaire liée à notre mission d'intérêt général. Ce document a une valeur indicative et pourra évoluer en fonction du marché et des retours des équipes.
 
-Afin de maintenir un point de vue extérieur et le recul nécéssaire pour un coaching optimal, il est obligatoire de ne pas dépasser **un maximum de 2 ans de coaching par la même personne** sur un produit donné.&#x20;
+Afin de maintenir un point de vue extérieur et le recul nécessaire pour un accompagnement optimal, il est obligatoire de ne pas dépasser **un maximum de 2 ans de coaching par la même personne** sur un produit.&#x20;
 
 ⚠️ Si un coach dépasse les 2 ans de mission sur un même produit, sa mission doit être stoppée (hors cas particulier, comme l'absence d'intrapreneur·e). Il peut ensuite être remplacé par un autre coach.
 
-Voici les usages en terme d'engagement pour un coach en fonction de la phase de la Start-up d'Etat :
+Voici les usages en terme d'engagement pour un coach en fonction de la phase de la startup d'État :
 
-<table><thead><tr><th>Phase</th><th width="149">Nombre de jours indicatifs sur la période</th><th>Nombre de jours maximum par semaine</th><th>Implication</th><th>But</th></tr></thead><tbody><tr><td><a href="../../../gerer-son-produit/la-vie-du-produit/investigation/">Investigation</a></td><td><p>10 jours à 20 jours</p><p>sur 9 semaines</p></td><td>2 jours</td><td>Régulière</td><td>Accompagner l'intrapreneur(e) pour le rendre autonome</td></tr><tr><td><a href="../../../gerer-son-produit/la-vie-du-produit/construction/">Construction</a></td><td><p>25 jours</p><p>sur 6 mois</p></td><td>1 jour</td><td>Décroissante</td><td>Accompagner l'équipe pour la rendre autonome</td></tr><tr><td><a href="../../../gerer-son-produit/la-vie-du-produit/acceleration/">Accélération</a></td><td><p>25 jours</p><p>sur 6 mois</p></td><td>1 jour</td><td>Décroissante</td><td>Accompagner l'équipe pour l'aider à accélérer</td></tr><tr><td><a href="../../../gerer-son-produit/la-vie-du-produit/perennisation/">Pérennisation</a></td><td><p>15 jours</p><p>sur 6 mois</p></td><td>1 jour</td><td>Régulière</td><td>Accompagner l'équipe et l'administration d'accueil</td></tr></tbody></table>
+<table><thead><tr><th>Phase</th><th width="149">Nombre de jours indicatifs sur la période</th><th>Nombre de jours maximum par semaine</th><th>Implication</th><th>But</th></tr></thead><tbody><tr><td><a href="../../../gerer-son-produit/la-vie-du-produit/investigation/">Investigation</a></td><td>10 jours à 20 jours sur 9 semaines</td><td>2 jours</td><td>Régulière</td><td>Accompagner l'intrapreneur(e) pour le rendre autonome</td></tr><tr><td><a href="../../../gerer-son-produit/la-vie-du-produit/construction/">Construction</a></td><td><p>25 jours</p><p>sur 6 mois</p></td><td>1 jour</td><td>Décroissante</td><td>Accompagner l'équipe pour la rendre autonome</td></tr><tr><td><a href="../../../gerer-son-produit/la-vie-du-produit/acceleration/">Accélération</a></td><td><p>25 jours</p><p>sur 6 mois</p></td><td>1 jour</td><td>Décroissante</td><td>Accompagner l'équipe pour l'aider à accélérer</td></tr><tr><td><a href="../../../gerer-son-produit/la-vie-du-produit/perennisation/">Pérennisation</a></td><td><p>15 jours</p><p>sur 6 mois</p></td><td>1 jour</td><td>Régulière</td><td>Accompagner l'équipe et l'administration d'accueil</td></tr></tbody></table>
 
 Une implication régulière signifie que le ou la coach sera présent de façon continue tout au long de la mission.
 
@@ -46,9 +46,7 @@ Une implication décroissante signifie que le ou la coach sera de moins en moins
 
 ⚠️ **Le nombre de jour facturable maximum autorisé par semaine en tant que coach est de 1 jour strict.**
 
-Au delà de cet unique jour facturé par semaine, il ne s'agit plus d'une mission de coaching. Mais plutôt de product management, déploiement, ou autre. Cette pratique est autorisée, en revanche le TJM des jours complémentaires à celui de coaching doit être adapté à la mission.
-
-Pour fixer le bon TJM concernant les jours complémentaires, vous pouvez vous baser sur [l'observatoire des revenus](https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/les-differents-statuts/independants-freelances/observatoire-revenus#la-grille-indicative-des-tjm-observes).
+Au delà de cet unique jour facturé par semaine, il ne s'agit plus d'une mission de coaching. Cela signifie que le ou la coach intervient plutôt sur une mission de product management, déploiement, ou autre. Cette pratique est autorisée, en revanche le montant facturé pour les jours complémentaires à celui de coaching doit être adapté à la mission (voir [l'observatoire des revenus](https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/les-differents-statuts/independants-freelances/observatoire-revenus#la-grille-indicative-des-tjm-observes)).
 
 ## Comment définir le niveau d'intervention d'une personne qui coache ?
 
@@ -97,9 +95,9 @@ Un extrait du cahier des charges du marché :&#x20;
 
 > Les prestations décrites dans ce marché nécessitent :
 >
-> * **Une expérience dans la gestion de produit** (Product Management) : priorisation en fonction de l’impact et des retours d’utilisateurs, démarches UX, compréhension des enjeux techniques ;
-> * **Une expérience significative des techniques d’animation d’équipes** focalisées sur la livraison (delivery) : mise en place de rituels d’équipe, animations d’ateliers OKRs (objectifs et résultats-clefs), rétros, co-développement ;
-> * Pour les produits à fort potentiel d’impact ou particulièrement complexes, **une expérience entrepreneuriale dans la création de services en mode produit** : définition d’un modèle économique, identification d’une adéquation produit-marché, définition des indicateurs clés de performance ou métriques d’impact, prise de risque, travail en équipe resserrée et autonome, préparation de comités d’investissement et levée de fonds ;
+> * **Une expérience dans la gestion de produit** (Product Management) : priorisation en fonction de l’impact et des retours d’utilisateurs, démarches UX, compréhension des enjeux techniques
+> * **Une expérience significative des techniques d’animation d’équipes** focalisées sur la livraison (delivery) : mise en place de rituels d’équipe, animations d’ateliers OKRs (objectifs et résultats-clefs), rétros, co-développement
+> * Pour les produits à fort potentiel d’impact ou particulièrement complexes, **une expérience entrepreneuriale dans la création de services en mode produit** : définition d’un modèle économique, identification d’une adéquation produit-marché, définition des indicateurs clés de performance ou métriques d’impact, prise de risque, travail en équipe resserrée et autonome, préparation de comités d’investissement et levée de fonds
 > * Une connaissance ou une curiosité pour l’environnement administratif et l’innovation dans le secteur public
 
 Voici quelques grandes catégories de compétences à maîtriser pour pouvoir accompagner effectivement une équipe de SET.
