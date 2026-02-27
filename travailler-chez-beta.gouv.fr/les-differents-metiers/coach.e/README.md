@@ -28,8 +28,6 @@ Il s'agit donc surtout pour le ou la coach de **faire avec** et **d'apprendre à
 
 **Il est attendu des coachs qu’ils et elles adoptent une posture adéquate pour faire monter en compétences les agents publics intrapreneurs ou experts métiers.**
 
-👋 Cette [présentation](https://docs.google.com/presentation/d/12aEGovHBZYH-xeskRalvhPhGhDG971hibddiGj5f_AU/edit?usp=sharing) cartographie précisément les différentes nuances du rôle de coach chez beta.gouv.fr. Elle est **à lire absolument** par tout coach démarrant une prestation au sein du réseau.
-
 ## Quel est le niveau d'intervention d'une personne qui coache ?
 
 Les éléments partagés ici servent de référence et de normes. Ils reflètent d'une part ce que nous avons observé chez beta.gouv.fr, d'autre part l'exigence d'éthique budgétaire liée à notre mission d'intérêt général. Ce document a une valeur indicative et pourra évoluer en fonction du marché et des retours des équipes.
