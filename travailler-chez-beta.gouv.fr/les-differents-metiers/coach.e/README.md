@@ -92,6 +92,15 @@ D’expérience, les meilleurs coachs avec qui nous avons travaillé chez[ beta.
 
 Ce sont des personnes qui ont l’expérience de lancer des produits de la page blanche au 1er puis à 1 000 utilisateurs.
 
+Un extrait du cahier des charges du marché :&#x20;
+
+> Les prestations décrites dans ce marché nécessitent :
+>
+> * **Une expérience dans la gestion de produit** (Product Management) : priorisation en fonction de l’impact et des retours d’utilisateurs, démarches UX, compréhension des enjeux techniques ;
+> * **Une expérience significative des techniques d’animation d’équipes** focalisées sur la livraison (delivery) : mise en place de rituels d’équipe, animations d’ateliers OKRs (objectifs et résultats-clefs), rétros, co-développement ;
+> * Pour les produits à fort potentiel d’impact ou particulièrement complexes, **une expérience entrepreneuriale dans la création de services en mode produit** : définition d’un modèle économique, identification d’une adéquation produit-marché, définition des indicateurs clés de performance ou métriques d’impact, prise de risque, travail en équipe resserrée et autonome, préparation de comités d’investissement et levée de fonds ;
+> * Une connaissance ou une curiosité pour l’environnement administratif et l’innovation dans le secteur public
+
 Voici quelques grandes catégories de compétences à maîtriser pour pouvoir accompagner effectivement une équipe de SET.
 
 **Product management**
