@@ -68,9 +68,44 @@ Un échange entre le coach, l'intra et le/la responsable de portefeuille permet 
 
 ## Quelles sont les obligations d'une personne qui coache ?
 
-Comme tout nouveau membre de la communauté (et c'est encore plus vrai en l'espèce), un·e coach doit obligatoirement participer au [parcours d'embarquement](https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/to-do-darrivee). Sinon il·elle lui sera impossible de délivrer sa mission (cf. être garant.e de l'approche beta.gouv.fr).
+Comme tout nouveau membre de la communauté (et c'est encore plus vrai en l'espèce), un·e coach doit obligatoirement **participer au** [**parcours d'embarquement**](https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/to-do-darrivee)**.** Sinon il·elle lui sera impossible de délivrer sa mission (cf. être garant.e de l'approche beta.gouv.fr).
+
+#### **Fournir un ou plusieurs livrable(s)**
 
 ⚠️ Les coachs sont redevables de leurs livrables à la fois auprès de l’intrapreneur·e et de l’incubateur. Ils·elles doivent en assumer pleinement la responsabilité, être en mesure d’en rendre compte, et accepter d’être challengés par l’incubateur, qui en valide — ou non — la conformité et la qualité.
+
+Le cahier des charges du marché interministériel définit les attentes vis à vis des coachs (ou mentors) en termes de livrables :&#x20;
+
+> **Pour les prestations  en phase d'investigations**
+>
+> L’objectif du mentor est d’aider l’agent ou l’équipe accompagnée à produire les livrables suivants en suivant les standards de qualité du programme beta.gouv.fr  :
+>
+> * Présentation finale au comité d’investissement comprenant la synthèse du problème à résoudre, les résultats du travail d’investigation et notamment les apprentissages des entretiens utilisateurs, les propositions de suites, l’évaluation des moyens nécessaires ;
+> * Fiche produit sur le site de beta.gouv.fr rappelant le problème, la solution et la stratégie de croissance incrémentale.
+>
+> -> Le mentor s’assure :
+>
+> * d’organiser a mimima un point de mi-parcours avec les sponsors de l’investigation et/ou l’incubateur public qui suit l’investigation, et de les tenir au courant en tant que de besoin des avancées de cette investigation ;
+> * de tenir une réunion de préparation au comité d’investissement sous forme de répétition, en présence de l’incubateur qui pilote l’investigation et/ou de membres de l’équipe beta.gouv.fr ;
+> * de produire en fin de mission un bilan synthétique de son intervention, avec le bilan des compétences acquises par l’agent, et de fournir les supports utilisés dans le cadre du mentorat.
+>
+> **Pour les prestations d'accompagnement dans la gestion opérationnelle d'une startup d'Etat**
+>
+> L’objectif du mentor est d’aider l’agent ou l’équipe accompagnée à construire, accélérer et/ou pérenniser le service numérique objet de l’accompagnement :&#x20;
+>
+> * Sessions de mentorat sur une phase 6 mois dans le but d’assurer la montée en compétences des agents publics selon la grille de compétence annexée au CCTP ;
+> * Accompagnement à la mise en ligne et à l’amélioration continue du produit numérique ;
+> * Accompagnement aux mesures d’impact avec publication et/ou amélioration d’une page de statistiques ;
+> * Fiche produit sur le site de beta.gouv.fr à jour ;
+> * Accompagnement à la préparation du comité d’investissement avec organisation d’une séance de répétition ;
+> * Bilan synthétique d’intervention avec bilan des compétences acquises par l’agent public.
+>
+> **Pour les prestations pour la mise en conformité**
+>
+> L’objectif du mentor est de donner les clefs aux équipes accompagnées pour qu’elle soit en mesure de produire les éléments de documentation nécessaires à la conformité et à la pérennisation du service numérique. Ces éléments peuvent concerner tous les sujets liés aux standards beta.gouv.fr, notamment : transparence, respect de la vie privée, sécurité, accessibilité, open source, open data, partage de données.
+>
+>> \
+> Le mentor produit en fin de mission un bilan synthétique pour 10 sessions d’accompagnement et fournit à l’entité bénéficiaire les supports utilisés dans le cadre de l’accompagnement.
 
 ***
 
