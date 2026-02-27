@@ -78,6 +78,7 @@ Le rôle du coach au sein d’une startup d’État comprend, mais ne se limite 
 * Rechercher le chemin le plus court pour atteindre des premiers usages grandeur nature sans avoir “tout fini” ;
 * Accompagner l’équipe pour toujours mettre les utilisateurs en priorité ;
 * Travailler en binôme avec l’intra pour le préserver des réflexes et attentes du reste de la structure et qui pourraient nuire à l’objectif de mise en production en moins de 6 mois ;
+* Assurer la montée en compétences de l’intra et son autonomisation (notamment via le parcours d'embarquement obligatoire)
 * Être un appui dans l’organisation de l’équipe : médiation au sein de l’équipe et mise en place de rituels d’équipe.
 
 Le coach doit s’adapter à la configuration de l’équipe qui dépend de l’engagement de l’intrapreneur et de la répartition des rôles. **Son rôle, à terme, est de faire monter en compétences l’équipe** pour lui permettre de s’autonomiser petit à petit (et non pas “faire à la place” de l’équipe). Il doit aussi maîtriser la culture de beta.gouv.fr ; la durée de son expérience en SET est fortement valorisée.
