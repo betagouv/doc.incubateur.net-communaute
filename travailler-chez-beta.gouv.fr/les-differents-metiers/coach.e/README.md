@@ -109,6 +109,8 @@ Le cahier des charges du marché interministériel définit les attentes vis à 
 
 ***
 
+Ces attentes peuvent être précisées et complétées dans l'expression de besoins.
+
 ## **Quel est le rôle du coach ?**
 
 Le rôle du coach au sein d’une startup d’État comprend, mais ne se limite pas à :
