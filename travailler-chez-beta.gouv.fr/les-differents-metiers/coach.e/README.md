@@ -9,7 +9,7 @@ Les experts retenus en mission de coaching, peuvent être mobilisés par une adm
 * En appui d’une ou de plusieurs Startups d’État ;
 * Pour la création et la croissance d’un incubateur de services numériques dédiés ;
 * Pour l’accompagnement des produits développés au sein d’un incubateur, notamment en vue de leur consolidation ;
-* En appui des responsables d‘incubateurs, en posture de conseil.
+* En appui des responsables d‘incubateurs.
 
 ## À quoi ça sert une personne qui coache une startup d'État ?
 
