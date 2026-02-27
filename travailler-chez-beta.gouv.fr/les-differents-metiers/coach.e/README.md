@@ -4,7 +4,7 @@ description: Qu'est ce qu'un·e coach beta.gouv.fr ?
 
 # Coach
 
-Les experts retenus en mission de coachs, peuvent être mobilisés par une administration :
+Les experts retenus en mission de coaching, peuvent être mobilisés par une administration :
 
 * En appui d’une ou de plusieurs Startups d’État ;
 * Pour la création et la croissance d’un incubateur de services numériques dédiés ;
@@ -13,19 +13,20 @@ Les experts retenus en mission de coachs, peuvent être mobilisés par une admin
 
 ## À quoi ça sert une personne qui coache une startup d'État ?
 
-Pour bien comprendre le cadre normatif, commençons par un extrait de l'appel d'offre « Accompagnement »
+Pour bien comprendre le cadre normatif, commençons par un extrait de du cahier des charges du marché « Mentorat et animation de communautés pour l’incubateur de services numériques de la DINUM et le réseau [beta.gouv.fr](http://beta.gouv.fr)» (lot 1)
 
-> Pour démultiplier l’émergence de ces équipes et de leurs produits numériques au sein de l’administration, la DINUM doit être accompagnée par des experts issus de l’économie numérique au profil d’entrepreneurs, en capacité d’articuler objectifs stratégiques et mise en œuvre opérationnelle.
+> Le premier lot a pour objectif d’aider la DINUM et ses partenaires à **accompagner, à travers des prestations de mentorat, les agents publics** en charge de services numériques publics pilotés en mode produit :&#x20;
 >
-> Il s’agit de contribuer à la transformation numérique de l’État :
+> * **vers plus de qualité et d’impact** de leurs produits, et
+> * **vers plus d’autonomie** dans la construction et la gestion de ces produits et de leurs équipes.
 >
-> * en accompagnant des équipes produits autonomes chargées de résoudre un problème de politique publique, de façon itérative et toujours au contact des utilisateurs ;
-> * en partageant des compétences et des méthodes issues de l’économie numérique pour améliorer la qualité des services publics ;
-> * En accompagnant quand nécessaire les administrations publiques partenaires dans les évolutions organisationnelles et managériales qu’impliquent le numérique.
+> Les prestations correspondant à ce lot visent à fournir un accompagnement complet aux produits numériques accompagnés par le réseau [beta.gouv.fr](http://beta.gouv.fr), en mobilisant les techniques d'investigation et de mentorat méthodologique (coaching produit).
 >
-> Les experts retenus, appelés ici « coachs » \[...]
+> Pour chaque produit numérique, il s'agit de donner les clefs aux administrations qui en sont responsables pour faire réussir leur développement au plus près des besoins des utilisateurs potentiels, en proposant un accompagnement adapté selon la phase de développement du produit, et en apportant une vigilance particulière à l’impact et à la conformité de ces produits numériques à impact.
 
-Il s'agit donc pour le ou la coach, d'**accompagner** et de **partager des savoir-faire**.
+Il s'agit donc surtout pour le ou la coach de **faire avec** et **d'apprendre à faire** et non de faire à la place des personnes accompagnées.
+
+**Il est attendu des coachs qu’ils et elles adoptent une posture adéquate pour faire monter en compétences les agents publics intrapreneurs ou experts métiers.**
 
 👋 Cette [présentation](https://docs.google.com/presentation/d/12aEGovHBZYH-xeskRalvhPhGhDG971hibddiGj5f_AU/edit?usp=sharing) cartographie précisément les différentes nuances du rôle de coach chez beta.gouv.fr. Elle est **à lire absolument** par tout coach démarrant une prestation au sein du réseau.
 
@@ -75,13 +76,13 @@ Le rôle du coach au sein d’une startup d’État comprend, mais ne se limite 
 
 * Être garant·e du respect de l’approche, de la mise en oeuvre des obligations et standards beta.gouv.fr ;
 * Être garant·e de l’impact de l’équipe, l’aider à fixer des objectifs d’impact ;
-* Aider à la mise en place d’une équipe, par le recrutement des développeurs, des chargés de déploiement, des designers ;
+* Aider à la mise en place d’une équipe, par l'aide à la sélection des développeurs, des chargés de déploiement, des designers ;
 * Rechercher le chemin le plus court pour atteindre des premiers usages grandeur nature sans avoir “tout fini” ;
 * Accompagner l’équipe pour toujours mettre les utilisateurs en priorité ;
 * Travailler en binôme avec l’intra pour le préserver des réflexes et attentes du reste de la structure et qui pourraient nuire à l’objectif de mise en production en moins de 6 mois ;
 * Être un appui dans l’organisation de l’équipe : médiation au sein de l’équipe et mise en place de rituels d’équipe.
 
-Le coach doit s’adapter à la configuration de l’équipe qui dépend de l’engagement de l’intrapreneur et de la répartition des rôles. Son rôle, à terme, est de faire monter en compétences l’équipe pour lui permettre de s’autonomiser petit à petit (et non pas “faire à la place” de l’équipe). Il doit aussi maîtriser la culture de beta.gouv.fr ; la durée de son expérience en SET est fortement valorisée.
+Le coach doit s’adapter à la configuration de l’équipe qui dépend de l’engagement de l’intrapreneur et de la répartition des rôles. **Son rôle, à terme, est de faire monter en compétences l’équipe** pour lui permettre de s’autonomiser petit à petit (et non pas “faire à la place” de l’équipe). Il doit aussi maîtriser la culture de beta.gouv.fr ; la durée de son expérience en SET est fortement valorisée.
 
 Lecture conseillée pour approfondir cette discussion : l’excellente “[cartographie de pratiques de coaching à beta.gouv.fr](https://docs.google.com/presentation/d/12aEGovHBZYH-xeskRalvhPhGhDG971hibddiGj5f_AU/edit#slide=id.p)” de Raphael.
 
