@@ -24,7 +24,7 @@ Ces engagements se matérialisent par la signature formelle ou informelle de not
 
 Un bon moyen de l'identifier consiste à \[\[organiser un pitch day]].
 
-> Ces conditions sont issues de l’article de blog [Intrapreneur de Startup d’État : les conditions du succès](https://beta.gouv.fr/2017/03/06/intrapreneur-les-conditions-du-succes.html).
+> Ces conditions sont issues de l’article de blog [Intrapreneur de Startup d’État : les conditions du succès](https://beta.gouv.fr/2017/03/06/intrapreneur-les-conditions-du-succes.html). (lien cassé, si quelqu'un a le nouveau lien, il serait le bienvenu...)
 
 ### On a un bon problème <a href="#on-a-un-bon-probleme" id="on-a-un-bon-probleme"></a>
 
