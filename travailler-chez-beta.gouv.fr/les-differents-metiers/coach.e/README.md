@@ -13,7 +13,7 @@ Les experts qui interviennent sur des missions de coaching peuvent être mobilis
 
 ## À quoi ça sert une personne qui coache une startup d'État ?
 
-Pour bien comprendre le cadre normatif, commençons par un extrait du cahier des charges du marché « Mentorat et animation de communautés pour l’incubateur de services numériques de la DINUM et le réseau [beta.gouv.fr](http://beta.gouv.fr) » (lot 1)
+Pour bien comprendre le cadre normatif, commençons par un extrait du cahier des charges du marché « Mentorat et animation de communautés pour l’incubateur de services numériques de la DINUM et le réseau [beta.gouv.fr](http://beta.gouv.fr) » (lot 1) (Notification sept 2024 -> sept 2028)
 
 > Le premier lot a pour objectif d’aider la DINUM et ses partenaires à **accompagner, à travers des prestations de mentorat, les agents publics** en charge de services numériques publics pilotés en mode produit :&#x20;
 >
