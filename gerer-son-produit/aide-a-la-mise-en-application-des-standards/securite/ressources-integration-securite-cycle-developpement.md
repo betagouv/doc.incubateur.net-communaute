@@ -13,7 +13,7 @@ de votre service numérique.
    - [Authentification](#authentification)
    - [Contrôle d'accès](#contrôle-daccès)
    - [Traçabilité et audit (Logging)](#traçabilité-et-audit-logging)
-   - [Cryptographie et stockage sécurisé](#cryptographie-et-stockage-sécurisé)
+   - [Usage de la Cryptographie](#usage-de-la-cryptographie)
    - [Validation des entrées et sorties](#validation-des-entrées-et-sorties)
 3. [Bonnes pratiques de développement sécurisé](#bonnes-pratiques-de-développement-sécurisé)
    - [Revue de code orientée sécurité](#revue-de-code-orientée-sécurité)
@@ -155,21 +155,19 @@ Recommandations pour la mise en place de journaux d'événements :
 - Protection des logs contre la modification
 - Conformité RGPD dans les logs
 
-**Cas d'usage** : Essentiel pour le suivi des incidents de sécurité et
-les investigations forensiques.
+**Cas d'usage** : Essentiel pour la détection des tentatives d'intrusion
+et les analyses post incident.
 
-### Cryptographie et stockage sécurisé
+### Usage de la Cryptographie
 
 **[Fiche Stockage chiffré et sécurisé - OWASP](https://cheatsheetseries.owasp.org/cheatsheets/Cryptographic_Storage_Cheat_Sheet.html)**
 
 Guide sur l'utilisation de la cryptographie pour protéger les données :
 
-- Algorithmes de chiffrement recommandés
+- Algorithmes et modes d'opération cryptographiques recommandés
 - Gestion des clés cryptographiques
 - Chiffrement des données au repos et en transit
 - Hachage sécurisé des mots de passe
-
-**Cas d'usage** : À appliquer pour toute donnée sensible (données personnelles, secrets, tokens).
 
 ### Validation des entrées et sorties
 
@@ -218,9 +216,6 @@ systèmes d'information) :
 - Gestion des sessions et de l'authentification
 - Protection contre les attaques courantes
 
-**Cas d'usage** : Référence à consulter lors de la phase de
-conception et tout au long du développement.
-
 ### Classes de vulnérabilités les plus fréquentes
 
 **[Les 10 catégories de vulnérabilités les plus fréquentes - OWASP Top 10](https://owasp.org/www-project-top-ten/)**
@@ -235,13 +230,11 @@ critiques :
 - Mauvaises configration de sécurité
 - Etc.
 
-**Cas d'usage** : Formation de l'équipe et priorisation des efforts de sécurisation.
-
 ---
 
 ## Tests de sécurité automatisés
 
-L'automatisation des tests de sécurité permet de détecter les
+L'automatisation des tests de sécurité permet de détecter certaines
 vulnérabilités tôt dans le cycle de développement, sans ralentir la
 vélocité de l'équipe.
 
@@ -249,7 +242,7 @@ vélocité de l'équipe.
 
 **[DevSecOps Guideline - OWASP](https://owasp.org/www-project-devsecops-guideline/)**
 
-Guide complet pour intégrer la sécurité dans vos pipelines DevOps :
+Guide complet pour intégrer la sécurité dans vos pipelines :
 
 **Types de tests automatisés :**
 
@@ -266,8 +259,7 @@ Guide complet pour intégrer la sécurité dans vos pipelines DevOps :
   infrastructure-as-code (Terraform, Kubernetes)
 
 **Cas d'usage** : À mettre en place progressivement dans votre
-pipeline CI/CD et localement en **pre-commit hook**, en commençant
-par la détection de secrets et l'analyse des dépendances.
+pipeline CI/CD et localement en **pre-commit hook**.
 
 ### Sécurité des pipelines CI/CD
 
@@ -299,10 +291,9 @@ sur les organisations beta.gouv.fr)
 
 #### SAST
 
-- **CodeQL (GitHub)** : Moteur d'analyse pour trouver des vulnérabilités
+- **CodeQL (GitHub)** : Moteur d'analyse de github
 (Activé par défaut sur les organisations beta.gouv.fr)
-- **SonarQube/SonarCloud** : Analyse de qualité et sécurité du code
-- **Semgrep** : Outil d'analyse statique open-source
+- **Semgrep/Opengrep** : Outil d'analyse statique open-source
 
 #### SCA
 
@@ -354,7 +345,7 @@ SECURITY.md) et votre site web.
 #### Outils
 
 - **Sentry** : Monitoring d'erreurs et d'exceptions
-- **ELK Stack** (Elasticsearch, Logstash, Kibana) : Centralisation et
+- **ELK Stack/Opensearch** (Elasticsearch, Logstash, Kibana) : Centralisation et
   analyse des logs
 - **Grafana + Prometheus** : Monitoring et alerting
 
