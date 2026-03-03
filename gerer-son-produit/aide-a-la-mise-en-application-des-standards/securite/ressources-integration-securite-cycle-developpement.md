@@ -7,11 +7,32 @@ de votre service numérique.
 ## Table des matières
 
 1. [Pourquoi l'OWASP ?](#pourquoi-lowasp-comme-principale-référence-)
+   - [Qu'est-ce que l'OWASP ?](#quest-ce-que-lowasp-)
+   - [Pourquoi l'OWASP ?](#pourquoi-lowasp-)
 2. [Documentation des mécanismes de sécurité](#documentation-des-mécanismes-de-sécurité)
+   - [Authentification](#authentification)
+   - [Contrôle d'accès](#contrôle-daccès)
+   - [Traçabilité et audit (Logging)](#traçabilité-et-audit-logging)
+   - [Cryptographie et stockage sécurisé](#cryptographie-et-stockage-sécurisé)
+   - [Validation des entrées et sorties](#validation-des-entrées-et-sorties)
 3. [Bonnes pratiques de développement sécurisé](#bonnes-pratiques-de-développement-sécurisé)
+   - [Revue de code orientée sécurité](#revue-de-code-orientée-sécurité)
+   - [Guide de développement sécurisé](#guide-de-développement-sécurisé)
+   - [Classes de vulnérabilités les plus fréquentes](#classes-de-vulnérabilités-les-plus-fréquentes)
 4. [Tests de sécurité automatisés](#tests-de-sécurité-automatisés)
+   - [Intégration de la sécurité dans vos pipeline CI/CD](#intégration-de-la-sécurité-dans-vos-pipeline-cicd)
+   - [Sécurité des pipelines CI/CD](#sécurité-des-pipelines-cicd)
+   - [Exemples d'outils](#exemples-doutils)
 5. [Surveillance continue et gestion de la production](#surveillance-continue-et-gestion-de-la-production)
+   - [Gestion des vulnérabilités](#gestion-des-vulnérabilités)
+   - [Surveillance et réponse aux incidents](#surveillance-et-réponse-aux-incidents)
 6. [Formation et sensibilisation](#formation-et-sensibilisation)
+   - [Ressources de formation](#ressources-de-formation)
+   - [Veille sécurité](#veille-sécurité)
+7. [Pour aller plus loin](#pour-aller-plus-loin)
+   - [Standards et référentiels](#standards-et-référentiels)
+   - [Ressources spécifiques par technologie](#ressources-spécifiques-par-technologie)
+8. [Contribuer](#contribuer)
 
 ---
 
@@ -43,39 +64,38 @@ applications web et logicielles.
 
 ### Pourquoi l'OWASP ?
 
-**1. Approche pragmatique et orientée développeurs**
+#### Approche pragmatique et orientée développeurs
 
-Contrairement aux standards purement théoriques, les ressources OWASP
-sont conçues **par des développeurs pour des développeurs**. Elles
-fournissent des conseils pratiques, directement applicables dans le
-code.
+Les ressources OWASP sont conçues **par des développeurs**
+**pour des développeurs**. Elles fournissent des conseils
+pratiques, directement applicables dans le code.
 
-**2. Maintien actif et veille continue**
+#### Maintien actif et veille continue
 
 Les projets OWASP sont constamment mis à jour pour refléter
 l'évolution des menaces et des technologies.
 
-**3. Validation par la pratique**
+#### Validation par la pratique
 
 Les recommandations OWASP sont issues de l'analyse de milliers
 d'incidents de sécurité réels et de retours d'expérience de la
 communauté mondiale. Ce ne sont pas des spéculations, mais des
 pratiques éprouvées.
 
-**4. Format "Cheat Sheet" accessible**
+#### Un Format "Cheat Sheet" accessible
 
-Les **OWASP Cheat Sheets** (fiches pratiques) sont des condensés
+Les **[OWASP Cheat Sheets](https://cheatsheetseries.owasp.org/)** (fiches pratiques) sont des condensés
 d'information facilement consultables. Elles fournissent l'essentiel à
 savoir sur un sujet précis, sans noyer le lecteur dans des détails
 théoriques.
 
-**5. Neutralité technologique**
+#### Neutralité technologique
 
 L'OWASP couvre un grand nombre de langages de programmation, de
 frameworks et architectures. Quelle que soit votre stack technique,
 vous devriez y trouver des ressources adaptées.
 
-**6. Compatibilité avec les exigences réglementaires**
+#### Compatibilité avec les exigences réglementaires
 
 Les recommandations OWASP sont **alignées avec les standards de
 sécurité** comme par exemple le RGS et NIS2. Suivre les bonnes
@@ -217,21 +237,6 @@ critiques :
 
 **Cas d'usage** : Formation de l'équipe et priorisation des efforts de sécurisation.
 
-### Prévention des injections
-
-**[Fiche Prévention des injections - OWASP](https://cheatsheetseries.owasp.org/cheatsheets/Injection_Prevention_Cheat_Sheet.html)**
-
-Guide détaillé sur la prévention des attaques par injection :
-
-- Injection SQL
-- Injection de commandes OS
-- Injection LDAP
-- Utilisation de requêtes paramétrées
-- Validation et échappement
-
-**Cas d'usage** : À consulter lors de l'implémentation de toute
-interaction avec une base de données ou un système externe.
-
 ---
 
 ## Tests de sécurité automatisés
@@ -240,7 +245,7 @@ L'automatisation des tests de sécurité permet de détecter les
 vulnérabilités tôt dans le cycle de développement, sans ralentir la
 vélocité de l'équipe.
 
-### DevSecOps - Intégration de la sécurité dans CI/CD
+### Intégration de la sécurité dans vos pipeline CI/CD
 
 **[DevSecOps Guideline - OWASP](https://owasp.org/www-project-devsecops-guideline/)**
 
@@ -255,20 +260,22 @@ Guide complet pour intégrer la sécurité dans vos pipelines DevOps :
   sur l'application en cours d'exécution
 - **SCA (Software Composition Analysis)** : Analyse des dépendances
   pour détecter les vulnérabilités connues
-- **IAST (Interactive Application Security Testing)** : Analyse en
-  temps réel pendant les tests
 - **Détection de secrets** : Scan des commits pour détecter les
   secrets (clés API, mots de passe) accidentellement commitées
 - **IaC Scanning** : Vérification de la configuration
   infrastructure-as-code (Terraform, Kubernetes)
 
 **Cas d'usage** : À mettre en place progressivement dans votre
-pipeline CI/CD, en commençant par la détection de secrets et l'analyse
-des dépendances.
+pipeline CI/CD et localement en **pre-commit hook**, en commençant
+par la détection de secrets et l'analyse des dépendances.
 
 ### Sécurité des pipelines CI/CD
 
 **[CI/CD Security Cheat Sheet - OWASP](https://cheatsheetseries.owasp.org/cheatsheets/CI_CD_Security_Cheat_Sheet.html)**
+
+Les pipeline CI/CD permettent de mettre en place des contrôles
+de sécurité mais constitue également une surface d'attaque
+importante qu'il est nécessaire de réduire et sécuriser.
 
 Recommandations pour sécuriser votre chaîne d'intégration et de
 déploiement continus :
@@ -281,7 +288,7 @@ déploiement continus :
 **Cas d'usage** : Audit et sécurisation de votre infrastructure de
 CI/CD (GitHub Actions, GitLab CI, etc.).
 
-### Outils recommandés
+### Exemples d'outils
 
 #### Détection de secrets
 
@@ -337,34 +344,19 @@ SECURITY.md) et votre site web.
 
 ### Surveillance et réponse aux incidents
 
-**Recommandations :**
+#### Recommandations
 
 - Mise en place de monitoring des logs de sécurité
 - Alertes automatiques sur les événements suspects
 - Plan de réponse aux incidents de sécurité
 - Tests réguliers du plan de réponse
 
-**Outils :**
+#### Outils
 
 - **Sentry** : Monitoring d'erreurs et d'exceptions
 - **ELK Stack** (Elasticsearch, Logstash, Kibana) : Centralisation et
   analyse des logs
 - **Grafana + Prometheus** : Monitoring et alerting
-
-### Homologation de sécurité
-
-**[Homologation de sécurité - doc.incubateur.net](https://doc.incubateur.net/communaute/gerer-son-produit/les-standards/securite/maitriser-les-risques-cyber)**
-
-Ressources spécifiques au processus d'homologation dans
-l'administration française :
-
-- Démarche d'homologation de sécurité
-- Analyse des risques
-- Dossier d'homologation
-- Maintien en condition de sécurité
-
-**Cas d'usage** : À préparer avant le passage en production d'un
-service traitant des données sensibles.
 
 ---
 
@@ -375,14 +367,14 @@ sensibilisation régulières sont essentielles.
 
 ### Ressources de formation
 
-**Plateformes de formation :**
+#### Plateformes de formation
 
 - **OWASP Juice Shop** : Application e-commerce vulnérable pour
   exploiter et corriger des vulnérabilités web.
 - **RootMe / HackTheBox / TryHackMe** : Plateformes d'apprentissage avec des
   challenges de sécurité
 
-**Formations en ligne :**
+#### Formations en ligne
 
 - [ANSSI - SecNumAcadémie](https://secnumacademie.gouv.fr/) : MOOC
   gratuit sur la sécurité du numérique
@@ -391,13 +383,21 @@ sensibilisation régulières sont essentielles.
 
 ### Veille sécurité
 
-**Sources recommandées :**
+#### Sources recommandées :**
 
-- **CERT-FR** : Centre gouvernemental de veille, d'alerte et de réponse
-  aux attaques informatiques
-- **GitHub Security Advisories** : Alertes de sécurité pour les
-  dépendances
-- **Newsletter OWASP** : Actualités de la communauté OWASP
+##### Sources Francophones
+
+  **CERT-FR** : Centre gouvernemental de veille, d'alerte et de réponse  aux attaques informatiques.
+  **No Limit Secu** : Podcast Francophone hebdomadaire
+  **Radio CSIRT** : Podcast quotidien résumant l'actualité cyber
+  sécurité.
+  **Magazine Misc** : Magazine mensuel spécialisé dans la
+  cybersécurité
+
+##### Sources Anglophones
+
+  **TL,DR; Security** : Newsletter Cybersécurité
+  **Unsupervised learning** : Newsletter Cybersécurité/Dev/IA
 
 ---
 
@@ -445,9 +445,8 @@ sensibilisation régulières sont essentielles.
 
 Ce document est maintenu par la communauté beta.gouv.fr. N'hésitez pas
 à proposer des améliorations ou des ressources supplémentaires via une
-pull request sur le dépôt
-[betagouv/standards](https://github.com/betagouv/standards).
+pull request.
 
 Pour toute question sur la sécurité de votre service, vous pouvez
-solliciter l'aide de la communauté via les canaux habituels (Slack,
-forum, etc.).
+solliciter l'aide de la communauté via les canaux habituels (Mattermost,
+Tchap, `securite@beta.gouv.fr`).
