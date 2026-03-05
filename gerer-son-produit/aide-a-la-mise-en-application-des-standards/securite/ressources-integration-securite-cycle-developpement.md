@@ -14,7 +14,7 @@ de votre service numérique.
    - [Contrôle d'accès](#contrôle-daccès)
    - [Traçabilité et audit (Logging)](#traçabilité-et-audit-logging)
    - [Usage de la Cryptographie](#usage-de-la-cryptographie)
-   - [Validation des entrées et sorties](#validation-des-entrées-et-sorties)
+   - [Validation, encodage, filtrage des données traitées par l'application](#validation-encodage-filtrage-des-données-traitées-par-lapplication)
 3. [Bonnes pratiques de développement sécurisé](#bonnes-pratiques-de-développement-sécurisé)
    - [Revue de code orientée sécurité](#revue-de-code-orientée-sécurité)
    - [Guide de développement sécurisé](#guide-de-développement-sécurisé)
@@ -58,7 +58,7 @@ applications web et logicielles.
 - **Communauté mondiale** : Plus de 250 chapitres locaux dans le monde
   entier. Des milliers de contributeurs bénévoles (chercheurs,
   développeurs, experts en cybersécurité).
-- **Reconnaissance institutionnelle** : L'OWASP est cité comme
+- **Reconnaissance institutionnelle** : L'OWASP est citée comme
   référence par de nombreux organismes officiels, dont l'ANSSI en
   France, le NIST aux États-Unis, et l'ENISA en Europe.
 
@@ -84,7 +84,8 @@ pratiques éprouvées.
 
 #### Un Format "Cheat Sheet" accessible
 
-Les **[OWASP Cheat Sheets](https://cheatsheetseries.owasp.org/)** (fiches pratiques) sont des condensés
+Les **[OWASP Cheat Sheets](https://cheatsheetseries.owasp.org/)**
+(fiches pratiques) sont des condensés
 d'information facilement consultables. Elles fournissent l'essentiel à
 savoir sur un sujet précis, sans noyer le lecteur dans des détails
 théoriques.
@@ -137,13 +138,18 @@ Guide pour implémenter des mécanismes de contrôle d'accès efficaces :
 
 - Principes de moindre privilège
 - Séparation des privilèges
-- Modèles de contrôle d'accès (RBAC, ABAC, DAC, ACLs...)
+- Modèles de contrôle d'accès (RBAC, ABAC, reBAC, DAC, ACLs...)
 - Protection contre les attaques d'élévation de privilèges
 
 **Cas d'usage** : À consulter lors de la définition des rôles et
 permissions dans votre application.
 
 ### Traçabilité et audit (Logging)
+
+La traçabilités des actions dans votre service mais aussi, sur son
+code source, sur son infrastructure, dans vos pipelines CI/CD...
+permettent l'investigation à la suite d'un incident, mais aussi
+la mise en place de mesures de détection et de réponse aux attaques.
 
 **[Fiche Traçabilité et audit - OWASP](https://cheatsheetseries.owasp.org/cheatsheets/Logging_Cheat_Sheet.html)**
 
@@ -169,19 +175,31 @@ Guide sur l'utilisation de la cryptographie pour protéger les données :
 - Chiffrement des données au repos et en transit
 - Hachage sécurisé des mots de passe
 
-### Validation des entrées et sorties
+### Validation, encodage, filtrage des données traitées par l'application
 
-**[Fiche Validation des entrées & sorties - OWASP](https://cheatsheetseries.owasp.org/cheatsheets/Input_Validation_Cheat_Sheet.html)**
+**[Fiche Validation des entrées - OWASP](https://cheatsheetseries.owasp.org/cheatsheets/Input_Validation_Cheat_Sheet.html)**
 
-Techniques pour valider et nettoyer les données :
+**[Fiche Encodage et Echappement des données - OWASP](https://devguide.owasp.org/en/04-design/02-web-app-checklist/04-encode-escape-data/)**
 
-- Validation des entrées utilisateur
-- Encodage des sorties
-- Protection contre les injections (SQL, XSS, commandes)
-- Listes blanches vs listes noires
+A chaque fois que votre application doit traiter une donnée,
+si cette donnée n'est pas au format attendu, l'application ne
+sera pas en mesure de la traiter correctement, ce qui est source
+de bugs et de vulnérabilités.
 
-**Cas d'usage** : À implémenter systématiquement pour toute donnée
-provenant d'une source externe.
+Pour que la donnée soit traitée comme espéré, votre service doit
+s'assurer qu'elle :
+
+- est au format attendu
+- utilise le bon encodage,
+- ne peut pas interférer avec la logique de votre application.
+
+Ces mesures sont d'autant plus importants lorsque les données
+proviennent de sources externes non maitrisées comme par exemple :
+
+- entrées utilisateurs
+- retours d'APIs
+- connecteurs MCP
+- base de données partagée...
 
 ---
 
@@ -220,16 +238,6 @@ systèmes d'information) :
 
 **[Les 10 catégories de vulnérabilités les plus fréquentes - OWASP Top 10](https://owasp.org/www-project-top-ten/)**
 
-Liste mise à jour régulièrement des 10 risques de sécurité les plus
-critiques :
-
-- Contrôle d'accès défaillant
-- Mauvais usage des mécanismes cryptographiques
-- Injection
-- Design insécurisé
-- Mauvaises configration de sécurité
-- Etc.
-
 ---
 
 ## Tests de sécurité automatisés
@@ -265,8 +273,8 @@ pipeline CI/CD et localement en **pre-commit hook**.
 
 **[CI/CD Security Cheat Sheet - OWASP](https://cheatsheetseries.owasp.org/cheatsheets/CI_CD_Security_Cheat_Sheet.html)**
 
-Les pipeline CI/CD permettent de mettre en place des contrôles
-de sécurité mais constitue également une surface d'attaque
+Les pipelines CI/CD permettent de mettre en place des contrôles
+de sécurité mais constituent également une surface d'attaque
 importante qu'il est nécessaire de réduire et sécuriser.
 
 Recommandations pour sécuriser votre chaîne d'intégration et de
@@ -331,7 +339,8 @@ vulnérabilités :
 - Communication avec les chercheurs en sécurité
 
 **Cas d'usage** : À mettre en place sur votre dépôt GitHub (fichier
-SECURITY.md) et votre site web.
+SECURITY.md) et votre service en ligne (fichier [security.txt](https://securitytxt.org/)).
+
 
 ### Surveillance et réponse aux incidents
 
