@@ -388,16 +388,16 @@ sensibilisation régulières sont essentielles.
 ##### Sources Francophones
 
   **CERT-FR** : Centre gouvernemental de veille, d'alerte et de réponse  aux attaques informatiques.
-  **No Limit Secu** : Podcast Francophone hebdomadaire
-  **Radio CSIRT** : Podcast quotidien résumant l'actualité cyber
+  [**No Limit Secu**](https://www.nolimitsecu.fr) : Podcast Francophone hebdomadaire
+  [**Radio CSIRT**](https://www.radiocsirt.org) : Podcast quotidien résumant l'actualité cyber
   sécurité.
   **Magazine Misc** : Magazine mensuel spécialisé dans la
   cybersécurité
 
 ##### Sources Anglophones
 
-  **TL,DR; Security** : Newsletter Cybersécurité
-  **Unsupervised learning** : Newsletter Cybersécurité/Dev/IA
+  [**TL,DR; Security**](https://tldrsec.com) : Newsletter Cybersécurité
+  [**Unsupervised learning**](https://newsletter.danielmiessler.com) : Newsletter Cybersécurité/Dev/IA
 
 ---
 
@@ -405,7 +405,7 @@ sensibilisation régulières sont essentielles.
 
 ### Standards et référentiels
 
-- **[OWASP ASVS](https://owasp.org/www-project-application-security-verification-standard/)** (Application Security Verification Standard) : Standard de vérification de la sécurité des applications, très poussé, ~300 points de vérifications.
+- **[OWASP ASVS](https://owasp.org/www-project-application-security-verification-standard/)** (Application Security Verification Standard) : Standard de vérification de la sécurité des applications, très poussé, ~300 points de vérification.
 - **[OWASP DSOMM](https://owasp.org/www-project-devsecops-maturity-model/)** (DevSecOps Maturity Model) : Modèle de maturité pour évaluer et améliorer progressivement la sécurité dans les pipelines DevOps.
 - **[OWASP SAMM](https://owasp.org/www-project-samm/)** (Software
   Assurance Maturity Model) : Modèle de maturité pour améliorer
