@@ -319,6 +319,10 @@ sur les organisations beta.gouv.fr)
 - **OWASP ZAP** : Scanner de vulnérabilités web open-source
 - **Nuclei** : Scanner de vulnérabilités rapide et personnalisable
 
+#### Audit de sécurité CI/CD
+
+- **Zizmor** : Audit des workflows Github Actions
+
 ---
 
 ## Surveillance continue et gestion de la production
@@ -340,7 +344,6 @@ vulnérabilités :
 
 **Cas d'usage** : À mettre en place sur votre dépôt GitHub (fichier
 SECURITY.md) et votre service en ligne (fichier [security.txt](https://securitytxt.org/)).
-
 
 ### Surveillance et réponse aux incidents
 
