@@ -193,7 +193,7 @@ s'assurer qu'elle :
 - utilise le bon encodage,
 - ne peut pas interférer avec la logique de votre application.
 
-Ces mesures sont d'autant plus importants lorsque les données
+Ces mesures sont d'autant plus importantes lorsque les données
 proviennent de sources externes non maitrisées comme par exemple :
 
 - entrées utilisateurs
@@ -267,7 +267,9 @@ Guide complet pour intégrer la sécurité dans vos pipelines :
   infrastructure-as-code (Terraform, Kubernetes)
 
 **Cas d'usage** : À mettre en place progressivement dans votre
-pipeline CI/CD et localement en **pre-commit hook**.
+pipeline CI/CD et localement en **pre-commit hook** afin de limiter
+la publications de code vulnérable et de secret sur les depots
+open source.
 
 ### Sécurité des pipelines CI/CD
 
@@ -360,6 +362,8 @@ SECURITY.md) et votre service en ligne (fichier [security.txt](https://securityt
 - **ELK Stack/Opensearch** (Elasticsearch, Logstash, Kibana) : Centralisation et
   analyse des logs
 - **Grafana + Prometheus** : Monitoring et alerting
+- **[Graylog](https://graylog.org)**
+- **[Signoz](https://signoz.io)**
 
 ---
 
@@ -374,11 +378,13 @@ sensibilisation régulières sont essentielles.
 
 - **OWASP Juice Shop** : Application e-commerce vulnérable pour
   exploiter et corriger des vulnérabilités web.
-- **RootMe / HackTheBox / TryHackMe** : Plateformes d'apprentissage avec des
-  challenges de sécurité
+- **RootMe / HackTheBox / TryHackMe /hakcropole** : Plateformes d'apprentissage avec
+ des challenges de sécurité.
+
+  [Annuaire d'applications volontairement vulnérables - OWASP](https://owasp.org/www-project-vulnerable-web-applications-directory/)
 
 #### Formations en ligne
-
+- [Linux Foundation - Devoloping Secure Software Trainin](https://training.linuxfoundation.org/training/developing-secure-software-lfd121/)
 - [ANSSI - SecNumAcadémie](https://secnumacademie.gouv.fr/) : MOOC
   gratuit sur la sécurité du numérique
 - [PortSwigger Web Security Academy](https://portswigger.net/web-security) :
