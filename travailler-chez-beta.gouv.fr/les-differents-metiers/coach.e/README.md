@@ -1,19 +1,29 @@
----
-description: Qu'est-ce qu'un·e coach beta.gouv.fr ?
----
-
 # Coach
 
-Les experts qui interviennent sur des missions de coaching peuvent être mobilisés par une administration :
+## Quel est le rôle du coach ?
 
-* en appui d’une ou de plusieurs startups d’État ;
-* pour la création et la croissance d’un incubateur de services numériques ;
-* en accompagnement de produits développés au sein d’un incubateur, notamment en vue de leur consolidation ;
-* en appui des responsables d‘incubateurs.
+Chez [beta.gouv.fr](http://beta.gouv.fr), les coachs sont chargés de mettre en oeuvre les conditions nécessaires pour que les services accompagnés puissent démontrer un impact concret et mesurable sur les usagers et les politiques publiques au sein desquelles ils s’inscrivent. Pour créer ces conditions, les coachs ont les missions suivantes :
 
-## À quoi ça sert une personne qui coache une startup d'État ?
+* Accompagner la montée en compétences de l’intrapreneur·e ainsi que la création et l'autonomisation de son équipe :
+  * s’assurer que l’intrapreneur·e endosse bien le rôle de “responsable” de son produit et acquiert progressivement l’ensemble des compétences nécessaires pour ce faire
+  * participer au recrutement de l’équipe et s’assurer de son bon fonctionnement
+* Sensibiliser les sponsors en lien avec l’incubateur et/ou la DINUM :
+  * soutenir l’intrapreneur·e dans les relations avec ses sponsors pour obtenir l’autonomie et les financements nécessaires
+  * s’assurer de la tenue et de la qualité des comités d’investissement (tous les 6 mois ou tous les ans)
+* Partager son expertise sur l’accompagnement de services numériques :
+  * s’assurer que l’équipe est focalisée sur l’impact sur les usagers et la politique publique
+  * partager son expérience en aidant l’équipe à choisir les bons outils et méthodes pour atteindre ses objectifs.
+* S’assurer que les standards de [beta.gouv.fr](http://beta.gouv.fr) soient respectés et revus régulièrement
+  * revoir au moins une fois par an le respect des standards : [https://standards.beta.gouv.fr/](https://standards.beta.gouv.fr/)
+  * assurer l'application des standards (trame de comité d'investissement, matrice d'impact, fiche produit à jour...) et, éventuellement, participer à leur évolution.
 
-Pour bien comprendre le cadre normatif, commençons par un extrait du cahier des charges du marché « Mentorat et animation de communautés pour l’incubateur de services numériques de la DINUM et le réseau [beta.gouv.fr](http://beta.gouv.fr) » (lot 1) (Notification sept 2024 -> sept 2028)
+Le coach doit s’adapter à la configuration de l’équipe qui dépend de l’engagement de l’intrapreneur·e et de la répartition des rôles. **Son rôle, à terme, est de faire monter en compétences l’équipe** pour lui permettre de s’autonomiser petit à petit (et non pas “faire à la place” de l’équipe). Il doit aussi maîtriser la culture de beta.gouv.fr ; la durée de son expérience en SET est fortement valorisée.
+
+Lecture conseillée pour approfondir cette discussion : l’excellente “[cartographie de pratiques de coaching à beta.gouv.fr](https://docs.google.com/presentation/d/12aEGovHBZYH-xeskRalvhPhGhDG971hibddiGj5f_AU/edit#slide=id.p)” de Raphael.
+
+#### Focus sur le marché _mentorat_
+
+En complément et pour bien comprendre le cadre normatif, il convient également de s'appuyer sur cet extrait du cahier des charges du marché « Mentorat et animation de communautés pour l’incubateur de services numériques de la DINUM et le réseau [beta.gouv.fr](http://beta.gouv.fr) » (lot 1) (Notification sept 2024 -> sept 2028)
 
 > Le premier lot a pour objectif d’aider la DINUM et ses partenaires à **accompagner, à travers des prestations de mentorat, les agents publics** en charge de services numériques publics pilotés en mode produit :&#x20;
 >
@@ -24,31 +34,46 @@ Pour bien comprendre le cadre normatif, commençons par un extrait du cahier des
 >
 > Pour chaque produit numérique, il s'agit de donner les clefs aux administrations qui en sont responsables pour faire réussir leur développement au plus près des besoins des utilisateurs potentiels, en proposant un accompagnement adapté selon la phase de développement du produit, et en apportant une vigilance particulière à l’impact et à la conformité de ces produits numériques à impact.
 
-Il s'agit donc surtout pour le ou la coach de **faire avec** et **d'apprendre à faire** et non de faire à la place des personnes accompagnées.
+***
+
+## **Quelles postures et redevabilités des coachs ?**
+
+Le ou la coach **doit faire avec** et **apprendre aux personnes accompagnées à faire** et non faire à leur place.
 
 **Il est attendu des coachs qu’ils et elles adoptent une posture adéquate pour faire monter en compétences les agents publics intrapreneurs ou experts métiers.**
 
+Bien qu'il·elle soit membre de l'équipe à part entière, la personne auprès de qui il·elle est redevable n’est pas le sponsor, mais le·a responsable de l’incubateur dont il·elle dépend et/ou le·a responsable de partenariat de la DINUM, ainsi bien-sûr que l'intrapreneur·e. Ces derniers attendent des coachs qu'ils ou elles :
+
+* remontent les difficultés identifiés dans l’exercice de leurs missions (collaboration avec l’intrapreneur·e, conditions de travail de l’équipe…)
+* donnent leur point de vue sur l’opportunité d’investir (ou réinvestir) dans un service au regard du problème visé, de la proposition de valeur du service et de la capacité de l’équipe à faire les choix nécessaires pour avoir un impact. Un·e coach est toujours valorisé·e pour avoir proposé d’arrêter un service qui n’a pas fait ses preuves.
+
 ***
 
-## Quel est le niveau d'intervention d'une personne qui coache ?
+## Quel sont les durées et niveau d'intervention des coachs ?
 
-Les éléments partagés ici servent de référence et de normes. Ils reflètent d'une part ce que nous avons observé chez beta.gouv.fr, d'autre part l'exigence d'éthique budgétaire liée à notre mission d'intérêt général. Ce document a une valeur indicative et pourra évoluer en fonction du marché et des retours des équipes.
+#### Durée d'une mission
 
-Afin de maintenir un point de vue extérieur et le recul nécessaire pour un accompagnement optimal, il est obligatoire de ne pas dépasser **un maximum de 2 ans de coaching par la même personne** sur un produit.&#x20;
+Le coach doit devenir dispensable. Il n’a pas vocation à endosser un rôle opérationnel dans l’équipe dans la durée. Au contraire, il doit aider à prioriser les recrutements et autonomiser l’équipe pour que son implication diminue progressivement. C’est également la responsabilité du coach de s’interroger régulièrement sur le fait de savoir si il ou elle est la bonne personne.
 
-⚠️ Si un coach dépasse les 2 ans de mission sur un même produit, sa mission doit être stoppée (hors cas particulier, comme l'absence d'intrapreneur·e). Il peut ensuite être remplacé par un autre coach.
+Les éléments partagés ici servent de **référence et de normes**. Ils reflètent d'une part ce que nous avons observé chez beta.gouv.fr, d'autre part l'exigence d'éthique budgétaire liée à notre mission d'intérêt général. Ce document a une valeur indicative et pourra évoluer en fonction du marché et des retours des équipes.
+
+Afin de maintenir un point de vue extérieur et le recul nécessaire pour un accompagnement optimal, il est obligatoire de ne pas dépasser **un maximum de 2 ans de coaching par la même personne** sur un produit. Au-delà de 2 ans, le maintien d'un·e coach doit être justifié.
+
+⚠️ Si un coach dépasse les 2 ans de mission sur un même produit, sa mission doit être stoppée (hors cas particulier, comme l'absence d'intrapreneur·e ou le besoin impérieux de continuité de service). Il peut ensuite être remplacé par un autre coach.
+
+#### **Niveau d'intervention**
 
 Voici les usages en terme d'engagement pour un coach en fonction de la phase de la startup d'État :
 
-<table><thead><tr><th>Phase</th><th width="149">Nombre de jours indicatifs sur la période</th><th>Nombre de jours maximum par semaine</th><th>Implication</th><th>But</th></tr></thead><tbody><tr><td><a href="../../../gerer-son-produit/la-vie-du-produit/investigation/">Investigation</a></td><td>10 jours à 20 jours sur 9 semaines</td><td>2 jours</td><td>Régulière</td><td>Accompagner l'intrapreneur(e) pour le rendre autonome</td></tr><tr><td><a href="../../../gerer-son-produit/la-vie-du-produit/construction/">Construction</a></td><td><p>25 jours</p><p>sur 6 mois</p></td><td>1 jour</td><td>Décroissante</td><td>Accompagner l'équipe pour la rendre autonome</td></tr><tr><td><a href="../../../gerer-son-produit/la-vie-du-produit/acceleration/">Accélération</a></td><td><p>25 jours</p><p>sur 6 mois</p></td><td>1 jour</td><td>Décroissante</td><td>Accompagner l'équipe pour l'aider à accélérer</td></tr><tr><td><a href="../../../gerer-son-produit/la-vie-du-produit/perennisation/">Pérennisation</a></td><td><p>15 jours</p><p>sur 6 mois</p></td><td>1 jour</td><td>Régulière</td><td>Accompagner l'équipe et l'administration d'accueil</td></tr></tbody></table>
+<table><thead><tr><th>Phase</th><th width="149">Nombre de jours maximum sur la période</th><th>Nombre de jours moyen par semaine (avec lissage des variations)</th><th width="155.140625">Implication</th><th>But</th></tr></thead><tbody><tr><td><a href="../../../gerer-son-produit/la-vie-du-produit/investigation/">Investigation</a></td><td>20 jours sur 9 semaines</td><td>2 jours</td><td>Régulière</td><td>Accompagner l'intrapreneur·e pour le rendre autonome</td></tr><tr><td><a href="../../../gerer-son-produit/la-vie-du-produit/construction/">Construction</a></td><td><ul><li>40 jours sur les 6 premiers mois de construction</li><li>25 jours sur 6 mois après 6 mois de construction</li></ul></td><td><p></p><ul><li>2 jours par semaine sur les 6 premiers mois de construction</li><li>1 jours par semaine sur 6 mois après 6 mois de construction</li></ul></td><td><ul><li>Régulière</li><li>Décroissante</li></ul></td><td>Accompagner l'équipe pour la rendre autonome</td></tr><tr><td><a href="../../../gerer-son-produit/la-vie-du-produit/acceleration/">Accélération</a></td><td><p>25 jours</p><p>sur 6 mois</p></td><td>1 jour</td><td>Décroissante</td><td>Accompagner l'équipe pour l'aider à accélérer</td></tr><tr><td><a href="../../../gerer-son-produit/la-vie-du-produit/perennisation/">Pérennisation</a></td><td><p>15 jours</p><p>sur 6 mois</p></td><td>1 jour</td><td>Régulière</td><td>Accompagner l'équipe et l'administration d'accueil</td></tr></tbody></table>
 
 Une implication régulière signifie que le ou la coach sera présent de façon continue tout au long de la mission.
 
 Une implication décroissante signifie que le ou la coach sera de moins en moins présent tout au long de la mission.
 
-⚠️ **Le nombre de jour facturable maximum autorisé par semaine en tant que coach est de 1 jour strict.**
+⚠️ Ainsi après la phase d'investigation et les 6 premiers mois de construction, l**e nombre de jours facturables maximum autorisé par semaine en tant que coach est en moyenne de 1 jour strict.**
 
-Au delà de cet unique jour facturé par semaine, il ne s'agit plus d'une mission de coaching. Cela signifie que le ou la coach intervient plutôt sur une mission de product management, déploiement, ou autre. Cette pratique est autorisée, en revanche le montant facturé pour les jours complémentaires à celui de coaching doit être adapté à la mission (voir [l'observatoire des revenus](https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/les-differents-statuts/independants-freelances/observatoire-revenus#la-grille-indicative-des-tjm-observes)).
+**Au delà de cet unique jour facturé par semaine, il ne s'agit plus d'une mission de coaching**. Cela signifie que le ou la coach intervient plutôt sur une mission de product management, déploiement, ou autre. Cette pratique est autorisée si elle permet d'assurer qualité et continuité de service, le temps que l'intrapreneur·e porte ensuite ce rôle. En revanche le montant facturé pour les jours complémentaires à celui de coaching doit être adapté à la mission (voir [l'observatoire des revenus](https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/les-differents-statuts/independants-freelances/observatoire-revenus#la-grille-indicative-des-tjm-observes)).
 
 {% hint style="info" %}
 **Quelle différence avec un(e) responsable de produit ?**
@@ -59,8 +84,6 @@ C'est le cas lorsque qu'il n'y a plus d'intra dans l'équipe ou que celui ou cel
 
 Le gestionnaire de produit est différent du coach car il conçoit avec l'équipe à la différence du coach qui accompagne.
 {% endhint %}
-
-**Comment définir le niveau d'intervention d'une personne qui coache ?**
 
 Un échange entre le coach, l'intra et le/la responsable de portefeuille permet de définir le niveau d'intervention adaptée à la mission au regard du contexte, des attentes et des compétences de chacun.
 
@@ -107,26 +130,7 @@ Le cahier des charges du **marché interministériel de mentorat** (2024 - 2028)
 >> \
 > Le mentor produit en fin de mission un bilan synthétique pour 10 sessions d’accompagnement et fournit à l’entité bénéficiaire les supports utilisés dans le cadre de l’accompagnement.
 
-***
-
 Ces attentes peuvent être précisées et complétées dans l'expression de besoins.
-
-## **Quel est le rôle du coach ?**
-
-Le rôle du coach au sein d’une startup d’État comprend, mais ne se limite pas à :
-
-* être garant·e du respect de l’approche, de la mise en oeuvre des obligations et standards beta.gouv.fr ;
-* être garant·e de l’impact de l’équipe, l’aider à fixer des objectifs d’impact ;
-* aider à la mise en place d’une équipe, par l'aide à la sélection des développeurs, des chargés de déploiement, des designers ;
-* rechercher le chemin le plus court pour atteindre des premiers usages grandeur nature sans avoir “tout fini” ;
-* accompagner l’équipe pour toujours mettre les utilisateurs en priorité ;
-* travailler en binôme avec l’intra pour le préserver des réflexes et attentes du reste de la structure et qui pourraient nuire à l’objectif de mise en production en moins de 6 mois ;
-* assurer la montée en compétences de l’intra et son autonomisation (notamment via le parcours d'embarquement obligatoire) ;
-* être un appui dans l’organisation de l’équipe : médiation au sein de l’équipe et mise en place de rituels d’équipe.
-
-Le coach doit s’adapter à la configuration de l’équipe qui dépend de l’engagement de l’intrapreneur et de la répartition des rôles. **Son rôle, à terme, est de faire monter en compétences l’équipe** pour lui permettre de s’autonomiser petit à petit (et non pas “faire à la place” de l’équipe). Il doit aussi maîtriser la culture de beta.gouv.fr ; la durée de son expérience en SET est fortement valorisée.
-
-Lecture conseillée pour approfondir cette discussion : l’excellente “[cartographie de pratiques de coaching à beta.gouv.fr](https://docs.google.com/presentation/d/12aEGovHBZYH-xeskRalvhPhGhDG971hibddiGj5f_AU/edit#slide=id.p)” de Raphael.
 
 ***
 
