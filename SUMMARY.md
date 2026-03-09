@@ -170,6 +170,7 @@
     * [Règles d'hygiène informatique et de sécurité](gerer-son-produit/aide-a-la-mise-en-application-des-standards/securite/regles-dhygiene-informatique-et-de-securite.md)
     * [Solution d'authenfication](gerer-son-produit/aide-a-la-mise-en-application-des-standards/securite/authentication.md)
     * [Sécurité et homologation](gerer-son-produit/aide-a-la-mise-en-application-des-standards/securite/securite-and-homologation.md)
+    * [Intégrer la sécurité au cycle de développement](gerer-son-produit/aide-a-la-mise-en-application-des-standards/securite/ressources-integration-securite-cycle-developpement.md)
   * [Protection des données personnelles](gerer-son-produit/aide-a-la-mise-en-application-des-standards/protection-des-donnees-personnelles/README.md)
     * [Analyse d'impact relative à la protection des données (AIPD)](gerer-son-produit/aide-a-la-mise-en-application-des-standards/protection-des-donnees-personnelles/analyse-dimpact-relative-a-la-protection-des-donnees-aipd.md)
     * [Responsabilité de traitement](gerer-son-produit/aide-a-la-mise-en-application-des-standards/protection-des-donnees-personnelles/responsabilite-de-traitement/README.md)
