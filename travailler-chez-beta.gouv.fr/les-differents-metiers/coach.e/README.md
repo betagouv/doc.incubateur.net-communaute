@@ -5,25 +5,27 @@
 Chez [beta.gouv.fr](http://beta.gouv.fr), les coachs sont chargés de mettre en oeuvre les conditions nécessaires pour que les services accompagnés puissent démontrer un impact concret et mesurable sur les usagers et les politiques publiques au sein desquelles ils s’inscrivent. Pour créer ces conditions, les coachs ont les missions suivantes :
 
 * Accompagner la montée en compétences de l’intrapreneur·e ainsi que la création et l'autonomisation de son équipe :
-  * s’assurer que l’intrapreneur·e endosse bien le rôle de “responsable” de son produit et acquiert progressivement l’ensemble des compétences nécessaires pour ce faire
-  * participer au recrutement de l’équipe et s’assurer de son bon fonctionnement
+  * s’assurer que l’intrapreneur·e endosse bien le rôle de “responsable” de son produit et acquiert progressivement l’ensemble des compétences nécessaires pour ce faire ;
+  * participer au recrutement de l’équipe et s’assurer de son bon fonctionnement.
 * Sensibiliser les sponsors en lien avec l’incubateur et/ou la DINUM :
-  * soutenir l’intrapreneur·e dans les relations avec ses sponsors pour obtenir l’autonomie et les financements nécessaires
-  * s’assurer de la tenue et de la qualité des comités d’investissement (tous les 6 mois ou tous les ans)
+  * soutenir l’intrapreneur·e dans les relations avec ses sponsors pour obtenir l’autonomie et les financements nécessaires ;
+  * s’assurer de la tenue et de la qualité des comités d’investissement (tous les 6 mois ou tous les ans).
 * Partager son expertise sur l’accompagnement de services numériques :
-  * s’assurer que l’équipe est focalisée sur l’impact sur les usagers et la politique publique
+  * s’assurer que l’équipe est focalisée sur l’impact sur les usagers et la politique publique ;
   * partager son expérience en aidant l’équipe à choisir les bons outils et méthodes pour atteindre ses objectifs.
-* S’assurer que les standards de [beta.gouv.fr](http://beta.gouv.fr) soient respectés et revus régulièrement
-  * revoir au moins une fois par an le respect des standards : [https://standards.beta.gouv.fr/](https://standards.beta.gouv.fr/)
-  * assurer l'application des standards (trame de comité d'investissement, matrice d'impact, fiche produit à jour...) et, éventuellement, participer à leur évolution.
+* S’assurer que les standards de [beta.gouv.fr](http://beta.gouv.fr) soient respectés et revus régulièrement :&#x20;
+  * revoir au moins une fois par an le respect des standards : [https://standards.beta.gouv.fr/](https://standards.beta.gouv.fr/) ;
+  * assurer l'application des standards (matrice d'impact, fiche produit à jour, trame de comité d'investissement, etc.) et, éventuellement, participer à leur évolution.
 
 Le coach doit s’adapter à la configuration de l’équipe qui dépend de l’engagement de l’intrapreneur·e et de la répartition des rôles. **Son rôle, à terme, est de faire monter en compétences l’équipe** pour lui permettre de s’autonomiser petit à petit (et non pas “faire à la place” de l’équipe). Il doit aussi maîtriser la culture de beta.gouv.fr ; la durée de son expérience en SET est fortement valorisée.
 
-Lecture conseillée pour approfondir cette discussion : l’excellente “[cartographie de pratiques de coaching à beta.gouv.fr](https://docs.google.com/presentation/d/12aEGovHBZYH-xeskRalvhPhGhDG971hibddiGj5f_AU/edit#slide=id.p)” de Raphael.
+{% hint style="info" %}
+Lecture conseillée pour approfondir le rôle du coach : “[cartographie de pratiques de coaching à beta.gouv.fr](https://docs.google.com/presentation/d/12aEGovHBZYH-xeskRalvhPhGhDG971hibddiGj5f_AU/edit#slide=id.p)” _(en cours de mise à jour)_.
+{% endhint %}
 
 #### Focus sur le marché _mentorat_
 
-En complément et pour bien comprendre le cadre normatif, il convient également de s'appuyer sur cet extrait du cahier des charges du marché « Mentorat et animation de communautés pour l’incubateur de services numériques de la DINUM et le réseau [beta.gouv.fr](http://beta.gouv.fr) » (lot 1) (Notification sept 2024 -> sept 2028)
+En complément et pour bien comprendre le cadre normatif, il convient également de s'appuyer sur cet extrait du cahier des charges du marché « Mentorat et animation de communautés pour l’incubateur de services numériques de la DINUM et le réseau [beta.gouv.fr](http://beta.gouv.fr) » (lot 1, notifié en septembre 2024, jusque septembre 2028).
 
 > Le premier lot a pour objectif d’aider la DINUM et ses partenaires à **accompagner, à travers des prestations de mentorat, les agents publics** en charge de services numériques publics pilotés en mode produit :&#x20;
 >
@@ -42,10 +44,10 @@ Le ou la coach **doit faire avec** et **apprendre aux personnes accompagnées à
 
 **Il est attendu des coachs qu’ils et elles adoptent une posture adéquate pour faire monter en compétences les agents publics intrapreneurs ou experts métiers.**
 
-Bien qu'il·elle soit membre de l'équipe à part entière, la personne auprès de qui il·elle est redevable n’est pas le sponsor, mais le·a responsable de l’incubateur dont il·elle dépend et/ou le·a responsable de partenariat de la DINUM, ainsi bien-sûr que l'intrapreneur·e. Ces derniers attendent des coachs qu'ils ou elles :
+Bien qu'il/elle soit membre de l'équipe à part entière, la personne auprès de qui il/elle est redevable n’est pas le sponsor, mais le/a responsable de l’incubateur dont il/elle dépend et/ou le/la responsable de partenariat de la DINUM, ainsi bien-sûr que l'intrapreneur(e). Ces derniers attendent des coachs qu'ils ou elles :
 
-* remontent les difficultés identifiés dans l’exercice de leurs missions (collaboration avec l’intrapreneur·e, conditions de travail de l’équipe…)
-* donnent leur point de vue sur l’opportunité d’investir (ou réinvestir) dans un service au regard du problème visé, de la proposition de valeur du service et de la capacité de l’équipe à faire les choix nécessaires pour avoir un impact. Un·e coach est toujours valorisé·e pour avoir proposé d’arrêter un service qui n’a pas fait ses preuves.
+* remontent les difficultés identifiés dans l’exercice de leurs missions (collaboration avec l’intra, conditions de travail de l’équipe, etc.) ;
+* donnent leur point de vue sur l’opportunité d’investir (ou réinvestir) dans un service au regard du problème visé, de la proposition de valeur du service et de la capacité de l’équipe à faire les choix nécessaires pour avoir un impact. Un·e coach est toujours valorisé(e) pour avoir proposé d’arrêter un service qui n’a pas fait ses preuves.
 
 ***
 
@@ -53,9 +55,9 @@ Bien qu'il·elle soit membre de l'équipe à part entière, la personne auprès 
 
 #### Durée d'une mission
 
-Le coach doit devenir dispensable. Il n’a pas vocation à endosser un rôle opérationnel dans l’équipe dans la durée. Au contraire, il doit aider à prioriser les recrutements et autonomiser l’équipe pour que son implication diminue progressivement. C’est également la responsabilité du coach de s’interroger régulièrement sur le fait de savoir si il ou elle est la bonne personne.
+Le coach doit devenir dispensable. Il n’a pas vocation à endosser un rôle opérationnel dans l’équipe dans la durée. Au contraire, il doit aider à prioriser les recrutements et autonomiser l’équipe pour que son implication diminue progressivement. **C’est également la responsabilité du coach de s’interroger régulièrement sur le fait de savoir si il ou elle est la bonne personne.**
 
-Les éléments partagés ici servent de **référence et de normes**. Ils reflètent d'une part ce que nous avons observé chez beta.gouv.fr, d'autre part l'exigence d'éthique budgétaire liée à notre mission d'intérêt général. Ce document a une valeur indicative et pourra évoluer en fonction du marché et des retours des équipes.
+Les éléments partagés ici servent de **référence et de normes**. Ils reflètent l'exigence d'éthique budgétaire liée à notre mission d'intérêt général.
 
 Afin de maintenir un point de vue extérieur et le recul nécessaire pour un accompagnement optimal, il est obligatoire de ne pas dépasser **un maximum de 2 ans de coaching par la même personne** sur un produit. Au-delà de 2 ans, le maintien d'un·e coach doit être justifié.
 
@@ -136,11 +138,9 @@ Ces attentes peuvent être précisées et complétées dans l'expression de beso
 
 ## **Quelles compétences pour être coach ?**
 
-D’expérience, les meilleurs coachs avec qui nous avons travaillé chez[ beta.gouv.fr](http://beta.gouv.fr) ont une expérience entrepreneuriale et savent un peu tout faire (tech, design, bizdev, politique, etc.). Ils et elles ont du vécu et savent gérer des situations complexes.
+Dans la majorité des cas, les coachs ont une expérience entrepreneuriale : ils/elles savent lancer et déployer un produit. Ils/elles maitrisent, au moins a minima, une grande partie des compétences attendues dans une équipe produit (tech, design, bizdev, politique, etc.). Ils/elles ont du vécu et savent gérer des situations complexes.
 
-Ce sont des personnes qui ont l’expérience de lancer des produits de la page blanche au 1er puis à 1 000 utilisateurs.
-
-Un extrait du cahier des charges du marché :&#x20;
+Cet extrait du cahier des charges du marché interministériel précise les compétences attendues pour les prestations de coaching :&#x20;
 
 > Les prestations décrites dans ce marché nécessitent :
 >
@@ -149,59 +149,22 @@ Un extrait du cahier des charges du marché :&#x20;
 > * Pour les produits à fort potentiel d’impact ou particulièrement complexes, **une expérience entrepreneuriale dans la création de services en mode produit** : définition d’un modèle économique, identification d’une adéquation produit-marché, définition des indicateurs clés de performance ou métriques d’impact, prise de risque, travail en équipe resserrée et autonome, préparation de comités d’investissement et levée de fonds
 > * Une connaissance ou une curiosité pour l’environnement administratif et l’innovation dans le secteur public
 
-Voici quelques grandes catégories de compétences à maîtriser pour pouvoir accompagner effectivement une équipe de SET.
+En complément, les coachs s'appuient également sur des compétences dans les domaines suivants :&#x20;
 
-**Product management**
+* **Design de produit numérique :** sourcer les demandes d’évolutions des usagers (entretiens usagers, outils de centralisation des demandes).
+* **Déploiement :** pitch, écoute terrain, préparer des comités d'investissement, marketing, etc.
+* **Culture produit et/ou connaissance de l'approche beta.gouv.fr :** bases théoriques sur le mode produit et les méthodes agiles ; capacité à comprendre et à transmettre l'approche beta.gouv.fr à l'intra.
 
-* Connaissances techniques pour comprendre les implications techniques du développement d’une fonctionnalité
-* Gestion de produit : savoir prioriser les développements en fonction de l’impact, les retours utilisateurs et de la vision produit.
-
-Aide pour acquérir cette compétence : demander au/à la Product Owner/manager de son équipe d’expliquer son travail. S’il n’y en a pas alors demander sur le canal Mattermost [#incubateur-help](https://mattermost.incubateur.net/betagouv/channels/incubateur-help).
-
-**Design de produit numérique**
-
-Sourcer les demandes d’évolutions des usagers : entretiens usagers, outils de centralisation des demandes.
-
-Aide pour acquérir cette compétence : Consulter les contenus et formations proposées par les designers transverses
-
-* [https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur)
-* [https://doc.incubateur.net/design/nos-rendez-vous-design/formation](https://doc.incubateur.net/design/nos-rendez-vous-design/formation)
-
-**Méthodes Entrepreneuriales**
-
-Définir un business modèle, identifier un product-market fit, définir des KPI ou métriques d’impact, etc.
-
-**Déploiement**
-
-* Maîtriser l’art du pitch
-* Savoir approcher et convaincre les dirigeants d'administrations
-* Savoir interroger le terrain, être à l’écoute
-* Savoir préparer/présenter les comités d’investissement
-* Marketing et communication numérique (SEO/SEA, growth hacking, stratégies sur les réseaux sociaux)
-
-Aide pour acquérir cette compétence :
-
-* Suivre la formation chargé.e de déploiement chez beta.gouv.fr : [https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/le-metier-de-charge.e-de-deploiement-chez-beta.gouv](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/decouvrir-les-differents-metiers-dune-startup-detat/le-metier-de-charge.e-de-deploiement-chez-beta.gouv)
-* Participer au Club bizdev mensuel
-
-**Animation d’équipe**
-
-C’est un rôle transverse qui demande de coordonner l’ensemble des métiers d’une équipe pour fluidifier les échanges et créer des synergies.
-
-Rituels d’équipe (mise en place d’outils partagés (Trello, Airtable, etc), animations d’ateliers OKRs, de rétros, de post-mortem, de codev).
-
-**Connaître la culture beta.gouv.fr**
-
-Être en mesure d’expliquer et de transmettre cette culture à l’intrapreneur·e et les nouveaux membres de l’équipe, s’impliquer au sein de la communauté.
-
-Aide pour acquérir cette compétence : participer [aux rituels et événements de la communauté](../../../decouvrir-beta.gouv.fr/la-communaute/les-rituels/).
+{% hint style="info" %}
+**Besoin d'aide pour affiner ou renforcer l'une de ces compétences ?** Tu peux participer [aux rituels et événements de la communauté](../../../decouvrir-beta.gouv.fr/la-communaute/les-rituels/) ou poser des questions sur le canal Mattermost [#incubateur-help](https://mattermost.incubateur.net/betagouv/channels/incubateur-help).
+{% endhint %}
 
 ***
 
 ## **Quelles aides pour le coach ?**
 
-**Un·e coach ne peut pas tout faire**. Il est même parfois pertinent de choisir une aide extérieure pour prendre du recul sur les situations humaines critiques ou les prises de décision difficiles. En fonction des situations, un·e coach doit savoir passer la main.
+**Un(e) coach ne peut pas tout faire**. Il est même parfois pertinent de choisir une aide extérieure pour prendre du recul sur les situations humaines critiques ou les prises de décision difficiles.
 
-Pour répondre à cet enjeu, le [coaching RH (clinique des situations difficiles)](https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/vie-quotidienne-et-bien-etre/gerer-des-situations-comliquees/coaching-rh-clinique-des-situations-difficiles) est le bon support d'accompagnement. C'est un programme qui a pour objectif de donner aux intrapreneur·es des **clés concrètes** pour mieux gérer les situations collectives et améliorer le fonctionnement de leurs équipes.
+Pour répondre à cet enjeu, beta.gouv.fr propose un [coaching RH (clinique des situations difficiles)](https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/vie-quotidienne-et-bien-etre/gerer-des-situations-comliquees/coaching-rh-clinique-des-situations-difficiles) : cette offre d'accompagnement s'adresse aux intras et a pour objectif de leur apporter des **clés concrètes** pour mieux gérer les situations collectives et améliorer le fonctionnement de leurs équipes.
 
 ***
