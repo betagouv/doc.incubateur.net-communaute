@@ -64,8 +64,8 @@ Si le service fait est correct, le service fait est enregistré dans le logiciel
 
 ### Étape 4 : le titulaire dépose sa facture dans le logiciel Chorus Pro. <a href="#id-5-le-titulaire-depose-sa-facture-dans-le-logiciel-chorus" id="id-5-le-titulaire-depose-sa-facture-dans-le-logiciel-chorus"></a>
 
-Pour être payé, l'entreprise titulaire doit déposer sa facture dans [CHORUS Pro](https://portail.chorus-pro.gouv.fr/aife_csm/?id=aife_index). Il peut le faire au moment où il dépose le PVSF ou lorsque celui-ci est enregistré.
+Pour être payé, l'entreprise titulaire doit déposer sa facture dans [CHORUS Pro](https://portail.chorus-pro.gouv.fr/aife_csm/?id=aife_index). Elle peut le faire au moment où elle dépose son livrable ou **lorsque le PV de service fait est enregistré** (mais de préférence lorsque le PVDF est enregistré car l'administration peut demander un complément si le livrable ne convient pas).
 
 ### Étape 5 : le comptable public réalise le paiement
 
-Le comptable public réalise le paiement correspondant au montant de la facture sous 30 jours (sauf pour les TPE qui peuvent demander un paiement direct), si et seulement si le service fait a bien été enregistré dans CHORUS.
+Le comptable public réalise le paiement correspondant au montant de la facture sous 30 jours (sauf pour les TPE qui peuvent demander un paiement direct), si et seulement si le service fait a bien été enregistré dans CHORUS et qu'il y a conformité entre SF et facture.
