@@ -2,7 +2,6 @@
 description: >-
   Les informations ci-dessous concernent les startups d’État ou incubateurs
   utilisant les marchés de la DINUM.
-hidden: true
 icon: calendar-days
 ---
 
