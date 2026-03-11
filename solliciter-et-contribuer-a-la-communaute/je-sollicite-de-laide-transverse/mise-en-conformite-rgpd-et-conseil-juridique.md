@@ -46,7 +46,7 @@ La DINUM propose également régulièrement des sessions de formation à la conf
 
 **Comment solliciter ces prestations ?**
 
-* ateliers collectifs ponctuels (format court ou long) -> le contact actuel du prestataire est Thomas Menant, de Numéricité, entreprise sous-traitante (thomas.menant.ext@beta.gouv.fr)
+* ateliers collectifs ponctuels (format court ou long) -> le contact actuel du prestataire est Thomas Menant, de Numéricité, entreprise sous-traitante (thomas.menant.ext@beta.gouv.fr ou [#domaine-juridique](https://mattermost.incubateur.net/betagouv/channels/domaine-juridique))
 * formations RGPD -> inscriptions aux sessions planifiées par la DINUM et proposées sur l'[espace membre](https://espace-membre.incubateur.net/formations?filter=)
 
 
