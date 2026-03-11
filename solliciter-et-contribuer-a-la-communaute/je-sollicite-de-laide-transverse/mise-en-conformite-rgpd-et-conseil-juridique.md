@@ -33,14 +33,21 @@ Deux formats sont possibles :
   * production d’éléments de langage pour rassurer vos partenaires ;
   * challenge exemplarité : analyse des outils tiers utilisés et proposition de solution plus “vertueuses” ;
   * sensibilisation au droit et à la protection des données. \\
-* **Formats plus longs** : ateliers collectifs avec l’ensemble des membres de l’équipe pour détourer les contours du produit et permettre de fixer le périmètre juridique du produit, itération sur une vision collective permettant de produire la documentation obligatoire.
-  * coaching conformité généralement pour des produits en phase d’accélération : réalisation d’étude d’impact sur la vie privée, rédaction d’un texte juridique ;
-  * Accompagnement pour préparer et participer aux réunions les moins sexys du monde
+*   **Formats plus longs** : ateliers collectifs avec l’ensemble des membres de l’équipe pour détourer les contours du produit et permettre de fixer le périmètre juridique du produit, itération sur une vision collective permettant de produire la documentation obligatoire.
+
+    * coaching conformité généralement pour des produits en phase d’accélération : réalisation d’étude d’impact sur la vie privée, rédaction d’un texte juridique ;
+    * Accompagnement pour préparer et participer aux réunions les moins sexys du monde
+
+
+
+La DINUM propose également régulièrement des sessions de formation à la conformité au RGPD.
+
+
 
 **Comment solliciter ces prestations ?**
 
 * ateliers collectifs ponctuels (format court ou long) -> le contact actuel du prestataire est Thomas Menant, de Numéricité, entreprise sous-traitante (thomas.menant.ext@beta.gouv.fr)
-* formations thématiques -> inscriptions aux sessions planifiées par la DINUM et proposées sur l'[espace membre](https://espace-membre.incubateur.net/formations?filter=)
+* formations RGPD -> inscriptions aux sessions planifiées par la DINUM et proposées sur l'[espace membre](https://espace-membre.incubateur.net/formations?filter=)
 
 
 
