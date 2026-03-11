@@ -1,33 +1,54 @@
-# Conseil juridique et mise en conformité RGPD
+# Questions juridiques et mise en conformité RGPD
 
-## Qui propose de l’aide ?
+### Qui propose de l'aide ?
 
-En plus des intervenants de la DINUM, vous pouvez contacter des coachs conformité/complexité.
+Bien sûr pour toute question de nature juridique, vous pouvez vous tourner vers votre direction des affaires juridiques.
 
-Tout le monde est disponible sur Mattermost, channel [#domaine-juridique](https://mattermost.incubateur.net/betagouv/channels/domaine-juridique).
+Mais vous pouvez aussi vous tourner :
 
-En asynchrone, un webinaire reprend [les questions les plus posées par les équipes beta.gouv.fr.](https://tube.numerique.gouv.fr/w/18C1ebBoBLkEi2QwCDe3ej)
+* vers des coachs, experts en conformité (via le marché)
+* vers des pairs dans la communauté (qui ont peut-être rencontré les mêmes problèmes que vous) via le channel mattermost [#domaine-juridique](https://mattermost.incubateur.net/betagouv/channels/domaine-juridique).
 
-## Qu’est-ce qu’on propose ?
+### Quelles sont les options ?
 
-On vous propose de répondre rapidement à toute question liée à la conformité ou de nature “juridique”.
+#### 1- Tout d'abord, demandez à votre incubateur si une **offre de prestation d'accompagnement** est proposée
 
-Formats possibles :
+**De quoi s'agit-il ?**
+
+Le marché de mentorat qui court jusqu'à septembre 2028 comprend l'UO 1.3. : "UO Conformité - mentorat pour la mise en conformité des produits conçus selon l’approche Startup d’État et l’amélioration de la qualité produit"
+
+-> Cette prestation permet de couvrir tous les aspects de la conformité, dont l'aspect juridique (propriété intellectuelle, respect de la vie privée, conformité juridique, etc.).
+
+#### 2 - En l'absence d'offre à l'incubateur, vous pouvez participer à des ateliers collectifs ou des sessions de formation proposés par la DINUM à la communauté [beta.gouv.fr](https://beta.gouv.fr) et mobilisant des experts du numérique.
+
+**De quoi s'agit-il ?**
+
+Parmi ces ateliers collectifs, certains sont dédiés aux questions liées au droit du numérique, à la protection des données personnelles, etc.
+
+Deux formats sont possibles :
 
 * Formats courts : intervention ponctuelle sur demande des startups
-  * entretiens “speed dating”, demande par mail / mattermost ;
+  * entretiens “speed dating”, demande par mail ;
   * rédaction, relecture, précision des éléments indispensables à votre conformité RGPD (production documentaire : mentions légales, CGU, politique de confidentialité) ;
   * production d’éléments de langage pour rassurer vos partenaires ;
   * challenge exemplarité : analyse des outils tiers utilisés et proposition de solution plus “vertueuses” ;
   * sensibilisation au droit et à la protection des données. \\
 * Formats plus longs : ateliers collectifs avec l’ensemble des membres de l’équipe pour détourer les contours du produit et permettre de fixer le périmètre juridique du produit, itération sur une vision collective permettant de produire la documentation obligatoire.
   * coaching conformité généralement pour des produits en phase d’accélération : réalisation d’étude d’impact sur la vie privée, rédaction d’un texte juridique ;
-  * Participation pour votre compte aux réunions les moins sexys du monde.
+  * Accompagnement pour préparer et participer aux réunions les moins sexys du monde
 
-## Comment solliciter l’équipe ?
+**Comment solliciter ces prestations ?**
 
-* Par Mattermost : [#domaine-juridique](https://mattermost.incubateur.net/betagouv/channels/domaine-juridique)
-* Par mail : [thomas.menant@beta.gouv.fr](mailto:thomas.menant@beta.gouv.fr)
+Dans le cadre du marché interministériel de mentorat, les prestations sont de deux natures :
+
+* ateliers collectifs ponctuels (format court ou long) -> le contact actuel du prestataire est Thomas Menant, de Numéricité, entreprise sous-traitante (thomas.menant.ext@beta.gouv.fr)
+* formations thématiques -> inscriptions aux sessions planifiées par la DINUM et proposées sur l'[espace membre](https://espace-membre.incubateur.net/formations?filter=)
+
+
+
+Ressource en asynchrone :
+
+[Replay d'une session de formation sur la conformité au RGPD](https://tube.numerique.gouv.fr/w/18C1ebBoBLkEi2QwCDe3ej) animée en 2025
 
 ## Ressources
 
