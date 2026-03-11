@@ -10,7 +10,7 @@ Le **Pôle Numérique Inclusif** est un pôle d’expertise transverse qui s’a
 
 ### Que propose le Pôle Numérique Inclusif ? <a href="#que-propose-le-pole-numerique-inclusif" id="que-propose-le-pole-numerique-inclusif"></a>
 
-**Des webinaires et ateliers pour former les membres**&#x20;
+**Des webinaires et ateliers pour former les membres**
 
 * **▶️ Webinaire ou ateliers,** à distance ou lors des forums
 * Pour tous les profils (tech, design, intrapreneur, coach...)
@@ -25,7 +25,6 @@ Le **Pôle Numérique Inclusif** est un pôle d’expertise transverse qui s’a
 
 {% hint style="info" %}
 * Par **email** : [accessibilite@beta.gouv.fr](mailto:accessibilite@beta.gouv.fr)
-* Par [**formulaire**](https://docs.google.com/forms/d/1L4DOpBS9ibJWmWyypOOyB86ExGPLz-IwUuunazugsBU/edit?usp=mail_response_notification\&urp=gmail_link)
 * Sur **Mattermost**, dans le canal [#domaine-accessibilité](https://mattermost.incubateur.net/betagouv/channels/c015lnmttj9)
 {% endhint %}
 
@@ -33,7 +32,7 @@ Le **Pôle Numérique Inclusif** est un pôle d’expertise transverse qui s’a
 
 Le pôle est une équipe pluridisciplinaire d’expertes en accessibilité :
 
-* Anne-Sophie, UX Designer
-* Gauthier, dev
-* Romy, coach
-* Sabrina, produit
+* Anne-Sophie Tranchet, lead design & accessibilité
+* Juliette Ferrer, experte technique accessibilité
+* Romy Duhem-Verdière, coach accessibilité
+* Cécile Freyd-Foucault, product et accessibilité
