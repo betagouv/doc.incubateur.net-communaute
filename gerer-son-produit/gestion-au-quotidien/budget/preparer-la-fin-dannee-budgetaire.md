@@ -16,8 +16,8 @@ Voici quelques informations importantes concernant la gestion de votre budget. C
 
 En fin d'année, les ministères clôturent leur compte, ce qui signifie concrètement :
 
-* **après le 30 novembre environ, nous ne pourrons plus prévoir de nouveaux paiements de prestataires avant la fin janvier N+1** ;
-* **après le 12 décembre environ, nous ne pourrons plus demander de nouveaux devis / émettre de nouvelles commandes jusqu'à début février N+1 environ**.
+* **après le 30 novembre environ, plus de nouveaux paiements de prestataires avant la fin janvier N+1** ;
+* **après le 15 décembre environ, plus de nouveaux devis / de nouvelles commandes jusqu'à début février N+1 environ**.
 
 Cela signifie qu'il vous faudra anticiper car en résumé **on ne peut plus rien faire en termes budgétaires en décembre et en janvier**.
 
@@ -28,17 +28,21 @@ Cela signifie qu'il vous faudra anticiper car en résumé **on ne peut plus rien
 
 ### Encore plus important :
 
-* Ce que l'on appelle les AE et les CP sont utilisables uniquement dans l'année civile pour lesquels ils vous ont été confiés. Si vous ne les utilisez pas, soit vous avez anticipé et prévenu votre ministère pour les reporter sur 2021, soit vous les perdez. Les services budgétaires de vos directions générales vont sûrement vous contacter (ou nous contacter à la DINUM) pour nous demander ce qu'il en est, car il est toujours possible pour eux de redéployer vos enveloppes sur d'autres projets si vous n'allez pas les utiliser et s'ils sont prévenus à temps.
+Ce que l'on appelle les AE et les CP sont utilisables uniquement dans l'année civile pour lesquels ils vous ont été octroyés.
+
+Si vous ne les utilisez pas, soit vous avez anticipé et prévenu votre ministère pour les reporter en année N+1, soit vous les perdez.
+
+En cours d'année, les services budgétaires des directions générales peuvent contacter les services au sujet de la consommation des AE, car il est toujours possible pour eux de redéployer ces enveloppes non consommées sur d'autres projets s'ils sont prévenus à temps.
 
 #### Pour donner quelques exemples :
 
-* si aujourd'hui **il vous reste 100 000 euros d'AE** en 2020, soit :
+* si aujourd'hui **il vous reste 100 000 euros d'AE**, soit :
   * vous pensez que vous aller tout engager avant le 10 décembre (i.e. émettre des devis pour un montant proche de 100 000 euros), et dans ce cas vous n'avez rien à faire si ce n'est faire les demandes de devis - vous pouvez le faire dès maintenant en anticipation, ou plus tard si besoin ;
   * vous pensez qu'il vous faut plus de budget, et dans ce cas-là vous entamez une discussion avec votre Direction générale par exemple lors d'un comité ;
-  * vous pensez que vous n'allez pas tout engager, dans ce cas-là vous estimer le montant qui ne sera pas engagé et vous prévenez au plus vite la DINUM (avant la mi-novembre de préférence) et votre direction générale. Cela permettra à votre direction générale de redéployer l'enveloppe.
-* si aujourd'hui **il vous reste 100 000 euros de CP** en 2020, soit :
-  * cela correspond à des prestations engagées qui se termineront avant la fin novembre, dans ce cas là il faudra bien penser à demander le service fait à votre prestataire, le valider et nous le transmettre à la DINUM pour signature. Nous vous remercions d'anticiper au maximum la validation des services faits car nous gérons une centaine de partenariats à la DINUM et nous n'aurons pas le temps de tout traiter en dernière minute. Les prestataires seront payés sous 30 jours au moment de l'enregistrement du Service fait à la DINUM.
-  * vous estimez que vous n'allez pas tout payer en 2020, dans ce cas-là il faut prévenir votre direction générale et la DINUM pour organiser le report de ces crédits en 2021.
+  * vous pensez que vous n'allez pas tout engager, dans ce cas-là vous estimer le montant qui ne sera pas engagé et vous prévenez au plus vite votre direction générale (ou la DINUM le cas échéant). Cela permettra à votre direction générale de redéployer l'enveloppe.
+* si aujourd'hui **il vous reste 100 000 euros de CP**, soit :
+  * cela correspond à des prestations engagées qui se termineront avant la fin novembre, dans ce cas là il faudra bien penser à demander le service fait à votre prestataire, le valider, le signer et le transmettre à votre service de gestion financière. Il convient d'anticiper au maximum la validation des services faits car les services gestionnaires reçoivent beaucoup de demande de paiement en fin d'année et n'ont pas le temps de tout traiter en dernière minute. Les prestataires seront payés sous 30 jours à partir de la réception de la facture.
+  * vous estimez que vous n'allez pas tout payer, dans ce cas-là il faut prévenir votre direction générale pour organiser le report de ces crédits en année N+1.
 
 ## **Que faire pour vous préparer ?**
 
