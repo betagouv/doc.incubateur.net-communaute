@@ -1,7 +1,7 @@
 ---
 description: >-
-  Les informations ci-dessous concernent les startups d’État ou incubateurs
-  utilisant les marchés de la DINUM.
+  Les informations ci-dessous concernent toutes les personnes passant des
+  commandes ou gérant un budget pour sa startup d'État ou son incubateur.
 icon: calendar-days
 ---
 
