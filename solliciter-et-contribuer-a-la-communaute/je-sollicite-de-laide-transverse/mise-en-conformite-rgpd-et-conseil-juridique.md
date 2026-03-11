@@ -23,7 +23,7 @@ Le marché de mentorat qui court jusqu'à septembre 2028 comprend l'UO 1.3. : "U
 
 **De quoi s'agit-il ?**
 
-Des ateliers collectifs dédiés aux questions liées au droit du numérique, à la protection des données personnelles, etc.
+La DINUM met à disposition de la communauté, via le même marché, des ateliers collectifs dédiés aux questions liées au droit du numérique, à la protection des données personnelles, etc.
 
 Deux formats sont possibles :
 
@@ -38,8 +38,6 @@ Deux formats sont possibles :
   * Accompagnement pour préparer et participer aux réunions les moins sexys du monde
 
 **Comment solliciter ces prestations ?**
-
-Dans le cadre du marché interministériel de mentorat, les prestations sont de deux natures :
 
 * ateliers collectifs ponctuels (format court ou long) -> le contact actuel du prestataire est Thomas Menant, de Numéricité, entreprise sous-traitante (thomas.menant.ext@beta.gouv.fr)
 * formations thématiques -> inscriptions aux sessions planifiées par la DINUM et proposées sur l'[espace membre](https://espace-membre.incubateur.net/formations?filter=)
