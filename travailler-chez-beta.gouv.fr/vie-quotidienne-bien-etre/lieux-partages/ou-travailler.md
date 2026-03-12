@@ -1,8 +1,7 @@
 ---
 description: >-
   Cette page recense les lieux où les membres de la communauté peuvent
-  travailler et/ou organiser des événements professionnels partout en France. Il
-  est recommandé de réserver ou prendre contact avant.
+  travailler et/ou organiser des événements professionnels partout en France.
 ---
 
 # Les lieux de la communauté
@@ -15,12 +14,12 @@ Des membres de la communauté beta.gouv.fr travaillent un peu partout en France.
 
 ### L'ETAP
 
-L'ETAP (Espace de Travail de l'Agent Public) est le 1er espace de coworking entièrement dédié aux agents publics, mais en fait à tous ceux qui ont un email en .gouv.fr , comme la vôtre qui est en @beta.gouv.fr . Il est **gratuit** et ouvert **du mardi au jeudi**.
+L'ETAP (Espace de Travail de l'Agent Public) est le 1er espace de coworking entièrement dédié aux agents publics : il est accessible, gratuitement et sur réservation, à tous les membres de la communauté ayant une adresse en .gouv.fr (donc en @beta.gouv.fr).
 
 * ETAP 75 - 47 rue Le Peletier, 75009 Paris
-* ETAP 91 - Bd de France, 91919 Evry-Courcouronnes
-* ETAP 94 - 21-29 Av du Général de Gaulle, 94000 Créteil
-* ETAP 95, 5 Av. Ber,ard Hirsch, 95000 Cergy
+* ETAP 91 - boulevard de France, 91919 Evry-Courcouronnes
+* ETAP 94 - 21-29 avenue du Général de Gaulle, 94000 Créteil
+* ETAP 95 - 5 avenue Bernard Hirsch, 95000 Cergy
 
 Lien d'inscription / réservation : [https://etap-prefecture.fr/reserver-un-etap/](https://etap-prefecture.fr/reserver-un-etap/)
 
@@ -32,18 +31,17 @@ Tél : 01 79 84 33 00
 
 Mail : lelieu.ditp@modernisation.gouv.fr
 
-Le Lieu de la transformation publique est un espace commun dédié aux travaux des laboratoires d’innovation et des équipes de transformation publique des administrations. Les espaces du Lieu sont exclusivement proposés aux travaux d’intelligence collective (Design sprints, Idéathons, Hackathons, Co-Dev, Ateliers de formation…) et ne sont pas destinés à accueillir de simples réunions, ou des séminaires."
+Le Lieu de la transformation publique est un espace commun dédié aux travaux des laboratoires d’innovation et des équipes de transformation publique des administrations. Les espaces du Lieu sont exclusivement proposés aux travaux d’intelligence collective (Design sprints, Idéathons, Hackathons, Co-Dev, Ateliers de formation…) et ne sont pas destinés à accueillir de simples réunions, ou des séminaires.
 
-Il est accessible uniquement sur réservation en remplissant le formulaire suivant : [https://www.demarches-simplifiees.fr/commencer/reservation-lieu-transformation-publique](https://www.demarches-simplifiees.fr/commencer/reservation-lieu-transformation-publique)
+Il est accessible uniquement sur réservation en remplissant le formulaire suivant : [https://demarche.numerique.gouv.fr/commencer/accompagnement-par-le-lieu](https://demarche.numerique.gouv.fr/commencer/accompagnement-par-le-lieu)
 
 ### La Plateforme de l'inclusion
 
-6 Boulevard St Denis, 75010 Paris
+6 boulevard St Denis, 75010 Paris
 
 Il arrive que des places soient inoccupées dans les locaux du [GIP Plateforme de l'inclusion](https://inclusion.gouv.fr) et de [la Mednum](https://lamednum.coop) pour des individus. Les salles de réunion ne sont malheureusement pas disponibles pour accueillir des groupes extérieurs.
 
 Faire une demande sur le canal Mattermost [\~gip-inclusion-locaux](https://mattermost.incubateur.net/betagouv/channels/gip-inclusion-locaux), pour voir s'il reste de la place et qui sera là pour vous ouvrir.
-
 
 ### 6-LAB, activateur à projet des Ministères sociaux
 
@@ -96,8 +94,8 @@ Une question ? 👉 [\~bureaux-bretagne](https://mattermost.incubateur.net/betag
 Pour:
 
 * venir travailler seul à la journée :
-  * soit devenir membre (35€HT/mois pour un accès à toutes les cordées de France + \~3€/heure 👉 [les tarifs](https://www.la-cordee.net/nos-tarifs-ht-lyon-annecy-nantes-rennes/))
-  * soit se faire inviter par un des membres de beta (poser la question sur [\~bureaux-bretagne](https://mattermost.incubateur.net/betagouv/channels/bureaux-bretagne))
+  * devenir membre (35€HT/mois pour un accès à toutes les cordées de France + \~3€/heure 👉 [les tarifs](https://www.la-cordee.net/nos-tarifs-ht-lyon-annecy-nantes-rennes/))
+  * se faire inviter occasionnellement par un membres de beta.gouv.fr (poser la question sur [\~bureaux-bretagne](https://mattermost.incubateur.net/betagouv/channels/bureaux-bretagne))
 * réserver une salle de réunion : possible sans être membre et sans abonnement, paiement à la demi-journée, 2 salles de \~ 5 à 10 places dispo 👉 [les salles](https://www.la-cordee.net/salles-de-reunion/)
 
 ### [Tilab](https://www.bretagne.bzh/actualites/ti-lab-laboratoire-regional-dinnovation-publique/)
