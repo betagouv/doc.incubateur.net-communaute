@@ -24,7 +24,7 @@ La fiche métier « intrapreneur » est inscrite au répertoire des métiers de 
 
 ## La certification intras
 
-La DINUM reconnaît le métier particuliers des intras en délivrant une certification "Concevoir un service numérique public". Consultez la page suivante pour en savoir plus.
+La DINUM reconnaît le métier particulier des intras en délivrant une certification "Concevoir un service numérique public". Consultez la page suivante pour en savoir plus.
 
 {% content-ref url="certification-des-intrapreneurs/" %}
 [certification-des-intrapreneurs](certification-des-intrapreneurs/)
@@ -36,9 +36,8 @@ La DINUM reconnaît le métier particuliers des intras en délivrant une certifi
 
 Depuis 2025, une équipe est dédiée à l'accompagnement des intras et à l'animation de la communauté des intras :
 
-* Benjamin Doberset, responsable du pôle animation de l'incubateur de la DINUM : benjamin.doberset@beta.gouv.fr
-* Magali Marcel Garreau, responsable de portefeuille : magali.marcel@beta.gouv.fr
 * Marine Purson, responsable animation de la communauté beta.gouv.fr : marine.purson@beta.gouv.fr
+* Magali Marcel Garreau, responsable de partenariat : magali.marcel@beta.gouv.fr
 
 N'hésitez pas à les solliciter !
 
