@@ -6,6 +6,8 @@ C'est une solution open-source qui propose également une API
 
 L'équipe de l'opérateur de la DINUM propose une instance GRIST pour notre communauté sur [https://grist.numerique.gouv.fr](https://grist.numerique.gouv.fr).
 
+Pour vos applications, vous pouvez utiliser des [comptes de service](https://forum.grist.libre.sh/t/comptes-de-services-une-cle-api-limitee-a-certains-documents-dossiers-organisations/2198) pour utiliser [l'API GRIST](https://support.getgrist.com/fr/rest-api/).
+
 {% embed url="https://www.youtube.com/watch?v=HyEU5k1I3ao" %}
 
 👉 [Documentation en Français pour GRIST](https://support.getgrist.com/fr/)
