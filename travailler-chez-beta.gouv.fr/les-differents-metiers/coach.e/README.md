@@ -20,7 +20,7 @@ Chez [beta.gouv.fr](http://beta.gouv.fr), les coachs sont chargés de mettre en 
 
 
 {% hint style="info" %}
-Lecture conseillée pour approfondir le rôle du coach : “[cartographie de pratiques de coaching à beta.gouv.fr](https://docs.google.com/presentation/d/12aEGovHBZYH-xeskRalvhPhGhDG971hibddiGj5f_AU/edit#slide=id.p)” _(en cours de mise à jour)_.
+Lecture conseillée pour approfondir le rôle du coach : “[cartographie de pratiques de coaching à beta.gouv.fr](https://docs.google.com/presentation/d/1zmik_ehpR7MGRA1pyZgCru4XoPdZ-9oX/edit?usp=sharing\&ouid=104063848801394146355\&rtpof=true\&sd=true)”.
 {% endhint %}
 
 #### Focus sur le marché _mentorat_
