@@ -12,15 +12,6 @@ Chaque mois, entre 60 et 100 membres de la communauté [beta.gouv.fr](http://bet
 
 Il s’agit d’une journée de rencontres et d’échanges en présentiel pour favoriser le partage d’expérience entre les différentes équipes de Startups d’État et les différents ministères.
 
-{% hint style="info" %}
-Les prochains forums mensuels auront lieu au Lieu de la transformation publique aux dates suivantes :
-
-* jeudi 4 septembre 2025 - thème : déploiement et impact
-* jeudi 2 octobre 2025 - thème : les standards de qualité numérique
-* jeudi 6 novembre 2025 - thème à définir
-* mercredi 3 décembre 2025 - thème : intrapreneuriat public, co-organisé avec l'incubateur France Travail
-{% endhint %}
-
 ![Le forum beta.gouv.fr en juillet 2022, au Lieu de la transformation publique](../../../.gitbook/assets/IMG_8811.jpg)
 
 ## Informations pratiques
