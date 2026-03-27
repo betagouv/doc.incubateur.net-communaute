@@ -2,7 +2,7 @@
 description: >-
   Tu as rejoint une équipe, une startup ou un incubateur qui fait partie du
   réseau beta.gouv.fr ? Cette page est prévue pour t'aider à embarquer dans la
-  communauté !  L'équipe animation a conçu pour toi
+  communauté !
 ---
 
 # 🐥 Débuter chez beta.gouv.fr
