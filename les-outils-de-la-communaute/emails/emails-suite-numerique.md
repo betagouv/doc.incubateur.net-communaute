@@ -130,7 +130,7 @@ Pour synchroniser avec le calendrier de votre téléphone Android, vous pouvez i
 | ------------ | --------------------------------------------------------------------------------------------------------------|
 | URL          | webmail.beta.gouv.fr                                                                                          |
 | utilisateur  | prenom.nom[.ext]@beta.gouv.fr                                                                                 |
-| mot de passe | [mot de passe applicatif dédié](https://docs.numerique.gouv.fr/docs/72d85e99-1925-4d3e-ac83-b50b45197784/)    |
+| mot de passe | [mot de passe applicatif dédié](https://docs.numerique.gouv.fr/docs/18098492-d5a0-498c-80dd-600e7027318c/)    |
 
 Vous pouvez configurer le délai de synchronisation dans les paramètres, par exemple "toutes les 15 minutes".
 
