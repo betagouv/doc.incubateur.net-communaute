@@ -12,7 +12,7 @@ Le **Pôle Numérique Inclusif** est un pôle d’expertise transverse qui s’a
 
 **Des webinaires et ateliers pour former les membres**
 
-* **▶️ Webinaire ou ateliers,** à distance ou lors des forums
+* **▶️** [**Webinaire ou ateliers**](../../travailler-chez-beta.gouv.fr/se-former/se-former-en-ligne/formation-a-laccessibilite/)**,** à distance ou lors des forums
 * Pour tous les profils (tech, design, intrapreneur, coach...)
 * [Inscrivez-vous sur l'Espace Membre](https://espace-membre.incubateur.net/formations?filter=Accessibilit%C3%A9)
 

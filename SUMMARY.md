@@ -80,6 +80,7 @@
     * [Webinaires Accessibilité](travailler-chez-beta.gouv.fr/se-former/se-former-en-ligne/formation-a-laccessibilite/README.md)
       * [Sensibilisation à l'accessibilité](travailler-chez-beta.gouv.fr/se-former/se-former-en-ligne/formation-a-laccessibilite/sensibilisation-a-laccessibilite.md)
       * [10 choses faciles à vérifier pour un site plus accessible](travailler-chez-beta.gouv.fr/se-former/se-former-en-ligne/formation-a-laccessibilite/10-choses-faciles-a-verifier-pour-un-site-plus-accessible.md)
+      * [Automatiser les tests d'accessibilité](travailler-chez-beta.gouv.fr/se-former/se-former-en-ligne/formation-a-laccessibilite/automatiser-les-tests-daccessibilite.md)
       * [10 bonnes pratiques pour concevoir des applications mobiles accessibles](travailler-chez-beta.gouv.fr/se-former/se-former-en-ligne/formation-a-laccessibilite/applications-mobiles-accessibles.md)
       * [Communiquer sur les réseaux sociaux](travailler-chez-beta.gouv.fr/se-former/se-former-en-ligne/formation-a-laccessibilite/communiquer-sur-les-reseaux-sociaux.md)
       * [Dataviz et accessibilité](travailler-chez-beta.gouv.fr/se-former/se-former-en-ligne/formation-a-laccessibilite/dataviz-et-accessibilite.md)

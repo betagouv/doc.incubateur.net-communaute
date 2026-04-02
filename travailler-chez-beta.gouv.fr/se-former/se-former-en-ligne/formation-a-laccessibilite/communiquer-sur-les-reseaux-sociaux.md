@@ -1,42 +1,28 @@
 # Communiquer sur les réseaux sociaux
 
-
-
 {% hint style="info" %}
-👉 Voir le [replay](https://bbb-dinum-scalelite.visio.education.fr/playback/presentation/2.3/87785ffa751d94980ff8dab4007b2daa8de53178-1701183207348)
-
-👉 Voir le [support de présentation](https://docs.google.com/presentation/d/1fbZAeCPMs9B0zoUdDGZbAR\_kFtnXaurYqV0QdUjLMXo/edit#slide=id.p)
+👉 Voir le [support de présentation](https://docs.google.com/presentation/d/1fbZAeCPMs9B0zoUdDGZbAR_kFtnXaurYqV0QdUjLMXo/edit#slide=id.p)
 {% endhint %}
 
 Communiquer de manière accessible, pour être lu par toutes et tous nécessite de respecter certaines règles :
 
 * Dans les textes
 
-<!---->
-
-* [ ] **Emojis** : limiter leurs usages
-* [ ] **Hashtags** : mettre une majuscule à chaque nouveau mot (#servicePublic)
-* [ ] **Mise en forme** via des caractères spéciaux : à bannir totalement
-* [ ] **Écriture inclusive** : varier les stratégies pour limiter le point médian
-
-<!---->
+- [ ] **Emojis** : limiter leurs usages
+- [ ] **Hashtags** : mettre une majuscule à chaque nouveau mot (#servicePublic)
+- [ ] **Mise en forme** via des caractères spéciaux : à bannir totalement
+- [ ] **Écriture inclusive** : varier les stratégies pour limiter le point médian
 
 * Dans les images
 
-<!---->
-
-* [ ] Renseigner les **alternatives**
-* [ ] Vérifier les **contrastes**
-* [ ] Éviter les **gifs animés**
-
-<!---->
+- [ ] Renseigner les **alternatives**
+- [ ] Vérifier les **contrastes**
+- [ ] Éviter les **gifs animés**
 
 * Avec les vidéos
 
-<!---->
-
-* [ ] Proposer des **sous-titres**
-* [ ] Proposer une **transcription**
+- [ ] Proposer des **sous-titres**
+- [ ] Proposer une **transcription**
 
 Le _pourquoi_ et le _comment_ de chacune de ces bonnes pratiques sont détaillés dans la suite de cette page.
 
