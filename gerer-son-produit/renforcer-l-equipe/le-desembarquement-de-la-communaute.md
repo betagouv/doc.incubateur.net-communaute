@@ -1,82 +1,122 @@
 ---
 description: >-
-  Cette page est une ébauche en amélioration continue qui tente de formaliser un
-  exemple de procédure de sortie d'un(e) prestataire d'une équipe d'une startup
-  d'Etat.
+  Le désembarquement mal géré d'un membre crée des risques importants pour
+  l'équipe produit. L'intrapreneur·e coordonne son déploiement opérationnel pour
+  permettre un départ sans frictions.
 ---
 
 # Désembarquer un membre de son équipe
 
-### Objectif : sécuriser les équipes et clarifier les options de sortie
+## Pourquoi un désembarquement commun ?
 
-Un départ, qu'il soit choisi ou non, n'est pas une situation confortable à gérer; d'autant plus dans une communauté qui grandit et où les équipes sont autonomes dans leur recrutement. Le sujet de la fin de mission reste donc extrêmement tabou.&#x20;
+Le parcours de désembarquement est **obligatoire** pour tous les membres prestataires quittant la communauté à l’issue ou en cours de mission.
 
-\
-&#xNAN;_&#x51;ui s'en occupe ? Comment cela se passe ? Quelles contraintes reglémentaires ? Quelles options de mise en sécurité des prestataires, du sponsor, des décisionnaires ?_&#x20;
+Il permet d’éviter les principaux problèmes observés :
 
-\
-**Le but : démystifier le départ d'une personne prestataire dans une startup d'Etat, outiller les coachs et intrapreneureuses sur les obligations réglementaires, partager des exemples de bonnes pratiques.**&#x20;
+* Passations incomplètes ou inefficaces entraînant perte de connaissances et risques de blocages opérationnels
+* Accès aux outils non révoqués entraînant des surcouts de licences
+* Expérience humaine dégradée pour le membre et l'équipe en place
 
-### Plusieurs raisons justifiant un départ
+Plus largement, le désembarquement vise à protéger la continuité des services publics numériques, dans une logique de qualité, de sécurité et de pérennité des produits.
 
-Il existe autant de situations amenant un départ et une manière de le gérer que d'équipes. Par exemple, un prestataire peut être amené à quitter une équipe de startup :&#x20;
+En tant qu'intrapreneur·e, il s'agit d'une garantie te permettant d'anticiper et gérer sereinement les mouvements d'effectif.
 
-* lorsque la mission convenue et restreinte dans le temps au moment du recrutement touche à sa fin
-* lorsqu'une startup d'Etat entière se voit dans l'obligation d'arrêter son activité suite à un comité d'investissement (soit pour manque d'impact, manque de budget, par réalisation des objectifs et transfert à l'administration porteuse...)
-* lorsque se révèle au fil des jours de la mission, un non-alignement avec les responsabilités attendues par l'équipe au moment du recrutement
-* lorsque cette personne a trouvé un poste/rôle ailleurs&#x20;
+## Le parcours de désembarquement
+
+Le parcours de désembarquement repose sur 4 phases :
+
+1. Cadrer le départ (alignement, communication)
+2. Organiser la passation (connaissances, responsabilités)
+3. Exécuter la checklist (opérationnel, outillage)
+4. Clôturer proprement (sortie effective, collecte de feedback)
+
+Pour t'aider dans l'organisation d'un désembarquement tu peux solliciter en fonction des étapes : ton incubateur, l'entreprise titulaire de ton marché public ou encore l'équipe animation de beta.gouv.fr via le [coaching RH](https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/vie-quotidienne-et-bien-etre/gerer-des-situations-comliquees/coaching-rh-clinique-des-situations-difficiles) si le cas est difficile.
+
+Par principe, le·a prestataire est autonome dans le déroulé de son désembarquement. **Pour autant c'est aussi le rôle de l'intrapreneur·e de cadrer et faciliter la gestion du départ.** Tu joues notamment un rôle clé sur les enjeux de communication et lors de [l'échange de sortie](https://docs.numerique.gouv.fr/docs/f0c77425-6df7-41ad-b6bd-cecf643ee158/).
+
+### Le parcours de désembarquement en détails
+
+{% embed url="https://docs.google.com/presentation/d/11RDa3dzZPqMFX_ogaWMl0gSGVRGICAfPOkY7Gj4eFYQ/edit?slide=id.g21344f99820_1_74#slide=id.g21344f99820_1_74" %}
+
+## Une checklist opérationnelle de désembarquement
+
+Dès que la date de fin de mission est renseignée et à jour, le prestataire et l'intrapreneur·e peuvent piloter ensemble une checklist de désembarquement depuis l'espace membre du prestataire.
+
+Elle permet de suivre, étape par étape, l’ensemble des actions à réaliser pour quitter l'équipe dans de bonnes conditions.
+
+Il est également possible de la consulter en version documentation ci-dessous. Elle est formulée de sorte qu'elle s'adresse au prestataire 👇
+
+### Dès l’officialisation de la fin de mission
+
+* [ ] Renseigner ta date de départ exacte dans ton espace membre
+* [ ] Informer l'entreprise titulaire du marché public avec laquelle tu as ton contrat
+* [ ] Informer les responsables de l'incubateur, en lien avec l'intra ou la personne responsable de l'équipe
+* [ ] Informer les membres de ton équipe, en lien avec l'intra ou la personne responsable de l'équipe
+* [ ] Préparer ton plan de passation avec l'intra ou la personne responsable de l'équipe produit
+
+### Le dernier mois
+
+* [ ] Documenter, dans un espace partagé au reste de l'équipe, tes connaissances et tes avancées liées au projet
+* [ ] Pour chacune de tes tâches et missions, t'assurer de la transmission et de la reprise en main par une personne de l'équipe
+* [ ] Documenter, dans un espace partagé au reste de l'équipe, l'ensemble des contacts liés au projet (sponsors, contacts, prestataires)
+* [ ] Transmettre tes droits d'administrateur ou d'écriture sur les outils partagés (agenda partagé, canaux Tchap, logiciels métiers)
+
+### Les derniers jours
+
+* [ ] Faire un état des lieux avec l’intra ou la personne responsable de l'équipe produit à J-7 pour identifier si des blocages critiques demeurent
+* [ ] Finaliser tes derniers livrables de mission
+* [ ] Livrer ton dernier rapport de services faits à l'entreprise titulaire du marché public avec laquelle tu as ton contrat
+* [ ] Organiser ton [échange de sortie](https://docs.numerique.gouv.fr/docs/f0c77425-6df7-41ad-b6bd-cecf643ee158/) avec le·a responsable de l'équipe produit
+* [ ] Organiser ton échange de sortie avec l'entreprise titulaire du marché public avec laquelle tu as ton contrat
+* [ ] Si tu utilises Vaultwarden : partager les mots de passe utiles avec ton équipe et supprimer ton compte​
+* [ ] Si tu utilises Scalingo : supprimer ton compte​
+* [ ] Désactiver tous tes comptes ou abonnements liés à ta mission
+* [ ] Sur #incubateur-secretariat, demander à ce qu'on redirige ton adresse @beta.gouv.fr vers departs@beta.gouv.fr
+* [ ] Rendre les badges d'accès aux locaux (Ségur, Plateforme de l'inclusion etc)
+* [ ] Remplir mon [retour d'expérience au sein de la communauté](https://grist.numerique.gouv.fr/o/isn/forms/jGrwi97QpXsRynJpCEubxj/4)
+
+## Comment gérer un départ lorsqu'on est intrapreneur·e ?
+
+### Les cas potentiels
+
+Il existe beaucoup de situations amenant à un potentiel départ. Essayons tout de même de regrouper les cas les plus probables. Par exemple, un prestataire peut être amené à quitter une équipe de startup :
+
+* Lorsque la mission convenue et restreinte dans le temps au moment de la sélection touche à sa fin
+* Lorsque le·a prestataire ne produit pas des livrables à la qualité attendue
+* Lorsqu'il y a désalignement quant au cadre de collaboration
+* Lorsque se révèle au fil des jours de la mission, un non-alignement avec les responsabilités attendues par l'équipe au moment du recrutement
+* Lorsque le·a prestataire a trouvé un poste/rôle ailleurs et souhaite partir
+* Lorsqu'une startup d'Etat se voit dans l'obligation d'arrêter (entièrement ou pour partie) son activité suite à un comité d'investissement (soit pour manque d'impact, manque de budget, par réalisation des objectifs et transfert à l'administration porteuse...)
+
+L'origine peut donc être de 3 sortes :&#x20;
+
+* Unilatérale lorsque l'intrapreneur·e déclenche un départ
+* Unilatérale lorsque le·a prestataire déclenche un départ
+* D'un commun accord lorsque intrapreneur·e et prestataire arrivent à la même conclusion
+
+En fonction de chacun de ces cas, le parcours de désembarquement est à adapter et améliorer. Le format proposé est le minimum nécessaire pour garantir un départ serein.
 
 ### Les obligations réglementaires
 
-A la publication et notification du marché en XXX, était prévu un préavis de 3 jours pour toute sortie d'équipe. Cependant, un avenant à ce marché, datant du XXXXXX, a rallongé cette période de préavis : **doit donc être prévue une période d'**_**au moins 1 mois**_**&#x20;entre le moment où l'équipe acte de la fin d'une mission d'un prestataire, et la fin officielle de collaboration avec cette personne**.&#x20;
+A la publication et notification du marché en XXX, était prévu un préavis de 3 jours pour toute sortie d'équipe. Cependant, un avenant à ce marché, datant du XXXXXX, a rallongé cette période de préavis : **doit donc être prévue une période d'**_**au moins 1 mois**_**&#x20;entre le moment où l'équipe acte de la fin d'une mission d'un prestataire, et la fin officielle de collaboration avec cette personne**.
 
 {% hint style="info" %}
-**Rôle de l'entreprise attributaire :** \
+**Rôle de l'entreprise attributaire :**\
 \
-**Nota bene :** ledit marché des startups d'Etat implique une relation contractuelle tripartite entre : une administration sponsor et financeuse / une équipe d'indépendant / une entreprise attributaire du marché. \
-Il n'existe donc pas à proprement parler de contrat de travail entre l'attributaire et les prestataires; i.e. l'attributaire ne saurait fournir un contrat de travail à un indépendant. \
+**Nota bene :** ledit marché des startups d'Etat implique une relation contractuelle tripartite entre : une administration sponsor et financeuse / une équipe d'indépendant / une entreprise attributaire du marché.\
+Il n'existe donc pas à proprement parler de contrat de travail entre l'attributaire et les prestataires; i.e. l'attributaire ne saurait fournir un contrat de travail à un indépendant.\
 \
-Entre chaque indépendant et son attributaire il y a cependant un contrat clair qui relève du droit commercial et non du droit du travail. L'attributaire doit être impliqué dans la gestion de l'équipe par son rôle de porteur.&#x20;
+Entre chaque indépendant et son attributaire il y a cependant un contrat clair qui relève du droit commercial et non du droit du travail. L'attributaire doit être impliqué dans la gestion de l'équipe par son rôle de porteur.
 {% endhint %}
 
-**L'intrapreureuse, agent(e) publique mobilisé(e) dans la constitution de son équipe; accompagné(e) le plus souvent par un(e) coach sont les personnes les plus à même de gérer la relation avec les membres de l'équipe.**&#x20;
+**L'intrapreureuse, agent·e publique mobilisé·e dans la constitution de son équipe ; accompagné·e le plus souvent par un·e coach sont les personnes les plus à même de gérer la relation avec les membres de l'équipe.**
 
-Leur incombe également la collaboration en bonne intelligence avec le sponsor de proximité et l'entreprise attributaire du marché.&#x20;
+Il leur incombe également la collaboration en bonne intelligence avec le sponsor de proximité et l'entreprise attributaire du marché.
 
-_**📣 Point de vigilance : en cas de litige, l'entreprise attributaire du marché est responsable légale.  Il est donc nécessaire d'inclure celle-ci dans les échanges et dans le process de décision.**_&#x20;
+_**📣 Point de vigilance : en cas de litige, l'entreprise attributaire du marché est responsable légale. Il est donc nécessaire d'inclure celle-ci dans les échanges et dans le process de décision.**_
 
-### Propositions de procédures / parcours dans le désembarquement pour cause de non-alignement
+### D'autres personnes et options de ressources dans la communauté
 
-Des exemples d'actions à mettre en place dans son équipe pour sécuriser la position et collaboration des membres de l'équipe :&#x20;
+**Solliciter un** [**coaching RH**](https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/vie-quotidienne-et-bien-etre/gerer-des-situations-comliquees/coaching-rh-clinique-des-situations-difficiles) **gratuit**. Ce programme, animé par un coach RH a notamment pour objectif de te donner des **clés concrètes** pour mieux gérer les situations collectives ou individuelles de départ.
 
-EN AMONT D'UN RECRUTEMENT
-
-* [ ] (recommandé) Clarifier dans l'annonce et l'offre parue les conditions de recrutement : dates de mission, rôle de la personne recrutée, conditions de portage, les objectifs du rôle
-* [ ] (recommandé) Ne pas hésiter à solliciter l'avis de membre actuel de la communauté dans la relecture de l'offre, dans la participation aux entretiens de recrutement
-* [ ] Convenir avec la personne choisie d'une "note de mission" pour circonscrire et verbaliser les attentes mutuelles sur le rôle. Ex d'un [mandat de mission](https://atelier-numerique.notion.site/Mandat-de-mission-charg-e-de-produit-Phase-de-construction-2-Elles-font-la-culture-S1-2022-1-7e9d2f1c799442ff89c75a2fc4bc2363) pour le rôle de chargée de produit&#x20;
-* [ ] Proposer systhèmatiquement un essai de 1,5 - 2 mois, avec une mission pouvant être compléter dans ces 2 mois et convenir d'un point mi-parcous sur cette "periode d'essai mutuel"
-* [ ] (obligatoire) Communiquer avec l'entreprise porteuse attributaire du marché tout au long du process de recrutement
-
-AU COURS DE LA MISSION
-
-* [ ] Proposer des créneaux fixes mensuels de point "feedback" où peuvent s'inscrire tous les membres de l'équipe. objectif : questionner régulièrement les rôles, les attentes mutuels, les objectifs + prévoir des moments rituels et espaces pour discuter d'éventuels non-alignement&#x20;
-
-AU MOMENT OÙ S'ENVISAGE UN DÉPART
-
-* [ ] Si un non-alignement est perçu par des membres de l'équipe (notamment remontées à l'intra et/ou coach de l'équipe), prévoir plusieurs moments, a minima avec l'intra et le membre de l'équipe en question, afin de verbaliser ces perceptions de non-alignement. Convenir à la fin de l'un de ces moments d'une date et d'actions correctives à mettre en place d'ici là
-* [ ] Si aucun changement n'est possible, pour quelques raisons que ce soit, convenir d'une date de fin de mission **(au minimum, 1 mois après la décision commune et communiquée à la personne en question).**&#x20;
-* [ ] (propositions) **une fois la décision prise et communiquée à la personne concernée: envoyer un message écrit (mail ou mattermost) de la part de l'intra à cette dernière; avec en copie les contacts de l'entreprise attributaire pour formaliser les raisons, les dates, les différentes options envisagées : missions sur le dernier mois, départ immédiat si voulu par le prestataire,...**
-
-APRÈS LE DÉPART
-
-* [ ] Un départ d'une équipe peut également induire de l'insécurité et d'inconfort pour le reste de l'équipe. Il s'agit donc après le départ, de rassurer les membres de l'équipe, de communiquer avec elleux des différentes actions qui ont menées au départ, i.e. d'être transparent sur les raisons et la procédure
-* [ ] (propositions) Organisation d'une rétrospective d'équipe pour aborder le sujet, proposer des points en bilatéral pour répondre aux questions, doutes
-* [ ] mettre à jour la fiche candidat sur l'outil de recrutement WTTJ afin de communiquer au reste de la communauté les conditions du départ, les éventuelles recommandations de l'équipe pour cette personne,...
-
-### D'autres personnes et options de ressources dans la communauté&#x20;
-
-**Contacter le groupe de soutien :** constitué de membres de la communauté, ses membres sont disponibles pour vous écouter en respectant la confidentialité de votre situation en cas de conflit, mal-être ou souffrance, violence ou harcèlement.
-
-Ils sont joignables à l'adresse mail **soutien@beta.gouv.fr** ou individuellement.
-
-Les membres du groupe de soutien sont : Anne Poirot, Bréanne Mallat, Camille Garrigue, Caroline Lawson, Clémence Lopez, Denis Baudot, Florian Briand, Mélodie Dahi, Rebecca Dumazert.
+**Contacter le** [**groupe de soutien**](https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/vie-quotidienne-et-bien-etre/gerer-des-situations-comliquees/le-groupe-de-soutien#comment-contacter-le-groupe-de-soutien) **:** constitué de membres de la communauté, ses membres sont disponibles pour vous écouter en respectant la confidentialité de votre situation en cas de conflit, mal-être ou souffrance, violence ou harcèlement. Ils sont joignables à l'adresse mail **soutien@beta.gouv.fr** ou individuellement.
