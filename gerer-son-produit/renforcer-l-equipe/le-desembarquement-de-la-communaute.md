@@ -96,9 +96,9 @@ L'origine peut donc être de 3 sortes :&#x20;
 
 En fonction de chacun de ces cas, le parcours de désembarquement est à adapter et améliorer. Le format proposé est le minimum nécessaire pour garantir un départ serein.
 
-### Les obligations réglementaires
+### Les obligations liées aux marchés
 
-A la publication et notification du marché en XXX, était prévu un préavis de 3 jours pour toute sortie d'équipe. Cependant, un avenant à ce marché, datant du XXXXXX, a rallongé cette période de préavis : **doit donc être prévue une période d'**_**au moins 1 mois**_**&#x20;entre le moment où l'équipe acte de la fin d'une mission d'un prestataire, et la fin officielle de collaboration avec cette personne**.
+Le marché de réalisation de services numériques en mode produit agile piloté par l’impact notifié en mars 2026, prévoit qu'**un titulaire doit procéder au remplacement d'un experts dans un délai de 5 jours ouvrés suivant la réception de la demande du bénéficiaire**. De même en cas d'indisponibilité d'un expert le titulaire doit en informer le bénéficiaire dans les 3 jours ouvrés et prévoir une période de recouvrement de 10 jours.
 
 {% hint style="info" %}
 **Rôle de l'entreprise attributaire :**\
