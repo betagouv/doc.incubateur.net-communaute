@@ -43,7 +43,7 @@ Il n'y a qu'un seul tourniquet pour l'ensemble des ministères et établissement
 
 Ainsi pour pouvoir connaître le titulaire à qui passer sa commande, il faut faire une demande à la DINUM. Seuls les agents publics peuvent avoir accès au tourniquet.
 
-Toutes les informations sur disponibles ici : ["comment mobiliser le lot 1 du marché ?"](https://docs.numerique.gouv.fr/docs/23d38ca5-6b54-4919-a309-6040cedd075a/)
+Toutes les informations sur disponibles ici : ["Mobiliser le lot 1 du marché"](https://docs.numerique.gouv.fr/docs/23d38ca5-6b54-4919-a309-6040cedd075a/)
 
 Pour toute question : marche-produit@numerique.gouv.fr
 
