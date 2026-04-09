@@ -60,8 +60,9 @@ Le taux de marque des entreprises titulaires s'explique pour plusieurs raisons :
 
 #### Pourquoi y-a-t-il des différences entre les markups des entreprises titulaires ? <a href="#pourquoi-y-a-t-il-des-differences-entre-les-markups-des-entreprises-titulaires" id="pourquoi-y-a-t-il-des-differences-entre-les-markups-des-entreprises-titulaires"></a>
 
-Lors de la mise en concurrence des entreprises titulaires du marché, chacune a présenté une offre indiquant leur markup respectif.
+Chaque entreprise est libre de définir son markup en fonction de ses spécificités et choix commerciaux.  Ces markups peuvent donc être différents. Ils ne sont pas publics en raison du secret commercial.
+
+Lors de la mise en concurrence, les entreprises titulaires du marché ont donc présenté une offre intégrant un markup mais n'ont indiqué que leur prix pour les différentes UO (unités d'oeuvre = prestations du marché).
 
 Ces entreprises ont été notées selon différents critères dont celui du prix.
 
-Ces markups peuvent donc être différents. Ils ne sont pas publics en raison du secret commercial.
