@@ -12,7 +12,7 @@ Ce marché de **construction de produit** notifié en mars 2026 permet de faire 
 
 ### Où trouver le cahier des charges de ce marché ? <a href="#ou-trouver-le-cahier-des-charges-de-ce-marche" id="ou-trouver-le-cahier-des-charges-de-ce-marche"></a>
 
-{% embed url="https://www.data.gouv.fr/fr/datasets/realisation-de-services-publics-numeriques-en-mode-produit-coordonnes-par-le-programme-interministeriel-beta-gouv/" %}
+\[lien à venir]
 
 ### <mark style="background-color:yellow;">Lot 1 - Conception, développement, et exploitation des produits numériques opérés par la DINUM (hors OPI) et par les incubateurs de services numériques des ministères, ainsi que les missions d’accompagnement de produits réalisées par la DINUM</mark> <a href="#qui-peut-beneficier-de-ce-marche" id="qui-peut-beneficier-de-ce-marche"></a>
 
