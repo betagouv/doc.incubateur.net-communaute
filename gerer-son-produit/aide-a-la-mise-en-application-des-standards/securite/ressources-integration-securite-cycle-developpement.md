@@ -291,7 +291,7 @@ déploiement continus :
 CI/CD (GitHub Actions, GitLab CI, etc.).
 
 **Des mécanismes sont déjà en place** : Si votre projet est sur l'organisation
-github betagouv, vous disposez déjà de mécanisme d'analyse statique de
+github betagouv, vous disposez déjà de mécanisme d'analyse statique de code.
 
 ### Exemples d'outils
 
