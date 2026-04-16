@@ -6,32 +6,32 @@ de votre service numérique.
 
 ## Table des matières
 
-1. [Pourquoi l'OWASP ?](#pourquoi-lowasp-comme-principale-référence-)
-   - [Qu'est-ce que l'OWASP ?](#quest-ce-que-lowasp-)
-   - [Pourquoi l'OWASP ?](#pourquoi-lowasp-)
-2. [Documentation des mécanismes de sécurité](#documentation-des-mécanismes-de-sécurité)
+1. [Pourquoi l'OWASP ?](#pourquoi-lowasp-comme-principale-reference)
+    - [Qu'est-ce que l'OWASP ?](#quest-ce-que-lowasp)
+    - [Pourquoi l'OWASP ?](#pourquoi-lowasp)
+2. [Documentation des mécanismes de sécurité](#documentation-des-mecanismes-de-securite)
    - [Authentification](#authentification)
-   - [Contrôle d'accès](#contrôle-daccès)
-   - [Traçabilité et audit (Logging)](#traçabilité-et-audit-logging)
+    - [Contrôle d'accès](#controle-dacces)
+    - [Traçabilité et audit (Logging)](#tracabilite-et-audit-logging)
    - [Usage de la Cryptographie](#usage-de-la-cryptographie)
-   - [Validation, encodage, filtrage des données traitées par l'application](#validation-encodage-filtrage-des-données-traitées-par-lapplication)
-3. [Bonnes pratiques de développement sécurisé](#bonnes-pratiques-de-développement-sécurisé)
-   - [Revue de code orientée sécurité](#revue-de-code-orientée-sécurité)
-   - [Guide de développement sécurisé](#guide-de-développement-sécurisé)
-   - [Classes de vulnérabilités les plus fréquentes](#classes-de-vulnérabilités-les-plus-fréquentes)
-4. [Tests de sécurité automatisés](#tests-de-sécurité-automatisés)
-   - [Intégration de la sécurité dans vos pipeline CI/CD](#intégration-de-la-sécurité-dans-vos-pipeline-cicd)
-   - [Sécurité des pipelines CI/CD](#sécurité-des-pipelines-cicd)
+    - [Validation, encodage, filtrage des données traitées par l'application](#validation-encodage-filtrage-des-donnees-traitees-par-lapplication)
+3. [Bonnes pratiques de développement sécurisé](#bonnes-pratiques-de-developpement-securise)
+    - [Revue de code orientée sécurité](#revue-de-code-orientee-securite)
+    - [Guide de développement sécurisé](#guide-de-developpement-securise)
+    - [Classes de vulnérabilités les plus fréquentes](#classes-de-vulnerabilites-les-plus-frequentes)
+4. [Tests de sécurité automatisés](#tests-de-securite-automatises)
+    - [Intégration de la sécurité dans vos pipeline CI/CD](#integration-de-la-securite-dans-vos-pipeline-cicd)
+    - [Sécurité des pipelines CI/CD](#securite-des-pipelines-cicd)
    - [Exemples d'outils](#exemples-doutils)
 5. [Surveillance continue et gestion de la production](#surveillance-continue-et-gestion-de-la-production)
-   - [Gestion des vulnérabilités](#gestion-des-vulnérabilités)
-   - [Surveillance et réponse aux incidents](#surveillance-et-réponse-aux-incidents)
+    - [Gestion des vulnérabilités](#gestion-des-vulnerabilites)
+    - [Surveillance et réponse aux incidents](#surveillance-et-reponse-aux-incidents)
 6. [Formation et sensibilisation](#formation-et-sensibilisation)
-   - [Ressources de formation](#ressources-de-formation)
-   - [Veille sécurité](#veille-sécurité)
+    - [Ressources de formation](#ressources-de-formation)
+    - [Veille sécurité](#veille-securite)
 7. [Pour aller plus loin](#pour-aller-plus-loin)
-   - [Standards et référentiels](#standards-et-référentiels)
-   - [Ressources spécifiques par technologie](#ressources-spécifiques-par-technologie)
+    - [Standards et référentiels](#standards-et-referentiels)
+    - [Ressources spécifiques par technologie](#ressources-specifiques-par-technologie)
 8. [Contribuer](#contribuer)
 
 ---
@@ -290,6 +290,9 @@ déploiement continus :
 **Cas d'usage** : Audit et sécurisation de votre infrastructure de
 CI/CD (GitHub Actions, GitLab CI, etc.).
 
+**Des mécanismes sont déjà en place** : Si votre projet est sur l'organisation
+github betagouv, vous disposez déjà de mécanisme d'analyse statique de code.
+
 ### Exemples d'outils
 
 #### Détection de secrets
@@ -384,6 +387,7 @@ sensibilisation régulières sont essentielles.
   [Annuaire d'applications volontairement vulnérables - OWASP](https://owasp.org/www-project-vulnerable-web-applications-directory/)
 
 #### Formations en ligne
+
 - [Linux Foundation - Devoloping Secure Software Trainin](https://training.linuxfoundation.org/training/developing-secure-software-lfd121/)
 - [ANSSI - SecNumAcadémie](https://secnumacademie.gouv.fr/) : MOOC
   gratuit sur la sécurité du numérique
