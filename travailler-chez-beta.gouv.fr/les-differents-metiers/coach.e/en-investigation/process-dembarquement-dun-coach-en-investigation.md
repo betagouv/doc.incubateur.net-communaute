@@ -21,6 +21,8 @@ Nous recommandons 5 étapes à suivre :
 
 ⚠️ En complément, et comme n'importe quel·le autre nouveau·elle membre de la communauté, le·a coach doit doit suivre obligatoirement le [parcours d'embarquement.](https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/to-do-darrivee)
 
+⚠️ En complément, et comme n'importe quel·le autre nouveau·elle membre de la communauté, le·a coach doit doit suivre obligatoirement le [parcours d'embarquement.](https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/to-do-darrivee)
+
 ## 1. Suivre le modèle de devis "besoin coach en investigation"
 
 {% hint style="info" %}
