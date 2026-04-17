@@ -2,7 +2,7 @@
 description: >-
   Tu as rejoint une équipe, une startup ou un incubateur qui fait partie du
   réseau beta.gouv.fr ? Cette page est prévue pour t'aider à embarquer dans la
-  communauté !
+  communauté !  L'équipe animation a conçu pour toi
 ---
 
 # 🐥 Débuter chez beta.gouv.fr
@@ -80,6 +80,10 @@ Tu peux la consulter en version documentation juste ici 👇.
 **Si tu es chargé(e) de déploiement/bizdev**
 
 * [ ] Participer à [l'embarquement bizdev](https://espace-membre.incubateur.net/formations?filter=Nouveaux+membres)
+
+**Si tu es intrapreneur·e**
+
+* [ ] Participer à [l'embarquement intras](https://app.calendso.incubateur.net/amel-alili/embarquement-intras)
 
 **Si tu es coach**
 
