@@ -61,6 +61,12 @@ Découvrez l'offre de service d'accompagnement des carrières des intras sur not
 [accompagnement-de-carrieres-des-intras.md](accompagnement-de-carrieres-des-intras.md)
 {% endcontent-ref %}
 
+### L'embarquement des nouveaux·elles intras
+
+En complément de l'[embarquement obligatoire](https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/to-do-darrivee) pour tous les nouveaux membres de la communauté, les intrapreneur·es bénéficient d'une **session d'embarquement en visioconférence spécifiquement dédiée à leur métier**.
+
+Pour s'inscrire, RDV [ici](https://app.calendso.incubateur.net/amel-alili/embarquement-intras).
+
 ## Ressources diverses
 
 ### Quelques outils à partager entre intra
