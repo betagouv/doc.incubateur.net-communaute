@@ -14,12 +14,16 @@ Ce marché de **construction de produit** notifié en mars 2026 permet de faire 
 
 \[lien à venir]
 
+{% file src="../../../../.gitbook/assets/CCAP_marché produit.pdf" %}
+
+{% file src="../../../../.gitbook/assets/CCTP_marché produit.pdf" %}
+
 ### <mark style="background-color:yellow;">Lot 1 - Conception, développement, et exploitation des produits numériques opérés par la DINUM (hors OPI) et par les incubateurs de services numériques des ministères, ainsi que les missions d’accompagnement de produits réalisées par la DINUM</mark> <a href="#qui-peut-beneficier-de-ce-marche" id="qui-peut-beneficier-de-ce-marche"></a>
 
 ### Qui peut bénéficier de ce marché ? <a href="#qui-peut-beneficier-de-ce-marche" id="qui-peut-beneficier-de-ce-marche"></a>
 
 1. La DINUM, à l’exclusion du département Opérateurs de Produits Interministériels (OPI), lequel bénéficie d’un dispositif contractuel distinct.
-2. Les administrations et organismes suivants **portant un produit numérique référencé sur https://beta.gouv.fr/startups/** :&#x20;
+2. Les administrations et organismes suivants **portant un produit numérique référencé sur https://beta.gouv.fr/startups/** :
 
 * Les Services du Premier Ministre
 * Tous les ministères (à part le ministère des affaires étrangères)
@@ -33,8 +37,6 @@ Ce marché de **construction de produit** notifié en mars 2026 permet de faire 
 
 #### 3e titulaire : DOCAPOSTE La manufacture / COBER LA FABRIQUE / THIGA
 
-
-
 ### Comment utiliser le lot 1 de ce marché ? <a href="#foire-aux-questions" id="foire-aux-questions"></a>
 
 La répartition des bons de commande entre les trois attributaires se fait selon la règle du tourniquet.
@@ -46,8 +48,6 @@ Ainsi pour pouvoir connaître le titulaire à qui passer sa commande, il faut fa
 Toutes les informations sur disponibles ici : ["Mobiliser le lot 1 du marché"](https://docs.numerique.gouv.fr/docs/23d38ca5-6b54-4919-a309-6040cedd075a/)
 
 Pour toute question : marche-produit@numerique.gouv.fr
-
-
 
 {% content-ref url="../" %}
 [..](../)

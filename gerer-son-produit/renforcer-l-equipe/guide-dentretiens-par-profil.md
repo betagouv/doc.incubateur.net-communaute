@@ -266,7 +266,7 @@ Il s'agit d'une somme de propositions de trames pour tes entretiens. Peu importe
 
 Le plus important est collecter des **preuves concrètes de compétences** permettant de vérifier les critères définis lors du cadrage.
 
-### 1. La préqualifation
+#### 1. La préqualifation
 
 C'est le premier entretien ! Il peut être conduit par une personne tierce afin de te faire gagner du temps en tant qu'intra.\
 L'objectif est simple : s'assurer que tous les points essentiels pour la mission sont couverts avant d'envisager d'aller plus loin.\
@@ -274,14 +274,14 @@ Le RDV est simple et rapide (moins de 30 minutes).
 
 Si trop de points clés sont manquants (tel que définis dans la prise de brief) il n'est pas nécessaire d'aller plus loin. Tout le monde gagnera du temps !
 
-#### Critères évalués à cette étape
+**Critères évalués à cette étape**
 
 _- La personne maîtrise les principes de sécurité applicative dans des systèmes manipulant des données sensibles_\
 \- _La personne est capable de concevoir des interfaces et des parcours utilisateurs réduisant la charge cognitive dans des environnements métiers complexes_\
 \- _La personne est capable de contribuer à la robustesse, à la fiabilité et à la montée en charge d’un service numérique_\
 \- _La personne fait preuve d’un intérêt réel pour l’impact public et les contraintes du service public numérique_
 
-#### La trame
+**La trame**
 
 Après avoir introduit en 2 minutes le contexte de l'échange et qui on est. On donne la parole au candidat en suivant cet exemple de chapitrage :
 
@@ -299,7 +299,7 @@ On clôture l'échange par des remerciements et en explicitant la suite du proce
 
 `📝`Tous les compte-rendus d’entretiens sont à renseigner sur WTTJ (sur la page de chaque candidat).
 
-### 2. L'entretien intra/métier
+#### 2. L'entretien intra/métier
 
 L'entretien intra est clé puisqu'il a vocation à trouver des preuves de réponses aux critères de compétences métiers ainsi que revérifier la compréhension du produit par le candidat.
 
@@ -312,14 +312,14 @@ Cet entretien peut-être réunifié avec la préqualification si une seule et m�
 L'objectif est de checker l'ensemble des compétences nécessaires pour mener à bien la mission.\
 Il faut donc préparer cet entretien avec 1 à 2 questions par critère (cf prise de brief).
 
-#### Critères évalués à cette étape
+**Critères évalués à cette étape**
 
 _- La personne est capable de concevoir, développer et maintenir un service numérique fullstack en production_\
 \- _La personne maîtrise les pratiques de qualité logicielle et de maintenabilité du code dans un contexte produit évolutif_\
 \- _La personne est capable de travailler dans un environnement produit en construction, avec des hypothèses et des priorités évolutives_\
 \- _La personne fait preuve d’autonomie dans l’organisation de son travail et la gestion de ses priorités dans un contexte distribué_
 
-#### La trame
+**La trame**
 
 On commence par introduire en 2 minutes le contexte de l'échange et qui on est. C'est une introduction de type _"Icebreaker"_ pour aider le candidat à se mettre à l'aise. L'idée est tout de même de faire très court afin de ne pas perdre de temps. On donne la parole au candidat en suivant cet exemple de chapitrage :
 
@@ -336,7 +336,7 @@ On clôture l'échange par des remerciements et en explicitant la suite du proce
 
 `📝`Tous les contre-rendus d’entretiens sont à renseigner sur WTTJ (sur la page de chaque candidat).
 
-### 3. La mise en situation
+#### 3. La mise en situation
 
 Les entretiens de mises en situation sont organisés en _live_ avec un expert métier sur 1 heure afin d’éviter tous les écueils liés aux préparation 100% générées par IA. C'est aussi un moyen de garantir l'équité de préparation entre les candidats.
 
@@ -346,13 +346,13 @@ Son objectif est de projeter les compétences préalablement validées dans le c
 
 La mise en situation est à concevoir dès la phase de prise de brief.
 
-#### Critères évalués à cette étape
+**Critères évalués à cette étape**
 
 _- La personne est capable de concevoir, développer et maintenir un service numérique fullstack en production_\
 \- _La personne maîtrise les pratiques de qualité logicielle et de maintenabilité du code dans un contexte produit évolutif_\
 \- _La personne maîtrise ou est capable de s’approprier rapidement les standards_ [_beta.gouv.fr_](http://beta.gouv.fr) _(qualité, sécurité, accessibilité)_
 
-#### La trame
+**La trame**
 
 On commence par introduire en 2 minutes le contexte de l'échange et qui on est. C'est une introduction de type _"Icebreaker"_ pour aider le candidat à se mettre à l'aise. L'idée est tout de même de faire très court afin de ne pas perdre de temps. On donne la parole au candidat en suivant cet exemple de chapitrage :
 
@@ -367,7 +367,7 @@ On clôture l'échange par des remerciements et en explicitant la suite du proce
 
 `📝`Tous les compte-rendus d’entretiens sont à renseigner sur WTTJ (sur la page de chaque candidat).
 
-### 4. L'entretien sur le cadre de collaboration
+#### 4. L'entretien sur le cadre de collaboration
 
 Une fois la pré-sélection de 1 à 3 profils maximum, l'intra organise une rencontre avec les membres de son équipe, idéalement au bureau, pour qu’ils échangent sur :
 
@@ -384,12 +384,12 @@ Il n’est pas attendu de positionnement de type OUI / NON par les membres de l'
 
 Il faut compter 45-60 minutes d'échange.
 
-#### Critères évalués à cette étape
+**Critères évalués à cette étape**
 
 _- La personne fait preuve d’une capacité à collaborer étroitement avec des profils non techniques et des utilisateurs métier_\
 \- _La personne fait preuve d’un intérêt réel pour l’impact public et les contraintes du service public numérique_
 
-#### La trame
+**La trame**
 
 On commence par introduire en 2 minutes le contexte de l'échange et qui on est. C'est une introduction de type _"Icebreaker"_ pour aider le candidat à se mettre à l'aise. L'idée est tout de même de faire très court afin de ne pas perdre de temps. On donne la parole au candidat en suivant cet exemple de chapitrage :
 
@@ -407,7 +407,7 @@ On clôture l'échange par des remerciements et en explicitant la suite du proce
 
 `📝`Tous les compte-rendus d’entretiens sont à renseigner sur WTTJ (sur la page de chaque candidat).
 
-### 5. La prise de références
+#### 5. La prise de références
 
 La prise de références a vocation à récolter les dernières preuves de compétences que tu n'es pas parvenu à identifier. Il peut s'agir de compétences métier ou de savoir-être.
 
@@ -417,12 +417,12 @@ Elle permet également de lever ou confirmer par un avis tiers/neutre les évent
 
 Le RDV est simple et rapide (moins de 15 minutes).
 
-#### Critères évalués à cette étape
+**Critères évalués à cette étape**
 
 * Qualité du travail en production
 * Fiabilité, autonomie, collaboration
 
-#### La trame
+**La trame**
 
 Après avoir introduit en 1 minute le contexte de l'échange et qui on est. On donne la parole au référent choisi par le candidat en suivant cet exemple de chapitrage :
 
@@ -450,7 +450,7 @@ Il s'agit d'une somme de propositions de trames pour tes entretiens. Peu importe
 
 Le plus important est collecter des **preuves concrètes de compétences** permettant de vérifier les critères définis lors du cadrage.
 
-### 1. La préqualifation
+#### 1. La préqualifation
 
 C'est le premier entretien ! Il peut être conduit par une personne tierce afin de te faire gagner du temps en tant qu'intra.\
 L'objectif est simple : s'assurer que tous les points essentiels pour la mission sont couverts avant d'envisager d'aller plus loin.\
@@ -458,7 +458,7 @@ Le RDV est simple et rapide (moins de 30 minutes).
 
 Si trop de points clés sont manquants (tel que définis dans la prise de brief) il n'est pas nécessaire d'aller plus loin. Tout le monde gagnera du temps !
 
-#### Critères évalués à cette étape
+**Critères évalués à cette étape**
 
 * La personne est capable de définir et porter une vision produit claire, alignée avec les enjeux utilisateurs, métiers et institutionnels
 * La personne est capable de traduire des objectifs stratégiques en une roadmap produit claire et priorisée, dans un contexte de ressources contraintesLa trame
@@ -479,7 +479,7 @@ On clôture l'échange par des remerciements et en explicitant la suite du proce
 
 `📝`Tous les compte-rendus d’entretiens sont à renseigner sur WTTJ (sur la page de chaque candidat).
 
-### 2. L'entretien intra/métier
+#### 2. L'entretien intra/métier
 
 L'entretien intra est clé puisqu'il a vocation à trouver des preuves de réponses aux critères de compétences métiers ainsi que revérifier la compréhension du produit par le candidat.
 
@@ -492,7 +492,7 @@ Cet entretien peut-être réunifié avec la préqualification si une seule et m�
 L'objectif est de checker l'ensemble des compétences nécessaires pour mener à bien la mission.\
 Il faut donc préparer cet entretien avec 1 à 2 questions par critère (cf prise de brief).
 
-#### Critères évalués à cette étape
+**Critères évalués à cette étape**
 
 * La personne est capable d’identifier et prioriser des problèmes utilisateurs à fort impact à partir du terrain, des données et des retours qualitatifs
 * La personne est capable de rédiger des user stories claires et actionnables et de prioriser un backlog en cohérence avec la roadmap
@@ -513,7 +513,7 @@ On clôture l'échange par des remerciements et en explicitant la suite du proce
 
 `📝`Tous les contre-rendus d’entretiens sont à renseigner sur WTTJ (sur la page de chaque candidat).
 
-### 3. La mise en situation
+#### 3. La mise en situation
 
 Les entretiens de mises en situation sont organisés en _live_ avec un expert métier sur 1 heure afin d’éviter tous les écueils liés aux préparation 100% générées par IA. C'est aussi un moyen de garantir l'équité de préparation entre les candidats.
 
@@ -523,7 +523,7 @@ Son objectif est de projeter les compétences préalablement validées dans le c
 
 La mise en situation est à concevoir dès la phase de prise de brief.
 
-#### Critères évalués à cette étape
+**Critères évalués à cette étape**
 
 * La personne est capable de définir, suivre et analyser des indicateurs de succès produit (OKR, métriques d’usage, impact)
 * La personne maîtrise l’utilisation d’outils d’analytics produit pour mesurer l’usage et éclairer les décisionsLa trame
@@ -541,7 +541,7 @@ On clôture l'échange par des remerciements et en explicitant la suite du proce
 
 `📝`Tous les compte-rendus d’entretiens sont à renseigner sur WTTJ (sur la page de chaque candidat).
 
-### 4. L'entretien sur le cadre de collaboration
+#### 4. L'entretien sur le cadre de collaboration
 
 Une fois la pré-sélection de 1 à 3 profils maximum, l'intra organise une rencontre avec les membres de son équipe, idéalement au bureau, pour qu’ils échangent sur :
 
@@ -558,7 +558,7 @@ Il n’est pas attendu de positionnement de type OUI / NON par les membres de l'
 
 Il faut compter 45-60 minutes d'échange.
 
-#### Critères évalués à cette étape
+**Critères évalués à cette étape**
 
 * La personne est capable de travailler en étroite collaboration avec des équipes techniques et design, de l’expression du besoin à la livraison
 * La personne fait preuve de capacité à s’inscrire dans la culture [beta.gouv.fr](http://beta.gouv.fr) et du service public, avec une posture d’impact et de responsabilitéLa trame
@@ -579,7 +579,7 @@ On clôture l'échange par des remerciements et en explicitant la suite du proce
 
 `📝`Tous les compte-rendus d’entretiens sont à renseigner sur WTTJ (sur la page de chaque candidat).
 
-### 5. La prise de références
+#### 5. La prise de références
 
 La prise de références a vocation à récolter les dernières preuves de compétences que tu n'es pas parvenu à identifier. Il peut s'agir de compétences métier ou de savoir-être.
 
@@ -589,12 +589,12 @@ Elle permet également de lever ou confirmer par un avis tiers/neutre les évent
 
 Le RDV est simple et rapide (moins de 15 minutes).
 
-#### Critères évalués à cette étape
+**Critères évalués à cette étape**
 
 * La personne est capable de travailler en étroite collaboration avec des équipes techniques et design, de l’expression du besoin à la livraison
 * La personne est capable de définir et porter une vision produit claire, alignée avec les enjeux utilisateurs, métiers et institutionnels
 
-#### La trame
+**La trame**
 
 Après avoir introduit en 1 minute le contexte de l'échange et qui on est. On donne la parole au référent choisi par le candidat en suivant cet exemple de chapitrage :
 

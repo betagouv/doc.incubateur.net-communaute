@@ -151,6 +151,6 @@ Tu peux le désactiver :
 * Allez dans le menu, puis "Paramètres du compte" -> "Options avancées"
 * Dans "Désactiver mon compte", faite "Modifier" puis "Desactivate"
 
-![Désactiver mon compte](<../.gitbook/assets/image (14) (2) (1) (1).png>)
+![Désactiver mon compte](<../.gitbook/assets/image (14) (2) (1).png>)
 
 Si tu as la moindre question, utilise 🔒[`#incubateur-entraide-communauté`](https://mattermost.incubateur.net/betagouv/channels/incubateur-help)ou envoie un mail à `contact@beta.gouv.fr.`
