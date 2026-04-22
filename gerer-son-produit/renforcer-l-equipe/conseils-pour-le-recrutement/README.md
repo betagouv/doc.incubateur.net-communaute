@@ -2,6 +2,22 @@
 
 Tu souhaites sélectionner un nouveau membre pour intégrer ton équipe ? Cette page est prévue pour t'aider à te lancer de manière structurée et efficace. Ce parcours de sélection est un socle commun, applicable à tous les métiers, pour tous les intrapreneur.ses de la communauté beta.gouv.fr !
 
+## Deux options pour faire grandir l'équipe
+
+1️⃣ Si cela est possible, tu peux ouvrir un poste d'**agent public** :
+
+* C'est l'équivalent d'un recrutement en interne. Cette typologie de recrutement se matérialise sous le statut d'agent public, soit _contractuel_ ou _vacataire_ ou _stagiaire_.
+* Des procédures administratives sont prévues spécifiquement par chaque administration et encadrent les démarches de recrutement. Tu devras donc utiliser les grilles d'évaluation, modèles de compte-rendu d'entretien, et dossiers de recrutement prévus par ton administration.
+
+Ces procédures et documents ne sont pas détaillées dans ce guide.
+
+2️⃣ Tu peux en deuxième possibilité contractualiser en **externe** :
+
+* C'est-à-dire faire appel à de la **prestation** en passant par des marchés publics.
+* Attention, tu dois alors respecter les principes de la commande publique [notamment dans la publication de ton offre de mission](../../../les-outils-de-la-communaute/autres-services/welcome-to-the-jungle/#obligations-concernant-la-publication-doffres-de-mission-en-prestation)
+
+Les procédures et documents liés à la gestion du cycle contractuel (de la sélection au désembarquement) d'une prestation de service sont détaillés dans ce guide. Tu es au bon endroit 😉
+
 ## Le parcours de sélection chez beta.gouv.fr
 
 ### Les objectifs de ce parcours
@@ -49,7 +65,7 @@ Attention toutefois à ne pas rédiger une liste à rallonge de critères. On va
 
 Lors de la phase de cadrage, tu peux concevoir ton processus de sélection à partir du modèle proposé par la DINUM. L'enjeu principal est de parvenir à vérifier tes critères prioritaires ou obligatoires le plus tôt possible. Tu peux aussi avancer de manière granulaire en affinant ton analyse des critères au fil des étapes du processus de sélection.
 
-Voici un exemple de cadrage pour :&#x20;
+Voici un exemple de cadrage pour :
 
 * [Un·e Developpeurr·se](https://docs.numerique.gouv.fr/docs/1b9783cd-637c-4d95-9b95-a44ccded925c/)
 * [Un·e PO/PM](https://docs.numerique.gouv.fr/docs/d3c5f784-778d-4d66-948b-c04f67200646/)
@@ -58,13 +74,13 @@ Voici un exemple de cadrage pour :&#x20;
 
 La publication de l'annonce doit respecter certaines règles de conformités légales : tu peux lire l'article dédié à ce sujet juste ici 👇
 
-{% content-ref url="../../les-outils-de-la-communaute/autres-services/welcome-to-the-jungle/" %}
-[welcome-to-the-jungle](../../les-outils-de-la-communaute/autres-services/welcome-to-the-jungle/)
+{% content-ref url="../../../les-outils-de-la-communaute/autres-services/welcome-to-the-jungle/" %}
+[welcome-to-the-jungle](../../../les-outils-de-la-communaute/autres-services/welcome-to-the-jungle/)
 {% endcontent-ref %}
 
 ### Phase 3 : Analyser les candidatures entrantes
 
-Pour sélectionner les profils les plus pertinents, reporte toi aux critères de sélection définis dans la fiche de cadrage que tu as conçu avec le référent métier. Tu peux faire ta première sélection en te concentrant  uniquement sur les critères obligatoires et ceux à pondération maximale.
+Pour sélectionner les profils les plus pertinents, reporte toi aux critères de sélection définis dans la fiche de cadrage que tu as conçu avec le référent métier. Tu peux faire ta première sélection en te concentrant uniquement sur les critères obligatoires et ceux à pondération maximale.
 
 Si aucun profil candidat ne correspond aux critères définis, la bonne pratique est de recommencer son cadrage afin de challenger son besoin.
 
@@ -135,11 +151,11 @@ Tu peux lire par exemple [cet article](https://mozaikrh.com/11-biais-cognitifs-a
 
 #### Assure toi de la compatibilité avec les valeurs de beta.gouv.fr
 
-Lorsqu'une nouvelle personne vient travailler avec vous, elle participe aussi à la communauté beta.gouv.fr. Il est donc important de vérifier qu'elle est bien en accord avec [les valeurs de la communauté. ](../../travailler-a-beta-gouv/culture/charte.md). Le moyen le plus simple de le savoir reste de lui demander si elle les a lues, si elle les partage ou si cela fait écho à sa façon de travailler.
+Lorsqu'une nouvelle personne vient travailler avec vous, elle participe aussi à la communauté beta.gouv.fr. Il est donc important de vérifier qu'elle est bien en accord avec [les valeurs de la communauté. ](../../../travailler-a-beta-gouv/culture/charte.md). Le moyen le plus simple de le savoir reste de lui demander si elle les a lues, si elle les partage ou si cela fait écho à sa façon de travailler.
 
 ### Phase 5 : Comparer et faire le bon choix parmi les profils
 
-Afin de faire un choix rationnel parmi les candidats que tu as rencontrés, il suffit de faire les sommes d'atteinte des critères par les prestataires.&#x20;
+Afin de faire un choix rationnel parmi les candidats que tu as rencontrés, il suffit de faire les sommes d'atteinte des critères par les prestataires.
 
 Exemple pour le critère _La personne est capable de \[verbe + objet + contexte] de_ 🔴pondération maximale. Si le candidat prestataire valide ce critère il obtient 3 points.
 

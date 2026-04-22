@@ -1,4 +1,4 @@
-# Guide d'entretien par profil
+# Guides d'entretien par profil
 
 ## Préambule
 
@@ -616,7 +616,7 @@ On clôture l'échange par des remerciements.
 
 <summary>Designers</summary>
 
-[Voir la page dédiée.](../les-standards/design.md)
+[Voir la page dédiée.](../../les-standards/design.md)
 
 </details>
 
@@ -634,7 +634,7 @@ Le recrutement des chargés de déploiement est essentiel dès le départ, pour 
 
 \*\*\*\*\
 \
-Pour mieux comprendre ce rôle, à multiples casquettes, tu peux te référer [à cette page.](../../travailler-chez-beta.gouv.fr/les-differents-metiers/le-charge-de-deploiement-dans-le-programme-beta.gouv.md)
+Pour mieux comprendre ce rôle, à multiples casquettes, tu peux te référer [à cette page.](../../../travailler-chez-beta.gouv.fr/les-differents-metiers/le-charge-de-deploiement-dans-le-programme-beta.gouv.md)
 
 Ci-dessous, tu pourras trouver des informations concernant les compétences recherchées, différentes selon le niveau de séniorité. Au début de la vie du produit, il peut être intéressant de prendre un.e chargé.e de déploiement avec plus d'expérience, afin d'être mieux accompagné.\
 \
@@ -709,6 +709,6 @@ _Posture_
 
 ➡️ Pour aller plus loin :
 
-[les-metiers-sales-and-marketing-dans-le-prive.md](../gestion-au-quotidien/renforcer-l-equipe/les-metiers-sales-and-marketing-dans-le-prive.md "mention")
+[les-metiers-sales-and-marketing-dans-le-prive.md](../../gestion-au-quotidien/renforcer-l-equipe/les-metiers-sales-and-marketing-dans-le-prive.md "mention")
 
 </details>
