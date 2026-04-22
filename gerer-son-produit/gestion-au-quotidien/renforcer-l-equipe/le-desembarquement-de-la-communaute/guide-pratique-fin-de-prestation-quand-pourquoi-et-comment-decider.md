@@ -40,7 +40,7 @@ Ces deux questions n'ont pas forcément la même réponse.
 
 ### Le cadre de mission comme boussole de la décision
 
-La grille d'évaluation des livrables et objectifs de mission ([accessible ici](https://docs.numerique.gouv.fr/docs/be5ddf8c-83bf-42b9-96f5-8d5aed18dd98/)) est bien plus qu'un document administratif. Elle constitue le référentiel de base sur lequel repose toute décision de fin de mission. Elle permet de comparer, à intervalles réguliers, ce qui était attendu et ce qui a été effectivement produit.
+La [grille d'évaluation des livrables et objectifs de mission](https://docs.numerique.gouv.fr/docs/be5ddf8c-83bf-42b9-96f5-8d5aed18dd98/) est plus qu'un document administratif : elle constitue le référentiel de base sur lequel repose toute décision de fin de mission. Elle permet de comparer, à intervalles réguliers, ce qui était attendu et ce qui a été effectivement produit.
 
 Cette évaluation doit être remplie en début de mission (définition des livrables), à mi-parcours (point d'étape) et en fin de mission (bilan). Ces trois temps sont délibérément structurés pour éviter que la décision de fin de mission ne soit prise dans l'urgence ou sous le coup d'une tension ponctuelle.
 
