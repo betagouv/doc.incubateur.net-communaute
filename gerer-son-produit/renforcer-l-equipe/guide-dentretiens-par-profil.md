@@ -709,6 +709,6 @@ _Posture_
 
 ➡️ Pour aller plus loin :
 
-[les-metiers-sales-and-marketing-dans-le-prive.md](les-metiers-sales-and-marketing-dans-le-prive.md "mention")
+[les-metiers-sales-and-marketing-dans-le-prive.md](../gestion-au-quotidien/renforcer-l-equipe/les-metiers-sales-and-marketing-dans-le-prive.md "mention")
 
 </details>

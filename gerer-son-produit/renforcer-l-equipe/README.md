@@ -47,6 +47,6 @@ Place au concret ! Retrouve ici tous les guides et procédures pratiques pour t'
 [embarquement-par-le-recruteur.md](embarquement-par-le-recruteur.md)
 {% endcontent-ref %}
 
-{% content-ref url="le-desembarquement-de-la-communaute/" %}
-[le-desembarquement-de-la-communaute](le-desembarquement-de-la-communaute/)
+{% content-ref url="../gestion-au-quotidien/renforcer-l-equipe/le-desembarquement-de-la-communaute/" %}
+[le-desembarquement-de-la-communaute](../gestion-au-quotidien/renforcer-l-equipe/le-desembarquement-de-la-communaute/)
 {% endcontent-ref %}

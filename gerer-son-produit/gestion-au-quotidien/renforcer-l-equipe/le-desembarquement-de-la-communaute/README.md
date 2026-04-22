@@ -88,7 +88,7 @@ Il existe beaucoup de situations amenant à un potentiel départ. Essayons tout 
 * Lorsque le·a prestataire a trouvé un poste/rôle ailleurs et souhaite partir
 * Lorsqu'une startup d'Etat se voit dans l'obligation d'arrêter (entièrement ou pour partie) son activité suite à un comité d'investissement (soit pour manque d'impact, manque de budget, par réalisation des objectifs et transfert à l'administration porteuse...)
 
-L'origine peut donc être de 3 sortes :&#x20;
+L'origine peut donc être de 3 sortes :
 
 * Unilatérale lorsque l'intrapreneur·e déclenche un départ
 * Unilatérale lorsque le·a prestataire déclenche un départ

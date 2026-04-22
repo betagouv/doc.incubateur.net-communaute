@@ -1,4 +1,4 @@
-# 🧌 La vie du produit
+# 🪡 La vie du produit
 
 {% content-ref url="investigation/" %}
 [investigation](investigation/)
