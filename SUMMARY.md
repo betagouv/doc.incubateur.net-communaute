@@ -261,7 +261,7 @@
   * [Désembarquer un membre de son équipe](gerer-son-produit/gestion-au-quotidien/renforcer-l-equipe/le-desembarquement-de-la-communaute/README.md)
     * [Guide pratique : fin de prestation (quand, pourquoi et comment décider)](gerer-son-produit/gestion-au-quotidien/renforcer-l-equipe/le-desembarquement-de-la-communaute/guide-pratique-fin-de-prestation-quand-pourquoi-et-comment-decider.md)
   * [Conseils de recrutement déploiement](gerer-son-produit/gestion-au-quotidien/renforcer-l-equipe/les-metiers-sales-and-marketing-dans-le-prive.md)
-* [🏃 Gestion au quotidien](gerer-son-produit/gestion-au-quotidien/README.md)
+* [🏃 Gérer le produit au quotidien](gerer-son-produit/gestion-au-quotidien/README.md)
   * [📯 Communiquer sur son produit](gerer-son-produit/gestion-au-quotidien/communiquer-sur-son-produit/README.md)
     * [Le Tube, pour partager tes vidéos](gerer-son-produit/gestion-au-quotidien/communiquer-sur-son-produit/le-tube-pour-partager-tes-videos.md)
     * [La photothèque : l'outil pour collecter et partager des images](gerer-son-produit/gestion-au-quotidien/communiquer-sur-son-produit/la-phototheque-loutil-pour-collecter-et-partager-des-images.md)
