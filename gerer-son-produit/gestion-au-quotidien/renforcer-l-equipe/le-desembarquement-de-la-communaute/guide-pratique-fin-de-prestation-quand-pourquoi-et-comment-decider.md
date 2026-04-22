@@ -206,7 +206,11 @@ Le·a coach RH intervient comme un espace de réflexion confidentiel et bienveil
 * gérer les cas particulièrement sensibles : conflits interpersonnels, fin de mission collective, prestataire en difficulté personnelle ;
 * construire une stratégie collective de désembarquement lorsque plusieurs prestataires partent en même temps.
 
-Format : 45 minutes de coaching initial, puis des rendez-vous de suivi adaptés à la complexité de la situation.
+**Format proposé :** 45 minutes de coaching initial, puis des rendez-vous de suivi adaptés à la complexité de la situation.
 
-👉 [Pour prendre RDV](https://rdv.anct.gouv.fr/prendre_rdv?departement=\&public_link_organisation_id=1463) 👈
+{% hint style="info" %}
+Tu peux prendre un [RDV de coaching RH directement ici](https://rdv.anct.gouv.fr/prendre_rdv?departement=\&public_link_organisation_id=1463).
+{% endhint %}
+
+
 
