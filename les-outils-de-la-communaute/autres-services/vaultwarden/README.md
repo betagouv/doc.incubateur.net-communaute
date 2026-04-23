@@ -137,6 +137,17 @@ Ainsi, si le serveur Vaultwarden était indisponible, vous auriez toujours accè
 
 ## 🛟 Pour aller plus loin <a href="#f0-9f-9b-9f-pour-aller-plus-loin" id="f0-9f-9b-9f-pour-aller-plus-loin"></a>
 
+## Checklist sécurité Vaultwarden
+
+Vaultwarden concentre des informations particulièrement sensibles : vos propres mots de passe, mais aussi des secrets partagés avec votre équipe (accès aux environnements de production, clés d'API, credentials d'administration...). Une compromission de votre compte Vaultwarden peut donc avoir des conséquences bien au-delà de votre seul poste.
+
+Pour cette raison, il est impératif d'utiliser une instance Vaultwarden **dédiée à vos outils beta.gouv.fr**, distincte de tout usage personnel ou d'un autre client. Mélanger les contextes dans un même coffre augmente considérablement la surface d'exposition en cas d'incident.
+
+- [ ] Choisir un **mot de passe maître robuste et unique** pour votre compte Vaultwarden (long, aléatoire, non réutilisé nulle part ailleurs).
+- [ ] Activer l'**authentification multifactorielle (MFA)** sur votre compte Vaultwarden.
+- [ ] **Ne pas utiliser la fonctionnalité OTP intégrée** à Vaultwarden pour stocker vos codes TOTP : votre gestionnaire de mots de passe et votre second facteur ne doivent pas être au même endroit. Si votre coffre est compromis, vos codes 2FA le seraient également.
+- [ ] **Auditer régulièrement les accès aux trousseaux partagés** : vérifier que seules les personnes qui en ont besoin y ont accès, et révoquer les accès des membres qui ont quitté l'équipe.
+
 ### Documentation de bitwarden <a href="#documentation-de-bitwarden" id="documentation-de-bitwarden"></a>
 
 Vous pouvez vous rendre sur la documentation de bitwarden à l’adresse suivante : [https://bitwarden.com/help/password-manager-overview/](https://bitwarden.com/help/password-manager-overview/)
