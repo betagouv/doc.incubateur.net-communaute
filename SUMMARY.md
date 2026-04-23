@@ -169,6 +169,7 @@
       * [Transfert](gerer-son-produit/aide-a-la-mise-en-application-des-standards/accessibilite-et-inclusion/kit-accessibilite/consolidation.md)
   * [Sécurité](gerer-son-produit/aide-a-la-mise-en-application-des-standards/securite/README.md)
     * [Règles d'hygiène informatique et de sécurité](gerer-son-produit/aide-a-la-mise-en-application-des-standards/securite/regles-dhygiene-informatique-et-de-securite.md)
+    * [Checklist : sécurité du poste de développement](gerer-son-produit/aide-a-la-mise-en-application-des-standards/securite/checklist-securite-du-poste-de-developpement.md)
     * [Solution d'authenfication](gerer-son-produit/aide-a-la-mise-en-application-des-standards/securite/authentication.md)
     * [Sécurité et homologation](gerer-son-produit/aide-a-la-mise-en-application-des-standards/securite/securite-and-homologation.md)
     * [Intégrer la sécurité au cycle de développement](gerer-son-produit/aide-a-la-mise-en-application-des-standards/securite/ressources-integration-securite-cycle-developpement.md)
