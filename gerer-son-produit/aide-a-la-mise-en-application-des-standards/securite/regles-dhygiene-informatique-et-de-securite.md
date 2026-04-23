@@ -22,15 +22,7 @@ des services que vous utilisez.
 
 Ces règles s'appliquent à tous les membres de la communauté, quelque soit votre accès à des informations sensibles.
 
-## Checklist sécurité Vaultwarden
-
-Vaultwarden concentre des informations particulièrement sensibles : vos propres mots de passe, mais aussi des secrets partagés avec votre équipe (accès aux environnements de production, clés d'API, credentials d'administration...). Une compromission de votre compte Vaultwarden peut donc avoir des conséquences bien au-delà de votre seul poste.
-
-Pour cette raison, il est impératif d'utiliser une instance Vaultwarden **dédiée à vos outils beta.gouv.fr**, distincte de tout usage personnel ou d'un autre client. Mélanger les contextes dans un même coffre augmente considérablement la surface d'exposition en cas d'incident.
-
-- [ ] Choisir un **mot de passe maître robuste et unique** pour votre compte Vaultwarden (long, aléatoire, non réutilisé nulle part ailleurs).
-- [ ] Activer l'**authentification multifactorielle (MFA)** sur votre compte Vaultwarden.
-- [ ] **Ne pas utiliser la fonctionnalité OTP intégrée** à Vaultwarden pour stocker vos codes TOTP : votre gestionnaire de mots de passe et votre second facteur ne doivent pas être au même endroit — si votre coffre est compromis, vos codes 2FA le seraient également.
-- [ ] **Auditer régulièrement les accès aux trousseaux partagés** : vérifier que seules les personnes qui en ont besoin y ont accès, et révoquer les accès des membres qui ont quitté l'équipe.
+La checklist sécurité Vaultwarden est disponible sur la page dédiée :
+[VaultWarden](../../../les-outils-de-la-communaute/autres-services/vaultwarden/README.md#checklist-securite-vaultwarden).
 
 {% embed url="https://docs.google.com/presentation/d/1YQ6114l3q0BbrdmtdSdceK1io2Uqwn3QIZBzSSRM0Dk/edit" %}
