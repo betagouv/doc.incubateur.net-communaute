@@ -6,23 +6,34 @@ description: >-
 
 # Bilans du programme
 
+## Bilan 2025
+
+🎂 **En 2025, le programme beta.gouv.fr a fêté ses 10 ans et s'est stabilisé :**&#x20;
+
+* le réseau couvre la majorité des ministères, avec 23 incubateurs partenaires créés depuis 2015, dont 19 toujours actifs.
+
+💡**Le portefeuille de produits conçus au sein du réseau est de plus en plus mature :**
+
+* 280 services numériques issus de beta.gouv.fr sont désormais incubés ou opérés, dont 63 produits pérennisés et 217 en cours d’accompagnement ;
+* 24 investigations étaient en cours au 15 janvier 2026 ;
+* 36 services numériques ont atteint un impact national.
+
+🫶 **La communauté beta.gouv.fr se diversifie et se recentre sur les incubateurs :**&#x20;
+
+* l'année 2025 a compté 1 342 membres actifs, sur un total de 3 385 membres ayant contribué depuis 2015 ;
+* les métiers se sont diversifiés mais le développement reste le métier le plus représenté - avec 30 % des membres de la communauté ;
+* 179 nouveaux agents publics ont rejoint le programme en tant qu'intra ou sur un rôle transverse ;
+* 32 EIG ont été recrutés.
+
+{% file src="../../.gitbook/assets/Bilan 2025 beta.gouv.fr.pdf" %}
+
 ## Bilan 2024
 
-**🚀 En 2024, le réseau beta.gouv.fr a connu une croissance importante :**&#x20;
+🚀 En 2024, le réseau beta.gouv.fr a connu une croissance importante avec 15 nouvelles administrations partenaires et 3 nouveaux incubateurs qui ont émergé.
 
-* 15 nouvelles administrations ont rejoint le réseau ;
-* 3 nouveaux incubateurs ont émergé : la ruche numérique au ministère de l'Agriculture, l'incubateur de l'Éducation nationale et Accélérema au Cerema ;
-* 50 produits ont démarré leur phase de construction en 2025.
+💥 L'impact des services conçus selon l'approche beta.gouv.fr s'est renforcé avec 7 nouveaux services numériques à impact national nommés en 2024, qui portent le nombre total à 30 services numérique à impact national.
 
-**💥 L'impact des services conçus selon l'approche beta.gouv.fr se renforce :**&#x20;
-
-* 30 services numérique à impact national au total, dont 7 nommés en 2024 ;
-* 258 services en cours dʼaccompagnement ou pérennisés dans le réseau.
-
-🔁 **Le déploiement de l'approche beta.gouv.fr continue :**&#x20;
-
-* 217 nouveaux agents publics ont rejoint le réseau beta.gouv.fr, en tant qu'intrapreneurs ou en tant que membre transverse d'un incubateur ;
-* 11 intrapreneurs ont été certifiés.
+🔁 Le déploiement de l'approche beta.gouv.fr a continué avec 217 nouveaux agents publics qui ont rejoint le réseau beta.gouv.fr.
 
 {% file src="../../.gitbook/assets/Bilan 2024 beta.gouv.fr.pdf" %}
 
@@ -41,7 +52,7 @@ Le programme beta.gouv.fr en 2023, en quelques chiffres :
 * 68 agents publics intrapreneurs certifiés
 
 {% hint style="info" %}
-Pour plus d'information, vous pouvez visionner le bilan complet ici :&#x20;
+Pour plus d'information, vous pouvez visionner le bilan complet ici :
 {% endhint %}
 
 {% file src="../../.gitbook/assets/Bilan 2023 beta.gouv.fr.pdf" %}

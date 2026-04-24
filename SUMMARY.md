@@ -387,3 +387,7 @@
 ## Nous contacter
 
 * [Besoin d'aide ?](nous-contacter/besoin-daide.md)
+
+***
+
+* [Bilan 2025 — beta.gouv.fr](bilan-2025-beta.gouv.fr.md)
