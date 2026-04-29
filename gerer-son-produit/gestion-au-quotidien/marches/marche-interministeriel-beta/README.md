@@ -12,8 +12,6 @@ Ce marché de **construction de produit** notifié en mars 2026 permet de faire 
 
 ### Où trouver le cahier des charges de ce marché ? <a href="#ou-trouver-le-cahier-des-charges-de-ce-marche" id="ou-trouver-le-cahier-des-charges-de-ce-marche"></a>
 
-\[lien à venir]
-
 {% file src="../../../../.gitbook/assets/CCAP_marché produit.pdf" %}
 
 {% file src="../../../../.gitbook/assets/CCTP_marché produit.pdf" %}
