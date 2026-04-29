@@ -13,7 +13,6 @@ Un éditeur permet d'enregistrer des "questions" (retranscrites en requêtes de 
 Metabase permet de publier les tableaux de bord ou de les intégrer dans un autre site via une `iframe`.
 
 * [Voir la documentation](https://www.metabase.com/docs/latest/) (en anglais)
-* Le [Metabase mutualisé](https://metabase.incubateur.net) de beta.gouv.&#x20;
 
 Cet outil s'adresse :
 
