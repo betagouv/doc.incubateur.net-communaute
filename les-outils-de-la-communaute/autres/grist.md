@@ -13,3 +13,7 @@ Pour vos applications, vous pouvez utiliser des [comptes de service](https://for
 👉 [Documentation en Français pour GRIST](https://support.getgrist.com/fr/)
 
 👉 [Plusieurs webinaires en FR pour découvrir et progresser sur GRIST](https://tube.numerique.gouv.fr/c/grist/videos?s=1)
+
+👉 [Documentation GRIST Communauté](https://docs.numerique.gouv.fr/docs/16503f74-3443-4277-b781-86fb53d018ad/)
+
+👉 [Forum GRIST](https://forum.grist.libre.sh)
