@@ -12,9 +12,7 @@ Ce marché de **construction de produit** notifié en mars 2026 permet de faire 
 
 ### Où trouver le cahier des charges de ce marché ? <a href="#ou-trouver-le-cahier-des-charges-de-ce-marche" id="ou-trouver-le-cahier-des-charges-de-ce-marche"></a>
 
-{% file src="../../../../.gitbook/assets/CCAP_marché produit.pdf" %}
-
-{% file src="../../../../.gitbook/assets/CCTP_marché produit.pdf" %}
+{% embed url="https://www.data.gouv.fr/datasets/accord-cadre-interministeriel-realisation-de-services-publics-numeriques-en-mode-produit-agile-pilote-par-limpact" %}
 
 ### <mark style="background-color:yellow;">Lot 1 - Conception, développement, et exploitation des produits numériques opérés par la DINUM (hors OPI) et par les incubateurs de services numériques des ministères, ainsi que les missions d’accompagnement de produits réalisées par la DINUM</mark> <a href="#qui-peut-beneficier-de-ce-marche" id="qui-peut-beneficier-de-ce-marche"></a>
 
