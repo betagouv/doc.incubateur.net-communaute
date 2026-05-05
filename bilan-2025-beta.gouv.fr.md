@@ -14,7 +14,7 @@ Chaque année, le programme beta.gouv.fr fait son bilan, pour faire le point sur
 
 * **Programme beta.gouv.fr** : le programme beta.gouv.fr est un programme d’incubation qui aide les administrations publiques à construire des services numériques utiles, simples, faciles à utiliser et qui répondent vraiment aux besoins des utilisateurs. Il est porté par la Direction interministérielle du numérique au sein du département **Accompagnement de services numériques**.
 * **Approche beta.gouv.fr** : l’approche fait référence à la méthode employée au sein du réseau : elle repose sur la transposition des pratiques produit et lean startup au sein de l’État (“Startup d’État”). Les piliers de cette méthode sont rappelés en [section 1.2](bilan-2025-beta.gouv.fr.md#les-piliers-de-lapproche).
-* **Réseau beta.gouv.fr** : le réseau désigne l’ensemble des structures publiques partenaires (incubateurs, missions interministérielles, fabriques numériques) détaillées en [section 2](bilan-2025-beta.gouv.fr.md#un-r%C3%A9seau-de-19-incubateurs). Ces structures suivent l’approche beta.gouv.fr.
+* **Réseau beta.gouv.fr** : le réseau désigne l’ensemble des structures publiques partenaires (incubateurs, missions interministérielles, fabriques numériques) détaillées en [section 2](bilan-2025-beta.gouv.fr.md#un-réseau-de-19-incubateurs). Ces structures suivent l’approche beta.gouv.fr.
 * **Communauté beta.gouv.fr** : la communauté rassemble l’ensemble des personnes intervenant au sein du réseau beta.gouv.fr : agents publics, prestataires, équipes des incubateurs, etc.
 
 ### Qu’est-ce que beta.gouv.fr ?
@@ -349,14 +349,14 @@ Le parcours et les compétences des intrapreneurs sont souvent peu connus et peu
 
 {% stepper %}
 {% step %}
-### Accompagner les intrapreneurs pendant leur mission
+#### Accompagner les intrapreneurs pendant leur mission
 
 * **Animation de la communauté** avec 2 forums dédiés aux intras chaque année et un club mensuel de partage
 * **Création d’une clinique des situations difficiles** pour aider à la gestion d’équipe en septembre 2025
 {% endstep %}
 
 {% step %}
-### Valoriser et réemployer les compétences après
+#### Valoriser et réemployer les compétences après
 
 * Accompagnement individuel pour évaluer les compétences, avec **23 intras coachés** dans une perspective de mobilité professionnelles
 * Mise en visibilité et reconnaissance des compétences des intras avec la certification **« Concevoir un service public numérique au sein de l’État »** : 92 intrapreneurs ont reçu la certification, dont 13 en 2025

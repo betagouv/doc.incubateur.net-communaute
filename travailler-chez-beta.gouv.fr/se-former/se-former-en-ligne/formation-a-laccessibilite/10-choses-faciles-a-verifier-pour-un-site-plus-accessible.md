@@ -1,45 +1,41 @@
 ---
 description: >-
-  Cet atelier propose 10 vérifications faciles à tester pour avoir une première
+  Cet atelier propose 9 vérifications faciles à tester pour avoir une première
   idée de l'accessibilité de son service numérique
 ---
 
-# 10 choses faciles à vérifier pour un site plus accessible
+# 9 choses faciles à vérifier pour un site plus accessible
 
 {% hint style="success" %}
-Retrouvez le support de présentation de l'atelier **Easy Checks - Vérifier rapidement l'accessibilité :**
+Retrouvez [le support de présentation de l'atelier **Easy Checks - Vérifier rapidement l'accessibilité**](https://fichiers.numerique.gouv.fr/explorer/items/files/5ba4eff3-1949-4f8b-a0e9-f5ee90d7321d)
 {% endhint %}
 
 ### La grille d'évaluation
 
 Dupliquer le fichier source ci-dessous
 
-{% embed url="https://docs.google.com/spreadsheets/d/1nJxWgodGilWs5k9DOuYVwJi-CysSllgHImCTHOrH5hE/edit#gid=1758993411" %}
+{% file src="../../../../.gitbook/assets/Grille vierge Easy Checks - 2026.xlsx" %}
 
 ### Les outils
 
 Ces tests peuvent se faire facilement, sans compétences techniques :
 
 * directement dans le navigateur
-* avec[ le bookmarklet ANDI](https://www.ssa.gov/accessibility/andi/help/install.html) qui s'installe sur tout les navigateurs, via un drag and drop dans la barre de raccourci
 * avec [le service en ligne WAVE](http://wave.webaim.org/)
 
-Il existe de nombreux autres outils spécifiques, selon les préférences de chacun, mais ces 3 là permettent d'évaluer déjà un bon nombre de chose 🙂.
+Il existe de nombreux autres outils spécifiques selon les préférences de chacun, mais WAVE permet déjà d'évaluer un bon nombre de choses 🙂.
 
-| Test                              | Via le navigateur | Avec ANDI | Avec WAVE |
-| --------------------------------- | ----------------- | --------- | --------- |
-| 📄 Le titre des pages             | ✅                 | ✅         |           |
-| 🖼 Les alternatives aux images    |                   | ✅         | ✅         |
-| 📰 La hiérarchie de l’information |                   | ✅         | ✅         |
-| 🌓 Les contraste des couleurs     |                   | ✅         | ✅         |
-| ✨ La personnalisation du texte    | ✅                 |           |           |
-| 🎹 La navigation au clavier       | ✅                 |           |           |
-| 📄 Les formulaires                | ✅                 | ✅         |           |
-| ▶️ Les contenus animés            | ✅                 |           |           |
-| 🎬 Les alternative aux médias     | ✅                 |           |           |
-| 📃 La structure des pages         |                   | ✅         | ✅         |
-
-**Pour aller plus loin** : [Easy Checks – A First Review of Web Accessibility](https://www.w3.org/WAI/test-evaluate/preliminary/)
+| Test                           | Via le navigateur | Avec WAVE |
+| ------------------------------ | ----------------- | --------- |
+| 📄 Le titre des pages          | ✅                 |           |
+| 🎹 La navigation au clavier    | ✅                 |           |
+| ⏭️&#xD; Lien d’évitement       | ✅                 |           |
+| 🔍&#xD; Zoom                   | ✅                 |           |
+| 📄 Les formulaires             | ✅                 |           |
+| 🌓 Les contrastes de couleurs  |                   | ✅         |
+| 📰 La hiérarchie des titres    |                   | ✅         |
+| 🖼 Les alternatives aux images |                   | ✅         |
+| 🗣️ La langue de la page       |                   | ✅         |
 
 ### Le titre des pages
 
@@ -63,88 +59,6 @@ Il existe de nombreux autres outils spécifiques, selon les préférences de cha
 Un bon titre commence généralement par les informations importantes et uniques.
 {% endhint %}
 
-### Les alternatives aux images
-
-**Les alternatives transmettent l'objectif de l’image :** ils sont lus par les lecteurs d’écrans (ou ressenti sur une plage braille). Parfois, ils sont affichés à la place de l'image quand la connexion est mauvaise.
-
-{% hint style="info" %}
-**Elles te remercieront :** les personnes utilisant un lecteur d’écran et celles ayant une connexion restreinte.
-{% endhint %}
-
-#### **Le test des alternatives**
-
-**Ce qu'il faut faire :** afficher les textes alternatifs des images avec un outil dédié
-
-**Ce qu'il faut vérifier :**
-
-* ✅ L’alternative doit permettre de comprendre le contenu, pas nécessairement décrire l’image.
-* ✅ Les images décoratives qui n’apportent pas de sens n’ont pas d’alternative.
-
-{% hint style="success" %}
-Un bon texte alternatif est ce que tu dirais à quelqu’un qui interagit avec une page web mais ne la voit pas (par exemple, “recherche” plutôt que “loupe”).
-
-Un texte alternatif approprié n'est pas une science exacte. Certaines personnes préfèrent les descriptions détaillées ; d'autres des descriptions concises.
-{% endhint %}
-
-### La hiérarchie de l’information
-
-**La structure de la page est balisée** : certains éléments de textes sont important dans la page : ils sont mis en avant visuellement. Ils doivent l’être aussi dans le code via les balises dédiées.
-
-{% hint style="info" %}
-**Elles te remercieront :** les personnes qui naviguent au clavier, celles qui utilisent un lecteur d’écran, celles qui affichent le site sans style.
-{% endhint %}
-
-#### **Le test du plan**
-
-**Ce qu'il faut faire :** lire le plan de la page avec un outil dédié.
-
-**Ce qu'il faut vérifier :**
-
-* ✅ Sauf exception, la page possède un ou plusieurs titres de rubriques.
-* ✅ Les textes mis en valeur visuellement sont bien marqués comme des titres.
-* ✅ La hiérarchie des titres a du sens.
-
-### Les contraste des couleurs
-
-**Les couleurs du site n’entravent pas la lecture :** certaines personnes ont besoin d'un contraste suffisant pour lire (trouble de vision lié à la vieillesse par exemple). D’autres ont besoin d’une faible luminance (certains types de dyslexie) ou… d’une luminance élevée.
-
-Chaque personne a des besoins différents : le site doit permettre à l’utilisateur de s’adapter.
-
-{% hint style="info" %}
-**Elles te remercieront :** les personnes souffrant de troubles de lectures, les personnes avec des troubles de visions, les personnes âgées ayant perdu la sensibilité au contraste.
-{% endhint %}
-
-#### **Le test des couleurs**
-
-**Ce qu'il faut faire** : vérifier les contrastes de la page avec un outil dédié.
-
-**Ce qu'il faut vérifier**
-
-* ✅ Le contraste minimum par défaut est respecté pour les textes de taille normale.
-* ✅ Les utilisateurs peuvent surcharger la couleur de texte ou du fond.
-
-### La personnalisation du texte
-
-**Le texte est adaptable :** un texte peut être adapté de multiples façons : couleur, taille, police, interlignes… via les préférences du navigateur.
-
-Si le site est mal conçu, il devient inutilisable, ou le contenu illisible.
-
-{% hint style="info" %}
-**Elles te remercieront :** les personnes qui ont besoin d'agrandir le contenu pour pouvoir le lire ; celles qui ont besoin d’interlignes élevées.
-{% endhint %}
-
-#### **Le test du zoom**
-
-**Ce qu'il faut faire :** agrandir le texte à 200 % et naviguer sur le site.
-
-**Ce qu'il faut vérifier**
-
-* ✅ Tout le texte est agrandi.
-* ✅ Le texte ne disparaît pas ou n'est pas coupé.
-* ✅ Le texte, les images et les autres contenus ne se chevauchent pas.
-* ✅ Tous les éléments des formulaires sont visibles et utilisables.
-* ✅ Le défilement horizontal n'est pas nécessaire pour lire le contenu.
-
 ### La navigation au clavier
 
 **L'interface est utilisable sans souris :** certaines personnes utilisent le clavier ou la saisie vocale (qui utilise des commandes clavier).
@@ -157,7 +71,7 @@ L’ensemble du contenu et des fonctionnalités doit donc être accessible via l
 
 #### **Le test de la souris perdue**
 
-**Ce qu'il faut faire :** utiliser le site sans manipuler la souris.
+**Ce qu'il faut faire :** utiliser le site sans manipuler la souris. Utiliser les touches `Tab` (tabulation) ou `Backspace` (effacer) pour avancer ou reculer, et les flèches directionnelles, la touche `Espace` ou la touche `Echap` pour les interactions complexes.
 
 Ce qu'il faut vérifier
 
@@ -166,13 +80,52 @@ Ce qu'il faut vérifier
 * ✅ L’accès à tous les éléments (liens, champs de formulaire, boutons et commandes du lecteur multimédia…) est possible.
 * ✅ Le focus ne reste pas coincé (on peut sortir d’une vidéo par exemple).
 
+### Lien d'évitement
+
+L'accès au contenu principal d'une page peut être laborieux pour les personnes naviguant au clavier : il faut souvent parcourir toute l'en-tête et tout un menu de navigation avant d'arriver au coeur de la page consultée. Pour palier cette difficulté, il est obligatoire de proposer un [**lien d'évitement ou lien d'accès rapide**](https://accessibilite.numerique.gouv.fr/methode/glossaire/#liens-d-evitement-ou-d-acces-rapide) **vers le contenu principal.**&#x20;
+
+{% hint style="info" %}
+**Elles te remercieront :** les personnes ayant des troubles moteurs et les personnes aveugles ou malvoyantes.
+{% endhint %}
+
+#### **Le test du lien d'évitement**
+
+**Ce qu'il faut faire :** au chargement de la page, une tabulation au clavier avant toute autre interaction pour faire apparaître les liens d'évitement.
+
+Ce qu'il faut vérifier
+
+* ✅ Cet élément est visible à la prise de focus.
+* ✅ Ce lien est fonctionnel et redirige vers le contenu principal de la page.
+
+### L'agrandissement du texte
+
+**Le texte est adaptable :** un texte peut être adapté de multiples façons : couleur, taille, police, interlignes… via les préférences du navigateur.
+
+Si le site est mal conçu, il devient inutilisable, ou le contenu illisible.
+
+{% hint style="info" %}
+**Elles te remercieront :** les personnes malvoyantes, les personnes dyslexiques, les personnes seniors... toutes les personnes qui ont besoin d'agrandir le contenu pour pouvoir le lire.
+{% endhint %}
+
+#### **Le test du zoom**
+
+**Ce qu'il faut faire :** agrandir le texte à 200 % et naviguer sur le site. Pour agrandir uniquement le texte sur Firefox : `Affichage` ⇒ `Zoom` ⇒ `Agrandir uniquement le texte`
+
+**Ce qu'il faut vérifier**
+
+* ✅ Tout le texte est agrandi.
+* ✅ Le texte ne disparaît pas ou n'est pas coupé.
+* ✅ Le texte, les images et les autres contenus ne se chevauchent pas.
+* ✅ Tous les éléments des formulaires sont visibles et utilisables.
+* ✅ Le défilement horizontal n'est pas nécessaire pour lire le contenu.
+
 ### Les formulaires
 
-**Les formulaires sont balisés correctement :** un formulaire est composé de champs, qui doivent être correctement balisés pour pouvoir être rempli au clavier, par commande vocale ou via un lecteur d'écran.
+**Les formulaires sont balisés correctement :** un formulaire est composé de champs, qui doivent être correctement balisés pour pouvoir être remplis au clavier, par commande vocale ou via un lecteur d'écran.
 
-Les aides à la saisie et messages d’erreurs doivent être placés de manière pertinentes pour être visible (et utile) pour tous.
+Les aides à la saisie et messages d’erreurs doivent être placés de manière pertinente pour être visibles (et utiles) pour tout le monde.
 
-C’est l’un des tests le plus compliqué mais aussi celui qui a le plus d’impact 💪.
+C’est l’un des tests les plus compliqués mais aussi celui qui a le plus d’impact 💪.
 
 {% hint style="info" %}
 **Elles te remercieront :** les personnes qui n’utilisent pas la souris, qui ont des problèmes de motricité, ou des troubles cognitifs ou d’apprentissage.
@@ -185,86 +138,114 @@ C’est l’un des tests le plus compliqué mais aussi celui qui a le plus d’i
 **Ce qu'il faut vérifier**
 
 * ✅ Les formulaires sont accessibles au clavier (et toutes les options d'un menu déroulant sont accessibles).
-* ✅ Les champs ont un label (et un clic sur le label active le champ).
+* ✅ Les champs ont un label (et un clic sur le label active le champ). Le label est accolé à son champ : juste à côté ou juste en-dessous.
 * ✅ Les champs obligatoires sont indiqués (pas seulement par la couleur rouge).
 * ✅ Les instructions d'aide sont avant le champ concerné.
-* ✅ Les formats spécifiques (par exemple les dates) sont explicitées dans le label.
+* ✅ Les formats spécifiques (par exemple les dates) sont explicités dans le label.
 * ✅ Les erreurs sont explicites (quel champ est concerné, comment corriger).
 
-### Les contenus animés
+### Les contraste des couleurs
 
-**Les animations ne perturbent pas la lecture :** les utilisateurs doivent pouvoir contrôler le contenu en mouvement :
+**Les couleurs du site n’entravent pas la lecture :** certaines personnes ont besoin d'un contraste suffisant pour lire (trouble de vision lié à la vieillesse par exemple). D’autres ont besoin d’une faible luminance (certains types de dyslexie) ou… d’une luminance élevée.
 
-* Pour avoir le temps de traiter une information (vidéo, carousel)
-* Pour pouvoir se concentrer sur le contenu sans être distrait par un élément.
-
-Plus spécifiquement, certains contenus clignotants peuvent déclencher une crise d’épilepsie chez certains personnes.
+Chaque personne a des besoins différents : le site doit permettre aux utilisateurices de s’adapter.
 
 {% hint style="info" %}
-**Elles te remercieront :** les personnes troubles de l'attention, les personnes photosensibles ou épileptiques.
+**Elles te remercieront :** les personnes souffrant de troubles de lecture, les personnes avec des troubles de vision, les personnes âgées ayant perdu la sensibilité au contraste.
 {% endhint %}
 
-#### **Le test des animations**
+#### **Le test des couleurs**
 
-**Ce qu'il faut faire :** identifier les contenus qui bougent ou clignotent.
+**Ce qu'il faut faire** : vérifier les contrastes de la page avec un outil dédié. Sur Wave, les erreurs de contraste sont remontées dans la synthèse principale et l'onglet Contrast permet de vérifier manuellement des zones choisies (pour du texte sur image qui ne sera pas testé automatiquement par l'outil par exemple).
+
+**Ce qu'il faut vérifier**
+
+* ✅ Le contraste minimum par défaut est respecté pour les textes de taille normale.
+* ✅ Les utilisateurs peuvent surcharger la couleur de texte ou du fond : sur Firefox `Paramètres` ⇒ `Général` ⇒ `Langue et apparence` ⇒ `Remplacer les couleurs`. Les couleurs paramétrées doivent être les couleurs appliquées.
+
+### La hiérarchie des titres
+
+**La structure de la page est balisée** : certains éléments de textes sont importants dans la page : ils sont mis en avant visuellement. Ils doivent l’être aussi dans le code via les balises dédiées. C'est ce qui permet aux utilisateurs et utilisatrices de naviguer directement par titres et de se repérer facilement dans le contenu.
+
+{% hint style="info" %}
+**Elles te remercieront :** les personnes qui naviguent au clavier, celles qui utilisent un lecteur d’écran, celles qui affichent le site sans style.
+{% endhint %}
+
+#### **Le test du plan**
+
+**Ce qu'il faut faire :** lire le plan de la page avec un outil dédié. Sur Wave, l'onglet Structure permet de faire apparaître les zones et les titres. Le plugin navigateur [HeadingsMaps](https://accessibility.education.gov.uk/tools-testing/tools/headingsmap) fournit également une vue de la hiérarchie des titres.
 
 **Ce qu'il faut vérifier :**
 
-* ✅ Si des informations défilent ou bougent automatiquement, elles ne durent pas plus de 5 secondes, ou le mouvement peut être arrêté.
-* ✅ L’utilisateur peut mettre en pause ou cacher les mouvements.
-* ✅ L’utilisateur peut régler la fréquence de mise à jours des informations animées.
-* ✅ Si des informations se mettent à jour en temps réel, l’utilisateur peut les mettre en pause ou contrôler la fréquence de mise à jour.
-* ✅ Aucun contenu ne clignote ou ne se met à clignoter plus de trois fois en une seconde.
+* ✅ Sauf exception, la page possède un ou plusieurs titres de rubriques.
+* ✅ Les textes mis en valeur visuellement sont bien marqués comme des titres.
+* ✅ La hiérarchie des titres a du sens.
 
-### Les alternatives aux médias
+### Les alternatives aux images
 
-**Les médias ont des alternatives :** les podcasts ou formats audios ne sont pas accessibles aux personnes sourdes ou malentendantes, sauf si fournies dans un format alternatif (transcription par ex).
-
-Les informations visuelles d’une vidéo ne sont pas accessibles aux personnes aveugles ou malvoyantes, sauf si elles sont fournies dans un format alternatif tel que l'audio ou le texte.
+**Les alternatives transmettent l'objectif de l’image :** elles sont lues par les lecteurs d’écrans (ou ressenti sur une plage braille). Parfois, elles sont affichées à la place de l'image quand la connexion est mauvaise. Toutes les images qui apportent de l'information doivent avoir une alternative permettant d'obtenir le même niveau d'information. Également toutes les images décoratives (qui n'apportent pas d'information) doivent être ignorées pour ne pas parasiter la navigation des personnes utilisant des technologies d'assistance.
 
 {% hint style="info" %}
-**Elles te remercieront :** les personnes malentendantes, malvoyantes, sourdes ou aveugles.
+**Elles te remercieront :** les personnes utilisant un lecteur d’écran et celles ayant une connexion restreinte.
 {% endhint %}
 
-#### **Le test des médias**
+#### **Le test des alternatives**
 
-**Ce qu'il faut faire** : identifier les médias (vidéos et audio) du service.
+**Ce qu'il faut faire :** afficher les textes alternatifs des images avec un outil dédié. Pour l'exemple nous décrivons le comportement de Wave, d'autres extensions ou scripts spécifiques sont également disponibles pour faciliter le repérage des images.
 
 **Ce qu'il faut vérifier :**
 
-* ✅ Les contrôles du lecteurs vidéo/audio sont accessible au clavier.
-* ✅ Le son ne démarre pas seul.
-* ✅ Les informations audios sont accessible au format texte (sous-titres, transcript).
-* ✅ Les informations visuelles sont accessibles au format texte ou au format audio (audio description ou transcript).
+* ✅ L’alternative doit permettre de comprendre le contenu, pas nécessairement décrire l’image. Wave affiche le texte alternatif d'une image dans un encart vert à proximité de l'image concernée. Au survol, l'image rattachée est entourée en rouge.
+* ✅ Les images décoratives qui n’apportent pas de sens n’ont pas d’alternative. Wave affichera un encart vert contenant  `""`  ou un encart violet avec une bulle barrée ou le texte `aria *role="presentation"` .
 
-### La structure des pages
+{% hint style="success" %}
+Un bon texte alternatif est ce que tu dirais à quelqu’un qui interagit avec une page web mais ne la voit pas (par exemple, “recherche” plutôt que “loupe”).
 
-**La page est linéaire** : tout le monde ne « voit » pas une page de la même manière. Un site a souvent une structure complexe visuellement (sidebar, éléments graphiques...) mais pour certains utilisateurs, il sera perçu de manière linéaire.
-
-{% hint style="info" %}
-**Elles te remercieront :** les personnes utilisant un lecteur d’écran, une feuille de style personnalisée ou utilisant le site sur mobile.
+Un texte alternatif approprié n'est pas une science exacte. Certaines personnes préfèrent les descriptions détaillées ; d'autres des descriptions concises.
 {% endhint %}
 
-#### **Le test du site tout nu**
+### La langue
 
-**Ce qu'il faut faire :** désactiver les images et les styles.
+**Pour que les technologies d'assistance vocalisent correctement une page web, la langue du texte doit être définie dans le code.** Si la langue n'est pas correctement indiquée, imaginez vous faire lire une page web en français par un locuteur anglophone ou germanophone... difficile de s'y retrouver ! De la même manière, chaque passage de texte dans une langue différente de la langue principale doit être indiqué.
+
+{% hint style="info" %}
+**Elles te remercieront :** les personnes qui vocalisent les pages. Par exemple les personnes aveugles, malvoyantes, les personnes avec un handicap mental ou cognitif, les personnes dyslexiques ou qui souffrent d'illettrisme.
+{% endhint %}
+
+#### **Le test de la langue**
+
+**Ce qu'il faut faire :** déterminer la langue principale de la page et repérer les sections de texte dans une langue qui diffère. Attention aux termes empruntés à l'anglais dans le langage courant, ou aux menus de traduction de page. Sur Wave, la langue principale est indiquée en tête de page et les changements de langue sont indiqués à proximité de chaque passage concerné.
 
 **Ce qu'il faut vérifier :**
 
-* ✅ Les informations sont affichées dans le bon sens.
-* ✅ Les textes alternatifs fournissent des informations pertinentes.
+* ✅ La langue de la page correspond à la langue principale utilisée. C'est également la bonne variante qui est définie : par exemple, `fr-FR` pour une page en français de France, et non pas `fr-CA` qui sera vocalisé comme une page en français du Canada.
+* ✅ Chaque changement de langue est correctement indiqué.
 
 ### Et après ?
+
+Une fois votre grille d'auto-évaluation remplie, pas de panique si vous ne savez pas par où commencer. Prenez du recul et procédez par étape :&#x20;
+
+* Est-ce qu'une page concentre beaucoup de blocages ? Cette page mérite peut-être d'être corrigée en priorité.
+* Est-ce qu'une catégorie est toujours en erreur ? Peut-être qu'en corrigeant un composant, vous corrigerez le problème partout.
+* Quels sont les niveaux d'impact des problèmes relevés ? Commencez par les problèmes qui empêchent le plus vos usagers et usagères.
+* Identifiez-vous des "quick wins" ? Des corrections qui coûtent peu, mais qui améliorent beaucoup.
+* ...&#x20;
+
+À vous de jouer en fonction de votre contexte, et bravo pour ce premier pas d'auto-évaluation !
+
+#### Pour continuer sur votre lancée
 
 Intégrer l'accessibilité dans votre équipe :
 
 * **Auto-diagnostic régulier** pour chaque nouveau composant / fonctionnalité / sprint…
-* **Prise en compte en amont** : faire sa propre checkliste, selon son métier)
+* **Prise en compte en amont** : faire sa propre checkliste, adaptée selon son métier.
 
 #### Pour aller plus loin
 
 [Easy Checks – A First Review of Web Accessibility](https://www.w3.org/WAI/test-evaluate/preliminary/)
 
+[Guide des impacts utilisateurs des défauts d'accessibilité](http://disic.github.io/guide-impacts_utilisateurs)
+
 {% hint style="success" %}
-Envie d'être accompagné ? Faisons cet atelier ensemble avec votre équipe ! Contactez-nous sur #domaine-accessibilité
+Envie d'être accompagné ? Faisons cet atelier ensemble avec votre équipe ! Contactez-nous sur [#domaine-accessibilité](https://mattermost.incubateur.net/betagouv/channels/c015lnmttj9)
 {% endhint %}

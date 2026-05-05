@@ -8,7 +8,7 @@ description: >-
 
 ## Bilan 2025
 
-🎂 **En 2025, le programme beta.gouv.fr a fêté ses 10 ans et s'est stabilisé :**&#x20;
+🎂 **En 2025, le programme beta.gouv.fr a fêté ses 10 ans et s'est stabilisé :**
 
 * le réseau couvre la majorité des ministères, avec 23 incubateurs partenaires créés depuis 2015, dont 19 toujours actifs.
 
@@ -18,14 +18,14 @@ description: >-
 * 24 investigations étaient en cours au 15 janvier 2026 ;
 * 36 services numériques ont atteint un impact national.
 
-🫶 **La communauté beta.gouv.fr se diversifie et se recentre sur les incubateurs :**&#x20;
+🫶 **La communauté beta.gouv.fr se diversifie et se recentre sur les incubateurs :**
 
 * l'année 2025 a compté 1 342 membres actifs, sur un total de 3 385 membres ayant contribué depuis 2015 ;
 * les métiers se sont diversifiés mais le développement reste le métier le plus représenté - avec 30 % des membres de la communauté ;
 * 179 nouveaux agents publics ont rejoint le programme en tant qu'intra ou sur un rôle transverse ;
 * 32 EIG ont été recrutés.
 
-{% file src="../../.gitbook/assets/Bilan 2025 beta.gouv.fr.pdf" %}
+{% file src="../../.gitbook/assets/betagouv_bilan_2025 (1).pdf" %}
 
 ## Bilan 2024
 
