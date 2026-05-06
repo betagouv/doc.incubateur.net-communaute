@@ -23,14 +23,14 @@ Ces tests peuvent se faire facilement, sans compétences techniques :
 * directement dans le navigateur
 * avec [le service en ligne WAVE](http://wave.webaim.org/)
 
-Il existe de nombreux autres outils spécifiques selon les préférences de chacun, mais WAVE permet déjà d'évaluer un bon nombre de choses 🙂.
+Il existe de nombreux autres outils spécifiques selon les préférences de chacun.e, mais WAVE permet déjà d'évaluer un bon nombre de choses 🙂.
 
 | Test                           | Via le navigateur | Avec WAVE |
 | ------------------------------ | ----------------- | --------- |
 | 📄 Le titre des pages          | ✅                 |           |
 | 🎹 La navigation au clavier    | ✅                 |           |
-| ⏭️&#xD; Lien d’évitement       | ✅                 |           |
-| 🔍&#xD; Zoom                   | ✅                 |           |
+| ⏭️ &#xD;Lien d’évitement       | ✅                 |           |
+| 🔍 Zoom                        | ✅                 |           |
 | 📄 Les formulaires             | ✅                 |           |
 | 🌓 Les contrastes de couleurs  |                   | ✅         |
 | 📰 La hiérarchie des titres    |                   | ✅         |
@@ -73,7 +73,7 @@ L’ensemble du contenu et des fonctionnalités doit donc être accessible via l
 
 **Ce qu'il faut faire :** utiliser le site sans manipuler la souris. Utiliser les touches `Tab` (tabulation) ou `Backspace` (effacer) pour avancer ou reculer, et les flèches directionnelles, la touche `Espace` ou la touche `Echap` pour les interactions complexes.
 
-Ce qu'il faut vérifier
+**Ce qu'il faut vérifier :**
 
 * ✅ Le focus du clavier est visible.
 * ✅ L’ordre de navigation est logique.
@@ -92,7 +92,7 @@ L'accès au contenu principal d'une page peut être laborieux pour les personnes
 
 **Ce qu'il faut faire :** au chargement de la page, une tabulation au clavier avant toute autre interaction pour faire apparaître les liens d'évitement.
 
-Ce qu'il faut vérifier
+**Ce qu'il faut vérifier :**
 
 * ✅ Cet élément est visible à la prise de focus.
 * ✅ Ce lien est fonctionnel et redirige vers le contenu principal de la page.
@@ -101,17 +101,17 @@ Ce qu'il faut vérifier
 
 **Le texte est adaptable :** un texte peut être adapté de multiples façons : couleur, taille, police, interlignes… via les préférences du navigateur.
 
-Si le site est mal conçu, il devient inutilisable, ou le contenu illisible.
+Si le site force certains paramètres, il devient inutilisable ou le contenu devient illisible lorsque les utilisateurices essaient d'adapter l'affichage à leurs besoins.
 
 {% hint style="info" %}
-**Elles te remercieront :** les personnes malvoyantes, les personnes dyslexiques, les personnes seniors... toutes les personnes qui ont besoin d'agrandir le contenu pour pouvoir le lire.
+**Elles te remercieront :** les personnes malvoyantes, les personnes dyslexiques, les personnes seniors... toutes les personnes qui ont besoin d'agrandir ou de personnaliser l'affichage du contenu pour pouvoir le lire.
 {% endhint %}
 
 #### **Le test du zoom**
 
 **Ce qu'il faut faire :** agrandir le texte à 200 % et naviguer sur le site. Pour agrandir uniquement le texte sur Firefox : `Affichage` ⇒ `Zoom` ⇒ `Agrandir uniquement le texte`
 
-**Ce qu'il faut vérifier**
+**Ce qu'il faut vérifier :**
 
 * ✅ Tout le texte est agrandi.
 * ✅ Le texte ne disparaît pas ou n'est pas coupé.
@@ -148,7 +148,7 @@ C’est l’un des tests les plus compliqués mais aussi celui qui a le plus d�
 
 **Les couleurs du site n’entravent pas la lecture :** certaines personnes ont besoin d'un contraste suffisant pour lire (trouble de vision lié à la vieillesse par exemple). D’autres ont besoin d’une faible luminance (certains types de dyslexie) ou… d’une luminance élevée.
 
-Chaque personne a des besoins différents : le site doit permettre aux utilisateurices de s’adapter.
+Chaque personne a des besoins différents : le site doit permettre aux utilisateurices de l’adapter.
 
 {% hint style="info" %}
 **Elles te remercieront :** les personnes souffrant de troubles de lecture, les personnes avec des troubles de vision, les personnes âgées ayant perdu la sensibilité au contraste.
@@ -156,9 +156,9 @@ Chaque personne a des besoins différents : le site doit permettre aux utilisate
 
 #### **Le test des couleurs**
 
-**Ce qu'il faut faire** : vérifier les contrastes de la page avec un outil dédié. Sur Wave, les erreurs de contraste sont remontées dans la synthèse principale et l'onglet Contrast permet de vérifier manuellement des zones choisies (pour du texte sur image qui ne sera pas testé automatiquement par l'outil par exemple).
+**Ce qu'il faut faire** : vérifier les contrastes de la page avec un outil dédié. Sur WAVE, les erreurs de contraste sont remontées dans la synthèse principale et l'onglet Contrast permet de vérifier manuellement des zones choisies (pour du texte sur image qui ne sera pas testé automatiquement par l'outil par exemple).
 
-**Ce qu'il faut vérifier**
+**Ce qu'il faut vérifier :**
 
 * ✅ Le contraste minimum par défaut est respecté pour les textes de taille normale.
 * ✅ Les utilisateurs peuvent surcharger la couleur de texte ou du fond : sur Firefox `Paramètres` ⇒ `Général` ⇒ `Langue et apparence` ⇒ `Remplacer les couleurs`. Les couleurs paramétrées doivent être les couleurs appliquées.
@@ -173,7 +173,7 @@ Chaque personne a des besoins différents : le site doit permettre aux utilisate
 
 #### **Le test du plan**
 
-**Ce qu'il faut faire :** lire le plan de la page avec un outil dédié. Sur Wave, l'onglet Structure permet de faire apparaître les zones et les titres. Le plugin navigateur [HeadingsMaps](https://accessibility.education.gov.uk/tools-testing/tools/headingsmap) fournit également une vue de la hiérarchie des titres.
+**Ce qu'il faut faire :** lire le plan de la page avec un outil dédié. Sur WAVE, l'onglet Structure permet de faire apparaître les zones et les titres. Le plugin navigateur [HeadingsMaps](https://accessibility.education.gov.uk/tools-testing/tools/headingsmap) fournit également une vue de la hiérarchie des titres.
 
 **Ce qu'il faut vérifier :**
 
@@ -191,12 +191,12 @@ Chaque personne a des besoins différents : le site doit permettre aux utilisate
 
 #### **Le test des alternatives**
 
-**Ce qu'il faut faire :** afficher les textes alternatifs des images avec un outil dédié. Pour l'exemple nous décrivons le comportement de Wave, d'autres extensions ou scripts spécifiques sont également disponibles pour faciliter le repérage des images.
+**Ce qu'il faut faire :** afficher les textes alternatifs des images avec un outil dédié. Pour l'exemple nous décrivons le comportement de WAVE, d'autres extensions ou scripts spécifiques sont également disponibles pour faciliter le repérage des images.
 
 **Ce qu'il faut vérifier :**
 
-* ✅ L’alternative doit permettre de comprendre le contenu, pas nécessairement décrire l’image. Wave affiche le texte alternatif d'une image dans un encart vert à proximité de l'image concernée. Au survol, l'image rattachée est entourée en rouge.
-* ✅ Les images décoratives qui n’apportent pas de sens n’ont pas d’alternative. Wave affichera un encart vert contenant  `""`  ou un encart violet avec une bulle barrée ou le texte `aria *role="presentation"` .
+* ✅ L’alternative doit permettre de comprendre le contenu, pas nécessairement décrire l’image. WAVE affiche le texte alternatif d'une image dans un encart vert à proximité de l'image concernée. Au survol, l'image rattachée est entourée en rouge.
+* ✅ Les images décoratives qui n’apportent pas de sens n’ont pas d’alternative. WAVE affichera un encart vert contenant  `""`  ou un encart violet avec une bulle barrée ou le texte `aria *role="presentation"` .
 
 {% hint style="success" %}
 Un bon texte alternatif est ce que tu dirais à quelqu’un qui interagit avec une page web mais ne la voit pas (par exemple, “recherche” plutôt que “loupe”).
@@ -206,7 +206,7 @@ Un texte alternatif approprié n'est pas une science exacte. Certaines personnes
 
 ### La langue
 
-**Pour que les technologies d'assistance vocalisent correctement une page web, la langue du texte doit être définie dans le code.** Si la langue n'est pas correctement indiquée, imaginez vous faire lire une page web en français par un locuteur anglophone ou germanophone... difficile de s'y retrouver ! De la même manière, chaque passage de texte dans une langue différente de la langue principale doit être indiqué.
+**Pour que les technologies d'assistance vocalisent correctement une page web, la langue du texte doit être définie dans le code.** Si la langue n'est pas correctement indiquée, imagine qu'un locuteur anglophone ou germanophone te lit une page web en français... difficile de s'y retrouver ! De la même manière, chaque passage de texte dans une langue différente de la langue principale doit être indiqué.
 
 {% hint style="info" %}
 **Elles te remercieront :** les personnes qui vocalisent les pages. Par exemple les personnes aveugles, malvoyantes, les personnes avec un handicap mental ou cognitif, les personnes dyslexiques ou qui souffrent d'illettrisme.
@@ -214,7 +214,7 @@ Un texte alternatif approprié n'est pas une science exacte. Certaines personnes
 
 #### **Le test de la langue**
 
-**Ce qu'il faut faire :** déterminer la langue principale de la page et repérer les sections de texte dans une langue qui diffère. Attention aux termes empruntés à l'anglais dans le langage courant, ou aux menus de traduction de page. Sur Wave, la langue principale est indiquée en tête de page et les changements de langue sont indiqués à proximité de chaque passage concerné.
+**Ce qu'il faut faire :** déterminer la langue principale de la page et repérer les sections de texte dans une langue qui diffère. Attention aux termes empruntés à l'anglais dans le langage courant, ou aux menus de traduction de page. Sur WAVE, la langue principale est indiquée en tête de page et les changements de langue sont indiqués à proximité de chaque passage concerné.
 
 **Ce qu'il faut vérifier :**
 
@@ -223,19 +223,19 @@ Un texte alternatif approprié n'est pas une science exacte. Certaines personnes
 
 ### Et après ?
 
-Une fois votre grille d'auto-évaluation remplie, pas de panique si vous ne savez pas par où commencer. Prenez du recul et procédez par étape :&#x20;
+Une fois votre grille d'auto-évaluation remplie, pas de panique si tu ne sais pas par où commencer. Prends du recul et procède par étape :&#x20;
 
 * Est-ce qu'une page concentre beaucoup de blocages ? Cette page mérite peut-être d'être corrigée en priorité.
-* Est-ce qu'une catégorie est toujours en erreur ? Peut-être qu'en corrigeant un composant, vous corrigerez le problème partout.
-* Quels sont les niveaux d'impact des problèmes relevés ? Commencez par les problèmes qui empêchent le plus vos usagers et usagères.
-* Identifiez-vous des "quick wins" ? Des corrections qui coûtent peu, mais qui améliorent beaucoup.
+* Est-ce qu'une catégorie est toujours en erreur ? Peut-être qu'en corrigeant un composant, tu corrigeras le problème partout.
+* Quels sont les niveaux d'impact des problèmes relevés ? Commence par les problèmes qui empêchent le plus tes usagers et usagères.
+* Identifie-tu des "quick wins" ? Des corrections qui coûtent peu, mais qui améliorent beaucoup.
 * ...&#x20;
 
-À vous de jouer en fonction de votre contexte, et bravo pour ce premier pas d'auto-évaluation !
+À toi de jouer en fonction de ton contexte, et bravo pour ce premier pas d'auto-évaluation !
 
-#### Pour continuer sur votre lancée
+#### Pour continuer sur sa lancée
 
-Intégrer l'accessibilité dans votre équipe :
+Intégrer l'accessibilité dans ton équipe :
 
 * **Auto-diagnostic régulier** pour chaque nouveau composant / fonctionnalité / sprint…
 * **Prise en compte en amont** : faire sa propre checkliste, adaptée selon son métier.
