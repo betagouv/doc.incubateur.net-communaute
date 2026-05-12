@@ -53,11 +53,12 @@ Faire une demande sur le canal Mattermost [\~gip-inclusion-locaux](https://matte
 
 ### La Fabrique Numérique
 
-La Grande Arche Paroi sud 92055 LA DÉFENSE CEDEX
+La Grande Arche Paroi sud 
+92055 LA DÉFENSE CEDEX
 
-fabrique.projets@developpement-durable.gouv.fr
+Un grand open space + une salle de réunion avec un espace table haute + chaises et un espace canapé + fauteuils
 
-Pour les startups du MTE.
+fabrique.numerique@developpement-durable.gouv.fr
 
 ### La Fabrique RH
 
