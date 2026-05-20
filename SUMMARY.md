@@ -283,6 +283,7 @@
   * [💻 Tech](gerer-son-produit/gestion-au-quotidien/tech/README.md)
     * [Support tech](gerer-son-produit/gestion-au-quotidien/tech/support-tech.md)
     * [Référent(e)s techs](gerer-son-produit/gestion-au-quotidien/tech/to-do-liens-avec-les-referents-techs.md)
+    * [Décisions d'architecture (ADR)](gerer-son-produit/gestion-au-quotidien/tech/architecture-decision-records.md)
     * [Hébergement](gerer-son-produit/gestion-au-quotidien/tech/infra.md)
     * [Nom de domaine](gerer-son-produit/gestion-au-quotidien/tech/choisir-son-nom-de-domaine.md)
     * [Sous-domaine \*.beta.gouv.fr](gerer-son-produit/tech/sous-domaine-beta-gouv-fr.md)
