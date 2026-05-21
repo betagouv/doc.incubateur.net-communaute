@@ -306,8 +306,6 @@
   * [FAQ espace membre](les-outils-de-la-communaute/espace-membre/faq-espace-membre.md)
 * [✉️ Emails](les-outils-de-la-communaute/emails/README.md)
   * [Emails suite numérique](les-outils-de-la-communaute/emails/emails-suite-numerique.md)
-  * [Emails OVH Pro](les-outils-de-la-communaute/emails/emails-ovh-pro.md)
-  * [Emails OVH MX plan](les-outils-de-la-communaute/emails/envoyer-et-recevoir-des-emails-beta.gouv.fr-avec-loffre-ovh-mx-plan.md)
   * [Listes de diffusion de la communauté](les-outils-de-la-communaute/emails/liste-de-diffusion-et-adresses-de-contact.md)
   * [Configurer sa signature de mail](les-outils-de-la-communaute/emails/configurer-sa-signature-de-mail-beta.gouv.fr.md)
   * [Envoi d'emails en masse](les-outils-de-la-communaute/emails/envoyer-des-mails-en-masse/README.md)
