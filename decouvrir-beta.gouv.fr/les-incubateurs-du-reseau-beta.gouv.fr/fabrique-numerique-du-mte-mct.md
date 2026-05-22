@@ -20,10 +20,9 @@ Tu es dans le coin de la Défense et tu souhaites venir profiter de l'open-space
 * Écris nous : fabrique.numerique@developpement-durable.gouv.fr
 
 {% hint style="info" %}
-#### Pour les informations spécifiques à la Fabrique numérique du MTECT, c'est par [ici](https://doc.mte.incubateur.net/) ! <a href="#pour-les-informations-specifiques-a-la-fabrique-numerique-du-mtect-cest-par-ici" id="pour-les-informations-specifiques-a-la-fabrique-numerique-du-mtect-cest-par-ici"></a>
+**Pour les informations spécifiques à la Fabrique numérique du MTECT, c'est par** [**ici**](https://doc.mte.incubateur.net/) **!**
 {% endhint %}
 
-\
+\\
 
-
-#### &#x20; <a href="#retrouve-lequipe-de-la-fabrique-numerique-du-mte-mct" id="retrouve-lequipe-de-la-fabrique-numerique-du-mte-mct"></a>
+#### &#x20;<a href="#retrouve-lequipe-de-la-fabrique-numerique-du-mte-mct" id="retrouve-lequipe-de-la-fabrique-numerique-du-mte-mct"></a>

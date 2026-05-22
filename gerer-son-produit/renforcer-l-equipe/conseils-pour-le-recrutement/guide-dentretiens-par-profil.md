@@ -266,7 +266,7 @@ Il s'agit d'une somme de propositions de trames pour tes entretiens. Peu importe
 
 Le plus important est collecter des **preuves concrètes de compétences** permettant de vérifier les critères définis lors du cadrage.
 
-#### 1. La préqualifation
+**1. La préqualifation**
 
 C'est le premier entretien ! Il peut être conduit par une personne tierce afin de te faire gagner du temps en tant qu'intra.\
 L'objectif est simple : s'assurer que tous les points essentiels pour la mission sont couverts avant d'envisager d'aller plus loin.\
@@ -299,7 +299,7 @@ On clôture l'échange par des remerciements et en explicitant la suite du proce
 
 `📝`Tous les compte-rendus d’entretiens sont à renseigner sur WTTJ (sur la page de chaque candidat).
 
-#### 2. L'entretien intra/métier
+**2. L'entretien intra/métier**
 
 L'entretien intra est clé puisqu'il a vocation à trouver des preuves de réponses aux critères de compétences métiers ainsi que revérifier la compréhension du produit par le candidat.
 
@@ -336,7 +336,7 @@ On clôture l'échange par des remerciements et en explicitant la suite du proce
 
 `📝`Tous les contre-rendus d’entretiens sont à renseigner sur WTTJ (sur la page de chaque candidat).
 
-#### 3. La mise en situation
+**3. La mise en situation**
 
 Les entretiens de mises en situation sont organisés en _live_ avec un expert métier sur 1 heure afin d’éviter tous les écueils liés aux préparation 100% générées par IA. C'est aussi un moyen de garantir l'équité de préparation entre les candidats.
 
@@ -367,7 +367,7 @@ On clôture l'échange par des remerciements et en explicitant la suite du proce
 
 `📝`Tous les compte-rendus d’entretiens sont à renseigner sur WTTJ (sur la page de chaque candidat).
 
-#### 4. L'entretien sur le cadre de collaboration
+**4. L'entretien sur le cadre de collaboration**
 
 Une fois la pré-sélection de 1 à 3 profils maximum, l'intra organise une rencontre avec les membres de son équipe, idéalement au bureau, pour qu’ils échangent sur :
 
@@ -407,7 +407,7 @@ On clôture l'échange par des remerciements et en explicitant la suite du proce
 
 `📝`Tous les compte-rendus d’entretiens sont à renseigner sur WTTJ (sur la page de chaque candidat).
 
-#### 5. La prise de références
+**5. La prise de références**
 
 La prise de références a vocation à récolter les dernières preuves de compétences que tu n'es pas parvenu à identifier. Il peut s'agir de compétences métier ou de savoir-être.
 
@@ -450,7 +450,7 @@ Il s'agit d'une somme de propositions de trames pour tes entretiens. Peu importe
 
 Le plus important est collecter des **preuves concrètes de compétences** permettant de vérifier les critères définis lors du cadrage.
 
-#### 1. La préqualifation
+**1. La préqualifation**
 
 C'est le premier entretien ! Il peut être conduit par une personne tierce afin de te faire gagner du temps en tant qu'intra.\
 L'objectif est simple : s'assurer que tous les points essentiels pour la mission sont couverts avant d'envisager d'aller plus loin.\
@@ -479,7 +479,7 @@ On clôture l'échange par des remerciements et en explicitant la suite du proce
 
 `📝`Tous les compte-rendus d’entretiens sont à renseigner sur WTTJ (sur la page de chaque candidat).
 
-#### 2. L'entretien intra/métier
+**2. L'entretien intra/métier**
 
 L'entretien intra est clé puisqu'il a vocation à trouver des preuves de réponses aux critères de compétences métiers ainsi que revérifier la compréhension du produit par le candidat.
 
@@ -513,7 +513,7 @@ On clôture l'échange par des remerciements et en explicitant la suite du proce
 
 `📝`Tous les contre-rendus d’entretiens sont à renseigner sur WTTJ (sur la page de chaque candidat).
 
-#### 3. La mise en situation
+**3. La mise en situation**
 
 Les entretiens de mises en situation sont organisés en _live_ avec un expert métier sur 1 heure afin d’éviter tous les écueils liés aux préparation 100% générées par IA. C'est aussi un moyen de garantir l'équité de préparation entre les candidats.
 
@@ -541,7 +541,7 @@ On clôture l'échange par des remerciements et en explicitant la suite du proce
 
 `📝`Tous les compte-rendus d’entretiens sont à renseigner sur WTTJ (sur la page de chaque candidat).
 
-#### 4. L'entretien sur le cadre de collaboration
+**4. L'entretien sur le cadre de collaboration**
 
 Une fois la pré-sélection de 1 à 3 profils maximum, l'intra organise une rencontre avec les membres de son équipe, idéalement au bureau, pour qu’ils échangent sur :
 
@@ -579,7 +579,7 @@ On clôture l'échange par des remerciements et en explicitant la suite du proce
 
 `📝`Tous les compte-rendus d’entretiens sont à renseigner sur WTTJ (sur la page de chaque candidat).
 
-#### 5. La prise de références
+**5. La prise de références**
 
 La prise de références a vocation à récolter les dernières preuves de compétences que tu n'es pas parvenu à identifier. Il peut s'agir de compétences métier ou de savoir-être.
 
