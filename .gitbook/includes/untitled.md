@@ -2,4 +2,10 @@
 title: Untitled
 ---
 
-{% embed url="https://app.gitbook.com/o/-LrIsEqqjEjdRXwfHPAD/s/-M4-Pru_Xyamh27tzw85/~/changes/1482/decouvrir-beta.gouv.fr/la-communaute-todo/normes-de-conduite/les-regles-de-vie-de-la-communaute" %}
+<details>
+
+<summary><mark style="color:$primary;">Le biais d'escalade d'engagement</mark></summary>
+
+Ce biais nous pousse à continuer d'investir dans une situation qui ne fonctionne plus, simplement parce que nous y avons déjà beaucoup investi. En contexte de prestation, cela se traduit par : "On a déjà passé 3 mois à les former, on ne peut pas s'arrêter maintenant." Ce raisonnement est dangereux : le temps passé ne justifie pas les pertes futures.
+
+</details>
