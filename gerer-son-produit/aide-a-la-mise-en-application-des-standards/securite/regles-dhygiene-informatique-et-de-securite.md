@@ -12,12 +12,11 @@ Cela vient avec quelques **règles d'hygiène informatique** pour assurer un niv
 
 2.  Utiliser **[Vaultwarden](vaultwarden.beta.gouv.fr)** pour **stocker et partager vos mots de passe** de manière sécurisée; Ne partagez jamais vos secrets par e-mail ou par chat.
 3. **Ne pas choisir ses mots passe**, générez-les avec votre password manager. Le mot de passe de votre password manager est le seul que vous devez choisir et retenir.
-4. Activer l [**authentification multifactorielle (MFA)**](https://fr.wikipedia.org/wiki/Double\_authentification) systématiquement sur l'ensemble
-des services que vous utilisez.
+4. Activer l'[**authentification multifactorielle (MFA)**](https://fr.wikipedia.org/wiki/Double\_authentification) systématiquement sur l'ensemble des services que vous utilisez.
 5. **Chiffrer** son disque.
 6. **Verrouiller** sa session
 7. **Garder son OS et logiciels à jour**
-8. Utiliser les **agents IA dans des environnements confinés** (VM ou conteneurs isolés), ne leur donner **jamais accès à l'ensemble de votre poste**.
+8. Utiliser les **agents IA dans des environnements confinés** (VM ou conteneurs isolés), et **ne jamais leur donner accès à l'ensemble de votre poste**.
 
 Ces règles s'appliquent à tous les membres de la communauté, quelque soit votre accès à des informations sensibles.
 
