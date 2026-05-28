@@ -1,7 +1,7 @@
 # ✅ Les standards
 
 {% hint style="warning" %}
-NOTE : toute cette partie de la documentation n'est qu'un miroir des nouveaux standards de beta.gouv.fr développés sur [https://github.com/betagouv/standards](https://github.com/betagouv/standards). Vos retours sont les bienvenus mais doivent se faire via ce lien.
+NOTE : toute cette partie de la documentation n'est qu'un miroir des nouveaux standards de beta.gouv.fr, en ligne sur [https://standards.beta.gouv.fr](https://standards.beta.gouv.fr/standards). Vos retours sont les bienvenus, en ouvrant une [issue sur le repo github](https://github.com/betagouv/standards/issues).
 {% endhint %}
 
 Les standards de beta.gouv.fr ont pour objectifs d'aider les équipes à construire et à opérer des services publics numériques exemplaires.
