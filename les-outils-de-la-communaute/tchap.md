@@ -26,6 +26,10 @@ Lorsqu'une fiche produit est créée sur le site beta.gouv.fr, un salon dédié 
 * Salon [Random](https://tchap.gouv.fr/#/room/!mjMJejXfZFiOczWRQY:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr\&via=agent.dev-durable.tchap.gouv.fr\&via=agent.social.tchap.gouv.fr), pour parler de tout et de rien
 * \[à compléter au fil de l'eau]
 
+{% hint style="info" %}
+Tu souhaites créer un salon dans l'espace beta.gouv.fr ? Une commande sera prochainement disponible. En attendant, tu peux faire ta demande sur le salon [BetaGouv-tmp-migration](https://tchap.gouv.fr/#/room/!bfLWibiCHOmIxcBJpm:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr\&via=agent.dev-durable.tchap.gouv.fr).
+{% endhint %}
+
 ## Règles de nommage
 
 Afin de garantir la cohérence et la lisibilité de nos espaces collectifs de discussion, il est recommandé de respecter des règles communes de nommage des espaces.
@@ -56,3 +60,4 @@ Pense donc à limiter le nombre de personnes qui ont ce rôle lorsque tu crées 
 Les autres personnes peuvent avoir des droits larges si tu le souhaites, en modulant les droits accordés au rôle « modérateur ».&#x20;
 {% endhint %}
 
+Besoin d'aide pour migrer ton équipe ou pour paramétrer tes salons ? Des remarques sur le fonctionnement de l'outil ? Pose ta question sur le [salon Tchap BetaGouv-tmp-migration](https://tchap.gouv.fr/#/room/!bfLWibiCHOmIxcBJpm:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr\&via=agent.dev-durable.tchap.gouv.fr).
