@@ -326,6 +326,7 @@
     * [Inviter un nouveau membre de la communauté sur Mattermost](les-outils-de-la-communaute/mattermost/comment-communiquer-sur-mattermost/comment-inviter-un-nouveau-membre-de-la-communaute-sur-mattermost.md)
   * [Canaux recommandés](les-outils-de-la-communaute/mattermost/canaux-recommandes.md)
   * [FAQ Mattermost](les-outils-de-la-communaute/mattermost/mattermost.md)
+* [Tchap](les-outils-de-la-communaute/tchap.md)
 * [📊 DashLord](les-outils-de-la-communaute/dashlord/README.md)
   * [FAQ DashLord](les-outils-de-la-communaute/dashlord/questions-reponses.md)
 * [📡 Autres services](les-outils-de-la-communaute/autres-services/README.md)
@@ -345,7 +346,6 @@
   * [Welcome To The Jungle](les-outils-de-la-communaute/autres-services/welcome-to-the-jungle/README.md)
   * [YesWeHack](les-outils-de-la-communaute/autres/yeswehack.md)
   * [UpDown.io](les-outils-de-la-communaute/autres-services/updown.io.md)
-  * [Tchap](les-outils-de-la-communaute/autres-services/tchap.md)
   * [Tally](les-outils-de-la-communaute/autres-services/tally.md)
 
 ## Solliciter et contribuer à la communauté

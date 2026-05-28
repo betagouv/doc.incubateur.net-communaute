@@ -15,7 +15,7 @@ Pour accéder à l'espace : [https://mattermost.incubateur.net](https://mattermo
 {% hint style="info" %}
 Mattermost ne chiffre pas le contenu de vos messages; **considérez mattermost comme un forum public.**\
 \
-Utilisez [la messagerie Tchap](../autres-services/tchap.md) pour tous vos échanges privés ou sensibles
+Utilisez [la messagerie Tchap](../tchap.md) pour tous vos échanges privés ou sensibles
 {% endhint %}
 
 ### Recommandations pour votre équipe:
