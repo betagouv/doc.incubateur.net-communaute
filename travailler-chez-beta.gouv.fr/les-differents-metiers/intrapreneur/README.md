@@ -49,7 +49,7 @@ Pour échanger entre intras, il existe un canal privé : [\~domaine-intras-priv�
 
 ### Le club intras
 
-Un club intras a lieu a chaque forum mensuel de la communauté beta.gouv.fr. Pour connaitre la date, il suffit de consulter l'[agenda ](https://calendar.google.com/calendar/embed?src=0ieonqap1r5jeal5ugeuhoovlg%40group.calendar.google.com\&ctz=Europe/Paris)public de la communauté.
+Un club intras a lieu a chaque forum mensuel de la communauté beta.gouv.fr. Pour connaitre la date, il suffit de consulter l'[agenda ](http://messagerie.numerique.gouv.fr/appsuite/api/share/0366722a002da2b9366722802da84e5eb694970c9c989a65/1/2/Y2FsOi8vMC8yMjczNA)public de la communauté.
 
 Vous serez également prévenu via Mattermost et directement invité à l'occurrence agenda.
 

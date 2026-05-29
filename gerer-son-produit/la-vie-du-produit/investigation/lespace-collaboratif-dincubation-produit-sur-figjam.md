@@ -47,7 +47,7 @@ Dans l'esprit d'un commun, nous avons l'intention de faire évoluer cet espace n
 Vous avez une évolution ou un nouveau tableau à partager ? Une question, un cri du coeur, envie d’ajouter des ateliers ?&#x20;
 
 * Écrivez sur le channel mattermost #domaine-coaching de beta.gouv&#x20;
-* Participe à la communauté des coachs au Forum de Beta.gouv. ([agenda disponibles ici ](https://calendar.google.com/calendar/u/0/embed?src=0ieonqap1r5jeal5ugeuhoovlg@group.calendar.google.com\&ctz=Europe/Paris)🔗)
+* Participe à la communauté des coachs au Forum de Beta.gouv. ([agenda disponibles ici ](http://messagerie.numerique.gouv.fr/appsuite/api/share/0366722a002da2b9366722802da84e5eb694970c9c989a65/1/2/Y2FsOi8vMC8yMjczNA)🔗)
 
 L'enjeu est de garder un board simple et accessible. L'équipe animation sélectionnera les modifications à ajouter au board "master", des autres suggestions qui pourront être ajoutées une zone d'annexes avec les variantes.
 

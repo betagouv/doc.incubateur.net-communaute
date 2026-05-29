@@ -58,7 +58,7 @@ Tu peux la consulter en version documentation juste ici 👇.
 * [ ] Découvrir [les canaux mattermost recommandés](../../les-outils-de-la-communaute/mattermost/canaux-recommandes.md)
 * [ ] Publier un message pour signaler ton arrivée aux membres de la communauté beta.gouv près de chez toi via ton [canal mattermost local](https://doc.incubateur.net/communaute/les-outils-de-la-communaute/mattermost/canaux-recommandes). Si aucun ne correspond, tu peux regarder si d'autres membres de la communauté sont près de chez toi sur la [carte des membres](https://espace-membre.incubateur.net/community)
 * [ ] Découvrir [tous les lieux où travailler ou organiser des événements](../vie-quotidienne-et-bien-etre/travailler-dans-les-lieux-partages/)
-* [ ] T'abonner à [l'agenda public de l'incubateur](https://calendar.google.com/calendar/u/0/r?cid=MGllb25xYXAxcjVqZWFsNXVnZXVob292bGdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) pour suivre les événements de la communauté
+* [ ] T'abonner à [l'agenda public de l'incubateur](http://messagerie.numerique.gouv.fr/appsuite/api/share/0366722a002da2b9366722802da84e5eb694970c9c989a65/1/2/Y2FsOi8vMC8yMjczNA) pour suivre les événements de la communauté
 
 **Appréhender ton environnement**
 

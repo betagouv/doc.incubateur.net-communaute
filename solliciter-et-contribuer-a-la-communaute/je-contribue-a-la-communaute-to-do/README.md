@@ -10,7 +10,7 @@ description: >-
 
 La communauté se réunit régulièrement autour d'événements pour partager des expériences, s'entraider sur des problèmes du quotidien et passer du bon temps !
 
-Pour connaître les prochains événéments, tu peux rejoindre l'[agenda public de beta.gouv.fr](https://calendar.google.com/calendar/u/0/embed?src=0ieonqap1r5jeal5ugeuhoovlg@group.calendar.google.com\&ctz=Europe/Paris) : tu auras accès à toutes les informations concernant ces événements, ainsi que des rappels utiles pour ne manquer aucune occasion de partager avec les autres membres des incubateurs. 📅
+Pour connaître les prochains événéments, tu peux rejoindre l'[agenda public de beta.gouv.fr](http://messagerie.numerique.gouv.fr/appsuite/api/share/0366722a002da2b9366722802da84e5eb694970c9c989a65/1/2/Y2FsOi8vMC8yMjczNA) : tu auras accès à toutes les informations concernant ces événements, ainsi que des rappels utiles pour ne manquer aucune occasion de partager avec les autres membres des incubateurs. 📅
 
 Chaque membre de la communauté est également livre d'organiser un événement ouvert aux autres membres (séminaire dans une ville, rencontre, formation, etc.).
 

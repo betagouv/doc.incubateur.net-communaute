@@ -24,7 +24,7 @@ Tu peux consulter les anciennes infolettres sur l'[espace membre](https://espace
 Pour suivre facilement les événements qui réunissent la communauté beta.gouv.fr, tu peux t'inscrire à l'agenda public de beta.gouv.fr !
 
 {% hint style="info" %}
-[Voir l'**agenda public**](https://calendar.google.com/calendar/u/1?cid=MGllb25xYXAxcjVqZWFsNXVnZXVob292bGdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+[Voir l'**agenda public**](http://messagerie.numerique.gouv.fr/appsuite/api/share/0366722a002da2b9366722802da84e5eb694970c9c989a65/1/2/Y2FsOi8vMC8yMjczNA)
 {% endhint %}
 
 {% hint style="info" %}
