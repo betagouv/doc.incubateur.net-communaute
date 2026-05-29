@@ -1,47 +1,66 @@
----
-description: >-
-  Découvrez comment garantir les bonnes conditions permettant l’exploitation des
-  services numériques conçus selon l’approche Startup d’État après la phase
-  d’incubation.
----
+# 4️⃣ Sortie d'incubation et consolidation
 
-# 4️⃣ Sortie d'incubation et pérennisation
+Un support de présentation sur les enjeux de la sortie d'incubation est accessible ici&#x20;
 
-## 💡Pourquoi pérenniser ? <a href="#pourquoi-perenniser" id="pourquoi-perenniser"></a>
+{% embed url="https://docs.google.com/presentation/d/1e7Mxui2CR333W-UDFzf3dY3UZ71xqIRq/edit?slide=id.p1#slide=id.p1" %}
+Préparer la sortie d'incubation d'un service numérique
+{% endembed %}
 
-La pérennisation n’est pas seulement une formalité administrative, mais une stratégie essentielle pour **maintenir des services publics robustes, agiles et capables de répondre aux besoins des citoyennes et citoyens sur le long terme**.
+### **📤 Les modalités de sortie d'incubation**
 
-Les services publics numériques nécessitent **une amélioration continue** afin de rester pertinents et conformes aux évolutions des besoins des usagers, des cadres législatifs et technologiques. La pérennisation permet aussi de garantir la durabilité des investissements tant que l'impact est présent ou prouvé. Cela implique un financement récurrent avec **une ligne budgétaire dédiée**.
+Il existe différentes manières de sortir du programme d'incubation [beta.gouv.fr](https://beta.gouv.fr) :
 
-## ⌛ À quel moment déclencher la pérennisation ? <a href="#a-quel-moment-declencher-la-perennisation" id="a-quel-moment-declencher-la-perennisation"></a>
+* A la fin d'une phase d'investigation, il peut être décidé de ne pas lancer un service numérique pour différentes raisons (voire la partie sur l'investigation).
+* Lors des phases de construction, d'accélération et de consolidation :
+  * il peut être décidé d'arrêter le service parce que les conditions ne sont pas réunies pour qu'il atteigne l'impact souhaité. Cette décision peut être réalisée sur l'impulsion de l'équipe (exemple de Mon Devis Sans Oublis : [https://beta.gouv.fr/startups/mon-devis-sans-oublis.html](https://beta.gouv.fr/startups/mon-devis-sans-oublis.html)) ou des sponsors (exemple de la Carte Jeune Engagé : [https://beta.gouv.fr/startups/pass.engagement.jeune.html](https://beta.gouv.fr/startups/pass.engagement.jeune.html))
+  * il peut être décidé de sortir le service du programme d'incubation pour l'intégrer à un autre service ou l'opérer en dehors du cadre de [beta.gouv.fr](https://beta.gouv.fr) (Futur Pro a, par exemple, rejoint [data.education.gouv.fr](https://data.education.gouv.fr) alors qu'il était encore en construction) Il n'est, dès lors, plus piloté selon la logique de beta.gouv.fr.
+* A l'issue de la phase de consolidation, le service peut être opéré par un opérateur distincts ou intégrés aux incubateurs (certains incubateurs ont vocation à opérer les services sur le long-terme) ou à intégrer une organisation (direction métier, numérique ou structure dédiée). La consolidation est l'occasion d'interroger l'organisation cible et nécessite souvent des adaptations des deux côtés (voire la partie sur les modèles d'organisation post-incubation pour une présentation plus détaillée).
 
-La phase de pérennisation commence quand le service numérique a prouvé **son utilité réelle et a démontré son impact**. C’est la phase où les équipes de beta.gouv.fr se retirent petit à petit afin de laisser l’administration porteuse en autonomie dans la gestion du service.
+<figure><img src="../../../.gitbook/assets/Modalités de sortie d&#x27;incubation.png" alt="Illustration des différentes modalités de sortie du programme"><figcaption></figcaption></figure>
 
-La sortie d'incubation est ainsi souhaitée lorsque **le produit a atteint une maturité** démontrée par une adoption stable et régulière auprès de son public cible, confirmant qu’il répond à un besoin réel.
+Pour réussir la sortie d'incubation et s'assurer qu'elle n'aboutisse pas à une dégradation de la qualité, de l'impact et de l'efficience du service, il est nécessaire de travailler la vision et l'organisation cible. C'est l'enjeu de la phase de consolidation.
 
-{% hint style="danger" %}
-Attention à ne pas vouloir sortir d'incubation votre Startup d'État trop vite. Une sortie d'incubation trop rapide peut ralentir le déploiement d'une solution numérique, ou risque de déstabiliser l'équipe en charge du produit.
-{% endhint %}
+### **💡La phase de consolidation : définition**
 
-## 🎯 Qu'est-ce qu'une pérennisation réussie ? <a href="#quest-ce-quune-perennisation-reussie" id="quest-ce-quune-perennisation-reussie"></a>
+La consolidation est la dernière phase du programme [beta.gouv.fr](https://beta.gouv.fr). Elle peut commencer **1 à 2 ans après la phase d'accélération** et nous recommandons aux équipes de l'initier **au plus tard 3 ans après le début de l'accélération**.
 
-Une pérennisation réussie repose sur plusieurs facteurs clés. Avant tout, il est nécessaire de maintenir **un agent public expert métier**, et formé(e) en gestion de produit, au pilotage du service numérique.
+La phase de consolidation vise à **accompagner la sortie d'incubation d'un service numérique** et **faire évoluer le cadre au sein duquel il évolue**. La consolidation est une phase - le produit est en cours de consolidation - tandis que la sortie d'incubation est un état - le produit est sorti d'incubation ou non.
 
-L’équipe doit être capable de **faire évoluer le produit**, dépassant ainsi le simple cadre de la correction d’anomalies, pour éviter le passage en maintenance.
+**Pendant l'incubation, l'objectif est de construire et déployer un service** qui a un impact clair sur des usagers et une politique publique. Le cadre de l'incubation permet de s'**affranchir d'une partie des contraintes organisationnelles** et de poser régulièrement les questions de la **pertinence et de l'impact du service**. L'équipe bénéficie d'une **forte autonomie** et l'administration est mise en position de pouvoir **arrêter facilement** un service si l'expérimentation n'est pas concluante sans que cela n'ait un fort impact sur son organisation.
 
-Le service doit maintenir une **relation constante avec ses utilisateurs**, en proposant un support accessible et en procédant à des tests réguliers pour garantir une **amélioration continue** et un haut niveau de satisfaction.
+Un service peut entrer en consolidation lorsqu’il a **démontré sa valeur, est déployé auprès de sa cible et répond aux standards de qualité du numérique public** (voire la page [réaliser une évaluation](https://docs.numerique.gouv.fr/docs/8f5ce654-4b01-4e9a-9e1c-97337518dd6a/)). La consolidation est le moment où on retire la mention « beta » de l’url du service parce qu’on considère qu’il constitue désormais un service numérique public national, qui n’est plus en phase d’expérimentation.
 
-Des **mesures d’impact** doivent également être suivies de façon régulière, afin d’ajuster les stratégies de déploiement et les investissements en fonction des résultats observés.
+L'objectif de la consolidation est d'**assurer un portage stable** et d'**explorer les synergies avec la structure d'accueil**. La question centrale devient : **comment faire évoluer ce qui a été construit pour renforcer son impact et les synergies avec d’autres activités de la structure ou d’autres leviers de l’action publique** **(juridique, financiers etc...) ?**
 
-Enfin, le service doit rester conforme aux [**standards de qualité**](https://standards.beta.gouv.fr/) de beta.gouv.fr, incluant l’ouverture du code source, l’accessibilité pour tous les usagers, ainsi que le respect des bonnes pratiques en matière de sécurité et de protection des données personnelles.
+La phase de consolidation doit ainsi permettre de poser des questions de vision, d’organisation, de financements et de culture de travail avec les parties prenantes. C'est ainsi l'occasion d'explorer de nouveau cas d'usages par d'autres administrations ou des connexions avec d'autres services qui contribuent à la même politique publique.
 
-## 🛬 Adaptation des administrations aux enjeux de la pérennisation <a href="#adaptation-des-administrations-aux-enjeux-de-la-perennisation" id="adaptation-des-administrations-aux-enjeux-de-la-perennisation"></a>
+### **🎯 Qu'est-ce qu'une consolidation réussie ?**
 
-La pérennisation d'une Startup d'État ne se limite pas à la simple continuité technique du projet, mais elle nécessite **une adaptation en profondeur des structures et des pratiques de l'administration** pour garantir son succès à long terme. Elle peut aussi impliquer l'intégration de nouvelles compétences, ce qui nécessite le recrutement de profils spécialisés et la révision des pratiques RH pour attirer ces talents.
+Une consolidation réussie repose souvent sur **la préservation du mode de gestion, la stabilisation des financements et l'identification de nouvelles opportunités**. A l'inverse, la consolidation peut être considérée comme un échec lorsque la sortie d'incubation correspond à une mise en maintenance du service qui conduit à une dégradation et obsolescence progressive du service.
 
-L'introduction de méthodes de travail comme le mode produit pourrait aussi exiger une adaptation de la gouvernance et de l'organisation afin de faciliter la mise en place d'une équipe intégrée et pluridisciplinaire.
+| **✅ Facteurs de succès**                                                                   | **Critères de réussite**                                                                                                                                                                                                                                                                                                                                                                                  | **Pourquoi c’est important ?**                                                                                                                                                                                                                                                                          |
+| ------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Soutien par des sponsors de haut niveau et les parties prenantes opérationnelles**       | <p>- Des <strong>sponsors de haut niveau</strong> soutiennent le service et l’autonomie de l'équipe.<br>- Les sponsors participent à des <strong>comités annuels ou semestriels</strong> et valident le budget et les objectifs d’impact. <br>- Les <strong>parties prenantes opérationnelles</strong> ont une perception positive du service.</p>                                                        | <p>L’absence d’un soutien de haut niveau rend <strong>la prise de décision difficile avec un risque d'affectation des ressources à d'autres missions</strong>.<br>L'absence de soutien par les parties prenantes opérationnelles <strong>complexifie l’intégration à l’administration.</strong><br></p> |
+| **Développement de synergies avec l’administration**                                       | <p>- Le produit s’<strong>intègre dans les activités</strong> ou l’offre de services de la structure. <br>- Le produit <strong>est inscrit dans la norme</strong> et/ou a permis de la changer. </p>                                                                                                                                                                                                      | L’**absence d'interactions** entre l’équipe produit et les directions métiers isole l’équipe des autres leviers et acteurs des politiques publiques concernées.                                                                                                                                         |
+| **Préservation et internalisation d’une partie de l’équipe et du mode de fonctionnement**  | <p><strong>- Au moins une partie de l’équipe</strong> qui a construit le service est maintenue.<br>- <strong>Les marchés utilisés</strong> permettent de piloter directement les ressources / expertises allouées <br>- <strong>Les postes sont progressivement internalisés</strong> pour réduire les coûts et accroître la légitimité et la visibilité l’équipe au sein de sa structure d’accueil. </p> | La **faible capitalisation** **sur l’expertise acquise** (transfert rapide à une autre équipe, suppression de certains rôles, dilution des responsabilité…) conduit à une perte de savoir-faire et de connaissances qui impacte la qualité ou les coûts de fonctionnement.                              |
+| **Pilotage du budget en lien avec l’impact du service**                                    | <p>- L'<strong>impact est reconnu</strong> et peut être suivi via des indicateurs qui font consensus. <br>- Le <strong>coût par impact est maitrisé et considéré comme viable par l’administration</strong> (par rapport au coût global de la ou des politiques publiques concernées). </p>                                                                                                               | L’**objectif de baisse des coûts plutôt que d’amélioration du coût par impact** conduit à une baisse d’ambition et à une dégradation progressive du service rendu aux usagers.                                                                                                                          |
 
-#### 😎 Lancez-vous dans la préparation de la pérennisation de votre service numérique <a href="#lancez-vous-dans-la-preparation-de-la-perennisation-de-votre-service-numerique" id="lancez-vous-dans-la-preparation-de-la-perennisation-de-votre-service-numerique"></a>
+### **🚲 Consolidation et adaptation**
+
+La consolidation d'un service numérique ne se limite pas à la simple continuité technique du projet. Elle nécessite une réflexion sur comment conserver les éléments qui ont fait le succès du service. Cela implique souvent **une adaptation des pratiques et de l'organisation de l'administration qui intègre le service** pour garantir son succès à long terme. Elle peut conduire à l'intégration de nouvelles compétences, à la révision de pratiques RH pour attirer ces talents ou à une ré-organisation ou une redéfinition des liens entre directions métiers et directions techniques (voire les [différents modèles d'organisation pour opérer des services numériques](https://docs.numerique.gouv.fr/docs/cb09bcdb-59ef-459c-abfa-d2a3ff70933e/)).
+
+Cela implique également **une adaptation de l'équipe** : réflexions sur les synergies avec d'autres services numériques, sur la place du responsable du service dans la future organisation, internalisation de certains profils indépendants.
+
+### **😲 Le cas des sorties d'incubation précipitées**
+
+Certains services reçoivent des **demandes de sortie d'incubation** alors qu'ils sont encore en construction. Ces sorties d'incubation sont généralement subies par les équipes et témoignent d’une volonté du sponsor de réduire le financement ou d’intégrer le service à un autre pour simplifier sa compréhension de l'offre et le pilotage (et réduire les coûts).&#x20;
+
+Deux stratégies peuvent être proposées pour répondre à ces demandes :&#x20;
+
+* la **recherche de nouveaux sponsors** et le développement d’une nouvelle vision produit adaptée à ce nouveau portage. &#x20;
+* l’accompagnement de l’administration pour **évaluer l’opportunité**, mettre en avant **les risques** et définir **l’organisation cible** si la sortie d’incubation est confirmé.&#x20;
+
+#### 😎 Lancez-vous dans la consolidation de votre service numérique <a href="#lancez-vous-dans-la-preparation-de-la-perennisation-de-votre-service-numerique" id="lancez-vous-dans-la-preparation-de-la-perennisation-de-votre-service-numerique"></a>
 
 {% content-ref url="preparer-la-perennisation/" %}
 [preparer-la-perennisation](preparer-la-perennisation/)

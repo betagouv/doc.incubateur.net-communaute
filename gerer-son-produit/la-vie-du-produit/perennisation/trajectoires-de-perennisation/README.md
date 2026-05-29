@@ -1,19 +1,18 @@
-# Trajectoires de pérennisation
+# Modèles d'organisations post-incubation
 
-Lorsque le service numérique atteint une certaine maturité et entre en phase de pérennisation, on se pose la question de la meilleure structure pour continuer à opérer le service en vitesse de croisière.&#x20;
+Il est possible de distinguer **4 grands modèles** qu'il est intéressant d'étudier lorsqu'on se pose la question de l'organisation cible :
 
-Le meilleur scénario est toujours de maintenir le fonctionnement de l'équipe produit pour capitaliser sur ses acquis et en faire un catalyseur de la transformation numérique de son administration. Cependant, ce scénario n'étant pas toujours possible, il est parfois nécessaire de transférer le produit numérique à une structure d'accueil. Dans certains cas (relativement marginaux), la Startup d'État peut se constituer en structure juridique autonome (GIP, SCN, etc).
+* Des opérateurs de produits intégrés ou distincts des incubateurs
+* Des équipes produits intégrées aux directions métiers
+* Une gestion de produit intégrée à la DSI ou au SNUM
+* Des structures autonomes pour un ou des produits numériques
 
-## 👇Quelques trajectoires de pérennisation
+En pratique, les organisations choisies pour opérer des services numériques sortis d'incubation sont propres à la nature du service et aux caractéristiques des structures qui les portent.
 
-{% content-ref url="1.-poursuite-de-lexploitation-du-service-au-sein-de-son-incubateur/" %}
-[1.-poursuite-de-lexploitation-du-service-au-sein-de-son-incubateur](1.-poursuite-de-lexploitation-du-service-au-sein-de-son-incubateur/)
-{% endcontent-ref %}
+La consolidation est souvent l'occasion de **créer de nouvelles entités au sein d'une structure, de changer la mission d'une entité ou d’inventer de nouvelles relations entités existantes**. De nombreux exemples témoignent d'une reconfiguration des relations entre directions métiers et DSI :
 
-{% content-ref url="2.-choix-dune-structure-daccueil-en-gardant-lequipe-de-la-startup-detat/" %}
-[2.-choix-dune-structure-daccueil-en-gardant-lequipe-de-la-startup-detat](2.-choix-dune-structure-daccueil-en-gardant-lequipe-de-la-startup-detat/)
-{% endcontent-ref %}
+* **La bonne alternance** est rattaché à la MISI (mission de l'ingénierie et des systèmes d’information) au sein de la DGEFP mais implique fortement des référents au sein des directions métiers et a préservé son mode de fonctionnement, budget et personnes en prestation. La MISI s'inspire désormais du fonctionnement de La bonne alternance pour d'autres services, par exemple, en recrutant des gestionnaires de produit.
+* **Conseillers-Entreprises** est rattaché à la DILA avec un co-financement de la DGEFP. Un convention de partenariat entre les deux administrations garantie la préservation du mode produit (équipe interdisciplinaire, proximité avec les utilisateurs, déploiement réguliers, transparence...). Au sein de la DILA, l'équipe a un double rattachement à la sous-direction des publics et des produits (direction métier) et à la sous-direction des systèmes d'information. Cette organisation reprend celle des autres services gérés pas la DILA (service-public.fr, Vie Publique etc...). La responsable du service a une autorité fonctionnelle sur le reste de l'équipe.
+* **Mon Entreprise** a une responsable de produit internalisée et rattachée à la DG, des référents dans les directions métier, une équipe d’indépendants (2,5 ETP) portés par un marché interne. L’hébergement et les outils techniques sont indépendants du SI Urssaf mais le suivi budgétaire et la planification annuelle s’opèrent au niveau DSI.
+* **Mes Événements Emploi** a une équipe de développeurs issus de la DSI mais détachés au sein de la direction métier France Travail Pro.
 
-{% content-ref url="4.-constitution-dune-structure-juridique-dediee-gip-scic-sas-scn-etc./" %}
-[4.-constitution-dune-structure-juridique-dediee-gip-scic-sas-scn-etc.](4.-constitution-dune-structure-juridique-dediee-gip-scic-sas-scn-etc./)
-{% endcontent-ref %}

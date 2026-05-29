@@ -1,47 +1,53 @@
----
-description: >-
-  L'objectif ce cette première étape est de déterminer l'ambition souhaitée pour
-  le service et son intégration dans l'administration.
-icon: '1'
----
+# 1. Lancer la consolidation
 
-# Définir les objectifs de la pérennisation
+La consolidation est complexe par essence parce qu’elle pose des **questions d’organisation, de financements et de culture de travail**. Pour pouvoir aborder ces questions, il est nécessaire de mobiliser ses sponsors et de s'aligner sur la compréhension et l'évaluation de la valeur, de la maturité et de la qualité du service.
 
-## 🚀 Plan d'actions <a href="#plan-dactions" id="plan-dactions"></a>
 
-1. **Recueillir les besoins et objectifs des parties prenantes** Organiser une ou plusieurs réunions avec les parties prenantes du produit pour discuter des objectifs de pérennisation
 
-{% hint style="success" %}
-**Atelier de construction d’une vision commune pour le produit :**\
-⇒ Quels ont été selon vous les réussites du produit ?\
-⇒ Qu’est ce qui a permis ces réussites ?\
-⇒ Demain, à quoi ressemblera le produit ?\
-⇒ Que faudra-t-il absolument conserver pour que la pérennisation soit un succès ?\
-\
-**Perspectives de la pérennisation (par exemple sous forme de** [**Futurespective**](https://www.neatro.io/fr/blog/retrospective-futurespective/#quatreexemplesdefuturespectives)**)** :\
-⇒ Quelles sont les forces du produit ?\
-⇒ Quelles sont ses faiblesses ?\
-⇒ Quelles opportunités pourraient permettre la pérennisation ?\
-⇒ Quelles sont vos craintes pour la pérennisation ?
-{% endhint %}
+1. **Lancer la phase de consolidation**
 
-2. **Rassembler les besoins et objectifs des parties prenantes afin d'obtenir une vision commune** Créez un document de vision clair et détaillé qui exprime l'ambition et l’impact du service, puis partagez-le avec toutes les parties prenantes lors d'un "comité pérennisation"
-3. **Explorer de nouvelles alliances** Si le produit est destiné à devenir interministériel, identifiez les ministères ou organismes susceptibles de collaborer pour décupler son impact
+La consolidation doit être considérée comme une phase du programme d'incubation sur laquelle il est nécessaire de **mobiliser des sponsors** pour interroger plus seulement **l'impact** du service mais sa **place dans l'organisation**.
 
-## 🧑‍🤝‍🧑 Parties prenantes <a href="#parties-prenantes" id="parties-prenantes"></a>
+**La réunion de lancement** vise à officialiser le lancement de cette phase et mobiliser les sponsors. Elle peut suivre le déroulé suivant :
 
-_Liste non exhaustive_
+* Enjeux, objectifs et risques
+* Définition des rôles dans l'équipe : qui travaille sur le sujet ?
+* Liste des parties prenantes à interroger
+* Principales questions de recherche
+* Principaux ateliers / jalons
 
-* **Administration sponsor** : la direction générale, les bureaux métiers
-* **DINUM** : Responsable de portefeuille et coach
-* **Équipe produit** : Intrapreneur et coach du produit
 
-[19KBExemple de note ou mail introduisant une pérennisation.docx](https://3909761381-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-M4-Pru_Xyamh27tzw85%2Fuploads%2FHyWuv5hr2hs85yx1Cy2i%2FExemple%20de%20note%20ou%20mail%20introduisant%20une%20pe%CC%81rennisation.docx?alt=media\&token=49230773-d356-4032-9b7f-4e6c3e256452)[226KBNote \_Comment pérenniser un service numérique.pdfpdf](https://3909761381-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-M4-Pru_Xyamh27tzw85%2Fuploads%2FnfDf0SDRCUpC20F0SKw0%2FNote%20_Comment%20pe%CC%81renniser%20un%20service%20nume%CC%81rique.pdf?alt=media\&token=9768eb5f-94be-4a3e-8479-104b3636f1e6)
 
-## 🧐 Points de vigilance <a href="#points-de-vigilance" id="points-de-vigilance"></a>
+2. **Réaliser une évaluation du service**
 
-* **Vision produit** La vision du produit doit être le moteur des réflexions sur les ressources nécessaires. Elle doit s’ancrer fermement sur l'impact du service. Si besoin, ajoutez une session de “formation” à l’impact dans vos ateliers
-* **Levez les divergences** Assurez-vous que les divergences potentielles entre les parties prenantes soient mises en lumière et discutées. C’est le moment idéal pour un dialogue ouvert, qui pourrait être facilité par une tierce personne pour garantir la neutralité
+La DINUM propose deux outils pour réaliser l'évaluation d'un service numérique.
+
+* La **matrice d'impact** est un cadre d'évaluation proposé par la DINUM pour tous les services numériques (y compris en dehors du périmètre de beta.gouv.fr). Elle a été présentée au comité interministériel du numérique de 2025 et expliquée sur le lien suivant (avec des exemples d’indicateurs et d’autres services numériques) : [https://doc.incubateur.net/communaute/gerer-son-produit/guide-de-financement-des-startups-detat/4.-lenjeu-du-pilotage-par-limpact](https://doc.incubateur.net/communaute/gerer-son-produit/guide-de-financement-des-startups-detat/4.-lenjeu-du-pilotage-par-limpact).\
+  Elle permet d'évaluer la **valeur** et la **maturité** d'un service numérique et s'articule autour de 5 concepts : l'utilisabilité, l'utilisation, l'utilité, l'impact et l'efficience.
+* Les **standards de** [**beta.gouv.fr**](http://beta.gouv.fr) donnent des critères de **qualité** d'un service numérique facilement évaluables. Ils reprennent les principes de [beta.gouv.fr](https://beta.gouv.fr) et les obligations du numérique public : transparence, vie privée, accessibilité, sécurité, etc... Une présentation et une auto-évaluation sont accessibles sur le lien suivant : [https://standards.incubateur.net/](https://standards.incubateur.net/). Un niveau minimum d'atteinte des standards est recommandé pour lancer la consolidation. La phase de consolidation constitue l'occasion d'améliorer ce niveau, par exemple en passant des homologations. Il est souvent nécessaire de prévoir des investissements pour se mettre en conformité avec ces standards.
+
+Ces outils sont des points de départ pour faciliter des discussions avec les sponsors et principales parties prenantes. Des investissements sont parfois nécessaires pour se mettre en conformité avec les standards du numérique public.
+
+
+
+3. **Partager et consolider l'évaluation**
+
+L'évaluation du service peut être partagée lors d'un atelier de bilan de l'incubation ou lors d'entretiens avec les parties prenantes. L'objectif est de **mettre en lumière et de discuter des divergences potentielles entre les parties prenantes**. La présence d'un tiers peut être utile pour préparer et faciliter cet atelier.
+
+\==> L'**atelier de bilan de l'incubation ou d'évaluation** peut suivre le déroulé suivant :
+
+* Une présentation des standards, du niveau d'atteinte et des efforts qu'il reste à faire - par exemple audit d'accessibilité ou homologation de sécurité - ([standards.beta.gouv.fr](https://standards.beta.gouv.fr))
+* Une présentation des grilles d'évaluation (matrice d'impact), des indicateurs existants, des modalités de calcul ainsi que de la manière dont ils sont utilisés.
+* Une discussion autour de ces questions : comment mieux se saisir de ces indicateurs ? Quelles sont les limites de ces indicateurs ?
+* Un temps d'idéation pour proposer des améliorations : meilleurs usages des indicateurs, nouveaux indicateurs et/ou nouvelles modalités de calcul.
+* Un temps de projection optionnel (ces discussions peuvent également avoir lieu lors du travail sur l'ambition) Quelles sont les perspectives et les leviers sur ces indicateurs ?
+
+\==> Certaines équipes travaillent sur **un dossier de présentation du service** pour aider les parties prenantes à comprendre les enjeux et l'organisation. Ce dossier contient généralement :
+
+* Une évaluation de l'impact
+* Une présentation des activités de l'équipe et les rôles et missions de chaque membre
+* Le mode de fonctionnement, l'organisation et les pratiques
+* Les technologies et outils utilisés.
 
 ***
 

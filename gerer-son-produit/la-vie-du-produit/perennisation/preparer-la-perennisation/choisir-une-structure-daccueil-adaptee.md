@@ -1,36 +1,34 @@
----
-description: >-
-  L'objectif de cette 3ème étape est d'évaluer les différentes options de
-  pérennisation et choisir la structure d'accueil la plus adaptée
-icon: '3'
----
+# 3. Définir une organisation cible
 
-# Choisir une structure d'accueil adaptée
+Il existe toujours différentes manières de réaliser des objectifs. Différents modèles d'organisation doivent donc être étudiés et **l'organisation choisie doit être au service de la vision et l'ambition retenues.**
 
-D’une manière générale, il est recommandé de prévoir, si possible, la structure la plus proche possible de l’administration qui pilote la politique publique, afin de simplifier la gouvernance et éviter que de multiples parties prenantes prennent du poids dans le pilotage du dispositif (au risque de tomber dans une concurrence des priorités).
 
-Certains services moins stratégiques pour l'administration peuvent aussi être confiées à des structures tierces, ou être opérées en dehors de la sphère étatique.
 
-## 🚀 Plan d'actions <a href="#plan-dactions" id="plan-dactions"></a>
+1. **Les principaux modèles d'organisation**
 
-1. **Consulter la documentation existante** et les retours d’expérience de précédentes pérennisation
+Comme pour les visions du futur du service, différentes organisations cibles peuvent être proposées pour aider les sponsors à se positionner et prendre en compte les avantages et risques de chacun. Les différents modèles d'organisation sont présentés sur le lien suivant : [https://docs.numerique.gouv.fr/docs/865358f1-c995-4841-8172-05cc89f0cefd/](https://docs.numerique.gouv.fr/docs/865358f1-c995-4841-8172-05cc89f0cefd/)
 
-{% content-ref url="../trajectoires-de-perennisation/" %}
-[trajectoires-de-perennisation](../trajectoires-de-perennisation/)
-{% endcontent-ref %}
 
-2. **Élaborer une liste des scénariis** possibles de pérennisation, en mettant en avant leurs avantages et leurs risques
-3. **Organiser des consultations avec les parties prenantes** pour discuter des scénariis envisagés et recueillir leurs avis
-4. **Comparer les scénariis au regard de la grille d’analyse** des critères de réussite de la pérennisation
 
-## 🧑‍🤝‍🧑 Parties prenantes <a href="#parties-prenantes" id="parties-prenantes"></a>
+2. **Les questions à se poser**
 
-_Liste non exhaustive_
+Les exemples ci-dessus montrent que les modèles doivent toujours être adaptés aux spécificités des services et des structures qui les portent. Des questions opérationnelles doivent ainsi être discutées.
 
-* **Administration sponsor** : la direction générale, le responsable de la politique prioritaire du gouvernement
-* **DINUM** : Responsable de portefeuille, coach et services juridiques
-* **Équipe produit** : Intrapreneur et coach du produit
-* Autres administrations impliquées dans les services et pouvant participer à la gouvernance
+| **Activités**            | <p>- Quelles sont les activités qui peuvent être reprises par d'autres personnes / services au sein de la structure ?<br>- Certaines activités de l’équipe seraient-elles utiles à d’autres personnes / services au sein de la structure ? </p>                                                                             |
+| ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Gouvernance**          | <p>- Qui joue le rôle de sponsor ?<br>- Qui prend les décisions de financement ? Comment ?<br>- Comment sont définies les orientations stratégiques ? A quelle périodicité ?<br>- Qui sont les autres référents / personnes impliquées au sein de la structure ? Au sein d'autres administrations ?</p>                     |
+| **Budget**               | <p>- D’où vient le budget alloué ? Est-il lié aux dépenses numériques ou aux politiques publiques auxquelles le service est rattaché ?<br>- Comment optimiser le coût d’exploitation ? </p>                                                                                                                                 |
+| **Ressources humaines**  | <p>- Quelle est la composition de l'équipe cible ? (part de prestataires ? Part d'agents publics ?) <br>- Quelles compétences doivent-être conservées ?<br>- Quelles sont les ressources dédiées au produit ? Est-ce qu'elles passent du temps sur d'autres produits ou activités ? (développement, Biz dev, Design...)</p> |
+| **Approche produit**     | <p>- Comment sécuriser un lien de proximité avec les usagers ?<br>- Quel est le niveau d'autonomie de l'équipe dans sa communication ?<br>- Quel est le niveau d'autonomie de l'équipe dans sa gestion des partenariats ?</p>                                                                                               |
+| **Technique**            | <p>- Comment conserver le code ouvert et documenté et gérer les contributions ? <br>- Comment héberger le service tout en sécurisant la possibilité de faire des mises en production régulière ? Comment conserver ou faire évoluer la stack technique ? </p>                                                               |
+
+\==> Un **atelier sur l'organisation cible** peut prendre le déroulé suivant :
+
+* Rappel de l'ambition et définition des personnes / structures à impliquer.
+* Présenter les différents modèles et des exemples associés.
+* Lister les avantages et inconvénients de chaque modèle
+* Voter pour le modèle le plus pertinent
+* Répondre aux questions dans la checklist ci-dessus pour comprendre comment adapter le modèle choisi aux spécificités du service et de la structure qui le porte.
 
 ***
 

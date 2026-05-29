@@ -1,20 +1,31 @@
-# Constitution d'une structure juridique dédiée
+# 4. Structure autonome pour un ou des produits numériques
 
-Le produit en se développant a rencontré un public qui dépasse les usagers de l’administration porteuse ; d’autres administrations sont prêtes à co-investir dans le développement du produit. La Startup d'Etat évolue en une entité juridique autonome et l’administration porteuse devient “investisseur”.
+Une entité juridique autonome pour faciliter les co-investissements d'autres administrations, voire d’acteurs privés.
 
-### Avantages
+#### **Avantages**
 
-* ce processus de consolidation permet une grande liberté dans les modes de gouvernance et la feuille de route produit, ainsi qu'une flexibilité sur le recrutement et la rémunération.
-* ce type de structures disposent d'une carte bleue qui permet d'être extrêmement agile dans l'achat de prestations de bas niveau comme des outils de productivité ou des abonnements à des services en ligne.
+* Permettre une gouvernance collégiale de haut niveau qui favorise le passage à l’échelle des produits
+* Augmenter l’attractivité et faciliter l’internalisation des compétences numériques
+* Favoriser les mutualisations entre les produits et proposer une vision globale
+* Faciliter les financement privés
 
-### Limites
+#### **Défis**
 
-* ce scénario peut prendre du temps (au moins 18 mois) et requiert une volonté politique forte. Il est conseillé d'avancer par étape. Avant de construire un objet commun juridique autonome, utiliser des conventions de financement pour tester un modus operandi avec un ou plusieurs co-investisseurs publics.
+* Ce scénario peut prendre du temps (au moins 18 mois) et requiert une volonté politique forte. Il est conseillé d'avancer par étape. Avant de construire un objet commun juridique autonome, utiliser des conventions de financement pour tester un modus operandi avec un ou plusieurs co-investisseurs publics.
+* Fonctionnement externe à l'administration, qui limite le potentiel de transformation et l'acculturation à l'approche produit.
 
-### **Exemples**
+#### **Exemples**
 
-* [Pix](https://pix.fr) s’est constitué en groupement d’intérêt public, et compte plus de cinquante collaborateurs aujourd’hui.
-* Le [Pass culture](https://pass.culture.fr) est devenu une société anonyme et compte plus de cent collaborateurs.
+* [Pix](https://pix.fr/) s’est constitué en groupement d’intérêt public regroupant 11 membres, et compte plus de 130 collaborateurs aujourd’hui.
+* Le [Pass culture](https://pass.culture.fr/) est devenu une société anonyme et compte plus de 100 collaborateurs.
+* La [Plateforme de l’Inclusion](https://inclusion.gouv.fr/) est groupement d’intérêt public piloté par la DGEFP, France Travail et la DINUM.&#x20;
+  * [10 produits](https://inclusion.gouv.fr/nos-services/) qui visent à faciliter la vie des personnes éloignées de l'emploi et de celles et ceux qui les accompagnent
+  * 112 membres
+  * 10.8M€ de budget en 2024
+
+
+
+## Les principales formes juridiques
 
 ### GIP - Groupement d'intérêt public
 
@@ -50,7 +61,7 @@ Une fondation est une structure créée par d'autres personnes physiques ou mora
 
 ### Service à compétence national
 
-Un SCN est une structure opérationnelle dénuée de personnalité morale qui est régie directement par l’administration d’État.&#x20;
+Un SCN est une structure opérationnelle dénuée de personnalité morale qui est régie directement par l’administration d’État.
 
 {% content-ref url="service-a-competence-nationale-scn/" %}
 [service-a-competence-nationale-scn](service-a-competence-nationale-scn/)

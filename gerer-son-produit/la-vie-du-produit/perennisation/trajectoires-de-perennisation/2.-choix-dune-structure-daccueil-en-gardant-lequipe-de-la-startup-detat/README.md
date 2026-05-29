@@ -1,25 +1,18 @@
----
-description: >-
-  On peut choisir de pérenniser un service dans une autre structure que celle
-  qui l'a vu naître
----
+# 2. Équipe produit intégrée à une direction métier
 
-# Transfert vers une structure d'accueil
+L'équipe est directement intégrée à l’organigramme de la direction métier en charge de la mise en oeuvre de la politique publique auquel le service contribue.
 
-### **Avantages**
+#### **Avantages**
 
-* Permet à l’administration porteuse de consacrer moins de ressources au pilotage du produit.
+* Garantir la proximité avec la politique publique et les synergies avec d’autres modes d’action publique.
+* Equiper les directions métiers de compétences numériques et les aider à travailler au plus près l'outillage des politiques publiques.
 
-### Limites
+#### **Défis**
 
-* suppose une volonté de transformation de la structure d’accueil si elle n’est pas habituée à opérer des produits numériques ;
-* coût de transfert lié à l’adaptation au nouvel environnement et à la montée en compétences de nouvelles équipes ;
-* risque de perte de qualité dans l’opération ;
-* complexification de la gouvernance.
+* Suppose une volonté de transformation de la structure d’accueil si elle n’est pas habituée à opérer des produits numériques.
+* Besoin de sécuriser du temps agent pour assurer le pilotage du service et d'obtenir des ETP pour internaliser une partie des compétences numériques.
 
-À cause de ces différents risques, ce type de transfert n’est pas recommandé par la DINUM, sauf dans les cas où le service numérique objet du transfert n’est pas considéré comme "cœur de métier” ou stratégique par l’administration porteuse.
+#### **Exemples**
 
-### Exemples
-
-* la [Base adresse nationale](http://adresse.data.gouv.fr), incubée à la DINUM, est progressivement transférée depuis mai 2021 l’Institut géographique national : l’équipe historique a été transférée sous portage administratif IGN début 2022, mais l’ensemble du processus de transfert se terminera fin 2022 et suppose de nombreux coûts liés à la montée en compétence des agents de l’IGN.
-* [Peps](https://www.peps.beta.gouv.fr), porté initialement à la DGAL, est devenu [RexAgri](https://rex-agri.agroecologie.org) début 2022 et a été transféré à une association.
+* [Je Veux Aider](https://www.jeveuxaider.gouv.fr/) a été intégré au sein de la DJEPVA. Le bureau du pilotage de la réserve civique et des plateformes de l’engagement a été créé au sein de la direction sous-direction de l'engagement et l'intrapreneur de Je Veux Aider est devenu chef de ce bureau. Une partie des profils est internalisé.
+* [Signaux Faibles](https://beta.gouv.fr/startups/signaux-faibles.html) est opéré au sein de la DGE qui a internalisé une partie de l'équipe (_product manager_, chargés de déploiement, développeurs).
