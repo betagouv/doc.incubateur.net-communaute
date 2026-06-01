@@ -2,7 +2,7 @@
 icon: gear-code
 ---
 
-# Guide pour coder avec l'IAa
+# Guide pour coder avec l'IA
 
 La doc [Faire de l'IA chez beta](https://doc.incubateur.net/communaute/gerer-son-produit/faire-de-lia-chez-beta) permet de se poser les bonnes questions avant d'implémenter des features IA dans son application.
 
