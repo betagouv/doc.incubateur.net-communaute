@@ -296,6 +296,7 @@
     * [Réagir à une attaque de phishing](gerer-son-produit/gestion-au-quotidien/tech/security-phishing-attack.md)
 * [🤖 Faire de l’IA chez beta](gerer-son-produit/faire-de-lia-chez-beta/README.md)
   * [👓 Guide pour définir un problème métier actionnable par l'IA](gerer-son-produit/faire-de-lia-chez-beta/guide-pour-definir-un-probleme-metier-actionnable-par-lia.md)
+  * [Guide pour coder avec l'IAa](gerer-son-produit/faire-de-lia-chez-beta/guide-pour-coder-avec-liaa.md)
 
 ## Les outils de la communauté
 
