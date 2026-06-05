@@ -13,7 +13,7 @@ Chaque fabrique dispose (ou pas) d'un(e) référent tech que vous pouvez sollici
   <tr><td>ADEME</td><td><a href="mailto:lilian.sagetlethias@beta.gouv.fr">Lilian Saget Lethias</a></td></tr>
   <tr><td>Justice</td><td><a href="mailto:thomas.guerrier@beta.gouv.fr">Thomas Guerrier</a></td></tr>
   <tr><td>ANCT</td><td><a href="mailto:nicolas.ritouet@anct.gouv.fr">Nicolas Ritouet</a></td></tr>
-  <tr><td>Plateforme de l'inclusion</td><td><a href="mailto:jeremy.buget@beta.gouv.fr">Jeremy Buget</a></td></tr>
+  <tr><td>Plateforme de l'inclusion</td><td><a href="#">-</a></td></tr>
   <tr><td>MIOM : Lab MI</td><td><a href="mailto:joel.pagniez@beta.gouv.fr">Joel Pagniez</a></td></tr>
   <tr><td>Ministère de la culture</td><td><a href="mailto:ned.baldessin@culture.gouv.fr">Ned Baldessin</a></td></tr>
   <tr><td>ANSSI</td><td><a href="mailto:christophe.cadilhac@beta.gouv.fr">Christophe Cadilhac</a></td></tr>
