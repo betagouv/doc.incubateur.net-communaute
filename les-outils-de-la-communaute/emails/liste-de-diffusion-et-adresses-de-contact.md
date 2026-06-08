@@ -2,11 +2,8 @@
 
 ## 💬 Utiliser la commande `/emails`
 
-Pour créer ou modifier des **listes de diffusion**, il vous suffit d'utiliser la commande `/emails` directement dans le canal 🔒 **#incubateur-secrétariat**.
-
 ## ❗ Important
-
-Ces commandes **ne fonctionnent que dans le canal** 🔒 **#incubateur-secrétariat**.
+Ces commandes **ne fonctionnent que dans le canal** 🔒 **[#incubateur-secrétariat](https://tchap.gouv.fr/#/room/!HJfKDjJlwwnTMlEvEM:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr)**.
 
 ## ▶️ Comment ça marche
 
@@ -52,12 +49,6 @@ Dans le salon, vous devez **mentionner le bot avec `@betabot`**, puis taper votr
 ```
 → Crée `cartobio@beta.gouv.fr` avec `jean.louis@beta.gouv.fr` comme propriétaire
 
-**Utiliser une liste sur un sous-domaine** (indiquez l'adresse complète) :
-
-```
-@betabot /emails join contact@covoiturage.beta.gouv.fr jean.louis@beta.gouv.fr
-```
-→ Ajoute `jean.louis@beta.gouv.fr` à la liste `contact@covoiturage.beta.gouv.fr`
 
 **Retirer un membre d'une liste :**
 
