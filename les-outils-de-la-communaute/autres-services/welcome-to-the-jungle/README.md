@@ -146,8 +146,6 @@ Les commentaires que tu laisseras sur la fiche d'un candidat seront accessibles 
 
 ## Derniers conseils utiles
 
-Nous t'invitons fortement à indiquer dans le paramétrage de ton annonce la fourchette de TJM que tu as estimé pour la mission. C'est un bon moyen de filtrer rapidement les candidatures et de faire preuve de transparence auprès des candidats. Tu verras que tu gagneras un temps considérable !
-
 Il peut arriver que tes réponses aux candidatures finissent dans les spams des candidats.
 
 Pour éviter cela, nous te conseillons de :
@@ -158,7 +156,7 @@ Pour éviter cela, nous te conseillons de :
 
 ## Exemples concrets
 
-Voici un exemple de fiche annonce pour :&#x20;
+Voici un exemple de fiche annonce pour :
 
 * [Un·e Developpeurr·se](https://docs.numerique.gouv.fr/docs/1b9783cd-637c-4d95-9b95-a44ccded925c/)
 * [Un·e PO/PM](https://docs.numerique.gouv.fr/docs/d3c5f784-778d-4d66-948b-c04f67200646/)
