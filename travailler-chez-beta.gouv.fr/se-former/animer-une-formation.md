@@ -23,7 +23,7 @@ Si tu souhaites proposer une formation, c'est par ici : "[Je propose une formati
 
 ### Comment choisir la date et l'horaire
 
-Selon le public visé, il est conseillé de vérifer d'abord sur [l'agenda public](https://calendar.google.com/calendar/embed?src=0ieonqap1r5jeal5ugeuhoovlg%40group.calendar.google.com\&ctz=Europe%2FParis) qu'aucun évènement Beta ne se chevauche avec votre proposition de date. Vous pouvez ensuite vérifier avec d'autres incubateurs très présents dans la communauté Beta qu'ils n'organisent pas d'évènement en même temps que le vôtre, si vous estimez qu'il y a un fort risque de conflit entre les deux.
+Selon le public visé, il est conseillé de vérifer d'abord sur [l'agenda public](http://messagerie.numerique.gouv.fr/appsuite/api/share/0366722a002da2b9366722802da84e5eb694970c9c989a65/1/2/Y2FsOi8vMC8yMjczNA) qu'aucun évènement Beta ne se chevauche avec votre proposition de date. Vous pouvez ensuite vérifier avec d'autres incubateurs très présents dans la communauté Beta qu'ils n'organisent pas d'évènement en même temps que le vôtre, si vous estimez qu'il y a un fort risque de conflit entre les deux.
 
 Les créneaux pendant lesquels les personnes sont le plus souvent disponibles sont _10h-12h_, et _14h-16h30_. Un horaire plus tardif est plus difficile à gérer pour les jeunes parents, par exemple.
 

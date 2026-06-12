@@ -8,7 +8,7 @@ description: >-
 
 Ils se déroulent en présentiel pour les participants au forum et en distanciel pour les personnes n'ayant pas pu se déplacer.
 
-Ils ont habituellement lieu de 16h à 17h (voir [l'agenda public](https://calendar.google.com/calendar/u/0/embed?src=0ieonqap1r5jeal5ugeuhoovlg@group.calendar.google.com\&ctz=Europe/Paris)).
+Ils ont habituellement lieu de 16h à 17h (voir [l'agenda public](http://messagerie.numerique.gouv.fr/appsuite/api/share/0366722a002da2b9366722802da84e5eb694970c9c989a65/1/2/Y2FsOi8vMC8yMjczNA)).
 
 **Le format** : 1h d'atelier sous [format codev](https://www.google.com/url?q=https://bloculus.com/fast-codev-30-min-pour-resoudre-probleme/\&sa=D\&source=calendar\&usd=2\&usg=AOvVaw1h2JUyLyJLX66AQar5iZ0e) sur des sujets qui vous intéressent vous et qui sont liés soit au lien entre structures du réseau, soit à des défis auxquels vous vous confrontez et sur lesquels vous souhaiteriez avoir de l'aide collective.
 

@@ -6,7 +6,7 @@ Il est temps de te mettre à jour sur les événements qui se dérouleront proch
 Mais avant tout, as-tu rejoint notre agenda public ? \
 En rejoignant notre agenda, tu auras accès à toutes les informations concernant ces événements, ainsi que des rappels utiles pour ne manquer aucune occasion de partager avec les autres membres des incubateurs. 📅
 
-[**👉 Rejoignez notre agenda public ici !**](https://calendar.google.com/calendar/u/0/embed?src=0ieonqap1r5jeal5ugeuhoovlg@group.calendar.google.com\&ctz=Europe/Paris)
+[**👉 Rejoignez notre agenda public ici !**](http://messagerie.numerique.gouv.fr/appsuite/api/share/0366722a002da2b9366722802da84e5eb694970c9c989a65/1/2/Y2FsOi8vMC8yMjczNA)
 
 
 

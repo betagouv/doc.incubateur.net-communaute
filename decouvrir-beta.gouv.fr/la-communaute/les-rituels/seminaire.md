@@ -16,7 +16,7 @@ Il s’agit d’une journée de rencontres et d’échanges en présentiel pour 
 
 ## Informations pratiques
 
-**👉 Les informations pratiques, date, heure et lieu sont disponibles sur l'**[**agenda public**](https://calendar.google.com/calendar/embed?src=0ieonqap1r5jeal5ugeuhoovlg%40group.calendar.google.com\&ctz=Europe%2FParis) **de beta.gouv.fr**
+**👉 Les informations pratiques, date, heure et lieu sont disponibles sur l'**[**agenda public**](http://messagerie.numerique.gouv.fr/appsuite/api/share/0366722a002da2b9366722802da84e5eb694970c9c989a65/1/2/Y2FsOi8vMC8yMjczNA) **de beta.gouv.fr**
 
 {% hint style="info" %}
 **Déroulé-type d'un Forum beta.gouv.fr**
