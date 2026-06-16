@@ -4,7 +4,7 @@ Le programme beta.gouv.fr a pour objectif principal de construire des services n
 
 ## Critères d'un produit à impact national
 
-**a) Le service a prouvé son utilité auprès de son public cible et a été déployé sur l’ensemble du territoire national.** Il peut être en cours de phase d’accélération ou déjà pérennisé par son administration d'origine.
+**a) Le service a prouvé son utilité auprès de son public cible et a été déployé sur l’ensemble du territoire national.** Il peut être en cours de phase d’accélération ou déjà sorti d'incubation.
 
 **b) Le service a atteint un seuil d'impact significatif**. Il doit pouvoir justifier, par exemple sur une page présentant ses statistiques, d’un déploiement et d’un impact significatifs auprès de son marché cible (par exemple, un outil pour les agents publics doit pouvoir justifier qu’il adresse un certain pourcentage de l’ensemble des agents publics).
 
@@ -19,7 +19,7 @@ Le programme beta.gouv.fr a pour objectif principal de construire des services n
 
 ## Liste des services numériques à impact national
 
-**En 2024 :**&#x20;
+**En 2024 :**
 
 * Réfugiés.info
 * Acceslibre

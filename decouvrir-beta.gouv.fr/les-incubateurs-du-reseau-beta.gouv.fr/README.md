@@ -11,7 +11,7 @@ Un incubateur du réseau beta.gouv.fr :
 * lance, accompagne et opère des services publics numériques qui visent à résoudre des problèmes de politique publique ou des problèmes dans la relation entre administrations et bénéficiaires, et qui sont développés selon l'approche Startup d'État, c'est à dire :
   * autonomie de l'équipe ;
   * amélioration continue ;
-  * pilotage par l'impact, avec l'organisation d'un [comité d'investissement](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/preparer-un-comite-dinvestissement) régulier pour chaque produit selon les phases du programme beta.gouv.fr : investigation, construction, accélération, pérennisation.
+  * pilotage par l'impact, avec l'organisation d'un [comité d'investissement](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/preparer-un-comite-dinvestissement) régulier pour chaque produit selon les phases du programme beta.gouv.fr : investigation, construction, accélération, consolidation.
 * propose un appui aux différents services publics numériques incubés (coaching produit, gouvernance, sécurité/rgpd, RH, UX, impact etc) ;
 * dispose d'un haut niveau de sponsorship dans l'administration (direction numérique, secrétariat général, direction générale etc) ;
 * s'engage à publier en transparence ses réalisations et ses résultats, et notamment à mettre à jour régulièrement le site beta.gouv.fr.

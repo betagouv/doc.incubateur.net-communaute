@@ -48,7 +48,7 @@ En tant qu'incubateur du réseau beta.gouv.fr, les équipes qui suivent l'approc
 
 * financement de phases d'investigations par la DINUM pour les produits numériques liés aux politiques prioritaires du gouvernement ;
 * cofinancement de Startups d'État grâce au FAST ;
-* accompagnement au transfert et/ou à la pérennisation de Startups d'État.
+* accompagnement à la consolidation et à la sortie d'incubation de Startups d'État.
 
 #### Appui stratégique et organisationnel
 
