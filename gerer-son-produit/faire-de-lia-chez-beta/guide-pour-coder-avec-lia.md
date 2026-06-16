@@ -18,6 +18,8 @@ Lancer les agents dans des VMS, par ex avec [docker sandox](https://www.docker.c
 
 Utilisez (et contribuez) aux skills officiels proposés par l'équipe IAE : [etalab-ia/skills](https://github.com/etalab-ia/skills).
 
+Si vous produisez des interfaces web, pensez à intégrer les questions d'accessibilité dans vos prompts, et [tester](https://doc.incubateur.net/communaute/gerer-son-produit/aide-a-la-mise-en-application-des-standards/accessibilite-et-inclusion/kit-accessibilite/construction#recetter-regulierement-laccessibilite) le code produit.
+
 ### Coût écologique
 
 Utiliser un LLM peut être coûteux et sa pertinence doit être évaluée.
