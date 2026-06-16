@@ -6,13 +6,13 @@ Il existe toujours différentes manières de réaliser des objectifs. Différent
 
 1. **Les principaux modèles d'organisation**
 
-Comme pour les visions du futur du service, différentes organisations cibles peuvent être proposées pour aider les sponsors à se positionner et prendre en compte les avantages et risques de chacun. Les différents modèles d'organisation sont présentés sur le lien suivant : [https://docs.numerique.gouv.fr/docs/865358f1-c995-4841-8172-05cc89f0cefd/](https://docs.numerique.gouv.fr/docs/865358f1-c995-4841-8172-05cc89f0cefd/)
+Comme pour les visions du futur du service, différentes organisations cibles peuvent être proposées pour aider les sponsors à se positionner et prendre en compte les avantages et risques de chacun. Les différents modèles d'organisation sont présentés [ici](https://doc.incubateur.net/communaute/gerer-son-produit/la-vie-du-produit/perennisation/trajectoires-de-perennisation).&#x20;
 
 
 
 2. **Les questions à se poser**
 
-Les exemples ci-dessus montrent que les modèles doivent toujours être adaptés aux spécificités des services et des structures qui les portent. Des questions opérationnelles doivent ainsi être discutées.
+Les modèles doivent toujours être adaptés aux spécificités des services et des structures qui les portent. Des questions opérationnelles doivent ainsi être discutées.
 
 | **Activités**            | <p>- Quelles sont les activités qui peuvent être reprises par d'autres personnes / services au sein de la structure ?<br>- Certaines activités de l’équipe seraient-elles utiles à d’autres personnes / services au sein de la structure ? </p>                                                                             |
 | ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

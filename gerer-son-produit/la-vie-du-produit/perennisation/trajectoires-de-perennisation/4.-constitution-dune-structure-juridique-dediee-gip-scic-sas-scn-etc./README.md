@@ -18,10 +18,6 @@ Une entité juridique autonome pour faciliter les co-investissements d'autres ad
 
 * [Pix](https://pix.fr/) s’est constitué en groupement d’intérêt public regroupant 11 membres, et compte plus de 130 collaborateurs aujourd’hui.
 * Le [Pass culture](https://pass.culture.fr/) est devenu une société anonyme et compte plus de 100 collaborateurs.
-* La [Plateforme de l’Inclusion](https://inclusion.gouv.fr/) est groupement d’intérêt public piloté par la DGEFP, France Travail et la DINUM.&#x20;
-  * [10 produits](https://inclusion.gouv.fr/nos-services/) qui visent à faciliter la vie des personnes éloignées de l'emploi et de celles et ceux qui les accompagnent
-  * 112 membres
-  * 10.8M€ de budget en 2024
 
 
 

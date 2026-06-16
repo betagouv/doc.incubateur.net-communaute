@@ -54,6 +54,6 @@ Exemples de formations à destination des sponsors :
 
 De nombreux risques persistent à l'issue du comité de fin d'incubation (changement des décisionnaires, oppositions ou résistances internes non identifiées...).
 
-Suite au comité d'incubation, il est utile de donner un caractère officiel et public aux décisions prises pour engager les sponsors concernés. Il peut s'agir de la rédaction d'une convention ou d'un accord de transition, d'un communiqué de presse ou de l'organisation d'un événement public (exemple : communiqué de presse de la DILA sur la convention de partenariat avec la DGEFP relative à Conseillers-Entreprises : [https://www.dila.gouv.fr/actualites/presse/communiques/article/conseillers-entreprises-est-integre-a-la-dila](https://www.dila.gouv.fr/actualites/presse/communiques/article/conseillers-entreprises-est-integre-a-la-dila)).
+Suite au comité d'incubation, il est utile de donner un caractère officiel et public aux décisions prises pour engager les sponsors concernés. Il peut s'agir de la rédaction d'une convention ou d'un accord de transition, d'un communiqué de presse ou de l'organisation d'un événement public (exemple : [communiqué de presse de la DILA](https://www.dila.gouv.fr/actualites/presse/communiques/article/conseillers-entreprises-est-integre-a-la-dila) sur la convention de partenariat avec la DGEFP relative à Conseillers-Entreprises).
 
 ***

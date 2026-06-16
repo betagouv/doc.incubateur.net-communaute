@@ -1,34 +1,32 @@
 # 4️⃣ Sortie d'incubation et consolidation
 
-Un support de présentation sur les enjeux de la sortie d'incubation est accessible ici&#x20;
-
 {% embed url="https://docs.google.com/presentation/d/1e7Mxui2CR333W-UDFzf3dY3UZ71xqIRq/edit?slide=id.p1#slide=id.p1" %}
 Préparer la sortie d'incubation d'un service numérique
 {% endembed %}
 
 ### **📤 Les modalités de sortie d'incubation**
 
-Il existe différentes manières de sortir du programme d'incubation [beta.gouv.fr](https://beta.gouv.fr) :
+Il existe différentes manières de sortir du programme d'incubation beta.gouv.fr :
 
 * A la fin d'une phase d'investigation, il peut être décidé de ne pas lancer un service numérique pour différentes raisons (voire la partie sur l'investigation).
 * Lors des phases de construction, d'accélération et de consolidation :
-  * il peut être décidé d'arrêter le service parce que les conditions ne sont pas réunies pour qu'il atteigne l'impact souhaité. Cette décision peut être réalisée sur l'impulsion de l'équipe (exemple de Mon Devis Sans Oublis : [https://beta.gouv.fr/startups/mon-devis-sans-oublis.html](https://beta.gouv.fr/startups/mon-devis-sans-oublis.html)) ou des sponsors (exemple de la Carte Jeune Engagé : [https://beta.gouv.fr/startups/pass.engagement.jeune.html](https://beta.gouv.fr/startups/pass.engagement.jeune.html))
-  * il peut être décidé de sortir le service du programme d'incubation pour l'intégrer à un autre service ou l'opérer en dehors du cadre de [beta.gouv.fr](https://beta.gouv.fr) (Futur Pro a, par exemple, rejoint [data.education.gouv.fr](https://data.education.gouv.fr) alors qu'il était encore en construction) Il n'est, dès lors, plus piloté selon la logique de beta.gouv.fr.
-* A l'issue de la phase de consolidation, le service peut être opéré par un opérateur distincts ou intégrés aux incubateurs (certains incubateurs ont vocation à opérer les services sur le long-terme) ou à intégrer une organisation (direction métier, numérique ou structure dédiée). La consolidation est l'occasion d'interroger l'organisation cible et nécessite souvent des adaptations des deux côtés (voire la partie sur les modèles d'organisation post-incubation pour une présentation plus détaillée).
+  * il peut être décidé d'arrêter le service parce que les conditions ne sont pas réunies pour qu'il atteigne l'impact souhaité. Cette décision peut être réalisée sur l'impulsion de l'équipe (exemple de [Mon Devis Sans Oublis](https://beta.gouv.fr/startups/mon-devis-sans-oublis.html)) ou des sponsors (exemple de [la Carte Jeune Engagé](https://beta.gouv.fr/startups/pass.engagement.jeune.html))
+  * il peut être décidé de transférer le service pour l'intégrer à un autre service ou l'opérer en dehors du cadre de beta.gouv.fr ([Futur Pro](https://beta.gouv.fr/startups/cestquilepro.html) a, par exemple, rejoint [data.education.gouv.fr](https://data.education.gouv.fr/futur-pro/accueil/) alors qu'il était encore en construction). Il n'est, dès lors, plus nécessairement piloté selon la logique de beta.gouv.fr.
+* A l'issue de la phase de consolidation, le service peut être opéré par un opérateur, distinct ou intégré à un incubateur (certains incubateurs ont également vocation à opérer les services sur le long-terme), ou transféré à une organisation (direction métier, numérique ou structure dédiée) qui reprend entièrement la responsabilité. La phase de consolidation est l'occasion d'interroger l'organisation cible et nécessite souvent des adaptations des deux côtés (voire [les modèles d'organisation post-incubation](https://doc.incubateur.net/communaute/gerer-son-produit/la-vie-du-produit/perennisation/trajectoires-de-perennisation) pour une présentation plus détaillée).
 
-<figure><img src="../../../.gitbook/assets/Modalités de sortie d&#x27;incubation.png" alt="Illustration des différentes modalités de sortie du programme"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Capture d’écran 2026-06-16 à 15.42.44.png" alt="Illustration des différentes modalités de sortie du programme"><figcaption></figcaption></figure>
 
 Pour réussir la sortie d'incubation et s'assurer qu'elle n'aboutisse pas à une dégradation de la qualité, de l'impact et de l'efficience du service, il est nécessaire de travailler la vision et l'organisation cible. C'est l'enjeu de la phase de consolidation.
 
-### **💡La phase de consolidation : définition**
+### **💡La phase de consolidation**
 
-La consolidation est la dernière phase du programme [beta.gouv.fr](https://beta.gouv.fr). Elle peut commencer **1 à 2 ans après la phase d'accélération** et nous recommandons aux équipes de l'initier **au plus tard 3 ans après le début de l'accélération**.
+La consolidation est la dernière phase du programme beta.gouv.fr. Elle peut commencer **1 à 2 ans après la phase d'accélération** et nous recommandons aux équipes de l'initier **au plus tard 3 ans après le début de l'accélération**.
 
-La phase de consolidation vise à **accompagner la sortie d'incubation d'un service numérique** et **faire évoluer le cadre au sein duquel il évolue**. La consolidation est une phase - le produit est en cours de consolidation - tandis que la sortie d'incubation est un état - le produit est sorti d'incubation ou non.
+La phase de consolidation vise à **accompagner la sortie d'incubation d'un service numérique** et **faire évoluer le cadre au sein duquel il évolue**. La consolidation est une phase - le service est en cours de consolidation - tandis que la sortie d'incubation est un état - le service est sorti d'incubation ou non.
 
 **Pendant l'incubation, l'objectif est de construire et déployer un service** qui a un impact clair sur des usagers et une politique publique. Le cadre de l'incubation permet de s'**affranchir d'une partie des contraintes organisationnelles** et de poser régulièrement les questions de la **pertinence et de l'impact du service**. L'équipe bénéficie d'une **forte autonomie** et l'administration est mise en position de pouvoir **arrêter facilement** un service si l'expérimentation n'est pas concluante sans que cela n'ait un fort impact sur son organisation.
 
-Un service peut entrer en consolidation lorsqu’il a **démontré sa valeur, est déployé auprès de sa cible et répond aux standards de qualité du numérique public** (voire la page [réaliser une évaluation](https://docs.numerique.gouv.fr/docs/8f5ce654-4b01-4e9a-9e1c-97337518dd6a/)). La consolidation est le moment où on retire la mention « beta » de l’url du service parce qu’on considère qu’il constitue désormais un service numérique public national, qui n’est plus en phase d’expérimentation.
+Un service peut entrer en consolidation lorsqu’il a **démontré sa valeur, est déployé auprès de sa cible et répond aux standards de qualité du numérique public**. La consolidation est le moment où on retire la mention « beta » de l’url du service parce qu’on considère qu’il constitue désormais un service numérique public national, qui n’est plus en phase d’expérimentation.
 
 L'objectif de la consolidation est d'**assurer un portage stable** et d'**explorer les synergies avec la structure d'accueil**. La question centrale devient : **comment faire évoluer ce qui a été construit pour renforcer son impact et les synergies avec d’autres activités de la structure ou d’autres leviers de l’action publique** **(juridique, financiers etc...) ?**
 
@@ -47,7 +45,7 @@ Une consolidation réussie repose souvent sur **la préservation du mode de gest
 
 ### **🚲 Consolidation et adaptation**
 
-La consolidation d'un service numérique ne se limite pas à la simple continuité technique du projet. Elle nécessite une réflexion sur comment conserver les éléments qui ont fait le succès du service. Cela implique souvent **une adaptation des pratiques et de l'organisation de l'administration qui intègre le service** pour garantir son succès à long terme. Elle peut conduire à l'intégration de nouvelles compétences, à la révision de pratiques RH pour attirer ces talents ou à une ré-organisation ou une redéfinition des liens entre directions métiers et directions techniques (voire les [différents modèles d'organisation pour opérer des services numériques](https://docs.numerique.gouv.fr/docs/cb09bcdb-59ef-459c-abfa-d2a3ff70933e/)).
+La consolidation d'un service numérique ne se limite pas à la simple continuité technique du projet. Elle nécessite une réflexion sur comment conserver les éléments qui ont fait le succès du service. Cela implique souvent **une adaptation des pratiques et de l'organisation de l'administration qui intègre le service** pour garantir son succès à long terme. Elle peut conduire à l'intégration de nouvelles compétences, à la révision de pratiques RH pour attirer ces talents ou à une ré-organisation ou une redéfinition des liens entre directions métiers et directions techniques (voire les [différents modèles d'organisation pour opérer des services numériques](https://doc.incubateur.net/communaute/gerer-son-produit/la-vie-du-produit/perennisation/trajectoires-de-perennisation)).
 
 Cela implique également **une adaptation de l'équipe** : réflexions sur les synergies avec d'autres services numériques, sur la place du responsable du service dans la future organisation, internalisation de certains profils indépendants.
 

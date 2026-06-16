@@ -3,7 +3,7 @@
 Un service sorti d'incubation répond à deux principaux critères qui vont ensemble :
 
 * Une conformité avec les standards du numérique public.
-* Une autonomie vis-à-vis des ressources de [beta.gouv.fr](https://beta.gouv.fr).
+* Une autonomie vis-à-vis des ressources de beta.gouv.fr.
 
 ### **🧪 Produit**
 

@@ -14,5 +14,5 @@ L'équipe est directement intégrée à l’organigramme de la direction métier
 
 #### **Exemples**
 
-* [Je Veux Aider](https://www.jeveuxaider.gouv.fr/) a été intégré au sein de la DJEPVA. Le bureau du pilotage de la réserve civique et des plateformes de l’engagement a été créé au sein de la direction sous-direction de l'engagement et l'intrapreneur de Je Veux Aider est devenu chef de ce bureau. Une partie des profils est internalisé.
+* [Je Veux Aider](https://www.jeveuxaider.gouv.fr/) a été intégré au sein de la DJEPVA. Le bureau du pilotage de la réserve civique et des plateformes de l’engagement a été créé au sein de la direction sous-direction de l'engagement et l'intrapreneur de Je Veux Aider est devenu chef de ce bureau. Une partie des profils est internalisée.
 * [Signaux Faibles](https://beta.gouv.fr/startups/signaux-faibles.html) est opéré au sein de la DGE qui a internalisé une partie de l'équipe (_product manager_, chargés de déploiement, développeurs).
