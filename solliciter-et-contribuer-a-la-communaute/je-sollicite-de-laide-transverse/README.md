@@ -72,7 +72,7 @@ Au cours du développement, il est possible de faire une demande d'aide en s'adr
 * Ajouter la team de la techno concernée au projet
 * Assigner la team en review d'une PR ou la mentionner au cours d'une discussion.
 
-Il est également possible de poser sa question dans les channels dédiés du Mattermost (principalement 🔒[`#domaine-dev`](https://mattermost.incubateur.net/betagouv/channels/domaine-dev) et 🔒[`#incubateur-ops`](https://mattermost.incubateur.net/betagouv/channels/incubateur-ops))
+Il est également possible de poser sa question dans les canaux dédiés sur Tchap (principalement [`Domaine-dev`](https://tchap.gouv.fr/#/room/!RZYCMTpOqgMrCofbMs:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr&via=agent.social.tchap.gouv.fr&via=agent.finances.tchap.gouv.fr) et [`Demandes-OPS`](https://tchap.gouv.fr/#/room/!VxFWdbcSlumKPvpVRP:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr))
 
 {% content-ref url="../../gerer-son-produit/gestion-au-quotidien/tech/support-tech.md" %}
 [support-tech.md](../../gerer-son-produit/gestion-au-quotidien/tech/support-tech.md)

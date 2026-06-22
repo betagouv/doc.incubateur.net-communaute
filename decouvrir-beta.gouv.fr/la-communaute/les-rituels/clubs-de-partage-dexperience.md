@@ -21,7 +21,7 @@ Toutes les informations relatives à ses clubs sont présentes en entête des ca
 * [chargé(e)s de déploiement](https://mattermost.incubateur.net/betagouv/channels/incubateur-bizdev)
 * [designer](https://mattermost.incubateur.net/betagouv/channels/domaine-design)
 * [coach](https://mattermost.incubateur.net/betagouv/channels/incubateur-coaching)
-* [dev](https://mattermost.incubateur.net/betagouv/channels/domaine-dev)
+* [dev](https://tchap.gouv.fr/#/room/!RZYCMTpOqgMrCofbMs:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr&via=agent.social.tchap.gouv.fr&via=agent.finances.tchap.gouv.fr)
 
 Ton métier n'a pas encore de club ? N'hésite pas à le proposer au prochain forum et à l'ajouter à l'agenda public.
 

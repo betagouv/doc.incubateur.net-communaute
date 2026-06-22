@@ -13,7 +13,7 @@ Votre incubateur doit pouvoir vous fournir un compte Brevo dédié sur lequel vo
 ### ✅ Comment demander un accès ?
 
 Rien de plus simple !\
-👉 Tu peux faire une demande en contactant [le support via le chat Crisp](https://go.crisp.chat/chat/embed/?website_id=1020533a-61b1-45cd-90ab-8d6f99fb006a) (icône en bas à droite de cette page) ou en remplissant ce [formulaire](https://airtable.com/appmmy7DR3T8jqsTx/pagPeUwMDA7PskrDQ/form) (mot de passe en en-tête du [canal Mattermost incubateur-demandes-ops](https://mattermost.incubateur.net/betagouv/channels/incubateur-demandes-ops)).
+👉 Tu peux faire une demande en contactant [le support via le chat Crisp](https://go.crisp.chat/chat/embed/?website_id=1020533a-61b1-45cd-90ab-8d6f99fb006a) (icône en bas à droite de cette page).
 
 Il faudra indiquer :
 
