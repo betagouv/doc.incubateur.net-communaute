@@ -17,7 +17,7 @@ description: >-
 
 [\~domaine-design](https://mattermost.incubateur.net/betagouv/channels/domaine-design)
 
-[\~domaine-dev 🧑‍💻](https://mattermost.incubateur.net/betagouv/channels/domaine-dev)
+[Domaine-dev 🧑‍💻 (sur Tchap)](https://tchap.gouv.fr/#/room/!RZYCMTpOqgMrCofbMs:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr&via=agent.social.tchap.gouv.fr&via=agent.finances.tchap.gouv.fr)
 
 [\~domaine-bizdev 🚀](https://mattermost.incubateur.net/betagouv/channels/incubateur-bizdev)
 
@@ -101,7 +101,7 @@ description: >-
 
 [\~domaine-accessibilité](https://mattermost.incubateur.net/betagouv/channels/c015lnmttj9) _Échanger autour de l'accessibilité appliquée aux services numériques_
 
-[\~incubateur-ops](https://mattermost.incubateur.net/betagouv/channels/incubateur-ops) _Ici on parle de demandes relatives à OVH, github, matomo, scalingo, mailjet, sentry..._
+[Demandes-OPS (sur Tchap)](https://tchap.gouv.fr/#/room/!VxFWdbcSlumKPvpVRP:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr) _Ici on parle de demandes relatives à OVH, github, matomo, scalingo, mailjet, sentry... Les demandes se font via l'espace-membre : https://espace-membre.beta.gouv.fr/services/ops_
 
 ### Les canaux loisirs
 

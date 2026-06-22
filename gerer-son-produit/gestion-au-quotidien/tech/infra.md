@@ -14,13 +14,13 @@ Tous les services disponibles sont présentés sur la page ["les outils de la co
 
 ### Comment faire une demande d'ops
 
-Pour les services Matomo et Sentry tu peux faire la demande directement via l'espace-membre : https://espace-membre.incubateur.net/services
+Pour les services Matomo et Sentry tu peux faire la demande directement via l'espace-membre : https://espace-membre.incubateur.net/services  
 
-Pour toute demande d'ops (sous-domaine, ressources scalingo, ovh ou autre) remplis le formulaire de demande d'ops que tu trouveras dans la description du channel [`~incubateur-ops` sur mattermost](https://mattermost.incubateur.net/betagouv/channels/incubateur-demandes-ops). Afin d'éviter de multiples aller-retour n'hésite pas à fournir le maximum d'information dans le champ "note".
+Toutes les demandes d'ops (sous-domaine, ressources scalingo, ovh, Matomo, Sentry ou autre) se font directement via l'espace-membre : [https://espace-membre.beta.gouv.fr/services/ops](https://espace-membre.beta.gouv.fr/services/ops).
 
 Si tu n'as pas de réponse sous 24h, consulte la liste des gens qui ont accès et les droits suffisants, et fais une relance nominative.
 
-Tu peux demander de l'aide sur ces sujets sur Mattermost dans 🔒`~incubateur-ops`.
+Tu peux demander de l'aide sur ces sujets sur Tchap dans le canal [Demandes-OPS](https://tchap.gouv.fr/#/room/!VxFWdbcSlumKPvpVRP:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr).
 
 ### Hébergement
 
@@ -102,5 +102,5 @@ Voici une liste (non exhaustive) d'hébergeurs régulièrement utilisés. Pensez
 | 🇫🇷 Cloud Temple (HDS+SecNumCloud) | Object Storage (compatible S3 ; [lien](https://www.cloud-temple.com/produits/stockage-objet/))    |
 
 {% hint style="info" %}
-Certains produits stockent avec succès leurs fichiers directement dans PostgreSQL, n'hésitez pas à challenger votre approche via le canal \~domaine-dev de mattermost :)
+Certains produits stockent avec succès leurs fichiers directement dans PostgreSQL, n'hésitez pas à challenger votre approche via le canal [Domaine-dev sur Tchap](https://tchap.gouv.fr/#/room/!RZYCMTpOqgMrCofbMs:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr&via=agent.social.tchap.gouv.fr&via=agent.finances.tchap.gouv.fr) :)
 {% endhint %}

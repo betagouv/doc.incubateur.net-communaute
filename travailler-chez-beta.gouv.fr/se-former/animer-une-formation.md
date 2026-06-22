@@ -44,7 +44,7 @@ Dans le message que vous allez relayer sur Mattermost pour présenter votre form
 
 #### Où envoyer le message
 
-Il existe de nombreux channels Mattermost dans lesquels communiquer sur votre formation, qui dépendront du public visé : \~incubateur-formations, \~domaine-dev, \~domaine-accessibilite, \~domaine-secu, ...
+Il existe de nombreux channels Mattermost dans lesquels communiquer sur votre formation, qui dépendront du public visé : \~incubateur-formations, [Domaine-dev (sur Tchap)](https://tchap.gouv.fr/#/room/!RZYCMTpOqgMrCofbMs:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr&via=agent.social.tchap.gouv.fr&via=agent.finances.tchap.gouv.fr), \~domaine-accessibilite, \~domaine-secu, ...
 
 Ne pas hésiter non plus à ajouter votre annonce dans l'infolettre !
 

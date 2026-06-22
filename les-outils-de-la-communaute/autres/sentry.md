@@ -43,7 +43,7 @@ Intégration : Pensez à préciser les variables `environment`et `version` dans 
 
 Pour profiter de [l'intégration GitHub + Sentry](https://sentry.io/integrations/github/) :
 
-* demander dans [\~incubateur-demandes-ops](https://mattermost.incubateur.net/betagouv/channels/incubateur-demandes-ops) à [ajouter votre repo dans l'application GitHub dédiée](https://github.com/organizations/betagouv/settings/installations/51044792)
+* faire une demande via l'[espace-membre](https://espace-membre.beta.gouv.fr/services/ops) (ou poser la question sur le canal [Demandes-OPS sur Tchap](https://tchap.gouv.fr/#/room/!VxFWdbcSlumKPvpVRP:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr)) pour [ajouter votre repo dans l'application GitHub dédiée](https://github.com/organizations/betagouv/settings/installations/51044792)
 * dans [les settings sentry](https://sentry.incubateur.net/settings/betagouv/integrations/github/3/) ajouter le repository à associer au projet
 
 ### Ressources
