@@ -1,6 +1,6 @@
 # Indépendants (freelances)
 
-Une grande partie de la communauté beta.gouv.fr est composée de personnes au statut d'**indépendants** (freelances).&#x20;
+Une grande partie de la communauté beta.gouv.fr est composée de personnes au statut d'**indépendants** (freelances). Ce sont des personnes missionnées par un titulaire d'un marché public pour assurer une prestation commandée par une administration. Le freelance, qui contracte avec le titulaire, devient ainsi le sous-traitant. Dans ce cas, le titulaire du marché public doit faire signer un document intitulé DC4 à chaque freelance pour chaque mission. C'est une obligation réglementaire
 
 ### Qu'est-ce qui explique la part des indépendantes et indépendants dans la communauté beta.gouv.fr ?
 
@@ -28,7 +28,7 @@ Afin d'assurer une transparence aux _freelances_, une grille avec des taux journ
 [recommandation-pour-la-prise-en-charge-des-frais-des-freelances.md](recommandation-pour-la-prise-en-charge-des-frais-des-freelances.md)
 {% endcontent-ref %}
 
-Une charte pour les _freelances_ a été adoptée afin de clarifier leurs droits et les obligations.  En cas de problème majeur, un guide a été réalisé pour orienter les indépendantes et indépendants victimes de harcèlement ou de discrimination.
+Une charte pour les _freelances_ a été adoptée afin de clarifier leurs droits et les obligations. En cas de problème majeur, un guide a été réalisé pour orienter les indépendantes et indépendants victimes de harcèlement ou de discrimination.
 
 {% content-ref url="charte-des-freelances.md" %}
 [charte-des-freelances.md](charte-des-freelances.md)
