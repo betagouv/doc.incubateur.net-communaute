@@ -1,6 +1,8 @@
 # Indépendants (freelances)
 
-Une grande partie de la communauté beta.gouv.fr est composée de personnes au statut d'**indépendants** (freelances). Ce sont des personnes missionnées par un titulaire d'un marché public pour assurer une prestation commandée par une administration. Le freelance, qui contracte avec le titulaire, devient ainsi le sous-traitant. Dans ce cas, le titulaire du marché public doit faire signer un document intitulé DC4 à chaque freelance pour chaque mission. C'est une obligation réglementaire
+Une grande partie de la communauté beta.gouv.fr est composée de personnes au statut d'**indépendants** (freelances).
+
+Ces personnes sont missionnées par un titulaire d'un marché public pour assurer une prestation commandée par une administration via l'intrapreneur. La personne en freelance, qui contracte avec le titulaire, devient ainsi le sous-traitant (elle doit obligatoirement signer un document appelé DC4 avec le titulaire de marché pour chacune de ses missions).
 
 ### Qu'est-ce qui explique la part des indépendantes et indépendants dans la communauté beta.gouv.fr ?
 
