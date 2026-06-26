@@ -46,6 +46,37 @@ Pour profiter de [l'intégration GitHub + Sentry](https://sentry.io/integrations
 * faire une demande via l'[espace-membre](https://espace-membre.beta.gouv.fr/services/ops) (ou poser la question sur le canal [Demandes-OPS sur Tchap](https://tchap.gouv.fr/#/room/!VxFWdbcSlumKPvpVRP:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr)) pour [ajouter votre repo dans l'application GitHub dédiée](https://github.com/organizations/betagouv/settings/installations/51044792)
 * dans [les settings sentry](https://sentry.incubateur.net/settings/betagouv/integrations/github/3/) ajouter le repository à associer au projet
 
+### Rate limiting
+
+Des règles de rate-limiting sont en place pour éviter toute saturation de l'instance.
+
+Le système de rate limiting est au niveau de nginx et la règle s'applique par projet. Ces limites sont appliquées par IP source sur l'endpoint d'ingestion des événements.
+
+Paramètre | 	Valeur | 	Signification
+----------|----------|------------------
+Débit max |	`10 req/s` 	| 10 événements maximum par seconde par IP
+Burst toléré |	`20 requêtes` |	Pic ponctuel accepté avant limitation
+Comportement si dépassé |	`503 / drop` |	Les événements excédentaires sont perdus, sans mise en file
+
+Si l'application envoie plus de 20 événements en quelques secondes depuis une même IP, les suivants sont silencieusement ignorés
+
+Pour ne pas être impacté par ces limites :
+
+1. Réduire le taux de traces au niveau du sdk
+
+```python
+sentry_sdk.init(
+    dsn="https://<key>@sentry.example.com/<project_id>",
+    sample_rate=1.0,           # Erreurs : garder à 100 %
+    traces_sample_rate=0.1,    # Traces : 10 % suffit en production
+```
+
+Si le tracing (performance monitoring) n'est pas utilisé activement, désactivez-le complètement : `tracesSampleRate: 0` ou `enable-tracing: false`.
+
+2. Filtrer les erreurs non pertinentes avec `beforeSend`
+
+3. Séparer les environnements DSN distincte par environnement (prod,stagging...)
+
 ### Ressources
 
 * [Sentry in 6 minutes](https://www.youtube.com/watch?v=4djseRVSan8)
