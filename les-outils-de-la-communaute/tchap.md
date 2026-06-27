@@ -61,3 +61,31 @@ Les autres personnes peuvent avoir des droits larges si tu le souhaites, en modu
 {% endhint %}
 
 Besoin d'aide pour migrer ton équipe ou pour paramétrer tes salons ? Des remarques sur le fonctionnement de l'outil ? Pose ta question sur le [salon Tchap BetaGouv-tmp-migration](https://tchap.gouv.fr/#/room/!bfLWibiCHOmIxcBJpm:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr\&via=agent.dev-durable.tchap.gouv.fr).
+
+## Bots
+
+Le canal [BetaGouv-BetaBot](https://tchap.gouv.fr/#/room/!HJfKDjJlwwnTMlEvEM:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr) permet d'interagir avec le [bot de gestion des listes de diffusion](https://doc.incubateur.net/communaute/les-outils-de-la-communaute/emails/liste-de-diffusion-et-adresses-de-contact#commandes-disponibles).
+
+## WebHooks
+
+L'équipe animation propose un webhook tchap basé sur n8n (vous pouvez le déployer de votre côté si besoin d'isolation). Les hooks sont configurables via GIT et [ce fichier YAML](https://github.com/betagouv/n8n-configs/blob/main/tchap-webhooks.yaml). L'url confidentielle du webhook est dispo via l'équipe animation.
+
+Nous recommandons de créer un canal Tchap dédié `equipe-[xxx]-notifications` dans [l'espace beta.gouv.fr](https://www.tchap.gouv.fr/#/room/!vEAnvskVieOQgLnZee:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr&via=agent.dev-durable.tchap.gouv.fr&via=agent.ssi.tchap.gouv.fr) et d'y inviter `tchap-bot@beta.gouv.fr`.
+
+:warning: Les messages envoyés par ce BOT ne sont PAS chiffrés. (TODO)
+
+### Services supportés sur le webhook
+
+Service | Descriptions
+--------|------
+GitHub |   [Notifications](https://docs.github.com/en/webhooks/webhook-events-and-payloads) push, actions...
+Scalingo | [Notifications](https://doc.scalingo.com/platform/app/notifiers) deploiement, crash, edit...
+Sentry | Notifications d'exceptions (cf alert Rules)
+UpDown.io | Notifications d'indisponibilité
+Metabase | Alertes metabase
+Brevo | [Notifications](https://help.brevo.com/hc/fr/articles/27824932835474-Cr%C3%A9er-des-webhooks-sortants-pour-envoyer-des-donn%C3%A9es-en-temps-r%C3%A9el-de-Brevo-vers-une-application-externe) déliverabilité et marketing
+
+D'autres services peuvent être ajoutés au besoin. Pour réaliser vos propres webhooks/bots :
+
+ - Doc officielle BOTs Tchap : https://aide.tchap.numerique.gouv.fr/fr/article/documentation-technique-bot-et-integrations-tchap-1z3dfx/
+ - Le canal Tchap BOTs & Intégrations : https://www.tchap.gouv.fr/#/room/#BotsetIntgrationsTchapU2tHdMEN80D:agent.dinum.tchap.gouv.fr
