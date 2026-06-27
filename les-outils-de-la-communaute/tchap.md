@@ -64,7 +64,10 @@ Besoin d'aide pour migrer ton équipe ou pour paramétrer tes salons ? Des remar
 
 ## Bots
 
-Le canal [BetaGouv-BetaBot](https://tchap.gouv.fr/#/room/!HJfKDjJlwwnTMlEvEM:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr) permet d'interagir avec le [bot de gestion des listes de diffusion](https://doc.incubateur.net/communaute/les-outils-de-la-communaute/emails/liste-de-diffusion-et-adresses-de-contact#commandes-disponibles).
+Le canal [BetaGouv-BetaBot](https://tchap.gouv.fr/#/room/!HJfKDjJlwwnTMlEvEM:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr) permet :
+
+ - de [gérer les listes de diffusion](https://doc.incubateur.net/communaute/les-outils-de-la-communaute/emails/liste-de-diffusion-et-adresses-de-contact#commandes-disponibles).
+ - de créer des canaux dans l'espace beta.gouv.fr
 
 ## WebHooks
 
