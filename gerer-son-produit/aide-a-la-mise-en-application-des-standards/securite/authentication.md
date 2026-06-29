@@ -1,6 +1,6 @@
-# Solution d'authenfication
+# Solution d'authentification
 
-En tant que Startup dÉtat, vous avez accès aux produits de l'État pour gérer l'authentication et l'identification de vos users. Ces services sont des solutions SSO utilisant le standard Open ID. Vous pouvez retrouver :
+En tant que Startup dÉtat, vous avez accès aux produits de l'État pour gérer l'authentification et l'identification de vos users. Ces services sont des solutions SSO utilisant le standard Open ID. Vous pouvez retrouver :
 
 * [FranceConnect](https://franceconnect.gouv.fr/partenaires) pour connecter les particuliers
 * [AgentConnect](https://agentconnect.gouv.fr/) pour connecter les agents de la Fonction Publique d'État et Fonction Publique Territoriale
