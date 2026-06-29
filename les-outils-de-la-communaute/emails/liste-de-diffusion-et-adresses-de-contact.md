@@ -3,7 +3,8 @@
 ## 💬 Utiliser la commande `/emails`
 
 ## ❗ Important
-Ces commandes **ne fonctionnent que dans le canal** 🔒 **[#Demande-OPS](https://tchap.gouv.fr/#/room/!VxFWdbcSlumKPvpVRP:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr)**.
+
+Ces commandes **ne fonctionnent que dans le canal** 🔒 **[#Demandes-OPS](https://tchap.gouv.fr/#/room/!VxFWdbcSlumKPvpVRP:agent.dinum.tchap.gouv.fr)**.
 
 ## ▶️ Comment ça marche
 
