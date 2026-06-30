@@ -17,8 +17,6 @@ Il permet de communiquer avec deux niveaux d'échanges :
 
 Lorsqu'un nouveau membre rejoint la communauté beta.gouv.fr et crée une fiche sur l'espace membre, il est automatiquement ajouté à l'espace beta.gouv.fr et à l'espace de son incubateur.
 
-
-
 ### Les canaux à connaître
 
 * Salon [Général](https://tchap.gouv.fr/#/room/!lWPNmdvOrZYcrUSSSq:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr\&via=agent.dev-durable.tchap.gouv.fr\&via=agent.finances.tchap.gouv.fr), le canal où toute la communauté est présente, pour partager des infos collectives
