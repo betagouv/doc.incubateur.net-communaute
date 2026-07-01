@@ -75,19 +75,90 @@ Pour demander un devis, il faut envoyer une « _**expression de besoins**_ » à
 
 <summary>Modèle de demande de devis</summary>
 
-Sujet du mail : _Expression de besoin pour la startup X_\\
+Sujet du mail : _Expression de besoin pour la startup_ <mark style="color:pink;background-color:yellow;">\[nom du service numérique]</mark>&#x20;
 
-Contenu :\
-\&#xNAN;_Pour la startup X ( lien vers la page beta de la startup) , j'ai besoin :_\
-\&#xNAN;_- d'un.e UX designer expérimenté pendant 1 mois (soit\~20 jours de travail)_\
-\&#xNAN;_- et d'un.e développeur pendant 2 mois (soit\~40 jours de travail)._\
-\&#xNAN; _J'aurais besoin de ces personnes à partir de début décembre et jusqu'à fin janvier_
+Bonjour,
 
-\
-\&#xNAN;_\[optionnel #1] J'ai déjà identifié un profil qui pourrait convenir mais je souhaite le challenger avec des profils que vous pourriez me proposer._
+Je vous remercie de m'adresser un devis pour une prestation/des prestations liées au marché public de "Réalisation de services numériques en mode produit agile piloté par l’impact."
 
-\
-\[optionnel #2, voir étape 3] _Je posterai une offre de mission sur Welcome to the Jungle en complément des profils que vous pourrez me faire parvenir"._ \\
+Le besoin porte sur les **unités d'oeuvre** suivantes : <mark style="color:pink;background-color:yellow;">Lister ici les unités œuvre souhaitées</mark>
+
+### **1 - Le contexte :**
+
+**- Le produit et son état contexte**
+
+Demande de devis pour <mark style="color:pink;background-color:yellow;">\[nom du service numérique]</mark> en phase de <mark style="color:pink;background-color:yellow;">\[phase du produit].</mark>
+
+<mark style="color:pink;background-color:yellow;">Préciser également tous les éléments de contexte (politique, législatif, institutionnel, opérationnel, etc.) qui seraient utiles à connaître pour que le titulaire comprenne bien ce que sera la prestation et puisse ainsi sélectionner les profils les plus adaptés.</mark>
+
+**- Lien vers la page produit :**
+
+🖋️ <mark style="color:pink;background-color:yellow;">à compléter</mark>
+
+**- Cadre de la collaboration**
+
+<mark style="color:pink;background-color:yellow;">Indiquer ici s'il y a des besoins, contraintes particuliers (travail à distance, rituels, etc.) utiles à connaître pour le titulaire dans sa recherche de profil.</mark>
+
+### **2 - La commande**
+
+#### **- Prestations attendues**
+
+<mark style="color:pink;background-color:yellow;">Indiquer les prestations associées à votre besoin spécifique pour chaque profil recherché ou expertise attendue.</mark>
+
+🖋️ Exemples :
+
+* _Développement : Mettre en place des tests automatique, suivre les métriques techniques et assurer le désendettement technique, documenter le code_
+* _Data : Créer des rapports et visualisations, fournir des recommandations stratégiques, concevoir et développer des pipelines de données_
+* _Le chargé de déploiement sera en charge de mettre en place les premières actions concrètes définies dans la stratégie afin d'augmenter de 40% le trafic sur le site d’ici Q1 2026._
+
+#### **- Livrables attendus :**
+
+<mark style="color:pink;background-color:yellow;">Indiquer pour chaque prestation commandée, les livrables associés aux UO dans le marché et/ou votre besoin spécifique.</mark>
+
+🖋️ Exemples :
+
+* _Devops : le code source, la documentation technique, les changelogs_
+* _Data : rapport de visualisation opérationnel et documentation associée_
+* _Design : prototype et maquette, personas_
+
+#### **- Nombre d'UO commandées**
+
+_Pour info : pour le marché "produit" 1 UO = 1 jour._
+
+<mark style="color:pink;background-color:yellow;">Indiquer le nombre d'UO commandées.</mark>
+
+<mark style="color:pink;background-color:yellow;">Indiquer également le niveau de complexité de la prestation attendue (simple, intermédiaire, avancé) car cela fait partie de la commande.</mark>
+
+🖋️ Exemples :
+
+* _Devops simple : 5_
+* _Devops intermédiaire : 10_
+* _Devops avancé : 5_
+* _Design intermédiaire : 5_
+
+#### **- Le calendrier**
+
+Période d'intervention souhaitée : <mark style="color:pink;background-color:yellow;">indiquer le mois de démarrage et le mois de fin</mark>. Pour le démarrage tu peux aussi indiquer "à réception du bon de commande" (cela évite de devoir recommencer le devis si le processus administratif traîne)
+
+#### **- Les** [**expert.es**](https://expert.es)
+
+<mark style="color:pink;background-color:yellow;">Indiquer ici s'il y a besoin de sourcing ou si un ou plusieurs</mark> [<mark style="color:pink;background-color:yellow;">expert.es</mark>](https://expert.es) <mark style="color:pink;background-color:yellow;">sont déjà identifié.es, que ce soit en continuité de prestation ou une recommandation.</mark>
+
+* cas 1 : besoin de sourcing
+
+<mark style="color:pink;background-color:yellow;">Indiquer combien de proposition sont attendues dans la réponse du titulaire pour chaque prestation commandée</mark>
+
+* cas 2 : les [expert.es](https://expert.es) sont déjà identifiés
+
+🖋️ Exemples :
+
+_TJM Dev de M. ou Mme X : 600 euros HT_
+
+_TJM Chargé de déploiement de M. ou Mme Y : 500 euros HT_
+
+<mark style="color:pink;background-color:yellow;">Si tu comptes publier une annonce sur Welcome to the jungle (WTTJ) en parallèle, tu dois informer le titulaire.</mark>
+
+<mark style="color:pink;background-color:yellow;">Tu peux aussi ajouter : "J'ai déjà identifié un profil qui pourrait convenir mais je souhaite le challenger avec des profils que vous pourriez me proposer."</mark>
 
 </details>
 
