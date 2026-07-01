@@ -4,7 +4,7 @@ description: >-
   équipe.
 ---
 
-# 🛍️ Marchés beta
+# 🛍️ Marchés beta.gouv.fr
 
 Pour constituer une équipe, il est possible d'avoir recours à 2 marchés publics interministériels.
 
@@ -32,7 +32,7 @@ Faire une commande prend environ 1 mois
 
 ### Étape 1 : Vérifier qu'on a le droit d'utiliser le marché
 
-Les marchés beta.gouv sont réservés aux produits s'engageant à respecter la méthode et les [standards beta](https://auto-audit.incubateur.net/standards) (utilisez l'[auto-audit](https://auto-audit.incubateur.net/) pour facilement vous mettre en règle par rapport aux standards).\
+Les marchés beta.gouv sont réservés aux produits s'engageant à respecter la méthode et les [standards beta.gouv.fr ](https://standards.beta.gouv.fr)(utilisez l'[auto-audit](https://auto-audit.incubateur.net/) pour facilement vous mettre en règle par rapport aux standards).\
 \
 Pour répondre aux obligations de transparence beta, votre produit doit être décrit succinctement sur une [fiche produit](../../../les-outils-de-la-communaute/espace-membre/gerer-sa-fiche-produit.md).\
 \
@@ -51,7 +51,7 @@ Les collectivités ne peuvent pas utiliser ces marchés. La plupart des ministè
 
 À l'issue d'un comité d'investissement, un budget est confié à l'intrapreneur (exemple : 200k€). C'est à lui de définir les profils dont il a besoin (coach, designer, développeur, etc.).\
 \
-Les deux marchés interministériels sont constitués d'**unités d'œuvre** (UO). L'UO est l'unité de prestation que l'on achète aux titulaires du marchés :&#x20;
+Les deux marchés interministériels sont constitués d'**unités d'œuvre** (UO). L'UO est l'unité de prestation que l'on achète aux titulaires du marchés :
 
 * Pour le mentorat, une UO correspond, en général, à un mois de mission, soit 20 jours ouvrés.
 * Pour le nouveau marché de réalisation de produit, une UO correspond (sauf exception) à un jour de prestation.
