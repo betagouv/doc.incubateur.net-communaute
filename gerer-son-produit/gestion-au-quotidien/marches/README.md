@@ -140,15 +140,15 @@ _Pour info : pour le marché "produit" 1 UO = 1 jour._
 
 Période d'intervention souhaitée : <mark style="color:pink;background-color:yellow;">indiquer le mois de démarrage et le mois de fin</mark>. Pour le démarrage tu peux aussi indiquer "à réception du bon de commande" (cela évite de devoir recommencer le devis si le processus administratif traîne)
 
-#### **- Les** [**expert.es**](https://expert.es)
+#### **- Les experts ou expertes**&#x20;
 
-<mark style="color:pink;background-color:yellow;">Indiquer ici s'il y a besoin de sourcing ou si un ou plusieurs</mark> [<mark style="color:pink;background-color:yellow;">expert.es</mark>](https://expert.es) <mark style="color:pink;background-color:yellow;">sont déjà identifié.es, que ce soit en continuité de prestation ou une recommandation.</mark>
+<mark style="color:pink;background-color:yellow;">Indiquer ici s'il y a besoin de sourcing ou si un ou plusieurs</mark> [<mark style="color:pink;background-color:yellow;">expert</mark>](https://expert.es) <mark style="color:pink;background-color:yellow;">ou expertes sont déjà identifié.es, que ce soit en continuité de prestation ou une recommandation.</mark>
 
 * cas 1 : besoin de sourcing
 
 <mark style="color:pink;background-color:yellow;">Indiquer combien de proposition sont attendues dans la réponse du titulaire pour chaque prestation commandée</mark>
 
-* cas 2 : les [expert.es](https://expert.es) sont déjà identifiés
+* cas 2 : les experts ou expertes sont déjà identifiés
 
 🖋️ Exemples :
 
