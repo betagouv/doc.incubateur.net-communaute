@@ -222,18 +222,6 @@ Méthodologie pour effectuer des revues de code avec un focus sécurité :
 **Cas d'usage** : À intégrer dans vos processus de merge request /
 pull request.
 
-### Guide de développement sécurisé
-
-**[Guide de développement sécurisé - ANSSI](https://www.ssi.gouv.fr/guide/regles-et-recommandations-concernant-le-developpement-securise-dapplications-web/)**
-
-Guide complet de l'ANSSI (Agence nationale de la sécurité des
-systèmes d'information) :
-
-- Recommandations par langage de programmation
-- Architecture sécurisée des applications web
-- Gestion des sessions et de l'authentification
-- Protection contre les attaques courantes
-
 ### Classes de vulnérabilités les plus fréquentes
 
 **[Les 10 catégories de vulnérabilités les plus fréquentes - OWASP Top 10](https://owasp.org/www-project-top-ten/)**
