@@ -12,7 +12,7 @@ L'appartenance à la communauté beta.gouv.fr te donne la possibilité de venir 
 ## Informations d'accès
 
 * Adresse : 20 avenue de Ségur, 75007 Paris\
-  Les bureaux de l'incubateur sont au 5e étage, en salles 5.413 et  5.523, accessibles par l'ascenseur A.
+  Les bureaux de l'incubateur sont au 5e étage, en salles 5.413 et 5.523, accessibles par l'ascenseur A.
 * Accès transport : métro Ségur (ligne 10), Cambronne (ligne 6), Ecole militaire (ligne 8) ou Saint-François-Xavier (ligne 13).
 * Ouvert du lundi au vendredi de 7h à 22h.
 
@@ -22,7 +22,7 @@ Tu peux poser toutes tes questions sur [\~bureaux-ségur](https://mattermost.inc
 
 Si tu souhaites venir travailler dans ces locaux, la marche à suivre est simple :
 
-1. Remplir ce formulaire, idéalement **au moins 48h ouvrés** avant ta venue pour signaler ta venue. Si tu n'as pas de retour ou que tu es en retard sur le délai, tu peux faire ta demande dans le canal Mattermost [#bureaux-Ségur](https://mattermost.incubateur.net/betagouv/channels/bureaux-segur). Un agent de l'incubateur enverra un email à **accueil-segur@segur.gouv.fr** pour prévenir de ta venue.
+1. Remplir ce [formulaire](https://tally.so/r/w8AJjP), idéalement **au moins 48h ouvrés** avant ta venue pour signaler ta venue. Si tu n'as pas de retour ou que tu es en retard sur le délai, tu peux faire ta demande dans le canal Mattermost [#bureaux-Ségur](https://mattermost.incubateur.net/betagouv/channels/bureaux-segur). Un agent de l'incubateur enverra un email à **accueil-segur@segur.gouv.fr** pour prévenir de ta venue.
 2. Le jour J, se munir d'une pièce d'identité.
 3. Se rendre à l'accueil au 20 avenue de Ségur.
 4. À l'accueil, indiquer qu'un rendez-vous a été pris avec l'Incubateur de services numériques de la DINUM.
@@ -36,8 +36,6 @@ Si tu souhaites venir travailler dans ces locaux, la marche à suivre est simple
 
 Si tu souhaites venir travailler régulièrement à l'Incubateur dans les open spaces, il te faut obtenir un badge permanent. Attention, **il est impératif de venir au moins 2 jours par semaine** pour en bénéficier.
 
-
-
 ## Informations pratiques
 
 ### Internet
@@ -50,7 +48,7 @@ Si tu souhaites venir travailler régulièrement à l'Incubateur dans les open s
 
 ### Restauration
 
-Si tu organises une réunion à Ségur qu'il y a des besoins en termes de restauration, toutes les demandes doivent être centralisées et obligatoirement validées par le pôle des affaires générales de la DINUM, il convient alors de contacter un membre de [l'Incubateur](../../../vie-quotidienne-bien-etre/lieux-partages/).
+Si tu organises une réunion à Ségur qu'il y a des besoins en termes de restauration, toutes les demandes doivent être centralisées et obligatoirement validées par le pôle des affaires générales de la DINUM, il convient alors de contacter un membre de [l'Incubateur](https://github.com/betagouv/doc.incubateur.net-communaute/blob/master/travailler-chez-beta.gouv.fr/vie-quotidienne-bien-etre/lieux-partages/README.md).
 
 En tant que visiteur, il est possible d'acheter un ticket cantine pour 13€ à la cafétéria.
 
@@ -65,7 +63,7 @@ Si tu souhaites organiser une réunion, un atelier ou un séminaire d'équipe en
 * en dernier ressort, il est possible de demander à un agent de l'Incubateur de réserver une salle de réunion à Ségur pour ton équipe (ce sont les salles 5.7XXX ou les salles du Forum situées au RDC).
 
 {% hint style="info" %}
-Les réservations de salles de réunion ne peuvent se faire que par les agents de la DINUM. Si tu souhaites organiser une réunion à Ségur, [contacte l'équipe de l'Incubateur](../../../vie-quotidienne-bien-etre/lieux-partages/).
+Les réservations de salles de réunion ne peuvent se faire que par les agents de la DINUM. Si tu souhaites organiser une réunion à Ségur, [contacte l'équipe de l'Incubateur](https://github.com/betagouv/doc.incubateur.net-communaute/blob/master/travailler-chez-beta.gouv.fr/vie-quotidienne-bien-etre/lieux-partages/README.md).
 {% endhint %}
 
 ### Accès local vélo avec son badge permanent
