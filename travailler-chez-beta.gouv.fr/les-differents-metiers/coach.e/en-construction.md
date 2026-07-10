@@ -46,11 +46,11 @@ Cette transparence continue de s'appliquer en phase de construction.
 
 * La grille d'évaluation à la fin de la phase de construction (à concevoir)
 * [Comment préparer un comité d'investissement](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/preparer-un-comite-dinvestissement)​
-* Exemples de supports de comité d'investissement : demander sur le canal Mattermost #incubateur-coaching
+* Exemples de supports de comité d'investissement : demander sur le canal Tchap [Domaine-Coaching](https://tchap.gouv.fr/#/room/!MDSecXMtSqsjTQfoML:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr)
 
 ### **Où demander de l'aide**
 
-* Demander de l'aide ou des informations sur le canal Mattermost [#incubateur-coaching](https://mattermost.incubateur.net/betagouv/channels/incubateur-coaching)​
+* Demander de l'aide ou des informations sur le canal Tchap [Domaine-Coaching](https://tchap.gouv.fr/#/room/!MDSecXMtSqsjTQfoML:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr)​
 * Club des coachs : lors de chaque [forum mensuel beta.gouv.fr](../../../decouvrir-beta.gouv.fr/la-communaute/les-rituels/seminaire.md), un club d'une heure permet aux coachs d'échanger sur leurs problématiques ou difficultés.
 
 ### **Le RGPD et la construction**

@@ -84,4 +84,4 @@ Il est également possible de poser sa question dans les canaux dédiés sur Tch
 
 ### Déploiement (ou Business Development ou BizDev)
 
-Vous avez des questions au sujet du déploiement de votre solution? Vous souhaitez obtenir une mise en relation au prêt d'une personne en particulier? Vous ne savez pas quel CRM choisir? Venez discuter avec plus de 40 BizDev de la communauté beta.gouv sur la chaine mattermost [\~incubateur-bizdev](https://mattermost.incubateur.net/betagouv/channels/incubateur-bizdev)
+Vous avez des questions au sujet du déploiement de votre solution? Vous souhaitez obtenir une mise en relation au prêt d'une personne en particulier? Vous ne savez pas quel CRM choisir? Venez discuter avec plus de 40 BizDev de la communauté beta.gouv sur la chaine Tchap [Domaine-bizdev](https://tchap.gouv.fr/#/room/!LYLjHbBZdxMBOORgaJ:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr)

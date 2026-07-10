@@ -19,7 +19,7 @@ Le déploiement est une activité continue qui nécessite de la visibilité et d
 * **Transparence et ROI** : Le BizDev doit donner de la visibilité sur ses actions (prospection, partenariats) et en tirer des conclusions argumentées : "On a testé X, ça a généré Y, donc on continue/on arrête".
 * **Évaluer son BizDev** : Un bon BizDev s'appuie sur les bons **outils**, **analyse ses résultats**, **ajuste sa stratégie** et **argumente ses choix avec des données**. Il sait prioriser 1-2 leviers clés, être transparent sur les enseignements tirés, et décider clairement ce qu'il faut continuer, ajuster ou arrêter.&#x20;
 
-> 🚩 **L'avis de la communauté** : En cas de doute sur une stratégie, sollicitez un regard extérieur via le Mattermost, canal `#`domaine-bizdev pour identifier si le blocage vient de la méthode ou du produit.
+> 🚩 **L'avis de la communauté** : En cas de doute sur une stratégie, sollicitez un regard extérieur via le canal Tchap [Domaine-bizdev](https://tchap.gouv.fr/#/room/!LYLjHbBZdxMBOORgaJ:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr) pour identifier si le blocage vient de la méthode ou du produit.
 
 ### **3. La boîte à outils beta.gouv**
 
@@ -39,5 +39,5 @@ On privilégie des outils simples, collaboratifs et souvent gratuits au démarra
 
 #### Animation et collaboration
 
-* **Mattermost** canal `#`domaine-bizdev : entraide et partage d'expérience entre BizDev beta
+* **Tchap** canal [Domaine-bizdev](https://tchap.gouv.fr/#/room/!LYLjHbBZdxMBOORgaJ:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr) : entraide et partage d'expérience entre BizDev beta
 * **FIgma** : ateliers collaboratifs

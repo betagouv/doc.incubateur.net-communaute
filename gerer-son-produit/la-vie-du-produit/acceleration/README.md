@@ -82,7 +82,7 @@ Lorsque le volume augmente (contacts, campagnes, demandes, relances), le suivi �
 
 **Demander de l’aide**
 
-* Pour choisir un CRM, challenger un tunnel, ou comparer des pratiques : faire appeler à la communauté sur Mattermost, canal `#`domaine-bizdev.
+* Pour choisir un CRM, challenger un tunnel, ou comparer des pratiques : faire appeler à la communauté sur Tchap, canal [Domaine-bizdev](https://tchap.gouv.fr/#/room/!LYLjHbBZdxMBOORgaJ:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr).
 * Pour sortir d’un blocage (stratégie / compétences / temps alloué) : demander un **regard extérieur** via la communauté.
 
 </details>
