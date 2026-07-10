@@ -125,11 +125,11 @@ Tu peux la consulter en version documentation juste ici 👇.
 
 * [ ] Fixer avec le responsable de l'équipe produit les rituels de suivi de tes objectifs de mission et de rendu des livrables
 * [ ] Partager ton [rapport d'étonnement](https://docs.numerique.gouv.fr/docs/5bf47fbb-7620-4b01-a61e-035104fee33f/) au responsable de l'équipe produit
-* [ ] Aider à ton tour quelqu'un en galère, par exemple en répondant à une demande d'aide sur la chaîne \_\~incubateur-entraide-communauté du Mattermost
+* [ ] Aider à ton tour quelqu'un en galère, par exemple en répondant à une demande d'aide sur le canal Demandes-OPS sur Tchap
 * [ ] Ajouter ton expérience chez [beta.gouv.fr](https://www.linkedin.com/company/betagouv/?originalSubdomain=fr) à ton profil LinkedIn (en précisant que tu es en prestation si c'est le cas)
 
 ### Pour aller plus loin
 
 * [ ] Tu peux continuer à t'investir dans la communauté que ce soit en revenant aux forums, aux clubs ou en participant aux d'autres activités transverses 👉 [c'est par ici](../../solliciter-et-contribuer-a-la-communaute/je-contribue-a-la-communaute-to-do/)
 
-Si tu as la moindre question, utilise 🔒[`#incubateur-entraide-communauté`](https://mattermost.incubateur.net/betagouv/channels/incubateur-help)ou envoie un mail à `contact@beta.gouv.fr.`
+Si tu as la moindre question, utilise 🔒[`Entraide-communauté`](https://tchap.gouv.fr/#/room/!FznvyqtGVRlsGHcLVE:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr) sur Tchap ou envoie un mail à `contact@beta.gouv.fr.`

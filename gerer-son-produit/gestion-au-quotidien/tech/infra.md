@@ -31,7 +31,7 @@ Le label « SecNumCloud » est nécessaire seulement dans le cadre du champ d’
 \
 Le label « HDS » est indispensable si vous traitez des données de santé.\
 \
-En cas de doute, vous pouvez contacter votre équipe juridique ou solliciter notre communauté sur mattermost, canal [\~domaine-juridique](https://mattermost.incubateur.net/betagouv/channels/domaine-juridique).
+En cas de doute, vous pouvez contacter votre équipe juridique ou solliciter notre communauté sur Tchap, canal [Domaine-Juridique](https://tchap.gouv.fr/#/room/!GfTqZorbbfSTzIBJCm:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr).
 {% endhint %}
 
 #### Application mode PaaS

@@ -18,11 +18,11 @@ Cette démarche vise à renforcer la reconnaissance des intrapreneurs et à favo
 
 Nous offrons une offre de soutien aux intras qui rencontrent des problématiques RH sur leur poste :
 
-* La clinique de gestion des situations difficiles mise en place lors du forum intras du 4 mars 2025 sera pérennisée à partir de septembre 2024 (modalités à venir).
-* Un soutien RH pour les problèmes liés à l'administration (courriers de soutien, saisine de la DRH du numérique)
+- La [clinique de gestion des situations difficiles](/travailler-chez-beta.gouv.fr/vie-quotidienne-et-bien-etre/gerer-des-situations-comliquees/coaching-rh-clinique-des-situations-difficiles)
+- Un soutien RH pour les problèmes liés à l'administration (courriers de soutien, saisine de la DRH du numérique)
 
 {% hint style="info" %}
-Pour bénéficier de l'aide aux intras en difficulté, contacter marine.purson@beta.gouv.fr, magali.marcel@beta.gouv.fr ou benjamin.doberset@beta.gouv.fr
+Pour bénéficier de l'aide aux intras en difficulté, contacter marine.purson@beta.gouv.fr, magali.marcel@beta.gouv.fr ou amel.alili@beta.gouv.fr
 {% endhint %}
 
 ## Valoriser l'expérience intrapreneuriale
@@ -36,16 +36,16 @@ Un programme d'accompagnement individuel s'adresse aux intras volontaires. Il pr
 {% hint style="info" %}
 **Pour bénéficier de l'accompagnement de carrière, remplir ce** [**formulaire**](https://grist.numerique.gouv.fr/o/dinum/forms/aeJpK94c9FRdgPrdvSjtLT/10)**.**
 
-En cas de question, contacter marine.purson@beta.gouv.fr, magali.marcel@beta.gouv.fr ou benjamin.doberset@beta.gouv.fr
+En cas de question, contacter marine.purson@beta.gouv.fr, magali.marcel@beta.gouv.fr ou amel.alili@beta.gouv.fr
 {% endhint %}
 
 ### Renforcer la reconnaissance des compétences intrapreneuriales
 
 Nous souhaitons valoriser les compétences des intras et la certification afin qu'ils soit mieux reconnus au-delà de beta.gouv.fr et de la DINUM. Dans notre feuille de route :
 
-* Évolution de la certification.
-* Implication des RH dans la certification.
-* Discussions avec les corps de fonction publique pour intégrer ces compétences.
+- Évolution de la certification.
+- Implication des RH dans la certification.
+- Discussions avec les corps de fonction publique pour intégrer ces compétences.
 
 {% embed url="https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/les-differents-metiers/intrapreneur/certification-des-intrapreneurs" %}
 
@@ -53,8 +53,8 @@ Nous souhaitons valoriser les compétences des intras et la certification afin q
 
 Les intras ont souvent du mal à se projeter dans leur prochain poste. Nous proposons dans le cadre de l'accompagnement carrières :
 
-* Présentation de parcours d'intras ;
-* Cartographie des fiches de poste pertinentes (diffusées au fil de l'eau dans les canaux intras)
+- Présentation de parcours d'intras ;
+- Cartographie des fiches de poste pertinentes (diffusées au fil de l'eau dans les canaux intras)
 
 {% content-ref url="galerie-de-portraits-dintrapreneurs-beta.gouv.fr.md" %}
 [galerie-de-portraits-dintrapreneurs-beta.gouv.fr.md](galerie-de-portraits-dintrapreneurs-beta.gouv.fr.md)
