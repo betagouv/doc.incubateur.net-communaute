@@ -1,6 +1,6 @@
 # 📣 Tchap
 
-Tchap est messagerie instantanée du secteur public. Elle permet d'échanger de manière sécurisée avec toutes les administrations. Contrairement à [Mattermost](mattermost/), la sécurité des échanges est garantie grâce à du chiffrement de bout en bout **dans les canaux chiffrés**.
+Tchap est messagerie instantanée du secteur public. Elle permet d'échanger de manière sécurisée avec toutes les administrations. Contrairement à Mattermost, la sécurité des échanges est garantie grâce à du chiffrement de bout en bout **dans les canaux chiffrés**.
 
 **À partir du 1er septembre 2026, Tchap est la messagerie officielle de la communauté beta.gouv.fr.**
 

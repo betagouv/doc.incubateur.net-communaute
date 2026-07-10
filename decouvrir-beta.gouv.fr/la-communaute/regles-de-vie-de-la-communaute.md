@@ -41,7 +41,7 @@ Par ailleurs, il est attendu de toutes et tous de participer à la bienveillance
 
 **La communauté doit être un espace sûr pour tous et toutes et nous portons une attention forte au respect des règles ci-dessus.** Parce que ce genre de comportement arrive souvent de manière non intentionnelle, chaque membre de la communauté est invité à faire preuve d’une confiance a priori et d’ouvrir la discussion avec la personne incriminée. Si une personne est rappelée à l’ordre sur l’un de ces points, il lui est suggéré de simplement en prendre note, remercier brièvement celle ou celui qui l’a rappelée à l’ordre, et ne pas chercher à se justifier.&#x20;
 
-Dans le cadre des activités et espaces gérés par [beta.gouv.fr](http://beta.gouv.fr) comme le Mattermost ou les forums ouverts, une modération peut être effectuée par la DINUM qui peut agir suite à signalement (à [animation@beta.gouv.fr](mailto:animation@beta.gouv.fr) ou directement au responsable du pôle animation et expertises de l’incubateur de la DINUM - [benjamin.doberset@beta.gouv.fr](mailto:benjamin.doberset@beta.gouv.fr)).
+Dans le cadre des activités et espaces gérés par [beta.gouv.fr](http://beta.gouv.fr) comme le Tchap ou les forums ouverts, une modération peut être effectuée par la DINUM qui peut agir suite à signalement (à [animation@beta.gouv.fr](mailto:animation@beta.gouv.fr) ou directement au responsable du pôle animation et expertises de l’incubateur de la DINUM - [benjamin.doberset@beta.gouv.fr](mailto:benjamin.doberset@beta.gouv.fr)).
 
 * Processus de modération
   1. Documenter les faits reprochés (note, capture d’écran, etc.) ;

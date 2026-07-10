@@ -55,8 +55,8 @@ Tu peux la consulter en version documentation juste ici 👇.
 * [ ] Lire l'email de bienvenue dans la communauté et regarder [la vidéo de présentation de beta.gouv.fr](https://tube.numerique.gouv.fr/w/uoqH4BLXqLFS2HsLZRcBLJ)
 * [ ] Prendre connaissance des [valeurs de beta.gouv.fr](../../decouvrir-beta.gouv.fr/valeurs.md)
 * [ ] Lire la documentation sur nos [standards de qualité](../../gerer-son-produit/les-standards/)
-* [ ] Découvrir [les canaux mattermost recommandés](../../les-outils-de-la-communaute/mattermost/canaux-recommandes.md)
-* [ ] Publier un message pour signaler ton arrivée aux membres de la communauté beta.gouv près de chez toi via ton [canal mattermost local](https://doc.incubateur.net/communaute/les-outils-de-la-communaute/mattermost/canaux-recommandes). Si aucun ne correspond, tu peux regarder si d'autres membres de la communauté sont près de chez toi sur la [carte des membres](https://espace-membre.incubateur.net/community)
+* [ ] Découvrir [les canaux Tchap recommandés](../../les-outils-de-la-communaute/tchap)
+* [ ] Publier un message pour signaler ton arrivée aux membres de la communauté beta.gouv près de chez toi via ton [canal Tchap local](../../les-outils-de-la-communaute/tchap). Si aucun ne correspond, tu peux regarder si d'autres membres de la communauté sont près de chez toi sur la [carte des membres](https://espace-membre.incubateur.net/community)
 * [ ] Découvrir [tous les lieux où travailler ou organiser des événements](../vie-quotidienne-et-bien-etre/travailler-dans-les-lieux-partages/)
 * [ ] T'abonner à [l'agenda public de l'incubateur](http://messagerie.numerique.gouv.fr/appsuite/api/share/0366722a002da2b9366722802da84e5eb694970c9c989a65/1/2/Y2FsOi8vMC8yMjczNA) pour suivre les événements de la communauté
 
@@ -65,7 +65,7 @@ Tu peux la consulter en version documentation juste ici 👇.
 * [ ] Découvrir la documentation de ton incubateur (cf.plus bas👇)
 * [ ] Consulter [les pages spécifiques à ton corps de métier](../les-differents-metiers/)
 * [ ] Découvrir l'équipe que tu as rejoint :
-  * [ ] Rejoindre ses canaux sur Mattermost
+  * [ ] Rejoindre ses canaux sur Tchap
   * [ ] T'imprégner du service numérique sur lequel tu travailles sur sa **fiche produit** disponible sur beta.gouv.fr/startups
   * [ ] T'intégrer à ses rituels de pilotage
   * [ ] Fixer des rencontres avec les membres de l'équipe

@@ -45,5 +45,5 @@ C'est au responsable de portefeuille, par exemple, de veiller à ce que toutes l
 * **Imposer des membres** à l’équipe.
 
 {% hint style="success" %}
-En revanche, le ou la responsable de portefeuille est tout à fait légitime pour demander à l'équipe un accès libre et ouvert aux échanges de l’équipe (Mattermost, Trello, etc), notamment pour vérifier que le produit est conforme aux standards beta.gouv.fr.
+En revanche, le ou la responsable de portefeuille est tout à fait légitime pour demander à l'équipe un accès libre et ouvert aux échanges de l’équipe (Tchap, Trello, etc), notamment pour vérifier que le produit est conforme aux standards beta.gouv.fr.
 {% endhint %}

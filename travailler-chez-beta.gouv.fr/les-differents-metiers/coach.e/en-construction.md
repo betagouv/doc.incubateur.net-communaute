@@ -31,7 +31,7 @@ Cette transparence continue de s'appliquer en phase de construction.
 * **Première version d’un service en ligne** (facultatif mais très recommandé, T + 9 semaines)
   * Il est attendu de l’équipe de délivrer de la valeur ajoutée pour ses utilisateurs dès le premier jour. Durant les premières semaines, il ne s’agit que d’une dizaine de personnes. Néanmoins, il est attendu un premier service utile, utilisable et imparfait dès le 2 ou 3e mois.
 * **Répétition du comité d’investissement** (facultatif mais très recommandé, T + 8 mois)
-  * Prévoir une répétition du comité d'investissement à laquelle inviter la communauté beta.gouv.fr, en publiant le créneau sur [l'agenda public](../../../les-outils-de-la-communaute/agenda-de-la-communaute.md) de la communauté et en communiquant via Mattermost (le responsable d'incubateur ou un/e ancien/ne de beta.gouv.fr peuvent t'aider pour cela).
+  * Prévoir une répétition du comité d'investissement à laquelle inviter la communauté beta.gouv.fr, en publiant le créneau sur [l'agenda public](../../../les-outils-de-la-communaute/agenda-de-la-communaute.md) de la communauté et en communiquant via Tchap (le responsable d'incubateur ou un/e ancien/ne de beta.gouv.fr peuvent t'aider pour cela).
 * **Comité d'investissement** (obligatoire, T + 6 mois)
   * Prévoir le comité d'investissement à la fin de la phase de construction en y invitant toutes les parties prenantes nécessaires, et notamment un membre de l'équipe d'animation de beta.gouv.fr.
 

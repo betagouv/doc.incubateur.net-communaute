@@ -69,7 +69,7 @@ Cela vient avec quelques **règles d'hygiène informatique** pour assurer un niv
 
     Encore encore mieux : supprimer toute trace du mot de passe une fois dans toutes les messageries.\
     Enfin, le top du top : utiliser un gestionnaire de mot de passe comme Dashlane pour partager vos mots de passe de manière sécurisée et révocable !
-8. Si quelqu'un vous demande un mot de passe, **vérifier que c'est en effet la bonne personne qui a fait la demande**. Il est possible de voler les accès Mattermost d'une personne et se faire passer pour elle sur le réseau. Il est possible qu'une personne se fasse voler son numéro de téléphone. Pour vous assurer que c'est la bonne personne, vous pouvez demander à déclencher une visio.
+8. Si quelqu'un vous demande un mot de passe, **vérifier que c'est en effet la bonne personne qui a fait la demande**. Il est possible de voler les accès Tchap d'une personne et se faire passer pour elle sur le réseau. Il est possible qu'une personne se fasse voler son numéro de téléphone. Pour vous assurer que c'est la bonne personne, vous pouvez demander à déclencher une visio.
 
 Ces règles s'appliquent à tous les membres de la communauté, quelque soit votre accès à des informations sensibles.
 

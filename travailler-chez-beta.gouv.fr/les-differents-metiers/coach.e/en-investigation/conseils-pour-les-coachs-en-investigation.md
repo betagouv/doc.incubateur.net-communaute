@@ -39,7 +39,7 @@ L'objectif est de rendre votre travail découvrable facilement pour toute person
 * **Point de mi-parcours (facultatif, T + 4 semaines)**
 * À mi-parcours, un point d'étape avec une personne connaissant bien beta.gouv.fr, par exemple coach, responsable d'incubateur, ou co-animateur, pour recueillir du feedback
 * **Répétition du comité d'investissement (facultatif mais très recommandé, T + 8 semaines)**
-* Très recommandé : prévoir une répétition du comité d'investissement auquel inviter la communauté beta.gouv.fr, en publiant le créneau sur l'[agenda public](../../../../les-outils-de-la-communaute/agenda-de-la-communaute.md) de la communauté et en communiquant via Mattermost.
+* Très recommandé : prévoir une répétition du comité d'investissement auquel inviter la communauté beta.gouv.fr, en publiant le créneau sur l'[agenda public](../../../../les-outils-de-la-communaute/agenda-de-la-communaute.md) de la communauté et en communiquant via Tchap.
 * **Comité d'investissement (obligatoire, T + 9 semaines)**
 * Prévoir le comité d'investissement à la fin de l'investigation en y invitant toutes les parties prenantes nécessaires, notamment le responsable de portefeuille de la DINUM qui suit ton sujet.
 

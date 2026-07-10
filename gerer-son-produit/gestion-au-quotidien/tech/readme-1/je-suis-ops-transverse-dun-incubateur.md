@@ -60,7 +60,7 @@ Si vous souhaitez contribuer activement à la veille sur les fuites de données 
 * Seuls les tickets dont le statut est à Triggered sont à traiter. Les tickets de sévérité élevée (de critical à unknown) doivent être traités en premier, puis les plus récents en premier.
 * Une fois le ticket choisi, vérifier que personne n'a déjà traité le sujet : parcourez les messages postés sur le channel Mattermost \~domaine-secu depuis la date de la fuite, et vérifiez que personne n'a encore prévenu l'équipe concernée.
 * Si personne n'a prévenu l'équipe, copiez le lien de partage de votre alerte sur GitGuardian (cliquer sur le rapport de l'incident > aller à "Collect feedback" dans le menu de droite, paragraphe Sharing > activer le Incident is not shared)
-* Rejoignez le canal de l'équipe sur Mattermost, et postez ce lien de feedback, avec un message comme celui-ci :
+* Rejoignez le canal de l'équipe sur Tchap, et postez ce lien de feedback, avec un message comme celui-ci :
 
 > :wave: Gestion du backlog Git Guardian:wave:
 >

@@ -102,5 +102,5 @@ Voici une liste (non exhaustive) d'hébergeurs régulièrement utilisés. Pensez
 | 🇫🇷 Cloud Temple (HDS+SecNumCloud) | Object Storage (compatible S3 ; [lien](https://www.cloud-temple.com/produits/stockage-objet/))    |
 
 {% hint style="info" %}
-Certains produits stockent avec succès leurs fichiers directement dans PostgreSQL, n'hésitez pas à challenger votre approche via le canal [Domaine-dev sur Tchap](https://tchap.gouv.fr/#/room/!RZYCMTpOqgMrCofbMs:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr&via=agent.social.tchap.gouv.fr&via=agent.finances.tchap.gouv.fr) :)
+Certains produits stockent avec succès leurs fichiers directement dans PostgreSQL, n'hésitez pas à challenger votre approche via le canal [Domaine-dev sur Tchap](https://tchap.gouv.fr/#/room/!YWElGjXYMBwmlHeqeL:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr&via=agent.social.tchap.gouv.fr&via=agent.finances.tchap.gouv.fr) :)
 {% endhint %}

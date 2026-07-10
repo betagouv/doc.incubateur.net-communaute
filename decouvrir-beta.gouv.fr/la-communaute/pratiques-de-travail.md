@@ -37,7 +37,7 @@ Ici, on a le droit…
 * de soupirer
 * de ne pas consulter ses mails sur son temps libre
 * de ne pas consulter ses mails tout le temps au boulot
-* de demander sur Mattermost
+* de demander sur Tchap
 * de demander en personne aux collègues
 * de s’isoler pour se concentrer
 * de donner son avis sur le travail des autres
@@ -64,7 +64,7 @@ _Cette charte est librement inspirée de celle de_ [_Gov.UK_](https://twitter.co
 
 ### Se méfier [des réunions](https://blog.alan.com/bien-etre-au-travail/no-meeting-policy) et du temps morcelé
 
-Privilégier autant que possible [la communication asynchrone](https://basecamp.com/guides/how-we-communicate) avec les mails ou les discussions à l'écrit sur Mattermost. N'oublions pas qu'une heure de réunion à 5 ne correspond pas à une heure de travail mais à 5 heures travaillées. Une réunion, c'est l'option du dernier recours, quand tout le reste n'a pas fonctionné. (Bien sûr, une réunion peut parfois être nécessaire, que ce soit pour acter une décision importante ou pour créer des relations interpersonnelles).
+Privilégier autant que possible [la communication asynchrone](https://basecamp.com/guides/how-we-communicate) avec les mails ou les discussions à l'écrit sur Tchap. N'oublions pas qu'une heure de réunion à 5 ne correspond pas à une heure de travail mais à 5 heures travaillées. Une réunion, c'est l'option du dernier recours, quand tout le reste n'a pas fonctionné. (Bien sûr, une réunion peut parfois être nécessaire, que ce soit pour acter une décision importante ou pour créer des relations interpersonnelles).
 
 ### **La** [**loi des deux pieds**](http://www.alidade-conseil.com/2016/11/01/connaissez-vous-la-loi-des-deux-pieds/)
 
@@ -84,7 +84,7 @@ En corollaire, ne jamais oublier que tout ce qui se dit dans une pièce ne sert 
 **En interne, communiquer avec son équipe sur des canaux publics. Eviter les messages privés.** La circulation de l'information permet de mieux faire fonctionner l'organisation, d'éviter les frustrations, les prises de pouvoir individuelles non désirables, les rumeurs infondées, les fantasmes. La transparence est la contrepartie de l'autonomie concédée aux équipes : elle empêche les gens de faire n'importe quoi, parce que tout le monde voit. Ce qui est visible est plus facilement améliorable.
 
 {% hint style="success" %}
-Lorsque vous travaillez avec votre équipe sur un outil de messagerie collaborative comme [Mattermost](../../les-outils-de-la-communaute/mattermost/), la norme chez beta.gouv.fr consiste à **partager toutes les chaînes de discussion concernant votre produit avec toute votre équipe dont le ou la coach et à limiter au maximum les échanges bilatéraux en messages privés**, mais aussi avec toutes les personnes qui interviennent régulièrement en soutien (responsables d'incubateur, responsables techniques de l'incubateur, responsables techniques). Cela permet notamment d'assurer la circulation de l'information et de limiter les demandes de reporting.
+Lorsque vous travaillez avec votre équipe sur un outil de messagerie collaborative comme [Tchap](../../les-outils-de-la-communaute/tchap), la norme chez beta.gouv.fr consiste à **partager toutes les chaînes de discussion concernant votre produit avec toute votre équipe dont le ou la coach et à limiter au maximum les échanges bilatéraux en messages privés**, mais aussi avec toutes les personnes qui interviennent régulièrement en soutien (responsables d'incubateur, responsables techniques de l'incubateur, responsables techniques). Cela permet notamment d'assurer la circulation de l'information et de limiter les demandes de reporting.
 {% endhint %}
 
 **En externe, partager le maximum d'apprentissages, en transparence**. Les codes sources, pages de statistiques, apprentissages et budgets de vos produits numériques devraient être publiques. Lorsque vous êtes responsable d'une tâche, documentez votre action, le protocole que vous avez choisi, les apprentissages dont vous avez bénéficié, et partagez le lien de cette documentation dans l'espace de votre équipe : cela lui permettra de prendre le relai si vous êtes en congés ou si vous êtes absent.

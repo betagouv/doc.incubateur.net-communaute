@@ -49,7 +49,7 @@ Le harcèlement moral ou sexuel est interdit et constitue un délit pénal. A ti
 
     👉 Contacter l'équipe par email : soutien@beta.gouv.fr
 
-    👉 Contacter un·e membre individuellement sur Mattermost, par email ou en personne.\
+    👉 Contacter un·e membre individuellement sur Tchap, par email ou en personne.\
     👉Tu préfères rester anonyme mais déclarer une situation problématique,[ utilise ce formulaire.](https://tally.so/r/w8xAgr)
 
 _**Les membres du groupe de soutien sont : Caroline Lawson, Clémence Lopez, Denis Baudot, Florian Briand, Fanny Blanc, Amel Alili, Olivier Boudou**_

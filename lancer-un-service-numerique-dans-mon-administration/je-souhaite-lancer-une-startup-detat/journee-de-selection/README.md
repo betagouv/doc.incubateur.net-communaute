@@ -153,7 +153,7 @@ Le [kit complet](https://drive.google.com/drive/folders/0B9Bnxc5B7H8dZGxKUE55S3N
 ### Communication interne et externe
 
 * Twitter des photos et infos de la journée sur le compte @BetaGouv et sur le compte de l'administration partenaire
-* Annoncer sur le Mattermost beta.gouv.fr les Startups qui ont gagné (problèmes, intra, coach)
+* Annoncer sur le Tchap beta.gouv.fr les Startups qui ont gagné (problèmes, intra, coach)
 
 ### Les premiers jours
 

@@ -51,7 +51,7 @@ Pour échanger entre intras, il existe un canal privé : [\~domaine-intras-priv�
 
 Un club intras a lieu a chaque forum mensuel de la communauté beta.gouv.fr. Pour connaitre la date, il suffit de consulter l'[agenda ](http://messagerie.numerique.gouv.fr/appsuite/api/share/0366722a002da2b9366722802da84e5eb694970c9c989a65/1/2/Y2FsOi8vMC8yMjczNA)public de la communauté.
 
-Vous serez également prévenu via Mattermost et directement invité à l'occurrence agenda.
+Vous serez également prévenu via Tchap et directement invité à l'occurrence agenda.
 
 ### L'accompagnement des carrières des intras
 

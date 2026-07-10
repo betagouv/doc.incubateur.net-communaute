@@ -37,8 +37,8 @@ description: >-
 [faq-emails.md](les-outils-de-la-communaute/emails/faq-emails.md)
 {% endcontent-ref %}
 
-{% content-ref url="les-outils-de-la-communaute/mattermost/mattermost.md" %}
-[mattermost.md](les-outils-de-la-communaute/mattermost/mattermost.md)
+{% content-ref url="les-outils-de-la-communaute/tchap" %}
+[tchap](les-outils-de-la-communaute/tchap)
 {% endcontent-ref %}
 
 {% content-ref url="travailler-chez-beta.gouv.fr/les-differents-statuts/independants-freelances/observatoire-revenus.md" %}

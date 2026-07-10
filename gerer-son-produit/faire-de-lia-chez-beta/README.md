@@ -88,7 +88,7 @@ Le cas d’usage métier Albert le plus évident est l’assistance à la répon
 * Si votre besoin n’implique pas d’utiliser des données sensibles, il est possible de faire ses premiers tests —tout en respectant le cadre légal— avec des modèles propriétaires.
 
 {% hint style="info" %}
-Si vous n’êtes pas sûrs de vous, vous pouvez consulter la fiche dédiée [Quels points de vigilance avoir lorsque vous dialoguez avec ChatGPT ?](https://pad.numerique.gouv.fr/teCWpmkGSlG970GLe4aTDQ) ou demander de l'aide sur le Mattermost de la communauté.
+Si vous n’êtes pas sûrs de vous, vous pouvez consulter la fiche dédiée [Quels points de vigilance avoir lorsque vous dialoguez avec ChatGPT ?](https://pad.numerique.gouv.fr/teCWpmkGSlG970GLe4aTDQ) ou demander de l'aide sur le Tchap de la communauté.
 {% endhint %}
 
 #### 🛡️ Sécuriser son infrastructure et son usage : faire de l’IA responsable <a href="#securiser-son-infrastructure-et-son-usage-faire-de-lia-responsable" id="securiser-son-infrastructure-et-son-usage-faire-de-lia-responsable"></a>

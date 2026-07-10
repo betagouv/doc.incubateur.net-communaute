@@ -33,7 +33,7 @@ Il est aussi conseillé de prévoir la date _au moins 2 semaines_ en amont.
 
 #### Comment écrire son message
 
-Dans le message que vous allez relayer sur Mattermost pour présenter votre formation, il vous faudra mettre plusieurs informations :
+Dans le message que vous allez relayer sur Tchap pour présenter votre formation, il vous faudra mettre plusieurs informations :
 
 * l'en-tête **\[Formation]\[{Titre de votre formation}]**
 * la présentation de la formation :
@@ -44,11 +44,11 @@ Dans le message que vous allez relayer sur Mattermost pour présenter votre form
 
 #### Où envoyer le message
 
-Il existe de nombreux channels Mattermost dans lesquels communiquer sur votre formation, qui dépendront du public visé : \~incubateur-formations, [Domaine-dev (sur Tchap)](https://tchap.gouv.fr/#/room/!RZYCMTpOqgMrCofbMs:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr&via=agent.social.tchap.gouv.fr&via=agent.finances.tchap.gouv.fr), \~domaine-accessibilite, \~domaine-secu, ...
+Il existe de nombreux channels Mattermost dans lesquels communiquer sur votre formation, qui dépendront du public visé : \~incubateur-formations, [Domaine-dev (sur Tchap)](https://tchap.gouv.fr/#/room/!YWElGjXYMBwmlHeqeL:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr&via=agent.social.tchap.gouv.fr&via=agent.finances.tchap.gouv.fr), \~domaine-accessibilite, \~domaine-secu, ...
 
 Ne pas hésiter non plus à ajouter votre annonce dans l'infolettre !
 
-#### Quand envoyer le message sur Mattermost
+#### Quand envoyer le message sur Tchap
 
 Éviter d'envoyer votre message le vendredi ou sur des horaires non-ouvrables :)
 
