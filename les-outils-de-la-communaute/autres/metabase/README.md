@@ -27,12 +27,6 @@ La gestion des données personnelles est un point d'attention important lors de 
 Il est conseillé de dupliquer vos données en les anonymisant dans une seconde base spécifique à Metabase.
 {% endhint %}
 
-###
-
-{% embed url="https://mattermost.incubateur.net/betagouv/channels/domaine-metabase" %}
-Canal de discussion dédié à Metabase sur mattermost : domaine-metabase
-{% endembed %}
-
 ### Recommandations
 
 #### Isolation des données

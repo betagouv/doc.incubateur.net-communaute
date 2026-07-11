@@ -49,7 +49,7 @@ Des créneaux sont ouverts durant la semaine. Il suffit de réserver celui qui v
 
 ### 👥 Qui se charge d’animer ce programme ?
 
-[**@Nicolas Tourneur** ](https://mattermost.incubateur.net/betagouv/messages/@nicolas.tourneur)**– Coach RH,** équipe Animation et Expertise
+[**Nicolas Tourneur** ](https://tchap.gouv.fr/#/user/@nicolas.tourneur-beta.gouv.fr:agent.dinum.tchap.gouv.fr)**– Coach RH,** équipe Animation et Expertise
 
 En cas de question ou besoin de renseignement, tu peux le contacter sur Mattermost ou Tchap.
 
@@ -61,7 +61,7 @@ En cas de question ou besoin de renseignement, tu peux le contacter sur Mattermo
 
 ### 📪 Le cas particulier de la fermeture d'une équipe
 
-Dans le cas très spécifique de la fermeture ou fusion de ta startup d'État, et par extension de la fin en tant que tel de ton équipe produit, le dispositif animé par [**@Nicolas**](https://mattermost.incubateur.net/betagouv/messages/@nicolas.tourneur) peut s'étendre à un service sur-mesure de **rétrospective de clôture**.
+Dans le cas très spécifique de la fermeture ou fusion de ta startup d'État, et par extension de la fin en tant que tel de ton équipe produit, le dispositif animé par [**Nicolas**](https://tchap.gouv.fr/#/user/@nicolas.tourneur-beta.gouv.fr:agent.dinum.tchap.gouv.fr) peut s'étendre à un service sur-mesure de **rétrospective de clôture**.
 
 L'idée est de faire animer par un membre externe à l'équipe un dernier moment ensemble, permettant de clôturer sereinement le projet d'un point de vue humain.
 

@@ -30,31 +30,27 @@ Il se peut aussi que certaines informations soient erronées, puisque que c’es
 
 ### 🤲🏻 Jouer collectif : bénéficier de l’aide de la communauté, partager ses expériences <a href="#jouer-collectif-beneficier-de-laide-de-la-communaute-partager-ses-experiences" id="jouer-collectif-beneficier-de-laide-de-la-communaute-partager-ses-experiences"></a>
 
-**Pour poser vos questions à la communauté relatives à l’implémentation d’une brique IA** **dans votre service**, un espace est dédié sur le Mattermost de la communauté beta.gouv : #domaine-ia.
+**Pour poser vos questions à la communauté relatives à l’implémentation d’une brique IA** **dans votre service**, un espace est dédié sur Tchap : [Communauté IA de l'Etat](https://tchap.gouv.fr/#/room/!tPzThAoNsAAClYSczG:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr).
 
-À savoir qu’il existe un autre canal pour la revue de presse (#domaine-veille-ia), ainsi qu’un dédié aux sciences de la donnée (#domaine-datascience).
+À savoir qu’il existe un autre canal pour la veille ([domaine-veille-ia](https://tchap.gouv.fr/#/room/!ecEcOXncTHaVVBboMD:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr)), ainsi qu’un dédié aux sciences de la donnée ([domaine-data](https://tchap.gouv.fr/#/room/!udvDkMSUvKkHXbIVrq:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr)).
 
 ## Mettre en œuvre son idée <a href="#mettre-en-oeuvre-son-idee" id="mettre-en-oeuvre-son-idee"></a>
 
 ### 💰 L’incubateur AL&#x4C;_&#x69;&#x61;_&#x4E;CE <a href="#se-faire-financer-lincubateur-alliance" id="se-faire-financer-lincubateur-alliance"></a>
 
 {% hint style="info" %}
-**Lien vers la documentation ALLiaNCE** : [https://app.gitbook.com/o/-LrIsEqqjEjdRXwfHPAD/sites/site\_hmLlH/preview](https://app.gitbook.com/o/-LrIsEqqjEjdRXwfHPAD/sites/site_hmLlH/preview)
+**Lien vers la documentation ALLiaNCE** : [https://app.gitbook.com/o/-LrIsEqqjEjdRXwfHPAD/sites/site_hmLlH/preview](https://app.gitbook.com/o/-LrIsEqqjEjdRXwfHPAD/sites/site_hmLlH/preview)
 {% endhint %}
 
 **Lancé en 2024 à la DINUM, All**_**ia**_**nce est un incubateur qui finance des briques IA qui respectent les standards beta.gouv, notamment qui s’engagent à libérer leur code et répondent à un cas d’usage de l’administration à impact social.**
 
 Plus d’informations, rendez-vous sur le site, notamment pour retrouver les produits financés : [https://alliance.numerique.gouv.fr/](https://alliance.numerique.gouv.fr/).
 
-
-
 **Comment ça marche ?**
 
 Si vous avez consulté le guide pour définir un problème métier actionnable par l'IA, que vous êtes une administration et que vous avez un cas d’usage pertinent, vous êtes peut-être éligibles.&#x20;
 
-
-
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>📅 <strong>Repérer le prochain rendez-vous des partenaires (facultatif)</strong></td><td>Il est possible d'aller au mensuel All<em>ia</em>nce qui réuni les administrations intéressées et les fournisseurs (publics ou privés). En général, c’est bien d’arriver avec un pitch car les administrations sont encouragées à parler de leur problématique durant l’évènement. Le calendrier des prochaines dates est <a href="https://alliance.numerique.gouv.fr/actualites/">ici</a>.</td><td></td></tr><tr><td><strong>🎤 Préparer son pitch</strong></td><td><p>Partir du problème vu de l’agent ou du citoyen concerné</p><ul><li>Donner des chiffres sur l’irritant</li><li>Donner des chiffres sur le volume d’opérations</li><li>Citer les données qui pourraient être utilisées</li><li>Définir une métrique d'impact</li></ul></td><td></td></tr><tr><td><strong>📃 Commencer à réfléchir à une fiche action</strong></td><td>À partir de ces éléments, décrivez votre idée de produit en suivant ce <a href="https://alliance.numerique.gouv.fr/les-produits-incub%C3%A9s/mod%C3%A8le-de-fiche-action/">modèle de fiche action</a>. C’est sur cette base que le financement chez All<em>Ia</em>nce est possible. Il faut ensuite l’envoyer à l’adresse contact ci-dessous. Vous pouvez vous faire accompagner en demandant de l’aide sur le canal mattermost #domaine-ia.</td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>📅 <strong>Repérer le prochain rendez-vous des partenaires (facultatif)</strong></td><td>Il est possible d'aller au mensuel All<em>ia</em>nce qui réuni les administrations intéressées et les fournisseurs (publics ou privés). En général, c’est bien d’arriver avec un pitch car les administrations sont encouragées à parler de leur problématique durant l’évènement. Le calendrier des prochaines dates est <a href="https://alliance.numerique.gouv.fr/actualites/">ici</a>.</td><td></td></tr><tr><td><strong>🎤 Préparer son pitch</strong></td><td><p>Partir du problème vu de l’agent ou du citoyen concerné</p><ul><li>Donner des chiffres sur l’irritant</li><li>Donner des chiffres sur le volume d’opérations</li><li>Citer les données qui pourraient être utilisées</li><li>Définir une métrique d'impact</li></ul></td><td></td></tr><tr><td><strong>📃 Commencer à réfléchir à une fiche action</strong></td><td>À partir de ces éléments, décrivez votre idée de produit en suivant ce <a href="https://alliance.numerique.gouv.fr/les-produits-incub%C3%A9s/mod%C3%A8le-de-fiche-action/">modèle de fiche action</a>. C’est sur cette base que le financement chez All<em>Ia</em>nce est possible. Il faut ensuite l’envoyer à l’adresse contact ci-dessous. Vous pouvez vous faire accompagner en demandant de l’aide sur le canal Tchap <a href="https://tchap.gouv.fr/#/room/!tPzThAoNsAAClYSczG:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr">Communauté IA de l'Etat</a>.</td><td></td></tr></tbody></table>
 
 {% hint style="info" %}
 Le contact de l'équipe alliance : [**alliance@mail.numerique.gouv.fr**](mailto:alliance@mail.numerique.gouv.fr).
@@ -70,22 +66,20 @@ Le service propose un modèle freemium, gratuit pour les expérimentations des s
 **Pour plus d'information sur les modèles disponibles et la tarification :** [https://alliance.numerique.gouv.fr/produit/albert-api/](https://alliance.numerique.gouv.fr/produit/albert-api/).&#x20;
 {% endhint %}
 
-
-
 <table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Socle fondamental qui permet de centraliser l'accès</strong></td><td>Rate-limiting, dispatcheur, brique portail</td><td></td></tr><tr><td><p><strong>Modèles de completions, d'embeddings, OCR, speech-to-text</strong></p><p><br><a href="https://albert.api.etalab.gouv.fr/status/api">Liste des modèles disponibles</a><br></p></td><td></td><td></td></tr><tr><td><p><strong>Services avancés</strong></p><p>Un module de RAG</p><p>Une plateforme d'évaluation</p><p>Fonction-calling</p></td><td></td><td></td></tr><tr><td><p><strong>Éligibilité</strong></p><p>Services de l'État</p></td><td></td><td></td></tr><tr><td><p><strong>Facturation</strong></p><p>Gratuit (pour expérimentation)</p></td><td></td><td></td></tr></tbody></table>
 
 **Les cas d'usage métier**
 
 Le cas d’usage métier Albert le plus évident est l’assistance à la réponse aux questions du public pour les agents. Ce sont des versions d'Albert en général fine-tunées à partir de la documentation de l'administration. Voici quelques exemples :
 
-* Un chat assistant de réponse adapté aux agents qui s’occupent des ressources humaines dans les secrétariats généraux communs départementaux (SGCD), dans les préfectures. — partenariat actuellement en construction avec la direction générale de l'administration et de la fonction publique (DGAFP) ;
-* Un chat assistant de réponse en droit du travail pour les agents dans les services de renseignements en droit du travail (SRDT) — en investigation avec la direction générale du travail (DGT) ;
+- Un chat assistant de réponse adapté aux agents qui s’occupent des ressources humaines dans les secrétariats généraux communs départementaux (SGCD), dans les préfectures. — partenariat actuellement en construction avec la direction générale de l'administration et de la fonction publique (DGAFP) ;
+- Un chat assistant de réponse en droit du travail pour les agents dans les services de renseignements en droit du travail (SRDT) — en investigation avec la direction générale du travail (DGT) ;
 
 ### 🧰 Utiliser d’autres modèles : quelques ressources supplémentaires <a href="#utiliser-dautres-modeles-quelques-ressources-supplementaires" id="utiliser-dautres-modeles-quelques-ressources-supplementaires"></a>
 
-* Vous pouvez trouver toutes sortes de modèles sur [Hugging Face](https://huggingface.co/), classifiés en fonction de la tâche ;
-* Certains services Cloud comme Scaleway proposent une plateforme en SaaS qui permet d’utiliser des modèles ouverts ou semi-ouverts comme Mistral ou LLama, et de louer la puissance de calcul (ou acheter au token) tout en respectant les standards européens d'hébergement ;
-* Si votre besoin n’implique pas d’utiliser des données sensibles, il est possible de faire ses premiers tests —tout en respectant le cadre légal— avec des modèles propriétaires.
+- Vous pouvez trouver toutes sortes de modèles sur [Hugging Face](https://huggingface.co/), classifiés en fonction de la tâche ;
+- Certains services Cloud comme Scaleway proposent une plateforme en SaaS qui permet d’utiliser des modèles ouverts ou semi-ouverts comme Mistral ou LLama, et de louer la puissance de calcul (ou acheter au token) tout en respectant les standards européens d'hébergement ;
+- Si votre besoin n’implique pas d’utiliser des données sensibles, il est possible de faire ses premiers tests —tout en respectant le cadre légal— avec des modèles propriétaires.
 
 {% hint style="info" %}
 Si vous n’êtes pas sûrs de vous, vous pouvez consulter la fiche dédiée [Quels points de vigilance avoir lorsque vous dialoguez avec ChatGPT ?](https://pad.numerique.gouv.fr/teCWpmkGSlG970GLe4aTDQ) ou demander de l'aide sur le Tchap de la communauté.
@@ -94,16 +88,16 @@ Si vous n’êtes pas sûrs de vous, vous pouvez consulter la fiche dédiée [Qu
 #### 🛡️ Sécuriser son infrastructure et son usage : faire de l’IA responsable <a href="#securiser-son-infrastructure-et-son-usage-faire-de-lia-responsable" id="securiser-son-infrastructure-et-son-usage-faire-de-lia-responsable"></a>
 
 {% hint style="info" %}
-Vous pouvez vous faire assister sur les questions de sécurité et de juridique en matière d'IA en notifiant les référents dans le canal Mattermost associé dédié (#domaine-ia).
+Vous pouvez vous faire assister sur les questions de sécurité et de juridique en matière d'IA en notifiant les référents dans le canal Tchap associé dédié ([Communauté IA de l'Etat](https://tchap.gouv.fr/#/room/!tPzThAoNsAAClYSczG:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr)).
 {% endhint %}
 
 **Des ressources techniques et juridiques**
 
-* [**Quels points de vigilance avoir lorsque vous dialoguez avec ChatGPT ?**](https://pad.numerique.gouv.fr/teCWpmkGSlG970GLe4aTDQ), par Numéricité pour [beta.gouv.fr](http://beta.gouv.fr/)
-* [**Recommandations de sécurité pour un système d’IA générative**](https://cyber.gouv.fr/publications/recommandations-de-securite-pour-un-systeme-dia-generative), _Agence nationale de la sécurité des systèmes d'information (ANSSI)_, 2024
-* [**Les fiches pratiques IA de la CNIL**](https://www.cnil.fr/fr/les-fiches-pratiques-ia), orientées traitement des données personnelles
-* [**Entrée en vigueur du règlement européen sur l’IA : les premières questions-réponses de la CNIL**](https://www.cnil.fr/fr/entree-en-vigueur-du-reglement-europeen-sur-lia-les-premieres-questions-reponses-de-la-cnil)**,** juillet 2024
+- [**Quels points de vigilance avoir lorsque vous dialoguez avec ChatGPT ?**](https://pad.numerique.gouv.fr/teCWpmkGSlG970GLe4aTDQ), par Numéricité pour [beta.gouv.fr](http://beta.gouv.fr/)
+- [**Recommandations de sécurité pour un système d’IA générative**](https://cyber.gouv.fr/publications/recommandations-de-securite-pour-un-systeme-dia-generative), _Agence nationale de la sécurité des systèmes d'information (ANSSI)_, 2024
+- [**Les fiches pratiques IA de la CNIL**](https://www.cnil.fr/fr/les-fiches-pratiques-ia), orientées traitement des données personnelles
+- [**Entrée en vigueur du règlement européen sur l’IA : les premières questions-réponses de la CNIL**](https://www.cnil.fr/fr/entree-en-vigueur-du-reglement-europeen-sur-lia-les-premieres-questions-reponses-de-la-cnil)**,** juillet 2024
 
 **Gouvernance est stratégie française**
 
-* [**IA, notre ambition pour la France**](https://www.bercynumerique.finances.gouv.fr/le-rapport-ia-notre-ambition-pour-la-france), _Comité national pour l’intelligence artificielle_, mars 2024
+- [**IA, notre ambition pour la France**](https://www.bercynumerique.finances.gouv.fr/le-rapport-ia-notre-ambition-pour-la-france), _Comité national pour l’intelligence artificielle_, mars 2024

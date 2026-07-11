@@ -25,7 +25,7 @@ Le **Pôle Numérique Inclusif** est un pôle d’expertise transverse qui s’a
 
 {% hint style="info" %}
 * Par **email** : [accessibilite@beta.gouv.fr](mailto:accessibilite@beta.gouv.fr)
-* Sur **Mattermost**, dans le canal [#domaine-accessibilité](https://mattermost.incubateur.net/betagouv/channels/c015lnmttj9)
+* Sur **Tchap**, dans le canal [Domaine-Accessibilité](https://tchap.gouv.fr/#/room/!dTRhRuVyhSJECfbjFk:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr)
 {% endhint %}
 
 ### Qui compose ce pôle ? <a href="#qui-compose-ce-pole" id="qui-compose-ce-pole"></a>

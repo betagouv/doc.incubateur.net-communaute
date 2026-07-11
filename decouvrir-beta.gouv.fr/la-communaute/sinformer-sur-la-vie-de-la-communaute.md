@@ -13,7 +13,7 @@ description: >-
 
 **📨L'infolettre**
 
-Si tu es membre du réseau beta.gouv.fr, c'est à dire si tu possèdes une fiche membre, tu reçois un jeudi sur deux l'infolettre interne. Tu peux contribuer à cette infolettre grâce au pad qui est publié le lundi de la semaine d'envoi sur le canal [#général](https://mattermost.incubateur.net/betagouv/channels/town-square).
+Si tu es membre du réseau beta.gouv.fr, c'est à dire si tu possèdes une fiche membre, tu reçois un jeudi sur deux l'infolettre interne. Tu peux contribuer à cette infolettre grâce au pad qui est publié le lundi de la semaine d'envoi sur le canal [Général](https://tchap.gouv.fr/#/room/!lWPNmdvOrZYcrUSSSq:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr).
 
 {% hint style="info" %}
 Tu peux consulter les anciennes infolettres sur l'[espace membre](https://espace-membre.incubateur.net/newsletters).
@@ -73,7 +73,7 @@ Tu travailles dans l'un de ces incubateurs ou tu occupes une fonction transverse
 
 Si tu as besoin de transmettre une information à l’ensemble des incubateurs (par ex. pour proposer un outil), tu peux t’adresser aux responsables transverses.
 
-Il existe un canal Tchap et une mailing list qui regroupent l’ensemble de ces personnes. Pour leur partager une info, contacte **Marine Purson** sur [**Mattermost**](https://mattermost.incubateur.net/betagouv/messages/@marine.purson) **ou** [**Tchap**](https://www.tchap.gouv.fr/#/room/!GWxBzwzidAUwLMkaps:agent.dinum.tchap.gouv.fr).
+Il existe un canal Tchap et une mailing list qui regroupent l’ensemble de ces personnes. Pour leur partager une info, contacte **Marine Purson** [**directement**](https://tchap.gouv.fr/#/user/@marine.purson-beta.gouv.fr:agent.dinum.tchap.gouv.fr) **ou sur le canal** [**Tchap**](https://www.tchap.gouv.fr/#/room/!GWxBzwzidAUwLMkaps:agent.dinum.tchap.gouv.fr).
 
 </details>
 
@@ -92,5 +92,5 @@ Les comptes mentionnés peuvent également être utilisés dans le cadre de comm
 {% hint style="info" %}
 **Une question sur la communication chez beta.gouv.fr ?**
 
-Tu peux poser ta question sur le canal Mattermost [\~incubateur-com ](https://mattermost.incubateur.net/betagouv/channels/incubateur-com)ou contacter à tout moment l’équipe transverse de communication sur Mattermost :[ @marine.purson](https://mattermost.incubateur.net/betagouv/messages/@marine.purson) ou [@divine.tende.dibayula](https://mattermost.incubateur.net/betagouv/messages/@divine.tende.dibayula)
+Tu peux poser ta question sur le canal Mattermost [\~incubateur-com ](https://mattermost.incubateur.net/betagouv/channels/incubateur-com)ou contacter à tout moment l’équipe transverse de communication :[ Marine Purson](https://tchap.gouv.fr/#/user/@marine.purson-beta.gouv.fr:agent.dinum.tchap.gouv.fr) (sur Tchap) ou [@divine.tende.dibayula](https://mattermost.incubateur.net/betagouv/messages/@divine.tende.dibayula)
 {% endhint %}

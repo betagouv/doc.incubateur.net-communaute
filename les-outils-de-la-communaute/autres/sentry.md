@@ -27,8 +27,8 @@ Sécurité : N'envoyez jamais de données personnelles dans Sentry.
 | Tech | J'ajuste [mon `tracesSampleRate` pour la production](https://develop.sentry.dev/sdk/performance/#sdk-configuration)                                                |
 | Tech | Je m'abonne aux alertes de mon projet                                                                                                                              |
 
-{% embed url="https://mattermost.incubateur.net/betagouv/channels/incubateur-sentry" %}
-Canal de discussion dédié à Sentry sur mattermost : incubateur-sentry
+{% embed url="https://tchap.gouv.fr/#/room/!yRVYHLleZfEReSOimE:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr" %}
+Canal de discussion dédié à Sentry sur Tchap : Sentry
 {% endembed %}
 
 ### Installation

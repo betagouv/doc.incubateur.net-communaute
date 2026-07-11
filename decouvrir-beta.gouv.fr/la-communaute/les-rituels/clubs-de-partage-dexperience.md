@@ -19,7 +19,7 @@ Toutes les informations relatives à ses clubs sont présentes en entête des ca
 * responsables d'incubateur
 * [intrapreneur·se·s](https://tchap.gouv.fr/#/room/!AdOsEgKcBcmTVsXFOf:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr)
 * [chargé(e)s de déploiement](https://tchap.gouv.fr/#/room/!LYLjHbBZdxMBOORgaJ:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr)
-* [designer](https://mattermost.incubateur.net/betagouv/channels/domaine-design)
+* [designer](https://tchap.gouv.fr/#/room/!jnSMMXbKZBIAEtfwRu:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr)
 * [coach](https://tchap.gouv.fr/#/room/!MDSecXMtSqsjTQfoML:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr)
 * [dev](https://tchap.gouv.fr/#/room/!YWElGjXYMBwmlHeqeL:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr&via=agent.social.tchap.gouv.fr&via=agent.finances.tchap.gouv.fr)
 

@@ -44,7 +44,7 @@ Dans le message que vous allez relayer sur Tchap pour présenter votre formation
 
 #### Où envoyer le message
 
-Il existe de nombreux channels Mattermost dans lesquels communiquer sur votre formation, qui dépendront du public visé : \~incubateur-formations, [Domaine-dev (sur Tchap)](https://tchap.gouv.fr/#/room/!YWElGjXYMBwmlHeqeL:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr&via=agent.social.tchap.gouv.fr&via=agent.finances.tchap.gouv.fr), \~domaine-accessibilite, \~domaine-secu, ...
+Il existe de nombreux channels dans lesquels communiquer sur votre formation, qui dépendront du public visé : \~incubateur-formations, [Domaine-dev (sur Tchap)](https://tchap.gouv.fr/#/room/!YWElGjXYMBwmlHeqeL:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr&via=agent.social.tchap.gouv.fr&via=agent.finances.tchap.gouv.fr), [Domaine-Accessibilité (sur Tchap)](https://tchap.gouv.fr/#/room/!dTRhRuVyhSJECfbjFk:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr), [Domaine-Secu (sur Tchap)](https://tchap.gouv.fr/#/room/!XPllVpJRcpZCaSiaXW:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr), ...
 
 Ne pas hésiter non plus à ajouter votre annonce dans l'infolettre !
 

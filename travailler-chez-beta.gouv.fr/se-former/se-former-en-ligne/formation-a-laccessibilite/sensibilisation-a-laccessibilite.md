@@ -138,7 +138,7 @@ L'accessibilité est un domaine qui s'apprend ! N'hésitez pas à vous faire acc
 
 * par des professionnels, via l'[accord du marché public](https://design.numerique.gouv.fr/accessibilite-numerique/accord-cadre-dae/)
 * en contactant le référent accessibilité du porteur de votre Startup d'État
-* en posant des questions sur le canal [#domaine-accessibilité](https://mattermost.incubateur.net/betagouv/channels/c015lnmttj9) du Mattermost de Beta.
+* en posant des questions sur le canal [Domaine-Accessibilité](https://tchap.gouv.fr/#/room/!dTRhRuVyhSJECfbjFk:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr) sur Tchap.
 
 Merci de votre lecture et bonne chance dans votre chemin vers un service accessible à toutes et tous :)
 
