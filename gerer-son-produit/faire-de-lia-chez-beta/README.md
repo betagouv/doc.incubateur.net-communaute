@@ -39,7 +39,7 @@ Il se peut aussi que certaines informations soient erronées, puisque que c’es
 ### 💰 L’incubateur AL&#x4C;_&#x69;&#x61;_&#x4E;CE <a href="#se-faire-financer-lincubateur-alliance" id="se-faire-financer-lincubateur-alliance"></a>
 
 {% hint style="info" %}
-**Lien vers la documentation ALLiaNCE** : [https://app.gitbook.com/o/-LrIsEqqjEjdRXwfHPAD/sites/site_hmLlH/preview](https://app.gitbook.com/o/-LrIsEqqjEjdRXwfHPAD/sites/site_hmLlH/preview)
+**Lien vers la documentation IA dans l'état** : [https://guides.ia.numerique.gouv.fr/](https://guides.ia.numerique.gouv.fr/)
 {% endhint %}
 
 **Lancé en 2024 à la DINUM, All**_**ia**_**nce est un incubateur qui finance des briques IA qui respectent les standards beta.gouv, notamment qui s’engagent à libérer leur code et répondent à un cas d’usage de l’administration à impact social.**
