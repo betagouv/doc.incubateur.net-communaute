@@ -10,8 +10,6 @@ Si tu n'utilises pas ton email @beta.gouv.fr tu peux sur changer ton adresse pri
 
 **⚠️** Attention l'email @beta.gouv.fr sera alors supprimé, donc si tu l'utilises sur certains services il faudra penser à mettre à jour l'email utilisé avant de faire le changement.
 
-C'est le cas notamment pour Mattermost pour lequel la mise à jour de l'email est obligatoire avant de pouvoir effectuer le changement (voir [mettre à jour l'email mattermost](faq-espace-membre.md#mettre-a-jour-lemail-dans-mattermost)).
-
 Tu peux retrouver cette fonctionnalité en te rendant dans [Mon Compte > Configurer mon email principal](https://espace-membre.incubateur.net/account?tab=compte-email).
 
 </details>

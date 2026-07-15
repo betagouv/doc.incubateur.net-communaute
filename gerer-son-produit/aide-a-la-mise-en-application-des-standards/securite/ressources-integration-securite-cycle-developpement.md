@@ -7,31 +7,31 @@ de votre service numérique.
 ## Table des matières
 
 1. [Pourquoi l'OWASP ?](#pourquoi-lowasp-comme-principale-reference)
-    - [Qu'est-ce que l'OWASP ?](#quest-ce-que-lowasp)
-    - [Pourquoi l'OWASP ?](#pourquoi-lowasp)
+   - [Qu'est-ce que l'OWASP ?](#quest-ce-que-lowasp)
+   - [Pourquoi l'OWASP ?](#pourquoi-lowasp)
 2. [Documentation des mécanismes de sécurité](#documentation-des-mecanismes-de-securite)
    - [Authentification](#authentification)
-    - [Contrôle d'accès](#controle-dacces)
-    - [Traçabilité et audit (Logging)](#tracabilite-et-audit-logging)
+   - [Contrôle d'accès](#controle-dacces)
+   - [Traçabilité et audit (Logging)](#tracabilite-et-audit-logging)
    - [Usage de la Cryptographie](#usage-de-la-cryptographie)
-    - [Validation, encodage, filtrage des données traitées par l'application](#validation-encodage-filtrage-des-donnees-traitees-par-lapplication)
+   - [Validation, encodage, filtrage des données traitées par l'application](#validation-encodage-filtrage-des-donnees-traitees-par-lapplication)
 3. [Bonnes pratiques de développement sécurisé](#bonnes-pratiques-de-developpement-securise)
-    - [Revue de code orientée sécurité](#revue-de-code-orientee-securite)
-    - [Guide de développement sécurisé](#guide-de-developpement-securise)
-    - [Classes de vulnérabilités les plus fréquentes](#classes-de-vulnerabilites-les-plus-frequentes)
+   - [Revue de code orientée sécurité](#revue-de-code-orientee-securite)
+   - [Guide de développement sécurisé](#guide-de-developpement-securise)
+   - [Classes de vulnérabilités les plus fréquentes](#classes-de-vulnerabilites-les-plus-frequentes)
 4. [Tests de sécurité automatisés](#tests-de-securite-automatises)
-    - [Intégration de la sécurité dans vos pipeline CI/CD](#integration-de-la-securite-dans-vos-pipeline-cicd)
-    - [Sécurité des pipelines CI/CD](#securite-des-pipelines-cicd)
+   - [Intégration de la sécurité dans vos pipeline CI/CD](#integration-de-la-securite-dans-vos-pipeline-cicd)
+   - [Sécurité des pipelines CI/CD](#securite-des-pipelines-cicd)
    - [Exemples d'outils](#exemples-doutils)
 5. [Surveillance continue et gestion de la production](#surveillance-continue-et-gestion-de-la-production)
-    - [Gestion des vulnérabilités](#gestion-des-vulnerabilites)
-    - [Surveillance et réponse aux incidents](#surveillance-et-reponse-aux-incidents)
+   - [Gestion des vulnérabilités](#gestion-des-vulnerabilites)
+   - [Surveillance et réponse aux incidents](#surveillance-et-reponse-aux-incidents)
 6. [Formation et sensibilisation](#formation-et-sensibilisation)
-    - [Ressources de formation](#ressources-de-formation)
-    - [Veille sécurité](#veille-securite)
+   - [Ressources de formation](#ressources-de-formation)
+   - [Veille sécurité](#veille-securite)
 7. [Pour aller plus loin](#pour-aller-plus-loin)
-    - [Standards et référentiels](#standards-et-referentiels)
-    - [Ressources spécifiques par technologie](#ressources-specifiques-par-technologie)
+   - [Standards et référentiels](#standards-et-referentiels)
+   - [Ressources spécifiques par technologie](#ressources-specifiques-par-technologie)
 8. [Contribuer](#contribuer)
 
 ---
@@ -286,22 +286,22 @@ github betagouv, vous disposez déjà de mécanisme d'analyse statique de code.
 #### Détection de secrets
 
 - **GitGuardian** : Scanner de secrets pour Git (Activé par défaut
-sur les organisations beta.gouv.fr)
+  sur les organisations beta.gouv.fr)
 - **TruffleHog** : Recherche de secrets dans l'historique Git
 - **Gitleaks** : Détecteur de secrets léger et rapide
 
 #### SAST
 
 - **CodeQL (GitHub)** : Moteur d'analyse de github
-(Activé par défaut sur les organisations beta.gouv.fr)
+  (Activé par défaut sur les organisations beta.gouv.fr)
 - **Semgrep/Opengrep** : Outil d'analyse statique open-source
 
 #### SCA
 
 - **Dependabot** (pour GitHub) : Alertes sur les vulnérabilités des dépendances
-    (intégré à GitHub), PR automatiques.
+  (intégré à GitHub), PR automatiques.
 - **Renovate** (pour GitLab) : Gestion automatisée des dépendances et alertes de
-    vulnérabilités, compatible avec GitLab CI/CD.
+  vulnérabilités, compatible avec GitLab CI/CD.
 
 - **Snyk** : Scan de dépendances et de containers
 - **OWASP Dependency-Check** : Outil open-source d'analyse des
@@ -370,7 +370,7 @@ sensibilisation régulières sont essentielles.
 - **OWASP Juice Shop** : Application e-commerce vulnérable pour
   exploiter et corriger des vulnérabilités web.
 - **RootMe / HackTheBox / TryHackMe /hakcropole** : Plateformes d'apprentissage avec
- des challenges de sécurité.
+  des challenges de sécurité.
 
   [Annuaire d'applications volontairement vulnérables - OWASP](https://owasp.org/www-project-vulnerable-web-applications-directory/)
 
@@ -384,21 +384,21 @@ sensibilisation régulières sont essentielles.
 
 ### Veille sécurité
 
-#### Sources recommandées :**
+#### Sources recommandées :\*\*
 
 ##### Sources Francophones
 
-  **CERT-FR** : Centre gouvernemental de veille, d'alerte et de réponse  aux attaques informatiques.
-  [**No Limit Secu**](https://www.nolimitsecu.fr) : Podcast Francophone hebdomadaire
-  [**Radio CSIRT**](https://www.radiocsirt.org) : Podcast quotidien résumant l'actualité cyber
-  sécurité.
-  **Magazine Misc** : Magazine mensuel spécialisé dans la
-  cybersécurité
+**CERT-FR** : Centre gouvernemental de veille, d'alerte et de réponse aux attaques informatiques.
+[**No Limit Secu**](https://www.nolimitsecu.fr) : Podcast Francophone hebdomadaire
+[**Radio CSIRT**](https://www.radiocsirt.org) : Podcast quotidien résumant l'actualité cyber
+sécurité.
+**Magazine Misc** : Magazine mensuel spécialisé dans la
+cybersécurité
 
 ##### Sources Anglophones
 
-  [**TL,DR; Security**](https://tldrsec.com) : Newsletter Cybersécurité
-  [**Unsupervised learning**](https://newsletter.danielmiessler.com) : Newsletter Cybersécurité/Dev/IA
+[**TL,DR; Security**](https://tldrsec.com) : Newsletter Cybersécurité
+[**Unsupervised learning**](https://newsletter.danielmiessler.com) : Newsletter Cybersécurité/Dev/IA
 
 ---
 
@@ -449,5 +449,4 @@ Ce document est maintenu par la communauté beta.gouv.fr. N'hésitez pas
 pull request.
 
 Pour toute question sur la sécurité de votre service, vous pouvez
-solliciter l'aide de la communauté via les canaux habituels (Mattermost,
-Tchap, `securite@beta.gouv.fr`).
+solliciter l'aide de la communauté via les canaux habituels (Tchap, `securite@beta.gouv.fr`).
