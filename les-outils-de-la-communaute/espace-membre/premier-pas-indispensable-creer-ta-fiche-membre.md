@@ -26,7 +26,7 @@ Tu vas recevoir un mail d'invitation.
 
 - obtenir un email @beta.gouv.fr (il sera créé à ta première connexion, si tu n'as pas déjà un email de service public)
 - compléter les informations de ta fiche membre
-- être invités aux outils de travail des équipes : messagerie collaborative Tchap[^1], accès au [Github](../autres/github.md), etc.
+- être invités aux outils de travail des équipes : messagerie collaborative Tchap[https://tchap.gouv.fr], accès au [Github](../autres/github.md), etc.
 - bénéficier de services :[ accès aux locaux](../../travailler-chez-beta.gouv.fr/vie-quotidienne-et-bien-etre/travailler-dans-les-lieux-partages/locaux/) de l'incubateur de la DINUM, recevoir l'infolettre, accéder aux [formations](../../travailler-chez-beta.gouv.fr/se-former/) proposées par la communauté, bénéficier d'aides pour son équipe et son produit (UX, juridique, sécurité, accessibilité, etc.)
 
 #### Que faire si tu n'as pas activé ton email beta.gouv.fr et que le lien d'activation est expiré ?
