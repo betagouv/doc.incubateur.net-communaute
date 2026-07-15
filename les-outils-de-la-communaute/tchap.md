@@ -76,7 +76,7 @@ Le canal [Demandes-OPS](https://tchap.gouv.fr/#/room/!VxFWdbcSlumKPvpVRP:agent.d
 
 L'équipe animation propose un webhook tchap basé sur n8n (vous pouvez le déployer de votre côté si besoin d'isolation). Les hooks sont configurables via GIT et [ce fichier YAML](https://github.com/betagouv/n8n-configs/blob/main/tchap-webhooks.yaml). 
 
-Nous recommandons de créer un canal Tchap dédié `equipe-[xxx]-notifications` dans [l'espace beta.gouv.fr](https://www.tchap.gouv.fr/#/room/!vEAnvskVieOQgLnZee:agent.dinum.tchap.gouv.fr) et d'y inviter `tchap-bot@beta.gouv.fr`.
+Nous recommandons de créer un canal Tchap dédié `equipe-[xxx]-notifications` et d'y inviter `tchap-bot@beta.gouv.fr`.
 
 :warning: Les messages envoyés par ce BOT ne sont PAS chiffrés. (TODO)
 
