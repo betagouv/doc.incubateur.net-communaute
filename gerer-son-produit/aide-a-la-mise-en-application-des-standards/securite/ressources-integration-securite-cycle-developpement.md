@@ -449,4 +449,4 @@ Ce document est maintenu par la communauté beta.gouv.fr. N'hésitez pas
 pull request.
 
 Pour toute question sur la sécurité de votre service, vous pouvez
-solliciter l'aide de la communauté via les canaux habituels (Tchap, `securite@beta.gouv.fr`).
+solliciter l'aide de la communauté via les canaux habituels ([Domaine-secu sur Tchap](https://tchap.gouv.fr/#/room/!XPllVpJRcpZCaSiaXW:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr&via=agent.dev-durable.tchap.gouv.fr&via=agent.social.tchap.gouv.fr),  `securite@beta.gouv.fr`).
