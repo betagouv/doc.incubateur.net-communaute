@@ -19,13 +19,13 @@ Lorsqu'un nouveau membre rejoint la communauté beta.gouv.fr et crée une fiche 
 
 ### Les canaux à connaître
 
-* Salon [Général](https://tchap.gouv.fr/#/room/!lWPNmdvOrZYcrUSSSq:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr\&via=agent.dev-durable.tchap.gouv.fr\&via=agent.finances.tchap.gouv.fr), le canal où toute la communauté est présente, pour partager des infos collectives
-* Salon [Annonces](https://tchap.gouv.fr/#/room/!opPGkbFkKlIySUyfyN:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr\&via=agent.dev-durable.tchap.gouv.fr\&via=agent.culture.tchap.gouv.fr), pour suivre les annonces et infos importantes de la communauté
-* Salon [Random](https://tchap.gouv.fr/#/room/!mjMJejXfZFiOczWRQY:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr\&via=agent.dev-durable.tchap.gouv.fr\&via=agent.social.tchap.gouv.fr), pour parler de tout et de rien
+* Salon [Général](https://tchap.gouv.fr/#/room/!lWPNmdvOrZYcrUSSSq:agent.dinum.tchap.gouv.fr), le canal où toute la communauté est présente, pour partager des infos collectives
+* Salon [Annonces](https://tchap.gouv.fr/#/room/!opPGkbFkKlIySUyfyN:agent.dinum.tchap.gouv.fr), pour suivre les annonces et infos importantes de la communauté
+* Salon [Random](https://tchap.gouv.fr/#/room/!mjMJejXfZFiOczWRQY:agent.dinum.tchap.gouv.fr), pour parler de tout et de rien
 * \[à compléter au fil de l'eau]
 
 {% hint style="info" %}
-Tu souhaites créer un salon dans l'espace beta.gouv.fr ? Une commande sera prochainement disponible. En attendant, tu peux faire ta demande sur le salon [BetaGouv-tmp-migration](https://tchap.gouv.fr/#/room/!bfLWibiCHOmIxcBJpm:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr\&via=agent.dev-durable.tchap.gouv.fr).
+Tu souhaites créer un salon dans l'espace beta.gouv.fr ? Une commande sera prochainement disponible. En attendant, tu peux faire ta demande sur le salon [BetaGouv-tmp-migration](https://tchap.gouv.fr/#/room/!bfLWibiCHOmIxcBJpm:agent.dinum.tchap.gouv.fr).
 {% endhint %}
 
 {% hint style="warning" %}
@@ -62,7 +62,7 @@ Pense donc à limiter le nombre de personnes qui ont ce rôle lorsque tu crées 
 Les autres personnes peuvent avoir des droits larges si tu le souhaites, en modulant les droits accordés au rôle « modérateur ».&#x20;
 {% endhint %}
 
-Besoin d'aide pour migrer ton équipe ou pour paramétrer tes salons ? Des remarques sur le fonctionnement de l'outil ? Pose ta question sur le [salon Tchap BetaGouv-tmp-migration](https://tchap.gouv.fr/#/room/!bfLWibiCHOmIxcBJpm:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr\&via=agent.dev-durable.tchap.gouv.fr).
+Besoin d'aide pour migrer ton équipe ou pour paramétrer tes salons ? Des remarques sur le fonctionnement de l'outil ? Pose ta question sur le [salon Tchap BetaGouv-tmp-migration](https://tchap.gouv.fr/#/room/!bfLWibiCHOmIxcBJpm:agent.dinum.tchap.gouv.fr).
 
 ## Bots
 
@@ -75,7 +75,7 @@ Le canal [Demandes-OPS](https://tchap.gouv.fr/#/room/!VxFWdbcSlumKPvpVRP:agent.d
 
 L'équipe animation propose un webhook tchap basé sur n8n (vous pouvez le déployer de votre côté si besoin d'isolation). Les hooks sont configurables via GIT et [ce fichier YAML](https://github.com/betagouv/n8n-configs/blob/main/tchap-webhooks.yaml). 
 
-Nous recommandons de créer un canal Tchap dédié `equipe-[xxx]-notifications` dans [l'espace beta.gouv.fr](https://www.tchap.gouv.fr/#/room/!vEAnvskVieOQgLnZee:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr&via=agent.dev-durable.tchap.gouv.fr&via=agent.ssi.tchap.gouv.fr) et d'y inviter `tchap-bot@beta.gouv.fr`.
+Nous recommandons de créer un canal Tchap dédié `equipe-[xxx]-notifications` dans [l'espace beta.gouv.fr](https://www.tchap.gouv.fr/#/room/!vEAnvskVieOQgLnZee:agent.dinum.tchap.gouv.fr) et d'y inviter `tchap-bot@beta.gouv.fr`.
 
 :warning: Les messages envoyés par ce BOT ne sont PAS chiffrés. (TODO)
 

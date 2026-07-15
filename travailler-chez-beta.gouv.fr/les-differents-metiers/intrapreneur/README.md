@@ -43,7 +43,7 @@ N'hésitez pas à les solliciter !
 
 ### Des canaux dédiés aux intras
 
-Pour échanger entre intras ou avec les intras, il existe un canal public : [Domaine-intras](https://tchap.gouv.fr/#/room/!AdOsEgKcBcmTVsXFOf:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr) (sur Tchap)
+Pour échanger entre intras ou avec les intras, il existe un canal public : [Domaine-intras](https://tchap.gouv.fr/#/room/!AdOsEgKcBcmTVsXFOf:agent.dinum.tchap.gouv.fr) (sur Tchap)
 
 Pour échanger entre intras, il existe un canal privé : [\~domaine-intras-privé](https://mattermost.incubateur.net/betagouv/channels/domaine-intras-prive) (accessible sur invitation : demandez à Magali Marcel-Garreau ou Marine Purson)
 

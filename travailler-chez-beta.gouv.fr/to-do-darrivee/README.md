@@ -132,4 +132,4 @@ Tu peux la consulter en version documentation juste ici 👇.
 
 * [ ] Tu peux continuer à t'investir dans la communauté que ce soit en revenant aux forums, aux clubs ou en participant aux d'autres activités transverses 👉 [c'est par ici](../../solliciter-et-contribuer-a-la-communaute/je-contribue-a-la-communaute-to-do/)
 
-Si tu as la moindre question, utilise 🔒[`Entraide-communauté`](https://tchap.gouv.fr/#/room/!FznvyqtGVRlsGHcLVE:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr) sur Tchap ou envoie un mail à `contact@beta.gouv.fr.`
+Si tu as la moindre question, utilise 🔒[`Entraide-communauté`](https://tchap.gouv.fr/#/room/!FznvyqtGVRlsGHcLVE:agent.dinum.tchap.gouv.fr) sur Tchap ou envoie un mail à `contact@beta.gouv.fr.`

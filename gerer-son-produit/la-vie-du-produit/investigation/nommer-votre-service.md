@@ -25,7 +25,7 @@ Dans le cadre de l'État et des administrations, vous pouvez vous appuyer sur le
 
 ## Ce qu'il faut retenir
 
-* [ ] Je me renseigne (au sein de beta, par exemple sur le canal Tchap [**Domaine-Juridique**](https://tchap.gouv.fr/#/room/!GfTqZorbbfSTzIBJCm:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr) et au-delà) sur les bonnes pratiques et bonnes idées pour choisir un nom, en tenant compte du contexte
+* [ ] Je me renseigne (au sein de beta, par exemple sur le canal Tchap [**Domaine-Juridique**](https://tchap.gouv.fr/#/room/!GfTqZorbbfSTzIBJCm:agent.dinum.tchap.gouv.fr) et au-delà) sur les bonnes pratiques et bonnes idées pour choisir un nom, en tenant compte du contexte
 * [ ] Avant d'arrêter mon choix définitif sur un nom candidat, je passe 15 minutes minimum sur Google pour savoir qui l'utilise déjà. Je vérifie aussi sur [l'INPI](https://bases-marques.inpi.fr/Typo3\_INPI\_Marques/marques\_resultats\_liste.html) les marques déposées et sur quelle classe
 * [ ] S'il est déjà utilisé, je ne minimise pas le risque de conséquences juridiques, au besoin je prends conseil à l'APIE ou auprès des juristes de beta.gouv.fr
 * [ ] A l'issue de la phase d'investigation, avant de réserver un nom de domaine par exemple, je revisite la question, en y investissant peut-être plus de temps et de ressources

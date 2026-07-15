@@ -61,6 +61,6 @@ Tu voudrais proposer un nouvel outil qui pourrait être utile à toute la commun
 Et si tu n'as que quelques minutes ou du temps uniquement ponctuel, voilà quelques idées d'actions pour contribuer à la vie de la communauté :
 
 * Faire un tour [sur GitHub](https://github.com/betagouv/beta.gouv.fr/pulls) pour participer à la revue ou valider des pull requests en attente
-* Faire un tour sur le canal [Entraide-communauté](https://tchap.gouv.fr/#/room/!FznvyqtGVRlsGHcLVE:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr) sur Tchap pour éventuellement répondre à des questions posées
+* Faire un tour sur le canal [Entraide-communauté](https://tchap.gouv.fr/#/room/!FznvyqtGVRlsGHcLVE:agent.dinum.tchap.gouv.fr) sur Tchap pour éventuellement répondre à des questions posées
 * Lire ou relire la documentation et le site beta.gouv.fr et [corriger les coquilles ou informations obsolètes sur lesquelles tu tombes](./#contribuer-a-la-documentation)
 * Tester un produit d'une startup, consulter une page stat et éventuellement faire un retour à l'équipe concernée

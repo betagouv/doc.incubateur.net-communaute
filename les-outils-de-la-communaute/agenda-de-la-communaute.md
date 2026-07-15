@@ -5,5 +5,5 @@ Les évènements de la communauté beta.gouv.fr sont référencés sur un [agend
 ![Image d'illustration](../.gitbook/assets/Calendrier-public-beta.png)
 
 {% hint style="info" %}
-Pour ajouter un évènement à l'agenda de la communauté, contacte l'équipe animation sur [Tchap BetaGouv-entraide-communaute](https://tchap.gouv.fr/#/room/!FznvyqtGVRlsGHcLVE:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr).
+Pour ajouter un évènement à l'agenda de la communauté, contacte l'équipe animation sur [Tchap BetaGouv-entraide-communaute](https://tchap.gouv.fr/#/room/!FznvyqtGVRlsGHcLVE:agent.dinum.tchap.gouv.fr).
 {% endhint %}

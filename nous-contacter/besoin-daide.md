@@ -32,7 +32,7 @@ Nous vous répondrons sous 24 heures ou nous vous mettrons en relation avec les 
 
 ### 3. **Communauté d'entraide**
 
-Rejoignez le canal Tchap "[Entraide-communauté](https://tchap.gouv.fr/#/room/!FznvyqtGVRlsGHcLVE:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr)" pour poser vos questions et bénéficier des conseils d’autres membres expérimentés. Posez vos questions et partagez vos solutions !
+Rejoignez le canal Tchap "[Entraide-communauté](https://tchap.gouv.fr/#/room/!FznvyqtGVRlsGHcLVE:agent.dinum.tchap.gouv.fr)" pour poser vos questions et bénéficier des conseils d’autres membres expérimentés. Posez vos questions et partagez vos solutions !
 
 ***
 

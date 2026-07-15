@@ -41,4 +41,4 @@ En outre ces critères doivent :
 
 ### Pour aller plus loin :
 
-Tu as des doutes, tu souhaites une confirmation ou aller plus loin, pose tes questions sur [Domaine-Juridique](https://tchap.gouv.fr/#/room/!GfTqZorbbfSTzIBJCm:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr) sur Tchap.
+Tu as des doutes, tu souhaites une confirmation ou aller plus loin, pose tes questions sur [Domaine-Juridique](https://tchap.gouv.fr/#/room/!GfTqZorbbfSTzIBJCm:agent.dinum.tchap.gouv.fr) sur Tchap.

@@ -20,7 +20,7 @@ Toutes les demandes d'ops (sous-domaine, ressources scalingo, ovh, Matomo, Sentr
 
 Si tu n'as pas de réponse sous 24h, consulte la liste des gens qui ont accès et les droits suffisants, et fais une relance nominative.
 
-Tu peux demander de l'aide sur ces sujets sur Tchap dans le canal [Demandes-OPS](https://tchap.gouv.fr/#/room/!VxFWdbcSlumKPvpVRP:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr).
+Tu peux demander de l'aide sur ces sujets sur Tchap dans le canal [Demandes-OPS](https://tchap.gouv.fr/#/room/!VxFWdbcSlumKPvpVRP:agent.dinum.tchap.gouv.fr).
 
 ### Hébergement
 
@@ -31,7 +31,7 @@ Le label « SecNumCloud » est nécessaire seulement dans le cadre du champ d’
 \
 Le label « HDS » est indispensable si vous traitez des données de santé.\
 \
-En cas de doute, vous pouvez contacter votre équipe juridique ou solliciter notre communauté sur Tchap, canal [Domaine-Juridique](https://tchap.gouv.fr/#/room/!GfTqZorbbfSTzIBJCm:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr).
+En cas de doute, vous pouvez contacter votre équipe juridique ou solliciter notre communauté sur Tchap, canal [Domaine-Juridique](https://tchap.gouv.fr/#/room/!GfTqZorbbfSTzIBJCm:agent.dinum.tchap.gouv.fr).
 {% endhint %}
 
 #### Application mode PaaS
@@ -102,5 +102,5 @@ Voici une liste (non exhaustive) d'hébergeurs régulièrement utilisés. Pensez
 | 🇫🇷 Cloud Temple (HDS+SecNumCloud) | Object Storage (compatible S3 ; [lien](https://www.cloud-temple.com/produits/stockage-objet/))    |
 
 {% hint style="info" %}
-Certains produits stockent avec succès leurs fichiers directement dans PostgreSQL, n'hésitez pas à challenger votre approche via le canal [Domaine-dev sur Tchap](https://tchap.gouv.fr/#/room/!YWElGjXYMBwmlHeqeL:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr&via=agent.social.tchap.gouv.fr&via=agent.finances.tchap.gouv.fr) :)
+Certains produits stockent avec succès leurs fichiers directement dans PostgreSQL, n'hésitez pas à challenger votre approche via le canal [Domaine-dev sur Tchap](https://tchap.gouv.fr/#/room/!YWElGjXYMBwmlHeqeL:agent.dinum.tchap.gouv.fr) :)
 {% endhint %}

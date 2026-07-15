@@ -19,7 +19,7 @@ Cette transparence s'applique dès la phase d'investigation.
 - **demander à créer une fiche membre pour toi (si ce n'est pas déjà fait) et créer la fiche de l'intra sur l'espace membre beta.gouv.fr**. Tu peux demander la création d'une fiche membre via ce [formulaire](https://espace-membre.incubateur.net/community/create). Une personne validera la demande de compte et l'intra recevra un email pour remplir sa fiche.
 - **créer un canal de discussion** Tchap spécifiquement sur ton investigation en invitant l'intra
 - la norme c'est d'avoir un canal public sur l'espace Tchap de beta.gouv.fr :
-- **Solliciter un mentorat** d'un membre de beta.gouv.fr ayant déjà réalisé une investigation (1h par semaine d'échange pour aide) sur le canal Tchap [Domaine-Coaching](https://tchap.gouv.fr/#/room/!MDSecXMtSqsjTQfoML:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr)
+- **Solliciter un mentorat** d'un membre de beta.gouv.fr ayant déjà réalisé une investigation (1h par semaine d'échange pour aide) sur le canal Tchap [Domaine-Coaching](https://tchap.gouv.fr/#/room/!MDSecXMtSqsjTQfoML:agent.dinum.tchap.gouv.fr)
 
 **Pourquoi un canal de discussion public ?**
 
@@ -57,7 +57,7 @@ L'objectif est de rendre votre travail découvrable facilement pour toute person
 
 ### Où demander de l'aide <a href="#ou-demander-de-laide" id="ou-demander-de-laide"></a>
 
-- demander de l'aide ou des informations sur le canal [Domaine-Coaching sur Tchap](https://tchap.gouv.fr/#/room/!MDSecXMtSqsjTQfoML:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr)​
+- demander de l'aide ou des informations sur le canal [Domaine-Coaching sur Tchap](https://tchap.gouv.fr/#/room/!MDSecXMtSqsjTQfoML:agent.dinum.tchap.gouv.fr)​
 
 ### Le RGPD et l'investigation <a href="#le-rgpd-et-linvestigation" id="le-rgpd-et-linvestigation"></a>
 

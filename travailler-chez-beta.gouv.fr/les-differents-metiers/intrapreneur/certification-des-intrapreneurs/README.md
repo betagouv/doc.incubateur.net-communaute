@@ -108,5 +108,5 @@ beta.gouv.fr propose d'officialiser cette certification aux administrations des 
 En informant le DRH et la hiérarchie de l'intra, ces compétences seront valorisées dans le dossier personnel et lors de l'entretien d'évaluation annuel.
 
 {% hint style="info" %}
-Tu peux poser toutes tes questions sur [le salon Tchap dédié aux intras](https://tchap.gouv.fr/#/room/!AdOsEgKcBcmTVsXFOf:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr) ou à contact@beta.gouv.fr .
+Tu peux poser toutes tes questions sur [le salon Tchap dédié aux intras](https://tchap.gouv.fr/#/room/!AdOsEgKcBcmTVsXFOf:agent.dinum.tchap.gouv.fr) ou à contact@beta.gouv.fr .
 {% endhint %}

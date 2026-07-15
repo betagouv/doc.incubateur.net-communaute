@@ -36,7 +36,7 @@ Demande à cette personne d'effectuer la modification de ta fiche sur l'[espace 
 
 Une fois la modification effectuée, tu pourras réactiver ton adresse @beta.gouv.fr depuis l'[espace membre](../espace-membre.md) en faisant un changement de mot de passe. Le changement de mot de passe réactive ton email.
 
-Si la procédure décrite ne fonctionne pas, demande de l'aide sur le canal Tchap [Entraide-communauté](https://tchap.gouv.fr/#/room/!FznvyqtGVRlsGHcLVE:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr).
+Si la procédure décrite ne fonctionne pas, demande de l'aide sur le canal Tchap [Entraide-communauté](https://tchap.gouv.fr/#/room/!FznvyqtGVRlsGHcLVE:agent.dinum.tchap.gouv.fr).
 
 </details>
 
@@ -85,5 +85,5 @@ Tu peux te rendre [sur l'espace membre](../espace-membre.md) et modifier tes mis
 </details>
 
 {% hint style="info" %}
-Besoin d'aide ? N'hésite pas à demander un coup de main aux personnes de ton équipe, ou d'un ou d'une collègue. Tu peux aussi solliciter l'aide de la communauté sur le canal [Entraide-communauté](https://tchap.gouv.fr/#/room/!FznvyqtGVRlsGHcLVE:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr) sur Tchap.
+Besoin d'aide ? N'hésite pas à demander un coup de main aux personnes de ton équipe, ou d'un ou d'une collègue. Tu peux aussi solliciter l'aide de la communauté sur le canal [Entraide-communauté](https://tchap.gouv.fr/#/room/!FznvyqtGVRlsGHcLVE:agent.dinum.tchap.gouv.fr) sur Tchap.
 {% endhint %}

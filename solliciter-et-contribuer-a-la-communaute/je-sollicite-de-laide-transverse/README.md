@@ -63,7 +63,7 @@ Risque : oublier de se demander si ça marche, si l'aide transverse est utile et
 
 ## Demander de l'aide
 
-D'une manière générale, la chaine 🔒[_**Entraide-communauté**_](https://tchap.gouv.fr/#/room/!FznvyqtGVRlsGHcLVE:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr) sur Tchap est là pour vous aider !
+D'une manière générale, la chaine 🔒[_**Entraide-communauté**_](https://tchap.gouv.fr/#/room/!FznvyqtGVRlsGHcLVE:agent.dinum.tchap.gouv.fr) sur Tchap est là pour vous aider !
 
 ### Développement
 
@@ -72,7 +72,7 @@ Au cours du développement, il est possible de faire une demande d'aide en s'adr
 * Ajouter la team de la techno concernée au projet
 * Assigner la team en review d'une PR ou la mentionner au cours d'une discussion.
 
-Il est également possible de poser sa question dans les canaux dédiés sur Tchap (principalement [`Domaine-dev`](https://tchap.gouv.fr/#/room/!YWElGjXYMBwmlHeqeL:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr&via=agent.social.tchap.gouv.fr&via=agent.finances.tchap.gouv.fr) et [`Demandes-OPS`](https://tchap.gouv.fr/#/room/!VxFWdbcSlumKPvpVRP:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr))
+Il est également possible de poser sa question dans les canaux dédiés sur Tchap (principalement [`Domaine-dev`](https://tchap.gouv.fr/#/room/!YWElGjXYMBwmlHeqeL:agent.dinum.tchap.gouv.fr) et [`Demandes-OPS`](https://tchap.gouv.fr/#/room/!VxFWdbcSlumKPvpVRP:agent.dinum.tchap.gouv.fr))
 
 {% content-ref url="../../gerer-son-produit/gestion-au-quotidien/tech/support-tech.md" %}
 [support-tech.md](../../gerer-son-produit/gestion-au-quotidien/tech/support-tech.md)
@@ -84,4 +84,4 @@ Il est également possible de poser sa question dans les canaux dédiés sur Tch
 
 ### Déploiement (ou Business Development ou BizDev)
 
-Vous avez des questions au sujet du déploiement de votre solution? Vous souhaitez obtenir une mise en relation au prêt d'une personne en particulier? Vous ne savez pas quel CRM choisir? Venez discuter avec plus de 40 BizDev de la communauté beta.gouv sur la chaine Tchap [Domaine-bizdev](https://tchap.gouv.fr/#/room/!LYLjHbBZdxMBOORgaJ:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr)
+Vous avez des questions au sujet du déploiement de votre solution? Vous souhaitez obtenir une mise en relation au prêt d'une personne en particulier? Vous ne savez pas quel CRM choisir? Venez discuter avec plus de 40 BizDev de la communauté beta.gouv sur la chaine Tchap [Domaine-bizdev](https://tchap.gouv.fr/#/room/!LYLjHbBZdxMBOORgaJ:agent.dinum.tchap.gouv.fr)

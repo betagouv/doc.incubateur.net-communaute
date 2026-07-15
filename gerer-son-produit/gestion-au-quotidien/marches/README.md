@@ -214,4 +214,4 @@ Arrivée à cette étape, la prestation de l'équipe peut commencer !
 
 L'entreprise titulaire ne sera payée pour la prestation qu'après la certification par l'administration du service fait (partiel ou total). Pour en savoir plus sur les paiements, consulte la [documentation sur la facturation](https://doc.incubateur.net/communaute/gerer-son-produit/gestion-au-quotidien/budget/la-facturation-de-a-a-z).
 
-En cas de problème, contacte tes responsables d'incubateurs ou utilise la chaîne [_Entraide-communauté_](https://tchap.gouv.fr/#/room/!FznvyqtGVRlsGHcLVE:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr) sur Tchap.
+En cas de problème, contacte tes responsables d'incubateurs ou utilise la chaîne [_Entraide-communauté_](https://tchap.gouv.fr/#/room/!FznvyqtGVRlsGHcLVE:agent.dinum.tchap.gouv.fr) sur Tchap.

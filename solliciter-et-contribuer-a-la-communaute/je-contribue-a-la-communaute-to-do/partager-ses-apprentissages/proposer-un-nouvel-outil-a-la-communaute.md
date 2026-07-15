@@ -17,7 +17,7 @@ Je peux :
 
 Si un outil tiers disponible en "SAAS" est nécessaire à l'accomplissement de vos objectifs, vous devez vous assurer que celui-ci, ainsi que vos mentions légales respectent la réglementation (ex: RGPD).\
 \
-Renseignez-vous sur l'outil sur [le sanity check numericité](https://sanity-check.numericite.eu/) et n'hésitez pas à solliciter des avis juridiques sur [Domaine-Juridique](https://tchap.gouv.fr/#/room/!GfTqZorbbfSTzIBJCm:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr) sur Tchap.\
+Renseignez-vous sur l'outil sur [le sanity check numericité](https://sanity-check.numericite.eu/) et n'hésitez pas à solliciter des avis juridiques sur [Domaine-Juridique](https://tchap.gouv.fr/#/room/!GfTqZorbbfSTzIBJCm:agent.dinum.tchap.gouv.fr) sur Tchap.\
 \
 Dans tous les cas, vous devez :\
 \- informer clairement les usagers si vous recueillez des données personnelles.\
@@ -64,6 +64,6 @@ Les startup d’Etat sont financées par de l’argent public et ont pour but de
 * le premier étant un impératif légal ([loi CADA](https://www.cada.fr/connaitre-la-loi-cada) notamment), répondant aux règles des “documents administratifs” et de l’_open data_, obligeant à “ouvrir” toute donnée produite dans le cadre de la réalisation de la mission de service public . Par exemple, les codes sources ainsi développés pour créer des nouveaux services publics numériques répondent à ces obligations.
 * le second étant un impératif éthique, répondant aux règles édictées par la communauté beta.gouv sur l’ouverture, le partage et la valorisation des données publiques (voir le [Manifeste](https://beta.gouv.fr/approche/manifeste)).
 
-**Aussi, toujours selon ces principes, il est formellement interdit de se servir du cadre administratif des Startups d’Etat pour développer des projets personnels et privés, qu’ils aient une vocation commerciale ou non. En cas de doute ou pour toute question à ce sujet, n’hésitez pas à solliciter le canal [Domaine-Juridique](https://tchap.gouv.fr/#/room/!GfTqZorbbfSTzIBJCm:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr) sur Tchap.**\
+**Aussi, toujours selon ces principes, il est formellement interdit de se servir du cadre administratif des Startups d’Etat pour développer des projets personnels et privés, qu’ils aient une vocation commerciale ou non. En cas de doute ou pour toute question à ce sujet, n’hésitez pas à solliciter le canal [Domaine-Juridique](https://tchap.gouv.fr/#/room/!GfTqZorbbfSTzIBJCm:agent.dinum.tchap.gouv.fr) sur Tchap.**\
 \
 **Tout développement de produit devra être guidé par l’intérêt général et la mission de service public, et devra laisser son code en open source.**

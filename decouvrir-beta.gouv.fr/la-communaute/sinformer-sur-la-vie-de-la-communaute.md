@@ -13,7 +13,7 @@ description: >-
 
 **📨L'infolettre**
 
-Si tu es membre du réseau beta.gouv.fr, c'est à dire si tu possèdes une fiche membre, tu reçois un jeudi sur deux l'infolettre interne. Tu peux contribuer à cette infolettre grâce au pad qui est publié le lundi de la semaine d'envoi sur le canal [Général](https://tchap.gouv.fr/#/room/!lWPNmdvOrZYcrUSSSq:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr).
+Si tu es membre du réseau beta.gouv.fr, c'est à dire si tu possèdes une fiche membre, tu reçois un jeudi sur deux l'infolettre interne. Tu peux contribuer à cette infolettre grâce au pad qui est publié le lundi de la semaine d'envoi sur le canal [Général](https://tchap.gouv.fr/#/room/!lWPNmdvOrZYcrUSSSq:agent.dinum.tchap.gouv.fr).
 
 {% hint style="info" %}
 Tu peux consulter les anciennes infolettres sur l'[espace membre](https://espace-membre.incubateur.net/newsletters).

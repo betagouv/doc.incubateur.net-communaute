@@ -156,7 +156,7 @@ En complément, les coachs s'appuient également sur des compétences dans les d
 * **Culture produit et/ou connaissance de l'approche beta.gouv.fr :** bases théoriques sur le mode produit et les méthodes agiles ; capacité à comprendre et à transmettre l'approche beta.gouv.fr à l'intra.
 
 {% hint style="info" %}
-**Besoin d'aide pour affiner ou renforcer l'une de ces compétences ?** Tu peux participer [aux rituels et événements de la communauté](../../../decouvrir-beta.gouv.fr/la-communaute/les-rituels/) ou poser des questions sur le canal Tchap [Entraide-communauté](https://tchap.gouv.fr/#/room/!FznvyqtGVRlsGHcLVE:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr).
+**Besoin d'aide pour affiner ou renforcer l'une de ces compétences ?** Tu peux participer [aux rituels et événements de la communauté](../../../decouvrir-beta.gouv.fr/la-communaute/les-rituels/) ou poser des questions sur le canal Tchap [Entraide-communauté](https://tchap.gouv.fr/#/room/!FznvyqtGVRlsGHcLVE:agent.dinum.tchap.gouv.fr).
 {% endhint %}
 
 ***
