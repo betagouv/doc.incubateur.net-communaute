@@ -21,7 +21,6 @@ Lorsqu'un nouveau membre rejoint la communauté beta.gouv.fr et crée une fiche 
 
 * Salon [Général](https://tchap.gouv.fr/#/room/!lWPNmdvOrZYcrUSSSq:agent.dinum.tchap.gouv.fr), le canal où toute la communauté est présente, pour partager des infos collectives
 * Salon [Entraide-Communauté](https://tchap.gouv.fr/#/room/!FznvyqtGVRlsGHcLVE:agent.dinum.tchap.gouv.fr), le canal où toute la communauté est présente, pour s'entraider
- 
 * Salon [Annonces](https://tchap.gouv.fr/#/room/!opPGkbFkKlIySUyfyN:agent.dinum.tchap.gouv.fr), pour suivre les annonces et infos importantes de la communauté
 * Salon [Random](https://tchap.gouv.fr/#/room/!mjMJejXfZFiOczWRQY:agent.dinum.tchap.gouv.fr), pour parler de tout et de rien
 * \[à compléter au fil de l'eau]
