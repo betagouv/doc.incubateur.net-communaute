@@ -14,8 +14,8 @@ Comme pour tout citoyen la loi interdit toute forme d'expression à caractère d
 
 Tout type de harcèlement est prohibé par la loi :
 
-* Le harcèlement moral est défini à l’article L133-2 du _Code général de la fonction publique_ comme tout agissement répété qui a pour objet ou pour effet une dégradation des conditions de travail susceptible de porter atteinte à ses droits et à sa dignité, d’altérer sa santé physique ou mentale ou de compromettre son avenir professionnel.
-* Le harcèlement sexuel se caractérise par tout propos ou comportement à connotation sexuelle répété qui soit porte atteinte à la dignité d'une personne en raison de son caractère dégradant ou humiliant, soit crée à son encontre une situation intimidante, hostile ou offensante (article L133-1 du Code général de la fonction publique).
+- Le harcèlement moral est défini à l’article L133-2 du _Code général de la fonction publique_ comme tout agissement répété qui a pour objet ou pour effet une dégradation des conditions de travail susceptible de porter atteinte à ses droits et à sa dignité, d’altérer sa santé physique ou mentale ou de compromettre son avenir professionnel.
+- Le harcèlement sexuel se caractérise par tout propos ou comportement à connotation sexuelle répété qui soit porte atteinte à la dignité d'une personne en raison de son caractère dégradant ou humiliant, soit crée à son encontre une situation intimidante, hostile ou offensante (article L133-1 du Code général de la fonction publique).
 
 {% hint style="info" %}
 Si vous avez besoin d'aide concernant ce sujet, [vous pouvez utiliser notre guide](../../travailler-chez-beta.gouv.fr/vie-quotidienne-et-bien-etre/gerer-des-situations-comliquees/), [faire appel au groupe de soutien](../../travailler-chez-beta.gouv.fr/vie-quotidienne-et-bien-etre/gerer-des-situations-comliquees/le-groupe-de-soutien.md), [à l'équipe Animation & Expertise](https://doc.incubateur.net/communaute/nous-contacter/besoin-daide) et à [vos responsables d'incubateurs.](https://beta.gouv.fr/incubateurs/)
@@ -41,15 +41,12 @@ Par ailleurs, il est attendu de toutes et tous de participer à la bienveillance
 
 **La communauté doit être un espace sûr pour tous et toutes et nous portons une attention forte au respect des règles ci-dessus.** Parce que ce genre de comportement arrive souvent de manière non intentionnelle, chaque membre de la communauté est invité à faire preuve d’une confiance a priori et d’ouvrir la discussion avec la personne incriminée. Si une personne est rappelée à l’ordre sur l’un de ces points, il lui est suggéré de simplement en prendre note, remercier brièvement celle ou celui qui l’a rappelée à l’ordre, et ne pas chercher à se justifier.&#x20;
 
-Dans le cadre des activités et espaces gérés par [beta.gouv.fr](http://beta.gouv.fr) comme le Mattermost ou les forums ouverts, une modération peut être effectuée par la DINUM qui peut agir suite à signalement (à [animation@beta.gouv.fr](mailto:animation@beta.gouv.fr) ou directement au responsable du pôle animation et expertises de l’incubateur de la DINUM - [benjamin.doberset@beta.gouv.fr](mailto:benjamin.doberset@beta.gouv.fr)).
+Dans le cadre des activités et espaces gérés par [beta.gouv.fr](http://beta.gouv.fr) comme le Tchap ou les forums ouverts, une modération peut être effectuée par la DINUM qui peut agir suite à signalement (à [animation@beta.gouv.fr](mailto:animation@beta.gouv.fr).
 
-* Processus de modération
+- Processus de modération
   1. Documenter les faits reprochés (note, capture d’écran, etc.) ;
   2. Contacter la personne concernée, lui donner la possibilité de s'expliquer ;
   3. Si besoin, contacter un référent laïcité et déontologue, juridique et / ou RH et / ou achat.
   4. Décider de la mesure appropriée dans le cadre de la communauté [beta.gouv.fr](http://beta.gouv.fr) (exemple : rappel à l’ordre, suppression du message problématique, bannissement de l’espace ou de l’événement, dépôt de plainte).
   5. Informer la personne concernée de la sanction ;
   6. Conserver une trace écrite des faits reprochés et des mesures prises.
-
-
-

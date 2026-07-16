@@ -6,7 +6,7 @@ Ce temps peut être utilisé pour :
 
 * participer ou animer des formations ;
 * participer aux rituels de la communauté (forum mensuel, démos, etc.) ;
-* apporter de l'aide à la communauté (aide sur un outil, animation d'un groupe d'échange, réponses aux demandes sur Mattermost, etc.) ;
+* apporter de l'aide à la communauté (aide sur un outil, animation d'un groupe d'échange, réponses aux demandes sur Tchap, etc.) ;
 * Contribuer ou ajouter des tickets dans le [board 10% communauté](https://github.com/orgs/betagouv/projects/77);
 * toute autre action ou initiative qui a vocation à faire vivre et à nourrir la communauté.
 

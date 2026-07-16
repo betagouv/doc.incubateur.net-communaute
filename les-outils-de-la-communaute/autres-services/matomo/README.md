@@ -18,10 +18,10 @@ C'est un outil en ligne géré par beta.gouv.
 
 Plus d'infos sur le site officiel : [https://matomo.org](https://matomo.org)
 
-Des [plugins matomo premium](https://plugins.matomo.org/premium) peuvent être installés à la demande, n'hésitez pas à nous solliciter si besoin d'en ajouter ou configuration particulière : Pour en discuter, rdv dans [le canal de discussion dédié à Matomo](https://mattermost.incubateur.net/betagouv/channels/incubateur-matomo)
+Des [plugins matomo premium](https://plugins.matomo.org/premium) peuvent être installés à la demande, n'hésitez pas à nous solliciter si besoin d'en ajouter ou configuration particulière : Pour en discuter, rdv dans [le canal de discussion dédié à Matomo](https://tchap.gouv.fr/#/room/!TSafKvYjmneKPsplon:agent.dinum.tchap.gouv.fr)
 
-{% embed url="https://mattermost.incubateur.net/betagouv/channels/incubateur-matomo" %}
-Canal de discussion dédié à Matomo sur mattermost : incubateur-matomo
+{% embed url="https://tchap.gouv.fr/#/room/!TSafKvYjmneKPsplon:agent.dinum.tchap.gouv.fr %}
+Canal de discussion dédié à Matomo sur Tchap : Matomo
 {% endembed %}
 
 ### Matomo, comment ça marche ?

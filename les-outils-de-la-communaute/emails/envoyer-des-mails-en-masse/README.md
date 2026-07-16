@@ -8,7 +8,7 @@ N'envoie pas d'emails en masse depuis ta boîte mail beta.gouv.\
 
 L'envoi en masse peut lever des alertes chez nos fournisseurs d'infrastructure : en gros si tu abuses, tu risques de bloquer l'envoi de mails pour tous les copains !
 
-Il existe des services adaptés pour les envois en masse : [Brevo](../../autres-services/brevo.md), Mailjet, etc. Tu peux demander conseil sur le canal [Demandes-OPS sur Tchap](https://tchap.gouv.fr/#/room/!VxFWdbcSlumKPvpVRP:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr).
+Il existe des services adaptés pour les envois en masse : [Brevo](../../autres-services/brevo.md), Mailjet, etc. Tu peux demander conseil sur le canal [Demandes-OPS sur Tchap](https://tchap.gouv.fr/#/room/!VxFWdbcSlumKPvpVRP:agent.dinum.tchap.gouv.fr).
 
 * Assurez-vous de recueillir l'indispensable consentement explicite des personnes que vous ajoutez à vos bases de contacts
 * Purger régulièrement mes contacts (destinataires et abonnés des newsletters) en retirant des listes d’envoi les courriels des personnes qui se sont désabonnées

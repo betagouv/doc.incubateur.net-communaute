@@ -13,7 +13,7 @@ description: >-
 
 **📨L'infolettre**
 
-Si tu es membre du réseau beta.gouv.fr, c'est à dire si tu possèdes une fiche membre, tu reçois un jeudi sur deux l'infolettre interne. Tu peux contribuer à cette infolettre grâce au pad qui est publié le lundi de la semaine d'envoi sur le canal [#général](https://mattermost.incubateur.net/betagouv/channels/town-square).
+Si tu es membre du réseau beta.gouv.fr, c'est à dire si tu possèdes une fiche membre, tu reçois un mardi sur deux l'infolettre interne. Tu peux contribuer à cette infolettre grâce au Docs qui est publié le jeudi précédent sur le canal [Général](https://tchap.gouv.fr/#/room/!lWPNmdvOrZYcrUSSSq:agent.dinum.tchap.gouv.fr).
 
 {% hint style="info" %}
 Tu peux consulter les anciennes infolettres sur l'[espace membre](https://espace-membre.incubateur.net/newsletters).
@@ -31,9 +31,9 @@ Pour suivre facilement les événements qui réunissent la communauté beta.gouv
 [Mettre à jour l'agenda de beta.gouv.fr](https://airtable.com/appFH3S7oLMxliFaG/shrWvcUAOJqllVqtj)
 {% endhint %}
 
-<img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" data-size="line">**Mattermost**
+**Tchap**
 
-Mattermost est l'espace de travail virtuel principal du réseau beta.gouv.fr. La plupart des échanges y ont lieu, les événements et l'actualité de la communauté y sont relayés. Retrouve toutes les informations ci-dessous.
+Tchap est l'espace de travail virtuel principal du réseau beta.gouv.fr. La plupart des échanges y ont lieu, les événements et l'actualité de la communauté y sont relayés. Retrouve toutes les informations ci-dessous.
 
 <img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" data-size="line"> **Le compte LinkedIn beta.gouv.fr**
 
@@ -63,7 +63,137 @@ Certains incubateurs ont des espaces de discussion privés : dans ce cas, **tu p
 Tu travailles dans l'un de ces incubateurs ou tu occupes une fonction transverse ? Si une information a changé, tu peux modifier la page et/ou contacter l’équipe communication. Tu trouveras leurs coordonnées en bas de la page.
 {% endhint %}
 
-<table><thead><tr><th width="123">INCUBATEUR</th><th width="114">CANAUX</th><th width="114">STATUT</th><th>QUI CONTACTER</th></tr></thead><tbody><tr><td><strong>L’Incubateur de Services Numériques (DINUM)</strong></td><td><a href="https://www.tchap.gouv.fr/#/room/!vNsSJUMjAxtTEIDbqv:agent.dinum.tchap.gouv.fr">Tchap</a><br><br><a href="https://www.tchap.gouv.fr/#/room/!JVSlHHPaEXkbXdiPVb:agent.dinum.tchap.gouv.fr">Mattermost</a></td><td><p>Privé</p><p><br>Public</p></td><td>Marine Purson</td></tr><tr><td><strong>La Fabrique du Numérique et de l'Ecologie (MTE-MCT)</strong></td><td><a href="https://mattermost.incubateur.net/fabnum-mte/channels/town-square">Mattermost</a></td><td>Public</td><td></td></tr><tr><td><strong>L’Incubateur des Territoires (ANCT)</strong></td><td>Mattermost</td><td>Privé</td><td>Adrien Zemour</td></tr><tr><td><strong>La Fabrique Numérique du Ministère des armées</strong></td><td>Tchap</td><td>Privé</td><td>Thibault Desjardins</td></tr><tr><td><strong>Fabrique numérique des ministères sociaux</strong></td><td>Mattermost</td><td>Privé</td><td></td></tr><tr><td><strong>L'Opérateur des produits interministériels</strong></td><td>Tchap</td><td>Privé</td><td></td></tr><tr><td><strong>La Plateforme de l'inclusion</strong></td><td>Slack</td><td>Privé</td><td>Arnaud Denoix</td></tr><tr><td><strong>La Ruche du numérique (MASAF)</strong></td><td><a href="https://mattermost.incubateur.net/ruche/channels/incubateur-agriculture">Mattermost</a></td><td>Public</td><td></td></tr><tr><td><strong>L’Atelier Numérique du Ministère de la Culture</strong></td><td><a href="https://mattermost.incubateur.net/atnum/channels/town-square">Mattermost</a></td><td>Public</td><td></td></tr><tr><td><strong>L'Accélérateur de la transition écologique (ADEME)</strong></td><td><a href="https://mattermost.incubateur.net/betagouv/channels/incubateur-ademe-general">Mattermost</a></td><td>Public</td><td></td></tr><tr><td><strong>L'incubateur de la Justice</strong></td><td><a href="https://mattermost.incubateur.net/betagouv/channels/incubateur-lab-justice">Mattermost</a></td><td>Public</td><td></td></tr><tr><td><strong>La Fabrique du Numérique du Ministère de l'Intérieur</strong></td><td></td><td>Privé</td><td>Thibault Desjardins</td></tr><tr><td><strong>L'Incubateur France Travail</strong></td><td></td><td>Privé</td><td>Thibault Desjardins</td></tr><tr><td><strong>La Fabrique des Géo-communs</strong></td><td><a href="https://mattermost.incubateur.net/fab-geocommuns/channels/town-square">Mattermost</a></td><td>Public</td><td></td></tr><tr><td><strong>L’Atelier Numérique du Ministère de l’Europe et des Affaires Etrangères</strong></td><td><a href="https://mattermost.incubateur.net/betagouv/channels/incubateur-meae">Mattermost</a></td><td>Public</td><td></td></tr><tr><td><strong>Le Laboratoire de l'innovation de l'ANSSI</strong></td><td><a href="https://mattermost.incubateur.net/anssi/channels/town-square">Mattermost</a></td><td>Public</td><td></td></tr><tr><td><strong>Accélérema</strong></td><td>Mattermost</td><td>Privé</td><td>Adrien Zemour</td></tr><tr><td><strong>La Fabrique numérique des Finances publiques</strong></td><td>Tchap</td><td>Privé</td><td></td></tr><tr><td><strong>L'incubateur de l'Éducation nationale et de la Jeunesse</strong></td><td>Tchap</td><td>Privé</td><td>Clémence Lopez</td></tr></tbody></table>
+<table>
+  <thead>
+    <tr>
+      <th width="123">INCUBATEUR</th>
+      <th width="114">CANAUX</th>
+      <th width="114">STATUT</th>
+      <th>QUI CONTACTER</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>L’Incubateur de Services Numériques (DINUM)</strong></td>
+      <td>
+        <a href="https://www.tchap.gouv.fr/#/room/!vNsSJUMjAxtTEIDbqv:agent.dinum.tchap.gouv.fr">Tchap</a>
+      </td>
+      <td>
+        <p>Privé</p>
+        <p><br>Public</p>
+      </td>
+      <td>Marine Purson</td>
+    </tr>
+    <tr>
+      <td><strong>La Fabrique du Numérique et de l’Ecologie (MTE-MCT)</strong></td>
+      <td><a href="https://www.tchap.gouv.fr/#/room/!UnKGEqCUAIWWxpWgqN:agent.dinum.tchap.gouv.fr">Tchap</a></td>
+      <td>Public</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>L’Incubateur des Territoires (ANCT)</strong></td>
+      <td>Mattermost</td>
+      <td>Privé</td>
+      <td>Adrien Zemour</td>
+    </tr>
+    <tr>
+      <td><strong>La Fabrique Numérique du Ministère des armées</strong></td>
+      <td>Tchap</td>
+      <td>Privé</td>
+      <td>Thibault Desjardins</td>
+    </tr>
+    <tr>
+      <td><strong>Fabrique numérique des ministères sociaux</strong></td>
+      <td>Mattermost</td>
+      <td>Privé</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>L’Opérateur des produits interministériels</strong></td>
+      <td>Tchap</td>
+      <td>Privé</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>La Plateforme de l’inclusion</strong></td>
+      <td>Slack</td>
+      <td>Privé</td>
+      <td>Arnaud Denoix</td>
+    </tr>
+    <tr>
+      <td><strong>La Ruche du numérique (MASA)</strong></td>
+      <td><a href="https://www.tchap.gouv.fr/#/room/!qVfBUjbepueSrwwEsk%3Aagent.dinum.tchap.gouv.fr">Tchap</a></td>
+      <td>Public</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>L’Atelier Numérique du Ministère de la Culture</strong></td>
+      <td><a href="https://tchap.gouv.fr/#/room/#LAtelierNumriqueduMinistredelaCulture4yPfjh4rWZx:agent.dinum.tchap.gouv.fr">Tchap</a></td>
+      <td>Public</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>L’Accélérateur de la transition écologique (ADEME)</strong></td>
+      <td>Mattermost</td>
+      <td>Privé</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>L’incubateur de la Justice</strong></td>
+      <td><a href="https://tchap.gouv.fr/#/room/!NzTRqEEzHVMpazzHjW:agent.justice.tchap.gouv.fr">Tchap</a></td>
+      <td>Public</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>La Fabrique du Numérique du Ministère de l’Intérieur</strong></td>
+      <td></td>
+      <td>Privé</td>
+      <td>Thibault Desjardins</td>
+    </tr>
+    <tr>
+      <td><strong>L’Incubateur France Travail</strong></td>
+      <td></td>
+      <td>Privé</td>
+      <td>Thibault Desjardins</td>
+    </tr>
+    <tr>
+      <td><strong>La Fabrique des Géo-communs</strong></td>
+      <td>Mattermost</td>
+      <td>Public</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>L’Atelier Numérique du Ministère de l’Europe et des Affaires Etrangères</strong></td>
+      <td>Mattermost</td>
+      <td>Public</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>Le Laboratoire de l’innovation de l’ANSSI</strong></td>
+      <td>Mattermost</td>
+      <td>Public</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>Accélérema</strong></td>
+      <td>Mattermost</td>
+      <td>Privé</td>
+      <td>Adrien Zemour</td>
+    </tr>
+    <tr>
+      <td><strong>La Fabrique numérique des Finances publiques</strong></td>
+      <td>Tchap</td>
+      <td>Privé</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>L’incubateur de l’Éducation nationale et de la Jeunesse</strong></td>
+      <td>Tchap</td>
+      <td>Privé</td>
+      <td>Clémence Lopez</td>
+    </tr>
+  </tbody>
+</table>
 
 </details>
 
@@ -73,7 +203,7 @@ Tu travailles dans l'un de ces incubateurs ou tu occupes une fonction transverse
 
 Si tu as besoin de transmettre une information à l’ensemble des incubateurs (par ex. pour proposer un outil), tu peux t’adresser aux responsables transverses.
 
-Il existe un canal Tchap et une mailing list qui regroupent l’ensemble de ces personnes. Pour leur partager une info, contacte **Marine Purson** sur [**Mattermost**](https://mattermost.incubateur.net/betagouv/messages/@marine.purson) **ou** [**Tchap**](https://www.tchap.gouv.fr/#/room/!GWxBzwzidAUwLMkaps:agent.dinum.tchap.gouv.fr).
+Il existe un canal Tchap et une mailing list qui regroupent l’ensemble de ces personnes. Pour leur partager une info, contacte **Marine Purson** [**directement**](https://tchap.gouv.fr/#/user/@marine.purson-beta.gouv.fr:agent.dinum.tchap.gouv.fr) **ou sur le canal** [**Tchap**](https://www.tchap.gouv.fr/#/room/!GWxBzwzidAUwLMkaps:agent.dinum.tchap.gouv.fr).
 
 </details>
 
@@ -92,5 +222,5 @@ Les comptes mentionnés peuvent également être utilisés dans le cadre de comm
 {% hint style="info" %}
 **Une question sur la communication chez beta.gouv.fr ?**
 
-Tu peux poser ta question sur le canal Mattermost [\~incubateur-com ](https://mattermost.incubateur.net/betagouv/channels/incubateur-com)ou contacter à tout moment l’équipe transverse de communication sur Mattermost :[ @marine.purson](https://mattermost.incubateur.net/betagouv/messages/@marine.purson) ou [@divine.tende.dibayula](https://mattermost.incubateur.net/betagouv/messages/@divine.tende.dibayula)
+Tu peux poser ta question sur le canal Tchap [Entraide-communauté](https://tchap.gouv.fr/#/room/!FznvyqtGVRlsGHcLVE:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr) ou contacter à tout moment l’équipe transverse de communication : [Marine Purson](https://tchap.gouv.fr/#/user/@marine.purson-beta.gouv.fr:agent.dinum.tchap.gouv.fr) ou [Divine Tende Dibayula](https://tchap.gouv.fr/#/user/@divine.tende.dibayula-beta.gouv.fr:agent.dinum.tchap.gouv.fr).
 {% endhint %}

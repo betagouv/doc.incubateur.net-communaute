@@ -7,7 +7,7 @@
 {% endhint %}
 
 {% hint style="danger" %}
-Si vous extrayez un mot de passe, le sauvegardez sur disque ou le transmettez via un canal non sécurisé (ex: mattermost), considérez ce mot de passe comme corrompu à jamais et renouvelez-le.
+Si vous extrayez un mot de passe, le sauvegardez sur disque ou le transmettez via un canal non sécurisé (ex: Tchap non chiffré), considérez ce mot de passe comme corrompu à jamais et renouvelez-le.
 {% endhint %}
 
 ### Rappel : les mots de passes sur Dashlane

@@ -40,5 +40,5 @@ Et voilà, les changements apparaîtront sur le site beta.gouv.fr dans les 24h.
 Tu pourras également ajouter un visuel à ta fiche produit.
 
 {% hint style="info" %}
-Besoin d'aide ? N'hésite pas à demander un coup de main aux personnes de ton équipe, ou d'un ou d'une collègue. Tu peux aussi solliciter l'aide de la communauté sur le canal [\~incubateur-entraide-communauté](https://mattermost.incubateur.net/betagouv/channels/incubateur-help) si tu accèdes encore à Mattermost.
+Besoin d'aide ? N'hésite pas à demander un coup de main aux personnes de ton équipe, ou d'un ou d'une collègue. Tu peux aussi solliciter l'aide de la communauté sur le canal [Entraide-communauté](https://tchap.gouv.fr/#/room/!FznvyqtGVRlsGHcLVE:agent.dinum.tchap.gouv.fr) sur Tchap.
 {% endhint %}

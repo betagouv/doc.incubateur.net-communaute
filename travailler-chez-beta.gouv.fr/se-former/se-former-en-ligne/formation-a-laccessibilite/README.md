@@ -10,7 +10,7 @@ Le [calendrier des prochaines sessions](https://espace-membre.incubateur.net/for
 Contact :
 
 * Par **email** : [accessibilite@beta.gouv.fr](mailto:accessibilite@beta.gouv.fr)
-* Sur **Mattermost**, dans le canal [#domaine-accessibilité](https://mattermost.incubateur.net/betagouv/channels/c015lnmttj9)
+* Sur **Tchap**, dans le canal [Domaine-Accessibilité](https://tchap.gouv.fr/#/room/!dTRhRuVyhSJECfbjFk:agent.dinum.tchap.gouv.fr)
 {% endhint %}
 
 > C’était super clair, et avec des ressources pour mettre en œuvre le tout, merci beaucoup ! »

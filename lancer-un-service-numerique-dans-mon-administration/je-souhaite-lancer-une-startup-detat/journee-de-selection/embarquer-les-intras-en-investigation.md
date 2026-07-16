@@ -50,7 +50,7 @@ _Proposition de format type pour la journée de lancement :_
     * Présentation des membres transverses comme ressource
   * Après-midi : 1ère session coach/intra
     * Création fiche membre beta
-    * Accès mattermost
+    * Accès Tchap
     * Accès à un espace de stockage et partage de docs (Résana, Drive, etc.)
 
 {% hint style="success" %}
@@ -60,9 +60,9 @@ Proposez aux intrapreneur·e·s qui font leur retour d'expérience d'être en so
 {% endhint %}
 
 {% hint style="danger" %}
-**Embarquement mattermost**
+**Embarquement Tchap**
 
-Privilégiez la création de canaux dédiés à la promo et de canaux privés pour chacune des investigations. Le mattermost de beta est un espace très riche mais attention à ne pas surcharger d'info les nouveaux intras. Libres à eux d'explorer par la suite s'ils le souhaitent.&#x20;
+Privilégiez la création de canaux dédiés à la promo et de canaux privés pour chacune des investigations. Le Tchap de beta est un espace très riche mais attention à ne pas surcharger d'info les nouveaux intras. Libres à eux d'explorer par la suite s'ils le souhaitent.&#x20;
 {% endhint %}
 
 Il est également conseillé à la personne animant la journée de lancement d'effectuer un ROTI et d'envoyer un questionnaire de satisfaction pour savoir quoi améliorer.

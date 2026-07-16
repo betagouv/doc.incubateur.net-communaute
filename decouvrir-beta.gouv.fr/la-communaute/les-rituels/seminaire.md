@@ -48,4 +48,4 @@ Quelques exemples de sujets qui ont été abordés lors des derniers forums :
 * Quels outils pour passer à l'échelle ?
 * Comment convaincre mon administration de transformer ses pratiques ?
 
-Nous encourageons la nomination d'un·e **scribe** volontaire dans chacun des ateliers, qui peut prendre des notes dans un [pad](../../../jutilise-les-outils-de-la-communaute/pad.md) et les partager, par exemple, dans l'espace Mattermost le plus adéquat.
+Nous encourageons la nomination d'un·e **scribe** volontaire dans chacun des ateliers, qui peut prendre des notes dans un [pad](../../../jutilise-les-outils-de-la-communaute/pad.md) et les partager, par exemple, dans l'espace Tchap le plus adéquat.

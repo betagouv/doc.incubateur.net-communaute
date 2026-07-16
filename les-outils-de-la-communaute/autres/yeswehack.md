@@ -31,10 +31,10 @@ rémunération des hackeurs éthiques, la DINUM utilise la plateforme YesWeHack.
 
 Si une vulnérabilité est identifiée sur votre périmètre :
 
-* Tu recevras une invitation par e-mail de la part de YesWeHack à créer un
+- Tu recevras une invitation par e-mail de la part de YesWeHack à créer un
   compte sur leur plateforme pour pouvoir accéder de manière sécurisée au
   rapport de vulnérabilité.
-* Tu seras aussi invité sur un canal Mattermost privé nommé selon
+- Tu seras aussi invité sur un canal Tchap privé nommé selon
   l'identifiant de la vulnérabilité `YWH-PGMXXXX-XX` pour le suivi de la
   vulnérabilité en interne.
 

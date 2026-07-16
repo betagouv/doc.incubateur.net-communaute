@@ -81,7 +81,7 @@ Le passage à un CRM devient pertinent quand le suivi devient difficile : relanc
 
 Le démarrage est parfois inconfortable : ne restez pas bloqué·e
 
-* Posez vos questions et demandez des retours sur vos choix (cibles, canaux, CRM, tracking) sur le Mattermost, canal `#`domaine-bizdev..
+* Posez vos questions et demandez des retours sur vos choix (cibles, canaux, CRM, tracking) sur Tchap, canal [Domaine-bizdev](https://tchap.gouv.fr/#/room/!LYLjHbBZdxMBOORgaJ:agent.dinum.tchap.gouv.fr).
 * En cas de doute sur une stratégie ou un arbitrage, demandez un **regard extérieur** (diagnostic : méthode, produit, ou moyens).
 
 </details>

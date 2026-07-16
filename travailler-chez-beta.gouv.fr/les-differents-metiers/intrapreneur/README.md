@@ -41,9 +41,9 @@ Depuis 2025, une équipe est dédiée à l'accompagnement des intras et à l'ani
 
 N'hésitez pas à les solliciter !
 
-### Un canal sur Mattermost
+### Des canaux dédiés aux intras
 
-Pour échanger entre intras ou avec les intras, il existe un canal public : [\~domaine-intrapreneurs](https://mattermost.incubateur.net/betagouv/channels/domaine-intrapreneurs)
+Pour échanger entre intras ou avec les intras, il existe un canal public : [Domaine-intras](https://tchap.gouv.fr/#/room/!AdOsEgKcBcmTVsXFOf:agent.dinum.tchap.gouv.fr) (sur Tchap)
 
 Pour échanger entre intras, il existe un canal privé : [\~domaine-intras-privé](https://mattermost.incubateur.net/betagouv/channels/domaine-intras-prive) (accessible sur invitation : demandez à Magali Marcel-Garreau ou Marine Purson)
 
@@ -51,7 +51,7 @@ Pour échanger entre intras, il existe un canal privé : [\~domaine-intras-priv�
 
 Un club intras a lieu a chaque forum mensuel de la communauté beta.gouv.fr. Pour connaitre la date, il suffit de consulter l'[agenda ](http://messagerie.numerique.gouv.fr/appsuite/api/share/0366722a002da2b9366722802da84e5eb694970c9c989a65/1/2/Y2FsOi8vMC8yMjczNA)public de la communauté.
 
-Vous serez également prévenu via Mattermost et directement invité à l'occurrence agenda.
+Vous serez également prévenu via Tchap et directement invité à l'occurrence agenda.
 
 ### L'accompagnement des carrières des intras
 

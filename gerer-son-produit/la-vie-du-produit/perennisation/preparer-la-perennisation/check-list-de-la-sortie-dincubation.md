@@ -22,7 +22,7 @@ Un service sorti d'incubation répond à deux principaux critères qui vont ense
 ### **👥 Équipe**
 
 * Les membres de l'équipe obtiennent **une adresse mail pérenne** (non fournie par [beta.gouv.fr](http://beta.gouv.fr)) après la consolidation.
-  * Les alumni restent bienvenus dans les événements de la communauté [beta.gouv.fr](http://beta.gouv.fr) (notamment Forum) et peuvent continuer à avoir un accès au Mattermost.
+  * Les alumni restent bienvenus dans les événements de la communauté [beta.gouv.fr](http://beta.gouv.fr) (notamment Forum).
 * Le **pilotage de l'équipe** et les membres de l'équipe sont, autant que possible, internalisés.
   * Selon la DINUM, les prestataires de longue durée (développement, maintenance, déploiement, gestion de produit etc) coûtent de 25 à 40% plus cher à l'État qu'en internalisant la compétence.
   * Depuis 2023, l'obtention d'ETP est facilitée pour la réinternalisation de compétences numériques. Documentation : [circulaire n°6391-SG de février 2023 relative au pilotage et encadrement du recours aux prestations intellectuelles informatique](https://www.legifrance.gouv.fr/circulaire/id/45407?origin=list)

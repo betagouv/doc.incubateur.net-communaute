@@ -58,9 +58,9 @@ Si vous souhaitez contribuer activement à la veille sur les fuites de données 
 #### Comment traiter un ticket Git Guardian ?
 
 * Seuls les tickets dont le statut est à Triggered sont à traiter. Les tickets de sévérité élevée (de critical à unknown) doivent être traités en premier, puis les plus récents en premier.
-* Une fois le ticket choisi, vérifier que personne n'a déjà traité le sujet : parcourez les messages postés sur le channel Mattermost \~domaine-secu depuis la date de la fuite, et vérifiez que personne n'a encore prévenu l'équipe concernée.
+* Une fois le ticket choisi, vérifier que personne n'a déjà traité le sujet : parcourez les messages postés sur le canal Tchap [Domaine-Secu](https://tchap.gouv.fr/#/room/!XPllVpJRcpZCaSiaXW:agent.dinum.tchap.gouv.fr) depuis la date de la fuite, et vérifiez que personne n'a encore prévenu l'équipe concernée.
 * Si personne n'a prévenu l'équipe, copiez le lien de partage de votre alerte sur GitGuardian (cliquer sur le rapport de l'incident > aller à "Collect feedback" dans le menu de droite, paragraphe Sharing > activer le Incident is not shared)
-* Rejoignez le canal de l'équipe sur Mattermost, et postez ce lien de feedback, avec un message comme celui-ci :
+* Rejoignez le canal de l'équipe sur Tchap, et postez ce lien de feedback, avec un message comme celui-ci :
 
 > :wave: Gestion du backlog Git Guardian:wave:
 >
@@ -68,4 +68,4 @@ Si vous souhaitez contribuer activement à la veille sur les fuites de données 
 >
 > \{{Liens vers les alertes Git Guardian\}}
 
-* Prévenez sur \~domaine-secu que vous avez informé l'équipe, en précisant la date butoir à laquelle l'équipe doit avoir rempli le feedback.
+* Prévenez sur [Domaine-Secu](https://tchap.gouv.fr/#/room/!XPllVpJRcpZCaSiaXW:agent.dinum.tchap.gouv.fr) que vous avez informé l'équipe, en précisant la date butoir à laquelle l'équipe doit avoir rempli le feedback.

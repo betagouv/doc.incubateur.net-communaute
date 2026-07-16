@@ -64,7 +64,7 @@ Cette certification est entièrement financée par beta.gouv.fr pour tous les in
 
 ### 1- Inscription
 
-Tous les 6 mois, nous lançons une nouvelle session de certification. Le lien d'inscription est renseigné sur le canal Général de Mattermost ou dans [l'infolettre interne de la communauté](../../../../decouvrir-beta.gouv.fr/la-communaute/sinformer-sur-la-vie-de-la-communaute.md).
+Tous les 6 mois, nous lançons une nouvelle session de certification. Le lien d'inscription est renseigné sur le canal Général de Tchap ou dans [l'infolettre interne de la communauté](../../../../decouvrir-beta.gouv.fr/la-communaute/sinformer-sur-la-vie-de-la-communaute.md).
 
 Si tu souhaites être recontacté(e) pour la prochaine session, tu peux envoyer un mail à contact@beta.gouv.fr.
 
@@ -108,5 +108,5 @@ beta.gouv.fr propose d'officialiser cette certification aux administrations des 
 En informant le DRH et la hiérarchie de l'intra, ces compétences seront valorisées dans le dossier personnel et lors de l'entretien d'évaluation annuel.
 
 {% hint style="info" %}
-Tu peux poser toutes tes questions sur [le salon Mattermost dédié aux intras ](https://mattermost.incubateur.net/betagouv/channels/domaine-intrapreneurs)ou à contact@beta.gouv.fr .
+Tu peux poser toutes tes questions sur [le salon Tchap dédié aux intras](https://tchap.gouv.fr/#/room/!AdOsEgKcBcmTVsXFOf:agent.dinum.tchap.gouv.fr) ou à contact@beta.gouv.fr .
 {% endhint %}

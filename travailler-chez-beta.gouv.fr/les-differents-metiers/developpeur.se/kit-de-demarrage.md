@@ -9,7 +9,7 @@ description: >-
 
 L'objectif des 6 premiers mois est d'**avoir de l'impact sur au moins un usager**, en écrivant du code de qualité en terme d'accessibilité (front), sécurité (back) et données utilisateurs (RGPD).
 
-La communauté beta.gouv est composée de **près de 300 développeur et développeuses qui peuvent t'aider à monter à bord** ! Assure toi que tu as bien rejoins le canal [`Domaine-dev`](https://tchap.gouv.fr/#/room/!RZYCMTpOqgMrCofbMs:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr&via=agent.social.tchap.gouv.fr&via=agent.finances.tchap.gouv.fr) sur Tchap, et n'hésite pas à y faire coucou quand tu arrives 👋 !
+La communauté beta.gouv est composée de **près de 300 développeur et développeuses qui peuvent t'aider à monter à bord** ! Assure toi que tu as bien rejoins le canal [`Domaine-dev`](https://tchap.gouv.fr/#/room/!YWElGjXYMBwmlHeqeL:agent.dinum.tchap.gouv.fr) sur Tchap, et n'hésite pas à y faire coucou quand tu arrives 👋 !
 
 ## Faut-il commencer à coder dès le début ?
 

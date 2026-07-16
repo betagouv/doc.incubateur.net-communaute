@@ -247,5 +247,5 @@ Intégrer l'accessibilité dans ton équipe :
 [Guide des impacts utilisateurs des défauts d'accessibilité](http://disic.github.io/guide-impacts_utilisateurs)
 
 {% hint style="success" %}
-Envie d'être accompagné ? Faisons cet atelier ensemble avec votre équipe ! Contactez-nous sur [#domaine-accessibilité](https://mattermost.incubateur.net/betagouv/channels/c015lnmttj9)
+Envie d'être accompagné ? Faisons cet atelier ensemble avec votre équipe ! Contactez-nous sur [Domaine-Accessibilité](https://tchap.gouv.fr/#/room/!dTRhRuVyhSJECfbjFk:agent.dinum.tchap.gouv.fr) sur Tchap.
 {% endhint %}

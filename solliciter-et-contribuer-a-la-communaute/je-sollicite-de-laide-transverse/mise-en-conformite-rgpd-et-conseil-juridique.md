@@ -7,7 +7,7 @@ Bien sûr pour toute question de nature juridique, vous pouvez vous tourner vers
 Mais vous pouvez aussi vous tourner :
 
 * vers des coachs, experts en conformité (via le marché)
-* vers des pairs dans la communauté (qui ont peut-être rencontré les mêmes problèmes que vous) via le channel mattermost [#domaine-juridique](https://mattermost.incubateur.net/betagouv/channels/domaine-juridique).
+* vers des pairs dans la communauté (qui ont peut-être rencontré les mêmes problèmes que vous) via le canal Tchap [Domaine-Juridique](https://tchap.gouv.fr/#/room/!GfTqZorbbfSTzIBJCm:agent.dinum.tchap.gouv.fr).
 
 ### Quelles sont les options ?
 
@@ -46,7 +46,7 @@ La DINUM propose également régulièrement des sessions de formation à la conf
 
 **Comment solliciter ces prestations ?**
 
-* ateliers collectifs ponctuels (format court ou long) -> le contact actuel du prestataire est Thomas Menant, de Numéricité, entreprise sous-traitante (thomas.menant.ext@beta.gouv.fr ou [#domaine-juridique](https://mattermost.incubateur.net/betagouv/channels/domaine-juridique))
+* ateliers collectifs ponctuels (format court ou long) -> le contact actuel du prestataire est Thomas Menant, de Numéricité, entreprise sous-traitante (thomas.menant.ext@beta.gouv.fr ou [Domaine-Juridique](https://tchap.gouv.fr/#/room/!GfTqZorbbfSTzIBJCm:agent.dinum.tchap.gouv.fr) sur Tchap)
 * formations RGPD -> inscriptions aux sessions planifiées par la DINUM et proposées sur l'[espace membre](https://espace-membre.incubateur.net/formations?filter=)
 
 

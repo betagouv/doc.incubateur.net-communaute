@@ -56,7 +56,7 @@ _La transparence est une valeur cruciale qui permet de construire des produits d
 {% endtab %}
 
 {% tab title="Les bonnes pratiques 👌" %}
-* [ ] Je partage les avancées hebdomadaires de mon équipe de manière publique sur Mattermost et au standup de beta
+* [ ] Je partage les avancées hebdomadaires de mon équipe de manière publique sur Tchap et au standup de beta
 {% endtab %}
 {% endtabs %}
 

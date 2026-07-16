@@ -38,7 +38,7 @@ Un DashLord est un tableau de bord. Il permet de situer sa Startup d'État ou de
 * **Pour avoir une vision technique d'ensemble** du pool de Startups d'État.
 
 {% hint style="info" %}
-**Rejoindre le canal de discussion :** [**\~incubateur-dashlord**](https://mattermost.incubateur.net/betagouv/channels/incubateur-dashlord)
+**Rejoindre le canal de discussion :** [**DashLord**](https://tchap.gouv.fr/#/room/!kyRZEnIsSGLfGJToFg:agent.dinum.tchap.gouv.fr) (sur Tchap)
 {% endhint %}
 
 ## En savoir plus

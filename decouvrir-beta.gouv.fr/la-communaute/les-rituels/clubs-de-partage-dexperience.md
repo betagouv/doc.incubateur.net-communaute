@@ -17,11 +17,11 @@ Toutes les informations relatives à ses clubs sont présentes en entête des ca
 #### Les différents clubs au rdv :
 
 * responsables d'incubateur
-* [intrapreneur·se·s](https://mattermost.incubateur.net/betagouv/channels/domaine-intrapreneurs)
-* [chargé(e)s de déploiement](https://mattermost.incubateur.net/betagouv/channels/incubateur-bizdev)
-* [designer](https://mattermost.incubateur.net/betagouv/channels/domaine-design)
-* [coach](https://mattermost.incubateur.net/betagouv/channels/incubateur-coaching)
-* [dev](https://tchap.gouv.fr/#/room/!RZYCMTpOqgMrCofbMs:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr&via=agent.social.tchap.gouv.fr&via=agent.finances.tchap.gouv.fr)
+* [intrapreneur·se·s](https://tchap.gouv.fr/#/room/!AdOsEgKcBcmTVsXFOf:agent.dinum.tchap.gouv.fr)
+* [chargé(e)s de déploiement](https://tchap.gouv.fr/#/room/!LYLjHbBZdxMBOORgaJ:agent.dinum.tchap.gouv.fr)
+* [designer](https://tchap.gouv.fr/#/room/!jnSMMXbKZBIAEtfwRu:agent.dinum.tchap.gouv.fr)
+* [coach](https://tchap.gouv.fr/#/room/!MDSecXMtSqsjTQfoML:agent.dinum.tchap.gouv.fr)
+* [dev](https://tchap.gouv.fr/#/room/!YWElGjXYMBwmlHeqeL:agent.dinum.tchap.gouv.fr)
 
 Ton métier n'a pas encore de club ? N'hésite pas à le proposer au prochain forum et à l'ajouter [à l'agenda public](https://doc.incubateur.net/communaute/les-outils-de-la-communaute/agenda-de-la-communaute).
 
