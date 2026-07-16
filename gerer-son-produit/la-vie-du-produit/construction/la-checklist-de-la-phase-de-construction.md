@@ -46,7 +46,7 @@ _La transparence est une valeur cruciale qui permet de construire des produits d
 
 {% tab title="Les bonnes pratiques 👌" %}
 * [ ] La mesure de mon impact sur ma page stat est automatisée
-* [ ] Je partage les avancées hebdomadaires de mon équipe de manière publique sur Tchap et au standup de beta
+* [ ] Je partage les avancées de mon équipe de manière publique sur Tchap ou au standup du forum beta.gouv.fr
 {% endtab %}
 {% endtabs %}
 
