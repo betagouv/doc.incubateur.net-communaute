@@ -60,6 +60,5 @@ Pour résumer, et même si cela semble trivial, le GH est le plus utile pour une
 * Ateliers collectifs en visio tous les mois. 👉 [**Plus de 20h en replay ici**](../../travailler-chez-beta.gouv.fr/se-former/se-former-en-ligne/deploiement/les-principes-du-growth-hacking/)
 * Aide au recrutement d'un.e Growth Hacker ou d'un Bizdev.
 
-## Comment demander de l'aide sur la croissance de votre produit ?
 
 Sur Tchap, ou par mail : **chaib.martinez@beta.gouv.fr**
