@@ -222,5 +222,5 @@ Les comptes mentionnés peuvent également être utilisés dans le cadre de comm
 {% hint style="info" %}
 **Une question sur la communication chez beta.gouv.fr ?**
 
-Tu peux poser ta question sur le canal Mattermost [\~incubateur-com ](https://mattermost.incubateur.net/betagouv/channels/incubateur-com)ou contacter à tout moment l’équipe transverse de communication :[ Marine Purson](https://tchap.gouv.fr/#/user/@marine.purson-beta.gouv.fr:agent.dinum.tchap.gouv.fr) (sur Tchap) ou [Divine Tende Dibayula](https://tchap.gouv.fr/#/user/@divine.tende.dibayula-beta.gouv.fr:agent.dinum.tchap.gouv.fr) (sur Tchap)
+Tu peux poser ta question sur le canal Tchap [Entraide-communauté](https://tchap.gouv.fr/#/room/!FznvyqtGVRlsGHcLVE:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr) ou contacter à tout moment l’équipe transverse de communication : [Marine Purson](https://tchap.gouv.fr/#/user/@marine.purson-beta.gouv.fr:agent.dinum.tchap.gouv.fr) ou [Divine Tende Dibayula](https://tchap.gouv.fr/#/user/@divine.tende.dibayula-beta.gouv.fr:agent.dinum.tchap.gouv.fr).
 {% endhint %}
