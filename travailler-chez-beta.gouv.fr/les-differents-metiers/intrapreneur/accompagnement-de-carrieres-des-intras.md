@@ -22,7 +22,7 @@ Nous offrons une offre de soutien aux intras qui rencontrent des problématiques
 - Un soutien RH pour les problèmes liés à l'administration (courriers de soutien, saisine de la DRH du numérique)
 
 {% hint style="info" %}
-Pour bénéficier de l'aide aux intras en difficulté, contacter marine.purson@beta.gouv.fr, magali.marcel@beta.gouv.fr ou amel.alili@beta.gouv.fr
+Pour bénéficier de l'aide aux intras en difficulté, contacter marine.purson@beta.gouv.fr, magali.marcel@beta.gouv.fr ou nicolas.tourneur@beta.gouv.fr
 {% endhint %}
 
 ## Valoriser l'expérience intrapreneuriale
