@@ -61,4 +61,3 @@ Pour résumer, et même si cela semble trivial, le GH est le plus utile pour une
 * Aide au recrutement d'un.e Growth Hacker ou d'un Bizdev.
 
 
-Sur Tchap, ou par mail : **chaib.martinez@beta.gouv.fr**
