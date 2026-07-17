@@ -16,4 +16,4 @@ Ce guide est éditable via Gitbook par l'ensemble de la communauté. Chaque memb
 
 ## Créer de la documentation pour son produit
 
-Pour lancer un guide en ligne, vous pouvez vous renseigner sur le salon Mattermost : #incubateur-documentation.
+Pour lancer un guide en ligne, vous pouvez vous renseigner sur le salon [Entraide-communauté sur Tchap](https://tchap.gouv.fr/#/room/!FznvyqtGVRlsGHcLVE:agent.dinum.tchap.gouv.fr).

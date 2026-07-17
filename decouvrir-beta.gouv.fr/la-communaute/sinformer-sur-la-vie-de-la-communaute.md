@@ -43,7 +43,7 @@ Pour suivre l'actualité externe de la communauté et du programme beta.gouv.fr,
 
 Le Tube est la plateforme vidéo de la DINUM sur laquelle il existe une chaîne beta.gouv.fr. Elle est conçue pour valoriser les activités et les services de la communauté. Tu peux y retrouver des vidéos des derniers événements, des démos produits...
 
-Besoin d'héberger une vidéo sur ton service ? C'est possible : contacte nous sur [incubateur-com](https://mattermost.incubateur.net/betagouv/channels/incubateur-com).
+Besoin d'héberger une vidéo sur ton service ? C'est possible : contacte nous sur [Entraide-communauté sur Tchap](https://tchap.gouv.fr/#/room/!FznvyqtGVRlsGHcLVE:agent.dinum.tchap.gouv.fr).
 
 {% hint style="info" %}
 [Découvrir la chaîne Tube de beta.gouv.fr](https://tube.numerique.gouv.fr/c/animation_beta/videos?s=1)

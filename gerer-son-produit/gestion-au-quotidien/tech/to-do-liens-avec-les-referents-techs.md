@@ -2,10 +2,10 @@
 
 Une équipe tech transverse existe au sein de l'incubateur de la DINUM. Son rôle est de s'assurer que les devs de la communauté puissent contribuer dans les meilleurs conditions et dans [le respect des standards beta.gouv.fr.](../../les-standards/)
 
-* [Julien Bouquillon](mailto:julien.bouquillon@beta.gouv.fr) (Responsable technique communauté)
-* [Stéphane Maniaci](mailto:stephane.maniaci@beta.gouv.fr) (Lead dev, Responsable qualité logicielle)
+- [Julien Bouquillon](mailto:julien.bouquillon@beta.gouv.fr) (Responsable technique communauté)
+- [Stéphane Maniaci](mailto:stephane.maniaci@beta.gouv.fr) (Lead dev, Responsable qualité logicielle)
 
-Chaque fabrique dispose (ou pas) d'un(e) référent tech que vous pouvez solliciter pour vos besoin spécifiques. Ils sont disponibles sur mattermost ou Tchap.
+Chaque fabrique dispose (ou pas) d'un(e) référent tech que vous pouvez solliciter pour vos besoin spécifiques. Ils sont disponibles sur Tchap.
 
 <table><thead><tr><th width="285">Incubateur</th><th>référent(e)s</th></tr></thead><tbody>
   <tr><td>La ruche numérique MASA (Agriculture)</td><td><a href="mailto:denis.baudot@beta.gouv.fr">Denis Baudot</a></td></tr>

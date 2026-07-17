@@ -51,5 +51,5 @@ Le badge doit obligatoirement être rendu aux services RH de la DINUM ou à déf
 
 {% hint style="info" %}
 **Une erreur dans cette fiche ?**\
-Informez-nous sur [#incubateur-documentation](https://mattermost.incubateur.net/betagouv/channels/incubateur-documentation) ou à dinum@beta.gouv.fr
+Informez-nous sur [Entraide-communauté sur Tchap](https://tchap.gouv.fr/#/room/!FznvyqtGVRlsGHcLVE:agent.dinum.tchap.gouv.fr) ou à dinum@beta.gouv.fr
 {% endhint %}

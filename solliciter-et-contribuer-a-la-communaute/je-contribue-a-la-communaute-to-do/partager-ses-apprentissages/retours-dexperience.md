@@ -20,4 +20,4 @@ Il existe au moins trois façons différentes de partager son projet d'article:
 
 * Vous pouvez commencer à rédiger votre projet d'article sur [ce site très facile d'accès](https://blog.beta.gouv.fr/admin/#/collections/posts/new)
 * Vous pouvez l'intégrer directement dans le [github du blog](https://github.com/betagouv/blog.beta.gouv.fr)
-* Vous pouvez adresser votre projet sur[ #incubateur-com](https://mattermost.incubateur.net/betagouv/channels/incubateur-com)
+* Vous pouvez adresser votre projet sur [Entraide-communauté sur Tchap](https://tchap.gouv.fr/#/room/!FznvyqtGVRlsGHcLVE:agent.dinum.tchap.gouv.fr)
