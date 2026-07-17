@@ -16,13 +16,13 @@ L'appartenance à la communauté beta.gouv.fr te donne la possibilité de venir 
 * Accès transport : métro Ségur (ligne 10), Cambronne (ligne 6), Ecole militaire (ligne 8) ou Saint-François-Xavier (ligne 13).
 * Ouvert du lundi au vendredi de 7h à 22h.
 
-Tu peux poser toutes tes questions sur [\~bureaux-ségur](https://mattermost.incubateur.net/betagouv/channels/bureaux-segur)
+Tu peux poser toutes tes questions sur [bureaux-Segur sur Tchap](https://tchap.gouv.fr/#/room/!AAWxZbWrIDpYAKZVRF:agent.dinum.tchap.gouv.fr)
 
 ### Accès visiteur à la journée à Ségur
 
 Si tu souhaites venir travailler dans ces locaux, la marche à suivre est simple :
 
-1. Remplir ce [formulaire](https://tally.so/r/w8AJjP), idéalement **au moins 48h ouvrés** avant ta venue pour signaler ta venue. Si tu n'as pas de retour ou que tu es en retard sur le délai, tu peux faire ta demande dans le canal Mattermost [#bureaux-Ségur](https://mattermost.incubateur.net/betagouv/channels/bureaux-segur). Un agent de l'incubateur enverra un email à **accueil-segur@segur.gouv.fr** pour prévenir de ta venue.
+1. Remplir ce [formulaire](https://tally.so/r/w8AJjP), idéalement **au moins 48h ouvrés** avant ta venue pour signaler ta venue. Si tu n'as pas de retour ou que tu es en retard sur le délai, tu peux faire ta demande dans le canal [bureaux-Segur sur Tchap](https://tchap.gouv.fr/#/room/!AAWxZbWrIDpYAKZVRF:agent.dinum.tchap.gouv.fr). Un agent de l'incubateur enverra un email à **accueil-segur@segur.gouv.fr** pour prévenir de ta venue.
 2. Le jour J, se munir d'une pièce d'identité.
 3. Se rendre à l'accueil au 20 avenue de Ségur.
 4. À l'accueil, indiquer qu'un rendez-vous a été pris avec l'Incubateur de services numériques de la DINUM.
@@ -42,7 +42,7 @@ Si tu souhaites venir travailler régulièrement à l'Incubateur dans les open s
 
 * Un accès wifi est disponible, le code est inscrit sur les murs de l'openspace.
 * Notre wifi donne accès à un internet libre mais il se peut que l'accès à certains ports spécifiques soient bloqués. Dans ce cas, suivre les instructions décrites dans [ce document](https://pad.numerique.gouv.fr/-Jg0e0J5Qy6AEIeCAunjcA?both) (connexion avec une adresse .gouv.fr obligatoire).
-* Un fallback 4G est également disponible, demande le mot de passe sur [\~bureaux-ségur](https://mattermost.incubateur.net/betagouv/channels/bureaux-segur) en cas de besoin.
+* Un fallback 4G est également disponible, demande le mot de passe sur [bureaux-Segur sur Tchap](https://tchap.gouv.fr/#/room/!AAWxZbWrIDpYAKZVRF:agent.dinum.tchap.gouv.fr) en cas de besoin.
 * Les câbles rouges sont connectés à internet.
 * Attention, seules les salles de l'incubateur sont équipés avec la wifi beta.gouv.fr. Depuis les salles 5.7XX il est souvent nécessaire d'utiliser la fonction " partage de connexion" depuis un smartphone pour se connecter à Internet, ou de se connecter à SEGUR FONTENOY Visiteurs.
 

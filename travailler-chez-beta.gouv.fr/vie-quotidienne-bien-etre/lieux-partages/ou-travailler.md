@@ -128,12 +128,12 @@ Pour:
 
 ## Nantes
 
-Une question ? 👉 [\~bureaux-Nantes](https://mattermost.incubateur.net/betagouv/channels/nantes-coworking)
+Une question ? 👉 [bureaux-Nantes sur Tchap](https://tchap.gouv.fr/#/room/!KjcYLgxESMWrfgfTzY:agent.dinum.tchap.gouv.fr)
 
 ### [Etat’LIN](https://www.prefectures-regions.gouv.fr/pays-de-la-loire/Region-et-institutions/Organisation-administrative-de-la-region/Secretariat-General-pour-les-Affaires-Regionales-SGAR/Etat-LIN-le-Laboratoire-d-innovation-territoriale-de-l-Etat-en-region-Pays-de-la-Loire/Etat-LIN-c-est-quoi/#titre)
 
 6 quai Ceineray, 44000 Nantes - Pays de la Loire etatlin@pays-de-la-loire.gouv.fr\
-Plus d'informations sur le canal [\~bureaux-Nantes](https://mattermost.incubateur.net/betagouv/channels/nantes-coworking))
+Plus d'informations sur le canal [bureaux-Nantes sur Tchap](https://tchap.gouv.fr/#/room/!KjcYLgxESMWrfgfTzY:agent.dinum.tchap.gouv.fr)
 
 ### [La Cordée Nantes](https://www.la-cordee.net/cordee/nantes/sur-erdre/)
 
@@ -143,7 +143,7 @@ Pour:
 
 * venir travailler seul à la journée :
   * soit devenir membre (plusieurs formules, à partir de 35€HT/mois pour un accès à toutes les cordées de France + \~3€/heure 👉 [les tarifs](https://www.la-cordee.net/nos-tarifs-ht-lyon-annecy-nantes-rennes/))
-  * soit se faire inviter par un des membres de beta (poser la question sur [\~bureaux-Nantes](https://mattermost.incubateur.net/betagouv/channels/nantes-coworking))
+  * soit se faire inviter par un des membres de beta (poser la question sur [bureaux-Nantes sur Tchap](https://tchap.gouv.fr/#/room/!KjcYLgxESMWrfgfTzY:agent.dinum.tchap.gouv.fr))
 * réserver une salle de réunion : possible sans être membre et sans abonnement, paiement à la demi-journée, prix très abordables, notamment pour des séminaires 👉 [les salles](https://www.la-cordee.net/salles-de-reunion/)
 
 ## Rouen
@@ -166,7 +166,7 @@ insolab@tvt.fr
 
 ## Bordeaux
 
-Une question ? 👉 [\~bureaux-bordeaux](https://mattermost.incubateur.net/betagouv/channels/bureaux-bordeaux)
+Une question ? 👉 [bureaux-Bordeaux sur Tchap](https://tchap.gouv.fr/#/room/!bEmXZYZUGbEnwiXASU:agent.dinum.tchap.gouv.fr)
 
 ### [La Base](https://www.labase-na.fr/)
 
@@ -186,7 +186,7 @@ innovation-bfc@bfc.gouv.fr
 
 ## Strasbourg
 
-Une question ? 👉 [\~bureaux-Strasbourg](https://mattermost.incubateur.net/betagouv/channels/bureaux-strasbourg)
+Une question ? 👉 [bureaux-Strasbourg sur Tchap](https://tchap.gouv.fr/#/room/!mbrolQfvfwPdceosKn:agent.dinum.tchap.gouv.fr)
 
 ### Lab'EST
 
@@ -196,7 +196,7 @@ modernisation@grand-est.gouv.fr
 
 ## Toulouse
 
-Une question ? [\~bureaux-Toulouse](https://mattermost.incubateur.net/betagouv/channels/entre-toulousains)
+Une question ? [bureaux-Toulouse sur Tchap](https://tchap.gouv.fr/#/room/!BjBeZIAsQJsXgQpzHI:agent.dinum.tchap.gouv.fr)
 
 ### [LabO](https://www.prefectures-regions.gouv.fr/occitanie/Region-et-institutions/L-action-de-l-Etat/Transition-numerique-de-l-Etat-et-modernisation-de-l-action-publique/Laboratoire-d-innovations/Laboratoire-d-innovations)
 

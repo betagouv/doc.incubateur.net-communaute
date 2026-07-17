@@ -26,7 +26,7 @@ Les badges sont produits à Ségur mais **inutile d'aller le chercher toi-même.
 
 ## ✨ Que faire tant que je n'ai pas de badge ?
 
-Sur [le canal mattermost Bureaux-Ségur](https://mattermost.incubateur.net/betagouv/channels/bureaux-segur), tu peux demander à un membre de la communauté de transmettre un mail à l'accueil de Ségur afin que l'on te laisse monter tous les matins sans avoir à appeler quelqu'un.
+Sur [bureaux-Segur sur Tchap](https://tchap.gouv.fr/#/room/!AAWxZbWrIDpYAKZVRF:agent.dinum.tchap.gouv.fr), tu peux demander à un membre de la communauté de transmettre un mail à l'accueil de Ségur afin que l'on te laisse monter tous les matins sans avoir à appeler quelqu'un.
 
 Exemple de mail :
 
