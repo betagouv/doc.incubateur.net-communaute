@@ -8,9 +8,9 @@ En développant un simulateur on propose au contraire une interface interactive 
 
 Plusieurs produits beta.gouv proposent ainsi des simulateurs sur des thématiques variées :
 
-* [Datagir](https://datagir.ademe.fr/) vous permet d'estimer votre impact sur le climat ;
-* [Mon-entreprise](https://mon-entreprise.fr/) de calculer vos cotisations sociales ;
-* [Code du travail numérique](https://code.travail.gouv.fr/) de déterminer la durée d'un préavis de départ à la retraite.
+- [Datagir](https://datagir.ademe.fr/) vous permet d'estimer votre impact sur le climat ;
+- [Mon-entreprise](https://mon-entreprise.fr/) de calculer vos cotisations sociales ;
+- [Code du travail numérique](https://code.travail.gouv.fr/) de déterminer la durée d'un préavis de départ à la retraite.
 
 ### Publicodes : une librairie commune pour créer des simulateurs
 
@@ -18,13 +18,13 @@ Tous ces simulateurs sont propulsés par la même brique technique appelée [Pub
 
 En effet, bien que les simulateurs beta.gouv concernent des domaines différents, nous avons réalisé qu'ils rencontrent des problématiques communes :
 
-* Écrire et maintenir une base de règles lisible par le plus grand nombre (par exemple pour une validation par des experts métiers)
-* Générer un formulaire ou une liste de questions en fonction des réponses précédentes
-* Proposer automatiquement une documentation Web explorable du calcul
+- Écrire et maintenir une base de règles lisible par le plus grand nombre (par exemple pour une validation par des experts métiers)
+- Générer un formulaire ou une liste de questions en fonction des réponses précédentes
+- Proposer automatiquement une documentation Web explorable du calcul
 
-Si vous rencontrez aussi ces besoins, Publicodes peut être une bonne solution. Il est développé par des membres de la communauté beta.gouv et pourra être amélioré selon vos cas d'usage. La documentation est disponible sur[https://publi.codes](https://publi.codes) et il existe un [canal dédié](https://mattermost.incubateur.net/betagouv/channels/domaine-dev-publicodes) sur le [mattermost](../../../../ressources/travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/mattermost/).
+Si vous rencontrez aussi ces besoins, Publicodes peut être une bonne solution. Il est développé par des membres de la communauté beta.gouv et pourra être amélioré selon vos cas d'usage. La documentation est disponible sur[https://publi.codes](https://publi.codes) et il existe un [canal dédié sur Matrix](https://matrix.to/#/#devs.publicodes:matrix.org).
 
-Note : si vous trouvez publicodes intéressant, mais pensez que vos besoins nécessitent quand même un développement spécifique, n'hésitez pas à [passer une tête](https://mattermost.incubateur.net/betagouv/channels/domaine-dev-publicodes) pour nous en parler :)
+Note : si vous trouvez publicodes intéressant, mais pensez que vos besoins nécessitent quand même un développement spécifique, n'hésitez pas à [passer une tête sur canal dédié sur Matrix](https://matrix.to/#/#devs.publicodes:matrix.org) pour nous en parler :)
 
 ## **Comment itérer sur un simulateur ?**
 
@@ -40,4 +40,4 @@ Pour cela il vous est possible de proposer une intégration iframe. Il s'agit d'
 
 Exemple : [embarquer un simulateur mon-entreprise](https://mon-entreprise.urssaf.fr/int%C3%A9gration/iframe?module=salari%C3%A9)
 
-En intégrant directement votre outil sur des sites tiers, vous maximisez le nombre d'utilisateurs potentiel — et avec un peu de chance vous pourrez même être directement intégré sur un site de presse en ligne, comme ce fut le cas sur Franceinfo qui [a intégré nosgestesclimat](https://www.francetvinfo.fr/meteo/climat/lutte-contre-le-rechauffement-climatique-comment-calculer-et-reduire-son-empreinte-carbone\_4301617.html).
+En intégrant directement votre outil sur des sites tiers, vous maximisez le nombre d'utilisateurs potentiel — et avec un peu de chance vous pourrez même être directement intégré sur un site de presse en ligne, comme ce fut le cas sur Franceinfo qui [a intégré nosgestesclimat](https://www.francetvinfo.fr/meteo/climat/lutte-contre-le-rechauffement-climatique-comment-calculer-et-reduire-son-empreinte-carbone_4301617.html).
