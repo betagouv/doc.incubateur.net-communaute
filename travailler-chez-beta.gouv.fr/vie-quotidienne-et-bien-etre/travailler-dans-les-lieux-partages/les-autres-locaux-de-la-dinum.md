@@ -28,4 +28,4 @@ Espaces accessibles :
 * Au rez-de-chaussée à droite, la bibliothèque en tant qu'espace de coworking.
 * Au rez-de-chaussée à droite, le bureau "bulle" (disponible uniquement si l'équipe du Pass Culture n'est pas sur site).
 
-Une question ? 👉 [bureaux-Betalyon sur Tchap](https://tchap.gouv.fr/#/room/!eFbTqlAuTPuDFVnsDv:agent.dinum.tchap.gouv.fr)
+Une question ? 👉 [bureaux-Lyon sur Tchap](https://tchap.gouv.fr/#/room/!eFbTqlAuTPuDFVnsDv:agent.dinum.tchap.gouv.fr)
