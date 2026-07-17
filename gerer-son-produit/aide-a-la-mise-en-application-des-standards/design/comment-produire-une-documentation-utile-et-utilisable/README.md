@@ -17,5 +17,5 @@ description: Quelques contenus pour vous aider à mieux appréhender la document
 {% endcontent-ref %}
 
 {% hint style="info" %}
-[**Rejoint le canal de discussion sur le sujet de la documentation**](https://tchap.gouv.fr/#/room/!FznvyqtGVRlsGHcLVE:agent.dinum.tchap.gouv.fr)
+[**Rejoint le canal de discussion d'entraide**](https://tchap.gouv.fr/#/room/!FznvyqtGVRlsGHcLVE:agent.dinum.tchap.gouv.fr)
 {% endhint %}
