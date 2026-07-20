@@ -42,7 +42,7 @@ L'incubateur de la DINUM propose plusieurs rencontres de partage d'expérience e
 - Club dev : partage sur les pratiques de développement informatiques 🔒[`Domaine-dev`](https://tchap.gouv.fr/#/room/!YWElGjXYMBwmlHeqeL:agent.dinum.tchap.gouv.fr) (sur Tchap)&#x20;
 - Club coach : comment accompagner une startup d'état 🔒[`Domaine-Coaching`](https://tchap.gouv.fr/#/room/!MDSecXMtSqsjTQfoML:agent.dinum.tchap.gouv.fr) (sur Tchap)&#x20;
 - Club bizdev : comment déployer les startups 🔒[`Domaine-bizdev`](https://tchap.gouv.fr/#/room/!LYLjHbBZdxMBOORgaJ:agent.dinum.tchap.gouv.fr) (sur Tchap)
-- Club intra : comment les agents publiques créent leurs startups 🔒[`Domaine-intras`](https://tchap.gouv.fr/#/room/!AdOsEgKcBcmTVsXFOf:agent.dinum.tchap.gouv.fr) (sur Tchap)
+- Club intra : pour échanger sur les missions d'intra et s'entraider 🔒[`Domaine-intras`](https://tchap.gouv.fr/#/room/!AdOsEgKcBcmTVsXFOf:agent.dinum.tchap.gouv.fr) (sur Tchap)
 
 #### ⭐️ Partager ses apprentissages avec la communauté et le grand public
 
