@@ -45,6 +45,5 @@ Le groupe est composé d'un réseau de **référents métiers**, chacun expert d
 
 1. 📝[**Remplis ce formulaire**](https://grist.numerique.gouv.fr/o/isn/forms/4QncvyEckeLHhdfRYFUxJF/7) pour exprimer ton besoin d’accompagnement pour la sélection d'un nouveau profil.
 2. 📧 **Par mail** : écris à **animation@beta.gouv.fr** pour obtenir des informations ou poser vos questions.
-3. 💬 **Via Mattermost** : rejoins le canal ["incubateur-mission"](https://mattermost.incubateur.net/betagouv/channels/incubateur-embauche) sur Mattermost pour échanger directement avec les référents et la communauté.
 
 ⚠️ Si tu es intra et que c'est la première fois que tu recrutes ou que tu recherches une personne pour une prestation de service, tu dois nécessairement solliciter un référent métier avant de te lancer.

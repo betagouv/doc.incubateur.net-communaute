@@ -58,6 +58,6 @@ description: Une liste de questions à se poser pour améliorer sa documentation
 
 ### Je pense avoir besoin d'aide : <a href="#je-pense-avoir-besoin-daide" id="je-pense-avoir-besoin-daide"></a>
 
-* **Oui --> Demande de l'aide sur le**[ **canal de discussion Documentation**](https://mattermost.incubateur.net/betagouv/channels/incubateur-documentation)\*\*\*\*
+* **Oui --> Demande de l'aide sur le**[ **canal de discussion Entraide**](https://tchap.gouv.fr/#/room/!FznvyqtGVRlsGHcLVE:agent.dinum.tchap.gouv.fr)\*\*\*\*
 * **Non**
 

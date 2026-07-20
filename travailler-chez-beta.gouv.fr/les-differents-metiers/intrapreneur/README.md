@@ -36,16 +36,14 @@ La DINUM reconnaît le métier particulier des intras en délivrant une certific
 
 Depuis 2025, une équipe est dédiée à l'accompagnement des intras et à l'animation de la communauté des intras :
 
-* Marine Purson, responsable animation de la communauté beta.gouv.fr : marine.purson@beta.gouv.fr
-* Magali Marcel Garreau, responsable de partenariat : magali.marcel@beta.gouv.fr
+- Marine Purson, responsable animation de la communauté beta.gouv.fr : marine.purson@beta.gouv.fr
+- Magali Marcel Garreau, responsable de partenariat : magali.marcel@beta.gouv.fr
 
 N'hésitez pas à les solliciter !
 
 ### Des canaux dédiés aux intras
 
 Pour échanger entre intras ou avec les intras, il existe un canal public : [Domaine-intras](https://tchap.gouv.fr/#/room/!AdOsEgKcBcmTVsXFOf:agent.dinum.tchap.gouv.fr) (sur Tchap)
-
-Pour échanger entre intras, il existe un canal privé : [\~domaine-intras-privé](https://mattermost.incubateur.net/betagouv/channels/domaine-intras-prive) (accessible sur invitation : demandez à Magali Marcel-Garreau ou Marine Purson)
 
 ### Le club intras
 
@@ -71,14 +69,14 @@ Pour s'inscrire, RDV [ici](https://app.calendso.incubateur.net/amel-alili/embarq
 
 ### Quelques outils à partager entre intra
 
-* [Modèle de fiche poste "Intrapreneur de startup d'Etat"](https://github.com/betagouv/beta.gouv.fr/files/3069081/Fiche.poste.Intrapreneur.startup.d.Etat.VBETA.docx)
-* [Toutes les conventions et avenants des SE](https://www.data.gouv.fr/fr/datasets/conventions-de-partenariat/)
-* [Modèle de suivi du budget de la SE](https://docs.google.com/spreadsheets/d/1JSVnmruZq0iufjpxabnYKaHcR1XBygL0MXkYOm7nz3E/edit?usp=sharing)
-* [RGPD et sécurité : des conseils avant de démarrer](../../../je-securise-mon-produit/guide-rgpd-et-securite.md)
+- [Modèle de fiche poste "Intrapreneur de startup d'Etat"](https://github.com/betagouv/beta.gouv.fr/files/3069081/Fiche.poste.Intrapreneur.startup.d.Etat.VBETA.docx)
+- [Toutes les conventions et avenants des SE](https://www.data.gouv.fr/fr/datasets/conventions-de-partenariat/)
+- [Modèle de suivi du budget de la SE](https://docs.google.com/spreadsheets/d/1JSVnmruZq0iufjpxabnYKaHcR1XBygL0MXkYOm7nz3E/edit?usp=sharing)
+- [RGPD et sécurité : des conseils avant de démarrer](../../../je-securise-mon-produit/guide-rgpd-et-securite.md)
 
 ### Articles sur l'intrapreneuriat
 
-* [Etude sur l'intrapreneuriat à la Sécurité sociale](https://en3s.fr/articles-regards/reac/2020/INTRAPRENEURIAT.pdf)
-* [Les pratiques intrapreunariales dans le secteur public : une étude de cas de l’entreprise Embrapa](https://shs.cairn.info/revue-gestion-2000-2018-3-page-91?lang=fr)
+- [Etude sur l'intrapreneuriat à la Sécurité sociale](https://en3s.fr/articles-regards/reac/2020/INTRAPRENEURIAT.pdf)
+- [Les pratiques intrapreunariales dans le secteur public : une étude de cas de l’entreprise Embrapa](https://shs.cairn.info/revue-gestion-2000-2018-3-page-91?lang=fr)
 
 Pour en savoir plus sur les infos utiles liées au métier d'intra, consultez le lien ci-dessous :

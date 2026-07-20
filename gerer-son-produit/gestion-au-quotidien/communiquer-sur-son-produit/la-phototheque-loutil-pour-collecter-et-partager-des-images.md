@@ -29,10 +29,10 @@ En plus de pouvoir consulter cette banque d’images, chaque membre de la commun
 
 <summary>Comment faire ? </summary>
 
-**Pour partager tes images il te suffit de faire une demande** pour obtenir un compte contributeur à l'équipe d'animation [beta.gouv.fr](http://beta.gouv.fr/) via le canal Mattermost [incubateur-com](https://mattermost.incubateur.net/betagouv/channels/incubateur-com)
+**Pour partager tes images il te suffit de faire une demande** pour obtenir un compte contributeur à l'équipe d'animation [beta.gouv.fr](http://beta.gouv.fr/) via le canal [Entraide-communauté sur Tchap](https://tchap.gouv.fr/#/room/!FznvyqtGVRlsGHcLVE:agent.dinum.tchap.gouv.fr)
 
 </details>
 
 ## Contribuer pour améliorer l’expérience d’utilisation
 
-Pour rendre agréable l’usage de la photothèque, nous sollicitons tes retours afin de recueillir tes impressions et suggestions d’amélioration. Pour cela tu peux nous écrire sur le canal [incubateur-com](https://mattermost.incubateur.net/betagouv/channels/incubateur-com)
+Pour rendre agréable l’usage de la photothèque, nous sollicitons tes retours afin de recueillir tes impressions et suggestions d’amélioration. Pour cela tu peux nous écrire sur le canal [Entraide-communauté sur Tchap](https://tchap.gouv.fr/#/room/!FznvyqtGVRlsGHcLVE:agent.dinum.tchap.gouv.fr)

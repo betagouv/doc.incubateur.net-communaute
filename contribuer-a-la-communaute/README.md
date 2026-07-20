@@ -8,8 +8,6 @@ En rejoignant notre agenda, tu auras accès à toutes les informations concernan
 
 [**👉 Rejoignez notre agenda public ici !**](http://messagerie.numerique.gouv.fr/appsuite/api/share/0366722a002da2b9366722802da84e5eb694970c9c989a65/1/2/Y2FsOi8vMC8yMjczNA)
 
-
-
 ### Maintenant, voici un aperçu des événements pour les semaines à venir :thumbsup:
 
 <figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
@@ -41,10 +39,10 @@ Tu peux consulter les dates des prochains forums dans l'agenda public.
 
 L'incubateur de la DINUM propose plusieurs rencontres de partage d'expérience entre personnes ayant des rôles similaires : c'est ce que nous appelons les **clubs**. Ils ont lieu lors du forum mensuel, tous les premiers jeudi du mois à 16h.
 
-* Club dev : partage sur les pratiques de développement informatiques 🔒[`Domaine-dev`](https://tchap.gouv.fr/#/room/!YWElGjXYMBwmlHeqeL:agent.dinum.tchap.gouv.fr) (sur Tchap)&#x20;
-* Club coach : comment accompagner une startup d'état 🔒[`Domaine-Coaching`](https://tchap.gouv.fr/#/room/!MDSecXMtSqsjTQfoML:agent.dinum.tchap.gouv.fr) (sur Tchap)&#x20;
-* Club bizdev : comment déployer les startups 🔒[`Domaine-bizdev`](https://tchap.gouv.fr/#/room/!LYLjHbBZdxMBOORgaJ:agent.dinum.tchap.gouv.fr) (sur Tchap)
-* Club intra : comment les agents publiques créent leurs startups 🔒[`Domaine-intras`](https://tchap.gouv.fr/#/room/!AdOsEgKcBcmTVsXFOf:agent.dinum.tchap.gouv.fr) (sur Tchap)
+- Club dev : partage sur les pratiques de développement informatiques 🔒[`Domaine-dev`](https://tchap.gouv.fr/#/room/!YWElGjXYMBwmlHeqeL:agent.dinum.tchap.gouv.fr) (sur Tchap)&#x20;
+- Club coach : comment accompagner une startup d'état 🔒[`Domaine-Coaching`](https://tchap.gouv.fr/#/room/!MDSecXMtSqsjTQfoML:agent.dinum.tchap.gouv.fr) (sur Tchap)&#x20;
+- Club bizdev : comment déployer les startups 🔒[`Domaine-bizdev`](https://tchap.gouv.fr/#/room/!LYLjHbBZdxMBOORgaJ:agent.dinum.tchap.gouv.fr) (sur Tchap)
+- Club intra : pour échanger sur les missions d'intra et s'entraider 🔒[`Domaine-intras`](https://tchap.gouv.fr/#/room/!AdOsEgKcBcmTVsXFOf:agent.dinum.tchap.gouv.fr) (sur Tchap)
 
 #### ⭐️ Partager ses apprentissages avec la communauté et le grand public
 
@@ -62,17 +60,17 @@ Tous les membres de la communauté sont légitimes à organiser et animer des fo
 
 Tu peux consulter les formations à venir et proposer une formation [sur cette page](../se-former/les-formations-a-venir/).&#x20;
 
-Si tu as une question sur une formation ou si tu veux faire la communication d'une formation que tu organises 👉 poste un message sur le canal Mattermost [\~incubateur-formations](https://mattermost.incubateur.net/betagouv/channels/incubateur-formations).
+Si tu as une question sur une formation ou si tu veux faire la communication d'une formation que tu organises 👉 poste un message sur le canal Tchap [BetaGouv-Général](https://tchap.gouv.fr/#/room/!lWPNmdvOrZYcrUSSSq:agent.dinum.tchap.gouv.fr).
 
 #### ⭐️ Aider à **résoudre une problématique** de la communauté
 
-Tu as un irritant au sein de la communauté et tu souhaites participer à améliorer la situation ? Contacte l'équipe d'animation envoyant un mail à _**dinum@beta.gouv.fr**_ ou en mettant un message sur le canal [\~incubateur-communauté](https://mattermost.incubateur.net/betagouv/channels/incubateur-communautexp). L'équipe pourra t'aider à rejoindre une initiative en cours ou à créer un groupe de travail.&#x20;
+Tu as un irritant au sein de la communauté et tu souhaites participer à améliorer la situation ? Contacte l'équipe d'animation envoyant un mail à _**dinum@beta.gouv.fr**_ ou en mettant un message sur le canal [Entraide-Communauté](https://tchap.gouv.fr/#/room/!FznvyqtGVRlsGHcLVE:agent.dinum.tchap.gouv.fr). L'équipe pourra t'aider à rejoindre une initiative en cours ou à créer un groupe de travail.
 
 Exemples d'actions : refonte de l’embarquement, donner plus de visibilité à la mobilité interne, définir les valeurs de Beta, etc.
 
 ⭐️ **Participer à ou organiser un événement pour la communauté**
 
-Sens toi libre d'organiser un événement pour la communauté ou pour contribuer au rayonnement de beta.gouv à l'extérieur. Toutefois si c'est un événement externe pour le compte de beta.gouv (et non de ton équipe), il te faudra contacter l'équipe d'animation envoyant un mail à _**dinum@beta.gouv.fr**_ ou en mettant un message sur le canal [\~incubateur-communauté](https://mattermost.incubateur.net/betagouv/channels/incubateur-communautexp).
+Sens toi libre d'organiser un événement pour la communauté ou pour contribuer au rayonnement de beta.gouv à l'extérieur. Toutefois si c'est un événement externe pour le compte de beta.gouv (et non de ton équipe), il te faudra contacter l'équipe d'animation envoyant un mail à _**dinum@beta.gouv.fr**_ ou en mettant un message sur le canal [Entraide-communauté](https://tchap.gouv.fr/#/room/!FznvyqtGVRlsGHcLVE:agent.dinum.tchap.gouv.fr).
 
 Exemples d'événement déjà organisés : séminaire international, aller travailler dans un autre lieu, séminaire thématique, inviter une personnalité extérieure pour un Talk, etc.
 
@@ -94,10 +92,10 @@ La documentation est maintenue à jour par toute la communauté. Tu trouveras ci
 
 Et si tu n'as que quelques minutes ou du temps uniquement ponctuel, voilà quelques idées d'actions pour contribuer à la vie de la communauté :
 
-* Faire un tour [sur GitHub](https://github.com/betagouv/beta.gouv.fr/pulls) pour participer à la revue ou valider des pull requests en attente
-* Faire un tour sur le canal [Entraide-communauté](https://tchap.gouv.fr/#/room/!FznvyqtGVRlsGHcLVE:agent.dinum.tchap.gouv.fr) sur Tchap pour éventuellement répondre à des questions posées
-* Lire ou relire la documentation et le site beta.gouv et [corriger les coquilles ou informations obsolètes sur lesquelles tu tombes](../jutilise-les-outils-de-la-communaute/gitbook/comment-contribuer-a-cette-documentation.md)
-* Tester un produit d'une startup, consulter une page stat et éventuellement faire un retour à l'équipe concernée
+- Faire un tour [sur GitHub](https://github.com/betagouv/beta.gouv.fr/pulls) pour participer à la revue ou valider des pull requests en attente
+- Faire un tour sur le canal [Entraide-communauté](https://tchap.gouv.fr/#/room/!FznvyqtGVRlsGHcLVE:agent.dinum.tchap.gouv.fr) sur Tchap pour éventuellement répondre à des questions posées
+- Lire ou relire la documentation et le site beta.gouv et [corriger les coquilles ou informations obsolètes sur lesquelles tu tombes](../jutilise-les-outils-de-la-communaute/gitbook/comment-contribuer-a-cette-documentation.md)
+- Tester un produit d'une startup, consulter une page stat et éventuellement faire un retour à l'équipe concernée
 
 ## S'informer sur la vie de la communauté
 

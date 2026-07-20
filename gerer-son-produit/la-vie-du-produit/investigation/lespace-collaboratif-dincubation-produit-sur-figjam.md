@@ -12,16 +12,16 @@ C’est l’**espace de travail unique et collaboratif** pour guider et outiller
 
 <figure><img src="../../../.gitbook/assets/esapce incubation figjam.png" alt=""><figcaption><p><a href="https://www.figma.com/community/file/1426095586974508534">Extrait de l'espace numérique sur Figjam</a></p></figcaption></figure>
 
-[Cet espace (FigJam) ](https://www.figma.com/community/file/1426095586974508534)rassemble les **ateliers clés  de la phase d’investigation d’une startup d’État**. Conçu pour être le plus polyvalent possible, il peut s’adapter à différents types d’investigation. Néanmoins, une personnalisation selon les spécificités de chaque contexte sera nécessaire.
+[Cet espace (FigJam) ](https://www.figma.com/community/file/1426095586974508534)rassemble les **ateliers clés de la phase d’investigation d’une startup d’État**. Conçu pour être le plus polyvalent possible, il peut s’adapter à différents types d’investigation. Néanmoins, une personnalisation selon les spécificités de chaque contexte sera nécessaire.
 
 Nous vous recommandons de le partager avec vos parties prenantes (équipe, incubateur, sponsors) afin de renforcer la transparence et la communication sur l’avancement du produit.&#x20;
 
 ## Bénéfices&#x20;
 
-* **+ simple** : 1 seul lien en favori pour accès à toute la documentation du projet
-* **accélère** : pas besoin de réinventer la roue, les canvas sont prêt à l'usage
-* **fiabilise** : permet à l'équipe de ne pas oublier des points clés de l'investigation
-* **engageant**: rend visible la progression de l'investigation, et ce qu'il reste à faire
+- **+ simple** : 1 seul lien en favori pour accès à toute la documentation du projet
+- **accélère** : pas besoin de réinventer la roue, les canvas sont prêt à l'usage
+- **fiabilise** : permet à l'équipe de ne pas oublier des points clés de l'investigation
+- **engageant**: rend visible la progression de l'investigation, et ce qu'il reste à faire
 
 ## Comment y accéder ?
 
@@ -46,8 +46,7 @@ Dans l'esprit d'un commun, nous avons l'intention de faire évoluer cet espace n
 
 Vous avez une évolution ou un nouveau tableau à partager ? Une question, un cri du coeur, envie d’ajouter des ateliers ?&#x20;
 
-* Écrivez sur le channel mattermost #domaine-coaching de beta.gouv&#x20;
-* Participe à la communauté des coachs au Forum de Beta.gouv. ([agenda disponibles ici ](http://messagerie.numerique.gouv.fr/appsuite/api/share/0366722a002da2b9366722802da84e5eb694970c9c989a65/1/2/Y2FsOi8vMC8yMjczNA)🔗)
+- Écrivez sur le canal Tchap [domaine-coaching](https://tchap.gouv.fr/#/room/!MDSecXMtSqsjTQfoML:agent.dinum.tchap.gouv.fr);
+- Participe à la communauté des coachs au Forum de Beta.gouv. ([agenda disponibles ici ](http://messagerie.numerique.gouv.fr/appsuite/api/share/0366722a002da2b9366722802da84e5eb694970c9c989a65/1/2/Y2FsOi8vMC8yMjczNA)🔗)
 
 L'enjeu est de garder un board simple et accessible. L'équipe animation sélectionnera les modifications à ajouter au board "master", des autres suggestions qui pourront être ajoutées une zone d'annexes avec les variantes.
-

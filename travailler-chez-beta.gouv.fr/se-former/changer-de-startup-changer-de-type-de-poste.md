@@ -6,8 +6,8 @@ Nous sommes une communauté formée en grande partie d'indépendant·e·s, c'est
 
 **Voici donc une liste de bonnes pratiques que vous pouvez suivre :**
 
-* Surveiller les offres sur [\~incubateur-embauche,](https://mattermost.incubateur.net/betagouv/channels/incubateur-embauche) sur le [welcome to the jungle](https://www.welcometothejungle.com/fr/companies/communaute-beta-gouv), et sur la page [recrutement de beta](https://beta.gouv.fr/recrutement/).
-* Si vous allez être disponible, faites en mention sur [\~incubateur-embauche](https://mattermost.incubateur.net/betagouv/channels/incubateur-embauche).
+* Surveiller les offres sur [Missions sur Tchap](https://tchap.gouv.fr/#/room/!erNSXfwAuxeKvaJOkU:agent.dinum.tchap.gouv.fr), sur le [welcome to the jungle](https://www.welcometothejungle.com/fr/companies/communaute-beta-gouv), et sur la page [recrutement de beta](https://beta.gouv.fr/recrutement/).
+* Si vous allez être disponible, signalez le à votre titulaire de marché et/ou faites en mention sur [Missions sur Tchap](https://tchap.gouv.fr/#/room/!erNSXfwAuxeKvaJOkU:agent.dinum.tchap.gouv.fr).
 * Contacter les équipes avec qui vous souhaitez travailler : n'hésitez pas à proposer de travailler un nombre restreint de jour (1-2j) dans un premier temps pour voir si la collaboration se passe bien ou selon vos disponibilités. Vous pouvez très bien avoir 2 missions en parallèle.
 * [Participer à des activités transverses](../actions-transverses/) : en plus de contribuer à la communauté, elles vous permettront de rencontrer davantage de membres, ce qui pourra toujours vous servir pour de futures opportunités (et puis c'est sympa !)
 

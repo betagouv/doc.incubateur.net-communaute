@@ -12,7 +12,7 @@ description: >-
 
 Pré-requis : agents publics avec une autorisation à demander à cedric.gibert@pm.gouv.fr
 
-Une question ? 👉 [\~bureaux-bretagne](https://mattermost.incubateur.net/betagouv/channels/bureaux-bretagne)
+Une question ? 👉 [bureaux-Bretagne sur Tchap](https://tchap.gouv.fr/#/room/!zBcMxSHDZcAUntUTtQ:agent.dinum.tchap.gouv.fr)
 
 ## Locaux à Lyon
 
@@ -28,4 +28,4 @@ Espaces accessibles :
 * Au rez-de-chaussée à droite, la bibliothèque en tant qu'espace de coworking.
 * Au rez-de-chaussée à droite, le bureau "bulle" (disponible uniquement si l'équipe du Pass Culture n'est pas sur site).
 
-Une question ? 👉 [\~bureaux-betalyon](https://mattermost.incubateur.net/betagouv/channels/bureaux-betalyon)
+Une question ? 👉 [bureaux-Lyon sur Tchap](https://tchap.gouv.fr/#/room/!eFbTqlAuTPuDFVnsDv:agent.dinum.tchap.gouv.fr)

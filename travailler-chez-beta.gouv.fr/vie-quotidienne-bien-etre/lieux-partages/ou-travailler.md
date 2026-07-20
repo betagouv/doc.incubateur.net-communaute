@@ -6,7 +6,7 @@ description: >-
 
 # Les lieux de la communauté
 
-Des membres de la communauté beta.gouv.fr travaillent un peu partout en France. Il existe une carte qui les recense. Tous les membres qui le souhaitent peuvent la [consulter](http://umap.openstreetmap.fr/fr/map/la-communaute-betagouv_498937) ou la [mettre à jour](http://umap.openstreetmap.fr/fr/map/anonymous-edit/498937:rNZ9vgD45VPxZlCh2TPIJoO6K0A) (pour ajouter une position, cliquez en haut à droite sur le stylo puis sur Ajouter un marqueur. Dans le marqueur, saisi ton nom-prénom, pour pouvoir être contacté·e sur Mattermost). Tu pourras ainsi peut-être trouver un membre près de chez toi pour télétravailler ensemble, partager un coworking ou tout simplement un ☕️.
+Des membres de la communauté beta.gouv.fr travaillent un peu partout en France. Il existe une carte qui les recense. Tous les membres qui le souhaitent peuvent la [consulter](http://umap.openstreetmap.fr/fr/map/la-communaute-betagouv_498937) ou la [mettre à jour](http://umap.openstreetmap.fr/fr/map/anonymous-edit/498937:rNZ9vgD45VPxZlCh2TPIJoO6K0A) (pour ajouter une position, cliquez en haut à droite sur le stylo puis sur Ajouter un marqueur. Dans le marqueur, saisi ton nom-prénom, pour pouvoir être contacté·e sur Tchap). Tu pourras ainsi peut-être trouver un membre près de chez toi pour télétravailler ensemble, partager un coworking ou tout simplement un ☕️.
 
 [![Carte de la communauté](../../../.gitbook/assets/carte_communaute.png)](http://umap.openstreetmap.fr/fr/map/la-communaute-betagouv_498937)
 
@@ -16,10 +16,10 @@ Des membres de la communauté beta.gouv.fr travaillent un peu partout en France.
 
 L'ETAP (Espace de Travail de l'Agent Public) est le 1er espace de coworking entièrement dédié aux agents publics : il est accessible, gratuitement et sur réservation, à tous les membres de la communauté ayant une adresse en .gouv.fr (donc en @beta.gouv.fr).
 
-* ETAP 75 - 47 rue Le Peletier, 75009 Paris
-* ETAP 91 - boulevard de France, 91919 Evry-Courcouronnes
-* ETAP 94 - 21-29 avenue du Général de Gaulle, 94000 Créteil
-* ETAP 95 - 5 avenue Bernard Hirsch, 95000 Cergy
+- ETAP 75 - 47 rue Le Peletier, 75009 Paris
+- ETAP 91 - boulevard de France, 91919 Evry-Courcouronnes
+- ETAP 94 - 21-29 avenue du Général de Gaulle, 94000 Créteil
+- ETAP 95 - 5 avenue Bernard Hirsch, 95000 Cergy
 
 Lien d'inscription / réservation : [https://etap-prefecture.fr/reserver-un-etap/](https://etap-prefecture.fr/reserver-un-etap/)
 
@@ -41,8 +41,6 @@ Il est accessible uniquement sur réservation en remplissant le formulaire suiva
 
 Il arrive que des places soient inoccupées dans les locaux du [GIP Plateforme de l'inclusion](https://inclusion.gouv.fr) et de [la Mednum](https://lamednum.coop) pour des individus. Les salles de réunion ne sont malheureusement pas disponibles pour accueillir des groupes extérieurs.
 
-Faire une demande sur le canal Mattermost [\~gip-inclusion-locaux](https://mattermost.incubateur.net/betagouv/channels/gip-inclusion-locaux), pour voir s'il reste de la place et qui sera là pour vous ouvrir.
-
 ### 6-LAB, activateur à projet des Ministères sociaux
 
 14 avenue Duquesne, 75007 Paris
@@ -53,7 +51,7 @@ Faire une demande sur le canal Mattermost [\~gip-inclusion-locaux](https://matte
 
 ### La Fabrique Numérique
 
-La Grande Arche Paroi sud 
+La Grande Arche Paroi sud
 92055 LA DÉFENSE CEDEX
 
 Un grand open space + une salle de réunion avec un espace table haute + chaises et un espace canapé + fauteuils
@@ -86,7 +84,7 @@ Infos et réservation : [https://www.malt.fr/c/freelancers/coworking-space](http
 
 ## Rennes
 
-Une question ? 👉 [\~bureaux-bretagne](https://mattermost.incubateur.net/betagouv/channels/bureaux-bretagne)
+Une question ? 👉 [bureaux-Bretagne sur Tchap](https://tchap.gouv.fr/#/room/!zBcMxSHDZcAUntUTtQ:agent.dinum.tchap.gouv.fr)
 
 ### [La Cordée Rennes](https://www.la-cordee.net/cordee/rennes/rennes-lices/)
 
@@ -94,10 +92,10 @@ Une question ? 👉 [\~bureaux-bretagne](https://mattermost.incubateur.net/betag
 
 Pour:
 
-* venir travailler seul à la journée :
-  * devenir membre (35€HT/mois pour un accès à toutes les cordées de France + \~3€/heure 👉 [les tarifs](https://www.la-cordee.net/nos-tarifs-ht-lyon-annecy-nantes-rennes/))
-  * se faire inviter occasionnellement par un membres de beta.gouv.fr (poser la question sur [\~bureaux-bretagne](https://mattermost.incubateur.net/betagouv/channels/bureaux-bretagne))
-* réserver une salle de réunion : possible sans être membre et sans abonnement, paiement à la demi-journée, 2 salles de \~ 5 à 10 places dispo 👉 [les salles](https://www.la-cordee.net/salles-de-reunion/)
+- venir travailler seul à la journée :
+  - devenir membre (35€HT/mois pour un accès à toutes les cordées de France + \~3€/heure 👉 [les tarifs](https://www.la-cordee.net/nos-tarifs-ht-lyon-annecy-nantes-rennes/))
+  - se faire inviter occasionnellement par un membres de beta.gouv.fr (poser la question sur [bureaux-Bretagne sur Tchap](https://tchap.gouv.fr/#/room/!zBcMxSHDZcAUntUTtQ:agent.dinum.tchap.gouv.fr))
+- réserver une salle de réunion : possible sans être membre et sans abonnement, paiement à la demi-journée, 2 salles de \~ 5 à 10 places dispo 👉 [les salles](https://www.la-cordee.net/salles-de-reunion/)
 
 ### [Tilab](https://www.bretagne.bzh/actualites/ti-lab-laboratoire-regional-dinnovation-publique/)
 
@@ -105,7 +103,7 @@ Espace de la région Bretagne 5 Rue Martenot, 35000 Rennes tilab@bretagne.bzh
 
 ## Lyon
 
-Une question ? 👉 [\~bureaux-betalyon](https://mattermost.incubateur.net/betagouv/channels/bureaux-betalyon)
+Une question ? 👉 [bureaux-Lyon sur Tchap](https://tchap.gouv.fr/#/room/!eFbTqlAuTPuDFVnsDv:agent.dinum.tchap.gouv.fr)
 
 ### Le Lab Pôle Emploi
 
@@ -121,19 +119,19 @@ Une question ? 👉 [\~bureaux-betalyon](https://mattermost.incubateur.net/betag
 
 Pour:
 
-* venir travailler seul à la journée :
-  * soit devenir membre (plusieurs formules, à partir de 35€HT/mois pour un accès à toutes les cordées de France + \~3€/heure 👉 [les tarifs](https://www.la-cordee.net/nos-tarifs-ht-lyon-annecy-nantes-rennes/))
-  * soit se faire inviter par un des membres de beta
-* réserver une salle de réunion : possible sans être membre et sans abonnement, paiement à la demi-journée, prix très abordables, notamment pour des séminaires 👉 [les salles](https://www.la-cordee.net/salles-de-reunion/)
+- venir travailler seul à la journée :
+  - soit devenir membre (plusieurs formules, à partir de 35€HT/mois pour un accès à toutes les cordées de France + \~3€/heure 👉 [les tarifs](https://www.la-cordee.net/nos-tarifs-ht-lyon-annecy-nantes-rennes/))
+  - soit se faire inviter par un des membres de beta
+- réserver une salle de réunion : possible sans être membre et sans abonnement, paiement à la demi-journée, prix très abordables, notamment pour des séminaires 👉 [les salles](https://www.la-cordee.net/salles-de-reunion/)
 
 ## Nantes
 
-Une question ? 👉 [\~bureaux-Nantes](https://mattermost.incubateur.net/betagouv/channels/nantes-coworking)
+Une question ? 👉 [bureaux-Nantes sur Tchap](https://tchap.gouv.fr/#/room/!KjcYLgxESMWrfgfTzY:agent.dinum.tchap.gouv.fr)
 
 ### [Etat’LIN](https://www.prefectures-regions.gouv.fr/pays-de-la-loire/Region-et-institutions/Organisation-administrative-de-la-region/Secretariat-General-pour-les-Affaires-Regionales-SGAR/Etat-LIN-le-Laboratoire-d-innovation-territoriale-de-l-Etat-en-region-Pays-de-la-Loire/Etat-LIN-c-est-quoi/#titre)
 
 6 quai Ceineray, 44000 Nantes - Pays de la Loire etatlin@pays-de-la-loire.gouv.fr\
-Plus d'informations sur le canal [\~bureaux-Nantes](https://mattermost.incubateur.net/betagouv/channels/nantes-coworking))
+Plus d'informations sur le canal [bureaux-Nantes sur Tchap](https://tchap.gouv.fr/#/room/!KjcYLgxESMWrfgfTzY:agent.dinum.tchap.gouv.fr)
 
 ### [La Cordée Nantes](https://www.la-cordee.net/cordee/nantes/sur-erdre/)
 
@@ -141,10 +139,10 @@ Plus d'informations sur le canal [\~bureaux-Nantes](https://mattermost.incubateu
 
 Pour:
 
-* venir travailler seul à la journée :
-  * soit devenir membre (plusieurs formules, à partir de 35€HT/mois pour un accès à toutes les cordées de France + \~3€/heure 👉 [les tarifs](https://www.la-cordee.net/nos-tarifs-ht-lyon-annecy-nantes-rennes/))
-  * soit se faire inviter par un des membres de beta (poser la question sur [\~bureaux-Nantes](https://mattermost.incubateur.net/betagouv/channels/nantes-coworking))
-* réserver une salle de réunion : possible sans être membre et sans abonnement, paiement à la demi-journée, prix très abordables, notamment pour des séminaires 👉 [les salles](https://www.la-cordee.net/salles-de-reunion/)
+- venir travailler seul à la journée :
+  - soit devenir membre (plusieurs formules, à partir de 35€HT/mois pour un accès à toutes les cordées de France + \~3€/heure 👉 [les tarifs](https://www.la-cordee.net/nos-tarifs-ht-lyon-annecy-nantes-rennes/))
+  - soit se faire inviter par un des membres de beta (poser la question sur [bureaux-Nantes sur Tchap](https://tchap.gouv.fr/#/room/!KjcYLgxESMWrfgfTzY:agent.dinum.tchap.gouv.fr))
+- réserver une salle de réunion : possible sans être membre et sans abonnement, paiement à la demi-journée, prix très abordables, notamment pour des séminaires 👉 [les salles](https://www.la-cordee.net/salles-de-reunion/)
 
 ## Rouen
 
@@ -166,7 +164,7 @@ insolab@tvt.fr
 
 ## Bordeaux
 
-Une question ? 👉 [\~bureaux-bordeaux](https://mattermost.incubateur.net/betagouv/channels/bureaux-bordeaux)
+Une question ? 👉 [bureaux-Bordeaux sur Tchap](https://tchap.gouv.fr/#/room/!bEmXZYZUGbEnwiXASU:agent.dinum.tchap.gouv.fr)
 
 ### [La Base](https://www.labase-na.fr/)
 
@@ -186,7 +184,7 @@ innovation-bfc@bfc.gouv.fr
 
 ## Strasbourg
 
-Une question ? 👉 [\~bureaux-Strasbourg](https://mattermost.incubateur.net/betagouv/channels/bureaux-strasbourg)
+Une question ? 👉 [bureaux-Strasbourg sur Tchap](https://tchap.gouv.fr/#/room/!mbrolQfvfwPdceosKn:agent.dinum.tchap.gouv.fr)
 
 ### Lab'EST
 
@@ -196,7 +194,7 @@ modernisation@grand-est.gouv.fr
 
 ## Toulouse
 
-Une question ? [\~bureaux-Toulouse](https://mattermost.incubateur.net/betagouv/channels/entre-toulousains)
+Une question ? [bureaux-Toulouse sur Tchap](https://tchap.gouv.fr/#/room/!BjBeZIAsQJsXgQpzHI:agent.dinum.tchap.gouv.fr)
 
 ### [LabO](https://www.prefectures-regions.gouv.fr/occitanie/Region-et-institutions/L-action-de-l-Etat/Transition-numerique-de-l-Etat-et-modernisation-de-l-action-publique/Laboratoire-d-innovations/Laboratoire-d-innovations)
 
@@ -218,7 +216,7 @@ laboratoire-numerique@asp-public.fr
 
 ### Siilab
 
-[2 Bd de Strasbourg, 59000 Lille](https://www.google.fr/maps/place/Siilab/@50.6178911,3.0487229,17z/data=!3m1!4b1!4m6!3m5!1s0x47c2d5823024b6bd:0x99b62686d16b46eb!8m2!3d50.6178877!4d3.0512978!16s%2Fg%2F11h2f0038q?entry=tts\&g_ep=EgoyMDI1MDMwNC4wIPu8ASoASAFQAw%3D%3D)
+[2 Bd de Strasbourg, 59000 Lille](https://www.google.fr/maps/place/Siilab/@50.6178911,3.0487229,17z/data=!3m1!4b1!4m6!3m5!1s0x47c2d5823024b6bd:0x99b62686d16b46eb!8m2!3d50.6178877!4d3.0512978!16s%2Fg%2F11h2f0038q?entry=tts&g_ep=EgoyMDI1MDMwNC4wIPu8ASoASAFQAw%3D%3D)
 
 christophe.trouillard@jscs.gouv.fr
 
@@ -238,7 +236,7 @@ Contact : Jérôme Desboeufs - [jerome.desboeufs@data.gouv.fr](mailto:jerome.des
 
 Pour:
 
-* venir travailler seul à la journée :
-  * soit devenir membre (plusieurs formules, à partir de 35€HT/mois pour un accès à toutes les cordées de France + \~3€/heure 👉 [les tarifs](https://www.la-cordee.net/nos-tarifs-ht-lyon-annecy-nantes-rennes/))
-  * soit se faire inviter par un des membres de beta
-* réserver une salle de réunion : possible sans être membre et sans abonnement, paiement à la demi-journée, prix très abordables, notamment pour des séminaires 👉 [les salles](https://www.la-cordee.net/salles-de-reunion/)
+- venir travailler seul à la journée :
+  - soit devenir membre (plusieurs formules, à partir de 35€HT/mois pour un accès à toutes les cordées de France + \~3€/heure 👉 [les tarifs](https://www.la-cordee.net/nos-tarifs-ht-lyon-annecy-nantes-rennes/))
+  - soit se faire inviter par un des membres de beta
+- réserver une salle de réunion : possible sans être membre et sans abonnement, paiement à la demi-journée, prix très abordables, notamment pour des séminaires 👉 [les salles](https://www.la-cordee.net/salles-de-reunion/)
