@@ -26,11 +26,11 @@ Les badges sont produits à Ségur mais **inutile d'aller le chercher toi-même.
 
 ## ✨ Que faire tant que je n'ai pas de badge ?
 
+Tu dois remplir[ ce formulaire de demande d'accès](https://tally.so/r/w8AJjP) pour qu'un membre de l'équipe animation puisse la traiter.\
+\
+**Attention : toute demande réalisée moins de 24h avant la date de venue souhaitée ne pourra être traitée.**
 
-
-
-Tu peux également remplir[ ce formulaire de demande d'accès](https://tally.so/r/w8AJjP) pour qu'un membre de l'équipe animation puisse la traiter.\
-**Attention : toute demande réalisée moins de 24h avant la date de venue souhaitée, ne pourra être traitée.**
+Un problème ? Tu peux poser ta question sur le [salon Tchap Entraide-communauté](https://tchap.gouv.fr/#/room/!FznvyqtGVRlsGHcLVE:agent.dinum.tchap.gouv.fr).
 
 ## ⏲️ Comment renouveler un badge qui a expiré ?
 
