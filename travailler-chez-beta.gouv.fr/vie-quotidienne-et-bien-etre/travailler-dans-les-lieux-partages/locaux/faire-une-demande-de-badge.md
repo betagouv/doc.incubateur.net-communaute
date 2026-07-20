@@ -28,7 +28,6 @@ Les badges sont produits à Ségur mais **inutile d'aller le chercher toi-même.
 
 
 
-> Bonjour, Pourriez-vous s'il vous plaît laisser monter xxxxxx tous les matins des prochains jours en salle 5.515 ? Il s'agit d'une nouvelle personne collaborant avec l'incubateur de services numériques de la DINUM. Nous avons effectué sa demande de badge il y a quelques jours, mais ce-dernier n'est pas encore arrivé. Merci beaucoup !
 
 Tu peux également remplir[ ce formulaire de demande d'accès](https://tally.so/r/w8AJjP) pour qu'un membre de l'équipe animation puisse la traiter.\
 **Attention : toute demande réalisée moins de 24h avant la date de venue souhaitée, ne pourra être traitée.**
