@@ -254,7 +254,6 @@
   * [5️⃣ Arrêt](gerer-son-produit/la-vie-du-produit/arret.md)
 * [🏋️ Gérer son équipe](gerer-son-produit/renforcer-l-equipe/README.md)
   * [Processus et bonnes pratiques de sélection d'une personne en prestation](gerer-son-produit/renforcer-l-equipe/conseils-pour-le-recrutement/README.md)
-    * [Parcours "mission sélection"](gerer-son-produit/renforcer-l-equipe/conseils-pour-le-recrutement/parcours-mission-selection.md)
     * [Guides d'entretien par profil](gerer-son-produit/renforcer-l-equipe/conseils-pour-le-recrutement/guide-dentretiens-par-profil.md)
     * [Publier une offre de mission sur le compte LinkedIn de beta.gouv.fr](gerer-son-produit/renforcer-l-equipe/conseils-pour-le-recrutement/publier-une-offre-de-mission-sur-le-compte-linkedin-de-beta.gouv.fr.md)
   * [❌ recruter-designer.md](gerer-son-produit/renforcer-l-equipe/recruter-designer.md)
