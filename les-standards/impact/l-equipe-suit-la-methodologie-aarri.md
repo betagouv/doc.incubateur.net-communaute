@@ -33,5 +33,5 @@ vous aider à établir ces indicateurs.
 
 ## Ressources
 
-- [Accélérer la croissance de son service avec la méthode AARRI - doc.incubateur.net](https://doc.incubateur.net/communaute/gerer-son-produit/pourquoi-le-deploiement-dun-service-public-en-ligne-est-il-important/methode-aarri)
+- [Accélérer la croissance de son service avec la méthode AARRI - doc.incubateur.net](https://doc.incubateur.net/communaute/gerer-son-produit/aide-a-la-mise-en-application-des-standards/pourquoi-le-deploiement-dun-service-public-en-ligne-est-il-important/methode-aarri)
 - [Ateliers impact & croissance - doc.incubateur.net](https://doc.incubateur.net/communaute/solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/piloter-sa-croissance-et-evaluer-son-impact)

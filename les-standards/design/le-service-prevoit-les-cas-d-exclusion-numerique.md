@@ -38,5 +38,5 @@ Pour y parvenir, trois mesures essentielles s'imposent :
 
 ## Ressources
 
-- [Qu'est-ce que l'inclusion - doc.incubateur.net](https://doc.incubateur.net/communaute/gerer-son-produit/les-standards/accessibilite-and-inclusion/rendre-un-service-inclusif/quest-ce-que-linclusion)
+- [Qu'est-ce que l'inclusion - doc.incubateur.net](https://doc.incubateur.net/communaute/gerer-son-produit/aide-a-la-mise-en-application-des-standards/accessibilite-et-inclusion/rendre-un-service-inclusif/quest-ce-que-linclusion)
 - [Pôle numérique inclusif - doc.incubateur.net](https://doc.incubateur.net/communaute/solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/aide-transverse-pole-numerique-inclusif)

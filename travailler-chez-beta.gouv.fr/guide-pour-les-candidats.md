@@ -32,7 +32,7 @@ Plusieurs recommandations sont diffusées aux équipes beta.gouv.fr à partir de
 
 [Guide d'entretiens par profil](../gerer-son-produit/renforcer-l-equipe/conseils-pour-le-recrutement/guide-dentretiens-par-profil.md)
 
-[Bonnes pratiques de sélection](https://doc.incubateur.net/communaute/gerer-son-produit/gestion-au-quotidien/renforcer-l-equipe/conseils-pour-le-recrutement)
+[Bonnes pratiques de sélection](https://doc.incubateur.net/communaute/gerer-son-produit/renforcer-l-equipe/conseils-pour-le-recrutement)
 
 ### Quelques ressources sur beta.gouv.fr et ses services numériques <a href="#quelques-ressources-sur-beta.gouv.fr" id="quelques-ressources-sur-beta.gouv.fr"></a>
 

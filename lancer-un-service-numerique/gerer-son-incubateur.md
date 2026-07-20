@@ -35,7 +35,7 @@ En tant qu'incubateur du réseau beta.gouv.fr, les équipes qui suivent l'approc
 
 #### Accès à la communauté beta.gouv.fr
 
-* mise en avant des services numériques et de l'incubateur sur le site internet [beta.gouv.fr](broken-reference/) ;
+* mise en avant des services numériques et de l'incubateur sur le site internet [beta.gouv.fr](https://beta.gouv.fr) ;
 * accès au [Tchap](../les-outils-de-la-communaute/tchap) beta.gouv.fr ;
 * relai des campagnes de recrutement sur les réseaux beta.gouv.fr (site internet, réseaux sociaux) ;
 * invitation des membres des équipes aux “[clubs](../decouvrir-beta.gouv.fr/la-communaute/les-rituels/clubs-de-partage-dexperience.md)” beta.gouv.fr et réflexions transverses (séminaires, réseaux de partage d’expérience entre coachs, intrapreneurs ou chefs de produit, développeurs, designers, chargés de déploiement, etc) ;

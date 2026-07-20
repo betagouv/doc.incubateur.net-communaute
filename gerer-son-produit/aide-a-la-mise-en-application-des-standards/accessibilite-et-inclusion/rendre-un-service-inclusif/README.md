@@ -36,6 +36,6 @@ Ce guide a pour but de vous donner des clés pour concevoir pour tout le monde.
 [accessibilite-and-inclusion.md](../../../les-standards/accessibilite-and-inclusion.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../../standards/accessibilite-inclusion/accessibilite-et-rgaa/" %}
-[accessibilite-et-rgaa](../../../standards/accessibilite-inclusion/accessibilite-et-rgaa/)
+{% content-ref url="../obligations-legales.md" %}
+[accessibilite-et-rgaa](../obligations-legales.md)
 {% endcontent-ref %}

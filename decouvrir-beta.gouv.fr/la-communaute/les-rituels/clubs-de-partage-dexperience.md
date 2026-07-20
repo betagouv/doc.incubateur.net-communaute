@@ -25,4 +25,4 @@ Toutes les informations relatives à ses clubs sont présentes en entête des ca
 
 Ton métier n'a pas encore de club ? N'hésite pas à le proposer au prochain forum et à l'ajouter [à l'agenda public](https://doc.incubateur.net/communaute/les-outils-de-la-communaute/agenda-de-la-communaute).
 
-👉 [Plus d'informations sur le Forum beta.gouv](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/actions-transverses/rituels/seminaire)
+👉 [Plus d'informations sur le Forum beta.gouv](https://doc.incubateur.net/communaute/decouvrir-beta.gouv.fr/la-communaute/les-rituels/seminaire)

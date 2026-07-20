@@ -151,7 +151,7 @@ Tu peux lire par exemple [cet article](https://mozaikrh.com/11-biais-cognitifs-a
 
 #### Assure toi de la compatibilité avec les valeurs de beta.gouv.fr
 
-Lorsqu'une nouvelle personne vient travailler avec vous, elle participe aussi à la communauté beta.gouv.fr. Il est donc important de vérifier qu'elle est bien en accord avec [les valeurs de la communauté. ](../../../travailler-a-beta-gouv/culture/charte.md). Le moyen le plus simple de le savoir reste de lui demander si elle les a lues, si elle les partage ou si cela fait écho à sa façon de travailler.
+Lorsqu'une nouvelle personne vient travailler avec vous, elle participe aussi à la communauté beta.gouv.fr. Il est donc important de vérifier qu'elle est bien en accord avec [les valeurs de la communauté. ](../../../decouvrir-beta.gouv.fr/valeurs.md). Le moyen le plus simple de le savoir reste de lui demander si elle les a lues, si elle les partage ou si cela fait écho à sa façon de travailler.
 
 ### Phase 5 : Comparer et faire le bon choix parmi les profils
 
@@ -196,7 +196,7 @@ Les [référents métiers](https://doc.incubateur.net/communaute/solliciter-et-c
 
 Une fois la proposition acceptée par le.a prestataire, il te faut passer **commande** auprès d'un des titulaires du marché public. La méthodologie de prise de commande peut varier selon chaque incubateur, alors rapproche toi du responsable de l'équipe transverse de celui-ci.
 
-Pour préparer au mieux [l'évaluation future de la mission et valider ou non les services faits](https://doc.incubateur.net/communaute/gerer-son-produit/gestion-au-quotidien/renforcer-l-equipe/embarquement-par-le-recruteur#pense-bete-pour-les-premiers-mois), nous te recommandons d'annexer ce [document](https://docs.numerique.gouv.fr/docs/ab8e7ef7-4dae-4f15-8f0d-d97418b3fe1b/) à ton bon de commande. Ce document reprend trait pour trait les missions et critères que tu as défini lors de la phase de cadrage, il n'y a donc pas de travail supplémentaire. Cette annexe te permettra de légitimer fortement ton évaluation des services faits et prendre les bonnes décisions par la suite.
+Pour préparer au mieux [l'évaluation future de la mission et valider ou non les services faits](https://doc.incubateur.net/communaute/gerer-son-produit/renforcer-l-equipe/embarquement-par-le-recruteur#pense-bete-pour-les-premiers-mois), nous te recommandons d'annexer ce [document](https://docs.numerique.gouv.fr/docs/ab8e7ef7-4dae-4f15-8f0d-d97418b3fe1b/) à ton bon de commande. Ce document reprend trait pour trait les missions et critères que tu as défini lors de la phase de cadrage, il n'y a donc pas de travail supplémentaire. Cette annexe te permettra de légitimer fortement ton évaluation des services faits et prendre les bonnes décisions par la suite.
 
 Pour rappel, le service fait peut être validé sans réserve/avec réserve si les livrables rendus sont non conformes ou incomplets (CF. [Documentation](https://doc.incubateur.net/communaute/gerer-son-produit/gestion-au-quotidien/marches)
 

@@ -107,6 +107,6 @@ Utiliser des IP différentes pour vos emails transactionnels et vos emails marke
 
 ## Aide Transverse DINUM
 
-Si vous souhaitez de l'aide sur les sujets liés à la croissance, la DINUM met en place un accompagnement en transverse : [https://doc.incubateur.net/communaute/aide-transverse/growth-hacking-acquisition](https://doc.incubateur.net/communaute/aide-transverse/growth-hacking-acquisition) par Chaïb Martinez
+Si vous souhaitez de l'aide sur les sujets liés à la croissance, la DINUM met en place un accompagnement en transverse : [https://doc.incubateur.net/communaute/solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/growth-hacking-acquisition](https://doc.incubateur.net/communaute/solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/growth-hacking-acquisition) par Chaïb Martinez
 
-Côté gestion de produit, [https://doc.incubateur.net/communaute/aide-transverse/methodologie-produit](https://doc.incubateur.net/communaute/aide-transverse/methodologie-produit) par Mathilde Petit et Clément Chapalain
+Côté gestion de produit, [https://doc.incubateur.net/communaute/gerer-son-produit/approche-produit](https://doc.incubateur.net/communaute/gerer-son-produit/approche-produit) par Mathilde Petit et Clément Chapalain

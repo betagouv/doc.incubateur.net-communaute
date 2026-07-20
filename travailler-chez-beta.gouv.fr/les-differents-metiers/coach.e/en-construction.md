@@ -17,7 +17,7 @@ Cette transparence continue de s'appliquer en phase de construction.
 * Demander au responsable d'incubateur ou de portefeuille à créer une fiche membre sur l'espace membre beta.gouv.fr. Une personne validera la demande de compte et tu recevras un email pour remplir ta fiche.
 * Rejoindre le canal de discussion de ta Startups d’État (si ce n’est pas déjà fait). Pour en savoir plus, tu peux consulter [ces explications.](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/la-vie-dune-se/investigation/conseils-pour-les-coachs-en-investigation#quest-ce-quon-attend-de-moi-la-premiere-semaine)
 * Solliciter un mentorat d'un membre de beta.gouv.fr ayant déjà réalisé une phase de construction (1h par semaine d'échange pour aide) sur le canal Mattermost #incubateur-coach.
-* Lancer les recrutements des autres membres de l’équipe. Il arrive souvent que le ou la coach soit la première personne à rejoindre l’intra. Le coach aidera l’intra dans ce [renforcer l'équipe](https://doc.incubateur.net/communaute/gerer-son-produit/gestion-au-quotidien/renforcer-l-equipe).
+* Lancer les recrutements des autres membres de l’équipe. Il arrive souvent que le ou la coach soit la première personne à rejoindre l’intra. Le coach aidera l’intra dans ce [renforcer l'équipe](https://doc.incubateur.net/communaute/gerer-son-produit/renforcer-l-equipe).
 
 ## **​Et après la première semaine, quels sont les jalons que je dois garder en tête ?**
 
@@ -55,7 +55,7 @@ Cette transparence continue de s'appliquer en phase de construction.
 
 ### **Le RGPD et la construction**
 
-* [​​Les questions à se poser en matière de RGPD pendant la phase de construction​](https://doc.incubateur.net/communaute/gerer-son-produit/les-standards/protection-des-donnees-personnelles)
+* [​​Les questions à se poser en matière de RGPD pendant la phase de construction​](https://doc.incubateur.net/communaute/gerer-son-produit/aide-a-la-mise-en-application-des-standards/protection-des-donnees-personnelles)
 
 
 
