@@ -27,7 +27,6 @@ Les badges sont produits à Ségur mais **inutile d'aller le chercher toi-même.
 ## ✨ Que faire tant que je n'ai pas de badge ?
 
 
-Exemple de mail :
 
 > Bonjour, Pourriez-vous s'il vous plaît laisser monter xxxxxx tous les matins des prochains jours en salle 5.515 ? Il s'agit d'une nouvelle personne collaborant avec l'incubateur de services numériques de la DINUM. Nous avons effectué sa demande de badge il y a quelques jours, mais ce-dernier n'est pas encore arrivé. Merci beaucoup !
 
