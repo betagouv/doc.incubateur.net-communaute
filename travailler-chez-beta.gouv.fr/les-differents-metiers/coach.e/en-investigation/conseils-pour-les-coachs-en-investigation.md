@@ -61,7 +61,7 @@ L'objectif est de rendre votre travail découvrable facilement pour toute person
 
 ### Le RGPD et l'investigation <a href="#le-rgpd-et-linvestigation" id="le-rgpd-et-linvestigation"></a>
 
-- [​Les questions à se poser en matière de RGPD pendant l'investigation](https://doc.incubateur.net/communaute/gerer-son-produit/les-standards/protection-des-donnees-personnelles#phase-dinvestigation)
+- [​Les questions à se poser en matière de RGPD pendant l'investigation](https://doc.incubateur.net/communaute/gerer-son-produit/aide-a-la-mise-en-application-des-standards/protection-des-donnees-personnelles#phase-dinvestigation)
 
 ### Des tutos sur les principaux outils utilisés <a href="#des-tutos-sur-les-principaux-outils-utilises" id="des-tutos-sur-les-principaux-outils-utilises"></a>
 

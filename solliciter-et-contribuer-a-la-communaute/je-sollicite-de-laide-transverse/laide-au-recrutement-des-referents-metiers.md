@@ -15,7 +15,7 @@ L’**accompagnement des référents métiers** a été créé pour satisfaire c
 
 Ce groupe de référents aide à cadrer et à interroger le besoin initial, à définir avec précision les compétences nécessaires, et à proposer un parcours efficace de sélection tout en permettant aux équipes de **monter en compétences** sur les différents métiers numériques 💡.
 
-Cette approche s'inscrit dans le cadre du [processus de recrutement](https://doc.incubateur.net/communaute/gerer-son-produit/gestion-au-quotidien/renforcer-l-equipe/conseils-pour-le-recrutement) devant être suivi pour chaque nouvelle mission de prestation de service.
+Cette approche s'inscrit dans le cadre du [processus de recrutement](https://doc.incubateur.net/communaute/gerer-son-produit/renforcer-l-equipe/conseils-pour-le-recrutement) devant être suivi pour chaque nouvelle mission de prestation de service.
 
 En résumé, ce **pôle de référents** permet d'assurer aux intrapreneur(e)s et à leurs équipes une sélection **rapide et efficace des profils dont ils ont besoin** et qui viennent enrichir la communauté** [beta.gouv.fr](http://beta.gouv.fr) 🏆.
 

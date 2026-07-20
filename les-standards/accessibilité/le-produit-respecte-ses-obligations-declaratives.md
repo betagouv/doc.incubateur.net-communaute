@@ -68,7 +68,7 @@ mise en accessibilité. Par exemple :
 
 ## Ressources
 
-- [Obligations légales d'accessibilite - doc.incubateur.net](https://doc.incubateur.net/communaute/gerer-son-produit/les-standards/accessibilite-and-inclusion/obligations-legales#obligations-legales)
+- [Obligations légales d'accessibilite - doc.incubateur.net](https://doc.incubateur.net/communaute/gerer-son-produit/aide-a-la-mise-en-application-des-standards/accessibilite-et-inclusion/obligations-legales#obligations-legales)
 - [Obligations légales : Déclaration d'accessibilité - numerique.gouv.fr](https://accessibilite.numerique.gouv.fr/obligations/declaration-accessibilite/)
 - [Générateur de déclaration d'accessibilité - betagouv.github.io](https://betagouv.github.io/a11y-generateur-declaration/)
 - [Obligations légales : Schéma pluriannuel de mise en accessibilité - numerique.gouv.fr](https://accessibilite.numerique.gouv.fr/obligations/schema-pluriannuel/)

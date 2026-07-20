@@ -194,7 +194,7 @@ Nous conseillons d’effectuer ces deux actions en même temps, afin de réduire
 Il est important de prévenir l'entreprise titulaire **avant** de diffuser l'offre (dans le réseau beta.gouv.fr et/ou sur le Welcome to the Jungle).
 {% endhint %}
 
-Si tu n'as pas l’habitude de juger des profils techniques, tu peux te faire aider (la personne qui te coache, les responsables de ton incubateur ou les [référents métiers](../../../solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/laide-au-recrutement-des-referents-metiers.md)). La documentation [Guide d'entretien par profil](https://doc.incubateur.net/communaute/gerer-son-produit/gestion-au-quotidien/renforcer-l-equipe/guide-dentretiens-par-profil) peut également t'aider à poser les bonnes questions.
+Si tu n'as pas l’habitude de juger des profils techniques, tu peux te faire aider (la personne qui te coache, les responsables de ton incubateur ou les [référents métiers](../../../solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/laide-au-recrutement-des-referents-metiers.md)). La documentation [Guide d'entretien par profil](https://doc.incubateur.net/communaute/gerer-son-produit/renforcer-l-equipe/conseils-pour-le-recrutement/guide-dentretiens-par-profil) peut également t'aider à poser les bonnes questions.
 
 {% hint style="info" %}
 Si les profils identifiés ne sont pas salariés de l'entreprise titulaire, ils deviennent sous-traitants du titulaire et devront donc contractualiser avec celle-ci. Tu n'a pas de rôle ou d'action à réaliser à ce sujet.

@@ -74,7 +74,7 @@ Pour s'inscrire, RDV [ici](https://app.calendso.incubateur.net/amel-alili/embarq
 * [Modèle de fiche poste "Intrapreneur de startup d'Etat"](https://github.com/betagouv/beta.gouv.fr/files/3069081/Fiche.poste.Intrapreneur.startup.d.Etat.VBETA.docx)
 * [Toutes les conventions et avenants des SE](https://www.data.gouv.fr/fr/datasets/conventions-de-partenariat/)
 * [Modèle de suivi du budget de la SE](https://docs.google.com/spreadsheets/d/1JSVnmruZq0iufjpxabnYKaHcR1XBygL0MXkYOm7nz3E/edit?usp=sharing)
-* [RGPD et sécurité : des conseils avant de démarrer](../../../je-securise-mon-produit/guide-rgpd-et-securite.md)
+* [RGPD et sécurité : des conseils avant de démarrer](../../../gerer-son-produit/aide-a-la-mise-en-application-des-standards/securite/README.md)
 
 ### Articles sur l'intrapreneuriat
 

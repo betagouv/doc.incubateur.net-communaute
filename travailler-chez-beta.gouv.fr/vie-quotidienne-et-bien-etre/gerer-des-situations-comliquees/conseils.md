@@ -38,7 +38,7 @@ Le harcèlement moral ou sexuel est interdit et constitue un délit pénal. A ti
     * membre de son équipe
     * coach de l'équipe
     * direction de l'incubateur
-    * un·e membre de [l'équipe d'animation de beta](../../../decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/lequipe-danimation-beta.gouv.fr.md)
+    * un·e membre de [l'équipe d'animation de beta](../../../decouvrir-beta.gouv.fr/incubateur-de-la-dinum.md)
 
     On a le droit, de sa propre initiative, "d'escalader" la chaîne si la réponse apportée ne satisfait pas.
 *   **Contacter le groupe de soutien :** constitué de membres de la communauté, ses membres sont disponibles pour vous écouter en respectant la confidentialité de votre situation en cas de conflit, mal-être ou souffrance, violence ou harcèlement.

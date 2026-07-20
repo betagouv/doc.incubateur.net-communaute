@@ -30,10 +30,6 @@ Slides : [https://docs.google.com/presentation/d/1MT3xbM0j23Xwl5s55sss6cEKNEhSUF
 
 {% embed url="https://youtu.be/SUDu3BHAfpc" %}
 
-{% content-ref url="../../../../../ressources/travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/faire-une-visio/visioconferences.md" %}
-[visioconferences.md](../../../../../ressources/travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/faire-une-visio/visioconferences.md)
-{% endcontent-ref %}
-
 ## E-Mailing <a href="#mailing-en-masse" id="mailing-en-masse"></a>
 
 #### Utiliser un outil comme Brevo <a href="#utiliser-mailjet" id="utiliser-mailjet"></a>

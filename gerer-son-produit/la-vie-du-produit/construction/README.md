@@ -40,10 +40,6 @@ Vous allez probablement devoir nommer votre service assez rapidement, notamment 
 
 ## Kit de démarrage pour les coachs
 
-{% content-ref url="broken-reference/" %}
-[broken-reference](broken-reference/)
-{% endcontent-ref %}
-
 {% content-ref url="3-retours-dexperience-de-coachs.md" %}
 [3-retours-dexperience-de-coachs.md](3-retours-dexperience-de-coachs.md)
 {% endcontent-ref %}

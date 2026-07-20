@@ -26,5 +26,5 @@ les règles d'hygiène informatique et de sécurité.
 
 ## Ressources
 
-- [Règles d'hygiène informatique et de sécurité - doc.incubateur.net](https://doc.incubateur.net/communaute/gerer-son-produit/les-standards/securite/regles-dhygiene-informatique-et-de-securite)
+- [Règles d'hygiène informatique et de sécurité - doc.incubateur.net](https://doc.incubateur.net/communaute/gerer-son-produit/aide-a-la-mise-en-application-des-standards/securite/regles-dhygiene-informatique-et-de-securite)
 - [MOOC - La cybersécurité des projets numériques - mentor.gouv.fr](https://mentor.gouv.fr/local/catalog/pages/training.php?trainingid=494)

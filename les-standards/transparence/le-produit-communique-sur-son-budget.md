@@ -16,7 +16,7 @@ Cette transparence budgétaire a plusieurs vertus :
 
 ### Saisie du budget de votre produit
 
-Pour vous aider à publier votre budget, nous mettons à votre disposition la page ["Publier son budget"](https://doc.incubateur.net/communaute/gerer-son-produit/les-standards/transparence/publier-son-budget) sur la documentation de l'incubateur. Vous y trouverez le référentiel que nous demandons aux équipes de respecter, et un document Grist commun qui nous permettra de mieux comprendre et analyser nos dépenses.
+Pour vous aider à publier votre budget, nous mettons à votre disposition la page ["Publier son budget"](https://doc.incubateur.net/communaute/gerer-son-produit/aide-a-la-mise-en-application-des-standards/publier-son-budget) sur la documentation de l'incubateur. Vous y trouverez le référentiel que nous demandons aux équipes de respecter, et un document Grist commun qui nous permettra de mieux comprendre et analyser nos dépenses.
 
 ### Fréquence de la publication du budget
 
@@ -34,5 +34,5 @@ La publication du budget se fait deux fois par an :
 
 ## Ressources
 
-* [Publier son budget - doc.incubateur.net](https://doc.incubateur.net/communaute/gerer-son-produit/les-standards/transparence/publier-son-budget)
-* [Grist commun des budgets - grist.numerique.gouv.fr](\[https:/grist.numerique.gouv.fr/o/docs/fTjFnK7Bhvuo/Depenses-numeriques/p/1]\(https:/grist.numerique.gouv.fr/o/isn/mAQJQawVbFUA/Depenses-numeriques)
+* [Publier son budget - doc.incubateur.net](https://doc.incubateur.net/communaute/gerer-son-produit/aide-a-la-mise-en-application-des-standards/publier-son-budget)
+* [Grist commun des budgets - grist.numerique.gouv.fr](https://grist.numerique.gouv.fr/o/isn/mAQJQawVbFUA/Depenses-numeriques)

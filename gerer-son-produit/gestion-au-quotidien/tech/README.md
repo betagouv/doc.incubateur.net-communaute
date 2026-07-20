@@ -28,8 +28,3 @@
 [security-phishing-attack.md](security-phishing-attack.md)
 {% endcontent-ref %}
 
-Voir aussi :
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
