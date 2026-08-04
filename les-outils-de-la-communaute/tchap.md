@@ -93,5 +93,5 @@ Nous recommandons de créer un canal Tchap dédié `equipe-[xxx]-notifications` 
 
 D'autres services peuvent être ajoutés au besoin. Pour réaliser vos propres webhooks/bots :
 
-- Doc officielle BOTs Tchap : https://aide.tchap.numerique.gouv.fr/fr/article/documentation-technique-bot-et-integrations-tchap-1z3dfx/
-- Le canal Tchap BOTs & Intégrations : https://www.tchap.gouv.fr/#/room/#BotsetIntgrationsTchapU2tHdMEN80D:agent.dinum.tchap.gouv.fr
+- cf [Doc officielle BOTs Tchap](https://aide.tchap.numerique.gouv.fr/fr/article/documentation-technique-bot-et-integrations-tchap-1z3dfx/)
+- et [Le canal Tchap BOTs & Intégrations](https://www.tchap.gouv.fr/#/room/#BotsetIntgrationsTchapU2tHdMEN80D:agent.dinum.tchap.gouv.fr)
