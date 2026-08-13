@@ -30,6 +30,6 @@
 
 Voir aussi :
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="https://github.com/betagouv/doc.incubateur.net-communaute/blob/master/gerer-son-produit/gestion-au-quotidien/tech/broken-reference/README.md" %}
+[https://github.com/betagouv/doc.incubateur.net-communaute/blob/master/gerer-son-produit/gestion-au-quotidien/tech/broken-reference/README.md](https://github.com/betagouv/doc.incubateur.net-communaute/blob/master/gerer-son-produit/gestion-au-quotidien/tech/broken-reference/README.md)
 {% endcontent-ref %}

@@ -616,7 +616,7 @@ On clôture l'échange par des remerciements.
 
 <summary>Designers</summary>
 
-[Voir la page dédiée.](../../les-standards/design.md)
+[Voir la page dédiée.](https://github.com/betagouv/doc.incubateur.net-communaute/blob/master/gerer-son-produit/les-standards/design.md)
 
 </details>
 

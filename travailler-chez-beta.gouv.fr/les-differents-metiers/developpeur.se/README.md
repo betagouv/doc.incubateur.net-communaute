@@ -20,6 +20,6 @@ Un **kit de démarrage** est disponible pour les développeuses et développeurs
 
 En outre, plusieurs ressources sont disponibles pour aider les développeuses et les développeurs :
 
-{% content-ref url="../../../gerer-son-produit/les-standards/" %}
-[les-standards](../../../gerer-son-produit/les-standards/)
+{% content-ref url="https://github.com/betagouv/doc.incubateur.net-communaute/blob/master/gerer-son-produit/les-standards/README.md" %}
+[https://github.com/betagouv/doc.incubateur.net-communaute/blob/master/gerer-son-produit/les-standards/README.md](https://github.com/betagouv/doc.incubateur.net-communaute/blob/master/gerer-son-produit/les-standards/README.md)
 {% endcontent-ref %}

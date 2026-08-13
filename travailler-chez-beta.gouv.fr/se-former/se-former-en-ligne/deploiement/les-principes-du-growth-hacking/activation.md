@@ -30,8 +30,8 @@ Slides : [https://docs.google.com/presentation/d/1MT3xbM0j23Xwl5s55sss6cEKNEhSUF
 
 {% embed url="https://youtu.be/SUDu3BHAfpc" %}
 
-{% content-ref url="../../../../../ressources/travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/faire-une-visio/visioconferences.md" %}
-[visioconferences.md](../../../../../ressources/travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/faire-une-visio/visioconferences.md)
+{% content-ref url="https://github.com/betagouv/doc.incubateur.net-communaute/blob/master/ressources/travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/faire-une-visio/visioconferences.md" %}
+[https://github.com/betagouv/doc.incubateur.net-communaute/blob/master/ressources/travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/faire-une-visio/visioconferences.md](https://github.com/betagouv/doc.incubateur.net-communaute/blob/master/ressources/travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/faire-une-visio/visioconferences.md)
 {% endcontent-ref %}
 
 ## E-Mailing <a href="#mailing-en-masse" id="mailing-en-masse"></a>

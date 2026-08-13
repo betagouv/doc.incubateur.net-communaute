@@ -32,10 +32,10 @@ Ce guide a pour but de vous donner des clés pour concevoir pour tout le monde.
 [recherche-adapter-ses-methodes-pour-inclure](recherche-adapter-ses-methodes-pour-inclure/)
 {% endcontent-ref %}
 
-{% content-ref url="../../../les-standards/accessibilite-and-inclusion.md" %}
-[accessibilite-and-inclusion.md](../../../les-standards/accessibilite-and-inclusion.md)
+{% content-ref url="https://github.com/betagouv/doc.incubateur.net-communaute/blob/master/gerer-son-produit/les-standards/accessibilite-and-inclusion.md" %}
+[https://github.com/betagouv/doc.incubateur.net-communaute/blob/master/gerer-son-produit/les-standards/accessibilite-and-inclusion.md](https://github.com/betagouv/doc.incubateur.net-communaute/blob/master/gerer-son-produit/les-standards/accessibilite-and-inclusion.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../../standards/accessibilite-inclusion/accessibilite-et-rgaa/" %}
-[accessibilite-et-rgaa](../../../standards/accessibilite-inclusion/accessibilite-et-rgaa/)
+{% content-ref url="https://github.com/betagouv/doc.incubateur.net-communaute/blob/master/gerer-son-produit/standards/accessibilite-inclusion/accessibilite-et-rgaa/README.md" %}
+[https://github.com/betagouv/doc.incubateur.net-communaute/blob/master/gerer-son-produit/standards/accessibilite-inclusion/accessibilite-et-rgaa/README.md](https://github.com/betagouv/doc.incubateur.net-communaute/blob/master/gerer-son-produit/standards/accessibilite-inclusion/accessibilite-et-rgaa/README.md)
 {% endcontent-ref %}

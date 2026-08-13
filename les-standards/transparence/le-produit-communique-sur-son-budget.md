@@ -35,4 +35,4 @@ La publication du budget se fait deux fois par an :
 ## Ressources
 
 * [Publier son budget - doc.incubateur.net](https://doc.incubateur.net/communaute/gerer-son-produit/les-standards/transparence/publier-son-budget)
-* [Grist commun des budgets - grist.numerique.gouv.fr](\[https:/grist.numerique.gouv.fr/o/docs/fTjFnK7Bhvuo/Depenses-numeriques/p/1]\(https:/grist.numerique.gouv.fr/o/isn/mAQJQawVbFUA/Depenses-numeriques)
+* [Grist commun des budgets - grist.numerique.gouv.fr](https://github.com/betagouv/doc.incubateur.net-communaute/blob/master/les-standards/transparence/\[https:/grist.numerique.gouv.fr/o/docs/fTjFnK7Bhvuo/Depenses-numeriques/p/1]\(https:/grist.numerique.gouv.fr/o/isn/mAQJQawVbFUA/Depenses-numeriques/README.md)

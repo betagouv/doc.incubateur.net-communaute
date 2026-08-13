@@ -151,7 +151,7 @@ Tu peux lire par exemple [cet article](https://mozaikrh.com/11-biais-cognitifs-a
 
 #### Assure toi de la compatibilité avec les valeurs de beta.gouv.fr
 
-Lorsqu'une nouvelle personne vient travailler avec vous, elle participe aussi à la communauté beta.gouv.fr. Il est donc important de vérifier qu'elle est bien en accord avec [les valeurs de la communauté. ](../../../travailler-a-beta-gouv/culture/charte.md). Le moyen le plus simple de le savoir reste de lui demander si elle les a lues, si elle les partage ou si cela fait écho à sa façon de travailler.
+Lorsqu'une nouvelle personne vient travailler avec vous, elle participe aussi à la communauté beta.gouv.fr. Il est donc important de vérifier qu'elle est bien en accord avec [les valeurs de la communauté. ](https://github.com/betagouv/doc.incubateur.net-communaute/blob/master/travailler-a-beta-gouv/culture/charte.md). Le moyen le plus simple de le savoir reste de lui demander si elle les a lues, si elle les partage ou si cela fait écho à sa façon de travailler.
 
 ### Phase 5 : Comparer et faire le bon choix parmi les profils
 
