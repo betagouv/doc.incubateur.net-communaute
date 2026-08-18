@@ -28,9 +28,6 @@ Reste concentré sur les actions à prendre, ne reste pas isolé, demande de l'a
 
 Vérifier les risques associés à chaque service (liste non exhaustive) :
 
-* Mailjet
-  * La liste des emails, les noms sont disponible à partir de la clé API
-  * Demander la liste des appels API et les IPs pour voir les accès frauduleux
 * Brevo (ex Sendinblue)
   * La liste des emails, des noms et l'ensemble des emails sont disponible à partir de Github
 * Github / Gitlab
@@ -66,6 +63,11 @@ S'il y a fuite de donnée personnelle (soupçonnée ou avérée)
 <details>
 
 <summary>Supprimer les données sensibles que j'ai accidentellement pushées sur github</summary>
+
+{% hint style="warning" %}
+Si des tokens ou secrets ont été envoyés, révoquez-les immédiatement.
+{% endhint %}
+
 
 **Identifier la branche et le(s) commits fautifs**
 
