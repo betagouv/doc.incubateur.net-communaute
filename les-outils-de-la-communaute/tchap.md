@@ -82,14 +82,15 @@ Nous recommandons de créer un canal Tchap dédié `equipe-[xxx]-notifications` 
 
 ### Services supportés sur le webhook
 
-| Service   | Descriptions                                                                                                                                                                                                              |
-| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| GitHub    | [Notifications](https://docs.github.com/en/webhooks/webhook-events-and-payloads) push, actions...                                                                                                                         |
-| Scalingo  | [Notifications](https://doc.scalingo.com/platform/app/notifiers) deploiement, crash, edit...                                                                                                                              |
-| Sentry    | Notifications d'exceptions (cf alert Rules)                                                                                                                                                                               |
-| UpDown.io | Notifications d'indisponibilité                                                                                                                                                                                           |
-| Metabase  | Alertes metabase                                                                                                                                                                                                          |
-| Brevo     | [Notifications](https://help.brevo.com/hc/fr/articles/27824932835474-Cr%C3%A9er-des-webhooks-sortants-pour-envoyer-des-donn%C3%A9es-en-temps-r%C3%A9el-de-Brevo-vers-une-application-externe) déliverabilité et marketing |
+| Service     | Descriptions                                                                                                                                                                                                              |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| GitHub      | [Notifications](https://docs.github.com/en/webhooks/webhook-events-and-payloads) push, actions...                                                                                                                         |
+| Scalingo    | [Notifications](https://doc.scalingo.com/platform/app/notifiers) deploiement, crash, edit...                                                                                                                                      |
+| CleverCloud | [Notifications](https://www.clever.cloud/developers/doc/account/notifications/#available-events) deploiement, crash, edit...                                                                                                                                      |
+| Sentry      | Notifications d'exceptions (cf alert Rules)                                                                                                                                                                               |
+| UpDown.io   | Notifications d'indisponibilité                                                                                                                                                                                           |
+| Metabase    | Alertes metabase                                                                                                                                                                                                          |
+| Brevo       | [Notifications](https://help.brevo.com/hc/fr/articles/27824932835474-Cr%C3%A9er-des-webhooks-sortants-pour-envoyer-des-donn%C3%A9es-en-temps-r%C3%A9el-de-Brevo-vers-une-application-externe) déliverabilité et marketing |
 
 D'autres services peuvent être ajoutés au besoin. Pour réaliser vos propres webhooks/bots :
 
