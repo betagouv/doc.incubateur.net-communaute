@@ -13,21 +13,55 @@ Une Startup d'Etat :
 * est composée d'une équipe qui s'engage à suivre le manifeste beta.gouv ;
 * est en phase de construction, d'accélération ou de transfert/consolidation.
 
-#### A. Mon besoin concerne une Startup d'Etat <a href="#a.-mon-besoin-concerne-une-startup-detat" id="a.-mon-besoin-concerne-une-startup-detat"></a>
+#### <mark style="color:$primary;">A. Mon besoin concerne une Startup d'Etat</mark> <a href="#a.-mon-besoin-concerne-une-startup-detat" id="a.-mon-besoin-concerne-une-startup-detat"></a>
 
-**Comment rattacher une Startup d'Etat à un incubateur ?**
+**1 - Comment rattacher une Startup d'Etat à un incubateur ?**
 
 Chaque Startup d'Etat débute par une [phase d'investigation](https://beta.gouv.fr/approche/investigation) accompagnée par un incubateur du réseau beta.gouv. C'est à la suite de cette phase, qu'une Startup d'Etat peut officiellement être lancée.
 
-**Quelles sont les informations à fournir au titulaire à chaque nouveau besoin ?**
+**2 - Comment utiliser le marché de réalisation de service numérique en mode produit piloté par l'impact ?**
 
-Pour les besoins faisant suite à une phase d'investigation validant le passage en phase de construction, vous devez fournir une [fiche de fin d'invesgation](https://beta.gouv.fr/content/docs/grille_lancement.pdf). Pour les autres besoins en phase de construction, d'accélération ou de transfert, vous devez systématiquement fournir le lien vers la fiche produit disponible sur le site de beta.gouv.
+* **Si un ou plusieurs attributaires de l'ancien marché sont à nouveau attributaires du futur marché, est-il possible de les garder afin de faciliter la continuité ?**
 
-#### B. Mon besoin ne concerne pas une Startup d'Etat <a href="#b.-mon-besoin-ne-concerne-pas-une-startup-detat" id="b.-mon-besoin-ne-concerne-pas-une-startup-detat"></a>
+Il n'est pas possible d'en faire un critère de répartition des bons de commandes car le droit de suite ne s'applique pas entre deux marchés.
+
+En revanche il est possible de demander au titulaire qui vous est attribué de porter les freelances avec lesquels vous souhaitez continuer à travailler.
+
+* **Le montant estimatif que l'on doit indiquer lors de la demande d'attribution d'un titulaire (sollicitation du tourniquet) sont-ils HT ou TTC ?**
+
+Il s'agit du montant HT
+
+* **Le tourniquet étant piloté par la DINUM, comment avoir l'information officielle de l'attribution du titulaire à communiquer à mon service budget / achats ?**
+
+Une fois le titulaire attribué, la DINUM adresse au demandeur un mail communiquant le nom et le contact du titulaire ainsi qu'un document (en PJ) à communiquer au service budget/achat.
+
+* **Les groupements titulaires du marché savent-ils qu'il y a du portage ?**
+
+Le portage fait partie du marché. Chaque titulaire du marché peut donc porter des freelances.
+
+* **Est-ce que je dois passer une commande pour chaque expertise dont j'ai besoin ?**
+
+Il est tout à fait possible de passer une commande pour plusieurs UO différentes. Cela permet de ne passer qu'une seule commande pour une prestation globale nécessitant plusieurs types d'expertises ou plusieurs niveaux de complexité d'un même domaine d'expertise.
+
+En revanche, cela peut complexifier le suivi en cas de changement d'expert ou d'évolution du besoin des différentes prestations.
+
+* **Comment sont pris en charge les frais de déplacement, de matériel ?**
+
+Le prix des UO inclut les frais de déplacement et de repas afférent à la prestation. Les autres événement du type séminaire annuel, participation à un événement peuvent faire partie du budget produit.
+
+Le prestataire doit avoir le matériel nécessaire à sa mission (ordinateur, logiciel métiers). En revanche les outils spécifiques mis en place par l'équipe produit (adoption d'un CRM, hébergement, etc.) sont pris sur le budget de l'équipe. A noter que certains incubateurs ministériels peuvent avoir commandé des outils à destinations des services numériques qu'ils incubent.
+
+* **Quelles sont les informations à fournir au titulaire à chaque nouveau besoin ?**
+
+Pour les besoins faisant suite à une phase d'investigation validant le passage en phase de construction, vous devez fournir une [fiche de fin d'invesgation](https://beta.gouv.fr/content/docs/grille_lancement.pdf). Pour les autres besoins en phase de construction, d'accélération ou de transfert, vous devez systématiquement fournir le lien vers la fiche produit disponible sur le site de beta.gouv ainsi que la lettre transmise par la DINUM en réponse à la demande d'attribution d'un titulaire au tourniquet.
+
+#### <mark style="color:$primary;">B. Mon besoin ne concerne pas une Startup d'Etat</mark> <a href="#b.-mon-besoin-ne-concerne-pas-une-startup-detat" id="b.-mon-besoin-ne-concerne-pas-une-startup-detat"></a>
 
 **Mon besoin concerne un projet numérique autre qu'une Startup d'Etat. Est-ce que je peux tout de même activer ce marché ?**
 
 Si votre besoin ne répond pas aux pré-requis évoqués plus haut, il n'est pas possible d'utiliser ce marché. Ce marché vise explicitement les Startups d'Etat et de Territoires. Le code de la commande publique n'autorise pas à utiliser un marché public pour une autre destination que celle indiquée dans le marché. L'usage de ce marché public ne fait donc pas exception.
+
+L'accord-cadre interministériel de réalisation de produit notifié en 2026 comporte un lot 2 utilisable par les services numériques non référencés sur beta.gouv.fr. Le ministère doit avoir passé un marché subséquent pour le mobiliser.
 
 **J'ai une urgence ou je suis bloqué et ce marché me rendrait service. Est-il possible de faire une exception ?**
 
@@ -60,9 +94,9 @@ Le taux de marque des entreprises titulaires s'explique pour plusieurs raisons :
 
 #### Pourquoi y-a-t-il des différences entre les markups des entreprises titulaires ? <a href="#pourquoi-y-a-t-il-des-differences-entre-les-markups-des-entreprises-titulaires" id="pourquoi-y-a-t-il-des-differences-entre-les-markups-des-entreprises-titulaires"></a>
 
-Chaque entreprise est libre de définir son markup en fonction de ses spécificités et choix commerciaux.  Ces markups peuvent donc être différents. Ils ne sont pas publics en raison du secret commercial.
+Chaque entreprise est libre de définir son markup en fonction de ses spécificités et choix commerciaux. Ces markups peuvent donc être différents. Ils ne sont pas publics en raison du secret commercial.
 
-Lors de la mise en concurrence, les entreprises titulaires du marché ont donc présenté une offre intégrant un markup mais n'ont indiqué que leur prix pour les différentes UO (unités d'oeuvre = prestations du marché).
+Lors de la mise en concurrence, les entreprises titulaires du marché ont donc présenté une offre intégrant un markup mais n'ont indiqué que leur prix pour les différentes UO (unités d'oeuvre = prestations du marché). Les entreprises ont été notées selon différents critères dont celui du prix.
 
-Ces entreprises ont été notées selon différents critères dont celui du prix.
+Dans la pratique vous pouvez connaître ces taux si les titulaires vous les communiquent ou par déduction si vous connaissez les tarifs des indépendants. Mais quoi qu'il en soit, vous commanderez toujours sur la base du BPU (les prix au BPU intègrent les markup).
 
