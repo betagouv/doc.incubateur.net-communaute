@@ -22,7 +22,7 @@ Cela signifie qu'il vous faudra anticiper car en résumé **on ne peut plus rien
 
 {% hint style="info" %}
 * **Les autorisations d'engagement (AE)** sont les enveloppes budgétaires que vous pouvez utiliser pour demander des devis et émettre des commandes).
-* **Les crédits de paiement (CP)** représentent l'argent qu'on utilise pour payer les prestataires une fois la prestation effectuée et le service fait validé par l'intra et signé par la DINUM.
+* **Les crédits de paiement (CP)** représentent l'argent qu'on utilise pour payer les prestataires une fois la prestation effectuée et le service fait validé par l'intra et enregistré par l'administration.
 {% endhint %}
 
 ### Encore plus important :
