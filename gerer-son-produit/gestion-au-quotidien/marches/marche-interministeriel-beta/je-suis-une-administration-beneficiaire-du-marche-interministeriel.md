@@ -60,6 +60,10 @@ Pour les besoins faisant suite à une phase d'investigation validant le passage 
 
 Pour tous les besoins quelque soit la phase du produit, vous devez aussi transmettre la lettre envoyée par la DINUM en réponse à la demande d'attribution d'un titulaire au tourniquet.
 
+#### Le titulaire me propose un freelance qui n'est pas domicilié en France. Est-ce possible ?
+
+Le marché interministériel de réalisation de service numérique stipule que les prestations sont exécutées sur le territoire national  : France hexagonale et DROM/COM compris.
+
 ### <mark style="color:$primary;">Mon besoin concerne un service numérique non référencé</mark> <a href="#b.-mon-besoin-ne-concerne-pas-une-startup-detat" id="b.-mon-besoin-ne-concerne-pas-une-startup-detat"></a>
 
 **Mon besoin concerne un projet numérique non référencé sur le site beta.gouv.fr. Est-ce que je peux tout de même activer ce marché ?**
