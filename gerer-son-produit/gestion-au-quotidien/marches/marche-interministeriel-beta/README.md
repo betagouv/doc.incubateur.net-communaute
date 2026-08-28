@@ -1,22 +1,21 @@
 ---
 description: >-
-  Ce marché interministériel est un accord-cadre interministériel qui permet à
-  l'ensemble des ministères de recruter toutes les compétences nécessaires à la
-  réussite d'une Startup d'Etat.
-hidden: true
+  Ce marché interministériel est un accord-cadre interministériel qui permet aux
+  administrations bénéficiaires de recruter les compétences nécessaires à la
+  réussite d'un service numérique.
 ---
 
 # Marché interministériel de réalisation de produit
 
-Ce marché de **construction de produit** notifié en mars 2026 permet de faire appel à des prestations de développement, design, déploiement (_business development_). Il comporte deux lots.
+Ce marché de **construction de produit** notifié en mars 2026 permet de faire appel à des prestations de développement, design, déploiement (_business development_). Il comporte deux lots. Cette page détaille les informations qui concernent le lot 1 du marché.
 
-### Où trouver le cahier des charges de ce marché ? <a href="#ou-trouver-le-cahier-des-charges-de-ce-marche" id="ou-trouver-le-cahier-des-charges-de-ce-marche"></a>
+{% hint style="info" %}
+Le cahier des charges du marché peut être consulté sur data.gouv.fr : [https://www.data.gouv.fr/datasets/accord-cadre-interministeriel-realisation-de-services-publics-numeriques-en-mode-produit-agile-pilote-par-limpact](https://www.data.gouv.fr/datasets/accord-cadre-interministeriel-realisation-de-services-publics-numeriques-en-mode-produit-agile-pilote-par-limpact)
+{% endhint %}
 
-{% embed url="https://www.data.gouv.fr/datasets/accord-cadre-interministeriel-realisation-de-services-publics-numeriques-en-mode-produit-agile-pilote-par-limpact" %}
+## <mark style="background-color:yellow;">Lot 1 - Conception, développement, et exploitation des produits numériques opérés par la DINUM (hors OPI) et par les incubateurs de services numériques des ministères, ainsi que les missions d’accompagnement de produits réalisées par la DINUM</mark> <a href="#qui-peut-beneficier-de-ce-marche" id="qui-peut-beneficier-de-ce-marche"></a>
 
-### <mark style="background-color:yellow;">Lot 1 - Conception, développement, et exploitation des produits numériques opérés par la DINUM (hors OPI) et par les incubateurs de services numériques des ministères, ainsi que les missions d’accompagnement de produits réalisées par la DINUM</mark> <a href="#qui-peut-beneficier-de-ce-marche" id="qui-peut-beneficier-de-ce-marche"></a>
-
-### Qui peut bénéficier de ce marché ? <a href="#qui-peut-beneficier-de-ce-marche" id="qui-peut-beneficier-de-ce-marche"></a>
+### Qui peut bénéficier du lot 1 de ce marché ? <a href="#qui-peut-beneficier-de-ce-marche" id="qui-peut-beneficier-de-ce-marche"></a>
 
 1. La DINUM, à l’exclusion du département Opérateurs de Produits Interministériels (OPI), lequel bénéficie d’un dispositif contractuel distinct.
 2. Les administrations et organismes suivants **portant un produit numérique référencé sur https://beta.gouv.fr/startups/** :
@@ -27,11 +26,9 @@ Ce marché de **construction de produit** notifié en mars 2026 permet de faire 
 
 ### Quelles sont les entreprises titulaires de ce marché ? <a href="#quelles-sont-les-entreprises-titulaires-de-ce-marche" id="quelles-sont-les-entreprises-titulaires-de-ce-marche"></a>
 
-#### 1er titulaire : OCTO Technology / Crème de la Crème / Frontier
-
-#### 2e titulaire : THEODO / MALT Community
-
-#### 3e titulaire : DOCAPOSTE La manufacture / COBER LA FABRIQUE / THIGA
+* 1er titulaire : OCTO Technology / Crème de la Crème / Frontier
+* 2e titulaire : THEODO / MALT Community
+* 3e titulaire : DOCAPOSTE La manufacture / COBER LA FABRIQUE / THIGA
 
 ### Comment utiliser le lot 1 de ce marché ? <a href="#foire-aux-questions" id="foire-aux-questions"></a>
 
@@ -41,15 +38,11 @@ Il n'y a qu'un seul tourniquet pour l'ensemble des ministères et établissement
 
 Ainsi pour pouvoir connaître le titulaire à qui passer sa commande, il faut faire une demande à la DINUM. Seuls les agents publics peuvent avoir accès au tourniquet.
 
-Toutes les informations sur disponibles ici : ["Mobiliser le lot 1 du marché"](https://docs.numerique.gouv.fr/docs/23d38ca5-6b54-4919-a309-6040cedd075a/)
+Pour activer le tourniquet et mobiliser le lot 1, retrouvez toutes les informations ici : ["Mobiliser le lot 1 du marché"](https://docs.numerique.gouv.fr/docs/23d38ca5-6b54-4919-a309-6040cedd075a/)
 
 Pour toute question : marche-produit@numerique.gouv.fr
 
-{% content-ref url="../" %}
-[..](../)
-{% endcontent-ref %}
-
-### Foire aux questions <a href="#foire-aux-questions" id="foire-aux-questions"></a>
+## Foires aux questions <a href="#foire-aux-questions" id="foire-aux-questions"></a>
 
 {% content-ref url="je-suis-une-administration-beneficiaire-du-marche-interministeriel.md" %}
 [je-suis-une-administration-beneficiaire-du-marche-interministeriel.md](je-suis-une-administration-beneficiaire-du-marche-interministeriel.md)

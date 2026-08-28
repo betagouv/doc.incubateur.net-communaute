@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Je suis un des attributaires du marché
 
 ### Qui sera notre interlocuteur administratif pour le suivi des commandes ? <a href="#qui-sera-notre-interlocuteur-administratif-pour-le-suivi-des-commandes" id="qui-sera-notre-interlocuteur-administratif-pour-le-suivi-des-commandes"></a>
@@ -10,7 +14,7 @@ Nous vous rappelons également à toutes fins utiles que conformément au cahier
 
 ### Est-il possible de répondre favorablement à une demande d'un ministère ne relevant pas d'un besoin pour une Startup d'Etat ? <a href="#est-il-possible-de-repondre-favorablement-a-une-demande-dun-ministere-ne-relevant-pas-dun-besoin-pou" id="est-il-possible-de-repondre-favorablement-a-une-demande-dun-ministere-ne-relevant-pas-dun-besoin-pou"></a>
 
-**Le marché de réalisation de produit ne peut être utilisé que par la DINUM et par les incubateurs de services numériques** des ministères pour des startup d'Etat. Une Startup d'Etat est forcément référencée sur [beta.gouv.fr/startups](http://beta.gouv.fr/startups) et répond aux critères fixés par l'équipe beta.gouv.fr de la DINUM. Ce point est fondamental pour assurer la conformité avec le code de la commande publique. En cas de doute, vous pouvez renvoyer l'administration demandeuse vers [cette FAQ](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/marches-publics-beta.gouv.fr/marche-interministeriel-beta/je-suis-une-administration-beneficiaire-du-marche-interministeriel), ou venir nous demander de l'aide :&#x20;
+**Le marché de réalisation de produit ne peut être utilisé que par la DINUM et par les incubateurs de services numériques** des ministères pour des startup d'Etat. Une Startup d'Etat est forcément référencée sur [beta.gouv.fr/startups](http://beta.gouv.fr/startups) et répond aux critères fixés par l'équipe beta.gouv.fr de la DINUM. Ce point est fondamental pour assurer la conformité avec le code de la commande publique. En cas de doute, vous pouvez renvoyer l'administration demandeuse vers [cette FAQ](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/marches-publics-beta.gouv.fr/marche-interministeriel-beta/je-suis-une-administration-beneficiaire-du-marche-interministeriel), ou venir nous demander de l'aide :
 
 * compta@beta.gouv.fr pour le marché de mentorat ou
 * marche-produit@numerique.gouv.fr pour le marché de réalisation de produit.
@@ -23,11 +27,11 @@ Un titulaire peut refuser une demande. Il doit en donner les raisons à l'admini
 
 #### L'extrait du CCAP du marché public : <a href="#lextrait-du-marche-public-detaille-ces-consequences" id="lextrait-du-marche-public-detaille-ces-consequences"></a>
 
-> _**Le titulaire peut se désister :**_&#x20;
+> _**Le titulaire peut se désister :**_
 >
-> _**1 -** s'il n'est pas en mesure de répondre à la demande de l'administration bénéficiaire._&#x20;
+> _**1 -** s'il n'est pas en mesure de répondre à la demande de l'administration bénéficiaire._
 >
-> _A titre non exhaustif, le titulaire peut invoquer les raisons suivantes (avec attestation sur l'honneur d'une personne habilitée) :_&#x20;
+> _A titre non exhaustif, le titulaire peut invoquer les raisons suivantes (avec attestation sur l'honneur d'une personne habilitée) :_
 >
 > * _impossibilité de répondre dans les délais exigés (demande de devis ou production de livrables) ;_
 > * _charge de travail trop importante ;_
