@@ -276,7 +276,7 @@
     * [Concurrence avec le secteur privé](gerer-son-produit/gestion-au-quotidien/cadrer-juridiquement-son-produit/concurrence-avec-le-secteur-prive.md)
   * [🛍️ Marchés beta.gouv.fr](gerer-son-produit/gestion-au-quotidien/marches/README.md)
     * [Marché interministériel de réalisation de produit](gerer-son-produit/gestion-au-quotidien/marches/marche-interministeriel-beta/README.md)
-      * [Je suis un des attributaires du marché](gerer-son-produit/gestion-au-quotidien/marches/marche-interministeriel-beta/je-suis-un-des-attributaires-du-marche.md)
+      * [Je suis attributaire du lot 1 du marché](gerer-son-produit/gestion-au-quotidien/marches/marche-interministeriel-beta/je-suis-un-des-attributaires-du-marche.md)
       * [Je suis une administration bénéficiaire du marché interministériel](gerer-son-produit/gestion-au-quotidien/marches/marche-interministeriel-beta/je-suis-une-administration-beneficiaire-du-marche-interministeriel.md)
     * [Marché interministériel de mentorat](gerer-son-produit/gestion-au-quotidien/marches/marche-coaching.md)
   * [💻 Tech](gerer-son-produit/gestion-au-quotidien/tech/README.md)

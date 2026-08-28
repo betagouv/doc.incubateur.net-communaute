@@ -2,30 +2,25 @@
 hidden: true
 ---
 
-# Je suis un des attributaires du marché
+# Je suis attributaire du lot 1 du marché
 
-### Qui sera notre interlocuteur administratif pour le suivi des commandes ? <a href="#qui-sera-notre-interlocuteur-administratif-pour-le-suivi-des-commandes" id="qui-sera-notre-interlocuteur-administratif-pour-le-suivi-des-commandes"></a>
+### Qui est l'interlocuteur administratif pour le suivi des commandes ? <a href="#qui-sera-notre-interlocuteur-administratif-pour-le-suivi-des-commandes" id="qui-sera-notre-interlocuteur-administratif-pour-le-suivi-des-commandes"></a>
 
-Si la DINUM reste cheffe d'orchestre, vos contacts au quotidien dans les ministères se multiplient, puisque chaque ministère gèrera ses commandes pour ses propres Startups d'État.
+Le pilotage et le suivi de l'exécution du marché sont assurés par le pôle animation beta.gouv.fr et le pôle pilotage de la dépense numérique de la DINUM. Cela inclut la gestion du tourniquet qui permet la répartition des commandes du lot 1.
 
-### Avons-nous une obligation d'information envers la DINUM ? <a href="#avons-nous-une-obligation-dinformation-envers-la-dinum" id="avons-nous-une-obligation-dinformation-envers-la-dinum"></a>
+Si la DINUM reste cheffe d'orchestre, les commandes sont gérées et payées directement par les administrations bénéficiaires. Vos contacts au quotidien sont donc multiples car chaque administration assure le suivi de ses commandes.
 
-Nous vous rappelons également à toutes fins utiles que conformément au cahier des charges du marché, **les titulaires seront tenus d'informer la DINUM (i.e. l'équipe beta.gouv) sur l'ensemble des commandes demandées par toutes les administrations bénéficiaires**.
+### En tant que titulaire, ai-je une obligation d'information envers la DINUM ? <a href="#avons-nous-une-obligation-dinformation-envers-la-dinum" id="avons-nous-une-obligation-dinformation-envers-la-dinum"></a>
 
-### Est-il possible de répondre favorablement à une demande d'un ministère ne relevant pas d'un besoin pour une Startup d'Etat ? <a href="#est-il-possible-de-repondre-favorablement-a-une-demande-dun-ministere-ne-relevant-pas-dun-besoin-pou" id="est-il-possible-de-repondre-favorablement-a-une-demande-dun-ministere-ne-relevant-pas-dun-besoin-pou"></a>
+Conformément au cahier des charges du marché, **les titulaires sont tenus d'informer la DINUM (i.e. l'équipe beta.gouv.fr) de l'ensemble des commandes demandées par toutes les administrations bénéficiaires**.
 
-**Le marché de réalisation de produit ne peut être utilisé que par la DINUM et par les incubateurs de services numériques** des ministères pour des startup d'Etat. Une Startup d'Etat est forcément référencée sur [beta.gouv.fr/startups](http://beta.gouv.fr/startups) et répond aux critères fixés par l'équipe beta.gouv.fr de la DINUM. Ce point est fondamental pour assurer la conformité avec le code de la commande publique. En cas de doute, vous pouvez renvoyer l'administration demandeuse vers [cette FAQ](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/marches-publics-beta.gouv.fr/marche-interministeriel-beta/je-suis-une-administration-beneficiaire-du-marche-interministeriel), ou venir nous demander de l'aide :
+### Est-il possible de répondre favorablement à une demande d'une administration ne relevant pas d'un besoin pour un produit conçu selon l'approche beta.gouv.fr ? <a href="#est-il-possible-de-repondre-favorablement-a-une-demande-dun-ministere-ne-relevant-pas-dun-besoin-pou" id="est-il-possible-de-repondre-favorablement-a-une-demande-dun-ministere-ne-relevant-pas-dun-besoin-pou"></a>
 
-* compta@beta.gouv.fr pour le marché de mentorat ou
-* marche-produit@numerique.gouv.fr pour le marché de réalisation de produit.
+**Le lot 1 du marché de réalisation de produit ne peut être utilisé que par la DINUM et par les incubateurs de services numériques** des ministères pour les produits conçus selon l'approche beta.gouv.fr. Ils sont référencés sur [beta.gouv.fr/startups](http://beta.gouv.fr/startups) et répondent aux critères fixés par l'équipe beta.gouv.fr de la DINUM. Ce point est fondamental pour assurer la conformité avec le code de la commande publique. En cas de doute, vous pouvez renvoyer l'administration demandeuse vers [cette FAQ](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/gestion-administrative/marches-publics-beta.gouv.fr/marche-interministeriel-beta/je-suis-une-administration-beneficiaire-du-marche-interministeriel), ou venir nous demander de l'aide à marche-produit@numerique.gouv.fr
 
 ### Est-il possible de refuser une demande de devis ? <a href="#est-il-possible-de-refuser-une-demande-de-devis" id="est-il-possible-de-refuser-une-demande-de-devis"></a>
 
-Un titulaire peut refuser une demande. Il doit en donner les raisons à l'administration.
-
-#### &#x20;<a href="#lextrait-du-marche-public-detaille-ces-consequences" id="lextrait-du-marche-public-detaille-ces-consequences"></a>
-
-#### L'extrait du CCAP du marché public : <a href="#lextrait-du-marche-public-detaille-ces-consequences" id="lextrait-du-marche-public-detaille-ces-consequences"></a>
+Un titulaire peut refuser une demande. Il doit en donner les raisons à l'administration. Cf. l'extrait du CCAP du marché ci-dessous.
 
 > _**Le titulaire peut se désister :**_
 >
