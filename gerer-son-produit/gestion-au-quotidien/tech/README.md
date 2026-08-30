@@ -28,8 +28,7 @@
 [security-phishing-attack.md](security-phishing-attack.md)
 {% endcontent-ref %}
 
-Voir aussi :
-
-{% content-ref url="https://github.com/betagouv/doc.incubateur.net-communaute/blob/master/gerer-son-produit/gestion-au-quotidien/tech/broken-reference/README.md" %}
-[https://github.com/betagouv/doc.incubateur.net-communaute/blob/master/gerer-son-produit/gestion-au-quotidien/tech/broken-reference/README.md](https://github.com/betagouv/doc.incubateur.net-communaute/blob/master/gerer-son-produit/gestion-au-quotidien/tech/broken-reference/README.md)
+{% content-ref url="securite-proxy-dauthentification.md" %}
+[securite-proxy-dauthentification.md](securite-proxy-dauthentification.md)
 {% endcontent-ref %}
+
