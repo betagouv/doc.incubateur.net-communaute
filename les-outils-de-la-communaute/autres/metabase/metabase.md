@@ -1,4 +1,4 @@
-# Déploiement chez Scalingo
+# Metabase sur Scalingo
 
 Scalingo permet de déployer une instance de Metabase en un clic. L'instance sera fonctionnelle, configurable et relativement sécurisée.
 
@@ -69,7 +69,17 @@ scalingo \
 > Le dépôt Metabase de Scalingo n'a pas besoin de bouger à chaque changement de version de Metabase car il utilise le buildpack maintenu par l'équipe Metabase.\
 > \
 > Vous pouvez vérifier la version dans ce fichier pour vous assurer de ce que vous déployez.\
-> [https://github.com/metabase/metabase-buildpack/blob/master/bin/version](https://github.com/metabase/metabase-buildpack/blob/master/bin/version)
+> [https://github.com/metabase/metabase-buildpack/blob/master/bin/version](https://github.com/metabase/metabase-buildpack/blob/master/bin/version)\
+> \
+> Vous pouvez forcer la version avec la variable METABASE\_VERSION
+
+### Protection de l'accès à Metabase
+
+{% hint style="warning" %}
+Pour éviter d'exposer votre application à des scans intempestifs et à l'exploitation de vulnérabilités, cachez metabase derrière un proxy d'authentification \
+\
+👉 [cf Proxy d'authentification](../../../gerer-son-produit/gestion-au-quotidien/tech/securite-proxy-dauthentification.md)
+{% endhint %}
 
 ### Connecter Metabase à une base de données anonymisée
 
@@ -152,4 +162,5 @@ Documentation Metabase du chiffrage au repos
 * Ajouter la variable d’environnement MB\_ENCRYPTION\_SECRET\_KEY à l’app metabase
 * Relancer le container
 * Dans l’admin Metabase, re-sauvegarder la connexion
-* Dans la DB metabase, vérifier que le champ “details” de la table `table metabase_database` est maintenant cryptée
+* Dans la DB metabase, vérifier que le champ “details” de la table `table metabase_database` est maintenant crypté
+

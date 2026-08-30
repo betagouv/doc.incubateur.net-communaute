@@ -36,8 +36,8 @@ Il est conseillé de dupliquer vos données en les anonymisant dans une seconde 
 * Ajoutez la variable d’environnement `MB_ENCRYPTION_SECRET_KEY` à l’instance Metabase
 
 {% hint style="warning" %}
-* Pensez à bien connecter une base PostgreSQL pour persister votre config metabase. Ajoutez un addon "PostgreSQL" puis ajoutez la variable d'env `DATABASE_URL=$SCALINGO_POSTGRESQL_URL` a votre application
-* Vous pouvez ajouter un filtre oauth2-proxy devant votre metabase pour mieux le protéger, cf [exemple pour scalingo](https://github.com/betagouv/oauth2-deploy-demo)
+- Pensez à bien connecter une base PostgreSQL pour persister votre config metabase. Ajoutez un addon "PostgreSQL" puis ajoutez la variable d'env `DATABASE_URL=$SCALINGO_POSTGRESQL_URL` a votre application
+- Vous pouvez ajouter un filtre oauth2-proxy devant votre metabase pour mieux le protéger, cf [Proxy d'authentification](../../../gerer-son-produit/gestion-au-quotidien/tech/securite-proxy-dauthentification.md)
 {% endhint %}
 
 #### Accès contrôlé
@@ -50,13 +50,15 @@ Il est conseillé de créer des utilisateurs Postgres dédiés pour Metabase, et
 
 Pour se prémunir d'éventuelles failles sur Metabase ou de vol d'accès, protégez-le derrière un proxy d'authentification. [oauth2-proxy](https://oauth2-proxy.github.io/oauth2-proxy/) en est un exemple, il permet de limiter l'accès en réutilisant un système d'authentification connu (tel que GitHub...).
 
+Voir cette page : [Proxy d'authentification](../../../gerer-son-produit/gestion-au-quotidien/tech/securite-proxy-dauthentification.md)
+
 Si vous souhaitez tout de même exposer les pages publiques, vous aurez besoin de mettre en "whitelist" les endpoints suivants avec le paramètre `--skip-auth-route` :
 
 `^/public/.*,^/app/dist/.*,^/api/public/.*,^/api/session/.*,^/app/assets/.*`
 
 ### Ressources
 
-* Une [présentation vidéo Metabase en français](https://youtu.be/3sEmPG3Ydrg?si=l3emB4\_dC253R2JP\&t=193)
+* Une [présentation vidéo Metabase en français](https://youtu.be/3sEmPG3Ydrg?si=l3emB4_dC253R2JP\&t=193)
 * Exemples d'outils d'anonymisation :
   * [datanymizer](https://github.com/datanymizer/datanymizer)
   * [postgresql-anonymizer](https://postgresql-anonymizer.readthedocs.io/en/stable/)
