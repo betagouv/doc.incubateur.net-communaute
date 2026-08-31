@@ -22,7 +22,7 @@ Tu peux poser toutes tes questions sur [bureaux-Segur sur Tchap](https://tchap.g
 
 Si tu souhaites venir travailler dans ces locaux, la marche à suivre est simple :
 
-1. Remplir ce [formulaire](https://tally.so/r/w8AJjP), idéalement **au moins 48h ouvrés** avant ta venue pour signaler ta venue. Si tu n'as pas de retour ou que tu es en retard sur le délai, tu peux faire ta demande dans le canal [bureaux-Segur sur Tchap](https://tchap.gouv.fr/#/room/!AAWxZbWrIDpYAKZVRF:agent.dinum.tchap.gouv.fr). Un agent de l'incubateur enverra un email à **accueil-segur@segur.gouv.fr** pour prévenir de ta venue.
+1. Remplir le [formulaire](https://espace-membre.beta.gouv.fr/demandes/segur) présent sur ton espace membre, idéalement **au moins 48h ouvrés** avant ta venue pour signaler ta venue. Si tu n'as pas de retour ou que tu es en retard sur le délai, tu peux faire ta demande dans le canal [bureaux-Segur sur Tchap](https://tchap.gouv.fr/#/room/!AAWxZbWrIDpYAKZVRF:agent.dinum.tchap.gouv.fr). Un agent de l'incubateur enverra un email à **accueil-segur@segur.gouv.fr** pour prévenir de ta venue.
 2. Le jour J, se munir d'une pièce d'identité.
 3. Se rendre à l'accueil au 20 avenue de Ségur.
 4. À l'accueil, indiquer qu'un rendez-vous a été pris avec l'Incubateur de services numériques de la DINUM.
