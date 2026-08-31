@@ -65,7 +65,7 @@ Il est également possible de la consulter en version documentation ci-dessous. 
 
 * [ ] Faire un état des lieux avec l’intra ou la personne responsable de l'équipe produit à J-7 pour identifier si des blocages critiques demeurent
 * [ ] Finaliser tes derniers livrables de mission
-* [ ] Livrer ton dernier rapport de services faits à l'entreprise titulaire du marché public avec laquelle tu as ton contrat
+* [ ] Transmettre à l'entreprise titulaire du marché public avec laquelle tu as ton contrat ton dernier compte rendu d'activité et les éléments qui objectivent la réalisation de ta prestation
 * [ ] Organiser ton [échange de sortie](https://docs.numerique.gouv.fr/docs/f0c77425-6df7-41ad-b6bd-cecf643ee158/) avec le·a responsable de l'équipe produit
 * [ ] Organiser ton échange de sortie avec l'entreprise titulaire du marché public avec laquelle tu as ton contrat
 * [ ] Si tu utilises Vaultwarden : partager les mots de passe utiles avec ton équipe et supprimer ton compte​

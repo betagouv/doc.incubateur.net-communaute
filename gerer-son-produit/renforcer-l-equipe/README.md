@@ -12,7 +12,7 @@ Le processus de gestion de ton équipe se découpe en plusieurs phases :
 
 * Sélection d'un nouveau membre
 * Son embarquement
-* La gestion de sa performance le temps de la prestation (qualité des livrables)
+* La pilotage de sa performance le temps de la prestation (qualité des livrables)
 * Son désembarquement en fin de prestation (après potentiellement un ou plusieurs renouvellements)
 
 Pour t'aider à gérer toutes ces étapes, tu peux t'appuyer sur les référents métier et l'équipe animation :
@@ -31,6 +31,10 @@ Place au concret ! Retrouve ici tous les guides et procédures pratiques pour t'
 
 {% content-ref url="embarquement-par-le-recruteur.md" %}
 [embarquement-par-le-recruteur.md](embarquement-par-le-recruteur.md)
+{% endcontent-ref %}
+
+{% content-ref url="piloter-la-prestation-dun-membre-de-son-equipe/" %}
+[piloter-la-prestation-dun-membre-de-son-equipe](piloter-la-prestation-dun-membre-de-son-equipe/)
 {% endcontent-ref %}
 
 {% content-ref url="../gestion-au-quotidien/renforcer-l-equipe/le-desembarquement-de-la-communaute/" %}

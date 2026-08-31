@@ -59,7 +59,8 @@
   * [Salariés des sociétés de prestation](travailler-chez-beta.gouv.fr/les-differents-statuts/salaries-des-societes-de-prestation/README.md)
 * [🙋 Candidater chez beta.gouv.fr](travailler-chez-beta.gouv.fr/guide-pour-les-candidats.md)
 * [🐥 Débuter chez beta.gouv.fr](travailler-chez-beta.gouv.fr/to-do-darrivee/README.md)
-* [🚪 Quitter beta.gouv.fr](travailler-chez-beta.gouv.fr/je-quitte-beta.gouv.fr.md)
+* [🧭 Piloter ma mission chez beta.gouv.fr](travailler-chez-beta.gouv.fr/piloter-ma-mission-chez-beta.gouv.fr/README.md)
+  * [Guide pratique : comprendre le pilotage de ta mission](travailler-chez-beta.gouv.fr/piloter-ma-mission-chez-beta.gouv.fr/guide-pratique-comprendre-le-pilotage-de-ta-mission.md)
 * [🧘🏻‍♀️ Vie quotidienne et bien être](travailler-chez-beta.gouv.fr/vie-quotidienne-et-bien-etre/README.md)
   * [Travailler dans les lieux partagés](travailler-chez-beta.gouv.fr/vie-quotidienne-et-bien-etre/travailler-dans-les-lieux-partages/README.md)
     * [Les locaux de la DINUM à Paris](travailler-chez-beta.gouv.fr/vie-quotidienne-et-bien-etre/travailler-dans-les-lieux-partages/locaux/README.md)
@@ -99,6 +100,7 @@
     * [Enjeux et bonnes pratiques de l'écoconception](travailler-chez-beta.gouv.fr/se-former/se-former-en-ligne/eco-conception.md)
   * [Animer une formation](travailler-chez-beta.gouv.fr/se-former/animer-une-formation.md)
   * [Évoluer chez beta.gouv.fr](travailler-chez-beta.gouv.fr/se-former/changer-de-startup-changer-de-type-de-poste.md)
+* [🚪 Quitter beta.gouv.fr](travailler-chez-beta.gouv.fr/je-quitte-beta.gouv.fr.md)
 
 ## Gérer son produit
 
@@ -253,11 +255,13 @@
           * [Création d'un SCN : mode d'emploi](gerer-son-produit/la-vie-du-produit/perennisation/trajectoires-de-perennisation/4.-constitution-dune-structure-juridique-dediee-gip-scic-sas-scn-etc./service-a-competence-nationale-scn/creation-dun-scn-mode-demploi.md)
   * [5️⃣ Arrêt](gerer-son-produit/la-vie-du-produit/arret.md)
 * [🏋️ Gérer son équipe](gerer-son-produit/renforcer-l-equipe/README.md)
-  * [Processus et bonnes pratiques de sélection d'une personne en prestation](gerer-son-produit/renforcer-l-equipe/conseils-pour-le-recrutement/README.md)
+  * [Sélectionner une personne en prestation](gerer-son-produit/renforcer-l-equipe/conseils-pour-le-recrutement/README.md)
     * [Guides d'entretien par profil](gerer-son-produit/renforcer-l-equipe/conseils-pour-le-recrutement/guide-dentretiens-par-profil.md)
     * [Publier une offre de mission sur le compte LinkedIn de beta.gouv.fr](gerer-son-produit/renforcer-l-equipe/conseils-pour-le-recrutement/publier-une-offre-de-mission-sur-le-compte-linkedin-de-beta.gouv.fr.md)
   * [❌ recruter-designer.md](gerer-son-produit/renforcer-l-equipe/recruter-designer.md)
   * [Embarquer un nouveau membre de son équipe](gerer-son-produit/renforcer-l-equipe/embarquement-par-le-recruteur.md)
+  * [Piloter la prestation d'un membre de son équipe](gerer-son-produit/renforcer-l-equipe/piloter-la-prestation-dun-membre-de-son-equipe/README.md)
+    * [Guide pratique : piloter une prestation au quotidien](gerer-son-produit/renforcer-l-equipe/piloter-la-prestation-dun-membre-de-son-equipe/guide-pratique-piloter-une-prestation-au-quotidien.md)
   * [Désembarquer un membre de son équipe](gerer-son-produit/gestion-au-quotidien/renforcer-l-equipe/le-desembarquement-de-la-communaute/README.md)
     * [Guide pratique : fin de prestation (quand, pourquoi et comment décider)](gerer-son-produit/gestion-au-quotidien/renforcer-l-equipe/le-desembarquement-de-la-communaute/guide-pratique-fin-de-prestation-quand-pourquoi-et-comment-decider.md)
   * [Conseils de recrutement déploiement](gerer-son-produit/gestion-au-quotidien/renforcer-l-equipe/les-metiers-sales-and-marketing-dans-le-prive.md)

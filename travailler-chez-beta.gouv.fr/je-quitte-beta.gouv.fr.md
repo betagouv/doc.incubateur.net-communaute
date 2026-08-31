@@ -15,10 +15,10 @@ Son objectif n’est pas uniquement administratif. Il vise à éviter les risque
 
 Ce parcours est là pour t’aider à :
 
-- organiser une passation claire et utile pour l’équipe ;
-- sécuriser les accès, les outils et les données ;
-- garantir la continuité du produit sans dépendance individuelle ;
-- vivre un départ propre, transparent et respectueux pour toutes et tous.
+* organiser une passation claire et utile pour l’équipe ;
+* sécuriser les accès, les outils et les données ;
+* garantir la continuité du produit sans dépendance individuelle ;
+* vivre un départ propre, transparent et respectueux pour toutes et tous.
 
 ## Les étapes clés de ton parcours de désembarquement
 
@@ -33,7 +33,7 @@ Pour t'aider dans ton désembarquement tu pourras solliciter en fonction des ét
 
 Tu es autonome dans le déroulé de ton désembarquement, c'est à toi de prendre l'initiative pour le réaliser : cela fait partie des attendus de ta mission.
 
-⚠️ Il est impératif de le suivre afin de permettre la finalisation de ton dernier PV de service fait et, par extension, le règlement de ta dernière facture.
+⚠️ Il est impératif de le suivre afin de permettre à l'administration de réceptionner ta dernière prestation, formalisée par le PV de service fait, et par extension le règlement de ta dernière facture.
 
 ### Ton parcours de désembarquement en détails
 
@@ -53,31 +53,31 @@ Tu peux également la consulter en version documentation juste ici 👇
 
 ### Dès l’officialisation de la fin de mission
 
-- [ ] Renseigner ta date de départ exacte dans ton espace membre
-- [ ] Informer l'entreprise titulaire du marché public avec laquelle tu as ton contrat
-- [ ] Informer les responsables de l'incubateur, en lien avec l'intra ou la personne responsable de l'équipe
-- [ ] Informer les membres de ton équipe, en lien avec l'intra ou la personne responsable de l'équipe
-- [ ] Préparer ton plan de passation avec l'intra ou la personne responsable de l'équipe produit
+* [ ] Renseigner ta date de départ exacte dans ton espace membre
+* [ ] Informer l'entreprise titulaire du marché public avec laquelle tu as ton contrat
+* [ ] Informer les responsables de l'incubateur, en lien avec l'intra ou la personne responsable de l'équipe
+* [ ] Informer les membres de ton équipe, en lien avec l'intra ou la personne responsable de l'équipe
+* [ ] Préparer ton plan de passation avec l'intra ou la personne responsable de l'équipe produit
 
 ### Le dernier mois
 
-- [ ] Documenter, dans un espace partagé au reste de l'équipe, tes connaissances et tes avancées liées au projet
-- [ ] Pour chacune de tes tâches et missions, t'assurer de la transmission et de la reprise en main par une personne de l'équipe
-- [ ] Documenter, dans un espace partagé au reste de l'équipe, l'ensemble des contacts liés au projet (sponsors, contacts, prestataires)
-- [ ] Transmettre tes droits d'administrateur ou d'écriture sur les outils partagés (agenda partagé, canaux Tchap, logiciels métiers)
+* [ ] Documenter, dans un espace partagé au reste de l'équipe, tes connaissances et tes avancées liées au projet
+* [ ] Pour chacune de tes tâches et missions, t'assurer de la transmission et de la reprise en main par une personne de l'équipe
+* [ ] Documenter, dans un espace partagé au reste de l'équipe, l'ensemble des contacts liés au projet (sponsors, contacts, prestataires)
+* [ ] Transmettre tes droits d'administrateur ou d'écriture sur les outils partagés (agenda partagé, canaux Tchap, logiciels métiers)
 
 ### Les derniers jours
 
-- [ ] Faire un état des lieux avec l’intra ou la personne responsable de l'équipe produit à J-7 pour identifier si des blocages critiques demeurent
-- [ ] Finaliser tes derniers livrables de mission
-- [ ] Livrer ton dernier rapport de services faits à l'entreprise titulaire du marché public avec laquelle tu as ton contrat
-- [ ] Organiser ton [échange de sortie](https://docs.numerique.gouv.fr/docs/f0c77425-6df7-41ad-b6bd-cecf643ee158/) avec le.a responsable de l'équipe produit
-- [ ] Organiser ton échange de sortie avec l'entreprise titulaire du marché public avec laquelle tu as ton contrat
-- [ ] Si tu utilises Vaultwarden : partager les mots de passes utiles avec ton équipe et [supprimer ton compte](https://vaultwarden.incubateur.net/#/settings/account)
-- [ ] Si tu utilises Scalingo : [supprimer ton compte](https://dashboard.scalingo.com/account/authentication)
-- [ ] Désactiver tous tes comptes ou abonnements liés à ta mission
-- [ ] Rendre les badges d'accès aux locaux (Ségur, Plateforme de l'inclusion etc)
-- [ ] Remplir mon [retour d'expérience au sein de la communauté](https://grist.numerique.gouv.fr/o/isn/forms/jGrwi97QpXsRynJpCEubxj/4)
+* [ ] Faire un état des lieux avec l’intra ou la personne responsable de l'équipe produit à J-7 pour identifier si des blocages critiques demeurent
+* [ ] Finaliser tes derniers livrables de mission
+* [ ] Transmettre à l'entreprise titulaire du marché public avec laquelle tu as ton contrat ton dernier compte rendu d'activité et les éléments qui objectivent la réalisation de ta prestation
+* [ ] Organiser ton [échange de sortie](https://docs.numerique.gouv.fr/docs/f0c77425-6df7-41ad-b6bd-cecf643ee158/) avec le.a responsable de l'équipe produit
+* [ ] Organiser ton échange de sortie avec l'entreprise titulaire du marché public avec laquelle tu as ton contrat
+* [ ] Si tu utilises Vaultwarden : partager les mots de passes utiles avec ton équipe et [supprimer ton compte](https://vaultwarden.incubateur.net/#/settings/account)
+* [ ] Si tu utilises Scalingo : [supprimer ton compte](https://dashboard.scalingo.com/account/authentication)
+* [ ] Désactiver tous tes comptes ou abonnements liés à ta mission
+* [ ] Rendre les badges d'accès aux locaux (Ségur, Plateforme de l'inclusion etc)
+* [ ] Remplir mon [retour d'expérience au sein de la communauté](https://grist.numerique.gouv.fr/o/isn/forms/jGrwi97QpXsRynJpCEubxj/4)
 
 ## Que se passe-t-il après ma date de fin de mission ?
 
@@ -89,27 +89,27 @@ L'équipe dev transverse améliore ces alertes au fil des semaines. **Seules cel
 
 #### Au lendemain de ta date de fin de mission :
 
-- [ ] \[OVH] Mise à jour de ton mot de passe email
-- [ ] \[OVH] Suppression des redirections de l’email @beta.gouv.fr vers des adresses externes
-- [ ] \[Github] Retrait de ton compte github de l’organisation beta.gouv
-- [ ] \[email] Sur l’adresse secondaire indiquant ce qu’il vient de se passer
+* [ ] \[OVH] Mise à jour de ton mot de passe email
+* [ ] \[OVH] Suppression des redirections de l’email @beta.gouv.fr vers des adresses externes
+* [ ] \[Github] Retrait de ton compte github de l’organisation beta.gouv
+* [ ] \[email] Sur l’adresse secondaire indiquant ce qu’il vient de se passer
 
 #### Trois jours après ta date de fin de mission <a href="#date-de-fin-j3-job-tous-les-jours" id="date-de-fin-j3-job-tous-les-jours"></a>
 
-- [ ] \[Tchap] Ton accès est supprimé
-- [ ] \[email] Ajouter une redirection de l’email vers [departs@beta.gouv.fr](mailto:departs@beta.gouv.fr)
+* [ ] \[Tchap] Ton accès est supprimé
+* [ ] \[email] Ajouter une redirection de l’email vers [departs@beta.gouv.fr](mailto:departs@beta.gouv.fr)
 
 #### Un mois après ta date de fin de mission <a href="#date-de-fin-j30-job-tous-les-jours" id="date-de-fin-j30-job-tous-les-jours"></a>
 
-- [ ] \[OVH] Suppression de ton compte email et de toutes ces données
-- [ ] \[OVH] Suppression de ton compte email de toutes les listes de diffusion
-- [ ] \[OVH] Suppression des redirections internes vers l’email @beta.gouv.fr de la personne
-- [ ] \[email] Envoi d'un email d'information sur ton adresse secondaire
-- [ ] \[Secrétariat] Suppression de ton email de secours de la base de données
+* [ ] \[OVH] Suppression de ton compte email et de toutes ces données
+* [ ] \[OVH] Suppression de ton compte email de toutes les listes de diffusion
+* [ ] \[OVH] Suppression des redirections internes vers l’email @beta.gouv.fr de la personne
+* [ ] \[email] Envoi d'un email d'information sur ton adresse secondaire
+* [ ] \[Secrétariat] Suppression de ton email de secours de la base de données
 
 #### Trois mois après ta date de fin de mission <a href="#date-de-fin-j90-job-tous-les-jours" id="date-de-fin-j90-job-tous-les-jours"></a>
 
-- [ ] \[email] Suppression de la redirection vers [departs@beta.gouv.fr](mailto:departs@beta.gouv.fr)
+* [ ] \[email] Suppression de la redirection vers [departs@beta.gouv.fr](mailto:departs@beta.gouv.fr)
 
 ## Questions fréquentes
 
