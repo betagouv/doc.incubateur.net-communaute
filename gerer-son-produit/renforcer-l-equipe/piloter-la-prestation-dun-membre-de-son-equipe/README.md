@@ -1,27 +1,31 @@
 # Piloter la prestation d'un membre de son équipe
 
+L’intrapreneur·e est responsable de mettre en place et de garantir un fonctionnement d’équipe propice à la réussite du service numérique qu’il ou elle porte. À ce titre, il ou elle assure le pilotage et la coordination des prestations réalisées par les membres de l’équipe.
+
 Un pilotage de prestation laissé à la seule confiance expose l'équipe produit à des risques importants :&#x20;
 
 * Une sous-performance qui se découvre trop tard
 * Un bon profil qui est sous ou mal utilisé
 * Une fin de mission vécue comme brutale&#x20;
 
-L'intrapreneur·e a pour mission d'organiser le pilotage de la mission de ses prestataires entre la sortie de l'embarquement et la décision de reconduire ou d'arrêter ladite mission.
+L'intrapreneur·e doit donc organiser le pilotage de la mission des prestataires entre la sortie de l'embarquement et la décision de reconduire ou d'arrêter ladite mission.
 
 ## Pourquoi un parcours de pilotage des missions commun ?
 
-Le pilotage d'une prestation de service est la phase la moins outillée du cycle de vie d'une mission. Beaucoup d'intrapreneur·es pilotent pour la première fois une équipe pluri-métiers, sans avoir jamais avoir été confronté à cette situation dans leur parcours d'agent·e public, et peuvent donc être sans repères partagés sur ce qui se joue entre l'arrivée et le départ du prestataire.
+Beaucoup d’intrapreneur·es prennent pour la première fois la responsabilité d’une équipe pluri-métiers, sans avoir nécessairement rencontré ce type de situation au cours de leur parcours d’agent·e public.
+
+Cette documentation propose des repères concrets pour accompagner le pilotage des prestataires, de leur arrivée à leur départ.
 
 Un parcours commun permet d'éviter les principaux problèmes observés :
 
-* Reconduction d'un profil dont la sous-performance n'a pas été détectée à temps ;
-* Départ de profils performants, faute de retour et d'emploi pertinent
-* Fins de mission vécues comme brutales ou opaques, parce que rien n'avait été dit en amont
-* Doutes techniques jamais tranchés, faute de savoir vers qui les faire remonter
-* Dette documentaire qui se révèle au moment de la passation, quand il est trop tard
-* Expérience de collaboration dégradée pour l'intrapreneur·e comme pour le prestataire
+* reconduction d'un profil dont la sous-performance n'a pas été détectée à temps ;
+* départ de profils performants, faute de retour et d'emploi pertinent ;
+* fins de mission vécues comme brutales ou opaques, parce que rien n'avait été dit en amont ;
+* doutes techniques jamais tranchés, faute de savoir vers qui les faire remonter ;
+* dette documentaire qui se révèle au moment de la passation, quand il est trop tard ;
+* expérience de collaboration dégradée pour l'intrapreneur·e comme pour le prestataire.
 
-Plus largement, le pilotage vise à protéger la qualité et la continuité du service numérique : c'est le produit qui est en jeu quand une prestation dérive sans que personne ne le voie.
+Plus largement, le pilotage vise à protéger la qualité et la continuité du service numérique : c'est le produit et l'expérience des utilisateurs qui sont en jeu quand une prestation dérive sans que personne ne le voie.
 
 En tant qu'intrapreneur·e, il s'agit d'une garantie te permettant de décider en connaissance de cause plutôt que dans l'urgence, et de sécuriser les personnes sur lesquelles ton produit peut reposer lors de certaines phases.
 
@@ -37,7 +41,7 @@ Le parcours de pilotage repose sur 5 étapes :
 
 En cas de reconduction, une nouvelle boucle de pilotage s'ouvre. En cas d'arrêt, tu bascules sur le [parcours de désembarquement](https://doc.incubateur.net/communaute/gerer-son-produit/renforcer-l-equipe/le-desembarquement-de-la-communaute).
 
-Pour t'aider dans le pilotage tu peux solliciter, en fonction des étapes : ton coach, un référent métier du même métier que ton prestataire, ton incubateur, l'entreprise titulaire de ton marché public, ou l'équipe animation de beta.gouv.fr via le [coaching RH](https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/vie-quotidienne-et-bien-etre/gerer-des-situations-comliquees/coaching-rh-clinique-des-situations-difficiles#qui-se-charge-danimer-ce-programme) si la situation est difficile.
+Pour t'aider dans le pilotage tu peux solliciter, en fonction des étapes et la nature de tes interrogations : ton coach, un référent métier du même métier que ton prestataire, ton incubateur, l'entreprise titulaire de ton marché public, ou l'équipe animation de beta.gouv.fr via le [coaching RH](https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/vie-quotidienne-et-bien-etre/gerer-des-situations-comliquees/coaching-rh-clinique-des-situations-difficiles#qui-se-charge-danimer-ce-programme) si la situation est difficile.
 
 {% hint style="info" %}
 Le pilotage de tes prestataires est porté par toi. C'est toi qui fixes la cadence des rituels, qui donnes les retours, qui décides quand un doute doit être objectivé par un tiers. Le prestataire a un rôle actif (livrer au standard, documenter, signaler tôt un blocage), mais l'initiative du cadre t'appartient.
@@ -59,7 +63,7 @@ Le pilotage de tes prestataires est porté par toi. C'est toi qui fixes la caden
 
 * [ ] Animer un point collectif opérationnel, borné dans le temps et centré sur la production des livrables de l'équipe
 * [ ] Relier ce qui se dit aux objectifs d'impact du mois
-* [ ] Noter et partager les décisions prises. S'il faut trancher c'est à l'intrapreneur·e qui en à la primauté
+* [ ] Noter et partager les décisions prises. S'il faut trancher c'est à l'intrapreneur·e de le faire
 
 #### Chaque mois
 
@@ -96,12 +100,10 @@ Le pilotage de tes prestataires est porté par toi. C'est toi qui fixes la caden
 
 ## Ce qu'il faut savoir sur le cadre contractuel
 
-Le [marché](https://doc.incubateur.net/communaute/gerer-son-produit/gestion-au-quotidien/marches) des produits/services numériques d'État implique une relation tripartite entre une administration sponsor et financeuse, une équipe d'indépendants, et une entreprise titulaire du marché public. Deux conséquences concrètes pour ton pilotage :
+Les [marchés](https://doc.incubateur.net/communaute/gerer-son-produit/gestion-au-quotidien/marches) interministériels de mentorat et de réalisation de produits impliquent une relation tripartite entre une administration sponsor et financeuse, une équipe d'indépendants, et une entreprise titulaire du marché public. Deux conséquences concrètes pour ton pilotage :
 
-* **L'entreprise titulaire du marché public n'exerce pas de contrôle qualité** : elle te paie sur validation du rapport de service fait envoyé par le titulaire à l'administration publique. La grille d'évaluation des livrables construit avec ton intra est donc un outil qui te permettra de nourrir la justification des services faits.
+* **L'entreprise titulaire du marché public n'exerce pas de contrôle qualité** : elle paie les prestataires sur validation du rapport de service fait que le titulaire t'envoie, et que tu signes ou que tu fais signer si tu n'as pas la délégation de signature.&#x20;
 * **En cas de litige, l'entreprise attributaire est responsable légale.** Il est nécessaire de l'inclure dans les échanges et dans le processus de décision, sans attendre que la situation soit bloquée.
-
-Pour toute question sur le marché utilises le canal [Tchap](https://tchap.gouv.fr/#/room/!FznvyqtGVRlsGHcLVE:agent.dinum.tchap.gouv.fr) dédié.
 
 ### D'autres personnes et options de ressources dans la communauté
 

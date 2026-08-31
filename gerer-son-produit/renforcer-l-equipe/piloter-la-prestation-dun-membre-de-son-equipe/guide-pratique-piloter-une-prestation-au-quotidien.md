@@ -1,13 +1,13 @@
 # Guide pratique : piloter une prestation au quotidien
 
-Cette page propose un guide pédagogique pour les intrapreneur·es qui [pilotent l'activité d'un prestataire de service](./).
+Cette page propose un guide pédagogique pour les intrapreneur·es qui [pilotent les missions de personnes en prestation](./) dans leur équipe.
 
-Elle complète le [guide de fin de prestation](https://doc.incubateur.net/communaute/gerer-son-produit/renforcer-l-equipe/le-desembarquement-de-la-communaute/guide-pratique-fin-de-prestation-quand-pourquoi-et-comment-decider#sur-le-suivi-et-laccompagnement) : celui-là traite de la décision d'arrêter ou de reconduire, celui-ci traite de tout ce qui se joue avant, semaine après semaine, mois après mois.
+Elle complète le [guide de fin de prestation](https://doc.incubateur.net/communaute/gerer-son-produit/renforcer-l-equipe/le-desembarquement-de-la-communaute/guide-pratique-fin-de-prestation-quand-pourquoi-et-comment-decider#sur-le-suivi-et-laccompagnement) qui traite de la décision d'arrêter ou de reconduire : celui-ci traite de tout ce qui se joue avant, semaine après semaine, mois après mois.
 
-Piloter une prestation, ce n'est pas surveiller ! C'est créer les conditions dans lesquelles une personne compétente peut réussir à délivrer aux [standards](https://doc.incubateur.net/communaute/gerer-son-produit/readme-doc-incubateur-net) fixés.
+Piloter une prestation, ce n'est pas surveiller ! C'est créer les conditions dans lesquelles une personne compétente peut réussir à délivrerles livrables définis ensemble, aux [standards](https://doc.incubateur.net/communaute/gerer-son-produit/readme-doc-incubateur-net) fixés.
 
 {% hint style="info" %}
-**Rappel juridique** : ton prestataire n'est pas un·e salarié·e. Il ou elle intervient dans un cadre contractuel défini par le bon de commande (marché public), et c'est l'entreprise titulaire du marché qui porte la responsabilité contractuelle de la mission. Cela ne dispense en rien d'un pilotage structuré, au contraire, c'est justement l'absence des outils de management classiques (car contre nature avec le concept de prestation) qui rend le feedback continu et la lecture des signaux d'autant plus nécessaires.
+**Rappel juridique** : la personne en prestation n'est pas un·e salarié·e. Il ou elle intervient dans un cadre contractuel défini par le bon de commande (marché public), et c'est l'entreprise titulaire du marché qui porte la responsabilité contractuelle de la mission. Cela ne dispense en rien d'un pilotage structuré, au contraire : c'est justement l'absence des outils de pilotage classiques qui rend le feedback continu et la lecture des signaux d'autant plus nécessaires.
 {% endhint %}
 
 Ce guide est structuré en six parties :&#x20;
@@ -40,7 +40,7 @@ Cela peut donner par exemple :
 | "Tu n'es pas assez rigoureux·se" | "Sur le livrable de la semaine dernière, trois des cas d'usage identifiés au cadrage n'étaient pas couverts. Résultat : on a dû décaler la mise en production de X semaines."          |
 | "Bravo, super boulot !"          | "Sur la reprise de la documentation ce mois-ci, tu as anticipé le besoin sans qu'on te le demande. Concrètement, la prochaine personne qui reprend ce module gagnera plusieurs jours." |
 
-La colonne de gauche porte un jugement sur la personne. Celle de droite décrit un fait et sa conséquence qui est vérifiable et donc actionnable. Cette différence n'est pas de la politesse, c'est un retour formulé sur des faits qui sera nettement mieux reçu, y compris quand il est négatif.
+La colonne de gauche porte un jugement sur la personne ou sur un comportement. Celle de droite décrit un fait et sa conséquence qui est vérifiable et donc actionnable. Cette différence n'est pas de la politesse, c'est un retour formulé sur des faits qui sera nettement mieux reçu, y compris quand il est négatif.
 
 ### Le rythme : deux temps distincts
 
@@ -55,7 +55,7 @@ En tant que responsable de l'équipe produit vous rencontrer certainement ces fr
 
 * **La peur d'abîmer la relation.** Un retour bien formulé ne casse pas une relation de travail. C'est plutôt le cas de l'accumulation de non-dits.
 * **L'illusion que "ça va se voir tout seul".** Une personne qui ne reçoit aucun signal en conclut légitimement que tout va bien.
-* **Le manque de vocabulaire technique.** Bien que parfois réel, surtout côté développement, mais tu peux décrire un effet sans maîtriser la technique. "Je n'arrive pas à comprendre ce que fait ce module en le lisant" est un retour valide.
+* **Le manque de vocabulaire technique.** Il est parfois réel, surtout côté développement, mais tu peux décrire un effet sans maîtriser la technique. "Je n'arrive pas à comprendre ce que fait ce module en le lisant" est un retour valide.
 * **Le manque de temps.** Un retour de deux minutes en fin de point hebdo vaut mieux qu'un entretien parfait jamais planifié.
 
 ### Un piège classique : le feedback sandwich
@@ -79,7 +79,7 @@ L'objectif de cette section n'est pas d'ajouter du contrôle, mais de te permett
 
 Ce sont les mêmes signaux que ceux recensés dans le [guide de fin de prestation](https://doc.incubateur.net/communaute/gerer-son-produit/renforcer-l-equipe/le-desembarquement-de-la-communaute/guide-pratique-fin-de-prestation-quand-pourquoi-et-comment-decider), lus ici sous l'angle du pilotage courant plutôt que de la décision. Un signal ne signifie pas qu'il faut mettre fin à la mission. Il signifie qu'il faut ouvrir un espace de dialogue structuré et, si nécessaire, envisager une décision.
 
-<table data-search="false"><thead><tr><th>Signaux d'alerte</th><th>Ce qu'on observe</th><th>Niveau de vigilance</th><th>Plan d'action de pilotage</th></tr></thead><tbody><tr><td>Fin de budget ou réorientation stratégique</td><td>La startup n'est pas reconduite, le budget est réduit, une décision politique ou institutionnelle change les priorités.</td><td>🔴 Critique</td><td>Informer l'équipe dès que la contrainte est connue, sans attendre la certitude. Associer le titulaire du marché et le coach. Ce signal n'est pas lié à la performance : le dire explicitement évite qu'un prestataire l'interprète comme un jugement sur son travail.</td></tr><tr><td>Conflits relationnels persistants</td><td>Tensions durables avec d'autres membres de l'équipe, incapacité à travailler en collaboration malgré plusieurs tentatives de résolution.</td><td>🔴 Critique</td><td>Solliciter le coaching RH avant d'agir seul·e. Recueillir les faits auprès de chaque partie séparément, sans arbitrer à chaud, et documenter les tentatives de résolution déjà menées.</td></tr><tr><td>Problèmes de posture</td><td>Non-respect de la culture d'équipe, posture inadaptée au contexte de l'équipe, difficultés relationnelles répétées.</td><td>🔴 Critique</td><td>Traiter sans délai, en tête-à-tête, sur des faits datés. Le silence de l'encadrement est lui-même un message envoyé à l'équipe : ce n'est jamais le prix à payer pour de la compétence technique.</td></tr><tr><td>Dégradation de la qualité des livrables</td><td>Les rendus sont en deçà du standard attendu, les délais sont régulièrement dépassés, les revues de sprint montrent une stagnation.</td><td>⚠️ Fort</td><td>Vérifier d'abord si le cadrage était clair et si les moyens étaient réunis. Puis poser une attente explicite avec une échéance de revue. Si le doute est technique et que tu ne peux pas le trancher, demander une vérification externe.</td></tr><tr><td>Désalignement sur les valeurs ou la méthode beta.gouv.fr</td><td>Résistance aux pratiques beta.gouv.fr, non-respect des standards, comportements contraires aux valeurs de la communauté.</td><td>⚠️ Fort</td><td>Rappeler les standards de façon explicite et documentée plutôt qu'allusive. Une partie des désalignements vient d'une méconnaissance réelle du cadre. Fixer ce qui doit changer et à quelle échéance.</td></tr><tr><td>Désengagement progressif</td><td>Participation en baisse lors des rituels d'équipe, réactivité réduite sur les outils de collaboration, manque d'initiative.</td><td>🟡 Modéré</td><td>Ouvrir un point individuel orienté ressenti, pas avancement. C'est le signal le plus souvent réversible, et celui pour lequel une question posée tôt change le plus de choses.</td></tr><tr><td>Évolution du besoin produit (marginale ou partielle)</td><td>Le contexte du service a changé, les compétences du prestataire ne correspondent plus aux priorités actuelles.</td><td>🟡 Modéré</td><td>Reformaliser le périmètre par écrit. Examiner une redéfinition de mission avant d'envisager un arrêt. La compétence pourrait rester utile sur un autre périmètre.</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th>Signaux d'alerte</th><th>Ce qu'on observe</th><th width="113.6666259765625">Niveau de vigilance</th><th>Plan d'action de pilotage</th></tr></thead><tbody><tr><td>Fin de budget ou réorientation stratégique</td><td>La startup n'est pas reconduite, le budget est réduit, une décision politique ou institutionnelle change les priorités.</td><td>🔴 Critique</td><td>Informer l'équipe dès que la contrainte est connue, sans attendre la certitude. Associer le titulaire du marché et le coach. Ce signal n'est pas lié à la performance : le dire explicitement évite qu'un prestataire l'interprète comme un jugement sur son travail.</td></tr><tr><td>Conflits relationnels persistants</td><td>Tensions durables avec d'autres membres de l'équipe, incapacité à travailler en collaboration malgré plusieurs tentatives de résolution.</td><td>🔴 Critique</td><td>Solliciter le coaching RH avant d'agir seul·e. Recueillir les faits auprès de chaque partie séparément, sans arbitrer à chaud, et documenter les tentatives de résolution déjà menées.</td></tr><tr><td>Problèmes de posture</td><td>Non-respect de la culture d'équipe, posture inadaptée au contexte de l'équipe, difficultés relationnelles répétées.</td><td>🔴 Critique</td><td>Traiter sans délai, en tête-à-tête, sur des faits datés. Le silence de l'encadrement est lui-même un message envoyé à l'équipe : ce n'est jamais le prix à payer pour de la compétence technique.</td></tr><tr><td>Dégradation de la qualité des livrables</td><td>Les rendus sont en deçà du standard attendu, les délais sont régulièrement dépassés, les revues de sprint montrent une stagnation.</td><td>⚠️ Fort</td><td>Vérifier d'abord si le cadrage était clair et si les moyens étaient réunis. Puis poser une attente explicite avec une échéance de revue. Si le doute est technique et que tu ne peux pas le trancher, demander une vérification externe.</td></tr><tr><td>Désalignement sur les valeurs ou la méthode beta.gouv.fr</td><td>Résistance aux pratiques beta.gouv.fr, non-respect des standards, comportements contraires aux valeurs de la communauté.</td><td>⚠️ Fort</td><td>Rappeler les standards de façon explicite et documentée plutôt qu'allusive. Une partie des désalignements vient d'une méconnaissance réelle du cadre. Fixer ce qui doit changer et à quelle échéance.</td></tr><tr><td>Désengagement progressif</td><td>Participation en baisse lors des rituels d'équipe, réactivité réduite sur les outils de collaboration, manque d'initiative.</td><td>🟡 Modéré</td><td>Ouvrir un point individuel orienté ressenti, pas avancement. C'est le signal le plus souvent réversible, et celui pour lequel une question posée tôt change le plus de choses.</td></tr><tr><td>Évolution du besoin produit (marginale ou partielle)</td><td>Le contexte du service a changé, les compétences du prestataire ne correspondent plus aux priorités actuelles.</td><td>🟡 Modéré</td><td>Reformaliser le périmètre par écrit. Examiner une redéfinition de mission avant d'envisager un arrêt. La compétence pourrait rester utile sur un autre périmètre.</td></tr></tbody></table>
 
 ### Les biais cognitifs qui retardent la décision
 
@@ -131,10 +131,10 @@ Le contrat de prestation peut se vivre, à tort, comme une expérience proche du
 
 Cette ambiguïté est la racine commune de deux problèmes opposés :&#x20;
 
-* d'un côté un prestataire pensant être piloté comme un·e salarié·e mais sans les protections associées
+* d'un côté un prestataire pensant être piloté comme un·e salarié·e mais sans les protections associées ;
 * de l'autre un intrapreneur·e qui n'ose plus rappeler un cadre contractuel qu'il ou elle a laissé s'estomper.&#x20;
 
-La solution est le même dans les deux cas. Il faut rappeler les règles du jeu tôt, régulièrement, et hors de tout contexte de tension, pas au moment où un problème survient.
+La solution est la même dans les deux cas. Il faut rappeler les règles du jeu tôt, régulièrement, et hors de tout contexte de tension, pas au moment où un problème survient.
 
 Trois éléments sont à (ré)énoncer explicitement :
 
@@ -199,7 +199,7 @@ R et A peuvent être la même personne sur un sujet simple. C'est la présence d
 
 ### Quand l'utiliser, et quand s'en passer
 
-Réserve-la aux sujets ambigus, partagés, ou déjà sources de friction. En faire une pour chaque tâche produit un document que personne ne consulte, et le remède devient le problème.
+Réserve la aux sujets ambigus, partagés ou déjà sources de friction. En faire une pour chaque tâche produit un document que personne ne consulte, et le remède devient le problème.
 
 Voici des exemples :
 
