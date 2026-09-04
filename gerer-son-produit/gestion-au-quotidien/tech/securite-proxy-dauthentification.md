@@ -90,4 +90,4 @@ Limitez au maximum et utilisez des patterns strictis, ex `^/hooks/.*$`
 
 ***
 
-👉 Si vous voulez en parler, rejoignez le [canal Tchap Betagouv/Domaine-secu](https://tchap.gouv.fr/#/room/!XPllVpJRcpZCaSiaXW:agent.dinum.tchap.gouv.fr
+👉 Si vous voulez en parler, rejoignez le [canal Tchap Betagouv/Domaine-secu](https://tchap.gouv.fr/#/room/!XPllVpJRcpZCaSiaXW:agent.dinum.tchap.gouv.fr)
