@@ -1,14 +1,14 @@
 ---
 description: >-
-  Cette page est prévue pour t'expliquer comment piloter ta mission, ce que tu
-  peux attendre de l'équipe et ce qu'on attend de toi.
+  Cette page t'explique comment gérer et piloter ta mission, ce que tu peux
+  attendre de l'équipe et ce qu'on attend de toi.
 ---
 
 # 🧭 Piloter ma mission chez beta.gouv.fr
 
 ## Pourquoi un cadre de pilotage commun ?
 
-La phase de pilotage de ta prestation est la période la plus longue de ta mission, c'est le moment ou tu délivres les livrables pour lesquels tu as été sélectionné puis embarqué. C'est dans cette phase que peuvent se matérialiser les quelques difficultés observées : cadrage et attentes floues, retours imprécis, comportements problématiques laissés sans réponse.
+Une fois que tu as terminé ton embarquement, la phase de pilotage de ta prestation s'ouvre : c'est la période la plus longue de ta mission, il s'agit de la phase où tu délivres les livrables pour lesquels tu as été sélectionné. C'est dans cette phase que peuvent se matérialiser les quelques difficultés observées : cadrage et attentes floues, retours imprécis, comportements problématiques laissés sans réponse.
 
 Un cadre commun est là pour t'aider à :
 
@@ -62,7 +62,7 @@ C'est ton intra qui porte l'initiative du cadre : la cadence des rituels, les re
 
 * [ ] Participer au [point d'étape sur tes livrables](https://docs.numerique.gouv.fr/docs/ba4537f4-7096-4028-8654-d70ffb8cd28f/), préparé par ton intra et discuté en séance
 * [ ] Donner ton retour sur le cadrage de mission et sur l'accompagnement dont tu bénéficies
-* [ ] Demander de la visibilité sur la suite de ta mission, et accepter le faut que la réponse soit incertaine
+* [ ] Demander de la visibilité sur la suite de ta mission, et accepter le fait que la réponse soit incertaine
 
 #### Si la situation se dégrade
 
@@ -86,7 +86,7 @@ Trois acteurs distincts interviennent :&#x20;
 
 * Ton **intra ou responsable de produit** (agent public), qui pilote ton activité. C'est lui·elle qui décide.
 * &#x20;L'**entreprise titulaire du marché public.** Ton interlocuteur contractuel, qui n'évalue pas la qualité de ton travail ;&#x20;
-* Ton **incubateur**, qui porte le marché (avec la DINUM) et attribue les bons de commande aux titulaires par rotation.
+* Ton **incubateur**, dans certains cas, centralise les commandes de prestation sur les produits de son périmètre.
 
 {% hint style="info" %}
 Il n'existe pas de contrat de travail entre le titulaire et toi. Votre relation relève du droit commercial. En revanche, en cas de litige, c'est l'entreprise titulaire qui est responsable légale, elle doit donc être associée aux échanges.
@@ -104,7 +104,7 @@ Si ton intra n'est pas en mesure de juger la qualité technique d'un livrable, c
 
 #### Que se passe-t-il si je ne reçois aucun retour ?
 
-C'est le plus souvent un manque de temps, pas un jugement. Demande-le explicitement : "est-ce que ce livrable correspond à ce que tu attendais ?" ou "on peut caler vingt minutes pour faire le point sur ma mission ?". Si le silence persiste malgré tes demandes, tu peux en parler au coach du produit.
+C'est le plus souvent un manque de temps, pas un jugement. Demande-le explicitement : "est-ce que ce livrable correspond à ce que tu attendais ?" ou "on peut caler vingt minutes pour faire le point sur ma mission ?". Si le silence persiste malgré tes demandes, tu peux en parler au coach du produit ou alerter le titulaire du marché.
 
 #### Ma mission peut-elle être prolongée ?
 
@@ -114,11 +114,11 @@ Oui, une prolongation ouvre une nouvelle boucle de commande publique avec un nou
 
 Selon la nature du sujet :
 
-* **Périmètre, priorités, attentes, retours** : ton intra en direct, c'est presque toujours le meilleur point de départ
-* **Sujet bloqué en direct, besoin d'un avis extérieur** : le [coach](https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/les-differents-metiers/coach.e#postures-et-redevabilites-des-coachs) de ton produit
-* **Situation qui dépasse le cadre du produit, manquement au cadre de la communauté** : [l'équipe animation et expertise de beta.gouv.fr](https://doc.incubateur.net/communaute/decouvrir-beta.gouv.fr/incubateur-de-la-dinum#lorganisation-de-lequipe-animation-beta.gouv.fr)
-* **Conflit, mal-être, souffrance, violence ou harcèlement** : le [groupe de soutien](https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/vie-quotidienne-et-bien-etre/gerer-des-situations-comliquees/le-groupe-de-soutien#comment-contacter-le-groupe-de-soutien) qui écoute en respectant la confidentialité de ta situation
-* **Sujet contractuel** : l'entreprise titulaire de ton marché
+* **Périmètre, priorités, attentes, retours** : ton intra en direct, c'est presque toujours le meilleur point de départ.
+* **Sujet bloqué en direct, besoin d'un avis extérieur** : le [coach](https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/les-differents-metiers/coach.e#postures-et-redevabilites-des-coachs) de ton produit.
+* **Situation qui dépasse le cadre du produit, manquement au cadre de la communauté** : [l'équipe animation beta.gouv.fr](https://doc.incubateur.net/communaute/decouvrir-beta.gouv.fr/incubateur-de-la-dinum#lorganisation-de-lequipe-animation-beta.gouv.fr).
+* **Conflit, mal-être, souffrance, violence ou harcèlement** : le [groupe de soutien](https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/vie-quotidienne-et-bien-etre/gerer-des-situations-comliquees/le-groupe-de-soutien#comment-contacter-le-groupe-de-soutien) qui écoute en respectant la confidentialité de ta situation.
+* **Sujet contractuel, interrogation sur le périmètre ou la nature des missions confiées** : l'entreprise titulaire de ton marché.
 
 #### Un comportement problématique dans l'équipe, est-ce que je dois le signaler ?
 
@@ -132,4 +132,4 @@ Le [guide pratique "comprendre le pilotage de ta mission"](guide-pratique-compre
 * Comment recevoir un retour critique
 * Le tableau complet de tes droits et devoirs
 * Les signaux à surveiller côté pilotage
-* Etc
+* Etc.

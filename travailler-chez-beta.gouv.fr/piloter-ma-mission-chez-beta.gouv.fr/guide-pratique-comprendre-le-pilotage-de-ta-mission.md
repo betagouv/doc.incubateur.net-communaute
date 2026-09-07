@@ -2,7 +2,7 @@
 
 Cette page est destinée [aux prestataires en mission](./) au sein d'une équipe produit beta.gouv.fr. Elle explique comment fonctionne le pilotage d'une prestation, ce que tu peux légitimement attendre de ton intrapreneur·e, ce qu'on attend de toi, et comment agir quand quelque chose ne va pas.
 
-Un point de contexte utile d'emblée : la personne qui pilote ta mission occupe une fonction complexe et nouvelle pour elle. Elle doit porter une vision, constituer une équipe, défendre un budget par cycles courts, et découvre souvent le _management_ en même temps que la mission. Ce n'est pas une excuse pour un pilotage flou, mais ça explique beaucoup de situations. Ce qui pourrait ressembler à du désintérêt n'est en fait qu'un manque de temps ou de repères. Poser une question directe produit généralement plus d'effet que d'attendre que le cadre s'améliore de lui-même.
+Un point de contexte utile d'emblée : la personne qui pilote ta mission, l'intra, occupe une fonction complexe et souvent nouvelle pour elle. Elle doit porter une vision, constituer une équipe, défendre un budget par cycles courts, et découvre souvent la gestion d'équipe en même temps que la mission. Cela explique beaucoup de situations : ce qui peut sembler être du désintérêt ou de la désorganisation n'est souvent qu'un manque de temps ou de repères. Poser une question directe produit généralement plus d'effet que d'attendre que le cadre s'améliore de lui-même.
 
 {% hint style="info" %}
 **Rappel juridique** : tu interviens dans un cadre contractuel défini par le bon de commande (marché public), pas dans un contrat de travail. C'est l'entreprise titulaire du marché dont tu dépends qui porte la responsabilité contractuelle de ta mission. Cela change certaines choses, pas de préavis de licenciement, pas de protection liée à l'emploi, mais t'ouvre aussi des garanties propres : clarté du cadrage, respect du contrat, dignité dans la conduite d'une fin de mission.
@@ -21,7 +21,7 @@ Ce guide est structuré en six parties :&#x20;
 
 Si un problème t'est annoncé pour la première fois au moment d'une décision de fin de mission, ce n'est pas parce que tout allait bien jusque-là, c'est que le feedback n'a pas circulé. Un pilotage sain repose sur des retours réguliers dans les deux sens.
 
-L'inverse est vrai aussi, et il est plus fréquent qu'on ne le croit. Certains prestataires ne savent pas que leur travail est validé, simplement parce que personne ne le leur a dit explicitement.
+L'inverse est vrai aussi et il est plus fréquent qu'on ne le croit. Certains prestataires ne savent pas que leur travail est validé, simplement parce que personne ne le leur a dit explicitement.
 
 ### Comment provoquer un retour qui ne vient pas
 
