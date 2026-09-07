@@ -1,6 +1,6 @@
 # Salariés des sociétés de prestation
 
-Le programme beta.gouv.fr mobilise de nombreux intervenants via ses marchés publics, utilisés par l'ensemble des administrations partenaires (_à l'exception de la Fabrique numérique des Affaires sociales et la Fabrique Pôle emploi qui disposent tous deux de leurs propres marchés publics_). De nombreux salariés de ces sociétés de prestation interviennent en soutien à l'animation des incubateurs, ou en tant que coach, gestionnaires de produit, chargés de déploiement, développeurs, etc. Pour en savoir plus sur ces entreprises :
+Le programme beta.gouv.fr mobilise de nombreux intervenants via ses marchés publics, utilisés par l'ensemble des administrations partenaires (_à l'exception du ministère des affaires étrangères et de la Fabrique Pôle emploi qui dispose de son propre marché public_). De nombreux salariés de ces sociétés de prestation interviennent en soutien à l'animation des incubateurs, ou en tant que coach, gestionnaires de produit, chargés de déploiement, développeurs, etc. Pour en savoir plus sur ces entreprises :
 
 {% content-ref url="../../../gerer-son-produit/gestion-au-quotidien/marches/" %}
 [marches](../../../gerer-son-produit/gestion-au-quotidien/marches/)
