@@ -54,7 +54,7 @@ OAUTH2_PROXY_REDIRECT_URL=https://[host de votre application]/oauth2/callback
 OAUTH2_PROXY_REVERSE_PROXY=false
 OAUTH2_PROXY_SKIP_PROVIDER_BUTTON=false
 OAUTH2_PROXY_UPSTREAMS=http://127.0.0.1:3000 # url interne du service à protéger
-OAUTH2_PROXY_EMAIL_DOMAINS=* # pour restreindre les domaines emails autorisés
+OAUTH2_PROXY_EMAIL_DOMAINS=beta.gouv.fr,votre.ministere.gouv.fr # pour restreindre les domaines emails autorisés
 ```
 
 #### pour Github
@@ -85,7 +85,11 @@ OAUTH2_PROXY_SCOPE=openid given_name usual_name email profile
 {% hint style="info" %}
 La variable `OAUTH2_PROXY_SKIP_AUTH_ROUTES` permet d'exclure certaines routes de l'authentification.
 
-Limitez au maximum et utilisez des patterns strictis, ex `^/hooks/.*$`
+Limitez au maximum et utilisez des patterns stricts, ex `^/hooks/.*$`
+
+Ex pour les embeds metabase: `^/app/embed\.js$,^/app/.*,^/embed/.*,^/api/embed/.*,^/api/geojson/*`
+
+Ex pour un admin django: `!=^/admin(/.*)?$`
 {% endhint %}
 
 ***
