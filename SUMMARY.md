@@ -59,7 +59,7 @@
   * [Salariés des sociétés de prestation](travailler-chez-beta.gouv.fr/les-differents-statuts/salaries-des-societes-de-prestation/README.md)
 * [🙋 Candidater chez beta.gouv.fr](travailler-chez-beta.gouv.fr/guide-pour-les-candidats.md)
 * [🐥 Débuter chez beta.gouv.fr](travailler-chez-beta.gouv.fr/to-do-darrivee/README.md)
-* [🧭 Piloter ma mission chez beta.gouv.fr](travailler-chez-beta.gouv.fr/piloter-ma-mission-chez-beta.gouv.fr/README.md)
+* [🧭 Gérer ma mission chez beta.gouv.fr](travailler-chez-beta.gouv.fr/piloter-ma-mission-chez-beta.gouv.fr/README.md)
   * [Guide pratique : comprendre le pilotage de ta mission](travailler-chez-beta.gouv.fr/piloter-ma-mission-chez-beta.gouv.fr/guide-pratique-comprendre-le-pilotage-de-ta-mission.md)
 * [🧘🏻‍♀️ Vie quotidienne et bien être](travailler-chez-beta.gouv.fr/vie-quotidienne-et-bien-etre/README.md)
   * [Travailler dans les lieux partagés](travailler-chez-beta.gouv.fr/vie-quotidienne-et-bien-etre/travailler-dans-les-lieux-partages/README.md)
