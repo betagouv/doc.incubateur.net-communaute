@@ -37,10 +37,37 @@ Demander du feedback n'est ni intrusif ni suspect. C'est une composante normale 
 
 Recevoir un retour négatif fait rarement plaisir, et la réaction spontanée est de se défendre. Quelques réflexes qui peuvent aider :
 
-* **Chercher le fait avant de discuter l'interprétation.** "Peux-tu me donner un exemple précis ?" est la meilleure première réponse. Soit l'exemple existe et tu comprends enfin le sujet, soit il n'existe pas et le retour se reformule de lui-même.
-* **Distinguer ce qui porte sur le livrable de ce qui porte sur toi.** Un retour bien formulé décrit une situation, un livrable et son impact. Si tu reçois un jugement de personne ("tu n'es pas rigoureux·se"), tu peux légitimement demander à le ramener sur des faits.
-* **Ne pas répondre dans la seconde.** "Je préfère y réfléchir et t'en reparler demain" est une réponse parfaitement professionnelle.
-* **Vérifier si le cadrage était clair.** Une part des retours critiques porte en réalité sur une attente qui n'a jamais été formulée. Le dire n'est pas se dérober : "cette attente n'apparaissait pas dans ce qu'on avait défini, je préfère qu'on la pose maintenant".
+<details>
+
+<summary><strong>Chercher le fait avant de discuter l'interprétation.</strong> </summary>
+
+"Peux-tu me donner un exemple précis ?" est la meilleure première réponse. Soit l'exemple existe et tu comprends enfin le sujet, soit il n'existe pas et le retour se reformule de lui-même.
+
+</details>
+
+<details>
+
+<summary><strong>Distinguer ce qui porte sur le livrable de ce qui porte sur toi.</strong> </summary>
+
+Un retour bien formulé décrit une situation, un livrable et son impact. Si tu reçois un jugement de personne ("tu n'es pas rigoureux·se"), tu peux légitimement demander à le ramener sur des faits.
+
+</details>
+
+<details>
+
+<summary><strong>Ne pas répondre dans la seconde.</strong> </summary>
+
+"Je préfère y réfléchir et t'en reparler demain" est une réponse parfaitement professionnelle.
+
+</details>
+
+<details>
+
+<summary><strong>Vérifier si le cadrage était clair.</strong> </summary>
+
+Une part des retours critiques porte en réalité sur une attente qui n'a jamais été formulée. Le dire n'est pas se dérober : "cette attente n'apparaissait pas dans ce qu'on avait défini, je préfère qu'on la pose maintenant".
+
+</details>
 
 ### Donner du feedback
 
@@ -53,13 +80,17 @@ Deux mécanismes peuvent pousser les prestataires à laisser courir une situatio
 * **La crainte que parler mette la mission en danger.** En pratique, l'inverse est plus souvent vrai, les fins de mission difficiles suivent presque toujours une période où personne n'a rien dit. Un problème nommé tôt est un problème qui peut encore se régler.
 * **Le surinvestissement compensatoire.** Face à un cadre flou, le réflexe est souvent de travailler plus pour compenser. Cela masque le problème sans le résoudre.
 
-### Les signaux côté pilotage
+<details>
+
+<summary><strong>Le tableau des signaux côté pilotage</strong></summary>
 
 Les signaux d'alerte recensés dans la documentation le sont du point de vue de l'intrapreneur·e, sur le déroulement de la mission. Ceux qui suivent sont leur pendant, c'est à dire ce que tu peux observer, toi, sur la façon dont ta mission est pilotée.
 
 <table data-search="false"><thead><tr><th>Signal observé</th><th>Ce que ça peut vouloir dire</th><th>Ce que tu peux faire</th></tr></thead><tbody><tr><td>Cadrage flou au démarrage : objectifs peu clairs, pas de présentation du produit</td><td>Tu ne sais pas précisément ce sur quoi tu seras évalué·e</td><td>Demander explicitement les livrables attendus et les critères de réussite. Demander un schéma du produit et de son parcours utilisateur s'il n'existe pas.</td></tr><tr><td>Silence prolongé sur tes livraisons, ni retour positif ni correctif</td><td>Manque de rythme dans le pilotage, rarement un jugement</td><td>Demander un point individuel régulier, ou poser directement la question en fin de point d'équipe</td></tr><tr><td>Périmètre qui bouge sans être reformalisé</td><td>Risque de désaccord ultérieur sur ce qui constituait la commande</td><td>Demander que toute évolution soit reformulée par écrit, même en deux lignes dans un message</td></tr><tr><td>Sentiment d'être traité comme un·e salarié·e, sans les protections associées</td><td>La frontière entre mission et emploi s'est estompée avec le temps</td><td>Se rappeler, et rappeler si besoin, que la mission a un cadre propre, avec des droits associés. Ce n'est pas du salariat</td></tr><tr><td>Consignes descendantes sur le "comment" plutôt que sur le "quoi"</td><td>Micro-pilotage, souvent lié à une inquiétude non exprimée côté intra</td><td>Proposer un point sur les attentes de résultat, et demander ce qui motive ce niveau de suivi</td></tr><tr><td>Doute ou tension qui s'installe sans espace pour en parler</td><td>Absence de canal de débat ou d'escalade</td><td>Utiliser le canal prévu s'il existe ou aider à sa création</td></tr><tr><td>Décisions techniques prises sans toi sur ton périmètre</td><td>Problème de clarté des rôles plus que de confiance</td><td>Demander qui arbitre sur ce sujet (voir la matrice RACI)</td></tr><tr><td>Comportement toxique, de qui que ce soit</td><td>Ce n'est jamais le prix à payer pour rester dans l'équipe</td><td>Le faire remonter, à l'intra, au coach, à l'équipe animation, ou au titulaire du marché. Le silence collectif est ce qui permet à ces situations de durer</td></tr><tr><td>Tu apprends une information sur ta propre mission par un tiers</td><td>Dysfonctionnement de coordination, pas nécessairement de la malveillance</td><td>Demander un point direct rapidement, et une clarification écrite</td></tr><tr><td>Aucun signe sur la suite alors que l'échéance approche</td><td>Souvent une incertitude budgétaire réelle, non résolue</td><td>Poser la question ouvertement plutôt que d'attendre</td></tr></tbody></table>
 
 Un signal ne veut pas dire que la mission est compromise. Il veut dire qu'un sujet mérite d'être nommé plutôt que laissé de côté.
+
+</details>
 
 ## Tes droits et tes devoirs
 
@@ -69,9 +100,13 @@ Ce que tu peux légitimement challenger, c'est la consigne descendante sur la ma
 
 Une documentation reconstituée à la fin est presque toujours insuffisante. Les branchements, les décisions implicites, les contournements ne se retrouvent pas de mémoire. Traite-la comme un livrable continu, et considère qu'un travail non _reprenable_ par quelqu'un d'autre n'est pas terminé. C'est aussi ce qui protège ta réputation professionnelle après ton départ.
 
-### Le tableau des engagements réciproques
+<details>
+
+<summary>Le tableau des engagements réciproques</summary>
 
 <table data-search="false"><thead><tr><th>Ce qu'on est en droit d'attendre de toi</th><th>Ce que tu es en droit d'attendre en retour</th></tr></thead><tbody><tr><td>Livrer au standard convenu lors du cadrage</td><td>Un cadrage clair dès le démarrage, avec des critères de réussite compréhensibles</td></tr><tr><td>Documenter en continu, pas seulement au moment de la passation</td><td>Un feedback à un rythme régulier, correctif comme positif</td></tr><tr><td>Signaler tôt un blocage ou un doute</td><td>Une réponse à ce que tu remontes, pas seulement un canal théorique</td></tr><tr><td>Respecter le contexte et les contraintes de l'administration publique</td><td>L'accès aux données, outils et interlocuteurs nécessaires à ta réussite</td></tr><tr><td>Jouer le collectif : rituels, partage de l'avancement, entraide</td><td>Des rituels qui ont un objet, pas une présence exigée sans contenu</td></tr><tr><td>Rendre ton travail <em>reprenable</em> par quelqu'un d'autre</td><td>De ne pas être micro-piloté·e sans raison : la confiance est la norme</td></tr><tr><td>Une passation préparée en fin de mission</td><td>Un canal de débat sur les choix techniques et produit qui te concernent</td></tr><tr><td></td><td>Une décision de fin expliquée, anticipée, jamais apprise par un tiers</td></tr><tr><td></td><td>Le respect des délais de préavis et des modalités du bon de commande</td></tr></tbody></table>
+
+</details>
 
 ### Comprendre qui est qui dans le montage contractuel
 
@@ -90,9 +125,13 @@ Avant toute réunion il convient de s'y préparer. C'est aussi le cas pour les p
 
 Et un principe : demander un créneau dédié plutôt que de glisser le sujet en fin de réunion collective.
 
-### Les formulations
+<details>
+
+<summary>Le tableau des formulations</summary>
 
 <table data-search="false"><thead><tr><th>Situation</th><th>À éviter</th><th>Formulation possible</th></tr></thead><tbody><tr><td>Demander un cadrage plus clair</td><td>"Je ne comprends rien à ce qu'on me demande."</td><td>"Pour bien avancer, j'ai besoin qu'on clarifie [aspect précis] : peux-tu me dire ce qui est attendu comme résultat, et comment on saura que c'est réussi ?"</td></tr><tr><td>Signaler un blocage tôt</td><td>Attendre l'échéance</td><td>"Je vois un risque sur [délai ou livrable] à cause de [raison]. Je préfère te le dire maintenant plutôt qu'à l'échéance, voilà les options que je vois."</td></tr><tr><td>Demander un feedback qui manque</td><td>"Tu ne me dis jamais rien."</td><td>"Ça fait un moment qu'on n'a pas fait le point sur comment se passe la mission de mon côté. On peut caler un échange dédié ?"</td></tr><tr><td>Répondre à un recadrage</td><td>"Ce n'est pas de ma faute."</td><td>"Je comprends le point. Peux-tu me donner un exemple concret, pour que je voie précisément ce qui ne correspond pas à l'attendu ?"</td></tr><tr><td>Signaler qu'une attente n'avait pas été posée</td><td>"On ne m'a rien dit."</td><td>"Cette attente n'apparaissait pas dans ce qu'on avait défini au départ. Je préfère qu'on la pose clairement maintenant pour la suite."</td></tr><tr><td>Refuser une consigne sur le "comment"</td><td>"Ce n'est pas comme ça qu'on fait."</td><td>"Sur l'objectif, on est d'accord. Sur la méthode, je pense qu'une autre approche donnera un meilleur résultat, pour [raison]. Est-ce qu'on peut en discuter avant que je m'engage ?"</td></tr><tr><td>Faire remonter un malaise</td><td>Laisser courir</td><td>"Il y a quelque chose qui me pèse dans la collaboration en ce moment, sur [sujet précis]. Je préfère t'en parler directement plutôt que de le laisser s'installer."</td></tr><tr><td>Signaler un comportement inacceptable</td><td>Se taire par crainte pour la mission</td><td>"Lors de [situation], [fait observé] s'est produit. Ce n'est pas quelque chose que je peux laisser passer, et j'ai besoin d'en parler avec toi."</td></tr><tr><td>Poser la question de la suite</td><td>"Je vais être renouvelé·e ?"</td><td>"L'échéance approche et je préférerais qu'on en parle ouvertement plutôt que d'attendre : où en es-tu de ta réflexion sur la suite, et de quoi dépend la décision ?"</td></tr><tr><td>Après l'annonce d'une fin de mission</td><td>Partir sans rien demander</td><td>"Je comprends la décision. J'ai besoin de savoir : quelle est la date de fin effective, comment on organise la passation, et qui est mon point de contact administratif ?"</td></tr></tbody></table>
+
+</details>
 
 ### Ce qui abîme une conversation
 

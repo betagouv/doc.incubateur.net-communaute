@@ -262,6 +262,8 @@
   * [Embarquer un nouveau membre de son équipe](gerer-son-produit/renforcer-l-equipe/embarquement-par-le-recruteur.md)
   * [Piloter la prestation d'un membre de son équipe](gerer-son-produit/renforcer-l-equipe/piloter-la-prestation-dun-membre-de-son-equipe/README.md)
     * [Guide pratique : piloter une prestation au quotidien](gerer-son-produit/renforcer-l-equipe/piloter-la-prestation-dun-membre-de-son-equipe/guide-pratique-piloter-une-prestation-au-quotidien.md)
+    * [Outils pratiques : rituels d'équipe](gerer-son-produit/renforcer-l-equipe/piloter-la-prestation-dun-membre-de-son-equipe/outils-pratiques-rituels-dequipe.md)
+    * [Outils pratiques : suivi de mission](gerer-son-produit/renforcer-l-equipe/piloter-la-prestation-dun-membre-de-son-equipe/outils-pratiques-suivi-de-mission.md)
   * [Désembarquer un membre de son équipe](gerer-son-produit/gestion-au-quotidien/renforcer-l-equipe/le-desembarquement-de-la-communaute/README.md)
     * [Guide pratique : fin de prestation (quand, pourquoi et comment décider)](gerer-son-produit/gestion-au-quotidien/renforcer-l-equipe/le-desembarquement-de-la-communaute/guide-pratique-fin-de-prestation-quand-pourquoi-et-comment-decider.md)
   * [Conseils de recrutement déploiement](gerer-son-produit/gestion-au-quotidien/renforcer-l-equipe/les-metiers-sales-and-marketing-dans-le-prive.md)

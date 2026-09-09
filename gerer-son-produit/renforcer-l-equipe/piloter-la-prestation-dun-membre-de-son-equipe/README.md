@@ -98,6 +98,12 @@ Le pilotage de tes prestataires est porté par toi. C'est toi qui fixes la caden
 * [**Outils pratiques : rituels et évaluation**](https://docs.numerique.gouv.fr/docs/ba175e05-1eb3-4bb5-8104-67c97ea6dc81/) : comment mener concrètement le point hebdo, le point mensuel et le point individuel.
 * [**La matrice d'impact**](https://doc.incubateur.net/communaute/gerer-son-produit/guide-de-financement-des-startups-detat/4.-lenjeu-du-pilotage-par-limpact#impactant) : le référentiel qui permet de relier chaque livrable à un objectif.
 
+## Les rituels d'équipe _versus_ les rituels de suivi de mission
+
+**Les rituels d'équipe** (point hebdo, point mensuel, éventuellement un point quotidien) servent le fonctionnement collectif. Il existe pour coordonner le travail, donner du rythme, permettre à chacun de savoir où on va, et préserver un rythme de travail soutenable. Ils concernent toute l'équipe, quel que soit le statut de ses membres, et ils ne servent pas à apprécier le travail d'une personne en particulier. Ils relèvent de l'efficacité collective et du bien-être au travail, pas du pilotage d'une prestation. On en parle en détails [ici](https://app.gitbook.com/o/-LrIsEqqjEjdRXwfHPAD/sites/site_w6DzD/s/-M4-Pru_Xyamh27tzw85/~/edit/~/changes/1825/gerer-son-produit/renforcer-l-equipe/piloter-la-prestation-dun-membre-de-son-equipe/outils-pratiques-rituels-dequipe).
+
+**Le suivi individuel d'une mission de prestation** est autre chose. Il porte sur une personne, sur la façon dont elle vit sa mission et sur ce qu'elle produit par rapport à ce qui a été commandé. Il se tient en tête-à-tête, il laisse une trace écrite, et c'est lui qui alimente la décision de reconduire ou d'arrêter. C'est l'objet des étapes détaillées ci-dessus. On en parle en détails [ici](https://app.gitbook.com/o/-LrIsEqqjEjdRXwfHPAD/sites/site_w6DzD/s/-M4-Pru_Xyamh27tzw85/~/edit/~/changes/1825/gerer-son-produit/renforcer-l-equipe/piloter-la-prestation-dun-membre-de-son-equipe/outils-pratiques-suivi-de-mission).
+
 ## Ce qu'il faut savoir sur le cadre contractuel
 
 Les [marchés](https://doc.incubateur.net/communaute/gerer-son-produit/gestion-au-quotidien/marches) interministériels de mentorat et de réalisation de produits impliquent une relation tripartite entre une administration sponsor et financeuse, une équipe d'indépendants, et une entreprise titulaire du marché public. Deux conséquences concrètes pour ton pilotage :

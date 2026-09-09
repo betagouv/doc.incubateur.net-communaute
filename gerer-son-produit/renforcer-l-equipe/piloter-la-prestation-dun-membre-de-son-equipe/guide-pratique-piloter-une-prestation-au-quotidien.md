@@ -4,7 +4,7 @@ Cette page propose un guide pédagogique pour les intrapreneur·es qui [pilotent
 
 Elle complète le [guide de fin de prestation](https://doc.incubateur.net/communaute/gerer-son-produit/renforcer-l-equipe/le-desembarquement-de-la-communaute/guide-pratique-fin-de-prestation-quand-pourquoi-et-comment-decider#sur-le-suivi-et-laccompagnement) qui traite de la décision d'arrêter ou de reconduire : celui-ci traite de tout ce qui se joue avant, semaine après semaine, mois après mois.
 
-Piloter une prestation, ce n'est pas surveiller ! C'est créer les conditions dans lesquelles une personne compétente peut réussir à délivrerles livrables définis ensemble, aux [standards](https://doc.incubateur.net/communaute/gerer-son-produit/readme-doc-incubateur-net) fixés.
+Piloter une prestation, ce n'est pas surveiller ! C'est créer les conditions dans lesquelles une personne compétente peut réussir à délivrer les livrables définis ensemble, aux [standards](https://doc.incubateur.net/communaute/gerer-son-produit/readme-doc-incubateur-net) fixés.
 
 {% hint style="info" %}
 **Rappel juridique** : la personne en prestation n'est pas un·e salarié·e. Il ou elle intervient dans un cadre contractuel défini par le bon de commande (marché public), et c'est l'entreprise titulaire du marché qui porte la responsabilité contractuelle de la mission. Cela ne dispense en rien d'un pilotage structuré, au contraire : c'est justement l'absence des outils de pilotage classiques qui rend le feedback continu et la lecture des signaux d'autant plus nécessaires.
@@ -75,27 +75,43 @@ Piloter à la confiance est souvent une nécessité car tu n'as ni le temps, ni 
 
 L'objectif de cette section n'est pas d'ajouter du contrôle, mais de te permettre de choisir le curseur de confiance en connaissance de cause.
 
-### Le tableau des signaux d'alerte
+<details>
+
+<summary>Le tableau des signaux d'alerte</summary>
 
 Ce sont les mêmes signaux que ceux recensés dans le [guide de fin de prestation](https://doc.incubateur.net/communaute/gerer-son-produit/renforcer-l-equipe/le-desembarquement-de-la-communaute/guide-pratique-fin-de-prestation-quand-pourquoi-et-comment-decider), lus ici sous l'angle du pilotage courant plutôt que de la décision. Un signal ne signifie pas qu'il faut mettre fin à la mission. Il signifie qu'il faut ouvrir un espace de dialogue structuré et, si nécessaire, envisager une décision.
 
 <table data-search="false"><thead><tr><th>Signaux d'alerte</th><th>Ce qu'on observe</th><th width="113.6666259765625">Niveau de vigilance</th><th>Plan d'action de pilotage</th></tr></thead><tbody><tr><td>Fin de budget ou réorientation stratégique</td><td>La startup n'est pas reconduite, le budget est réduit, une décision politique ou institutionnelle change les priorités.</td><td>🔴 Critique</td><td>Informer l'équipe dès que la contrainte est connue, sans attendre la certitude. Associer le titulaire du marché et le coach. Ce signal n'est pas lié à la performance : le dire explicitement évite qu'un prestataire l'interprète comme un jugement sur son travail.</td></tr><tr><td>Conflits relationnels persistants</td><td>Tensions durables avec d'autres membres de l'équipe, incapacité à travailler en collaboration malgré plusieurs tentatives de résolution.</td><td>🔴 Critique</td><td>Solliciter le coaching RH avant d'agir seul·e. Recueillir les faits auprès de chaque partie séparément, sans arbitrer à chaud, et documenter les tentatives de résolution déjà menées.</td></tr><tr><td>Problèmes de posture</td><td>Non-respect de la culture d'équipe, posture inadaptée au contexte de l'équipe, difficultés relationnelles répétées.</td><td>🔴 Critique</td><td>Traiter sans délai, en tête-à-tête, sur des faits datés. Le silence de l'encadrement est lui-même un message envoyé à l'équipe : ce n'est jamais le prix à payer pour de la compétence technique.</td></tr><tr><td>Dégradation de la qualité des livrables</td><td>Les rendus sont en deçà du standard attendu, les délais sont régulièrement dépassés, les revues de sprint montrent une stagnation.</td><td>⚠️ Fort</td><td>Vérifier d'abord si le cadrage était clair et si les moyens étaient réunis. Puis poser une attente explicite avec une échéance de revue. Si le doute est technique et que tu ne peux pas le trancher, demander une vérification externe.</td></tr><tr><td>Désalignement sur les valeurs ou la méthode beta.gouv.fr</td><td>Résistance aux pratiques beta.gouv.fr, non-respect des standards, comportements contraires aux valeurs de la communauté.</td><td>⚠️ Fort</td><td>Rappeler les standards de façon explicite et documentée plutôt qu'allusive. Une partie des désalignements vient d'une méconnaissance réelle du cadre. Fixer ce qui doit changer et à quelle échéance.</td></tr><tr><td>Désengagement progressif</td><td>Participation en baisse lors des rituels d'équipe, réactivité réduite sur les outils de collaboration, manque d'initiative.</td><td>🟡 Modéré</td><td>Ouvrir un point individuel orienté ressenti, pas avancement. C'est le signal le plus souvent réversible, et celui pour lequel une question posée tôt change le plus de choses.</td></tr><tr><td>Évolution du besoin produit (marginale ou partielle)</td><td>Le contexte du service a changé, les compétences du prestataire ne correspondent plus aux priorités actuelles.</td><td>🟡 Modéré</td><td>Reformaliser le périmètre par écrit. Examiner une redéfinition de mission avant d'envisager un arrêt. La compétence pourrait rester utile sur un autre périmètre.</td></tr></tbody></table>
 
+</details>
+
 ### Les biais cognitifs qui retardent la décision
 
 Ce sont les trois biais identifiés dans le guide de fin de prestation, et ils opèrent exactement de la même manière en cours de mission, sur la décision de dire les choses plutôt que sur celle d'arrêter.
 
-**Le biais de la dépense gâchée**
+<details>
+
+<summary><strong>Le biais de la dépense gâchée</strong></summary>
 
 Ce biais nous pousse à continuer d'investir dans une situation qui ne fonctionne plus, simplement parce que nous y avons déjà beaucoup investi. En contexte de prestation, cela se traduit par : "on a déjà passé 1 mois à les former, on ne peut pas s'arrêter maintenant." Le temps passé ne justifie pas les pertes futures. La question utile est : et maintenant, quelle est la meilleure option ?
 
-**Le biais d'optimisme**
+</details>
+
+<details>
+
+<summary><strong>Le biais d'optimisme</strong></summary>
 
 Il conduit à penser que la situation va se régler d'elle-même, ou que les prochains livrables seront meilleurs. En l'absence d'un changement réel dans le contexte ou les comportements, cet espoir est rarement fondé. Le test : qu'est-ce qui aurait changé, concrètement, d'ici le prochain cycle ?
 
-**L'évitement du conflit**
+</details>
+
+<details>
+
+<summary><strong>L'évitement du conflit</strong></summary>
 
 Par empathie ou par inconfort face au conflit, on retarde les conversations difficiles. Or les individus acceptent mieux une décision difficile lorsqu'elle est communiquée clairement, de façon transparente et avec des explications. Le report ne fait qu'aggraver la situation, et il transforme un ajustement en rupture.
+
+</details>
 
 ### Une échelle de réaction proportionnée
 
@@ -107,23 +123,17 @@ Le principe est que plus un signal se répète malgré un retour déjà donné, 
 4. **Objectiver.** Faire intervenir un tiers compétent (référent technique, pair du même métier, coach) pour sortir d'un doute non tranché, en particulier sur les livrables techniques que tu ne peux pas évaluer seul·e.
 5. **Décider.** Reconduire, redéfinir, ou [arrêter](https://doc.incubateur.net/communaute/gerer-son-produit/renforcer-l-equipe/le-desembarquement-de-la-communaute).
 
-### Faire son auto-évaluation avant de structurer son action
+<details>
+
+<summary>Faire son auto-évaluation avant de structurer son action</summary>
 
 Ces questions t'aident à distinguer une difficulté que ton pilotage peut expliquer, d'une inadéquation réelle.
 
-| Question                                                                                                                            | Réponse   | Observations |
-| ----------------------------------------------------------------------------------------------------------------------------------- | --------- | ------------ |
-| Ai-je défini clairement les livrables attendus, avec des critères de réussite compréhensibles ?                                     | Oui / Non |              |
-| Ces attentes ont-elles été explicitement validées par le prestataire, pas seulement énoncées ?                                      | Oui / Non |              |
-| Le périmètre a-t-il évolué depuis le démarrage, et l'ai-je reformalisé ?                                                            | Oui / Non |              |
-| La personne a-t-elle eu accès aux données, outils et interlocuteurs nécessaires à sa réussite ?                                     | Oui / Non |              |
-| Ai-je formulé mon insatisfaction à temps, ou est-ce que je l'ai gardée pour moi ?                                                   | Oui / Non |              |
-| La personne a-t-elle eu une occasion réelle d'ajuster après mon retour ?                                                            | Oui / Non |              |
-| Est-ce que je juge le livrable, ou est-ce que je juge la personne ?                                                                 |           |              |
-| Des facteurs externes (instabilité des priorités, charge de mon côté, dépendances bloquées) expliquent-ils une partie du problème ? | Oui / Non |              |
-| Ai-je besoin de consulter mon coach ou un pair avant de me faire une opinion définitive ?                                           | Oui / Non |              |
+<table data-search="false"><thead><tr><th>Question</th><th>Réponse</th><th>Observations</th></tr></thead><tbody><tr><td>Ai-je défini clairement les livrables attendus, avec des critères de réussite compréhensibles ?</td><td>Oui / Non</td><td></td></tr><tr><td>Ces attentes ont-elles été explicitement validées par le prestataire, pas seulement énoncées ?</td><td>Oui / Non</td><td></td></tr><tr><td>Le périmètre a-t-il évolué depuis le démarrage, et l'ai-je reformalisé ?</td><td>Oui / Non</td><td></td></tr><tr><td>La personne a-t-elle eu accès aux données, outils et interlocuteurs nécessaires à sa réussite ?</td><td>Oui / Non</td><td></td></tr><tr><td>Ai-je formulé mon insatisfaction à temps, ou est-ce que je l'ai gardée pour moi ?</td><td>Oui / Non</td><td></td></tr><tr><td>La personne a-t-elle eu une occasion réelle d'ajuster après mon retour ?</td><td>Oui / Non</td><td></td></tr><tr><td>Est-ce que je juge le livrable, ou est-ce que je juge la personne ?</td><td></td><td></td></tr><tr><td>Des facteurs externes (instabilité des priorités, charge de mon côté, dépendances bloquées) expliquent-ils une partie du problème ?</td><td>Oui / Non</td><td></td></tr><tr><td>Ai-je besoin de consulter mon coach ou un pair avant de me faire une opinion définitive ?</td><td>Oui / Non</td><td></td></tr></tbody></table>
 
 Une majorité de "non" dans la première moitié de ce tableau indique généralement que le sujet à traiter est le cadrage, avant la performance.
+
+</details>
 
 ## Droits et devoirs du prestataire
 
@@ -142,9 +152,13 @@ Trois éléments sont à (ré)énoncer explicitement :
 2. Sa reconduction dépend de facteurs qui ne sont pas tous liés à la performance (budget, évolution du besoin, arbitrages institutionnels).
 3. Ce cadre s'accompagne de garanties : clarté du cadrage, feedback régulier, respect du contrat, humanité en cas de fin.
 
-### Le tableau des engagements réciproques
+<details>
+
+<summary>Le tableau des engagements réciproques</summary>
 
 <table data-search="false"><thead><tr><th>Ce que tu es en droit d'attendre</th><th>Ce que tu dois garantir en retour</th></tr></thead><tbody><tr><td>Un travail livré au standard convenu au cadrage</td><td>Un cadrage clair dès le démarrage, avec des critères de réussite compréhensibles</td></tr><tr><td>Une documentation tenue au fil de l'eau, pas reconstituée à la fin</td><td>Un feedback à un rythme régulier, correctif comme positif</td></tr><tr><td>Le signalement précoce des blocages et des doutes</td><td>Un canal de débat ouvert sur les choix techniques et produit</td></tr><tr><td>Le respect du cadre de collaboration défini avec l'équipe</td><td>Une réponse à ce qui est remonté par ce canal. Ouvrir un canal sans y répondre est pire que ne pas en avoir</td></tr><tr><td>La participation aux rituels convenus</td><td>Des rituels qui ont un objet, sans exiger la présence à un point sans contenu</td></tr><tr><td>Une posture qui tient compte des contraintes de l'administration</td><td>L'accès aux données, outils et interlocuteurs nécessaires</td></tr><tr><td>Une passation préparée en fin de mission</td><td>Le respect des délais de préavis et des modalités du bon de commande</td></tr></tbody></table>
+
+</details>
 
 ### Gérer le manque de visibilité
 
@@ -168,9 +182,13 @@ Avant d'ouvrir la conversation, réponds à ces trois questions pour toi-même :
 
 Choisis aussi le cadre : en tête-à-tête, dans un créneau dédié, jamais à la fin d'un point d'équipe ni en passant.
 
-### Quelques propositions de formulation
+<details>
+
+<summary>Quelques propositions de formulation</summary>
 
 <table data-search="false"><thead><tr><th>Situation</th><th>À éviter</th><th>Formulation possible</th></tr></thead><tbody><tr><td>Doute sur la qualité d'un livrable</td><td>"Ce livrable n'est pas bon."</td><td>"Sur ce livrable, j'ai un doute sur [aspect précis] par rapport à ce qu'on avait défini. Peux-tu m'expliquer ton raisonnement, pour qu'on regarde ensemble si ça correspond au besoin ?"</td></tr><tr><td>Délais non tenus de façon répétée</td><td>"Tu es toujours en retard."</td><td>"Sur les trois dernières livraisons, on a eu du retard à chaque fois. J'ai besoin de comprendre ce qui bloque, et qu'on retrouve un rythme fiable d'ici [date]."</td></tr><tr><td>Désengagement perçu</td><td>"Tu sembles ne plus t'intéresser au projet."</td><td>"J'ai remarqué [comportement observé, factuel]. Je voulais savoir comment tu vis la mission en ce moment."</td></tr><tr><td>Résistance après un retour donné</td><td>"Je te l'ai déjà dit."</td><td>"Je comprends que ce retour ne te semble pas justifié. Je veux qu'on soit alignés : voici ce qui m'amène à ce constat [fait précis]. Qu'est-ce que tu en penses ?"</td></tr><tr><td>Doute technique que tu ne peux pas trancher</td><td>"Je ne suis pas sûr que ce soit bien fait."</td><td>"Je n'ai pas les compétences pour juger cette partie, et je préfère te le dire plutôt que de laisser un doute s'installer. Je vais demander un avis externe : l'objectif est de sortir de l'incertitude, pas de te contrôler."</td></tr><tr><td>Plusieurs signaux cumulés</td><td>"Ça ne va pas du tout."</td><td>"Je veux être transparent·e : ce que j'observe depuis [période] m'amène à te dire [fait]. Je te propose qu'on fixe un objectif clair pour les prochaines semaines, et qu'on refasse le point le [date]."</td></tr><tr><td>Comportement inadapté envers un tiers</td><td>"On m'a rapporté que..."</td><td>"Lors de [situation], j'ai observé [fait]. L'effet sur l'équipe a été [conséquence]. Ce n'est pas compatible avec la façon dont on travaille ici, et j'ai besoin que ça change."</td></tr><tr><td>Contrainte budgétaire sans lien avec la performance</td><td>"On va devoir arrêter, c'est comme ça."</td><td>"Je veux être clair sur une chose : ce qui se joue est une contrainte de budget, pas un jugement sur ton travail. Voilà ce que je sais aujourd'hui, et voilà quand je pourrai t'en dire plus."</td></tr><tr><td>Reconnaître une contribution forte</td><td>"Bravo, continue !"</td><td>"Sur [sujet précis], ce que tu as fait a produit [effet concret]. C'est exactement ce dont le produit avait besoin, et je voulais que tu le saches explicitement."</td></tr></tbody></table>
+
+</details>
 
 ### Ce qui abîme une conversation
 
@@ -201,7 +219,9 @@ R et A peuvent être la même personne sur un sujet simple. C'est la présence d
 
 Réserve la aux sujets ambigus, partagés ou déjà sources de friction. En faire une pour chaque tâche produit un document que personne ne consulte, et le remède devient le problème.
 
-Voici des exemples :
+<details>
+
+<summary>Exemples d'usage</summary>
 
 | Sujet                                     | R                                | A                                                                       | C                              | I                         |
 | ----------------------------------------- | -------------------------------- | ----------------------------------------------------------------------- | ------------------------------ | ------------------------- |
@@ -210,6 +230,8 @@ Voici des exemples :
 | Rédaction de la documentation d'un module | Le prestataire qui l'a développé | Intrapreneur·e                                                          | Prochain arrivant si identifié | Équipe                    |
 | Relation avec le titulaire du marché      | Intrapreneur·e                   | Intrapreneur·e                                                          | Coach                          | Prestataire concerné      |
 | Décision de fin de mission                | Intrapreneur·e                   | Toi, en lien avec le titulaire du marché                                | Coach RH si besoin             | Équipe, au moment convenu |
+
+</details>
 
 L'outil n'est pas magique et quelques pièges sont à éviter :
 
