@@ -7,13 +7,11 @@ description: >-
 
 # 👋 Bienvenue sur le guide de la communauté beta.gouv.fr
 
-\\
-
 {% hint style="info" %}
 **Gagne du temps** en utilisant le moteur de recherche en haut à droite de l'écran **"Rechercher".**
 {% endhint %}
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>🆕 Découvrir beta.gouv.fr</strong></td><td></td><td></td><td><a href=".gitbook/assets/Beta.Gouv.Fr-HD-58.jpg">Beta.Gouv.Fr-HD-58.jpg</a></td><td><a href="decouvrir-beta.gouv.fr/histoire-de-beta.gouv.fr">histoire-de-beta.gouv.fr</a></td></tr><tr><td><strong>🥳 Je me tiens informé(e) des évènements à venir</strong></td><td></td><td></td><td><a href=".gitbook/assets/photos forum.png">photos forum.png</a></td><td><a href="decouvrir-beta.gouv.fr/la-communaute/les-rituels/">les-rituels</a></td></tr><tr><td><strong>🧑🏽‍🤝‍👩🏼Je découvre l'équipe animation beta.gouv.fr</strong></td><td></td><td></td><td><a href=".gitbook/assets/photo equipe.png">photo equipe.png</a></td><td><a href="decouvrir-beta.gouv.fr/incubateur-de-la-dinum.md">incubateur-de-la-dinum.md</a></td></tr><tr><td><strong>📖 J'accède aux formations proposées à la communauté</strong></td><td></td><td></td><td><a href=".gitbook/assets/Beta.Gouv.Fr-2000-51.jpg">Beta.Gouv.Fr-2000-51.jpg</a></td><td><a href="travailler-chez-beta.gouv.fr/se-former/">se-former</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>🆕 Découvrir beta.gouv.fr</strong></td><td></td><td></td><td><a href=".gitbook/assets/Beta.Gouv.Fr-HD-58.jpg">Beta.Gouv.Fr-HD-58.jpg</a></td><td><a href="decouvrir-beta.gouv.fr/histoire-de-beta.gouv.fr/">histoire-de-beta.gouv.fr</a></td></tr><tr><td><strong>🥳 Je me tiens informé(e) des évènements à venir</strong></td><td></td><td></td><td><a href=".gitbook/assets/photos forum.png">photos forum.png</a></td><td><a href="decouvrir-beta.gouv.fr/la-communaute/les-rituels/">les-rituels</a></td></tr><tr><td><strong>🧑🏽‍🤝‍👩🏼Je découvre l'équipe animation beta.gouv.fr</strong></td><td></td><td></td><td><a href=".gitbook/assets/photo equipe.png">photo equipe.png</a></td><td><a href="decouvrir-beta.gouv.fr/incubateur-de-la-dinum.md">incubateur-de-la-dinum.md</a></td></tr><tr><td><strong>📖 J'accède aux formations proposées à la communauté</strong></td><td></td><td></td><td><a href=".gitbook/assets/Beta.Gouv.Fr-2000-51.jpg">Beta.Gouv.Fr-2000-51.jpg</a></td><td><a href="travailler-chez-beta.gouv.fr/se-former/">se-former</a></td></tr></tbody></table>
 
 ## Tu viens de rejoindre beta.gouv.fr ?
 
@@ -37,8 +35,8 @@ description: >-
 [faq-emails.md](les-outils-de-la-communaute/emails/faq-emails.md)
 {% endcontent-ref %}
 
-{% content-ref url="les-outils-de-la-communaute/tchap" %}
-[tchap](les-outils-de-la-communaute/tchap)
+{% content-ref url="les-outils-de-la-communaute/tchap/" %}
+[tchap](les-outils-de-la-communaute/tchap/)
 {% endcontent-ref %}
 
 {% content-ref url="travailler-chez-beta.gouv.fr/les-differents-statuts/independants-freelances/observatoire-revenus.md" %}
