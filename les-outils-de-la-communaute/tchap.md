@@ -92,7 +92,35 @@ Nous recommandons de créer un canal Tchap dédié `equipe-[xxx]-notifications` 
 | Metabase    | Alertes metabase                                                                                                                                                                                                          |
 | Brevo       | [Notifications](https://help.brevo.com/hc/fr/articles/27824932835474-Cr%C3%A9er-des-webhooks-sortants-pour-envoyer-des-donn%C3%A9es-en-temps-r%C3%A9el-de-Brevo-vers-une-application-externe) déliverabilité et marketing |
 
-D'autres services peuvent être ajoutés au besoin. Pour réaliser vos propres webhooks/bots :
+D'autres services peuvent être ajoutés au besoin. 
+
+### Bots customs
+
+Si le webhook n8n ne suffit pas (message émis par vos applis, mise en forme sur mesure, filtrage fin de ce qui est publié...), vous pouvez créer votre propre bot. Un bot Tchap est un compte utilisateur normal et publier en **non chiffré** est un simple appel HTTP.
+
+Pour réaliser vos propres bots :
+1. Depuis votre propre compte tchap, créer un salon `equipe-[xxx]-notifications` :warning: Le salon doit être **non chiffré à la création** (chiffrement irréversible)
+2. Créez par vous-même une adresse/un alias mail acceptée par tchap ou demander une adresse dédiée `bot-[produit]@beta.gouv.fr` sur [Demandes-OPS](https://tchap.gouv.fr/#/room/!VxFWdbcSlumKPvpVRP:agent.dinum.tchap.gouv.fr).
+3. Créer le compte Tchap associé à cette adresse depuis votre navigateur, l'inviter dans le salon `equipe-[xxx]-notifications` depuis votre compte perso, puis accepter l'invitation depuis le compte du bot.
+4. Récupérer un jeton avec [`POST /_matrix/client/v3/login`](https://spec.matrix.org/latest/client-server-api/#post_matrixclientv3login) en utilisant le mxId et non l'email (cf [MAS](https://aide.tchap.numerique.gouv.fr/fr/article/nouveau-service-de-login-de-tchap-matrix-authentication-service-mas-msibh/)) :
+
+```bash
+curl -X POST "https://matrix.agent.dinum.tchap.gouv.fr/_matrix/client/v3/login" \
+-H "Content-Type: application/json" \
+-d '{
+    "type": "m.login.password",
+    "password": "YOUR_PASSWORD",
+    "identifier": {
+        "type": "m.id.user",
+        "user": "@bot-[produit].beta.gouv.fr:agent.dinum.tchap.gouv.fr"
+    }
+}'
+```
+
+:warning: Ne se connecter qu'une fois, sauver ce token et le réutiliser (chaque connexion crée une nouvelle session sur le compte, et Tchap déconseille d'en accumuler).
+:warning: Vérifier `expires_in_ms` dans la réponse (absent sur `agent.dinum` au 09/09/2026, donc aucune maj de token à prévoir; mais peut être non nul pour un autre *homeserver*).
+
+5. Poster avec [`PUT /rooms/{roomId}/send/m.room.message/{txnId}`](https://spec.matrix.org/latest/client-server-api/#put_matrixclientv3roomsroomidsendeventtypetxnid) : `body` (texte brut, obligatoire) et `formatted_body` (HTML). Un exemple d'envoi complet en Python (code clair mais améliorable, TODO, remplacer par un vrai code de démo) : [`notifier.py`](https://github.com/MTES-MCT/dialog-integrations/blob/main/notifications/notifier.py)
 
 - cf [Doc officielle BOTs Tchap](https://aide.tchap.numerique.gouv.fr/fr/article/documentation-technique-bot-et-integrations-tchap-1z3dfx/)
 - et [Le canal Tchap BOTs & Intégrations](https://www.tchap.gouv.fr/#/room/#BotsetIntgrationsTchapU2tHdMEN80D:agent.dinum.tchap.gouv.fr)
