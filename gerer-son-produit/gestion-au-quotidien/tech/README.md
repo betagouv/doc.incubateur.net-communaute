@@ -28,7 +28,7 @@
 [security-phishing-attack.md](security-phishing-attack.md)
 {% endcontent-ref %}
 
-{% content-ref url="securite-proxy-dauthentification.md" %}
-[securite-proxy-dauthentification.md](securite-proxy-dauthentification.md)
+{% content-ref url="../../aide-a-la-mise-en-application-des-standards/securite/securite-proxy-dauthentification.md" %}
+[securite-proxy-dauthentification.md](../../aide-a-la-mise-en-application-des-standards/securite/securite-proxy-dauthentification.md)
 {% endcontent-ref %}
 

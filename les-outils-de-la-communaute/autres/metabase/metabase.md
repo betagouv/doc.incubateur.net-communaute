@@ -78,7 +78,7 @@ scalingo \
 {% hint style="warning" %}
 Pour éviter d'exposer votre application à des scans intempestifs et à l'exploitation de vulnérabilités, cachez metabase derrière un proxy d'authentification \
 \
-👉 [cf Proxy d'authentification](../../../gerer-son-produit/gestion-au-quotidien/tech/securite-proxy-dauthentification.md)
+👉 [cf Proxy d'authentification](../../../gerer-son-produit/aide-a-la-mise-en-application-des-standards/securite/securite-proxy-dauthentification.md)
 {% endhint %}
 
 ### Connecter Metabase à une base de données anonymisée
