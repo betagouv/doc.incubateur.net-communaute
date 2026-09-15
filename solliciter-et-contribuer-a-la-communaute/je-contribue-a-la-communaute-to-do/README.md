@@ -28,7 +28,7 @@ Tous les membres de la communauté sont légitimes à organiser et animer des fo
 
 Tu peux consulter les formations à venir et proposer une formation [sur cette page.](../../travailler-chez-beta.gouv.fr/se-former/animer-une-formation.md)
 
-Si tu as une question sur une formation ou si tu veux faire la communication d'une formation que tu organises 👉 poste un message sur le canal Mattermost [\~incubateur-formations](https://mattermost.incubateur.net/betagouv/channels/incubateur-formations).
+Si tu as une question sur une formation ou si tu veux faire la communication d'une formation que tu organises 👉 contacte l'équipe animation par mail à [contact@beta.gouv.fr](mailto:contact@beta.gouv.fr).
 
 {% content-ref url="../../travailler-chez-beta.gouv.fr/se-former/" %}
 [se-former](../../travailler-chez-beta.gouv.fr/se-former/)
@@ -36,7 +36,8 @@ Si tu as une question sur une formation ou si tu veux faire la communication d'u
 
 ## ⚙️ **Aider à résoudre une problématique de la communauté**
 
-Tu as un irritant au sein de la communauté et tu souhaites participer à améliorer la situation ? Contacte l'équipe d'animation envoyant un mail à _**dinum@beta.gouv.fr**_ ou en mettant un message sur le canal [\~incubateur-communauté](https://mattermost.incubateur.net/betagouv/channels/incubateur-communautexp). L'équipe pourra t'aider à rejoindre une initiative en cours ou à créer un groupe de travail.
+Tu as un irritant au sein de la communauté et tu souhaites participer à améliorer la situation ? Contacte l'équipe d'animation envoyant un mail à _**contact@beta.gouv.fr**_ ou en mettant un message sur le canal Tchap  [BetaGouv-entraide-communaute](https://tchap.gouv.fr/#/room/!FznvyqtGVRlsGHcLVE:agent.dinum.tchap.gouv.fr/$cRf7sS3noy-igI4AaFIu8Vr9joxSzMlq0O1tlw6n1A4?via=agent.dinum.tchap.gouv.fr\&via=agent.dev-durable.tchap.gouv.fr\&via=agent.interieur.tchap.gouv.fr).\
+&#x20;L'équipe pourra t'aider à rejoindre une initiative en cours ou à créer un groupe de travail.
 
 Exemples d'actions : faciliter l’embarquement des intras, donner plus de visibilité à la mobilité interne, redéfinir les valeurs de beta.gouv.fr, etc.
 
