@@ -22,7 +22,7 @@ Elle est l'équipe chargée de :
 * **Marine-Pétroline Soichot,** chargée d'ingénierie pédagogique
 * **Renaud Durand,** expert Cybersécurité
 
-Pour contacter l'équipe animation beta.gouv.fr, tu peux écrire à **contact@beta.gouv.fr** ou utiliser le canal [**\~incubateur-animation**](https://mattermost.incubateur.net/betagouv/channels/incubateur-animation) sur Mattermost.
+Pour contacter l'équipe animation beta.gouv.fr, tu peux écrire à **contact@beta.gouv.fr** ou envoyer un message à la personne concernée sur Tchap.
 
 ## Comprendre l'organigramme de la DINUM
 
