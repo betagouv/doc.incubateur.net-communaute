@@ -9,7 +9,7 @@ description: >-
 
 ## Proposer une formation
 
-Pour intégrer une formation au calendrier des formations, il te suffit de remplir ce formulaire. Il est aussi recommandé de contacter l'équipe d'animation de la communauté via Mattermost [\~incubateur-formations](https://mattermost.incubateur.net/betagouv/channels/incubateur-formations) ou mail à communaute@beta.gouv.fr.
+Pour intégrer une formation au calendrier des formations, il te suffit de remplir ce formulaire. Il est aussi recommandé de contacter [l'équipe d'animation](https://app.gitbook.com/s/-M4-Pru_Xyamh27tzw85/nous-contacter) de la communauté via Tchap ou mail à contact@beta.gouv.fr.
 
 {% embed url="https://airtable.com/shr3sH68gDOjFaLT7" %}
 
@@ -54,7 +54,7 @@ Ne pas hésiter non plus à ajouter votre annonce dans l'infolettre !
 
 #### Comment ajouter l'évènement à l'agenda public
 
-Envoyer un mail à l'adresse [animation@beta.gouv.fr](mailto:animation@beta.gouv.fr) pour demander à recevoir les droits pour ajouter
+Envoyer un mail à l'adresse [contact@beta.gouv.fr](mailto:contact@beta.gouv.fr) pour demander à recevoir les droits pour ajouter un évènement à l'agenda.
 
 ### Comment organiser l'évènement le jour J
 
@@ -64,4 +64,4 @@ La salle à côté des locaux de Beta (5.416) peut être réservée le jour-mêm
 
 #### Si l'évènement est à distance
 
-Plusieurs plateformes de visio-conférences existent : à Beta, il est recommandé d'utiliser [https://webinaire.numerique.gouv.fr/](https://webinaire.numerique.gouv.fr/). Il est conseillé de commencer à préparer la salle virtuelle 15 minutes avant le début.
+Plusieurs plateformes de visio-conférences existent : à Beta, il est recommandé d'utiliser [https://visio.numerique.gouv.fr/](https://visio.numerique.gouv.fr/). Il est conseillé de commencer à préparer la salle virtuelle 15 minutes avant le début.
