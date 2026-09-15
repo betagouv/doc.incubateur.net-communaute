@@ -1,6 +1,6 @@
 # Le groupe de soutien
 
-Une équipe de bénévoles (agent.e.s et freelances) appartenant à la communauté beta.gouv.fr ont formé un groupe de soutien. Les membres du groupe de soutien sont actuellement : _Amel Alili, Caroline Lawson, Clémence Lopez, Denis Baudot, Fanny Blanc, Florian Briand , Mélodie Dahi, Emmanuel Gaillot, Elsa Le Duigou, Olivier Boudou et Marine Purson._
+Une équipe de bénévoles (agent.e.s et freelances) appartenant à la communauté beta.gouv.fr ont formé un groupe de soutien. Les membres du groupe de soutien sont actuellement : _Amel Alili, Caroline Lawson, Denis Baudot, Mélodie Dahi, Emmanuel Gaillot, Olivier Boudou et Marine Purson._
 
 ### 🎯 Objectif du groupe
 
@@ -23,7 +23,7 @@ Tu peux contacter le groupe de soutien :
 
 * en envoyant un email à [soutien@beta.gouv.fr](mailto:soutien@beta.gouv.fr) ;
 * en remplissant le[ formulaire Tally ](https://tally.so/r/w8xAgr);
-* en contactant l'un des membres directement sur Mattermost, Tchap ou sur son email beta.gouv.fr.
+* en contactant l'un des membres directement sur Tchap ou sur son email beta.gouv.fr.
 
 Si tu contactes le groupe, un.e membre du groupe de soutien qui n’a pas de lien avec ton équipe assurera l’écoute.
 
