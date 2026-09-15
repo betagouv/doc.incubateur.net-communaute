@@ -106,6 +106,10 @@ Nous pouvons vous accompagner dans cette démarche simple, n'hésitez pas à nou
 > * [_ANSSI - Recommandations relatives à l'authentification multifacteur et aux mots de passe_](https://cyber.gouv.fr/publications/recommandations-relatives-lauthentification-multifacteur-et-aux-mots-de-passe)
 > * [_Wikipedia - Double authentification_](https://fr.wikipedia.org/wiki/Double\_authentification)
 
+#### 🔑 Enrôller une Yubikey comme 2FA
+
+Attention, pour enrôler votre Yubikey comme second facteur d'authentification, il faut le faire via **Passkey** et non via **Yubico OTP security key**.
+
 ## Utiliser bitwarden sur tous vos appareils <a href="#utiliser-bitwarden-sur-tous-vos-appareils" id="utiliser-bitwarden-sur-tous-vos-appareils"></a>
 
 Vous pouvez accéder à votre coffre-fort à partir de n’importe quel appareil connecté à Internet, soit via l’interface web, soit via les applications bitwarden pour :
