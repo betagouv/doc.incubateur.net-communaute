@@ -13,13 +13,11 @@ Votre incubateur doit pouvoir vous fournir un compte Brevo dédié sur lequel vo
 ### ✅ Comment demander un accès ?
 
 Rien de plus simple !\
-👉 Tu peux faire une demande en contactant [le support via le chat Crisp](https://go.crisp.chat/chat/embed/?website_id=1020533a-61b1-45cd-90ab-8d6f99fb006a) (icône en bas à droite de cette page).
-
+👉 Tu peux faire une demande en te connectant sur ton espace membre, section ["demande d'ops" ](https://espace-membre.beta.gouv.fr/services/ops). \
 Il faudra indiquer :
 
-* le nom de votre produit ainsi que l'incubateur de rattachement
+* le nom de ton produit&#x20;
 * l’usage prévu (transactionnel, newsletter, test, etc.)
-* les membres de votre équipe à ajouter (adresse email pro)
 
 📌 L’accès est **gratuit** pour les équipes produit internes, dans la limite du quota du compte partagé.
 
