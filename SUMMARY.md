@@ -281,7 +281,7 @@
     * ["L'expérimentation" : différence entre le sens commun et la définition juridique](gerer-son-produit/gestion-au-quotidien/cadrer-juridiquement-son-produit/lexperimentation-difference-entre-le-sens-commun-et-la-definition-juridique.md)
     * [Faire une liste d'entreprises non-exhaustive](gerer-son-produit/gestion-au-quotidien/cadrer-juridiquement-son-produit/faire-une-liste-dentreprises-non-exhaustive.md)
     * [Concurrence avec le secteur privé](gerer-son-produit/gestion-au-quotidien/cadrer-juridiquement-son-produit/concurrence-avec-le-secteur-prive.md)
-    * [Les responsabilités sur un service numérique](gerer-son-produit/gestion-au-quotidien/cadrer-juridiquement-son-produit/les-responsabilites-sur-un-service-numerique.md)
+    * [Les responsabilités au sein d'un service numérique](gerer-son-produit/gestion-au-quotidien/cadrer-juridiquement-son-produit/les-responsabilites-au-sein-dun-service-numerique.md)
   * [🛍️ Marchés beta.gouv.fr](gerer-son-produit/gestion-au-quotidien/marches/README.md)
     * [Marché interministériel de réalisation de produit](gerer-son-produit/gestion-au-quotidien/marches/marche-interministeriel-beta/README.md)
       * [Je suis attributaire du lot 1 du marché](gerer-son-produit/gestion-au-quotidien/marches/marche-interministeriel-beta/je-suis-un-des-attributaires-du-marche.md)
