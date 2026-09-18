@@ -120,7 +120,7 @@ curl -X POST "https://matrix.agent.dinum.tchap.gouv.fr/_matrix/client/v3/login" 
 :warning: Ne se connecter qu'une fois, sauver ce token et le réutiliser (chaque connexion crée une nouvelle session sur le compte, et Tchap déconseille d'en accumuler).
 :warning: Vérifier `expires_in_ms` dans la réponse (absent sur `agent.dinum` au 09/09/2026, donc aucune maj de token à prévoir; mais peut être non nul pour un autre *homeserver*).
 
-5. Poster avec [`PUT /rooms/{roomId}/send/m.room.message/{txnId}`](https://spec.matrix.org/latest/client-server-api/#put_matrixclientv3roomsroomidsendeventtypetxnid) : `body` (texte brut, obligatoire) et `formatted_body` (HTML). Un exemple d'envoi complet en Python (code clair mais améliorable, TODO, remplacer par un vrai code de démo) : [`notifier.py`](https://github.com/MTES-MCT/dialog-integrations/blob/main/notifications/notifier.py)
+5. Poster avec [`PUT /rooms/{roomId}/send/m.room.message/{txnId}`](https://spec.matrix.org/latest/client-server-api/#put_matrixclientv3roomsroomidsendeventtypetxnid) : `body` (texte brut, obligatoire) et `formatted_body` (HTML). Un exemple d'envoi complet en Python (code clair mais améliorable, TODO, remplacer par un vrai code de démo) : [`tchap_bot.py`](https://github.com/MTES-MCT/dialog-integrations/blob/main/notifications/tchap_bot.py)
 
 - cf [Doc officielle BOTs Tchap](https://aide.tchap.numerique.gouv.fr/fr/article/documentation-technique-bot-et-integrations-tchap-1z3dfx/)
 - et [Le canal Tchap BOTs & Intégrations](https://www.tchap.gouv.fr/#/room/#BotsetIntgrationsTchapU2tHdMEN80D:agent.dinum.tchap.gouv.fr)
