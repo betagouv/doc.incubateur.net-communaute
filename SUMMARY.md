@@ -175,6 +175,7 @@
     * [Sécurité et homologation](gerer-son-produit/aide-a-la-mise-en-application-des-standards/securite/securite-and-homologation.md)
     * [Intégrer la sécurité au cycle de développement](gerer-son-produit/aide-a-la-mise-en-application-des-standards/securite/ressources-integration-securite-cycle-developpement.md)
     * [Proxy d'authentification](gerer-son-produit/aide-a-la-mise-en-application-des-standards/securite/securite-proxy-dauthentification.md)
+    * [Procédure d'alerte SSI - "Composant Vulnérable"](gerer-son-produit/aide-a-la-mise-en-application-des-standards/securite/procedure-dalerte-ssi-composant-vulnerable.md)
   * [Protection des données personnelles](gerer-son-produit/aide-a-la-mise-en-application-des-standards/protection-des-donnees-personnelles/README.md)
     * [Analyse d'impact relative à la protection des données (AIPD)](gerer-son-produit/aide-a-la-mise-en-application-des-standards/protection-des-donnees-personnelles/analyse-dimpact-relative-a-la-protection-des-donnees-aipd.md)
     * [Responsabilité de traitement](gerer-son-produit/aide-a-la-mise-en-application-des-standards/protection-des-donnees-personnelles/responsabilite-de-traitement/README.md)
