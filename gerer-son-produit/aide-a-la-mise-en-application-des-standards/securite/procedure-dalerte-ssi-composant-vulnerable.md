@@ -24,7 +24,7 @@ Il n'existe pas à l'échelle de beta.gouv.fr de système unifié de remontée d
 
 Ce protocole vise à **avertir le plus rapidement possible les équipes techniques impactées par ces vulnérabilités** pour qu'elles mènent des actions de mitigation le plus rapidement possible.
 
-#### **Parties prenantes**￼
+#### **Parties prenantes**
 
 * **Lanceur d'Alerte** :
   * Un membre de la communauté est au courant d'une vulnérabilité impactant des composants communs à plusieurs produits
@@ -47,7 +47,7 @@ Ce protocole vise à **avertir le plus rapidement possible les équipes techniqu
     * Les [référents tech](https://doc.incubateur.net/communaute/gerer-son-produit/gestion-au-quotidien/tech/to-do-liens-avec-les-referents-techs) en leur mettant le droit d'inviter d'autres personnes
     * Vos référents SSI
 
-￼
+
 
 * Décrire la vulnérabilité et les options de remediation connues à date, à minima
   * Score CVSS (si applicable)
@@ -57,11 +57,11 @@ Ce protocole vise à **avertir le plus rapidement possible les équipes techniqu
   * Versions du composant vulnérables
   * Lien vers bulletin éditeur (à défaut, article de blog/news)
 
-￼
+
 
 * envoyer un **email de notification** avec les mêmes informations sur l'alias `alertes-securite@beta.gouv.fr`  avec tous les référents techs et personnes intéréssées en BCC et le lien Tchap avec un résumé de la vuln concernée.
 
-￼
+
 
 * Envoyer une alerte en tagguant `@room` dans le canal Tchap [`betagouv-domaine-secu`](https://tchap.gouv.fr/#/room/!XPllVpJRcpZCaSiaXW:agent.dinum.tchap.gouv.fr) avec le lien vers la room dédiée
 
