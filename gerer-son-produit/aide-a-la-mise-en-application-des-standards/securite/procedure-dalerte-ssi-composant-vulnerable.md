@@ -28,7 +28,7 @@ Ce protocole vise à **avertir le plus rapidement possible les équipes techniqu
 
 * **Lanceur d'Alerte** :
   * Un membre de la communauté est au courant d'une vulnérabilité impactant des composants communs à plusieurs produits
-* [**Référent technique**](https://docs.numerique.gouv.fr/docs/576118dd-e71f-4f00-8176-3cf1dfbde1f2/) **incubateur** :
+* [**Référent technique** ](../../gestion-au-quotidien/tech/to-do-liens-avec-les-referents-techs.md)**incubateur** :
   * Dispatche l'alerte à ses équipes
   * Assure le suivi de l'application des patchs pour ses équipes
   * Contacte au besoin leurs RSSI (selon le protocole interne de son administration)
@@ -44,7 +44,7 @@ Ce protocole vise à **avertir le plus rapidement possible les équipes techniqu
 
 * Le lanceur d'alerte crée **canal Tchap dédié** _`tmp-alerte-securite-[nom_du_composant]-DDMMYY`_ chiffré sur invite (penser à activer le partage de l'historique),
   * inviter :
-    * Les [referents tech](https://doc.incubateur.net/communaute/gerer-son-produit/gestion-au-quotidien/tech/to-do-liens-avec-les-referents-techs) en leur mettant le droit d'inviter d'autres personnes
+    * Les [référents tech](https://doc.incubateur.net/communaute/gerer-son-produit/gestion-au-quotidien/tech/to-do-liens-avec-les-referents-techs) en leur mettant le droit d'inviter d'autres personnes
     * Vos référents SSI
 
 ￼
@@ -72,5 +72,5 @@ Ce protocole vise à **avertir le plus rapidement possible les équipes techniqu
 
 #### Annexes:
 
-* Contacter les référents tech : [https://doc.incubateur.net/communaute/gerer-son-produit/gestion-au-quotidien/tech/to-do-liens-avec-les-referents-techs](https://doc.incubateur.net/communaute/gerer-son-produit/gestion-au-quotidien/tech/to-do-liens-avec-les-referents-techs)
+* Contacter [les référents tech](../../gestion-au-quotidien/tech/to-do-liens-avec-les-referents-techs.md)
 
