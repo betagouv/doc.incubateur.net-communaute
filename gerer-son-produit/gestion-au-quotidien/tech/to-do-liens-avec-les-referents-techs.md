@@ -4,6 +4,8 @@ Une équipe tech transverse existe au sein de l'incubateur de la DINUM. Son rôl
 
 - [Julien Bouquillon](mailto:julien.bouquillon@beta.gouv.fr) (Responsable technique communauté)
 - [Stéphane Maniaci](mailto:stephane.maniaci@beta.gouv.fr) (Lead dev, Responsable qualité logicielle)
+- [Renaud Durand](mailto:renaud.durand.ext@beta.gouv.fr) (Référent SSI)
+- [Maxime Torgue](mailto:maxime.torgue@beta.gouv.fr) (DevOps)
 
 Chaque fabrique dispose (ou pas) d'un(e) référent tech que vous pouvez solliciter pour vos besoin spécifiques. Ils sont disponibles sur Tchap.
 
