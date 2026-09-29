@@ -22,10 +22,10 @@ Bienveillance, confidentialité, entraide, solidarité, humilité, respect, éco
 Tu peux contacter le groupe de soutien :
 
 * en envoyant un email à [soutien@beta.gouv.fr](mailto:soutien@beta.gouv.fr) ;
-* en remplissant le[ formulaire Tally ](https://tally.so/r/w8xAgr);
+* en remplissant le[ formulaire Tally ](https://tally.so/r/w8xAgr)**(Seuls les membres du groupe de soutien mentionnés en début de page peuvent accéder aux réponses)**
 * en contactant l'un des membres directement sur Tchap ou sur son email beta.gouv.fr.
 
-Si tu contactes le groupe, un.e membre du groupe de soutien qui n’a pas de lien avec ton équipe assurera l’écoute.
+Si tu contactes le groupe, un.e membre du groupe de soutien, qui n’a pas de lien avec ton équipe et ton incubateur, assurera l’écoute.
 
 ### 👂Comment se passe une écoute ?
 
