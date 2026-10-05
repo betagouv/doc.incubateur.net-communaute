@@ -110,4 +110,4 @@ Ex pour un admin django: `!=^/admin(/.*)?$`
 
 ***
 
-👉 Si vous voulez en parler, rejoignez le [canal Tchap Betagouv/Domaine-secu](https://tchap.gouv.fr/#/room/!XPllVpJRcpZCaSiaXW:agent.dinum.tchap.gouv.fr)
+👉 Si vous voulez en parler, rejoignez le [canal Tchap Betagouv/Domaine-secu](https://tchap.gouv.fr/#/room/!XPllVpJRcpZCaSiaXW:agent.dinum.tchap.gouv.fr) et le [canal oauth2-proxy](https://tchap.gouv.fr/#/room/!JRGmlCxpUBzcWDQwTq:agent.dinum.tchap.gouv.fr)
