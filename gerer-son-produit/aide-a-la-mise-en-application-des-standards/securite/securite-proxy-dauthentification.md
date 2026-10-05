@@ -80,6 +80,22 @@ OAUTH2_PROXY_PROVIDER=oidc
 OAUTH2_PROXY_SCOPE=openid given_name usual_name email profile
 ```
 
+{% hint style="info" %}
+Pour forcer le MFA (authentification multi-facteurs) sur ProConnect, vous pouvez ajouter ces variables:
+
+```
+OAUTH2_PROXY_ACR_VALUES=eidas0-mfa eidas1-mfa eidas2 eidas3
+OAUTH2_PROXY_ALLOWED_GROUPS=eidas0-mfa,eidas1-mfa,eidas2,eidas3
+OAUTH2_PROXY_OIDC_GROUPS_CLAIM=acr
+OAUTH2_PROXY_SKIP_OIDC_DISCOVERY=true
+OAUTH2_PROXY_LOGIN_URL=https://auth.agentconnect.gouv.fr/api/v2/authorize?claims=%7B%22id_token%22%3A%7B%22acr%22%3A%7B%22essential%22%3Atrue%2C%22values%22%3A%5B%22eidas0-mfa%22%2C%22eidas1-mfa%22%2C%22eidas2%22%2C%22eidas3%22%5D%7D%7D%7D
+OAUTH2_PROXY_OIDC_ISSUER_URL=https://auth.agentconnect.gouv.fr/api/v2
+OAUTH2_PROXY_OIDC_JWKS_URL=https://auth.agentconnect.gouv.fr/api/v2/jwks
+OAUTH2_PROXY_PROFILE_URL=https://auth.agentconnect.gouv.fr/api/v2/userinfo
+OAUTH2_PROXY_REDEEM_URL=https://auth.agentconnect.gouv.fr/api/v2/token
+```
+{% endhint %}
+
 ---
 
 {% hint style="info" %}
