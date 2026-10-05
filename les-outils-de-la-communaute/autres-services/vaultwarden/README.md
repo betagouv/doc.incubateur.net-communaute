@@ -6,7 +6,7 @@ description: Gestionnaire de mots de passes partagés
 
 L'équipe animation met à votre disposition une instance de VaultWarden (équivalent de BitWarden) pour vous permettre de gérer les mots de passes de votre équipe : [https://vaultwarden.incubateur.net](https://vaultwarden.incubateur.net)
 
-Vous pouvez directement créer un nouveau en utilisant votre email @beta.gouv.fr
+Vous pouvez directement créer un nouveau compte en utilisant votre email @beta.gouv.fr
 
 Plusieurs clients ou extensions sont disponibles : [https://bitwarden.com/download](https://bitwarden.com/download/)
 
