@@ -5,7 +5,7 @@ description: Configuration des emails de la suite numérique
 # Emails suite numérique
 
 {% hint style="info" %}
-Cette offre est en cours de déploiement pour la communauté beta.gouv.fr. \
+Cette offre est en cours de déploiement pour la communauté beta.gouv.fr.\
 \
 Votre espace-membre vous indique l'offre actuellement associée à votre compte email.\
 \
@@ -28,7 +28,7 @@ Vous recevrez alors un email d'invitation pour accéder à votre nouvelle boite 
 
 ## Etape 2 : **Utiliser le webmail**
 
-Connectez vous via  [webmail.beta.gouv.fr](https://webmail.beta.gouv.fr) avec vos nouveaux identifiants.
+Connectez vous via [https://messagerie.numerique.gouv.fr](https://messagerie.numerique.gouv.fr) avec vos nouveaux identifiants.
 
 ## **Etape 2: ou un client lourd sur ordinateur**
 
@@ -41,9 +41,9 @@ Un client lourd est un logiciel de mail directement installé sur votre machine 
 Si vous souhaitez utiliser les clients Apple Mail ou Thunderbird, vous pouvez suivre les instructions de configuration décrites ci-dessous.
 
 {% hint style="warning" %}
-:warning: Lorsque vous connectez un outil externe à votre messagerie, créez toujours un mot de passe unique pour cette appliation via votre webmail.
+:warning: Lorsque vous connectez un outil externe à votre messagerie, créez toujours un mot de passe unique pour cette application via votre webmail.
 
-Pour créer un mot de passe applicatif, aller dans le webmail, puis "Tous les réglages", "Sécurité", "Mots de passe d'application" puis "Ajouter". Pour un client email, choisisez "IMAP". Cf [la documentation](https://docs.numerique.gouv.fr/docs/72d85e99-1925-4d3e-ac83-b50b45197784/)
+Pour créer un mot de passe applicatif, aller dans le webmail, puis "Tous les réglages", "Sécurité", "Mots de passe d'application" puis "Ajouter". Pour un client email, choisissez "IMAP". Cf [la documentation](https://docs.numerique.gouv.fr/docs/72d85e99-1925-4d3e-ac83-b50b45197784/)
 {% endhint %}
 
 #### **2.1 Utiliser** [**Thunderbird**](https://www.thunderbird.net/fr/)
@@ -54,21 +54,21 @@ Créez un [mot de passe applicatif dédié](https://docs.numerique.gouv.fr/docs/
 
 Ajoutez le nouveau compte email dans “Fichier”/“Paramètres de comptes” :
 
-|                          | ISN                                            |
-| ------------------------ | ---------------------------------------------- |
-| **Serveur entrant**      |                                                |
-| Protocole :              | IMAP                                           |
-| Nom d’hôte               | imap.beta.gouv.fr                              |
-| Port                     | 143 ou 993                                     |
-| Sécurité de la connexion | SSL/TLS                                        |
-| **Serveur sortant**      |                                                |
-| Nom d’hôte               | smtp.beta.gouv.fr                              |
-| Port                     | 465                                            |
-| Sécurité de la connexion | SSL/TLS                                        |
+|                          | ISN               |
+| ------------------------ | ----------------- |
+| **Serveur entrant**      |                   |
+| Protocole :              | IMAP              |
+| Nom d’hôte               | imap.beta.gouv.fr |
+| Port                     | 143 ou 993        |
+| Sécurité de la connexion | SSL/TLS           |
+| **Serveur sortant**      |                   |
+| Nom d’hôte               | smtp.beta.gouv.fr |
+| Port                     | 465               |
+| Sécurité de la connexion | SSL/TLS           |
 
 **Ajouter le calendrier**
 
-Dans l’onglet Agenda, faire “nouvel agenda” / “réseau” puis indiquez votre nom d’utilisateur (adresse email en l’espèce) et le lien de découverte des agendas: https://webmail.numerique.gouv.fr/dav/caldav
+Dans l’onglet Agenda, faire “nouvel agenda” / “réseau” puis indiquez votre nom d’utilisateur (adresse email en l’espèce) et le lien de découverte des agendas: [https://messagerie.numerique.gouv.fr/dav/caldav](https://messagerie.numerique.gouv.fr/dav/caldav)
 
 Indiquez votre [mot de passe applicatif](https://docs.numerique.gouv.fr/docs/72d85e99-1925-4d3e-ac83-b50b45197784/), puis sélectionnez les calendriers que vous souhaitez synchroniser.
 
@@ -93,13 +93,13 @@ Apple Mail est déjà installé sur Mac.
 * Complétez avec votre adresse mail et le [mot de passe applicatif](https://docs.numerique.gouv.fr/docs/72d85e99-1925-4d3e-ac83-b50b45197784/)
 * Une erreur s’affiche. Complétez le nom d’utilisateur, le serveur de réception et le serveur d’envoi comme ci-dessous :
 
-|                      | ISN                                            |
-| -------------------- | ---------------------------------------------- |
-| Nom d’utilisateur    | ton adresse mail                               |
-| Serveur de réception | imap.beta.gouv.fr                              |
-| Port                 | 143 ou 993                                     |
-| Serveur d’envoi      | smtp.beta.gouv.fr                              |
-| Port                 | 25 ou 587                                      |
+|                      | ISN               |
+| -------------------- | ----------------- |
+| Nom d’utilisateur    | ton adresse mail  |
+| Serveur de réception | imap.beta.gouv.fr |
+| Port                 | 143 ou 993        |
+| Serveur d’envoi      | smtp.beta.gouv.fr |
+| Port                 | 25 ou 587         |
 
 * \\
 * Votre application de mail va peut-être afficher une alerte indiquant que le serveur n’est pas certifié. Cliquez sur continuer/ignorer.
@@ -110,11 +110,11 @@ Apple Mail est déjà installé sur Mac.
 
 **Calendriers sur Mac**
 
- - Dans le menu "Calendrier", choisir "Ajouter un compte", puis "Compte CalDAV"
- - Type de compte: `manuel`
- - Utilisateur: `prenom.nom[.ext]@beta.gouv.fr`
- - Mot de passe: [mot de passe applicatif](https://docs.numerique.gouv.fr/docs/72d85e99-1925-4d3e-ac83-b50b45197784/)
- - Adresse du serveur: `webmail.beta.gouv.fr`
+* Dans le menu "Calendrier", choisir "Ajouter un compte", puis "Compte CalDAV"
+* Type de compte: `manuel`
+* Utilisateur: `prenom.nom[.ext]@beta.gouv.fr`
+* Mot de passe: [mot de passe applicatif](https://docs.numerique.gouv.fr/docs/72d85e99-1925-4d3e-ac83-b50b45197784/)
+* Adresse du serveur: `messagerie.beta.gouv.fr`
 
 ## Etape 3 : Connecter à votre téléphone
 
@@ -126,11 +126,11 @@ Pour les emails, ajoutez simplement un nouveau compte IMAP avec les paramètres 
 
 Pour synchroniser avec le calendrier de votre téléphone Android, vous pouvez installer [Dav5x](https://www.davx5.com/) qui va permettre de synchroniser directement votre compte calendrier OpenXchange avec votre agenda Android. Cette application est [dispo gratuitement sur le store f-droid](https://f-droid.org/fr/packages/at.bitfire.davdroid/) ou [payant sur le Play Store](https://play.google.com/store/apps/details?id=at.bitfire.davdroid\&hl=fr). Une fois installée, il faut ajouter un calendrier avec les configurations suivantes :
 
-|              |                                                                                                               |
-| ------------ | --------------------------------------------------------------------------------------------------------------|
-| URL          | webmail.beta.gouv.fr                                                                                          |
-| utilisateur  | prenom.nom[.ext]@beta.gouv.fr                                                                                 |
-| mot de passe | [mot de passe applicatif dédié](https://docs.numerique.gouv.fr/docs/18098492-d5a0-498c-80dd-600e7027318c/)    |
+|              |                                                                                                            |
+| ------------ | ---------------------------------------------------------------------------------------------------------- |
+| URL          | messagerie.beta.gouv.fr                                                                                    |
+| utilisateur  | prenom.nom\[.ext]@beta.gouv.fr                                                                             |
+| mot de passe | [mot de passe applicatif dédié](https://docs.numerique.gouv.fr/docs/18098492-d5a0-498c-80dd-600e7027318c/) |
 
 Vous pouvez configurer le délai de synchronisation dans les paramètres, par exemple "toutes les 15 minutes".
 
@@ -149,7 +149,7 @@ Vous pouvez configurer le délai de synchronisation dans les paramètres, par ex
 
 * [ ] Ouvrez l'application “Réglages”, puis allez dans Calendrier
 * [ ] Sélectionnez "Comptes", puis "Ajouter un compte", puis "Autre", puis "Ajouter un compte CalDAV"
-* [ ] Remplissez avec les identifiants email, mot de passe, et sélectionnez le serveur : [webmail.beta.gouv.fr](http://webmail.beta.gouv.fr)
+* [ ] Remplissez avec les identifiants email, mot de passe, et sélectionnez le serveur : [messagerie.numerique.gouv.fr](https://messagerie.numerique.gouv.fr/dav/caldav)
 * [ ] Allez dans réglages => Général => Calendrier par défaut => sélectionner le calendrier [beta.gouv.fr](http://beta.gouv.fr)
 
 ## Etape 4 : Récupérer/Importer ses anciens mails
@@ -184,14 +184,14 @@ Il vous suffit ensuite de copier ou déplacer les messages vers votre nouvelle b
 
 ![](https://storage.gra.cloud.ovh.net/v1/AUTH_0f20d409cb2a4c9786c769e2edec0e06/padnumerique/uploads/d6e54bac-018c-4b8d-b241-cd855bed8d30.png)
 
-##### 4.2.2 Astuces
+**4.2.2 Astuces**
 
 Pour copier plus facilement de gros volumes:
 
- - créer des sous-dossiers dans l'ancien "Inbox", y déplacer les messages; (ex: un dossier par an)
- - clic-droit sur le sous-dossier puis "copier à" -> "nouvelle boite / Inbox"
+* créer des sous-dossiers dans l'ancien "Inbox", y déplacer les messages; (ex: un dossier par an)
+* clic-droit sur le sous-dossier puis "copier à" -> "nouvelle boite / Inbox"
 
- Une fois la copie terminée, vérifier que l'ancien et le nouveau dossier contiennent bien le même nombre de message.
+Une fois la copie terminée, vérifier que l'ancien et le nouveau dossier contiennent bien le même nombre de message.
 
 #### 4.3 Importer ses anciens mails dans Apple Mail
 
@@ -210,7 +210,7 @@ Gmail utilise le protocole POP qui importe les mails sur Gmail et les supprime d
 
     * [ ] clic droit sur la boite aux lettre gmail => exporter la boite aux lettre
     * [ ] cliquez sur fichier => importez des boites aux lettres => fichier au format mbox => selectionnez le fichier que vous venez d'exporter (généralement un dossier INBOX dans vos documents) puis valider la création d'une nouvelle boite aux lettres.
-    * [ ] Glissez/déposez la nouvelle boite "mbox" dnas votre boite de réception beta gouv&#x20;
+    * [ ] Glissez/déposez la nouvelle boite "mbox" dnas votre boite de réception beta gouv
     *
 
     <figure><img src="https://storage.gra.cloud.ovh.net/v1/AUTH_0f20d409cb2a4c9786c769e2edec0e06/padnumerique/uploads/5424e8a0-b72e-44f1-b46b-6b5f0070559e.png" alt=""><figcaption></figcaption></figure>
@@ -261,11 +261,10 @@ En acceptant la demande, le destinataire pourra accéder à votre calendrier dan
 
 ### RDV Service Public
 
-Pour gérer vos rendez-vous, vous pouvez utiliser [RDV Service Public](https://rdv.anct.gouv.fr/).
-Ce service dispose d’une fonctionnalité permettant une synchronisation bidirectionnelle : 
+Pour gérer vos rendez-vous, vous pouvez utiliser [RDV Service Public](https://rdv.anct.gouv.fr/). Ce service dispose d’une fonctionnalité permettant une synchronisation bidirectionnelle :
 
-- vos rendez-vous pris sur RDV Service Public sont ajoutés automatiquement à votre agenda de LaSuite
-- vos événements existants rendent automatiquement les créneaux correspondants indisponibles dans RDV Service Public
+* vos rendez-vous pris sur RDV Service Public sont ajoutés automatiquement à votre agenda de LaSuite
+* vos événements existants rendent automatiquement les créneaux correspondants indisponibles dans RDV Service Public
 
 Pour mettre en place cette synchronisation, [**merci d’utiliser un mot de passe applicatif**](https://docs.numerique.gouv.fr/docs/72d85e99-1925-4d3e-ac83-b50b45197784/).
 
