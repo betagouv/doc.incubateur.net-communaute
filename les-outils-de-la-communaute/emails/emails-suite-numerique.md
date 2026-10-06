@@ -16,7 +16,7 @@ Si vous rencontrez un problème, rendez-vous sur [le salon Tchap “Support mess
 
 > ⚠️ Attention : seuls le webmail et les clients lourds “Apple mail” et “Thunderbird” bénéficieront d’un support. L’utilisation de client comme gmail ou outlook en ligne est interdite pour des problèmes de souveraineté.
 
-Votre boîte mail est consultable sur [webmail.beta.gouv.fr](https://webmail.beta.gouv.fr), ou en utilisant un client mail de votre choix, ce qui permet par exemple de consulter votre mail depuis votre téléphone.
+Votre boîte mail est consultable sur [https://messagerie.numerique.gouv.fr](https://messagerie.numerique.gouv.fr), ou en utilisant un client mail de votre choix, ce qui permet par exemple de consulter votre mail depuis votre téléphone.
 
 Page officielle du support : [docs.numerique.gouv.fr](https://docs.numerique.gouv.fr/docs/fb53bdea-7dce-4a93-9b17-deb81e5779dd/)
 
