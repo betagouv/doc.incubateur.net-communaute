@@ -12,18 +12,20 @@ Un [espace beta.gouv.fr](https://tchap.gouv.fr/#/room/#betagouvfrgKBP8KrQi4k:age
 
 Il permet de communiquer avec deux niveaux d'échanges :
 
-- des échanges via messages privés avec l'ensemble des utilisateurs de Tchap ;&#x20;
-- des échanges dans des espaces, au sein desquels peuvent être créés des salons de discussion privés ou publics.
+* des échanges via messages privés avec l'ensemble des utilisateurs de Tchap ;
+* des échanges dans des espaces, au sein desquels peuvent être créés des salons de discussion privés ou publics.
 
 Lorsqu'un nouveau membre rejoint la communauté beta.gouv.fr et crée une fiche sur l'espace membre, il est automatiquement ajouté à l'espace beta.gouv.fr et à l'espace de son incubateur.
 
 ### Les canaux à connaître
 
-- Salon [Général](https://tchap.gouv.fr/#/room/!lWPNmdvOrZYcrUSSSq:agent.dinum.tchap.gouv.fr), le canal où toute la communauté est présente, pour partager des infos collectives
-- Salon [Entraide-Communauté](https://tchap.gouv.fr/#/room/!FznvyqtGVRlsGHcLVE:agent.dinum.tchap.gouv.fr), le canal où toute la communauté est présente, pour s'entraider
-- Salon [Annonces](https://tchap.gouv.fr/#/room/!opPGkbFkKlIySUyfyN:agent.dinum.tchap.gouv.fr), pour suivre les annonces et infos importantes de la communauté
-- Salon [Random](https://tchap.gouv.fr/#/room/!mjMJejXfZFiOczWRQY:agent.dinum.tchap.gouv.fr), pour parler de tout et de rien
-- \[à compléter au fil de l'eau]
+* Salon [Général](https://tchap.gouv.fr/#/room/!lWPNmdvOrZYcrUSSSq:agent.dinum.tchap.gouv.fr), le canal où toute la communauté est présente, pour partager des infos collectives
+* Salon [Entraide-Communauté](https://tchap.gouv.fr/#/room/!FznvyqtGVRlsGHcLVE:agent.dinum.tchap.gouv.fr), le canal où toute la communauté est présente, pour s'entraider
+* Salon [Annonces](https://tchap.gouv.fr/#/room/!opPGkbFkKlIySUyfyN:agent.dinum.tchap.gouv.fr), pour suivre les annonces et infos importantes de la communauté
+* Salon [Random](https://tchap.gouv.fr/#/room/!mjMJejXfZFiOczWRQY:agent.dinum.tchap.gouv.fr), pour parler de tout et de rien
+* \[à compléter au fil de l'eau]\
+  \
+  Tu trouveras sur [cette page](https://pad.numerique.gouv.fr/u9r6zeubSKeUHBAQW180LQ) des conseils pratiques pour profiter pleinement de Tchap au quotidien.
 
 {% hint style="info" %}
 Tu souhaites créer un salon dans l'espace beta.gouv.fr ? Une commande sera prochainement disponible. En attendant, tu peux faire ta demande sur le salon [BetaGouv-tmp-migration](https://tchap.gouv.fr/#/room/!bfLWibiCHOmIxcBJpm:agent.dinum.tchap.gouv.fr).
@@ -39,19 +41,19 @@ Afin de garantir la cohérence et la lisibilité de nos espaces collectifs de di
 
 **Pour les salons créés dans l'espace beta.gouv.fr**
 
-- BetaGouv-Général
-- BetaGouv-Annonces
-- BetaGouv-domaine-\[métier]
-- BetaGouv-bruit-\[\*]
-- BetaGouv-outil-\[\*]
+* BetaGouv-Général
+* BetaGouv-Annonces
+* BetaGouv-domaine-\[métier]
+* BetaGouv-bruit-\[\*]
+* BetaGouv-outil-\[\*]
 
-**Pour les espaces des incubateurs**&#x20;
+**Pour les espaces des incubateurs**
 
-- Général-\[nom de l'incubateur]
+* Général-\[nom de l'incubateur]
 
 **Pour les salons d'équipe**
 
-- equipe-\[nom du produit]
+* equipe-\[nom du produit]
 
 ## Recommandations sur les permissions
 
@@ -60,7 +62,7 @@ Afin de garantir la cohérence et la lisibilité de nos espaces collectifs de di
 
 Pense donc à limiter le nombre de personnes qui ont ce rôle lorsque tu crées un espace ou un salon. La recommandation est de 2 administrateurs.
 
-Les autres personnes peuvent avoir des droits larges si tu le souhaites, en modulant les droits accordés au rôle « modérateur ».&#x20;
+Les autres personnes peuvent avoir des droits larges si tu le souhaites, en modulant les droits accordés au rôle « modérateur ».
 {% endhint %}
 
 Besoin d'aide pour migrer ton équipe ou pour paramétrer tes salons ? Des remarques sur le fonctionnement de l'outil ? Pose ta question sur le [salon Tchap BetaGouv-tmp-migration](https://tchap.gouv.fr/#/room/!bfLWibiCHOmIxcBJpm:agent.dinum.tchap.gouv.fr).
@@ -69,8 +71,8 @@ Besoin d'aide pour migrer ton équipe ou pour paramétrer tes salons ? Des remar
 
 Le canal [Demandes-OPS](https://tchap.gouv.fr/#/room/!VxFWdbcSlumKPvpVRP:agent.dinum.tchap.gouv.fr) permet :
 
-- de [gérer les listes de diffusion](https://doc.incubateur.net/communaute/les-outils-de-la-communaute/emails/liste-de-diffusion-et-adresses-de-contact#commandes-disponibles).
-- de créer des canaux dans l'espace beta.gouv.fr
+* de [gérer les listes de diffusion](https://doc.incubateur.net/communaute/les-outils-de-la-communaute/emails/liste-de-diffusion-et-adresses-de-contact#commandes-disponibles).
+* de créer des canaux dans l'espace beta.gouv.fr
 
 ## WebHooks
 
@@ -85,20 +87,21 @@ Nous recommandons de créer un canal Tchap dédié `equipe-[xxx]-notifications` 
 | Service     | Descriptions                                                                                                                                                                                                              |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | GitHub      | [Notifications](https://docs.github.com/en/webhooks/webhook-events-and-payloads) push, actions...                                                                                                                         |
-| Scalingo    | [Notifications](https://doc.scalingo.com/platform/app/notifiers) deploiement, crash, edit...                                                                                                                                      |
-| CleverCloud | [Notifications](https://www.clever.cloud/developers/doc/account/notifications/#available-events) deploiement, crash, edit...                                                                                                                                      |
+| Scalingo    | [Notifications](https://doc.scalingo.com/platform/app/notifiers) deploiement, crash, edit...                                                                                                                              |
+| CleverCloud | [Notifications](https://www.clever.cloud/developers/doc/account/notifications/#available-events) deploiement, crash, edit...                                                                                              |
 | Sentry      | Notifications d'exceptions (cf alert Rules)                                                                                                                                                                               |
 | UpDown.io   | Notifications d'indisponibilité                                                                                                                                                                                           |
 | Metabase    | Alertes metabase                                                                                                                                                                                                          |
 | Brevo       | [Notifications](https://help.brevo.com/hc/fr/articles/27824932835474-Cr%C3%A9er-des-webhooks-sortants-pour-envoyer-des-donn%C3%A9es-en-temps-r%C3%A9el-de-Brevo-vers-une-application-externe) déliverabilité et marketing |
 
-D'autres services peuvent être ajoutés au besoin. 
+D'autres services peuvent être ajoutés au besoin.
 
 ### Bots customs
 
 Si le webhook n8n ne suffit pas (message émis par vos applis, mise en forme sur mesure, filtrage fin de ce qui est publié...), vous pouvez créer votre propre bot. Un bot Tchap est un compte utilisateur normal et publier en **non chiffré** est un simple appel HTTP.
 
 Pour réaliser vos propres bots :
+
 1. Depuis votre propre compte tchap, créer un salon `equipe-[xxx]-notifications` :warning: Le salon doit être **non chiffré à la création** (chiffrement irréversible)
 2. Créez par vous-même une adresse/un alias mail acceptée par tchap ou demander une adresse dédiée `bot-[produit]@beta.gouv.fr` sur [Demandes-OPS](https://tchap.gouv.fr/#/room/!VxFWdbcSlumKPvpVRP:agent.dinum.tchap.gouv.fr).
 3. Créer le compte Tchap associé à cette adresse depuis votre navigateur, l'inviter dans le salon `equipe-[xxx]-notifications` depuis votre compte perso, puis accepter l'invitation depuis le compte du bot.
@@ -117,10 +120,9 @@ curl -X POST "https://matrix.agent.dinum.tchap.gouv.fr/_matrix/client/v3/login" 
 }'
 ```
 
-:warning: Ne se connecter qu'une fois, sauver ce token et le réutiliser (chaque connexion crée une nouvelle session sur le compte, et Tchap déconseille d'en accumuler).
-:warning: Vérifier `expires_in_ms` dans la réponse (absent sur `agent.dinum` au 09/09/2026, donc aucune maj de token à prévoir; mais peut être non nul pour un autre *homeserver*).
+:warning: Ne se connecter qu'une fois, sauver ce token et le réutiliser (chaque connexion crée une nouvelle session sur le compte, et Tchap déconseille d'en accumuler). :warning: Vérifier `expires_in_ms` dans la réponse (absent sur `agent.dinum` au 09/09/2026, donc aucune maj de token à prévoir; mais peut être non nul pour un autre _homeserver_).
 
 5. Poster avec [`PUT /rooms/{roomId}/send/m.room.message/{txnId}`](https://spec.matrix.org/latest/client-server-api/#put_matrixclientv3roomsroomidsendeventtypetxnid) : `body` (texte brut, obligatoire) et `formatted_body` (HTML). Un exemple d'envoi complet en Python (code clair mais améliorable, TODO, remplacer par un vrai code de démo) : [`tchap_bot.py`](https://github.com/MTES-MCT/dialog-integrations/blob/main/notifications/tchap_bot.py)
 
-- cf [Doc officielle BOTs Tchap](https://aide.tchap.numerique.gouv.fr/fr/article/documentation-technique-bot-et-integrations-tchap-1z3dfx/)
-- et [Le canal Tchap BOTs & Intégrations](https://www.tchap.gouv.fr/#/room/#BotsetIntgrationsTchapU2tHdMEN80D:agent.dinum.tchap.gouv.fr)
+* cf [Doc officielle BOTs Tchap](https://aide.tchap.numerique.gouv.fr/fr/article/documentation-technique-bot-et-integrations-tchap-1z3dfx/)
+* et [Le canal Tchap BOTs & Intégrations](https://www.tchap.gouv.fr/#/room/#BotsetIntgrationsTchapU2tHdMEN80D:agent.dinum.tchap.gouv.fr)
