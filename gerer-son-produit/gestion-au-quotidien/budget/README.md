@@ -1,5 +1,7 @@
 # 💰 Budget
 
+{% embed url="https://tube.numerique.gouv.fr/w/ctbNzqfD2qUKco7MEhsvo6" %}
+
 {% content-ref url="la-facturation-de-a-a-z/" %}
 [la-facturation-de-a-a-z](la-facturation-de-a-a-z/)
 {% endcontent-ref %}
