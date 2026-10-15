@@ -55,6 +55,8 @@ Pour déclencher un RDV d'accompagnement, RDV [👉ici](https://grist.numerique.
 Parcours sélection généraliste
 {% endembed %}
 
+{% include "../../../.gitbook/includes/e-learning-complet-selecti....md" %}
+
 ## Un outil spécifique pour chaque phase de la sélection
 
 Pour chaque phase du processus, tu as à ta disposition des outils et guides spécialisés.
@@ -122,6 +124,8 @@ Plus généralement le schéma à suivre est le suivant:
 * mettre en avant des éléments favorables (compétences, motivation)
 * préciser la raison de notre réponse négative (pas de poste, pas le profil recherché, pas le bon statut)
 * si on souhaite conserver le lien avec le candidat, préciser qu'on peut garder ses coordonnées.
+
+{% include "../../../.gitbook/includes/e-learning-complet-selecti....md" %}
 
 ### Phase 4 : Sélectionner le bon profil lors des différents entretiens
 
@@ -203,6 +207,8 @@ Une fois la proposition acceptée par le.a prestataire, il te faut passer **comm
 Pour préparer au mieux [l'évaluation future de la mission et valider ou non les services faits](https://doc.incubateur.net/communaute/gerer-son-produit/gestion-au-quotidien/renforcer-l-equipe/embarquement-par-le-recruteur#pense-bete-pour-les-premiers-mois), nous te recommandons d'annexer ce [document](https://docs.numerique.gouv.fr/docs/ab8e7ef7-4dae-4f15-8f0d-d97418b3fe1b/) à ton bon de commande. Ce document reprend trait pour trait les missions et critères que tu as défini lors de la phase de cadrage, il n'y a donc pas de travail supplémentaire. Cette annexe te permettra de légitimer fortement ton évaluation des services faits et prendre les bonnes décisions par la suite.
 
 Pour rappel, le service fait peut être validé sans réserve/avec réserve si les livrables rendus sont non conformes ou incomplets (CF. [Documentation](https://doc.incubateur.net/communaute/gerer-son-produit/gestion-au-quotidien/marches)
+
+{% include "../../../.gitbook/includes/e-learning-complet-selecti....md" %}
 
 ## Garantir un accueil premium
 
