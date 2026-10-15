@@ -1,6 +1,10 @@
-# Processus et bonnes pratiques de sélection d'une personne en prestation
+# Sélectionner une personne en prestation
 
 Tu souhaites sélectionner un nouveau membre pour intégrer ton équipe ? Cette page est prévue pour t'aider à te lancer de manière structurée et efficace. Ce parcours de sélection est un socle commun, applicable à tous les métiers, pour tous les intrapreneur.ses de la communauté beta.gouv.fr !
+
+Tu peux aussi suivre le e-learning complet qui te guide pas-à-pas pour sélectionner la bonne personne avec rigueur et efficacité.
+
+{% include "../../../.gitbook/includes/e-learning-complet-selecti....md" %}
 
 ## Deux options pour faire grandir l'équipe
 
