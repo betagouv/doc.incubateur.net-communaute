@@ -39,7 +39,9 @@ Ils influencent nos perceptions, nos jugements et nos décisions, souvent de man
 
 Prendre conscience de ces biais est un premier pas essentiel pour sécuriser les décisions de sélection et favoriser des choix plus justes et plus objectifs.
 
-Tu peux lire par exemple cet article pour commencer à t'y sensibiliser😉.
+Tu trouveras plus de détail sur les biais dans le e-learning complet sur la sélection de prestataires.&#x20;
+
+{% include "../../../.gitbook/includes/e-learning-complet-selecti....md" %}
 
 ## Guides par étape
 
@@ -225,6 +227,10 @@ On clôture l'échange par des remerciements.
 `📝`Tous les contre-rendus d’entretiens sont à renseigner sur WTTJ (sur la page de chaque candidat).
 
 </details>
+
+Tu trouveras plus de détails pour chaque étape dans le e-learning complet.&#x20;
+
+{% include "../../../.gitbook/includes/e-learning-complet-selecti....md" %}
 
 ## Guides par métier
 
