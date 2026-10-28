@@ -17,11 +17,11 @@ A noter qu’il existe aussi un cas particulier, si votre produit permet à un u
 
 ## **Une convention d’échange de données est-elle indispensable entre l’équipe et l’administration qui fournit les données ?**
 
-Aucune convention d’échange de données n’est nécessaire entre l’équipe et l’administration qui fournit les données.&#x20;
+Aucune convention d’échange de données n’est obligatoire entre l’équipe et l’administration qui fournit les données.&#x20;
 
 Le droit d’information préalable des personnes en cas de transfert garanti par les articles 13 et 14 du RGPD, repose sur le responsable de traitements à l’origine du transfert, c’est-à-dire l’administration qui fournit les données.&#x20;
 
-Une fois les données obtenues, l’équipe est simplement tenue d’utiliser les données conformément à sa mission de service public.
+Une fois les données obtenues, l’équipe est simplement tenue d’utiliser les données conformément à sa mission de service public et d'informer les personnes en modifiant sa politique de confidentialité pour indiquer un nouveau destinataire des données.
 
 ## **Qui dans l’équipe produit peut manipuler un fichier de données personnelles partagé par l’administration ? Le statut importe-t-il ?**&#x20;
 
@@ -29,7 +29,7 @@ C’est l’Administration elle-même qui décide le “droit d’en connaître�
 
 Le statut des personnes (agent, contractuel, prestataire, stagiaire) de l’équipe produit n’importe pas. Toute personne de l’équipe produit peut être amenée à manipuler un fichier de données à caractère personnel.&#x20;
 
-Les fonctionnaires et agents contractuels sont soumis à une obligation de discrétion prévue par le statut de la fonction publique.  (cf. Article 1 du décret n°86-83 du 17 janvier 1986 modifié relatif aux dispositions générales applicables aux agents contractuels de l’Etat).&#x20;
+Les fonctionnaires et agents contractuels sont soumis au secret professionnel et à une obligation de discrétion prévue par le statut de la fonction publique.  (cf. Article 1 du décret n°86-83 du 17 janvier 1986 modifié relatif aux dispositions générales applicables aux agents contractuels de l’Etat).&#x20;
 
 Les prestataires sont également soumis à une obligation de confidentialité.
 
@@ -59,7 +59,7 @@ Le RGPD impose d’être en mesure d’assurer la traçabilité de ceux qui acc�
 
 Pour être conforme au RGPD, ces prestataires doivent fournir un élément contractuel qui permet de suivre, en toute transparence, le sort des données qu’ils récoltent, cet élément contractuel est appelé data processing agreement - DPA - (ou addendum).&#x20;
 
-Dès lors que vous utilisez ce service, y compris à titre gratuit, cet élément contractuel s’applique. Au besoin, vous pourrez fournir un lien vers le DPA dans votre documentation (ou le plus souvent dans l’AIPD). En contactant le support du prestataire, vous pourrez recevoir une version du DPA personnalisée (nom de l’administration porteuse, du produit etc). Ce n’est pas indispensable pour que le document soit opposable.
+Dès lors que vous utilisez ce service, y compris à titre gratuit, cet élément contractuel s’applique. Au besoin, vous pourrez fournir un lien vers le DPA dans votre documentation (ou le plus souvent dans l’AIPD). En contactant le support du prestataire, vous pourrez recevoir une version du DPA personnalisée (nom de l’administration porteuse, du produit etc). Ce n’est pas indispensable pour que le document soit opposable. Par contre, ce DPA doit être conforme aux dispositions de l'article 28 du RGPD.
 
 Les conditions générales d’utilisation ou la politique de confidentialité du produit détaillent tous les sous-traitants accédant aux données à caractère personnel. Cette liste de sous-traitants se trouve également dans les études d’impact sur la vie privée lorsque celles-ci sont réalisées. Les sous-traitants ultérieurs (c’est-à-dire les sous-traitants des sous-traitants) doivent également figurer sur la liste.
 
@@ -71,4 +71,4 @@ Chaîne de sous-traitance type : responsable de traitement -> sous-traitant (DIN
 
 Ce n’est pas obligatoire, vous avez le choix parmi tous ceux qui offrent un niveau de confiance suffisant (c’est-à-dire un niveau de protection correspondant aux standards de l’UE). Néanmoins, comme vous intervenez dans le cadre de l’administration, le choix de l’hébergeur peut faciliter la mise en conformité (pour des raisons politico-administratives). Par ailleurs, beta.gouv a identifié un panel de fournisseurs qui facilitent la construction itérative et qui sont sur sol français, les utiliser peut vous faciliter la vie.
 
-Si les compétences au sein de l’équipe produit conduisent à favoriser un autre choix (e.g. Microsoft Azure, Google Cloud) attendez-vous à devoir le défendre: documentez et argumentez votre décision. N’oubliez pas qu’un hébergeur étant un sous-traitant, il reviendra au responsable de traitements de s’assurer de la conformité du sous-traitant au RGPD
+Si les compétences au sein de l’équipe produit conduisent à favoriser un autre choix (e.g. Microsoft Azure, Google Cloud) attendez-vous à devoir le défendre: documentez et argumentez votre décision. N’oubliez pas qu’un hébergeur étant un sous-traitant, il reviendra au responsable de traitements de s’assurer de la conformité du sous-traitant au RGPD (contrat conforme à l'article 28, mesures de sécurité adéquates, etc.)
