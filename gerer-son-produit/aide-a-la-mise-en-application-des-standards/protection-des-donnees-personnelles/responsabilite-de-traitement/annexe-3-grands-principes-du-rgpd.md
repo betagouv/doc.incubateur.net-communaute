@@ -2,15 +2,17 @@
 
 Le RGPD garantit un ensemble de droits aux personnes dont vous collectez les données. L’application de certains droits n’est pas systématique et dépend de la base légale choisie par vous \(l’administration\). Une mention devra être spécifiée dans la Politique de confidentialité du produit.
 
-6 bases légales sont prévues par le RGPD. La mission d’intérêt public est la base que vous utiliserez, sauf à ce qu’une obligation légale vous oblige à traiter des données et en détermine la durée de conservation :
+6 bases légales sont prévues par le RGPD. La mission d’intérêt public est la base que vous utiliserez, sauf à ce qu’une obligation légale (un texte juridique) vous oblige à traiter des données et en détermine la durée de conservation :
 
 ## L’obligation légale 
 
-Si une obligation légale vous oblige à traiter des données à caractère personnel et détermine la durée de conservation, les personnes dont les données sont traitées auront les droits suivants :
+Si une obligation légale (décret, arrêté) vous oblige à traiter des données à caractère personnel et détermine la durée de conservation, les personnes dont les données sont traitées auront les droits suivants :
 
 * Droit à l’information \(Articles 13 et 14 du RGPD, cf. [https://www.cnil.fr/fr/le-droit-detre-informe-sur-lutilisation-de-vos-donnees-0](https://www.cnil.fr/fr/le-droit-detre-informe-sur-lutilisation-de-vos-donnees-0)\) ;
 * Droit d’accès : Article 15 du RGPD, cf. [https://www.cnil.fr/fr/le-droit-dacces-connaitre-les-donnees-quun-organisme-detient-sur-vous](https://www.cnil.fr/fr/le-droit-dacces-connaitre-les-donnees-quun-organisme-detient-sur-vous) ;
 * Droit de rectification : Article 16 du RGPD; cf. [https://www.cnil.fr/fr/le-droit-de-rectification-corriger-vos-informations](https://www.cnil.fr/fr/le-droit-de-rectification-corriger-vos-informations).
+* Droit à la limitation : Article 18 du RGPD, cf. [https://www.cnil.fr/fr/le-droit-la-limitation-du-traitement-geler-lutilisation-de-vos-donnees](https://www.cnil.fr/fr/le-droit-la-limitation-du-traitement-geler-lutilisation-de-vos-donnees) ;
+* Le droit d'opposition peut être écarté eu égard à l'article 23 du RGPD.
 
 ## La mission d’intérêt public
 
@@ -19,15 +21,11 @@ Si vous traitez des données pour réaliser une mission d’intérêt public, ce
 * Droit à l’information : Articles 13 et 14 du RGPD, cf. [https://www.cnil.fr/fr/le-droit-detre-informe-sur-lutilisation-de-vos-donnees-0](https://www.cnil.fr/fr/le-droit-detre-informe-sur-lutilisation-de-vos-donnees-0) ;
 * Droit d’accès : Article 15 du RGPD, cf. [https://www.cnil.fr/fr/le-droit-dacces-connaitre-les-donnees-quun-organisme-detient-sur-vous](https://www.cnil.fr/fr/le-droit-dacces-connaitre-les-donnees-quun-organisme-detient-sur-vous) ;
 * Droit de rectification : Article 16 du RGPD; cf. [https://www.cnil.fr/fr/le-droit-de-rectification-corriger-vos-informations](https://www.cnil.fr/fr/le-droit-de-rectification-corriger-vos-informations).
-* Droit à l’effacement \(sauf si votre mission d’intérêt public concerne le domaine de la santé\) : Article 17 du RGPD, cf. [https://www.cnil.fr/fr/le-droit-leffacement-supprimer-vos-donnees-en-ligne](https://www.cnil.fr/fr/le-droit-leffacement-supprimer-vos-donnees-en-ligne) ; 
 * Droit à la limitation : Article 18 du RGPD, cf. [https://www.cnil.fr/fr/le-droit-la-limitation-du-traitement-geler-lutilisation-de-vos-donnees](https://www.cnil.fr/fr/le-droit-la-limitation-du-traitement-geler-lutilisation-de-vos-donnees) ;
 
-Les autres bases légales sont : le consentement, le contrat, l’intérêt vital et l’intérêt légitime.
+Les autres bases légales sont : le consentement, le contrat, l’intérêt vital et l’intérêt légitime. Elles sont rarement, voire jamais, matérialisées par l'administration.
 
-Ces droits ne s’imposent jamais à l’administration :
-
-* Droit d’opposition : Article 21 du RGPD, cf. [https://www.cnil.fr/fr/le-droit-dopposition-refuser-lutilisation-de-vos-donnees](https://www.cnil.fr/fr/le-droit-dopposition-refuser-lutilisation-de-vos-donnees) ;
-* Droit à la portabilité : Article 20 du RGPD, cf. [https://www.cnil.fr/fr/le-droit-la-portabilite-obtenir-et-reutiliser-une-copie-de-vos-donnees](https://www.cnil.fr/fr/le-droit-la-portabilite-obtenir-et-reutiliser-une-copie-de-vos-donnees).
+Les droits à l'effacement et à la portabilité ne s'appliquent pas aux traitements de l'administration.
 
 Ci-dessous, une un exemple de mention, dans le cas où vous traiter des données à caractère personnel pour une mission d’intérêt public :
 
@@ -36,8 +34,8 @@ Ci-dessous, une un exemple de mention, dans le cas où vous traiter des données
 * Droit à l’information ;
 * Droit d’accès ;
 * Droit de rectification ;
-* Droit à l’effacement des données ;
-* Droit à la limitation.
+* Droit à la limitation ;
+* Droit d'opposition (s'il n'est pas écarté par les limitations de l'article 23)
 
 ## Qu’est-ce qu’une base légale ou base juridique
 
@@ -65,9 +63,5 @@ Pour déterminer une catégorie de données à caractère personnel vous utilise
 
 ## Notion de consentement
 
-Attention: le consentement n’est pas la seule base légale. Le RGPD 
-
-cf. [https://www.cnil.fr/fr/les-bases-legales](https://www.cnil.fr/fr/les-bases-legales)
-
-Il doit être “libre et éclairé” -&gt; si le refus du consentement interdit d’utiliser le service ce n’est pas un vrai consentement -&gt; si on doit cocher la case pour avancer ce n’est pas un vrai consentement; revoir la réflexion sur la base légale.
+Le consentement n'est pas une base légale pour l'administration. Le considérant 43 du RGPD précise qu'il existe un déséquilibre manifeste entre l'autorité publique et la personne concernée, qui ne peut valablement donner son consentement libre et éclairé. Ainsi, et la CNIL le rappelle, les traitements de l'autorité publique sont souvent réalisés sur le fondement de la mission d'intérêt public.
 
