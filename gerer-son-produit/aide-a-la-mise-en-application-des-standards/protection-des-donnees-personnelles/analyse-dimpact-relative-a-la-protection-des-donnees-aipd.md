@@ -52,4 +52,4 @@ Au besoin, vous trouverez des modèles et exemples :&#x20;
 
 ### &#x20;**Les traitements de données non personnelles doivent-ils figurer dans l’AIPD ?**&#x20;
 
-(En cours de rédaction)
+Non, les AIPD concernent uniquement les traitements de données à caractère personnel. Tout ce qui ne relève pas du RGPD, et donc de l'identification ou la réidentification des personnes physiques, ne doit pas être mentionné dans l'AIPD.
