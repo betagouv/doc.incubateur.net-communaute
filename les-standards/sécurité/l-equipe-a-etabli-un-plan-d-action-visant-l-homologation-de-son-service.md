@@ -38,14 +38,14 @@ C'est pourquoi vous devez établir un plan d'action vous permettant de la mener
 
 ## Critères
 
-- L'équipe a inscrit son produit sur Mon Service Sécurisé
-- L'équipe a pris connaissance des critères d'homologation propres à
+* L'équipe a inscrit son produit sur Mon Service Sécurisé
+* L'équipe a pris connaissance des critères d'homologation propres à
 son administration
-- L'équipe a établi un plan d'action visant l'homologation de son
+* L'équipe a établi un plan d'action visant l'homologation de son
   service
 
 ## Ressources
 
-- [Tout savoir sur l'homologation de sécurité - monservicesecurise.cyber.gouv.fr](https://monservicesecurise.cyber.gouv.fr/articles/tout-savoir-sur-lhomologation-de-securite)
-- [Guide d'homologation de sécurité - cyber.gouv.fr](https://cyber.gouv.fr/sites/default/files/document/guide-homologation-securite-web-04-2025.pdf)
-- [Référentiel MonServiceSécurisé - cyber.gouv.fr](https://monservicesecurise.cyber.gouv.fr/referentiel-mesures)
+* [Tout savoir sur l'homologation de sécurité - monservicesecurise.cyber.gouv.fr](https://monservicesecurise.cyber.gouv.fr/articles/tout-savoir-sur-lhomologation-de-securite)
+* [Guide d'homologation de sécurité - cyber.gouv.fr](https://cyber.gouv.fr/sites/default/files/document/guide-homologation-securite-web-04-2025.pdf)
+* [Référentiel MonServiceSécurisé - cyber.gouv.fr](https://monservicesecurise.cyber.gouv.fr/referentiel-mesures)
