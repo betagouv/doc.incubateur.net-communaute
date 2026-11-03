@@ -48,3 +48,4 @@ son administration
 
 - [Tout savoir sur l'homologation de sécurité - monservicesecurise.cyber.gouv.fr](https://monservicesecurise.cyber.gouv.fr/articles/tout-savoir-sur-lhomologation-de-securite)
 - [Guide d'homologation de sécurité - cyber.gouv.fr](https://cyber.gouv.fr/sites/default/files/document/guide-homologation-securite-web-04-2025.pdf)
+- [Référentiel MonServiceSécurisé - cyber.gouv.fr](https://monservicesecurise.cyber.gouv.fr/referentiel-mesures)
