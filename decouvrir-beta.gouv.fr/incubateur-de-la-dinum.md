@@ -13,14 +13,14 @@ Elle est l'équipe chargée de :
 * **Alice Pannetrat,** responsable du pôle
 * **Marine Purson**, responsable adjointe
 * **Emmanuelle Graff**, responsable de coordination administrative et financière
-* **Julien Bouquillon,** référent technique (CTO) de la communauté
+* **Lilian Saget-Lethias,** référent technique (CTO) de la communauté
 * **Stéphane Maniaci,** référent qualité tech (Tech Lead)
-* **Amel Alili**, chargée du support utilisateurs
+* **Amel Alili**, référente support utilisateurs
 * **Anne-Sophie Tranchet**, référente accessibilité et design
-* **Divine Tende** (alternante), chargée d'animation de communauté et de communication
-* **Nicolas Tourneur,** chargé des ressources humaines de la communauté
-* **Marine-Pétroline Soichot,** chargée d'ingénierie pédagogique
-* **Renaud Durand,** expert Cybersécurité
+* **Julien Fayant** (alternant), chargé d'animation de communauté et de communication
+* **Nicolas Tourneur,** référent RH de la communauté
+* **Marine-Pétroline Soichot,** référente ingénierie pédagogique
+* **Renaud Durand,** référent Cybersécurité
 
 Pour contacter l'équipe animation beta.gouv.fr, tu peux écrire à **contact@beta.gouv.fr** ou envoyer un message à la personne concernée sur Tchap.
 
@@ -40,16 +40,15 @@ Les **responsables de partenariat accompagnent les ministères dans leur transfo
 * **Thibault Desjardins** : intérieur et travail, cybersécurité
 * **Julie Guyot :** justice
 * **Magali Marcel-Garreau** : économie et finances publiques, agriculture
+* **Estelle Patat :** écologie et territoires
 * **Estelle Saget** : santé, solidarités et inclusion
-* **Tatiana Segla :** affaires étrangères, transformation publique et interministériel
-* **Lucie Zaccardi** : vie associative, sport et culture, _éducation Nationale, enseignement supérieur (par interim)_
+* **Lucie Zaccardi** : vie associative, sport et culture, éducation Nationale, enseignement supérieur
 
 ### :basketball: Le pôle Coaching beta.gouv.fr
 
 Le pôle accompagne des produits numériques prioritaires et anime la communauté des coachs beta.gouv.fr. Il est constitué de :
 
 * **Benjamin Doberset,** responsable du pôle
-* **Benoît Champy,** coach produit
 * **Séverine Hours,** coach accélération (EIG)
 * **Maël Inizan,** coach produit
 * **Adrien Laville,** coach produit
