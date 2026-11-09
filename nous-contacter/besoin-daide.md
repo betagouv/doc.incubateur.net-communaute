@@ -1,6 +1,6 @@
 ---
-icon: comment-question
 description: Nous sommes là pour vous aider
+icon: comment-question
 ---
 
 # Besoin d'aide ?
@@ -9,25 +9,16 @@ Que vous ayez une question, rencontriez un problème ou souhaitiez simplement en
 
 ***
 
-### **Notre FAQ**
-
-Avez vous consulté notre [**FAQ** ](https://faq-betagouv.crisp.help/fr/)**?** Vous y trouverez une liste des questions les plus fréquentes avec des réponses détaillées qui pourraient résoudre votre problème immédiatement.\
-Vous n'avez pas trouvé la réponse à votre question ? N'hésitez pas à nous transmettre votre question [via ce formulaire](https://tally.so/r/w4Pj6B). Nous l’ajouterons à la FAQ pour en faire profiter d'autres utilisateurs !
-
-***
-
 #### Si vous avez besoin d'une aide plus spécifique :
 
-### **1. Chat en direct**
+### **1. Formulaire de contact**
 
-Obtenez une réponse en temps réel grâce à notre service de **chat en direct**. \
+Obtenez une réponse en temps (presque) réel grâce à notre formulaire de contact présent sur [**l'espace membre**](https://espace-membre.incubateur.net/) et le guide de la communauté.\
 Un membre de l’équipe animation est disponible pour répondre à vos questions et vous guider pas à pas.
-
-**Le chat est disponible sur ce guide, notre** [**FAQ** ](https://faq-betagouv.crisp.help/fr/)**ou sur** [**l'espace membre**](https://espace-membre.incubateur.net/)**.**
 
 ### **2. Contact par e-mail**
 
-Pour des questions moins urgentes ou des demandes détaillées, envoyez-nous un e-mail sur contact@beta.gouv.fr. \
+Pour des questions moins urgentes ou des demandes détaillées, envoyez-nous un e-mail sur contact@beta.gouv.fr.\
 Nous vous répondrons sous 24 heures ou nous vous mettrons en relation avec les bons interlocuteurs.
 
 ### 3. **Communauté d'entraide**
@@ -36,8 +27,22 @@ Rejoignez le canal Tchap "[Entraide-communauté](https://tchap.gouv.fr/#/room/!F
 
 ***
 
+### Les rendez-vous d’accompagnement
+
+Les rendez-vous permettent de consacrer un temps d’échange à une difficulté, de clarifier une demande ou d’accompagner une démarche nécessitant davantage d’explications.
+
+Ils complètent les réponses écrites et facilitent l’identification des prochaines étapes ou des interlocuteurs à mobiliser.
+
+**La prise de rendez-vous est accessible depuis ce lien :**
+
+👉 [**Réserver un créneau avec le support de la communauté**](https://rdv.numerique.gouv.fr/prendre_rdv?departement=\&public_link_organisation_id=2052)
+
+***
+
 ### **Retour d'expérience**
 
 Votre avis compte ! N'hésitez pas à nous faire part de votre satisfaction ou suggestions pour améliorer notre service de support à la communauté.
 
 [**Je réponds au questionnaire**](https://tally.so/r/wdDX1N)
+
+N'hésitez pas à nous transmettre votre question [via ce formulaire](https://tally.so/r/w4Pj6B). Nous l’ajouterons à la FAQ pour en faire profiter d'autres utilisateurs !
