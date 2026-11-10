@@ -8,7 +8,7 @@ Nous avons pris une licence afin de la partager avec les startups d'Etat souhait
 
 Rien de plus simple !
 
-👉 Tu peux faire une demande en contactant [le support via le chat Crisp](https://go.crisp.chat/chat/embed/?website_id=1020533a-61b1-45cd-90ab-8d6f99fb006a) (icône en bas à droite de cette page)\
+👉 Tu peux faire une demande en contactant [le support via le formulaire de contact](https://espace-membre.incubateur.net/support#contact) (bouton en bas à droite de la page)\
 **ou** en écrivant directement à : [contact@beta.gouv.fr](mailto:contact@beta.gouv.fr)
 
 💬 Si ta startup a déjà un compte Tally, un membre de ton équipe peut aussi t’ajouter directement. Pense à le ou la solliciter !

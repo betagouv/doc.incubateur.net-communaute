@@ -13,7 +13,7 @@ Que vous ayez une question, rencontriez un problème ou souhaitiez simplement en
 
 ### **1. Formulaire de contact**
 
-Obtenez une réponse en temps (presque) réel grâce à notre formulaire de contact présent sur [**l'espace membre**](https://espace-membre.incubateur.net/) et le guide de la communauté.\
+Obtenez une réponse en temps (presque) réel grâce à notre formulaire de contact présent sur [**l'espace membre**](https://espace-membre.incubateur.net/support#contact) (bouton en bas à droite de la page).\
 Un membre de l’équipe animation est disponible pour répondre à vos questions et vous guider pas à pas.
 
 ### **2. Contact par e-mail**
