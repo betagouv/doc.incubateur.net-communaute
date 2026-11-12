@@ -39,6 +39,12 @@ Ils complètent les réponses écrites et facilitent l’identification des proc
 
 ***
 
+### Les questions les plus fréquentes
+
+{% include "../.gitbook/includes/untitled (3).md" %}
+
+***
+
 ### **Retour d'expérience**
 
 Votre avis compte ! N'hésitez pas à nous faire part de votre satisfaction ou suggestions pour améliorer notre service de support à la communauté.
