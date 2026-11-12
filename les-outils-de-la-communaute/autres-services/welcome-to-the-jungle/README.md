@@ -1,7 +1,7 @@
 ---
 description: >-
   Attention, la publication d'une offre en prestation répond à des obligations
-  (voir publier une offre, ci dessous).
+  (voir publier une offre ci-dessous).
 ---
 
 # Welcome To The Jungle
@@ -10,13 +10,13 @@ description: >-
 
 Après avoir terminé le cadrage de ton besoin avec l'aide d'un **référent métier** et à partir du [modèle proposé](https://docs.numerique.gouv.fr/docs/1465f149-e5c2-4c73-ac9c-37c5c76b6992/), il est temps de passer à la phase de publication de ton offre.
 
-Nous te proposons ce [modèle](https://docs.numerique.gouv.fr/docs/f9b38739-85ae-455e-93af-c9c8380fd5d3/) qui devrait t'aider à rédiger une offre conforme pour la sélection d'une personne en prestation pour une mission. Ce support te propose la structure idéale d'une annonce percutante et limitera fortement le risque de non-conformité. Remplis la en t'appuyant sur la fiche de cadrage que tu as réalisé en début processus : ce document en est simplement la traduction marketing, il a pour but de générer facilement des candidatures de qualité.
+Nous te proposons ce [modèle](https://docs.numerique.gouv.fr/docs/f9b38739-85ae-455e-93af-c9c8380fd5d3/) qui devrait t'aider à rédiger une offre conforme pour la sélection d'une personne en prestation pour une mission. Ce support te propose la structure idéale d'une annonce percutante et limitera fortement le risque de non-conformité. Remplis-la en t'appuyant sur la fiche de cadrage que tu as réalisée en début de processus : ce document en est simplement la traduction marketing, il a pour but de générer facilement des candidatures de qualité.
 
-Les [référents métiers](https://doc.incubateur.net/communaute/solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/laide-au-recrutement-des-referents-metiers) sont disponibles pour t'aider dans la préparation de ton annonce. Pour déclencher un RDV d'accompagnement, rendez-vous [👉ici](https://grist.numerique.gouv.fr/o/isn/forms/4QncvyEckeLHhdfRYFUxJF/7)
+Les [référents métiers](https://doc.incubateur.net/communaute/solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/laide-au-recrutement-des-referents-metiers) sont disponibles pour t'aider dans la préparation de ton annonce. Pour prendre un rendez-vous d'accompagnement, [👉 complète ce formulaire](https://grist.numerique.gouv.fr/o/isn/forms/4QncvyEckeLHhdfRYFUxJF/7)
 
 ## Qu'est-ce que Welcome to the Jungle ?
 
-Le programme beta.gouv.fr [dispose d’une page sur la plateforme “Welcome to the Jungle”](https://www.welcometothejungle.com/fr/companies/communaute-beta-gouv) qui permet d’attirer des profils pertinents pour le réseau beta.gouv.fr. Tu peux publier ton offre sur la page vitrine de beta.gouv.fr, puis tu pourras y recevoir et y gérer les candidatures.
+Le programme beta.gouv.fr [dispose d’une page sur la plateforme “Welcome to the Jungle”](https://www.welcometothejungle.com/fr/companies-v1/communaute-beta-gouv) qui permet d’attirer des profils pertinents pour le réseau beta.gouv.fr. Tu peux publier ton offre sur la page vitrine de beta.gouv.fr, puis tu pourras y recevoir et y gérer les candidatures.
 
 <figure><img src="../../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
@@ -29,33 +29,25 @@ Si tu as trouvé la ou les bonnes personnes, bravo ! Pense à archiver l'annonce
 
 ✅ **Synthèse des points essentiels à respecter sur Welcome to the Jungle :**
 
-1. **Nommer le titulaire du marché** si c'est une offre de prestation:\
-   Il est impératif de mentionner clairement qui est le titulaire du marché dans l’offre. Tu dois aussi avoir contacté ce titulaire.
-2. **Mentionner dans le titre de l’offre que c’est une mission.** Par exemple : \[Mission]Chargé de déploiement pour Envergo.
-3. **Indiquer qu'un embarquement est obligatoire pour les missions** dont le volume prévu est supérieur à 17 500 euros (environ 3 jours semaine pendant 3 mois). "Un embarquement est obligatoire. Il est composé d'une journée en présentiel et de 6 visios de 1h répartie sur deux mois. Il te permettra de rencontrer la communauté, de comprendre l'écosystème publique et de connaitre les standards de qualité beta.gouv.fr"
-4. **Indiquer une date de fin de diffusion** :\
-   Il te faut ajouter une **date limite de publication** visible dans l’annonce. Cela permet de garantir **l’équité entre tous les candidats** en leur donnant les mêmes chances de postuler.
-5. **Rédiger les intitulés de mission en écriture inclusive**:\
-   Pour limiter les biais de genre dès la lecture de la fiche de poste, élargir le champ des candidatures et favoriser l’identification d’un public plus diversifié.
+1. **Nommer le titulaire du marché.** Si c'est une offre de prestation, il est impératif de mentionner clairement qui est le titulaire du marché dans l’offre. Tu dois aussi avoir contacté ce titulaire.
+2. **Mentionner dans le titre de l’offre que c’est une mission.** Par exemple : \[Mission] Chargé de déploiement pour Envergo.
+3. **Indiquer qu'un embarquement est obligatoire** pour les missions dont le volume prévu est supérieur à 17 500 euros (environ 3 jours/semaine pendant 3 mois). "Un embarquement est obligatoire. Il est composé d'une journée en présentiel et de 6 visios de 1h réparties sur deux mois. Il te permettra de rencontrer la communauté, de comprendre l'écosystème public et de connaitre les standards de qualité beta.gouv.fr"
+4. **Indiquer une date de fin de diffusion** visible dans l’annonce. Cela permet de garantir **l’équité entre tous les candidats** en leur donnant les mêmes chances de postuler.
+5. **Rédiger les intitulés de mission en écriture inclusive** pour limiter les biais de genre dès la lecture de la fiche de poste, élargir le champ des candidatures et favoriser l’identification d’un public plus diversifié.
 
 ## Obtenir un accès au Welcome to the Jungle
 
-Chaque incubateur a désigné un **référent** chargé de gérer les accès à la plateforme pour ses membres.
+Chaque incubateur a désigné un **référent** chargé de gérer les accès à la plateforme pour ses membres. Pour obtenir un accès, il te suffit de **👉 contacter ton référent incubateur**. Si tu ne reçois pas de réponse, tu peux alors te tourner vers le **référent ISN**.
 
-👉 Pour obtenir un accès, il te suffit de **contacter ton référent incubateur**.\
-Si tu ne reçois pas de réponse, tu peux alors te tourner vers le **référent ISN**.
+Les profils avec accès restreints n’ont accès qu’aux candidatures sur l’offre sur laquelle ils ont été nommés. **Seuls les agents publics peuvent avoir un accès sans restriction (statut "membre").**
 
-Les profils avec accès restreints n’ont accès qu’aux candidatures sur l’offre sur laquelle ils ont été nommés.
-
-**Seuls les agents publics peuvent avoir un accès sans restriction (statut "membre").**
-
-<table><thead><tr><th>Incubateur</th><th>Référent WTTJ</th><th data-hidden></th></tr></thead><tbody><tr><td>Accélérateur de la transition écologique (ADEME) :</td><td><p><a href="mailto:lilian.sagetlethias@beta.gouv.fr">Lilian Saget lethias</a></p><p><br></p></td><td></td></tr><tr><td>Atelier numérique de la Culture</td><td><a href="mailto:amel.alili@beta.gouv.fr">Amel Alili</a></td><td></td></tr><tr><td>Fabrique des géocommuns (IGN)</td><td><a href="mailto:nicolas.berthelot@ign.fr"><code>Nicolas Berthelot</code></a></td><td></td></tr><tr><td>Fabrique numérique de l’Ecologie (MTE):</td><td><a href="mailto:fabrique.numerique@developpement-durable.gouv.fr">Gaspard Granger</a></td><td></td></tr><tr><td>Fabrique numérique des Armées</td><td><a href="mailto:amel.alili@beta.gouv.fr">Amel Alili</a></td><td></td></tr><tr><td>Incubateur de la Justice</td><td><a href="mailto:maryline.araujo@justice.gouv.fr">Maryline Araujo</a></td><td></td></tr><tr><td>Incubateur de Service Numérique de la DINUM</td><td><a href="mailto:amel.alili@beta.gouv.fr">Amel Alili</a></td><td></td></tr><tr><td>Incubateur des Territoires (ANCT)</td><td><a href="mailto:benjamin.mittet-breme@anct.gouv.fr">Benjamin Mittet-Breme</a></td><td></td></tr><tr><td>Accélérema (CEREMA)</td><td><a href="mailto:perrine.rutkowski@beta.gouv.fr">Perrine Rutkowski</a></td><td></td></tr><tr><td>Incubateur du MASA</td><td><a href="mailto:jennifer.stephan@beta.gouv.fr">Jennifer Stephan</a></td><td></td></tr><tr><td>Incubateur France Travail</td><td><a href="mailto:sabrina.bentenah@francetravail.fr">Sabrina Bentenah</a></td><td></td></tr><tr><td>Mission interministérielle pour l’apprentissage</td><td><a href="mailto:amel.alili@beta.gouv.fr">Amel Alili</a></td><td></td></tr><tr><td>Atelier Numérique du Ministère de l'Europe et des Affaires Etrangères</td><td><a href="mailto:noemie.peignier@diplomatie.gouv.fr">Noémie Peignier</a></td><td></td></tr><tr><td>Opérateur de produits interministériels (OPI)</td><td><a href="mailto:florian.delezenne@beta.gouv.fr">Florian Delezenne</a></td><td></td></tr><tr><td>Plateforme de l'inclusion</td><td><a href="mailto:adele.de.pimodan@beta.gouv.fr">Adele de Pimodan</a></td><td></td></tr></tbody></table>
+<table><thead><tr><th>Incubateur</th><th>Référent WTTJ</th><th data-hidden></th></tr></thead><tbody><tr><td>Accélérateur de la transition écologique (ADEME) :</td><td><p><a href="mailto:lilian.sagetlethias@beta.gouv.fr">Lilian Saget lethias</a></p></td><td></td></tr><tr><td>Atelier numérique de la Culture</td><td><a href="mailto:amel.alili@beta.gouv.fr">Amel Alili</a></td><td></td></tr><tr><td>Fabrique des géocommuns (IGN)</td><td><a href="mailto:nicolas.berthelot@ign.fr">Nicolas Berthelot</a></td><td></td></tr><tr><td>Fabrique numérique de l’Ecologie (MTE):</td><td><a href="mailto:fabrique.numerique@developpement-durable.gouv.fr">Gaspard Granger</a></td><td></td></tr><tr><td>Fabrique numérique des Armées</td><td><a href="mailto:amel.alili@beta.gouv.fr">Amel Alili</a></td><td></td></tr><tr><td>Incubateur de la Justice</td><td><a href="mailto:maryline.araujo@justice.gouv.fr">Maryline Araujo</a></td><td></td></tr><tr><td>Incubateur de Service Numérique de la DINUM</td><td><a href="mailto:amel.alili@beta.gouv.fr">Amel Alili</a></td><td></td></tr><tr><td>Incubateur des Territoires (ANCT)</td><td><a href="mailto:benjamin.mittet-breme@anct.gouv.fr">Benjamin Mittet-Breme</a></td><td></td></tr><tr><td>Accélérema (CEREMA)</td><td><a href="mailto:perrine.rutkowski@beta.gouv.fr">Perrine Rutkowski</a></td><td></td></tr><tr><td>Incubateur du MASA</td><td><a href="mailto:jennifer.stephan@beta.gouv.fr">Jennifer Stephan</a></td><td></td></tr><tr><td>Incubateur France Travail</td><td><a href="mailto:sabrina.bentenah@francetravail.fr">Sabrina Bentenah</a></td><td></td></tr><tr><td>Mission interministérielle pour l’apprentissage</td><td><a href="mailto:amel.alili@beta.gouv.fr">Amel Alili</a></td><td></td></tr><tr><td>Atelier Numérique du Ministère de l'Europe et des Affaires Etrangères</td><td><a href="mailto:noemie.peignier@diplomatie.gouv.fr">Noémie Peignier</a></td><td></td></tr><tr><td>Opérateur de produits interministériels (OPI)</td><td><a href="mailto:florian.delezenne@beta.gouv.fr">Florian Delezenne</a></td><td></td></tr><tr><td>Plateforme de l'inclusion</td><td><a href="mailto:adele.de.pimodan@beta.gouv.fr">Adele de Pimodan</a></td><td></td></tr></tbody></table>
 
 **Pour toutes les autres demandes ou pour modifier la liste des référents,** merci d'envoyer un mail à [contact@beta.gouv.fr.](mailto:contact@beta.gouv.fr)
 
 {% embed url="https://docs.google.com/presentation/d/1Fmdjm5Qw39TeyRRvC7wRQaFsNRJIaYBZKXlfRfbY8Tk/edit#slide=id.g2dba877299c_3_278" %}
 
-## 🔎 Obligation à respecter dans la publication d'une offre sur Welcome to the Jungle
+## 🔎 Obligations à respecter dans la publication d'une offre sur Welcome to the Jungle
 
 Pour publier concrètement une offre sur ton profil **Welcome to the Jungle**, il suffit de cliquer sur le bouton **“Nouvelle offre d'emploi”**.
 
@@ -63,7 +55,7 @@ Pour publier concrètement une offre sur ton profil **Welcome to the Jungle**, i
 
 Lorsque tu publies une offre de mission pour un prestataire, en particulier un indépendant, sur Welcome to the jungle ou sur une autre plateforme ou réseau, il est essentiel que celle-ci ne puisse pas être confondue avec une offre de recrutement, même temporaire.
 
-Voici les bonnes pratiques et règles à suivre pour que l’utilisation de la plateforme respecte le cadre légal :
+Voici les bonnes pratiques et règles à suivre pour respecter le cadre légal :
 
 #### 1. Indiquer clairement qu’il s’agit d’une mission <a href="#id-1-indiquer-clairement-quil-sagit-dune-mission" id="id-1-indiquer-clairement-quil-sagit-dune-mission"></a>
 
@@ -82,14 +74,17 @@ Voici les bonnes pratiques et règles à suivre pour que l’utilisation de la p
 
 #### 3. Une personne en prestation est libre de s’organiser pour répondre à sa mission <a href="#id-3-une-personne-en-prestation-est-libre-de-sorganiser-pour-repondre-a-sa-mission" id="id-3-une-personne-en-prestation-est-libre-de-sorganiser-pour-repondre-a-sa-mission"></a>
 
-Tu peux toutefois indiquer des conditions pour réussir cette dernière. Par exemple, tu ne peux pas imposer d’horaires ni des jours spécifiques de la semaine. En revanche, il est possible de demander à ce que la personne travaille en présentiel avec l’équipe ou qu’elle s’adapte aux horaires des usagers.
+Tu peux toutefois indiquer des conditions pour réussir cette dernière. Par exemple, tu ne peux pas imposer d’horaires ni de jours spécifiques de la semaine. En revanche, il est possible de demander à ce que la personne travaille en présentiel avec l’équipe ou qu’elle s’adapte aux horaires des usagers.
 
-4. **Indiquer qu'un embarquement est obligatoire pour les missions** dont le volume prévu est supérieur à 17 500 euros (environ 3 jours semaine pendant 3 mois). "Un embarquement est obligatoire. Il est composé d'une demi journée en présentiel et de 6 visios de 1h répartie sur un mois. Il te permettra de rencontrer la communauté, de comprendre l'écosystème publique et de connaitre les standards de qualité beta.gouv.fr"
-5. **Renvoyer** [**vers notre documentation sur les indépendants**](https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/les-differents-statuts/independants-freelances)**.**
+#### 4. Indiquer qu'un embarquement est obligatoire pour les missions dont le volume prévu est supérieur à 17 500 euros (environ 3 jours semaine pendant 3 mois). 
+
+"Un embarquement est obligatoire. Il est composé d'une journée en présentiel et de 6 visios de 1h réparties sur un mois. Il te permettra de rencontrer la communauté, de comprendre l'écosystème public et de connaitre les standards de qualité beta.gouv.fr"
+
+#### 5. **Renvoyer** [**vers notre documentation sur les indépendants**](https://doc.incubateur.net/communaute/travailler-chez-beta.gouv.fr/les-differents-statuts/independants-freelances)**.**
 
 ## Paramétrer le formulaire de candidature
 
-Il est recommandé d'ajouter quelques 2-3 au formulaire de candidature _WTTJ_. C'est un excellent premier moyen de faire le filtre sur tes critères obligatoires ou à pondération maximale. Sur le formulaire, privilégie les questions binaires (oui / non, choix multiples simples). Elles demandent peu de traitement côté recruteur, facilitent le tri automatique ou semi-automatique et évitent les interprétations subjectives.
+Il est recommandé d'ajouter quelques questions au formulaire de candidature _WTTJ_. C'est un excellent premier moyen de faire le filtre sur tes critères obligatoires ou à pondération maximale. Sur le formulaire, privilégie les questions binaires (oui / non, choix multiples simples). Elles demandent peu de traitement côté recruteur, facilitent le tri automatique ou semi-automatique et évitent les interprétations subjectives.
 
 Réserve les questions ouvertes aux éléments vraiment différenciants. Le formulaire doit t’aider à décider vite, pas à lire des lettres de motivation déguisées.
 
@@ -97,18 +92,20 @@ Réserve les questions ouvertes aux éléments vraiment différenciants. Le form
 
 Les annonces peuvent aussi être relayées auprès de communautés spécifiques, par exemple :
 
-* [DuchessFrance \[Women in tech\]](https://www.duchess-france.org/contact/)
+* [DuchessFrance \[Women in tech\]](https://www.duchess-france.fr/contact/)
 * [Ladies of code Paris](https://www.meetup.com/fr-FR/Ladies-of-Code-Paris/)
 * [PyLadies Paris](https://www.meetup.com/fr-FR/pyladiesparis/)
-* [WomenOnRails](./#aider-les-autres-a-recruter)
+* [WomenOnRails](https://women-on-rails.github.io/ressources/)
 
-Le compte LinkedIn de beta.gouv.fr est un excellent relais pour diffuser l'annonce. Tu peux consulter cet [article](https://doc.incubateur.net/communaute/gerer-son-produit/gestion-au-quotidien/renforcer-l-equipe/publier-une-offre-de-mission-sur-le-compte-linkedin-de-beta.gouv.fr) pour comprendre comment publier sur le LinkedIn de beta.gouv.fr. En utilisant ces techniques de multi-diffusion tu maximises tes chances de toucher un public plus large. Ainsi tu t'assures plus de candidatures entrantes. Pour que ces candidatures soient le plus qualifées possible, c'est la qualité de la rédaction/précision de ton offre que aidera à faire le tri.
+Le compte LinkedIn de beta.gouv.fr est un excellent relais pour diffuser l'annonce. Tu peux consulter cet [article](https://doc.incubateur.net/communaute/gerer-son-produit/gestion-au-quotidien/renforcer-l-equipe/publier-une-offre-de-mission-sur-le-compte-linkedin-de-beta.gouv.fr) pour comprendre comment publier sur le LinkedIn de beta.gouv.fr. 
+
+En utilisant ces techniques de multi-diffusion tu maximises tes chances de toucher un public plus large et tu t'assures plus de candidatures entrantes. La qualité de la rédaction de ton offre t'aidera à faire le tri et à repérer les candidatures les plus qualifiées. 
 
 ## Gérer les candidatures
 
 Le _Welcome Kit_ permet de gérer l’ensemble des candidatures reçues de l'extérieur.
 
-Les candidatures arrivent sous forme de carte dans un tableau type kanban que tu peux modifier. En fonction de tess échanges avec le candidat, déplace la carte dans la colonne correspondante.
+Les candidatures arrivent sous forme de carte dans un tableau type kanban que tu peux modifier. Déplace la carte dans la colonne correspondante en fonction de tes échanges avec le candidat.
 
 <details>
 
@@ -122,15 +119,15 @@ Tu dois répondre à tous les candidats :\
 _**Donner une visibilité aux candidats**_\
 Ne bloque pas les candidats et indique dès le départ à quelle date tu rendras ta décision et le processus de recrutement prévu
 
-_**En cas de diffusion d’une offre en prestation liée aux marchés beta.gouv bien associer le titulaire du marché tout au long du process**_\
-La plateforme Welcome to the Jungle est un outil supplémentaire qui permet d’augmenter les chances de mobiliser les meilleurs profils en prestations, via les marchés publics du réseau beta.gouv.fr.
+_**En cas de diffusion d’une offre en prestation liée aux marchés beta.gouv.fr, bien associer le titulaire du marché tout au long du process**_\
+La plateforme Welcome to the Jungle est un outil supplémentaire qui permet d’augmenter les chances de mobiliser les meilleurs profils en prestation, via les marchés publics du réseau beta.gouv.fr.
 
 _**Rappeler les valeurs de beta**_\
-Rappele lors des échanges, l’importance des valeurs de beta et de notre culture de travail. Assure toi que le candidat les a lues et s'y reconnait.\
+Rappelle lors des échanges l’importance des valeurs de beta et de notre culture de travail. Assure-toi que le candidat les a lues et s'y reconnait.\
 \\
 
 _**Aller voir les candidatures spontanées**_\
-Le site vitrine du Welcome to the jungle permet les candidatures spontanées, n’hésite pas à regarder si des profils peuvent t'intéresser. Pour ce faire il faut se rendre dans l’offre “candidature spontanée”.
+Le site vitrine de Welcome to the jungle permet les candidatures spontanées, alors n’hésite pas à regarder si des profils peuvent t'intéresser. Pour ce faire il faut se rendre dans la rubrique “candidature spontanée”.
 
 _**Mettre à jour le Welcome Kit**_\
 Mettre à jour la carte des candidats tout au long du process de sélection.\
@@ -140,7 +137,7 @@ _**Faire attention aux biais**_\
 Nous sommes tous biaisés, nous t'invitons fortement à y faire attention et [à te sensibiliser](https://mozaikrh.com/11-biais-cognitifs-a-connaitre-pour-mieux-recruter/) si ce n'est pas déjà fait !\
 \
 \&#xNAN;_**Rester respectueux dans ses commentaires**_\
-Les commentaires que tu laisseras sur la fiche d'un candidat seront accessibles à toute la communauté, reste donc professionnel et respectueux. Par ailleurs, la loi condamne tout propos discriminant ou haineux. Enfin, un candidat peut te demander d'avoir accès aux informations que tu as sur lui dont les commentaires.
+Reste professionnel et respectueux : les commentaires que tu laisseras sur la fiche d'un candidat seront accessibles à toute la communauté. Par ailleurs, la loi condamne tout propos discriminant ou haineux. Enfin, un candidat peut te demander d'avoir accès aux informations que tu as sur lui, dont les commentaires.
 
 </details>
 
@@ -150,13 +147,13 @@ Il peut arriver que tes réponses aux candidatures finissent dans les spams des 
 
 Pour éviter cela, nous te conseillons de :
 
-* Changer l'objet du mail : enleve le prénom de la personne et privilégie un objet plus court : "Candidature reçue pour _nom du poste_ "\\
-* Evite au maximum d'ajouter des liens externes dans tes réponses, ou alors raccourci le lien dans la mesure du possible.\\
-* Ajoute dans la partie "Déroulement de l'entretien" de tes offres ainsi que dans le template automatique de confirmation de candidature, une phrase conseillant tes candidats à se connecter régulièrement à leur espace Welcome to the Jungle pour consulter leurs messages (les échanges sont retranscrits directement et ne peuvent pas tomber dans les spams par ce biais).
+* Changer l'objet du mail : enlève le prénom de la personne et privilégie un objet plus court : "Candidature reçue pour _nom du poste_ "\\
+* Évite au maximum d'ajouter des liens externes dans tes réponses, ou alors raccourcis le lien dans la mesure du possible.\\
+* Ajoute dans la partie "Déroulement de l'entretien" de tes offres, ainsi que dans le template automatique de confirmation de candidature, une phrase conseillant tes candidats à se connecter régulièrement à leur espace Welcome to the Jungle pour consulter leurs messages (les échanges sont retranscrits directement et ne peuvent pas tomber dans les spams par ce biais).
 
 ## Exemples concrets
 
 Voici un exemple de fiche annonce pour :
 
-* [Un·e Developpeurr·se](https://docs.numerique.gouv.fr/docs/1b9783cd-637c-4d95-9b95-a44ccded925c/)
+* [Un·e Développeur·se](https://docs.numerique.gouv.fr/docs/1b9783cd-637c-4d95-9b95-a44ccded925c/)
 * [Un·e PO/PM](https://docs.numerique.gouv.fr/docs/d3c5f784-778d-4d66-948b-c04f67200646/)
