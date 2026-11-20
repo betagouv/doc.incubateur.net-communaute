@@ -32,13 +32,11 @@ Un produit transféré est repris et opéré par une structure qui ne relève pl
 
 Il ne bénéficie alors plus des moyens associés à l’incubation ou à l’opération du produit dans le réseau, notamment l’URL en `beta.gouv.fr`, les marchés et les outils transverses.
 
-La documentation et les ressources de la communauté ainsi que l’espace Tchap restent accessibles. La participation à certains événements beta.gouv.fr peut également rester possible selon leur objet et leur public.
+La documentation et les ressources sur les pratiques de la communauté restent accessibles. La participation à certains événements beta.gouv.fr peut également rester possible selon leur objet et leur public.
 
 La sortie doit donc être anticipée afin d’identifier les moyens dont dépend encore le produit et d’organiser, lorsque cela est nécessaire, leur reprise ou leur remplacement.
 
 ## Synthèse des services accessibles
-
-### Synthèse des services accessibles
 
 <table data-header-hidden data-search="false"><thead><tr><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Service ou ressource</strong></td><td><strong>Produit en incubation</strong> (investigation, construction, accélération, consolidation)</td><td><strong>Produit opéré dans le réseau beta.gouv.fr</strong></td><td><strong>Produit transféré hors du réseau</strong></td></tr><tr><td>Fiche produit beta.gouv.fr tenue à jour</td><td>✅</td><td>✅</td><td>/</td></tr><tr><td>Respect des standards et matrice d’impact</td><td>✅</td><td>✅</td><td>/</td></tr><tr><td>URL en <code>beta.gouv.fr</code></td><td>✅</td><td>URL à changer en phase de consolidation</td><td>/</td></tr><tr><td>Marché produit</td><td>✅</td><td>✅</td><td>/</td></tr><tr><td>Marché de mentorat</td><td>✅</td><td>✅</td><td>/</td></tr><tr><td>Outils et dispositifs transverses</td><td>✅</td><td>Accès possible, avec un objectif d’autonomie</td><td>/ </td></tr><tr><td>Événements beta.gouv.fr</td><td>✅</td><td>✅</td><td>Selon le type d’événement</td></tr><tr><td>Espace Tchap beta.gouv.fr</td><td>✅</td><td>✅</td><td>/</td></tr><tr><td>Documentation et ressources</td><td>✅</td><td>✅</td><td>✅</td></tr></tbody></table>
 
