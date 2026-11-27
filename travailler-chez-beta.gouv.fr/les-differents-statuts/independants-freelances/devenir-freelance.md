@@ -47,19 +47,23 @@ Il existe différents statuts juridiques pour les sociétés. Voici un aperçu d
 
 L’auto-entreprise est une **entreprise individuelle** qui relève du régime fiscal de la micro-entreprise et du régime micro-social pour le paiement des cotisations et contributions sociales. Ce régime simplifié a été créé pour faciliter les démarches de création et de gestion de votre activité, tout en vous permettant de bénéficier d’une protection sociale dédiée et d’autres avantages : une protection sociale, des formalités administratives simplifiées, une protection sociale, un droit à la formation professionnelle...
 
-L’auto-entrepreneur peut exercer en tant qu’artisan, commerçant ou profession libérale, et ce, à titre principal (exclusivement auto-entrepreneur) ou complémentaire (en parallèle d’un statut de salarié, retraité, étudiant…).
+L’auto-entrepreneur peut exercer en tant qu’artisan, commerçant ou profession libérale, et ce, à titre principal (exclusivement auto-entrepreneur) ou complémentaire (en parallèle d’un statut de salarié, retraité, étudiant…)
 
 ## \[Auto-entreprise] Comment savoir quand on dépasse le plafond de revenus auto-entrepreneur ?
 
-Pour bénéficier du régime de la micro-entreprise, votre chiffre d’affaires annuel ne doit pas dépasser, pour une année civile complète, les plafonds suivants :
+Pour bénéficier du régime de la micro-entreprise, votre chiffre d’affaires annuel ne doit pas dépasser, pour une année civile complète, les plafonds suivants ([chiffres 2026](https://www.autoentrepreneur.urssaf.fr/portail/accueil/sinformer-sur-le-statut/toutes-les-actualites/2026--modification-des-seuils-de.html)) :
 
-* 176 200 € pour une activité de vente de marchandises, d’objets, de fournitures, de denrées à emporter ou à consommer sur place, ou pour des prestations d’hébergement, y compris les meublés de tourisme classés, à l’exception de la location de locaux d’habitation meublés dont le seuil est de 70 000 € ;
-* **72 600 € pour les prestations de services relevant de la catégorie des bénéfices industriels et commerciaux (BIC) ou des bénéfices non commerciaux (BNC) ;**
-* En cas d’activité mixte (vente et prestations de services), le chiffre d’affaires global ne doit pas dépasser 176 200 € incluant un chiffre d’affaires maximal de 72 600 € pour les prestations de services.
+* 203 100 € pour les activités de vente de marchandises, de vente à consommer sur place et de fourniture de logement (hors location meublée autre que meublé de tourisme ou chambre d’hôte) (1ère catégorie) ;
+* **83 600 € pour les prestations de services relevant de la catégorie des bénéfices industriels et commerciaux (BIC) ou des bénéfices non commerciaux (BNC) (2ème catégorie) ;**
+* 15 000 € (seuil identique pour 2026-2028) pour les locations de meublé de tourisme non classé.
 
-L'URSSAF est censé nous informer au moment du dépassement de plafond.
+En cas d’activité mixte (vente et prestations de services), le chiffre d’affaires global ne doit pas dépasser 203 100 € incluant un chiffre d’affaires maximal de 83 600 € pour les prestations de services.
 
-Cependant, nous conseillons de bien suivre le cumul de ses revenus et faire le calcul soi-même pour repérer et anticiper ce dépassement. Suggestion : faire un tableur simple de suivi des recettes pour anticiper les différents plafonds.
+En cas de dépassement, [deux situations sont possibles](https://www.impots.gouv.fr/professionnel/questions/pour-rester-micro-entrepreneur-quel-montant-de-chiffre-daffaires-ou-de) :
+* dépassement des seuils sur une seule année : conservation du régime fiscal du micro-entrepreneur
+* dépassement des seuils sur deux années consécutives : perte du régime fiscal du micro-entrepreneur au 01/01/N+1
+
+L'URSSAF est censé vous informer au moment du dépassement de plafond. Cependant, nous conseillons de bien suivre le cumul de ses revenus et faire le calcul soi-même pour repérer et anticiper ce dépassement. Suggestion : faire un tableur simple de suivi des recettes pour anticiper les différents plafonds.
 
 ## \[Auto-entreprise] Quel est le régime le plus avantageux quand on a dépassé le plafond de CA pour une auto-entreprise ?
 
@@ -78,14 +82,13 @@ Note : Attention à ne pas se limiter en TJM "pour éviter de sortir du régime 
 
 ## \[Auto-entreprise] Quand on a opté pour le versement libératoire de l'impôt sur le revenu, que faut-il déclarer aux impôts ?
 
-Il faut déclarer le chiffre d’affaires Hors Taxe, sans abattement dans la rubrique “Micro-entrepreneur (auto-entrepreneur) ayant opté pour le versement libératoire de l’impôt sur le revenu”. Si vous êtes profession libérale (développeur, coach, bizdev, à peu près toutes les professions de beta), la catégorie des revenus est “micro-BNC”[ \[source\]](https://www.impots.gouv.fr/portail/professionnel/questions/en-tant-que-micro-entrepreneur-quelles-sont-les-modalites-de-declaration-et). Le montant déclaré est non imposable (puisque déjà imposé au titre du prélèvement libératoire).
+Il faut déclarer le chiffre d’affaires Hors Taxe, sans abattement dans la rubrique “Micro-entrepreneur (auto-entrepreneur) ayant opté pour le versement libératoire de l’impôt sur le revenu”. Si vous êtes profession libérale (développeur, coach, bizdev, à peu près toutes les professions de beta), la catégorie des revenus est “micro-BNC”[\[source\]](https://www.impots.gouv.fr/portail/professionnel/questions/en-tant-que-micro-entrepreneur-quelles-sont-les-modalites-de-declaration-et). Le montant déclaré est non imposable (puisque déjà imposé au titre du prélèvement libératoire).
 
 ## \[Auto-entreprise] Versement libératoire ou non : comment choisir ?
 
 Déjà, il faut [obéir aux conditions](https://www.impots.gouv.fr/portail/professionnel/le-versement-liberatoire), notamment en terme de plafond sur le revenu fiscal de référence du ménage. Si on peut souscrire à cette option, alors on peut utiliser le simulateur auto-entrepreneur pour voir si elle est intéressante. Globalement, plus le CA projeté est élevé, plus le montant des impôts sera réduit par rapport au barème standard.
 
-* [Simulation avec 50000€ de CA et versement libératoire](https://mon-entreprise.fr/simulateurs/auto-entrepreneur?dirigeant+.+auto-entrepreneur+.+chiffre+d%27affaires=50000%E2%82%AC%2Fan\&dirigeant+.+auto-entrepreneur+.+imp%C3%B4t+.+versement+lib%C3%A9ratoire=oui\&entreprise+.+ACRE=non\&entreprise+.+activit%C3%A9=%27lib%C3%A9rale%27\&entreprise+.+activit%C3%A9+.+lib%C3%A9rale+r%C3%A9glement%C3%A9e=non\&entreprise+.+date+de+cr%C3%A9ation=%2701%2F01%2F2021%27)
-* [Simulation avec 50000€ de CA, célibataire sans enfant](https://mon-entreprise.fr/simulateurs/auto-entrepreneur?dirigeant+.+auto-entrepreneur+.+chiffre+d%27affaires=50000%E2%82%AC%2Fan\&dirigeant+.+auto-entrepreneur+.+imp%C3%B4t+.+versement+lib%C3%A9ratoire=non\&entreprise+.+ACRE=non\&entreprise+.+activit%C3%A9=%27lib%C3%A9rale%27\&entreprise+.+activit%C3%A9+.+lib%C3%A9rale+r%C3%A9glement%C3%A9e=non\&entreprise+.+date+de+cr%C3%A9ation=%2701%2F01%2F2021%27\&imp%C3%B4t+.+m%C3%A9thode+de+calcul=%27bar%C3%A8me+standard%27)
+[Simulateur de revenus auto-entrepreneur](https://mon-entreprise.urssaf.fr/simulateurs/auto-entrepreneur)
 
 ## Le régime micro-fiscal : kezako?
 
@@ -109,11 +112,9 @@ Le régime du micro-social ne permet pas au micro-entrepreneur de percevoir des 
 
 ## Comment et quand détecter le dépassement du plafond de TVA ?
 
-**Jusqu’à un certain plafond annuel du chiffre d’affaires, les travailleurs indépendants ne sont pas redevables de la TVA et bénéficient de la « franchise en base de TVA ».** Pour une activité de prestation de services (le plus courant chez beta), ce plafond est de 35 200 € de chiffre d’affaires (à condition d’avoir un chiffre d’affaires inférieur à 33 200 € l’année précédente). Au-delà de ce niveau de chiffre d’affaires, le freelance devient redevable de la TVA, c’est-à-dire qu’il collecte de la TVA pour le compte de l’Etat et qu’en contrepartie, il peut déduire la TVA payée sur ses dépenses.
+**Jusqu’à un certain plafond annuel du chiffre d’affaires, les travailleurs indépendants ne sont pas redevables de la TVA et bénéficient de la « [franchise en base de TVA](https://entreprendre.service-public.gouv.fr/vosdroits/F21746) ».** Pour une activité de prestation de services (le plus courant chez beta), ce plafond est de 41 250 € de chiffre d’affaires (à condition d’avoir un chiffre d’affaires inférieur à 37 500 € l’année précédente). Au-delà de ce niveau de chiffre d’affaires, le freelance devient redevable de la TVA, c’est-à-dire qu’il collecte de la TVA pour le compte de l’Etat et qu’en contrepartie, il peut déduire la TVA payée sur ses dépenses.
 
 De même que pour le dépassement de plafond de revenus en auto-entreprise, nous conseillons de bien suivre le cumul de ses revenus et faire le calcul soi-même.
-
-Attention, la **première** facture responsable du dépassement doit prendre en compte la TVA.
 
 ## **Quelle type d'assurance pour un indépendant chez beta ?**
 
@@ -125,7 +126,7 @@ Attention, la **première** facture responsable du dépassement doit prendre en 
 Auto-entrepreneur : L'assurance Responsabilité Civile Pro n'est obligatoire que dans certains cas.\
 Lorsque que vous exercez une profession libérale non réglementée (le plus fréquent chez beta), ce n'est pas obligatoire.
 
-Cependant, "Dans votre activité d’auto-entrepreneur, vous êtes tenu responsable personnellement en cas de dommage matériel ou corporel causé à autrui. Contrairement à d’autres types d’entreprises, **votre responsabilité est dite illimitée ce qui signifie que votre patrimoine personnel peut être saisi en cas de sinistre** ayant lieu pendant votre activité professionnelle." (source [https://www.portail-autoentrepreneur.fr/academie/creation-auto-entreprise/rc-pro](https://www.portail-autoentrepreneur.fr/academie/creation-auto-entreprise/rc-pro)) -> si tu perds le data de ton administration ou si tu casses l'imprimante, tu payes.
+Cependant, "Dans votre activité d’auto-entrepreneur, vous êtes tenu responsable personnellement en cas de dommage matériel ou corporel causé à autrui. Contrairement à d’autres types d’entreprises, **votre responsabilité est dite illimitée, ce qui signifie que votre patrimoine personnel peut être saisi en cas de sinistre** ayant lieu pendant votre activité professionnelle" ([source](https://www.portail-autoentrepreneur.fr/academie/creation-auto-entreprise/rc-pro)). Si tu perds le data de ton administration ou si tu casses l'imprimante, tu payes.
 
 ## Pourquoi choisir le portage salarial ?
 
